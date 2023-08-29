@@ -1380,171 +1380,158 @@ dateFormatString,{0} der {1}{2} um {3:00},,,
 ingredientFormatString,{0} {1},,,
 longWeaponNameFormatString,{0} {1},,,
 longArmorNameFormatString,{0} {1},,,
-strRatings,"pathetic
-frail
-weak
-below average
-about average
-fairly strong
-athletic
-very strong
-powerful
-superhuman",,,
-intRatings,"vegetable-like
-idiotic
-half-witted
-dim
-about average
-cunning
-fairly clever
-very intelligent
+strRatings,"müde
+matt
+kraftlos
+kraftvoll
+recht stark
+stark
+sehr stark
+gewaltig
+Übermächtig",,,
+intRatings,"vegetativ
+tumb
+idiotisch
+schummrig
+gewitzt
+recht klug
+sehr intelligent
 brilliant
-genius",,,
-wilRatings,"inane
-submissive
-passive
-distracted
-unassertive
-stable
-confident
-strong-willed
-very focused
-enlightened",,,
-agiRatings,"oafish
-bumbling
-clumsy
-awkward
-about average
-spry
-nimble
-dexterous
-very agile
-acrobatic
-",,,
-endRatings,"sickly
-pitiable
-unsteady
-erratic
-about average
-above average
-very healthy
-hardy
-titanic
-immortal",,,
-perRatings,"abhorrent
-unpopular
-anonymous
-unassuming
-unremarkable
-interesting
-charming
-arresting
-authoritative
-charismatic",,,
-spdRatings,"inactive
-sluggish
-very slow
-slow
-about average
-above average
-fast
-fleet-footed
-lightning-fast
-meteoric",,,
-lucRatings,"cursed
-hopeless
-ill-favored
-unfortunate
-about average
-fairly lucky
-lucky
-fortunate
-very auspicious
-divinely favored",,,
-Mage,Mage,,,
-Spellsword,Spellsword,,,
-Battlemage,Battlemage,,,
-Sorcerer,Sorcerer,,,
-Healer,Healer,,,
-Nightblade,Nightblade,,,
-Bard,Bard,,,
-Burglar,Burglar,,,
-Rogue,Rogue,,,
-Acrobat,Acrobat,,,
-Thief,Thief,,,
-Assassin,Assassin,,,
-Monk,Monk,,,
-Archer,Archer,,,
-Ranger,Ranger,,,
-Barbarian,Barbarian,,,
-Warrior,Warrior,,,
-Knight,Knight,,,
-Custom,Custom,,,
-darkBrotherhoodRanks,"Apprentice
-Journeyman
+Genial",,,
+wilRatings,"submissiv
+passiv
+abgelenkt
+zögerlich
+stabil
+überzeugt
+entschlossen
+zielstrebig
+Erleuchtet",,,
+agiRatings,"tölpelhaft
+unbeholfen
+plump
+ungelenk
+flink
+agil
+gewandt
+sehr agil
+Akrobatisch",,,
+endRatings,"kränklich
+erbärmlich
+unstet
+erratisch
+beharrlich
+ausdauernd
+zäh
+titanisch
+Unsterblich",,,
+perRatings,"abstoßend
+unbeliebt
+unbekannt
+zurückhaltend
+unbedeutend
+interessant
+bezaubernd
+einnehmend
+gebieterisch
+Charismatisch",,,
+spdRatings,"inaktiv
+träge
+sehr langsam
+langsam
+schnell
+flinkfüßig
+blitzschnell
+Kometengleich",,,
+lucRatings,"verdammt
+hoffnungslos
+unbegünstigt
+glücklos
+recht glücklich
+glücklich
+begünstigt
+glückverheißend
+Göttergesegnet",,,
+Mage,Magieresistenz,,,
+Spellsword,Magierkrieger,,,
+Battlemage,Kampfmagier,,,
+Sorcerer,Hexer,,,
+Healer,Heiler,,,
+Nightblade,Nachtklinge,,,
+Bard,Barde,,,
+Burglar,Einbrecher,,,
+Rogue,Bandit,,,
+Acrobat,Akrobat,,,
+Thief,Diebstahl,,,
+Assassin,Assassine,,,
+Monk,Mönch,,,
+Archer,Schütze,,,
+Ranger,Waldläufer,,,
+Barbarian,Barbar,,,
+Warrior,Krieger,,,
+Knight,Ritter,,,
+Custom,Indiv.,,,
+darkBrotherhoodRanks,"Lehrling
+Geselle
 Operator
-Slayer
-Executioner
-Punisher
+Schlächter
+Henker
+Rächer
 Terminator
-Assassin
-Dark Brother
-Master Assassin",,,
-fightersRanks,"Apprentice
-Journeyman
-Swordsman
-Protector
-Defender
-Warder
-Guardian
-Champion
-Warrior
-Master",,,
-knightlyOrderRanks,"Aspirant
-Squire
-Gallant
+Dunkler Bruder
+Meisterassassine",,,
+fightersRanks,"Lehrling
+Geselle
+Schwertkämpfer
+Protektor
+Verteidiger
+Beschützer
+Wächter
+Kriegsfürst
+Meister",,,
+knightlyOrderRanks,"Anwärter
+Knappe
+Edelknecht
 Chevalier
-Keeper
-Knight Brother
-Commander
-Marshall
-Seneschal
+Hüter
+Ritterbruder
+Kommandant
+Marschall
+Seneschall
 Paladin",,,
-magesRanks,"Apprentice
-Journeyman
-Evoker
-Conjurer
-Magician
-Enchanter
-Warlock
-Wizard
-Master Wizard
-Archmage",,,
-templeRanks,"Novice
-Initiate
-Acolyte
+magesRanks,"Lehrling
+Geselle
+Gelehrter
+Beschwörer
+Magier
+Verzauberer
+Hexer
+Zauberer
+Hochmagier
+Erzmagier",,,
+templeRanks,"Novize
+Eingeweihter
+Akolyth
 Adept
-Curate
-Disciple
-Brother
-Diviner
-Master
+Kurator
+Jünger
+Bruder
+Prophet
 Patriarch",,,
-thievesRanks,"Apprentice
-Journeyman
-Filcher
-Crook
-Robber
+thievesRanks,"Lehrling
+Geselle
+Halunke
+Gauner
+Räuber
 Bandit
-Thief
-Ringleader
-Mastermind
-Master Thief",,,
-darkSister,Dark Sister,,,
-nonMember,non-member,,,
-knightSister,Knight Sister,,,
-matriarch,Matriarch,,,
-sister,Sister,,,
-daedricSkill,Daedric,,,
-orcishSkill,Orcish,,,
-midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3E{5},,,
+Hauptmann
+Anführer
+Meisterdieb",,,
+darkSister,Dunkle Schwester,,,
+nonMember,Nichtmitglied,,,
+knightSister,Ritterschwester,,,
+matriarch,Matriarchin,,,
+sister,Schwester,,,
+daedricSkill,Daedrisch,,,
+orcishSkill,Orkisch,,,
+midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3Ä{5},,,
