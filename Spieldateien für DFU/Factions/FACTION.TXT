@@ -200,11 +200,11 @@ maxf: 70
 	region: -1
 	power: 45
 	flags: 1
-	ally: 106
+	enemy: 106
 	enemy: 25
 	face: -1
 	race: -1
-	flat: 175 2
+	flat: 175 1
 	sgroup: 6
 	ggroup: 2
 	minf: 20
@@ -387,7 +387,7 @@ maxf: 70
 
 				#842
 				type: 3
-				name: Dunkle Verschw&rer
+				name: Dunkle Verschwörer
 				rep: 0
 				summon: -1
 				region: -1
@@ -421,7 +421,7 @@ maxf: 70
 
 				#807
 				type: 3
-				name: Dunkelm&rder
+				name: Dunkelmörder
 				rep: 0
 				summon: -1
 				region: -1
@@ -482,7 +482,7 @@ face: -1
 race: -1
 flat: 182 23
 flat: 182 27
-sgroup: 5
+sgroup: 7
 ggroup: -1
 minf: 50
 maxf: 90
@@ -584,7 +584,7 @@ maxf: 95
 	face: -1
 	race: -1
 	flat: 182 23
-        flat: 182 27
+	flat: 182 27
 	sgroup: 7
 	ggroup: 17
 	minf: 20
@@ -592,7 +592,7 @@ maxf: 95
 
 		#91
 		type: 3
-		name: Schlachtf}rsten
+		name: Schlachtfürsten
 		rep: 0
 		summon: -1
 		region: -1
@@ -601,7 +601,7 @@ maxf: 95
 		face: -1
 		race: -1
 		flat: 184 4
-	        flat: 182 27
+		flat: 182 27
 		sgroup: 7
 		ggroup: 9
 		minf: 40
@@ -695,7 +695,7 @@ maxf: 90
 
 		#456
 		type: 3
-		name: Beschw&rer des Arkay
+		name: Beschwörer des Arkay
 		rep: 0
 		summon: -1
 		region: -1
@@ -832,7 +832,7 @@ maxf: 90
 
 		#464
 		type: 3
-		name: Beschw&rer des Z'en
+		name: Beschwörer des Z'en
 		rep: 0
 		summon: -1
 		region: -1
@@ -901,13 +901,12 @@ maxf: 90
 
 		#402
 		Type: 4
-		name: F}rst Kvistley
+		name: Fürst Kvistley
 		rep: 0
 		summon: -1
 		region: 22
 		power: 15
 		flags: 0
-		ally: 400
 		face: 54
 		race: 3
 		flat: 183 5
@@ -969,7 +968,7 @@ maxf: 90
 
 		#470
 		type: 3
-		name: Beschw&rer der Mara
+		name: Beschwörer der Mara
 		rep: 0
 		summon: -1
 		region: -1
@@ -1063,7 +1062,6 @@ maxf: 90
 		region: 21
 		power: 20
 		flags: 0
-		ally: 204
 		face: 37
 		race: 2
 		flat: 182 10
@@ -1108,7 +1106,7 @@ maxf: 90
 
 		#475
 		type: 3
-		name: Beschw&rer des Akatosh
+		name: Beschwörer des Akatosh
 		rep: 0
 		summon: -1
 		region: -1
@@ -1164,7 +1162,6 @@ maxf: 90
 	summon: 17
 	region: -1
 	power: 30
-	ally: 1
 	enemy: 40
 	flags: 0
 	face: -1
@@ -1203,7 +1200,7 @@ maxf: 90
 		flags: 0
 		ally: 355
 		face: 60
-		race: 2
+		race: 5
 		flat: 182 9
 		sgroup: 7
 		ggroup: -1
@@ -1246,7 +1243,7 @@ maxf: 90
 
 		#482
 		type: 3
-		name: Beschw&rer des Julianos
+		name: Beschwörer des Julianos
 		rep: 0
 		summon: -1
 		region: -1
@@ -1367,7 +1364,7 @@ maxf: 90
 
 		#488
 		type: 3
-		name: Beschw&rer der Dibella
+		name: Beschwörer der Dibella
 		rep: 0
 		summon: -1
 		region: -1
@@ -1488,7 +1485,7 @@ maxf: 90
 
 		#492
 		type: 3
-		name: Beschw&rer des Stendarr
+		name: Beschwörer des Stendarr
 		rep: 0
 		summon: -1
 		region: -1
@@ -1574,17 +1571,16 @@ maxf: 95
 
 		#370
 		type: 4
-		name: F}rst Kalder
+		name: Fürst Kalder
 		rep: 0
 		summon: -1
 		region: 14
 		power: 20
 		flags: 0
-		ally: 201
 		face: 23
 		race: 3
 		flat: 183 12
-		sgroup: 5
+		sgroup: 7
 		ggroup: -1
 		minf: 20
 		maxf: 90
@@ -1608,7 +1604,7 @@ maxf: 95
 
 		#498
 		type: 3
-		name: Beschw&rer der Kynareth
+		name: Beschwörer der Kynareth
 		rep: 0
 		summon: -1
 		region: -1
@@ -1900,8 +1896,8 @@ maxf: 70
 		race: -1
 		flat: 183 5
 		flat: 183 14
-		sgroup: 4
-		ggroup: 15
+		sgroup: 2
+		ggroup: 10
 		minf: 40
 		maxf: 60
 
@@ -1926,7 +1922,7 @@ maxf: 70
 
 		#63
 		type: 3
-		name: S&ldnermagier
+		name: Söldnermagier
 		rep: 0
 		summon: -1
 		region: -1
@@ -2248,13 +2244,13 @@ maxf: 40
 	flat: 182 46
 	flat: 182 45
 	sgroup: 0
-	ggroup: 23
+	ggroup: 11
 	minf: 50
 	maxf: 90
 
 	#850
 	type: 3
-	name: Kampfausr}ster
+	name: Kampfausrüster
 	rep: 0
 	summon: -1
 	region: -1
@@ -2265,7 +2261,7 @@ maxf: 40
 	flat: 182 15
 	flat: 182 45
 	sgroup: 0
-	ggroup: 23
+	ggroup: 11
 	minf: 50
 	maxf: 90
 
@@ -2282,7 +2278,7 @@ maxf: 40
 	flat: 182 20
 	flat: 182 27
 	sgroup: 0
-	ggroup: 23
+	ggroup: 11
 	minf: 50
 	maxf: 90
 
@@ -2370,7 +2366,7 @@ maxf: 90
 
 		#375
 		type: 4
-		name: F}rst Bertram Spode
+		name: Fürst Bertram Spode
 		rep: 0
 		summon: -1
 		region: 18
@@ -2429,7 +2425,7 @@ maxf: 90
 		flat: 182 23
 		flat: 182 27
 		sgroup: 4
-		ggroup: 11
+		ggroup: 4
 		minf: 10
 		maxf: 60
 
@@ -2446,7 +2442,7 @@ maxf: 90
 	flat: 182 25
 	flat: 182 28
 	sgroup: 4
-	ggroup: 11
+	ggroup: 4
 	minf: 10
 	maxf: 40
 
@@ -2463,7 +2459,7 @@ maxf: 90
 	flat: 182 25
 	flat: 182 27
 	sgroup: 4
-	ggroup: 1
+	ggroup: 4
 	minf: 10
 	maxf: 90
 
@@ -2480,7 +2476,7 @@ maxf: 90
 	flat: 182 27
 	flat: 182 19
 	sgroup: 4
-	ggroup: 11
+	ggroup: 4
 	minf: 30
 	maxf: 60
 
@@ -2497,13 +2493,13 @@ maxf: 90
 	flat: 182 28
 	flat: 182 29
 	sgroup: 4
-	ggroup: 15
+	ggroup: 4
 	minf: 30
 	maxf: 90
 
 #852
 type: 7
-name: Zuf#lliger Herrscher
+name: Zufälliger Herrscher
 rep: 0
 summon: -1
 region: -1
@@ -2520,7 +2516,7 @@ maxf: 60
 
 	#242
 	type: 5
-	name: Zuf#lliger Adeliger
+	name: Zufälliger Adeliger
 	rep: 0
 	summon: -1
 	region: -1
@@ -2537,7 +2533,7 @@ maxf: 60
 
 	#853
 	type: 5
-	name: Zuf#lliger Ritter
+	name: Zufälliger Ritter
 	rep: 0
 	summon: -1
 	region: -1
@@ -2732,7 +2728,7 @@ vam: 150
 
 	#364
 	type: 4
-	name: K&nig Gothryd
+	name: König Gothryd
 	rep: 0
 	summon: -1
 	region: 18
@@ -2764,7 +2760,7 @@ vam: 150
 
 		#372
 		type: 2
-		name: K&nigliche Wache
+		name: Königliche Wache
 		rep: 0
 		summon: -1
 		region: 18
@@ -2781,7 +2777,7 @@ vam: 150
 
 	#365
 	type: 4
-	name: K&nigin Aubk-i
+	name: Königin Aubk-i
 	rep: 0
 	summon: -1
 	region: 18
@@ -2830,7 +2826,7 @@ vam: 150
 
 	#367
 	type: 4
-	name: F}rst Breitwell
+	name: Fürst Breitwell
 	rep: 0
 	summon: -1
 	region: 18
@@ -2838,7 +2834,7 @@ vam: 150
 	flags: 0
 	ally: 366
 	face: 21
-	race: 2
+	race: 3
 	flat: 334 17
 	sgroup: 3
 	ggroup: -1
@@ -2863,16 +2859,32 @@ vam: 150
 		minf: 5
 		maxf: 40
 
+	#377
+	Type: 4
+	name: Fürstin Breitwell
+	rep: 0
+	summon: -1
+	region: 18
+	power: 4
+	flags: 0
+	face: 31
+	race: 3
+	flat: 182 10
+	sgroup: 3
+	ggroup: -1
+	minf: 10
+	maxf: 30
+
 	#501
 	type: 4
-	name: F}rstin Nordbr}ck
+	name: Fürstin Nordbrück
 	rep: 0
 	summon: -1
 	region: 18
 	power: 3
 	flags: 0
 	face: 25
-	race: 2
+	race: 3
 	flat: 334 10
 	sgroup: 7
 	ggroup: -1
@@ -2889,6 +2901,7 @@ vam: 150
 	face: -1
 	race: 3
 	flat: 182 20
+	flat: 182 28
 	sgroup: 3
 	ggroup: 15
 	flags: 128
@@ -2973,7 +2986,7 @@ summon: -1
 region: 19
 power: 50
 flags: 0
-ruler: 5
+ruler: 3
 face: -1
 race: 3
 flat: 183 5
@@ -3060,7 +3073,7 @@ vam: 158
 
 	#380
 	Type: 4
-	name: K&nigin Akorithi
+	name: Königin Akorithi
 	rep: 0
 	summon: -1
 	region: 21
@@ -3076,7 +3089,7 @@ vam: 158
 
 		#383
 		Type: 4
-		name: F}rst Vhosek
+		name: Fürst Vhosek
 		rep: 0
 		summon: -1
 		region: 21
@@ -3092,7 +3105,7 @@ vam: 158
 
 			#384
 			Type: 2
-			name: K&nigliche Wachen
+			name: Königliche Wachen
 			rep: 0
 			summon: -1
 			region: 21
@@ -3141,11 +3154,11 @@ vam: 158
 
 	#386
 	Type: 4
-	name: F}rst K'avar
+	name: Fürst K'avar
 	rep: 0
 	summon: -1
 	region: 21
-	power: 400
+	power: 18
 	flags: 0
 	face: 40
 	race: 2
@@ -3161,7 +3174,7 @@ vam: 158
 		rep: 0
 		summon: -1
 		region: 21
-		power: 400
+		power: 20
 		flags: 1
 		face: -1
 		race: 2
@@ -3174,7 +3187,7 @@ vam: 158
 
 	#387
 	Type: 4
-	name: F}rst Provlith
+	name: Fürst Provlith
 	rep: 0
 	summon: -1
 	region: 21
@@ -3196,8 +3209,9 @@ vam: 158
 	region: 21
 	power: 25
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
+	flat: 182 28
 	sgroup: 3
 	ggroup: 15
 	flags: 128
@@ -3210,9 +3224,9 @@ vam: 158
 	rep: 0
 	summon: -1
 	region: 21
-	power: 1000
+	power: 40
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 28
 	sgroup: 0
@@ -3228,7 +3242,7 @@ rep: 0
 summon: -1
 region: 22
 power: 60
-flags: 0
+flags: 16
 ruler: 12
 face: -1
 race: 3
@@ -3242,7 +3256,7 @@ vam: 151
 
 	#400
 	Type: 4
-	name: F}rstin Doryanna Fleyt
+	name: Fürstin Doryanna Fleyt
 	rep: 0
 	summon: -1
 	region: 22
@@ -3266,7 +3280,7 @@ vam: 151
 		flags: 0
 		ally: 400
 		face: -1
-		race: 2
+		race: 3
 		flat: 183 2
 		flat: 182 27
 		sgroup: 7
@@ -3274,10 +3288,9 @@ vam: 151
 		minf: 20
 		maxf: 50
 
-
 	#401
 	Type: 4
-	name: F}rst Auberon Fleyt
+	name: Fürst Auberon Fleyt
 	rep: 0
 	summon: -1
 	region: 22
@@ -3310,7 +3323,7 @@ vam: 151
 
 	#404
 	Type: 4
-	name: F}rst Perweith
+	name: Fürst Perweith
 	rep: 0
 	summon: -1
 	region: 22
@@ -3334,6 +3347,7 @@ vam: 151
 	face: -1
 	race: 3
 	flat: 182 20
+	flat: 182 28
 	sgroup: 3
 	ggroup: 15
 	flags: 128
@@ -3364,7 +3378,7 @@ rep: 0
 summon: -1
 region: 23
 power: 72
-flags: 0
+flags: 16
 ruler: 9
 face: -1
 race: 2
@@ -3387,6 +3401,8 @@ vam: 154
 	face: 57
 	race: 2
 	flat: 183 4
+	enemy: 406
+	enemy: 355
 	sgroup: 3
 	ggroup: -1
 	minf: 20
@@ -3404,6 +3420,7 @@ vam: 154
 		race: 2
 		flat: 183 2
 		flat: 183 9
+		enemy: 412
 		sgroup: 7
 		ggroup: 9
 		minf: 20
@@ -3427,12 +3444,14 @@ vam: 154
 
 	#406
 	Type: 4
-	name: F}rst Khane
+	name: Fürst Khane
 	rep: 0
 	summon: -1
 	region: 23
 	power: 10
 	flags: 0
+	ally: 355
+	enemy: 379
 	face: 59
 	race: 2
 	flat: 182 20
@@ -3449,8 +3468,9 @@ vam: 154
 	region: 23
 	power: 25
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
+	flat: 182 28
 	sgroup: 3
 	ggroup: 15
 	flags: 0
@@ -3465,7 +3485,7 @@ vam: 154
 	region: 23
 	power: 3
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 28
 	sgroup: 0
@@ -3499,7 +3519,7 @@ vam: 154
 
 	#390
 	Type: 4
-	name: K&nig Eadwyre
+	name: König Eadwyre
 	rep: 0
 	summon: -1
 	region: 24
@@ -3515,7 +3535,7 @@ vam: 154
 
 	#391
 	Type: 4
-	name: K&nigin Barenziah
+	name: Königin Barenziah
 	rep: 0
 	summon: -1
 	region: 24
@@ -3537,6 +3557,7 @@ vam: 154
 	region: 24
 	power: 5
 	flags: 0
+	ally: 398
 	face: 44
 	race: 3
 	flat: 346 17
@@ -3553,6 +3574,8 @@ vam: 154
 	region: 24
 	power: 10
 	flags: 0
+	ally: 394
+	ally: 396
 	face: 46
 	race: 7
 	flat: 346 16
@@ -3570,6 +3593,7 @@ vam: 154
 	power: 12
 	flags: 0
 	ally: 393
+	ally: 305
 	face: 45
 	race: 7
 	flat: 346 0
@@ -3580,7 +3604,7 @@ vam: 154
 
 	#395
 	Type: 4
-	name: F}rst Kastellian
+	name: Fürst Kastellian
 	rep: 0
 	summon: -1
 	region: 24
@@ -3597,7 +3621,7 @@ vam: 154
 
 	#397
 	Type: 4
-	name: F}rst Finsterwerth
+	name: Fürst Finsterwerth
 	rep: 0
 	summon: -1
 	region: 24
@@ -3632,14 +3656,13 @@ vam: 154
 
 	#398
 	Type: 4
-	name: F}rst Wiedborn
+	name: Fürst Wiedborn
 	rep: 0
 	summon: -1
 	region: 24
 	power: 22
 	flags: 1
 	ally: 392
-	ally: 357
 	face: 50
 	race: 3
 	flat: 182 46
@@ -3658,6 +3681,7 @@ vam: 154
 	face: -1
 	race: 3
 	flat: 182 20
+	flat: 182 28
 	sgroup: 3
 	ggroup: 15
 	flags: 128
@@ -3895,7 +3919,7 @@ vam: 153
 
 #212
 type: 7
-name: Bhoraine
+name: Bhoriane
 rep: 0
 summon: -1
 region: 37
@@ -3914,7 +3938,7 @@ vam: 154
 
 	#535
 	type: 14
-	name: Hof von Bhoraine
+	name: Hof von Bhoriane
 	rep: 0
 	summon: -1
 	region: 37
@@ -3931,7 +3955,7 @@ vam: 154
 
 	#536
 	type: 15
-	name: Einwohner von Bhoraine
+	name: Einwohner von Bhoriane
 	rep: 0
 	summon: -1
 	region: 37
@@ -4221,7 +4245,7 @@ power: 52
 flags: 0
 ruler: 7
 face: -1
-race: 2
+race: 3
 flat: 183 10
 flat: 183 8
 sgroup: 3
@@ -4291,7 +4315,7 @@ vam: 158
 	region: 44
 	power: 51
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 183 9
 	sgroup: 3
@@ -4308,7 +4332,7 @@ vam: 158
 	region: 44
 	power: 45
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 27
 	sgroup: 0
@@ -4326,7 +4350,7 @@ vam: 158
 	power: 20
 	flags: 0
 	face: -1
-	race: -1
+	race: 2
 	flat: 183 3
 	flat: 182 45
 	sgroup: 7
@@ -4361,7 +4385,7 @@ vam: 158
 	region: 45
 	power: 50
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 183 9
 	sgroup: 3
@@ -4378,7 +4402,7 @@ vam: 158
 	region: 45
 	power: 3
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 27
 	sgroup: 0
@@ -4414,7 +4438,7 @@ vam: 158
 	region: 46
 	power: 50
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 182 27
 	sgroup: 3
@@ -4431,7 +4455,7 @@ vam: 158
 	region: 46
 	power: 15
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 28
 	sgroup: 0
@@ -4467,7 +4491,7 @@ vam: 158
 	region: 47
 	power: 50
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 182 28
 	sgroup: 3
@@ -4484,7 +4508,7 @@ vam: 158
 	region: 47
 	power: 50
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 28
 	sgroup: 0
@@ -4520,7 +4544,7 @@ vam: 158
 	region: 48
 	power: 51
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 182 28
 	sgroup: 3
@@ -4537,7 +4561,7 @@ vam: 158
 	region: 48
 	power: 25
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 27
 	sgroup: 0
@@ -4573,7 +4597,7 @@ vam: 157
 	region: 49
 	power: 50
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 182 27
 	sgroup: 3
@@ -4590,7 +4614,7 @@ vam: 157
 	region: 49
 	power: 5
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 27
 	sgroup: 0
@@ -4626,7 +4650,7 @@ vam: 155
 	region: 50
 	power: 50
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 183 9
 	sgroup: 3
@@ -4643,7 +4667,7 @@ vam: 155
 	region: 50
 	power: 60
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 28
 	sgroup: 0
@@ -4680,7 +4704,7 @@ vam: 154
 	region: 51
 	power: 51
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 183 9
 	sgroup: 3
@@ -4697,7 +4721,7 @@ vam: 154
 	region: 51
 	power: 15
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 28
 	sgroup: 0
@@ -4733,7 +4757,7 @@ vam: 155
 	region: 52
 	power: 50
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 182 28
 	sgroup: 3
@@ -4750,7 +4774,7 @@ vam: 155
 	region: 52
 	power: 20
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 27
 	sgroup: 0
@@ -4768,7 +4792,7 @@ vam: 155
 	power: 17
 	flags: 0
 	face: -1
-	race: -1
+	race: 2
 	flat: 183 3
 	flat: 182 28
 	sgroup: 7
@@ -4803,10 +4827,10 @@ vam: 154
 	region: 53
 	power: 51
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 183 9
-	sgroup: 3
+	sgroup: 2
 	ggroup: 15
 	flags: 0
 	minf: 20
@@ -4818,9 +4842,9 @@ vam: 154
 	rep: 0
 	summon: -1
 	region: 53
-	power: 3
+	power: 2
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 28
 	sgroup: 0
@@ -4856,7 +4880,7 @@ vam: 155
 	region: 54
 	power: 51
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 182 27
 	sgroup: 3
@@ -4873,7 +4897,7 @@ vam: 155
 	region: 54
 	power: 5
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 27
 	sgroup: 0
@@ -4909,7 +4933,7 @@ vam: 155
 	region: 55
 	power: 51
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 182 28
 	sgroup: 3
@@ -4926,7 +4950,7 @@ vam: 155
 	region: 55
 	power: 4
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 182 28
 	sgroup: 0
@@ -4934,23 +4958,6 @@ vam: 155
 	flags: 0
 	minf: 5
 	maxf: 30
-
-	#417
-	type: 2
-	name: Ritter des Falken
-	rep: 0
-	summon: -1
-	region: 55
-	power: 25
-	flags: 0
-	face: -1
-	race: -1
-	flat: 183 2
-	flat: 183 9
-	sgroup: 7
-	ggroup: 9
-	minf: 20
-	maxf: 60
 
 #231
 type: 7
@@ -4979,7 +4986,7 @@ vam: 157
 	region: 56
 	power: 25
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 182 28
 	sgroup: 3
@@ -4996,7 +5003,7 @@ vam: 157
 	region: 56
 	power: 3
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 28
 	sgroup: 0
@@ -5004,6 +5011,23 @@ vam: 157
 	flags: 0
 	minf: 5
 	maxf: 30
+
+	#417
+	type: 2
+	name: Ritter des Falken
+	rep: 0
+	summon: -1
+	region: 56
+	power: 25
+	flags: 0
+	face: -1
+	race: 2
+	flat: 183 2
+	flat: 183 9
+	sgroup: 7
+	ggroup: 9
+	minf: 20
+	maxf: 60
 
 #232
 type: 7
@@ -5032,7 +5056,7 @@ vam: 157
 	region: 57
 	power: 45
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 182 27
 	sgroup: 3
@@ -5049,7 +5073,7 @@ vam: 157
 	region: 57
 	power: 3
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 27
 	sgroup: 0
@@ -5166,7 +5190,7 @@ vam: 150
 
 #235
 type: 7
-name: Ilessanische H}gel
+name: Ilessanische Hügel
 rep: 0
 summon: -1
 region: 61
@@ -5185,7 +5209,7 @@ vam: 151
 
 	#581
 	type: 14
-	name: Hof der Ilessanischen H}gel
+	name: Hof der Ilessanischen Hügel
 	rep: 0
 	summon: -1
 	region: 61
@@ -5202,7 +5226,7 @@ vam: 151
 
 	#582
 	type: 15
-	name: Einwohner der Ilessanischen H}gel
+	name: Einwohner der Ilessanischen Hügel
 	rep: 0
 	summon: -1
 	region: 61
@@ -5244,7 +5268,7 @@ vam: 158
 	region: 62
 	power: 3
 	face: -1
-	race: 3
+	race: 2
 	flat: 183 3
 	flat: 182 27
 	sgroup: 3
@@ -5261,7 +5285,7 @@ vam: 158
 	region: 62
 	power: 1
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
 	flat: 182 27
 	sgroup: 0
@@ -5296,7 +5320,7 @@ maxf: 80
 	power: 1
 	flags: 1
 	face: 1
-	race: 3
+	race: 2
 	flat: 184 20
 	sgroup: 7
 	ggroup: -1
@@ -5312,7 +5336,7 @@ region: 17
 power: 50
 flags: 1
 face: 2
-race: 2
+race: 3
 flat: 183 17
 sgroup: 2
 ggroup: -1
@@ -5335,37 +5359,40 @@ maxf: 80
 	minf: 40
 	maxf: 80
 
-#306
-type: 2
-name: Totenbeschw&rer
+#305
+type: 4
+name: König der Würmer
 rep: 0
-summon: 17
-region: 62
+summon: -1
+region: -1
 power: 50
 flags: 1
-face: -1
+ally: 394
+enemy: 353
+face: 5
 race: -1
 flat: 178 4
-flat: 178 4
 sgroup: 7
-ggroup: 14
-minf: 10
+ggroup: -1
+minf: 20
 maxf: 70
 
-	#305
-	type: 4
-	name: K&nig der W}rmer
+	#306
+	type: 2
+	name: Totenbeschwörer
 	rep: 0
-	summon: -1
-	region: 62
+	summon: 17
+	region: -1
 	power: 50
 	flags: 1
-	face: 5
-	race: 2
-	flat: 178 4
+	enemy: 354
+	face: -1
+	race: -1
+	flat: 178 3
+	flat: 178 5
 	sgroup: 7
-	ggroup: -1
-	minf: 20
+	ggroup: 14
+	minf: 10
 	maxf: 70
 
 #350
@@ -5373,7 +5400,7 @@ type: 7
 name: Septimisches Kaiserreich
 rep: 0
 summon: -1
-region: 61
+region: -1
 power: 72
 flags: 0
 face: -1
@@ -5381,14 +5408,14 @@ race: -1
 flat: 182 16
 flat: 182 27
 sgroup: 3
-ggroup: 9
+ggroup: 15
 minf: 1
 maxf: 80
 vam: 150
 
 	#351
 	type: 4
-	name: der Gro*ritter
+	name: der Großritter
 	rep: 0
 	summon: -1
 	region: -1
@@ -5420,7 +5447,7 @@ vam: 150
 
 			#352
 			type: 4
-			name: F}rstin Brisienna
+			name: Fürstin Brisienna
 			rep: 0
 			summon: -1
 			region: -1
@@ -5430,18 +5457,19 @@ vam: 150
 			race: 0
 			flat: 182 27
 			sgroup: 3
-			ggroup: 9
+			ggroup: -1
 			minf: 10
 			maxf: 80
 #353
 type: 4
-name: der Unterk&nig
+name: der Unterkönig
 rep: 0
 summon: -1
-region: 62
+region: -1
 power: 65
 flags: 1
 enemy: 350
+enemy: 305
 face: 8
 race: -1
 flat: 184 0
@@ -5455,25 +5483,27 @@ maxf: 80
 	name: Agenten des Unterk&nigs
 	rep: 0
 	summon: -1
-	region: 62
+	region: -1
 	power: 50
 	flags: 0
+	enemy: 306
 	race: -1
 	flat: 182 26
 	flat: 182 23
 	sgroup: 7
-	ggroup: 1
+	ggroup: 12
 	minf: 25
 	maxf: 90
 
 #355
 type: 4
-name: F}rst Harth
+name: Fürst Harth
 rep: 0
 summon: -1
 region: 7
 power: 5
 flags: 1
+ally: 406
 enemy: 379
 face: 38
 race: 2
@@ -5491,6 +5521,7 @@ maxf: 40
 	region: 7
 	power: 5
 	flags: 0
+	enemy: 411
 	face: -1
 	race: -1
 	flat: 182 20
@@ -5507,9 +5538,11 @@ summon: -1
 region: 27
 power: 65
 flags: 1
+flags: 16
 ruler: 1
 race: 17
 flat: 182 3
+flat: 182 11
 sgroup: 3
 ggroup: 24
 minf: 20
@@ -5524,11 +5557,14 @@ vam: 153
 	region: 27
 	power: 50
 	flags: 1
+	enemy: 409
+	enemy: 368
+	enemy: 408
 	face: 13
-	race: -1
+	race: 17
 	flat: 183 19
 	sgroup: 3
-	ggroup: 9
+	ggroup: -1
 	minf: 20
 	maxf: 50
 
@@ -5540,8 +5576,9 @@ vam: 153
 	region: 27
 	power: 25
 	face: -1
-	race: 3
+	race: 17
 	flat: 182 20
+	flat: 182 28
 	sgroup: 3
 	ggroup: 15
 	flags: 128
@@ -5556,8 +5593,9 @@ vam: 153
 	region: 27
 	power: 5
 	face: -1
-	race: 3
+	race: 17
 	flat: 182 20
+	flat: 182 28
 	sgroup: 0
 	ggroup: 4
 	flags: 0
@@ -5566,7 +5604,7 @@ vam: 153
 
 #359
 type: 4
-name: F}rst Plessingten
+name: Fürst Plessingten
 rep: 0
 summon: -1
 region: 40
@@ -5576,7 +5614,7 @@ face: 14
 race: 3
 flat: 182 20
 sgroup: 7
-ggroup: 15
+ggroup: -1
 minf: 5
 maxf: 30
 
@@ -5585,11 +5623,11 @@ maxf: 30
 	name: Orden des Kelchs
 	rep: 0
 	summon: -1
-	region: 44
+	region: 40
 	power: 10
 	flags: 0
 	face: -1
-	race: -1
+	race: 3
 	flat: 183 3
 	sgroup: 7
 	ggroup: 9
@@ -5598,7 +5636,7 @@ maxf: 30
 
 #360
 type: 4
-name: F}rst Kilbar
+name: Fürst Kilbar
 rep: 0
 summon: -1
 region: 24
@@ -5606,7 +5644,7 @@ power: 3
 flags: 0
 ally: 108
 face: 15
-race: 2
+race: 3
 flat: 182 19
 sgroup: 3
 ggroup: -1
@@ -5657,30 +5695,14 @@ flags: 0
 face: 30
 race: 3
 flat: 182 23
-sgroup: 1
+sgroup: 2
 ggroup: -1
 minf: 10
 maxf: 40
 
-#377
-Type: 4
-name: F}stin Breitwell
-rep: 0
-summon: -1
-region: 18
-power: 4
-flags: 0
-face: 31
-race: 3
-flat: 180 0
-sgroup: 3
-ggroup: -1
-minf: 10
-maxf: 30
-
 #378
 Type: 4
-name: Sylch Gr}nweid
+name: Sylch Grünweid
 rep: 0
 summon: -1
 region: 18
@@ -5776,7 +5798,7 @@ maxf: 45
 
 #424
 type: 8
-name: T&chter von Wroth
+name: Töchter von Wroth
 rep: 0
 summon: 17
 region: 17
@@ -5920,7 +5942,7 @@ maxf: 45
 
 #510
 type: 2
-name: H#ndler
+name: Händler
 rep: 0
 summon: -1
 region: -1
@@ -5998,13 +6020,13 @@ race: -1
 flat: 182 4
 flat: 182 38
 sgroup: 0
-ggroup: 1
+ggroup: 4
 minf: 0
 maxf: 10
 
 #515
 type: 2
-name: T#nzer
+name: Tänzer
 rep: 0
 summon: -1
 region: -1
@@ -6015,7 +6037,7 @@ race: -1
 flat: 182 15
 flat: 182 10
 sgroup: 0
-ggroup: 1
+ggroup: 4
 minf: 0
 maxf: 10
 
@@ -6028,10 +6050,10 @@ region: 17
 power: 5
 flags: 128
 flags: 4
-flat: 180
 face: -1
 race: 3
 flat: 182 18
+flat: 182 27
 sgroup: 3
 ggroup: 15
 minf: 20
@@ -6049,6 +6071,7 @@ vam: 153
 	face: -1
 	race: 3
 	flat: 182 20
+	flat: 182 28
 	sgroup: 3
 	ggroup: 15
 	flags: 0
@@ -6065,6 +6088,7 @@ vam: 153
 	face: -1
 	race: 3
 	flat: 182 20
+	flat: 182 28
 	sgroup: 0
 	ggroup: 4
 	flags: 0
@@ -6080,10 +6104,10 @@ region: 2
 power: 35
 flags: 128
 flags: 4
-flat: 180
 face: -1
-race: 3
+race: 2
 flat: 182 18
+flat: 182 27
 sgroup: 3
 ggroup: 15
 minf: 20
@@ -6098,8 +6122,9 @@ vam: 155
 	region: 2
 	power: 5
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
+	flat: 182 28
 	sgroup: 3
 	ggroup: 15
 	flags: 0
@@ -6114,8 +6139,9 @@ vam: 155
 	region: 2
 	power: 5
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
+	flat: 182 28
 	sgroup: 0
 	ggroup: 4
 	flags: 0
@@ -6131,10 +6157,10 @@ region: 1
 power: 5
 flags: 128
 flags: 4
-flat: 180
 face: -1
-race: 3
+race: 2
 flat: 182 18
+flat: 182 27
 sgroup: 3
 ggroup: 15
 minf: 20
@@ -6149,8 +6175,9 @@ vam: 157
 	region: 1
 	power: 25
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
+	flat: 182 28
 	sgroup: 3
 	ggroup: 15
 	flags: 0
@@ -6165,8 +6192,9 @@ vam: 157
 	region: 1
 	power: 3
 	face: -1
-	race: 3
+	race: 2
 	flat: 182 20
+	flat: 182 28
 	sgroup: 0
 	ggroup: 4
 	flags: 0
@@ -6182,10 +6210,10 @@ region: 12
 power: 5
 flags: 128
 flags: 4
-flat: 180
 face: -1
 race: 3
 flat: 182 18
+flat: 182 27
 sgroup: 3
 ggroup: 15
 minf: 20
@@ -6202,6 +6230,7 @@ vam: 157
 	face: -1
 	race: 3
 	flat: 182 20
+	flat: 182 28
 	sgroup: 3
 	ggroup: 15
 	flags: 0
@@ -6218,6 +6247,7 @@ vam: 157
 	face: -1
 	race: 3
 	flat: 182 20
+	flat: 182 28
 	sgroup: 0
 	ggroup: 4
 	flags: 0
@@ -6231,10 +6261,13 @@ rep: 0
 summon: -1
 region: 10
 power: 5
+flags: 16
 flags: 128
+ruler: 12
 face: -1
-race: 0
+race: 3
 flat: 183 10
+flat: 183 11
 sgroup: 3
 ggroup: 15
 minf: 40
@@ -6267,6 +6300,7 @@ vam: 153
 	face: -1
 	race: 3
 	flat: 182 20
+	flat: 182 28
 	sgroup: 3
 	ggroup: 15
 	flags: 128
@@ -6283,11 +6317,12 @@ vam: 153
 	face: -1
 	race: 3
 	flat: 182 20
+	flat: 182 28
 	sgroup: 0
 	ggroup: 4
 	flags: 128
 	minf: 40
-	maxf: 70		
+	maxf: 70
 
 #196
 type: 7
@@ -6300,7 +6335,8 @@ flags: 0
 ruler: 9
 face: -1
 race: 3
-flat: 183 6
+flat: 183 7
+flat: 183 8
 sgroup: 3
 ggroup: 15
 minf: 20
@@ -6317,6 +6353,7 @@ vam: 150
 	face: -1
 	race: 3
 	flat: 183 3
+	flat: 183 14
 	sgroup: 3
 	ggroup: 15
 	flags: 0
@@ -6333,6 +6370,7 @@ vam: 150
 	face: -1
 	race: 3
 	flat: 182 20
+	flat: 182 28
 	sgroup: 0
 	ggroup: 4
 	flags: 0
