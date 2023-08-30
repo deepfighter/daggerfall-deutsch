@@ -1,0 +1,289 @@
+Key,Value
+0,Rubin
+1,Smaragd
+2,Saphir
+3,Diamant
+4,Jadestein
+5,Türkis
+6,Malachit
+7,Bernstein
+8,Zweige
+9,Grüne Blätter
+10,Rote Blumen
+11,Gelbe Blumen
+12,Rankenwurzel
+13,Knollenwurzel
+14,Kiefernast
+15,Grüne Beeren
+16,Rote Beeren
+17,Gelbe Beeren
+18,Klee
+19,Rote Rose
+20,Gelbe Rose
+21,Schwarze Rose
+22,Weiße Rose
+23,Roter Mohn
+24,Schwarzer Mohn
+25,Goldener Mohn
+26,Weißer Mohn
+27,Ginkgoblätter
+28,Bambus
+29,Palme
+30,Aloe
+31,Feige
+32,Kaktus
+33,Werwolfblut
+34,Wereber-Stoßzahn
+35,Märchendrachenschuppe
+36,Nymphenhaar
+37,Horn eines Einhorns
+38,Gespensteressenz
+39,Ektoplasma
+40,Ghulzunge
+41,Spinnengift
+42,Trollblut
+43,Schlangengift
+44,Gorgonenschlange
+45,Lichstaub
+46,Drachenschuppen
+47,Gr. Skorpionstachel
+48,Kl. Skorpionstachel
+49,Mumienleinen
+50,Riesenblut
+51,Basiliskenauge
+52,Greifenfeder
+53,Daedraherz
+54,Heiligenhaar
+55,Heiliges Relikt
+56,Großer Zahn
+57,Mittlerer Zahn
+58,Kleiner Zahn
+59,Reines Wasser
+60,Regenwasser
+61,Orkblut
+62,Elixir Vitae
+63,Nektar
+64,Wundsekret
+65,Quecksilber
+66,Zinn
+67,Messing
+68,Magnetstein
+69,Schwefel
+70,Blei
+71,Eisen
+72,Kupfer
+73,Silber
+74,Gold
+75,Platin
+76,Elfenbein
+77,Perle
+78,Indulcet
+79,Sursum
+80,Quaesto Vil
+81,Aegrotat
+82,Glasgefäß
+83,Glasflasche
+84,Karaffe
+85,Lehmkrug
+86,Kleiner Sack
+87,Großer Sack
+88,Köcher
+89,Rucksack
+90,Kleine Truhe
+91,Weinregal
+92,Große Truhe
+93,Kleiner Karren
+94,Pferd
+95,Ruderboot
+96,Großes Boot
+97,Kleines Schiff
+98,Große Galeere
+99,Urkunde zum Stadthaus
+100,Urkunde zum Haus
+101,Urkunde zum Anwesen
+102,Brustharnisch
+103,Handschuhe
+104,Beinschienen
+105,Linke Schulterplatte
+106,Rechte Schulterplatte
+107,Helm
+108,Stiefel
+109,Buckler
+110,Rundschild
+111,Drachenschild
+112,Turmschild
+113,Dolch
+114,Tanto
+115,Stab
+116,Kurzschwert
+117,Wakazashi
+118,Breitschwert
+119,Säbel
+120,Langschwert
+121,Katana
+122,Claymore
+123,Dai-Katana
+124,Streitkolben
+125,Flegel
+126,Kriegshammer
+127,Kampfaxt
+128,Kriegsaxt
+129,Kurzbogen
+130,Langbogen
+131,Pfeil
+132,Zauberbuch
+133,Amulett
+134,Armschiene
+135,Ring
+136,Armband
+137,Zeichen
+138,Torques
+139,Stoffamulett
+140,Juwelenstab
+141,Riemen
+142,Armbänder
+143,Kimono
+144,Kunstvolles Armband
+145,Schärpe
+146,Eodoric
+147,Schuhe
+148,Hohe Stiefel
+149,Stiefel
+150,Sandalen
+151,Einfache Hosen
+152,Kniehosen
+153,Kurzer Rock
+154,Einfacher Mantel
+155,Formeller Mantel
+156,Khajiitanzug
+157,Dwynnens Surcot
+158,Kurze Tunika
+159,Formelle Tunika
+160,Toga
+161,Wendbare Tunika
+162,Lendentuch
+163,Einfache Robe
+164,Priesterroben
+165,Kurzes Hemd
+166,Kurzes Hemd
+167,Langes Hemd
+168,Langes Hemd
+169,Kurzes Hemd
+170,Kurzes Hemd
+171,Langes Hemd
+172,Langes Hemd
+173,Offene Tunika
+174,Schurz
+175,Langer Rock
+176,Anticleres Surcot
+177,Herausfordererriemen
+178,Kurzes Hemd
+179,Langes Hemd
+180,Wams
+181,Abenteurerriemen
+182,Büstenhalter
+183,Form. Büstenhalter
+184,Bürgerliche Bluse
+185,Eodoric
+186,Schuhe
+187,Hohe Stiefel
+188,Stiefel
+189,Sandalen
+190,Einfache Hosen
+191,Einfacher Mantel
+192,Formeller Mantel
+193,Khajiitanzug
+194,Formeller Eodoric
+195,Abendkleid
+196,Tageskleid
+197,Gewöhnliche Kleidung
+198,Trägerlose Kleidung
+199,Lendentuch
+200,Einfache Robe
+201,Priesterinnenroben
+202,Kurzes Hemd
+203,Kurzes Hemd
+204,Langes Hemd
+205,Langes Hemd
+206,Kurzes Hemd
+207,Kurzes Hemd
+208,Langes Hemd
+209,Langes Hemd
+210,Offene Tunika
+211,Schurz
+212,Langer Rock
+213,Strumpfhose
+214,Kurzes Hemd
+215,Langes Hemd
+216,Wams
+217,Einfaches Einzelbett
+218,Edles Einzelbett
+219,Einfaches Doppelbett
+220,Edles Doppelbett
+221,Großer Eichentisch
+222,Großer Kirschtisch
+223,Großer Mahagonitisch
+224,Großer Teakholztisch
+225,Kleiner Eichentisch
+226,Kleiner Kirschtisch
+227,Kleiner Mahagonitisch
+228,Kleiner Teakholztisch
+229,Eichenstuhl
+230,Kirschstuhl
+231,Mahagonistuhl
+232,Teakholzstuhl
+233,Vorhänge
+234,Edle Vorhänge
+235,Großes Kissen
+236,Kleines Kissen
+237,Kl. einfach. Vorleger
+238,Gr. einfach. Vorleger
+239,Kl. feiner Vorleger
+240,Gr. feiner Vorleger
+241,Großer Wandteppich
+242,Mittlerer Wandteppich
+243,Kleiner Wandteppich
+244,Große Felle
+245,Kleine Felle
+246,Kandelaber
+247,Fackel
+248,Laterne
+249,Bandage
+250,Strauchwerk
+251,Blumen
+252,Öl
+253,Kerze
+254,Teleskop
+255,Schuppen
+256,Globus
+257,Skelett
+258,Gebetskranz
+259,Seltenes Symbol
+260,Gewöhnliches Symbol
+261,Glocke
+262,Heiliges Wasser
+263,Talisman
+264,Religiöser Gegenstand
+265,Kleine Statue
+266,Große Statue
+267,Ikone
+268,Skarabäus
+269,Heilige Kerze
+270,Heiliger Dolch
+271,Heiliges Buch
+272,Altar
+273,Wasserbecken
+274,Seelenfalle
+275,Kreditbrief
+276,Goldstücke
+277,Buch
+278,Trankrezept
+279,Pergament
+280,Totem
+281,Toter Körper
+282,Mantella
+283,Finger
+284,Gemälde
+285,Hausurkunde
+286,Schiffsurkunde
+287,Karte
