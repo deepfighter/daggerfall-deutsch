@@ -1,0 +1,216 @@
+- Text database for game settings window.
+
+schema: *key,text
+
+- Tabs and section titles
+
+gamePlay,                                           Spielablauf
+interface,                                          Benutzeroberfläche
+enhancements,                                       Verbesserungen
+video,                                              Video
+accessibility,                                      Barrierefreiheit
+
+game,                                               Spiel
+controls,                                           Steuerung
+audio,                                              Audio
+spells,                                             Zaubersprüche
+tooltips,                                           Tooltips
+hud,                                                HUD
+gui,                                                Bedienoberfläche
+light,                                              Beleuchtung
+basic,                                              Basis
+advanced,                                           Erweitert
+automap,                                            Automap
+dungeonmicromap,                                 	Dungeon-Mikro-Karte
+
+- Settings and tooltip descriptions
+
+startInDungeon,                                     Start im Dungeon
+startInDungeonInfo,                                 Beginnt ein neues Spiel im ersten Dungeon.
+smallerDungeons,                                    Kleinere Dungeons
+smallerDungeonsInfo,                                Zufällige Dungeons haben nur einen Innenblock und vier Grenzblöcke
+randomDungeonTextures,                              Dungeon-Texturen
+randomDungeonTexturesInfo,                          Generiert die Texturtabelle für Dungeons aus einer zufälligen Auswahl.
+cameraRecoilStrength,                               Kamera-Rückstoßstärke
+cameraRecoilStrengthInfo,                           Stärke des Rückstoßes, wenn der Spieler Schaden nimmt. Skaliert mit dem Schaden.
+mouseSensitivity,                                   Mausempfindlichkeit
+mouseSensitivityInfo,                               Empfindlichkeit der Mausbewegung
+weaponSensitivity,                                  Waffensensitivität
+weaponSensitivityInfo,                              Empfindlichkeit der Waffenschwünge in Bezug auf die Mausbewegung
+movementAcceleration,                               Bewegungsbeschleunigung
+movementAccelerationInfo,                           Fügt der Bewegung eine geringe Beschleunigung/Verzögerung hinzu.
+weaponAttackThreshold,                              Waffen-Angriffsschwelle
+weaponAttackThresholdInfo,                          Minimale Mausbwegung für einen Angriff
+soundFont,                                          SoundFont
+soundFontInfo,                                      SoundFount aktivieren
+alternateMusic,                                     Alternative Musik
+alternateMusicInfo,                                 Verwendet die OPL3-optimierte Version des Soundtracks.
+soundVolume,                                        Sound-Lautstärke
+soundVolumeInfo,                                    Einstellung der Lautstärke des Sounds.
+musicVolume,                                        Musik-Lautstärke
+musicVolumeInfo,                                    Einstellung der Lautstärke für Musik.
+spellLighting,                                      Zauberspruch-Beleuchtung
+spellLightingInfo,                                  Aktivieren der Beleuchtung für Zaubersprüche.
+spellShadows,                                       Zauberschatten
+spellShadowsInfo,                                   Aktiviere Zauberschatten.
+instantRepairs,                                     Sofortige Reparaturdienstleistungen
+instantRepairsInfo,                                 Deaktiviert das Warten und Erledigt Reparaturen sofort.
+bowDrawback,                                        Bögen - Spannen und Lösen
+bowDrawbackInfo,                                    Ermöglicht das Zurückziehen eines Bogens beim Halten der rechten Maustaste; Loslassen, um zu schießen.
+toggleSneak,                                        Schleichmodus umschalten
+toggleSneakInfo,                                    Erlaubt das Umschalten der Schleichaktion anstelle des Haltens.
+
+toolTips,                                           Tooltipp
+toolTipsInfo,                                       Zeigt Informationen über Elemente der Bedienoberfläche
+toolTipDelayInSeconds,                              Verzögerung
+toolTipDelayInSecondsInfo,                          Tooltipp-Verzögerung in Sekunden
+toolTipTextColor,                                   Textfarbe
+toolTipTextColorInfo,                               Schriftfarbe für Tooltipp-Texte
+toolTipBackgroundColor,                             Hintergrundfarbe
+toolTipBackgroundColorInfo,                         Hintergrundfarbe für Tooltipps
+crosshair,                                          Fadenkreuz
+crosshairInfo,                                      Aktivieren des Fadenkreuzes
+vitalsIndicators,                                   Lebensanzeige-Indikatoren
+vitalsIndicatorsInfo,                               Zeigt Indikatoren auf den Lebensbalken an, die Änderungen in den Lebenswerten anzeigen
+interactionModeIcon,                                Interaktionsmodus-Symbol
+interactionModeIconInfo,                            Stil des Kontextsymbols für den Interaktionsmodus
+arrowCounter,                                       Pfeilzähler
+arrowCounterInfo,                                   Aktivieren eines Pfeilzählers auf dem HUD bei Verwendung von Bögen
+showQuestJournalClocksAsCountdown,                  Countdown im Tagebuch (Uhrzeit)
+showQuestJournalClocksAsCountdownInfo,              Zeigt die verbleibende Zeit anstelle der Zeit seit Questbeginn an.
+inventoryInfoPanel,                                 Info-Panel des Inventars
+inventoryInfoPanelInfo,                             Info-Panel des Inventars
+enhancedItemLists,                                  Erweiterte Inventarliste
+enhancedItemListsInfo,                              Inventar hat ein 16x-Gitter
+enableModernConversationStyleInTalkWindow,          Moderner Gesprächsstil im Gesprächsfenster
+enableModernConversationStyleInTalkWindowInfo,      Aktiviert den modernen Gesprächsstil im Gesprächsfenster
+iconsPositioningScheme,                             Aussehen der Buff-Symbole
+iconsPositioningSchemeInfo,                         Größe und Position der angezeigten (De-)Buff-Symbole
+helmAndShieldMaterialDisplay,                       Helm- und Schildmaterialanzeige
+helmAndShieldMaterialDisplayInfo,                   Zeigt das Material für Helme und Schilde in Info-Fenstern und Tooltipps
+geographicBackgrounds,                              Geografische Hintergründe
+geographicBackgroundsInfo,                          Kontextbezogene Charakterhintergründe basierend auf dem geografischen Standort
+dungeonExitWagonPrompt,                             Aufforderung zum Wagenzugang im Dungeon
+dungeonExitWagonPromptInfo,                         Aufforderung zum Wagenzugang beim Verlassen des Dungeons. (Der Wagen ist immer innerhalb von 5m vom Ausgang aus zugänglich)
+travelMapLocationsOutline,                          Konturlinien für Reisekartenorte
+travelMapLocationsOutlineInfo,                      Zeichnen Sie eine Kontur um Orte auf regionalen Karten, um die Sichtbarkeit zu verbessern
+guildQuestListBox,                                  Liste für Gildenquests
+guildQuestListBoxInfo,                              Trägt qualifizierte Gildenquests in einer Listenbox zusammen
+bowLeftHandWithSwitching,                           Bögen nur in der linken Hand ausrüsten
+bowLeftHandWithSwitchingInfo,                       ögen in der linken Hand ausrüsten und das Wechseln mit einer Einhandwaffe ermöglichen - Wechseln mit kurzer Verzögerung
+loiterLimitInHours,                                 Maximale Wartezeit in Stunden
+loiterLimitInHoursInfo,                             Ändert die standardisierte maximale Wartezeit in Stunden
+automapTempleColor,                                 Farbe von Gildenhallen
+automapTempleColorInfo,                             Farbe von Tempeln und Gildenhallen auf der Dungeon-Auto-Karte
+automapShopColor,                                   Farbe von Geschäften
+automapShopColorInfo,                               Farbe von Geschäften auf der Dungeon-Auto-Karte
+automapTavernColor,                                 Farbe der Gasthäuser
+automapTavernColorInfo,                             Farbe von Gasthäusern auf der Dungeon-Auto-Karte
+automapHouseColor,                                  Farben der Wohnhäuser
+automapHouseColorInfo,                              Farbe von Wohnhäusern auf der Dungeon-Auto-Karte
+dungeonMicMapQoL,									Mikro-Karte QoL umschalten
+dungeonMicMapQoLInfo,								Falsch = Verwendet klassische Mikrokarten-Farben | Wahr = Verwendet Qol Mikrokarten-Farben
+dunMicMapInnerColor,                                Innerer Blockfarbe
+dunMicMapInnerColorInfo,                            Farbe, die die inneren Dungeon-Blöcke auf der Mikrokarte haben werden, wenn die QoL-Option aktiv ist
+dunMicMapBorderColor,                               Äußere Blockfarbe
+dunMicMapBorderColorInfo,                           Farbe, die die rahmenbildenden Dungeon-Blöcke auf der Mikrokarte haben werden, wenn die QoL-Option aktiv ist
+
+
+modSystem,                                          Mod-System
+modSystemInfo,                                      Unterstützung für Mods aktivieren.
+assetInjection,                                     Asset-Injektion
+assetInjectionInfo,                                 Import von Asset-Überschreibungen aus aktivierten Mods und Loose Files.
+compressModdedTextures,                             Komprimierung modifizierter Texturen
+compressModdedTexturesInfo,                         Importiert komprimierte Texturen, die weniger Grafikspeicher benötigen.
+gameConsole,                                        Terminal/Konsole
+gameConsoleInfo,                                    Eingabe für Konsolenbefehle aktivieren
+nearDeathWarning,                                   Warnung bei nahendem Tod
+nearDeathWarningInfo,                               Blinkende/Pulsierende Bildschirmeffekte anzeigen, um vor dem Nahen Tod zu warnen.
+alternateRandomEnemySelection,                      Alternative Zufallsauswahl für Gegner
+alternateRandomEnemySelectionInfo,                  Erstellt zufällige Gegner in Dungeons mit mehr Variabilität.
+advancedClimbing,                                   Erweitertes Klettersystem
+advancedClimbingInfo,                               Wandklettern in alle Richtungen, mit abspringen und festhalten
+dungeonAmbientLightScale,                           Leuchtstärke Dungeonlicht
+dungeonAmbientLightScaleInfo,                       Stärke der Umgebungsbeleuchtung in Dungeons
+nightAmbientLightScale,                             Leuchtstärke Nachtlicht
+nightAmbientLightScaleInfo,                         Stärke des Lichts bei Nacht in Innenräumen und Außenbereichen
+playerTorchLightScale,                              Leuchtstärke Spielerfackel
+playerTorchLightScaleInfo,                          Stärke der Spielerfackel
+playerTorchFromItems,                               Spielerfackel basierend auf Gegenständen
+playerTorchFromItemsInfo,                           Spielerfackel wird durch im Spiel vorhandene Lichtquellen aktiviert
+combatVoices,                                       Kampfschrei
+combatVoicesInfo,                                   Spieler und NPCs geben Laute von sich, wenn sie angreifen oder getroffen werden
+enemyInfighting,                                    Feindseligkeit unter Gegnern
+enemyInfightingInfo,                                KI-Charaktere kämpfen gegeneinander, wenn sie nicht verbündet sind
+enhancedCombatAI,                                   Erweiterte Kampf-Ki
+enhancedCombatAIInfo,                               Verschiedene Verbesserungen der Kampf-KI, die im Originalspiel nicht vorhanden sind
+allowMagicRepairs,                                  Magische Gegenstandsreparaturen zulassen
+allowMagicRepairsInfo,                              Ermöglicht die Reparatur magischer Gegenstände
+
+resolution,                                         Auflösung
+resolutionInfo,                                     Bildschirmauflösung
+fullscreen,                                         Vollbild
+fullscreenInfo,                                     Vollbild aktivieren
+exclusiveFullscreen,                                Exklusives Vollbild
+exclusiveFullscreenInfo,                            Exklusives Vollbild aktivieren
+runInBackground,                                    Im Hintergrund ausführen
+runInBackgroundInfo,                                Soll das Spiel im Hintergrund weiterlaufen, wenn es nicht mehr das aktive Fenster ist
+qualityLevel,                                       Qualitätsstufe
+qualityLevelInfo,                                   Allgemeine Qualitätsstufe
+mainFilterMode,                                     Hauptfilter
+mainFilterModeInfo,                                 Filter für Spieletexturen
+guiFilterMode,                                      GUI Filter
+guiFilterModeInfo,                                  Filter für HUD-Bilder
+videoFilterMode,                                    Video-Filter
+videoFilterModeInfo,                                Filter für Filme
+antiAliasingMethod,                                 Anti-Aliasing-Methode
+antiAliasingMethodInfo,                             Anti-Aliasing-Methode auswählen
+ambientOcclusionIntensity,                          Intensität der Umgebungsokklusion
+ambientOcclusionIntensityInfo,                      Die Intensität des Postprozesseffekts für Umgebungsokklusion einstellen
+fovSlider,                                          Sichtfeld
+fovSliderInfo,                                      Der sichtbare Bereich, der dargestellt wird
+terrainDistance,                                    Terrain-Entfernung
+terrainDistanceInfo,                                Maximale Entfernung der aktiven Terrains von der Spielerposition
+shadowResolutionMode,                               Schattenauflösung
+shadowResolutionModeInfo,                           Qualität der Schatten
+dungeonLightShadows,                                Schatten in Dungeons
+dungeonLightShadowsInfo,                            Dungeonlichter werfen Schatten
+interiorLightShadows,                               Schatten in Innenräumen
+interiorLightShadowsInfo,                           Innenlichter werfen Schatten
+exteriorLightShadows,                               Schatten im Freien
+exteriorLightShadowsInfo,                           Sonnenlicht wirft Schatten
+ambientLitInteriors,                                Vereinfachte Innenbeleuchtung
+ambientLitInteriorsInfo,                            Verwendet weniger komplexe Beleuchtung für höhere Leistung in Innenräumen
+
+- Options shared among sliders. Missing keys use default text.
+
+Off,                                                Aus
+On,                                                 Ein
+HQ,                                                 HQ
+
+Low,                                                Niedrig
+Medium,                                             Mittel
+High,                                               Hoch
+Very High,                                          Sehr hoch
+
+Low (25%),                                          Niedrig (25%)
+Medium (50%),                                       Mittel (50%)
+High (75%),                                         Hoch (75%)
+V. High(100%),                                      Sehr hoch (100%)
+
+Point,                                              Punkt
+Bilinear,                                           Bilinear
+Trilinear,                                          Trilinear   
+
+none,                                               Keine
+classic,                                            Klassisch
+climate,                                            Klima
+climateOnly,                                        NurKlima
+random,                                             Zufällig
+randomOnly,                                         NurZufällig
+minimal,                                            Minimal
+large,                                              Groß
+colour,                                             Farbe
+monochrome,                                         Monochrom
+
+reset,                                              Zurücksetzen
