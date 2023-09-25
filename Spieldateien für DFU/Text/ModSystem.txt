@@ -1,0 +1,70 @@
+- Text database for mod and mod settings windows.
+
+schema: *key,text
+
+modLoadPriority,            Ladereihenfolge
+modTitle,                   Ausgewählt
+modDescription,             Beschreibung Modifikation
+modVersion,                 Version
+modAuthor,                  Autor
+modAuthorContact,           Kontakt
+modDFTFUVersion,            DFUnity Version
+
+emptyTitle,                 <Titel>
+missingTitle,               <Unbekannt>
+emptyDescription,           <Beschreibung>
+missingDescription,         <Fehlende Beschreibung>
+title,                      Titel
+description,                Beschreibung
+author,                     Autor
+ok,                         OK
+versionMismatch,            Versionskonflikt!
+
+increase,                   Hoch
+lower,                      Runter
+enableAll,                  ALLE EIN
+enableAllInfo,              Alle Mods aktivieren
+disableAll,                 ALLE AUS
+disableAllInfo,             Alle Mods deaktivieren
+enabled,                    Aktiviert
+enabledInfo,                Mod umschalten
+refresh,                    Aktualisieren
+refreshInfo,                Änderungen im Mod-Verzeichnis überprüfen
+saveClose,                  Speichern und Schließen
+saveCloseInfo,              Änderungen speichern und zum Optionsmenü zurückkehren
+extractText,                Text extrahieren
+extractTextInfo,            Textinhalte extrahieren
+extractTextConfirmation,    Alle Textinhalte dieses Mods wurden nach {0} extrahiert.
+new,                        Neu
+load,                       Laden
+save,                       Speichern
+delete,                     Löschen
+cancel,                     Abbrechen
+export,                     Exportieren
+exportMessage,              {0} wird nach {1} exportiert.
+reset,                      Zurücksetzen
+resetConfirmation,          Alle Einstellungen auf Standardwerte zurücksetzen?
+cleanConfigurationDir,      Konfigurationsdateien für unbekannte und deinstallierte Mods gefunden. Möchtet Ihr diese entfernen?
+
+backToOptions,              Optionen
+backToOptionsInfo,          Zurück zum Optionsmenü ohne zu speichern
+modsFound,                  Gefundene Modifikationen
+settings,                   Einstellungen
+settingsInfo,               Mod-Einstellungen ändern
+presets,                    Voreinstellungen
+
+presetCreator,              Voreinstellungen Ersteller
+presetNewInfo,              Erstellt aus den aktuellen Einstellungen neue Voreinstellungen.
+presetLoadInfo,             Voreinstellung laden und auf aktuelle Einstellungen anwenden.
+presetSaveInfo,             Aktuelle Einstellungen in ausgewählter Voreinstellung speichern.
+presetDeleteInfo,           Ausgewählte Voreinstellungen löschen.
+presetExportInfo,           Ausgewählte Voreinstellungen in eine Datei exportieren, die geteilt werden kann.
+titleOrDescriptionMissing,  Titel und Beschreibung sind Pflichtfelder.
+
+dependencyErrorMessage,                 Eine oder mehrere Modifikationen könnten möglicherweise nicht richtig funktionieren:
+dependencyIsMissing,                    Abrufen von Mod {0} fehlgeschlagen
+dependencyNotEnabled,                   Mod-Abhängigkeit {0} ist nicht aktiviert
+dependencyWithIncorrectPosition,        {0} muss in der Ladereihenfolge darüber positioniert werden
+dependencyWithIncompatibleVersion,      {0} hat Version {1}, aber {2} oder höher wird benötigt
+sortModsQuestion,                       Möchtet Ihr die Modifikationen automatisch sortieren?
+gameVersionUnsatisfied,                 Erfordert Daggerfall Unity v.{0} oder höher
