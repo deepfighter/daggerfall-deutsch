@@ -1452,7 +1452,7 @@ glücklich
 begünstigt
 glückverheißend
 Göttergesegnet",,,
-Mage,Magieresistenz,,,
+Mage,Magier,,,
 Spellsword,Magierkrieger,,,
 Battlemage,Kampfmagier,,,
 Sorcerer,Hexer,,,
@@ -1462,7 +1462,7 @@ Bard,Barde,,,
 Burglar,Einbrecher,,,
 Rogue,Bandit,,,
 Acrobat,Akrobat,,,
-Thief,Diebstahl,,,
+Thief,Dieb,,,
 Assassin,Assassine,,,
 Monk,Mönch,,,
 Archer,Schütze,,,
@@ -1537,3 +1537,65 @@ orcishSkill,Orkisch,,,
 midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3Ä{5},,,
 hthDamageFormatString,{0} Schaden: {1}-{2},,,
 affiliationFormatString,{0} (Ruf:{1}),,,
+answers_5404,"bow
+bow arrow
+crossbow
+bows
+crossbows
+Bogen
+bogen
+Bogen und Pfeil
+Armbrust
+Bögen
+Armbrüste",,,
+answers_5406,"one
+1
+Eins
+eins",,,
+answers_5423,"benefactor
+the benefactor
+der Wohltäter
+Wohltäter",,,
+answers_5424,"shut up
+shutup
+shaddup
+maul halten
+halts maul
+stillschweigen
+Stillschweigen
+schweig
+Schweig
+still
+Still
+schweigt
+stille
+Stille
+ruhe
+Ruhe
+sei ruhig
+Sei Ruhig",,,
+answers_5464,"yes
+ok
+i agree
+y
+agreed
+done
+fine
+okay
+sure
+yep
+ja
+Ja
+JA
+jep
+Jep
+JEP
+klar
+Klar
+KLAR
+natürlich
+Natürlich
+jo
+Jo
+JO",,,
+random,Zufall,,,
