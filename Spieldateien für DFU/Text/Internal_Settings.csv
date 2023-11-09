@@ -1,0 +1,75 @@
+Key,Value
+weaponSwingModes,"Klassisch
+Klicken
+Halten"
+mouseLookSmoothingStrengths,"Keine
+Niedrigstes
+Niedrig
+Mittel
+Hoch
+Höchstes"
+configureAdvancedControls,Erweiterte Steuerung konfigurieren
+continueUpper,WEITER
+mouseLookSmoothing,Mausbewegungsglättung
+mouseLookSensitivity,Mausempfindlichkeit für die Ansichtsbewegung
+invertLookY,Blick umkehren-Y
+movementAcceleration,Bewegungsbeschleunigung
+weaponSwingMode,Waffen-Schwung-Modus
+bowDrawback,Bögen – Spannen und Lösen
+toggleSneak,Umschalten Schleichen
+mouseWeaponAttackThreshold,Schwellenwert für den Waffenangriff mit der Maus
+Escape,Escape
+AutoRun,Automatisches Rennen
+ToggleConsole,Konsole
+PrintScreen,Screenshot
+QuickSave,Schnellspeichern
+QuickLoad,Schnellladen
+close,Schließen
+dungeonTextureModes,"Klassisch
+Klima
+Nur Klima
+Zufällig
+Nur Zufällig"
+cameraRecoilStrengths,"Aus
+Niedrig (25%)
+Mittel (50%)
+Hoch (75%)
+Sehr hoch (100%)"
+interactionModeIconModes,"Keine
+Minimal
+Groß
+Klassisch
+Farbe
+Monochrome
+Klassisches Fadenkreuz
+Farbiges Fadenkreuz"
+iconsPositioningSchemes,"Klassisch
+Mittel
+Klein
+Klein Deck links
+Klein Deck rechts
+Klein vertikal links
+Klein vertikal rechts
+Klein horizontal unten"
+helmAndShieldMaterialDisplay,"Off
+No Leather Chain
+No Leather
+On"
+qualitySettings,"Am Schnellsten
+Schnell
+Einfach
+Gut
+Wunderschön
+Fantastisch"
+filterModes,"Punkt
+Bilinear
+Trilinear"
+shadowResolutionModes,"Niedrig
+Mittel
+Hoch
+Sehr hoch"
+textureArrayLabel,Texture Arrays: 
+unsupported,Nicht unterstützt
+enabled,Aktiviert
+disabled,Deaktiviert
+textureArrayInfo,Verbesserte Umsetzung von Geländetexturen mit besserer Leistung und Modding-Unterstützung
