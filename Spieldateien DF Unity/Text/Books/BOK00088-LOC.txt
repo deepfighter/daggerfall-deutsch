@@ -1,0 +1,511 @@
+Title: Des Narren Ebenerz, Die Sechste Abhandelung
+Author: Frincheps
+IsNaughty: True
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+[/center]Des Narren Ebenerz
+
+
+[/center]- Die Sechste Abhandelung -
+
+[/center]
+[/font=1]
+[/center]von
+[/center]Frincheps
+
+[/font=4]
+
+
+[/font=1]
+[/center]Die Sechste Abhandelung 
+
+[/font=4]
+[/center]  Dolchsturz und Umland irgendwann in der Dritten Ära.
+
+[/font=1]
+[/center]Erste Szene
+[/font=4]
+
+  Zimmer des Abenteurers im Gasthaus Zum Toten Daedra. 
+
+    (PROLOGIST tritt auf, der ABENTEURER und ORTHO, der ins Bett steigt)
+
+PROLOGIST: Vielen Dank, dass ihr uns die Zeit gewährt habt, die spärliche Kulisse umzubauen, während unser Barde den alten Favoriten „Gruß und Lebewohl" sang. Nun denn, stellt euch, wenn ihr mögt, die luxuriöse und wohlige Suite dieses dunkelelfischen Spitzbuben, des Abenteurers, im Gasthaus Zum Toten Daedra vor. Es ist bald nach dem Ende der letzten Szene, die, solltet ihr es vergessen haben, damit schloss, dass unser Held und sein Mitverschwörer, Nephron, einige Arrangements trafen, um die Magier, Priester und Schmiede zu beschwindeln. Alle sind daran interessiert, ein Vorkommen von des Narren Ebenerz in die Finger zu bekommen, einem wundersam brennenden Mineral. Die Priester und Magier halten den Abenteurer jeweils für ihren Verbündeten. Die Schmiede wissen es besser und haben mit Ortho einen ihrer Lehrlinge abgestellt, um die Züge des Abenteurers im Auge zu behalten. Während Ortho schlummert, erlebt der Abenteurer seinen ersten friedlichen Augenblick seit Tagen. Ich sollte anmerken, dass diese Szene auf Anordnung der Gilde der Theaterautoren, Schauspieler und Bühnendichter mit Rücksicht auf die öffentliche Moral gegenüber dem Original gekürzt wurde. Sie enthält nur noch wenig relevantes Material. Eine vollständige Ausgabe kann nach der Darbietung für nur 50 G.s. Kopiergebühr vom Verfasser erworben werden. Nun ist es an der Zeit, dass der arme Prologist von dannen zieht.
+
+    (PROLOGIST ab)
+    (Der ABENTEURER beginnt sich zu entkleiden)
+    (Tapp-tapp an der Tür. Der ABENTEURER springt erschrocken auf)
+    (ORTHO schnarcht)
+
+ABENTEURER: Wer da? Ich komme!
+
+    (Tür öffnet sich - vorsichtig)
+    (COMTESSA tritt auf)
+
+ABENTEURER: Äh, nun ... äh ... kommt herein! Bitte.
+
+    (Der ABENTEURER tritt zurück, stolpert über die Hose, die noch um seine Knöchel hängt ...)
+
+COMTESSA: Es tut mir so leid, Euch zu überrumpeln, aber ich dachte, wir könnten etwas gemeinsam ... Oh! Ihr armer Mann, Ihr seid verwundet! Hier, lasst mich den Verband richten ... er sieht frisch aus.
+
+    (Legt den Verband an, diesmal richtig)
+
+ABENTEURER: Nun, ich ... öffnete ihn eben. Abendliche Übungen, Kalisthenie und so ...
+
+COMTESSA: Wie wurde Euch dieser Schnitt zugefügt - wenn ich fragen darf?
+
+ABENTEURER: Nein, kein Problem. Es war ... etwas früher, in einem Kampf. Diese drei Verrückten fielen über mich her.
+
+COMTESSA: Wirklich? Dieser Stoff sieht mir wie von einer Magierrobe aus.
+
+ABENTEURER: Nun ja, zwei von ihnen waren Magier.
+
+COMTESSA: Oh! Meine Güte! Ihr müsst sehr gut gewesen sein, sie zu schlagen.
+
+ABENTEURER: Oh, ah, nun, ich hatte schon den einen oder anderen Kampf. Ich möchte nicht unhöflich sein, aber wer seid Ihr?
+
+COMTESSA: Oh, verzeiht. Ich vergaß meine gute Erziehung. Ich bin die Comtessa Aveet Videspreed - nennt mich Ave. Vom Hofe zu Dolchsturz.
+
+ABENTEURER (zur Seite): Beim Reich des Vergessens, was nun?
+
+COMTESSA: Hier, helft mir aus diesem Gewand, diese Gasthauszimmer sind immer so ... heiß. Und lasst mich noch einmal Euren Verband prüfen, Ihr Ärmster. Ooh, Ihr tragt einen Ebenerzgürtel der Standhaftigkeit, und Armschienen der Stärke. Ooh, einen Armreif der Ausdauer. Das ist meine Glücksnacht.
+
+ABENTEURER (zur Seite): Hilfe.
+
+COMTESSA: Hier, lasst mich Euch mit diesem alten Hemd helfen - muss Euch noch nach weiteren Schnitten absuchen - die können sich so schnell entzünden, wisst Ihr.
+
+ABENTEURER (zur Seite): Nun, es sind diesmal nicht die Schmiede. Vielleicht hat sich mein Glück gewendet.
+
+COMTESSA: Nun, sieht alles gut aus ... sehr gut, in der Tat ...
+
+ABENTEURER: Äh ... nun, Ave - erzählt mir ... äh ... von Euch.
+
+COMTESSA: Wenn Ihr wollt - aber nur ein bisschen.
+
+ABENTEURER: Hier, trinkt etwas Wein ...
+
+    (PROLOGIST tritt auf)
+
+PROLOGIST: An diesem Punkt ist die würdevolle Sprache unseres Stückeschreibers von der Gilde der Theaterautoren, Schauspieler und Bühnendichter stark bearbeitet worden. Ich werde mich bemühen, die gestrichenen Abschnitte zu ergänzen. Doch zuvor sollte ich klarstellen, dass die Comtessa keine Verwandte irgendeines Adligen sein soll, der derzeit auf Burg Dolchsturz weilt. Die Comtessa Aveet erfreut den Abenteurer mit Geschichten über die seltsamen und herzlichen Mitglieder ihrer adligen Familie. Sie hat viele Brüder und Schwestern. Sie stehen sich alle sehr - nahe. 
+
+COMTESSA: Ich muss eine Bastardin sein. Ich war die einzige mit rotem Haar und einer Affinität für Magicka. Jeder versuchte, diese meine Fähigkeiten zu verheimlichen. Ich erinnere mich noch sehr gut an eine Tracht Prügel ...
+
+PROLOGIST: Die Comtessa erläutert weitere Unterschiede zu ihren Geschwistern.
+
+COMTESSA: Während meine Schwestern lernten, auf zehn verschiedene Arten einen Knicks zu machen, und meine Brüder Blumen arrangieren lernten, schlich ich mich in die Wälder oder die Stadt. Und bald lernte ich, alles zu bekommen, was ich wollte, von so gut wie jedem. Nur als Beispiel, da war dieser Händler, der drei Söhne hatte ...
+
+PROLOGIST: Die Comtessa geht ins Detail, was ihre Ausbildung betrifft. 
+
+COMTESSA: Ich wurde ziemlich gut in der Schule der Illusion. Ihr habt mich unten nie bemerkt, oder? Ich habe auch den Umgang mit einigen Waffen gelernt. Lasst mich erzählen, wie ich waffenlosen Kampf lernte ...
+
+PROLOGIST: Die Comtessa erzählt eine amüsante Anekdote, dann fährt sie fort.
+
+COMTESSA: Und an schlechten Tagen pflegte ich mich in der Bibliothek meines Vaters zu vergraben. Er hatte eine atemberaubende Sammlung alter Schriften. Ich war vom Altzwergischen fasziniert und konnte es recht gut lernen, denke ich. Natürlich hat seit Jahren keiner mehr einen gesehen oder mit einem gesprochen. Also ist es wohl vollkommen nutzloses Wissen, aber ich war schon immer daran interessiert neues Wissen zu sammeln. In der Magiergilde haben sie mir einen alten Hochelfenbrauch beigebracht. Ihr verteilt diesen Trank ganz über Euren Körper ...
+
+PROLOGIST: Die Comtessa berichtet von ihrer momentanen Langeweile.
+
+COMTESSA: Das Leben oben im Palast langweilt mich so. Meine Schwestern ...
+
+PROLOGIST: Die Schwestern der Comtessa unterhalten ein paar Zuschauer.
+
+COMTESSA: Und meine Brüder studieren nun die Fortgeschrittene Floraltheorie, also komme ich hier herunter, um ein paar ... äh ... Geschäfte zu tätigen. Ich versorge all meine Beziehungen mit ihren Lieblingslastern ... so kann ich die ganze verdammte Bande erpressen.
+
+ABENTEURER: Aber ist es nicht gefährlich hier unten? Habe ich nicht gehört, dass gerade erst eine junge Comtessa getötet wurde?
+
+COMTESSA: Diese kleine Nuss war meine Cousine, soweit es mich betrifft hat sie bekommen, was sie verdient hat. Sie dachte, sie könnte sich einfach die Kleidung einer Magd besorgen, ihre Haare unordentlich machen und als Gemeine durchgehen. Sie ist in der ersten Minute aufgeflogen, nachdem sie die Palasttore hinter sich gelassen hatte. Nun, ich dagegen nutze Illusion, Geschick, List - und ich bin bewaffnet. Übrigens war das eine hübsche Intrige, die Ihr und Neph euch da habt einfallen lassen. 
+
+ABENTEURER: Nun, lasst uns das Thema wechseln, ja? Was tragt Ihr eigentlich? Ich kann nichts sehen ... wie eine Waffe, meine ich ...
+
+COMTESSA: Hier, ich zeige es Euch ...
+
+ABENTEURER: Oh, das sind schöne ... Messer ...
+
+COMTESSA: Und hier sind noch mehr ...
+
+ABENTEURER: Oh ja ...
+
+COMTESSA: Aber wir brauchen diese dummen, gemeinen Waffen jetzt nicht, oder?
+
+ABENTEURER: Oh, oh - nun, das nenne ich wirklich Waffen ... Oh ja ... hochbelastbare, und auch noch erstklassige, oh ...
+
+COMTESSA: Ich glaube, dass es an der Zeit ist, das Ebenerz zu prüfen ... um nicht von Eurem Magierstab zu sprechen ...
+
+PROLOGIST: An dieser Stelle wurde umfangreiches Material entfernt. Denkt aber daran, dass jeder Gelehrte, der diesen Stoff eingehender zu studieren wünscht, für nur 50 G.s. eine Kopie erstehen kann - handgezeichnete Illustrationen kosten natürlich extra. Nach etwas Vergnügen schließt sich die Comtessa der Gruppe des Abenteurers an, um des Narren Ebenerz zu finden. Ich weiß, ich weiß, es hat auch im Originalskript nicht viel Sinn gemacht, um der Wahrheit Ehre zu geben. 
+
+    (PROLOGIST ab)
+
+ABENTEURER: Seid Ihr sicher, dass Ihr mit in die Wildnis gehen wollt?
+
+COMTESSA: Oh, ja. Ich langweile mich hier so sehr. Nun, nicht hier und jetzt, aber allgemein. Und ich kann wirklich eine Hilfe sein. Ich kann sehr gut im Wald überleben, mit dem Messer umgehen, waffenlos kämpfen ... Und es wird da draußen nachts ziemlich kalt, selbst für große ebenerztragende Männer wie Euch ...
+
+ABENTEURER: Also schön. Wisst Ihr, wohin und warum wir gehen?
+
+COMTESSA: Oh, natürlich. Das weiß ganz Dolchsturz. Alle schauen zu und warten, was passiert. Es laufen sogar ein oder zwei Wetten...
+
+ABENTEURER: Auf was ...?
+
+COMTESSA: Oh, auf Euer Leben.
+
+ABENTEURER: Oh je, oh je!
+
+COMTESSA: Keine Sorge - ich weiß alles über die Doppelgeschäfte mit Magiern, Priestern, Händlern, diesen groben Schmieden. Und ich habe vor, dass wir am Ende oben stehen. Ich liebe es, oben zu sein. Mit der Ware und dem Profit. Ich werde meinen dummen Verwandten in ihren langweiligen Palästen noch ein anderes Laster zu verkaufen haben.
+
+ABENTEURER: Aber wäre das nicht wir zwei gegen ganze Horden?
+
+COMTESSA: Oh nein. Fast jeder hier in der Stadt wartet darauf, was passiert und wer zurückkommt. Und ich werde für unsere 'Eskorten' ein paar Überraschung auf Lager haben - Ortho mit eingeschlossen. Draußen in der Wildnis kann man leicht mit ihnen fertig werden.
+
+    (ORTHO schnarcht)
+
+ABENTEURER: Erzählt mir mehr.
+
+COMTESSA: Gewiss. Aber lasst uns zunächst sehen, wie viele Reserven Ihr noch in diesem Ebenerz habt. Mmm, Euer Magierstab ist in guter Verfassung ...
+
+    (PROLOGIST tritt auf)
+
+PROLOGIST: Ganz genau. Entschuldigt die erneute Unterbrechung, aber wir müssen die Szene genau hier stoppen. Auf eine ungestüme Nacht folgt ein sanfter Morgen, der sich wie eine knospende Rose in den Himmel erstreckt. Und dann dämmert ein neuer Tag heran, und noch einer. Zehn Sonnenaufgänge und zehn ungestüme Nächte vergehen, während unser gerissener Abenteurer, die liederliche Comtessa, der schlaue und verschlagene Nephron, der flegelhafte Ortho und eine Mischung aus geilen Schmieden und zurückfallenden Mägden die Straße nimmt. Stellt euch vor, dass sie sich jetzt in der wilden Wildnis von Hochfels unweit der Wrothgarischen Berge befinden.
+
+[/font=1]
+[/center]Zweite Szene
+[/font=4]
+
+    (NEPHRON und allerlei Knaben und Mädchen treten auf)
+    (PROLOGIST ab)
+
+COMTESSA: Ich liebe diese bukolische Fröhlichkeit so sehr. 
+
+ABENTEURER: Es wird immer wilder. Ich nehme an, der gefährliche Teil kommt morgen ...
+
+COMTESSA: Ja, ein letzter Halt heute Nacht, in der alten Schenke dort - Minnies Taverne.
+
+ABENTEURER: Minnies Taverne? Oh, diese beiden alten Gelehrten, die alles aufgegeben haben, um hier die Taverne zu betreiben ... müssen im ganzen Jahr wohl nur zwei Gäste haben. 
+
+COMTESSA: Ich glaube, sie mögen die Einsamkeit. Gibt ihnen Zeit zum studieren. Sie wissen viel über altes Zwergenzeug - sprecht sie darauf an und Eure Ohren werden widerhallen. 
+
+ABENTEURER: Äh ... wann kommt Eure Überraschung? Ich sollte das wohl erfahren.
+
+COMTESSA: Sorgt Euch nicht, Liebster. In der Taverne, heute Nacht. Lehnt Euch zurück und genießt die Vorstellung.
+
+    (PROLOGIST tritt auf)
+
+PROLOGIST: Die Zeit vergeht, die Wagen rollen, Dinge geschehen hinten auf den Wagen. Und da sind seltsame, verstohlene Bewegungen auf den hohen Bergrücken ringsum, die keiner bemerkt. Als nächstes sehen wir unsere Schauspieler in Minnies Taverne, dem Heim von Minnie und Crunn, den Philosophenwirten. Stellt euch, wenn ihr mögt, den düsteren Speiseraum von Minnies Taverne vor. 
+
+    (MINNIE, CRUNN, and GURNSEY treten auf)
+    (PROLOGIST ab)
+    (GURNSEY bringt ORTHO noch mehr Bier. Sie setzt sich plötzlich. Sie starrt in ORTHOs Augen, ORTHO in die ihren. Münder bleiben offen.)
+
+MINNIE: ... äh ... Crunn ...
+
+CRUNN: ... ja ... Minnie ...
+
+MINNIE: ... ich dachte ...
+
+CRUNN: ... ja, du dachtest, Minnie ...
+
+MINNIE: ... äh .... dachte ...
+
+CRUNN: ... ja ... ich auch ...
+
+MINNIE: ... aber ich vergaß ...
+
+CRUNN: ... ja, Minnie ... Minnie ...
+
+MINNIE: ... Ja ...?
+
+CRUNN: ... Sei still...
+
+GURNSEY und ORTHO (zusammen): Moo ... oooh ... moo.
+
+ABENTEURER: Moo?
+
+COMTESSA: Seht, Abenteurer, Ortho ist beschäftigt.
+
+ABENTEURER: Ist er?
+
+COMTESSA: Seht nur.
+
+ABENTEURER: Und was ist mit den anderen Schmieden?
+
+COMTESSA: Jede Minute jetzt.
+
+    (ORTHO und das Schankmädchen stehen auf und nähern sich dem Tisch des ABENTEURERs. Der Boden bebt.)
+
+ORTHO: Das ist Gurnsey. Ortho liebt Gurnsey, oooh.
+
+GURNSEY: Gurnsey liebt Ortho ... moo ...
+
+ORTHO: Wir werden heiraten, jawohl.
+
+ABENTEURER: Nun, Glückwunsch! Und das war eine schöne lange Rede, Ortho!
+
+ORTHO: Wir werden Schweinchen großziehen.
+
+GURNSEY: Auch Tiere, werden Bauern sein.
+
+    (ORTHO und GURNSEY ab)
+
+ABENTEURER: Außergewöhnlich. Ave, ich glaube, Ihr dürftet schon einmal hier gewesen sein.
+
+COMTESSA: Oh ja. Ich komme oft hierher, um dem Palast zu entkommen und mit Minnie und Crunn die Zwerge zu besprechen.
+
+ABENTEURER: Ihr meint, dass diese beiden alten ... äh ... Gelehrten-Tavernenwirte wirklich Zwergisch und über Zwerge sprechen?
+
+    (Alle außer dem ABENTEURER, der COMTESSA, MINNIE und CRUNN fallen schlafend in ihre Essensschüsseln.)
+
+COMTESSA: Oh ja, Ihr müsst sehr geduldig sein. Aber seht nach unseren anderen Begleitern ...
+
+ABENTEURER: Bei der Fürstin!
+
+COMTESSA: Minnie war Alchemistin, bevor sie Crunn kennenlernte, und weiß eine Menge über vergessene Zwergentränke.
+
+ABENTEURER: Aber was machen wir mit ihren Körpern?
+
+COMTESSA: Wartet ...
+
+    (MAJOR tritt auf)
+
+COMTESSA: Abenteurer, lernt Major Blutnok kennen, den Befehlshaber meiner eigenen ... privaten kleinen Leibgarde. Er ist an meiner Seite, seit ich ein Kind war. Diente mir sehr gut, oder, Major?
+
+MAJOR: Wir geben Euch alles, Milady.
+
+ABENTEURER: Erfreut, Euch kennenzulernen, Major.
+
+COMTESSA: Wie geht es meinen anderen Männern?
+
+ABENTEURER: (zur Seite) Andere Männer?
+
+    (Andere Männer in Khajiitanzügen treten auf)
+
+MAJOR: Alle da und einsatzbereit, Milady. Hatten ein wenig Ärger mit etwas, das wie eine Händlergesellschaft aussah, die Euch gefolgt ist, aber die sind jetzt alle eine Schlucht runter und von der Bildfläche verschwunden. Nur noch eine Sache ...
+
+COMTESSA: Ja?
+
+MAJOR: Meine Männer und ich haben verstohlene Bewegungen ausgemacht, oben auf den Klippen, auf Bergrücken - immer gerade am Rand unseres Blickfelds. Und wir haben nach wie vor das Gefühl, beobachtet zu werden. Nun, meine Männer und ich sind die Besten, aber da draußen ist irgendwas. Mir gefällt das nicht, kein bisschen.
+
+COMTESSA: Oh je - und das, als es gerade lustig wurde.
+
+MAJOR: Es ist nichts Menschliches. Keine Magier, Schmiede, Priester. Und es sind nicht die üblichen Werwölfe, Harpyien, Orks, Daedra. Nichts dergleichen, ganz und gar nicht.
+
+MINNIE: Zwerge!
+
+CRUNN: Wo? ... oh ... Minnie ... denkst du ... dort ... oben ...
+
+MINNIE: ... Zwerge, dort oben ...
+
+CRUNN: ... Wie aufregend ... mmmm ...
+
+MINNIE: ... Dort, dort, Crunn, beruhige dich ... nur Zwerge ... Ich wusste, dass sie eines Tages ...
+
+CRUNN: ... erwachen ...?
+
+MINNIE: ... wiederkommen ...
+
+CRUNN: ... aber... ich war nirgendwo ...
+
+MINNIE: ... die Zwerge, Crunn ...
+
+CRUNN: ... Oooh ... zurück... so aufregend... Zwerge! ... oooh ...
+
+COMTESSA: Nun, Major, ist das möglich?
+
+MAJOR: Alles ist möglich, vor allem hier oben. Zwerge? Ich weiß nicht. Ich und meine Männer, wir werden mal bei denen aufräumen. Dahinten ist ein guter, tiefer Minenschacht. 
+
+    (Alle ab, außer dem ABENTEURER und der COMTESSA)
+
+ABENTEURER: Zwerge, Ave! Bedeutet das Ärger? Ich meine, gewissermaßen gehört ihnen all das Ebenerz da unten, oder?
+
+COMTESSA: Vielleicht. Ich glaube, wir müssen nur vorwärtsdringen und abwarten, wie es sich entwickelt. Vielleicht kann ich versuchen, mit ihnen zu reden? Oh, und Abenteurer, Ihr müsst den ersten Wagen fahren. Ich werde den des alten Nephron nehmen. Wir lassen die anderen hier - für später.
+
+ABENTEURER: Was? Keine bukolische Fröhlichkeit mehr?
+
+COMTESSA: Tut mir leid, aber wir müssen zu unserem Ziel und wieder zurück, bevor sich das Wetter verschlechtert.
+
+ABENTEURER: Können Euer Major und seine Männer nicht mit den Wagen umgehen?
+
+COMTESSA: Oh, nein. Sie werden uns nach allen Seiten decken, um Überraschungen zu verhindern.
+
+ABENTEURER: Tja, alle guten Dinge enden, nehme ich an.
+
+COMTESSA: Nicht unbedingt. Wenn Ihr noch Ladungen in Euren Armreifen der Ausdauer habt, können wir nach oben gehen und sehen, was sich entwickelt.
+
+    (PROLOGIST tritt auf)
+
+PROLOGIST: Nun, ich glaube, wir alle haben das kommen sehen. Die dritte Szene findet etwas später am Zielort statt. Flankiert von den Männern des Majors sind der Abenteurer und die liederliche Comtessa erfolgreich der Karte der teuren, verblichenen Magier gefolgt. Stellt euch große Adern glitzernden, ebenerzartigen Materials vor, das die Oberfläche durchdringt, und ein angenehm warmes Feuer aus des Narren Ebenerz, an dem sich der Abenteurer und die Comtessa ausgestreckt haben. Im Westen stehen die Zeichen auf einen Wetterwechsel und den ersten großen Schneesturm des Jahres. Sie haben einige Zeitlang geschürft und der Abenteurer beginnt, die Strapazen echter Arbeit zu spüren. 
+
+    (PROLOGIST ab)
+
+[/font=1]
+[/center]Dritte Szene
+[/font=4]
+
+ABENTEURER: Ich habe Blasen an den Händen davon, diesen schwarzen Unfug auszugraben, Blasen am Hintern vom Kutschbock und uns geht das Bier aus. Mein Armreif ist auch bald leer und meine Finger frieren ein.
+
+COMTESSA: Was, Euer Armreif ist bald leer? Oh, das ist etwas ernstes.
+
+(MAJOR tritt auf, rennend)
+
+MAJOR: Zwerge! Milady, Zwerge, dutzende dieser kleinen Kerle haben meine Männer erwischt! Es tut mir leid, Milady.
+
+(Die COMTESSA springt auf die Füße)
+
+COMTESSA: Major, verschwindet auf der Stelle von hier. Wenn Ihr es schafft, könnt Ihr uns vielleicht später helfen. Ich werde versuchen, mit ihnen zu reden.
+
+    (MAJOR ab) (ZWERGE treten auf)
+
+COMTESSA: Hhjgys jjvvu klpss Jjqqx zzyzx.
+
+ZWERGE (zusammen): Jjpoo Kalagloo gashnoo bibloo franoo Xxnadoo
+
+COMTESSA: Jnik? Balpo?
+
+ZWERGE (zusammen): Gabloo! Wazzikoo! Eppapupu!
+
+COMTESSA: Glooky, glooky, glooky.
+
+ABENTEURER: Ave, was geht hier vor?
+
+COMTESSA: Beruhigt Euch. Ich glaube, ich habe sie damit beeindruckt, dass ich ihre Sprache spreche. Ich verstehe nicht alles, aber es scheint, dass sie nur 'aufgewacht' sind oder so. Und dass sie uns nichts von des Narren Ebenerz mitnehmen lassen werden - irgendwie ist es mit dem echten Material verbunden. Und es gehört wirklich den Fürsten des Reichs des Vergessens - die Zwerge kümmern sich nur darum oder so.
+
+ABENTEURER: Sehr interessant. Nun, was ist mit uns?
+
+COMTESSA: Ich habe einen Handel herausgeschlagen, den einzigen, der möglich war. Ich erzählte ihnen von Minnie und Crunn, wie sehr die beiden Alten in Zwergengeschichten und Legenden bewandert sind. Die Zwerge sagten mir, dass sie jetzt, wo sie ‘aufgewacht’ sind oder so, drei Dinge wollen - Bier, Frauen, und dass wir des Narren Ebenerz in Ruhe lassen.
+
+ABENTEURER: Ah, das wars dann.
+
+COMTESSA: Nun, ich erzählte ihnen von dem ganzen Bier in Minnies Taverne. Und von den beiden Rothaarigen dort. Sie gehen dorthin, gerade eben. Wir dürfen nur einen leeren Wagen nehmen, zwei Pferde. Und sie werden uns den ganzen Weg lang bewachen. Sie sagten auch, dass sie - keine Ahnung, wie - des Narren Ebenerz hier ganz vernichten wollen. Es sollte nicht so an der Oberfläche liegen, sagen sie. (zur Seite) Zwergisch ist eine erstaunlich kompakte Sprache.
+
+ABENTEURER: Bei den gewaltigen dröhnenden Arschbacken von Sheogorath! All diese Blasen und Rückenschmerzen für nichts! Ah nun. Wenigstens leben wir noch. Für’s erste ...
+
+    (Alle ab)
+    (PROLOGIST tritt auf)
+
+PROLOGIST: Farnoo Lickety Kanoo Gadfloo. Oh, tut mir schrecklich leid. Wenn die vierte Szene beginnt, sind wir wieder zurück in Minnies Taverne, wo die Zwerge in den Ferien zu sein scheinen. 
+
+    (Der ABENTEURER, die liederliche COMTESSA, MINNIE, CRUNN, und die ZWERGE treten auf)
+    (PROLOGIST ab)
+
+[/font=1]
+[/center]Vierte Szene
+[/font=4]
+
+MINNIE: ... ga ... sszx ... spnoo? ...
+
+CRUNN: ... glurky ...
+
+ZWERGE (zusammen): Jotcha potchka lazzo lanni joopy hoopy qui me amat, amat et canem meam
+
+ABENTEURER: Ave, irgendwelche Ideen? Ich kann meine magischen Artefakte nicht nutzen. Und wenn das Bier ausgeht ...
+
+COMTESSA: Euer Ebenerzmaterial ist gegen sie nutzlos. Zwerge arbeiten mit Ebenerz, also schätze ich, dass sie es irgendwie unterdrücken können. Keine Sorge - bedenkt, diese Zwerge haben jahrhundertelang geschlafen oder so. Und Minnie hat einen großen Vorrat an Bier. Es kommen nicht so viele Gäste hier entlang, und sie weiß, wie man das Bier richtig salzt, um es über Jahre hinweg haltbar zu machen. 
+
+ABENTEURER: Oh, deshalb sieht meine Zunge nach ein oder zwei Krügen immer wie ein Lederriemen aus.
+
+COMTESSA: Zwerge scheinen Bier zu lieben. Ich erwarte, dass sie in einer Stunde oder so hinüber sind.
+
+    (ZWERGE fallen ins Koma)
+
+COMTESSA: Wenn nicht früher. Kommt schon, Abenteurer. Nehmt Euch einen Sack und fangt an zu sammeln! Wenn die Zwerge aufwachen, erledigen sie das Bier und dann uns. 
+
+    (Die liederliche COMTESSA und der ABENTEURER plündern die Zwerge aus)
+
+ABENTEURER: Nach Süden, so schnell uns die Pferde bei diesem Wetter tragen können.
+
+COMTESSA: Wenn wir weit genug wegkommen, bevor sie aufwachen, haben wir es geschafft - ich glaube nicht, dass sie ihre teuren Berge verlassen. Ich hoffe nicht.
+
+    (PROLOGIST tritt auf)
+
+PROLOGIST: Der wimmernde weiße Winterwind wirbelt, beisst, treibt den Schnee vor sich her, bis er hüfthoch liegt. Der Abenteurer und die Comtessa verirren sich im Schneesturm. Ein paar Tage später finden wir sie verzweifelt nach Wärme suchend und ausgezehrt wieder. 
+
+    (PROLOGIST ab)
+
+ABENTEURER: Die Pferde können nicht mehr. Sie kommen keinen Schritt mehr vorwärts und es schneit schon wieder. Kein Bier mehr da und nur noch ein Laib Brot.
+
+COMTESSA: Das muss reichen.
+
+    (Plötzlich springt eine Gruppe Riesen auf den Helden und die Heldin zu, aber nach schnellem Werk mit den Armschienen des Feuersturms liegen haufenweise tote Riesen herum.)
+
+ABENTEURER: Noch etwas übrig, Ave?
+
+COMTESSA: Nein, kein Feuer mehr - nur meine Dolche.
+
+    ABENTEURER: So wie hier, nur ein gewöhnliches Kurzschwert. Sheogorath verfluche diese Zwerge! Diese Deppen haben unsere Pferde gefressen! Glaubt Ihr, dass der Major es geschafft hat?
+
+COMTESSA: Wenn es einer kann, dann er. Ich schätze, wir werden es in der Stadt erfahren. Mir kommt eben ein interessanter Gedanke. Jagen Riesen nicht in mehreren Gruppen? Höre ich da noch mehr?
+
+    (Grummelnde und grunzende Geräusche hinter der Bühne)
+
+ABENTEURER: Ja, noch mehr Riesen da draußen. Schnell, Ave, helft mir mit dem hier.
+
+    (Der ABENTEURER fängt an, den Körper eines Riesen auszuweiden)
+
+COMTESSA: Was in Tamriel macht Ihr da? Das ist kein guter Zeitpunkt, um Anatomie zu studieren!
+
+ABENTEURER: Keine Diskussionen, klettert hinein!
+
+COMTESSA: Geschwätz und Geschwurbel! In diesen stinkenden, toten Riesen? Mein lieber Abenteurer, ich bin eine Dame.
+
+ABENTEURER: Es ist unsere einzige Chance! Der Riesengestank wird unseren Geruch überdecken, und lebende Riesen berühren niemals tote. Schnell!
+
+    (Der ABENTEURER und die COMTESSA klettern in den dampfenden Riesenkadaver)
+
+ABENTEURER: Hier, helft mir, die Haut zuzuziehen - und versucht Euch nicht zu übergeben Macht keinen Mucks.
+
+    (PROLOGIST tritt auf)
+
+PROLOGIST: Einige Stunden vergehen.
+
+    (PROLOGIST ab)
+    (Der ABENTEURER und die liederliche COMTESSA stecken ihre Köpfe aus dem Bauch des Riesen)
+
+ABENTEURER: Sie sind alle weg, aber es schneit stark. Wird definitiv ziemlich kalt. Wir bleiben besser hier.
+
+COMTESSA: Hier ist es wirklich warm.
+
+ABENTEURER: Es wird uns warm halten und vor Sturm und Riesen schützen, zumindest einen Tag oder so, wenn wir den Gestank aushalten. Hier, wollt Ihr etwas Brot? 
+
+    (Die COMTESSA fällt der Übelkeit zum Opfer)
+    (PROLOGIST tritt auf)
+
+PROLOGIST: Für diese letzte Szene des Stücks müssen wir, bitte vergebt uns, die Bühne umbauen. Die „Riesenleichen" und was nicht noch alles wegschaffen. Bitte habt Geduld, während unser Barde den zeitlosen Klassiker "Wohin gehst du?" spielt. Wenn der Szenarist zu lange braucht, wird er auch noch "Zur weiteren Betrachtung" spielen.)
+
+[/font=1]
+[/center]Fünfte Szene
+[/font=4]
+
+PROLOGIST: Ah, da sind wir wieder, zurück im Gasthaus Zum Toten Daedra. Die Comtessa und der Abenteurer haben es letzten Endes doch noch geschafft. Sie mussten dreimal den normalen Preis zahlen, da sie sehr schmutzig waren und stanken. Nun sagt euch der arme Prologist Lebewohl, verehrtes Volk. 
+
+COMTESSA: Den Göttern sei Dank für heißes Wasser und Seife! Ich fürchtete schon, ich würde für immer wie ein Riese stinken.  
+
+ABENTEURER: Ich auch. Wohin seid Ihr gegangen, als ich gebadet habe? Und fordern da draußen keine Magier, Priester, Schmiede oder Händler unser Blut?
+
+COMTESSA: Ich war schnell im Palast und habe das richtiggestellt, ein paar Cousins haben den Schmieden und Händlern gesagt, dass wir keine Wagenladungen mit des Narren Ebenerz haben. 
+
+ABENTEURER: Zu schade, dass das leider wahr ist. 
+
+COMTESSA: Aber zumindest interessiert sich keiner mehr für uns. Offenbar wurden einige Priester tot in einem alten Tempel oben am Edwardsberg gefunden. Zusammen mit einem Mädchen, alle an einem 'bösen grünen Pulver' oder so etwas gestorben. Und ein paar alte Magier namens Shub sind verschwunden ...
+
+ABENTEURER: Nun denn, was habt Ihr in die Säcke gestopft, das so wichtig war?
+
+COMTESSA: Hier, leert sie aus, seht es Euch an.
+
+ABENTEURER: Bei den Göttern, seht Euch das an!
+
+COMTESSA: Ja, diese Zwerge waren schwer mit Ebenerz beladen. Ringe, Halsringe, Armschienen, Gürtel, Helme. Alles gutes, altes Ebenerz.
+
+ABENTEURER: Und dieses ganze Zeug fühlt sich nur so mit Magicka geladen an. Ich könnte wetten, dass allein dieser Ring tausend Anwendungen ermöglicht ... was immer er bewirkt.
+
+COMTESSA: Ooh! Seht! Armschienen der Extremen Ausdauer und ein Gürtel der Stärke! Legt sie an, Abenteurer, lasst uns feiern! 
+
+ABENTEURER (zur Seite): Hilfe!
+
+    (EPILOGIST tritt auf)
+
+EPILOGIST: Wie ich befürchtet hatte, wurden alle offenen Handlungsstränge durch summarisches Blutvergießen abgeschlossen. Mehr von den Abenteuern des Abenteurers werden folgen, es sei denn natürlich, sie tun es nicht. Wir danken euch für eure besondere Geduld. Vergesst auf eurem Weg hinaus in den Abend nicht das Trinkgeld für eure geschätzte Schankmaid und genießt unseres Barden Darbietung des Khajiiti-Klassikers "Es ist Glückssache". Gute Nacht!
+
+    (Fanfare) (Alle ab)
+

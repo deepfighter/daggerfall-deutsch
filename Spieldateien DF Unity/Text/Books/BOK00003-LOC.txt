@@ -1,0 +1,36 @@
+Title: Die Wildelfen
+Author: Kiergo Chorvak
+IsNaughty: False
+Price: 300
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Die Wildelfen
+
+
+
+[/font=1]
+[/center]von
+[/center]Kiergo Chorvak
+
+[/font=4]
+
+
+
+In der Wildnis fast jeder Provinz Tamriels leben die Ayleiden, gemeinhin als Wildelfen bekannt, philosophische, wenn nicht direkte Nachfahren der ursprünglichen Bewohner des Landes. Während drei Völker elfischer Abkunft - die Salachen (oder Hochelfen), die Boichen (oder Waldelfen) und die Morichen (oder Dunkelelfen) - sich sehr gut in die neuen Kulturen Tamriels eingegliedert haben, halten die Ayleiden und ihre Brüder sich eher abseits von unserer Zivilisation und ziehen es vor, die alten Wege fernab der Augen der Welt zu praktizieren.
+
+Die Wildelfen sprechen eine Variation des Altcyrodiilischen und nicht Tamrielisch, was sie noch weiter als selbst ihre urbanisierteren Elfencousins absondert. Ihrem Temperament nach sind sie düster und wortkarg, obwohl sie sich Außenstehenden (oder "Pellani" in ihrer Sprache) gegenüber zweifellos anders verhalten als innerhalb ihrer eigenen Stämme.
+
+Tatsächlich war einer der herausragendsten Gelehrten der Universität von Gwilym ein zivilisierter Ayleidelf, Tjurhane Fyrre (1Ä 2790 - 2Ä 227), dessen Veröffentlichungen über Wildelfen auf eine lebendige, dynamische Kultur hindeuten.
+
+Fyrre ist einer von ganz wenigen Ayleiden, der offen über sein Volk und deren Religion spricht, er sagt selbst:
+
+     "Die Natur der Ayleidstämme ist vielschichtig, ihre Persönlichkeiten unterscheiden sich oft sehr von ihren Nachbarstämmen." (aus: Fyrre, T., Das Wesen der ayleïdischen Dichtkunst, S. 8, Verlag der Universität von Gwilym, 2Ä 12)
+
+Wie jede fremde Kultur werden auch die Wildelfen von den einfachen Leuten Tamriels häufig gefürchtet. Die Ayleiden stellen weiterhin eines der größten Rätsel auf dem Kontinent von Tamriel dar. Sie tauchen in den Seiten der geschriebenen Geschichte nur selten in irgendeiner Rolle auf und wenn, dann höchstens als seltsamer Anblick, auf den ein Chronist zufällig stößt, bevor sie wieder in den Wäldern verschwinden. Siebt man dann noch mutmaßliche Fiktionen von landläufigen Legenden aus, bleibt uns so gut wie nichts übrig. Die mysteriösen Wege der Ayleiden sind nicht erst seit der Ersten Ära geheimnisumwoben und es scheint, als würde das auch in den kommenden Jahrtausenden so bleiben.
+

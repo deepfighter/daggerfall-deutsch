@@ -1,0 +1,38 @@
+Title: Die Feen
+Author: Szun Triop
+IsNaughty: False
+Price: 5000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Die Feen
+
+
+
+[/font=1]
+[/center]von
+[/center]Szun Triop
+
+[/font=4]
+
+
+
+Feen gab es in Tamriel aller Wahrscheinlichkeit nach schon lange vor Beginn der Geschichtsschreibung, seit den Tagen der Altvorderen, vielleicht schon vorher. Die Erzählungen von ihrem Treiben finden sich in jeder Kultur, in fast jedem Dorf, jeder Stadt und allen Stadtstaaten des Kaiserreichs. Sie werden abwechselnd Feen, Feien, Illyadi, Elementargeister, Pixies und Sylphim genannt, und ihr Wesen scheint mit derselben Vielfalt von einer Geschichte zur nächsten weiterzuflitzen. Man könnte beinahe sagen, dass Feen ihrer Natur nach etwas unvorhersehbar sind.
+
+Der bekannte Gelehrte Ahrtabazus, der zur Zeit im Kristallturm der Sommersend-Inseln seine Studien betreibt, entwickelte eine interessante, wenn auch kontroverse Theorie über die Feen. Er ordnete die Feienvarianten in einer Reihe an, an einem Ende mit den flimmernden Funken beginnend, die Pixies oder von den Rothwardonen Whilloki genannt werden, und gottähnlichen Wesenheiten wie Gheateus, Chonus und Sygria am anderen. In der Mitte werden humanoide und halbhumanoide Wesen bis hin zu intelligenten Bäumen, Bächen, Felsen, sogar Bergen eingebracht.
+
+Dies alles bildete eine neue und vollkommen einzigartige Theorie und würde enthusiastische, wenn auch etwas skeptische Reaktionen hervorgerufen haben, hätte Ahrtabazus nicht folgende Fußnote ergänzt:
+
+"Es mag sein, dass Elfen in ihrer Gesamtheit Teil dieser Reihe sind, über den Whilloki und unter den Nephrinen. Sie haben gewiss ähnliche Eigenschaften und Neigungen zur Magie wie die anderen Feen." (aus: Ahrtabazus, "Die Feenreihe", Ersthalt, 2Ä 456)
+
+Kein Elf mochte in einer Hierarchie knapp über launenhafte Schelme wie die Whilloki gestellt werden, und Ahrtabazus wurde vorgeworfen, seine Annahmen basierten auf sehr vagen Zufälligkeiten. Gleichwohl hat seine Theorie der Feenreihe mit Modifizierung seit ihrer Veröffentlichung mehr und mehr an Akzeptanz gewonnen.
+
+Die hierarchische Reihe ist keine Befehlskette im engeren Sinne. Obwohl es heißt, dass Gheateus und Sygria von einer Schar geringerer Sylphim umgeben werden, sind Feen in ihrer Gesamtheit weder Untergebene noch Anführer. Ihre Pläne und Ränke werden von keinem höheren Zweck, sondern allein ihren eigenen Launen bestimmt.
+
+Dem stimmen die meisten Gelehrten der Feenkunde zu. Da es auf zufälliger Evidenz basiert und von Behelfstheorien gestützt wird, könnte es jedoch ebenso gut auch falsch sein.
+

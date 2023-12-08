@@ -1,0 +1,79 @@
+Title: Ein derbes Lied
+Author: Anonymus
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+
+
+[/center]Ein derbes Lied
+
+
+
+
+
+[/font=4]
+
+
+
+  In des Jahres Frühlingssonne
+  Anstand gehe, Laster komme
+  An den Höfen und Häfen
+  Der großen Bucht.
+  Neues Bier ist auch schon da,
+  Jeder fühlt sich sonderbar,
+  Und Grafen und Knechte
+  Straucheln ohne Zucht.
+  Von Bien' und Vöglein
+  Braucht nichts gesagt sein,
+  Uns're Körper für Unartiges
+  Sind bereit.
+  Hast du nicht gehört
+  Was dir sonst entginge
+  Für die Jugend, für ungehobelte Dinge
+  Ist’s an der Zeit.
+  Oh, wie schön zur Ernte im Kornfeld zu sitzen
+  Noch schöner, dabei ohne Kleider zu schwitzen. 
+
+  Der Iliac-Bucht Segen
+  Sei Wegruh gegeben
+
+  Das sanften Sündenpfad uns zeigt. 
+  Die Dunkelelfe, wie man sagt, 
+  Lässt sich blicken unverzagt
+  Bei Diebespack, Flickschustern,
+  Und im Dustern
+  Auch bei Sklaven, Fischerleut’.
+  Drüben auf dem Festland heut’
+  An Lainlyns Hofe, unverhüllt
+  Alles wirbelt, sexerfüllt.
+  Der Baronin Privileg
+  Gilt jedem Mann auf ihrem Weg - 
+  Der Baron nach Jungs und Mädchen sieht.
+
+  Wo der Dolch hinfiel
+  Sie tanzen viel
+  Der Hofstaat sich im Reigenschwung
+  Skandal ersinnt zur Abwechslung.
+  Der Wachhauptmann, ein steifer Stock
+  In königlichem Unterrock
+  Lange sucht nach einer Bohn’
+  Für seinen Soldatenlohn.
+
+  Und die Hofzauberin
+  Gewährt Euch den Wunsch,
+  Dass über seine Lanze
+  Der König stürzt beim Tanze. 
+
+  Oh, es ist schön, seiner Liebe keine Rose zu versagen
+  Noch schöner, dies ohne Kleider zu tragen.
+  Oh, es ist schön, alle Not zu vertagen
+  Noch schöner, dies ohne Kleider zu tragen.
+  Ja Sir, es ist schön gar keine Kleider zu tragen!
+

@@ -1,0 +1,54 @@
+Title: Zerbrochene Diamanten
+Author: Rysten Baylor
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Zerbrochene Diamanten
+
+
+
+[/font=1]
+[/center]von
+[/center]Rysten Baylor
+
+[/font=4]
+
+
+
+Ich erinnere mich an meine ersten Feierlichkeiten der Zerbrochenen Diamanten als junger Bursche im Glenumbramoor. An die großen, lauten Festtage erinnere ich mich gut - Erntedank, Mittjahr, Neujahr und den Kaisertag. Zu allen habe ich Erinnerungen, die weit zurückreichen, bevor ich mir wirklich der Bedeutung unserer Festlichkeit bewusst wurde. Jedes Jahr am 19. Tag des Eisherbstes wanderten meine Familie und ich zusammen mit allen, die wir sonst noch im Moor kannten, zu einer Burgruine mitten in der Wildnis. Hand in Hand bildeten wir einen riesigen Kreis um die Ruinen und sangen mit ehrfürchtig geneigten Häuptern ein Lied, das Sephavre.
+
+Wir taten dies viele Jahre und ich fragte nie nach dem Grund. Es ist schon seltsam, dass sonst so neugierige Kinder meiner Erfahrung nach nie Fragen nach den Zerbrochenen Diamanten stellen und Erwachsene selten freiwillig Auskunft geben. Nach und nach, als wir durch die Universität oder das Gerede uralter Verwandter mehr über unser Heimatland lernten, bekamen wir eine Ahnung, und dann erfuhren wir schließlich die Bedeutung der Zerbrochenen Diamanten.
+
+Als Einheimischer des Glenumbramoors kann ich nicht objektiv sein, aber Besucher sagten mir, dass das Leid - noch öfter sprechen sie von der Schande - der Einheimischen beinahe überwältigend ist. Es herrscht ein Gefühl vor, dass sich ein großes und altes Verbrechen noch immer in das Gewissen der Moorleute brennt. Obwohl es nicht zu unseren Lebzeiten geschah, wissen wir doch, dass die Schuld noch nicht beglichen ist.
+
+Ich spreche natürlich von dem Mord an Ihrer Ehrfurchtgebietenden Majestät Kintyra II., Kaiserin von Tamriel, am frostkalten Morgen des 23. Tages im Eisherbst des Jahres 3Ä 123.
+
+Wir kennen nicht den Namen der Burg, wo sie festgehalten wurde; wir kennen nicht den Namen ihres Mörders (allerdings war der Mann, der den Mord befahl, ihr Cousin und Thronräuber, Uriel III.); wir wissen nicht, wo sie beigesetzt wurde. Aber unsere Ahnen wussten, dass ihre rechtmäßige Herrscherin irgendwo in ihrem Land gefangen gehalten wurde und taten nichts, um zu helfen. Dafür tragen wir ihre Schande.
+
+An jenem Morgen, da unsere Ur-Ur-Ureltern von Kintyras Tod hörten, wurden sie von Entsetzen gepackt und bereuten ihre Tatenlosigkeit. Die Leute aus Felsschlucht und dem Glenumbramoor suchten in jeder kaiserlichen Burg nach den Verantwortlichen. Sie bildeten mit ihren Körpern Barrieren, um den Mörder im Inneren festzuhalten. Fahnen, die den Roten Diamanten der Septim-Familie trugen, wurden zerfetzt und verstreut. Zerbrochene Diamanten übersäten den Schnee.
+
+Das Lied, das wir jedes Mal zu Zerbrochene Diamanten singen, nennt sich, wie ich bereits erwähnte, das Sephavre. Ich fragte jeden im Glenumbramoor nach seiner Bedeutung, da es in Altbretisch gehalten und jeder Generation nur bekannt ist, weil sie es von ihren Eltern gelernt haben. Niemand kennt die exakten Wortbedeutungen, nicht einmal Tonlage und Emotion der Worte können einfach übersetzt werden. Als ich später mit einem Gelehrten sprach, der mir eine genaue Übersetzung des Sephavre gab, begann ich sowohl zu verstehen, warum es unsere Ahnen als Hymne für die große Ungerechtigkeit des Mordes an Kintyras II. wählten, als auch das Leid nachzuvollziehen, welches das Glenumbramoor seit diesem düsteren Morgen durchdringt. 
+ 
+ Das Sephavre
+
+    Seelen unserer Väter, leiden sollt ihr,
+    Denn ihr habt uns in die dunkle Zeit geführt,   
+    Da unsere eigenen, luftleeren Seelen          
+    Ignoranz und Schurkerei erblühen ließen
+    Wo einst unser Land zu sein schien.
+    Heult, Ahnen, heult und bringt uns
+    Erinnerungen an unsere Eintracht mit dem Bösen.
+    Wir tun alles, was wir können, um zu überleben,
+    Geben unsere Geister, Herzen und Körper auf.
+    Wir werden nicht kämpfen, wir werden zerrissen
+    Und wie Treibgut in einem wirbelnden Strudel
+    Für immer die Helfershelfer der Ungerechtigkeit sein.
+    Aber wir werden es für immer betrauern.
+

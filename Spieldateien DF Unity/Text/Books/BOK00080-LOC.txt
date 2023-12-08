@@ -1,0 +1,41 @@
+Title: Azuras Beschwörung
+Author: Sigillah Parate
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Azuras Beschwörung
+
+
+
+[/font=1]
+[/center]von
+[/center]Sigillah Parate
+
+[/font=4]
+
+
+
+Seit dreihundert Jahren bin ich Priesterin von Azura, der daedrischen Fürstin von Mondschatten, Mutter der Rose und Königin des Nachthimmels. Jedes Jahr zum Hogithum, den wir am 21. Erstsaat feiern, rufen wir ihre Majestät und bitten sie um Rat. Wir bieten ihr Wertvolles und Schönes dar. Sie ist eine grausame, aber weise Herrin. Wir beschwören sie nicht, wenn es zum Hogithum Gewitter gibt, da diese Nächte Sheogorath, dem Wahnsinnigen, gehören, auch wenn sie auf den Feiertag fallen. Azura versteht zu diesen Zeiten unsere Vorsicht.
+
+Wir dürfen Azura auch an anderen Tagen beschwören. Sie antwortet relativ häufig. Die einzigen Tagen, an denen es uns verboten ist, sie zu rufen, sind solche, die einem der anderen fünfzehn Fürsten gehören: der 1. und 13. Morgenstern, der 2. und 16. Morgenröte, der 5. Erstsaat, der 9. Regenhand, der 9. Zweitsaat, der 5. Mittjahr, der 10. Sonnenhöhe, der 3. Herdfeuer, der 8. und 13. Eisherbst, der 2. und 20. Abenddämmerung und der 20. Abendstern. Ich weiß, wer am 3. Herdfeuer, am 2. Abenddämmerung und am 20. Abendstern beschworen wird, aber bei den anderen bin ich mir nicht sicher. Es reicht, dass Azura diese Tage verboten hat. 
+
+Azuras Beschwörung ist sehr persönlicher Natur. Ich bin schon Priesterin dreier anderer daedrischer Fürsten gewesen, aber Azura weiß die Fähigkeiten ihrer Anhänger und unsere aufrichtige Bewunderung zu schätzen. 
+
+Als dunkelelfische Maid von sechzehn Jahren trat ich in den Zirkel meiner Großmutter ein. Sie verehrten Molag Bal, den Fürsten der Intrigen. Erpressung und Bestechung gehören ebenso zu den Waffen der Hexen Molag Bals wie schwarze Magie. Die Beschwörung Molag Bals erfolgt, sofern das Wetter nicht stürmisch ist, am 20. Abendstern. Diese Zeremonie fällt nur selten aus, aber Molag Bal erscheint seinen Kultisten als Sterblicher verkleidet auch häufig an anderen Tagen. Als meine Großmutter bei dem Versuch starb, den Erben von Feuerwacht zu vergiften, überdachte ich meinen Glauben an den Kult.
+
+Mein Bruder war ein Hexer des Boethiah-Kultes und nach allem, was er mir erzählte, war der Dunkle Krieger eher nach meinem Sinn als der tückische Molag Bal. Boethiah ist ein Kriegerfürst, der weniger verdeckt handelt als jeder andere Daedroth. Nach Jahren der Kriecherei und der Intrigen war es angenehm, für eine Herrin Taten mit direkten, sofortigen Folgen durchzuführen. Außerdem gefiel mir, dass Boethiah eine Daedra der Dunkelelfen ist. Unser Kult rief sie an dem Tag, den wir Bluttag nannten, am 2. Abenddämmerung. Blutige Wettkämpfe wurden ihr zu Ehren abgehalten, und die Duelle und Kämpfe gingen so lange, bis neun Kultisten durch die Hand anderer Kultisten getötet worden waren. Boethiah sorgte sich wenig um ihre Anhänger. Sie wollte nur unser Blut. Ich glaube, dass ich sie lächeln sah, als ich meinen Bruder in einem Übungskampf versehentlich erschlug. Mein Entsetzen schien ihr zu gefallen.
+
+Wenig später verließ ich den Kult. Boethiah war mir zu unpersönlich, zu kalt. Ich wollte einen Herren mit mehr Tiefgang als sie. In den nächsten achtzehn Jahren meines Lebens huldigte ich niemandem. Stattdessen las und forschte ich. In einem alten und gottlosen Buch stieß ich auf den Namen Nocturnal: Nocturnal, die Meisterin der Nacht, Nocturnal die Unergründliche. Wie vom Buch vorgegeben rief ich sie an ihrem heiligen Tag an, dem 3. Herdfeuer. Endlich hatte ich die persönliche Herrin gefunden, die ich mir so lange gewünscht hatte. Ich bemühte mich, ihre verschlungene Philosophie, die Quelle ihres mysteriösen Schmerzes, zu verstehen. Alles an ihr war dunkel und geheimnisvoll, selbst ihre Art zu sprechen und die Aufgaben, die ich für sie erfüllen sollte.
+
+Ich brauchte Jahre, bis mir klar wurde, dass ich Nocturnal ganz einfach niemals würde verstehen können. Ihr Geheimnis gehörte ebenso zu ihr wie die Brutalität zu Boethiah oder die Tücke zu Molag Bal. Um Nocturnal zu verstehen, muss man sie negieren, die Vorhänge zu ihrem dunklen Reich öffnen. So sehr ich sie auch liebte, erkannte ich doch, wie sinnlos es war, ihre Rätsel entschlüsseln zu wollen. Daher wandte ich mich ihrer Schwester Azura zu.
+
+Azura war der einzige Daedrafürst, dem ich je gehuldigt habe, der sich für seine Anhänger zu interessieren scheint. Molag Bal wollte meinen Geist, Boethiah meine Waffen und Nocturnal vielleicht meine Neugierde. Azura möchte alles zusammen, und mehr noch als das unsere Liebe. Nicht unterwürfige Sklaverei, sondern unsere ehrliche und wahre Zuneigung in all ihren Formen. Es ist wichtig, dass unsere Gefühle Teil unserer Anbetung sind. Und unsere Liebe muss auch nach innen gerichtet sein. Wenn wir sie lieben, uns selbst jedoch hassen, dann spürt sie unseren Schmerz. 
+
+Bis in alle Ewigkeit werde ich keine andere Herrin mehr haben.

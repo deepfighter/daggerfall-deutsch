@@ -1,0 +1,37 @@
+Title: Wegesruh, Juwel der Bucht
+Author: Sathyr Langbach
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Wegesruh, Juwel der Bucht
+
+
+
+[/font=1]
+[/center]von
+[/center]Sathyr Langbach
+
+[/font=4]
+
+
+
+Wegesruh ist eine der ruhmreichsten Städte im Westen Tamriels: glänzend in gegenwärtiger Schönheit, strahlend durch ihre Vergangenheit. Sie wird mehr geschätzt als alle anderen Städte in Hochfels. Keine andere Stadt trug, und trägt immer noch, so viel zur Kultur der Bretonen bei wie sie. Die Geister ihrer genialen Kinder sind noch immer allgegenwärtig in den Straßen. Man sieht sie in den Giebeldächern, den großartigen Alleen, den Marktplätzen mit ihren Düften. Die Bürger Wegesruhs haben Sinn für ihre Geschichte, aber sie sind davon nicht so besessen wie es die Menschen von Dolchsturz offenbar sind. Man fühlt sich zwar in einer modernen Stadt, wenn man Wegesruh besucht, doch in der Luft liegt eine Magie, wie sie nur zweiunddreißig Jahrhunderte Zivilisation mit sich bringen.
+
+Es ist schwer für die Historiker, das genaue Gründungsjahr von Wegesruh festzulegen. Eine kleine Siedlung an der Mündung des Flusses Bjoulsae in die Iliac-Bucht gibt es schon mindestens seit dem Jahr 800 der Ersten Ära. Die Händler und Fischer waren umgeben von Feinden. Die orkische Hauptstadt Orsinium war im Norden gewachsen wie Unkraut, und auf den Inseln im Westen wimmelte es nur so von akavirischen Piraten und Plünderern. Die Herkunft des Namens Wegesruh ist kein Geheimnis. Nach den Kämpfen, die die meisten Reisenden am östlichen Ende der Iliac-Bucht zu überstehen hatten, war das kleine Fischerdorf am Bjoulsae ein willkommener Ort der Ruhe.
+
+In keiner der bekannteren Erzählungen aus der Zeit der Besetzung durch Himmelsrand wird Wegesruh erwähnt. Laut den Annalen von Dolchsturz schreibt jedoch König Joile an Gaiden Shinji im Jahr 948 der Ersten Ära Folgendes: "Die Orks haben den Wegesruhern viel Leid gebracht und behindern den Verkehr zum Herzen des Landes." Der Brief wurde auf 1Ä 948 datiert. 
+
+Richtig blühte Wegesruh aber erst nach der völligen Zerstörung von Orsinium im Jahr 1Ä 980 auf. Die hart arbeitenden Händler und Kaufleute waren maßgeblich an der Gründung des Masconischen Handelswegs beteiligt, was die Piratenaktivität in der Bucht verringerte. Zu dieser Zeit besetzte Wegesruh beide Ufer des Bjoulsae. Die Gardners, eine erfolgreiche Händlerfamilie, erbauten einen ummauerten Palast und ließen später auch Banken und andere Unternehmen innerhalb ihrer Mauern zu. Es war ein Gardner, Farangel, der zum König ausgerufen wurde, als Wegesruh im 1100ten Jahr der Ersten Ära Botschafter aus dem Camorischen Reich akzeptierte und ihm das Recht gewährt wurde, sich Königreich zu nennen. 
+
+Obwohl Wegesruh nun von einer einzigen Familie regiert wurde, behielten die Händler doch außerordentliche Macht. Viele Ökonomen weisen darauf hin, dass der anhaltende Reichtum Wegesruhs trotz aller Schwierigkeiten auf die einzigartigen Beziehungen zwischen den Händlern und der Krone zurückzuführen sei. Der Dynastie der Gardners folgte die Kamberland-Dynastie, der die Horley-Dynastie und schließlich, in der Dritten Ära, die Septim-Dynastie, aber nie wurde ein König von Wegesruh durch Revolution oder Mord seines Amtes enthoben. Bis auf die Familie Septim kann jeder König von Wegesruh seinen Stammbaum zu einem Händlerfürsten von Wegesruh zurückverfolgen. Die Händler und der König respektieren einander, und diese enge Beziehung stärkt beide Parteien.
+
+Man braucht nur den großen Boulevard von Wegesruh hinabzugehen, um handfeste Beweise für diese einzigartige Allianz zu finden. Zunächst von Norden nach Süden verlaufend, teilt sich der Boulevard plötzlich und eine Seite führt nach Westen, die andere nach Osten. Beide Hälften enden in identischen Plätzen: Einer am Schloss von Wegesruh, dem ursprünglichen Palast von Aphren Gardner, und der andere am Kamberland-Platz, wo sich der älteste und reichste Markt von Wegesruh befindet. Die Botschaft ist klar: Der König und die Händler sind miteinander verbunden und ebenbürtig.
+
+Wegesruh hat Pest, Dürren, Seuchen, Piraterie, Eroberungen und Krieg mit viel Humor und Pragmatismus überstanden. Im Jahr 2702 der Ersten Ära war die gesamte Bevölkerung der Stadt gezwungen, sich zum Schutz vor Piraten, akavirischen Plünderern und der Thrassischen Pest auf den ummauerten Besitz der Gardners zurückzuziehen. Eine weniger findige Gemeinschaft wäre möglicherweise längst zerbrochen, aber die Wegesruher haben überlebt und bereichern Tamriel mit jeder Generation aufs Neue.

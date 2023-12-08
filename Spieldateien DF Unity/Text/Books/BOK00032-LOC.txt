@@ -1,0 +1,70 @@
+Title: Das Epos der Graufalke
+Author: Anido Jhone, Herausgeber
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+[/center]Das
+
+[/center]Epos
+
+[/center]der Graufalke
+
+
+[/font=1]
+[/center]von
+[/center]Anido Jhone, Herausgeber
+
+[/font=4]
+
+
+
+Entdeckt und aus einem uralten Band übersetzt von Anido Jhone, königlicher Archäologe:
+
+   Diese Erzählung stammt irgendwann aus der Zweiten Ära, höchstwahrscheinlich der Zeit nach der Knahaten-Grippe, oder zumindest habe ich das nach Hinweisen im Text vermutet. Ob die Erzählung wahr ist oder nicht - sie bleibt eine interessante Geschichte vom Überleben.
+
+   Der Leser wird mir, so hoffe ich, vergeben, dass ich das Epos etwas zwangloser übersetzt habe. Die Botschaft ist, denke ich, universell und sollte unmissverständlich sein.
+
+
+      Viel Vergnügen, geehrter Leser!
+
+                        A.J.J.
+
+
+
+Die Graufalke, ein kleines Kriegsschiff der Sommersend-Inseln, patrouillierte tief im Ozean nach einem Piratenschiff, das die Küste gebrandschatzt hatte. Die ersten drei Wochen auf See verliefen ereignislos. Zwei Stunden nach Sonnenuntergang, am 22. Tag nach Hafenausfahrt, sichtete der Ausguck die Spitze eines Segels im Mondlicht, gerade am Horizont. "Schiff voraus! Steuerbord vorn!“, rief der Ausguck der Graufalke. Kapitän und Mannschaft waren schnell auf den Beinen und stolperten an Deck. "Das ist das Schiff, nach dem wir suchen, Kapitän", sagte der Ausguck.
+
+"Alle Mann auf Gefechtsstation! Alle Bogenschützen auf ihre Posten", rief der Kapitän. "Volle Fahrt voraus!" Die beiden Schiffe kamen einander näher und eine dunkle Gestalt betrat das Vorderdeck des Piratenschiffs. Die Gestalt vollführte mit ihren Händen eine Geste und ein gigantischer Feuerball schoss der Graufalke entgegen. Der Feuerball traf mitten in die Segel, die sofort in Flammen standen. 
+
+Die Gestalt machte eine weitere Geste. Große Eisbolzen schossen aus ihren Händen und trafen die Graufalke genau über und unter der Wasserlinie, was große Löcher in seinen Rumpf riss. Die Graufalke war tödlich verwundet. Der Kapitän schrie: "Alle Mann verlassen das Schii-", als er von einem Piratenpfeil in der Kehle abgeschnitten wurde.
+
+Als die Graufalke, in Flammen und großer Schieflage, im Meer versank, schaffte es einer seiner Seeleute, Darik Seespucker, den Piratenpfeilen und Zaubern zu entkommen und zu einem Rettungsboot zu gelangen, das er in die Dunkelheit herabließ. Gerade als das Rettungsboot wasserte, sprang ein schneller, grauer Schatten hinein. Darik sah hin und erkannte Helnor Knurrbann, einen Khajiitsöldner, der dem Schiff zugeteilt war. Die beiden ruderten das Boot davon, als die Graufalke endgültig im Meer versank. In der Dunkelheit verpasste das Piratenschiff ihr kleines Boot. Nachdem die zwei weit aus der möglichen Sichtweite der Piraten gerudert waren, brachen sie vor Erschöpfung zusammen.
+
+Früh am Morgen des nächsten Tages machten sie eine Bestandsaufnahme der Vorräte auf dem Rettungsboot. Normalerweise hat ein Rettungsboot genügend Nahrung und Wasser an Bord, um sieben Leute zehn Tage lang zu versorgen.
+
+Anstelle der Nahrung fand Helnor jedoch eine Notiz: "Es hat sich bei einer Inspektion herausgestellt, dass der Proviant dieses Rettungsbootes gegen die Sommersend-Marineverordnung verstößt. Gemäß dieser Bestimmung wurde die Nahrung beschlagnahmt und vernichtet. Ein Ersatz kann gegen das Einlösen dieses Briefes beim Hafenversorgungsamt erhalten werden. Gezeichnet, Lt. Inspektor Windhohl", las Helnor laut vor.
+
+Da sagte Darik zu seinem Khajiitbegleiter: "Wir haben Unmengen von Wasser, aber nichts zu essen. Ich weiß nicht, was wir tun sollen. Wir könnten vermutlich Fischen, aber wir haben keinen Köder. Wir haben keine Chance, zurück an Land zu kommen - mit diesem Boot dauert das über einen Monat - bevor wir verhungern."
+
+"Wartet, ich habe eine Idee", sagte Helnor mit einem Glanz in seinen katzenartigen Augen.
+
+Sechs Wochen später kam das Rettungsboot im Hafen von Korwich an. Als das Boot am Dock festgebunden wurde, zog man eine einzelne Gestalt heraus, die wettergegerbt und ausgemergelt wirkte. Einer der Dockarbeiter blickte über das Rettungsboot nachdem man die Gestalt zur Behandlung beim Hafenheiler weggebracht hatte. "Hmm, was ist denn das?", sagte der Arbeiter zu sich selbst, als er einen großen Knochen aus dem Boot aufhob - einen von der Sonne ausgebleichten, weißen Knochen.
+
+Nachdem sich der einzige Überlebende der Graufalke von seinen Strapazen erholte hatte, wurde er zur Untersuchung des Todes von Darik Seespuck gebracht und vor den Magistrat auf einen Stuhl gesetzt. "Wir halten hier in Hochfels nicht viel von Kannibalismus. Ihr solltet besser eine gute Erklärung für Eure Taten haben", donnerte der Inquisitor zu Helnor Knurrbann, "Bei der Fürstin, habt Ihr das?". 
+
+Helnor erhob sich und sagte: "Euer Ehren, ich hatte keine Wahl. Es gab nichts zu essen und wir waren mindestens zwei Monate vom nächsten Hafen entfernt. Wir entschieden beide, dass es nur so wenigstens einer schaffen würde."
+
+"Nun, ich nehme an, das ist verständlich, wenn auch ziemlich geschmacklos", sagte der Inquisitor. 
+
+"Ihr denkt, es war geschmacklos?", murmelte Helnor zu sich selbst. "Ich hatte überhaupt keine Gewürze."
+
+"Eine letzte Sache noch, Herr Knurrbann. Wie wurde entschieden, dass Ihr derjenige sein solltet, der den anderen verspeisen würde? Der Wurf einer Münze?" 
+
+Helnor setzte sich auf und sagte: "Euer Ehren, das war sehr einfach. Darik Seespuck war Vegetarier."
+
+"Fall abgeschlossen!"
+

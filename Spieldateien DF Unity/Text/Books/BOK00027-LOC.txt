@@ -1,0 +1,42 @@
+Title: Außergewöhnliche Pflanzenwelt
+Author: Hardin dem Kräuterkundigen
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Außergewöhnliche Pflanzenwelt
+
+
+
+[/font=1]
+[/center]von
+[/center]Hardin dem Kräuterkundigen
+
+[/font=4]
+
+
+
+Den Mohn, in seiner schwarzen und weißen Varietät, findet man wildwachsend in den Bergen von Hammerfall. Seine saftigen Hülsen sind oft die einzige Nahrung für Abenteurer, die sich in der Wildnis ohne Verpflegung verlaufen. Man sagt, dass schwarze und weiße Hülsen zusammen ausgesaugt magische Eigenschaften haben. Wenn sie zerstoßen und mit der Milch der leichtfüßigen Bergziege vermischt werden, befähigt der entstehende Trank den Benutzer, sicher über den Boden zu schweben.
+
+Feuerfarn, ein ganzjähriges Gewächs, ist in der Provinz Morrowind heimisch. Die Blüten sind unauffällig und oft versteckt. Das glänzende, immergrüne Blattwerk und die Blüten sind widerstandsfähig gegenüber Zuständen großer Hitze und hellem Licht. Ein Blatt dieser Pflanze unter der Zunge des Abenteurers wird ihm Schutz bieten vor der Hitze und dem Feuer der Lavahöhlen und der warmen Ströme um Dagoth-Ur.
+
+Drachenzunge, ein gewöhnlicher Name für ein farnähnliches Gewächs, das im Schwarzmarsch wächst, ist besonders zahlreich in der Gegend des Ultherus-Sumpfes zu finden. Es ist eine schöne Wildblume, deren Name von den feuerroten Wedeln kommt, die die goldenen Blüte schützen. So prächtig sie ist, ist sie ein tödliches Gift für die meisten Lebewesen und muss von Abenteurern, besonders ungeschützten, gemieden werden, da schon die Berührung tödlich ist. Man sagt jedoch, dass Argonier die Pflanze anfassen können und den Saft ihrer Wurzeln nutzen, um ihre Konstitution zu erhöhen.
+
+Domica-Rothwurz ist eine Pflanze, die von vielen Einwohnern Valenwalds wegen ihrer schönen und auffälligen Blüten gezogen wird. Sie erreichen etwa die Höhe von einem halben Meter und entwickeln federartige Blätter, die Blüten sind üblicherweise leuchtend rot. Zu ihrer Schönheit kommt hinzu, dass ihnen die magische Fähigkeit zugeschrieben wird, die Erscheinung von jedem, der eine ihrer Blüten bei sich führt oder trägt, zu verstärken.
+
+Die Eisenholznuss ist eine hartschalige Frucht, die von den Eisenholzbäumen, die tief in den Wäldern von Himmelsrand wachsen, stammt. Das Holz dieser Bäume ist so hart wie das Metall, nach dem es benannt wurde. Die sehr seltene Art des Eisenholzes soll eine Nuss hervorbringen, die sehr saftig ist und sie soll die Stärke des Abenteurers, der fähig ist, sie zu knacken und an ihr teilzuhaben, vergrößern.
+
+Die Ginkoblätter, die man längs der Ufer von Flüssen und Seen in Hammerfall finden kann, sind höchst unauffällig, nur ihre eigentümliche Halbmondform macht sie bemerkbar. Das genießbare Laubwerk ist sehr süß und recht schmackhaft. Legenden sagen, wenn man sie sorgfältig mit dem Saft einer Aloe mischt, so hat das resultierende Gebräu die Fähigkeit, die Ausdauer für eine kurze Zeit zu erhöhen.
+
+Den Somnaliusfarn findet man in den Sümpfen der Schwarzmarsch. Die Wedel dieser Pflanze sind hellgrün und recht köstlich. Einen der Wedel zu pflücken kann sehr schwierig werden, da sie sich normalerweise bei Berührung einrollen, doch erst erlangt, kann er genutzt werden, um einen Feind eine kleine Weile schlafen zu lassen, wenn man ihn unter dessen Nase bewegt.
+
+Pfeilwurz ist eine dicke, schwammige Knolle, die man im Bezirk Valenwald findet. Die Pflanze ist recht schwer zu finden, da ihr überirdisches Blattwerk sehr dürr und knochig ist. Doch die Wurzel selbst kann dem Sammler sehr nützlich sein, da sie magische Eigenschaften besitzt. Die Paste, die man durch Mahlen der Wurzeln herstellt, ist recht heilsam und kann des Benutzers Genauigkeit mit Pfeil und Bogen oder einer anderen Schusswaffe verbessern.
+
+Nachtschatten gilt als sehr giftiges Kraut. Wie auch immer, die Art, die man in vielen Teilen von Elsweyr findet, wird von den Khajiit geschätzt, die die Laufbahn eines Diebes eingeschlagen haben. Viele Khajiit klemmen ein Stück Nachtschatten in ihre Rüstung, um ihre Fähigkeiten zum umherschleichen, verstecken und unsichtbarwerden zu verbessern.
+

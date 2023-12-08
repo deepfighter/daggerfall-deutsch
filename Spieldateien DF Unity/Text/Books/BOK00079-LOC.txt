@@ -1,0 +1,42 @@
+Title: Etikette mit Herrschern
+Author: Erystera Ligen
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Etikette mit Herrschern
+
+
+
+[/font=1]
+[/center]von
+[/center]Erystera Ligen
+
+[/font=4]
+
+
+
+Weil die Regeln so komplex und die Einsätze so hoch sind, erbleichen viele Leute bei dem Gedanken, mit einem betitelten Adeligen zu sprechen. Für den Beginn ist es wichtig, die richtige Anrede zu finden, denn wie es niemand mag, beim falschen Namen genannt zu werden, gefällt auch keinem eine falsche Betitelung. Das Problem besteht darin, dass sich die Traditionen des Adelsstandes in Hochfels von Region zu Region etwas unterscheiden. Es folgen nun die Grundregeln:
+
+Es gibt acht Königreiche in Hochfels, und zwar in folgenden Regionen: Nordspitz, Dolchsturz, Schornhelm, Camlorn, Farrun, Immerfort, Wegesruh und Jehanna. Herrscht in einem dieser Gebiete eine Frau, so wird sie Königin genannt. Der Gemahl einer Königin und die Gemahlin eines Königs sind nicht notwendigerweise von gleichem Rang - sie müssen nicht selbst Könige oder Königinnen sein. Ihre Kinder sind Prinzen und Prinzessinnen. Ihre Enkelkinder sind ebenso Prinzen und Prinzessinnen. Stirbt ein männlicher Herrscher, so nimmt seine Gemahlin den Titel einer Königinwitwe an, vorausgesetzt, es gibt nicht bereits eine Frau dieses Standes.
+
+Wie bei allen Regeln gibt es Ausnahmen. Eine erwähnenswerte Besonderheit gab es unlängst in Dolchsturz, als König Lysandus starb. In den meisten Regionen wäre seine Gemahlin Mynisera nicht Königinwitwe von Dolchsturz geworden, weil Lysandus' Mutter, die Witwe Nulfaga, noch lebte. In Dolchsturz ist es jedoch statthaft, dass zwei Personen den gleichen Titel teilen. Demgemäß haben nun beide, Nulfaga und Mynisera, den Titel einer Königinwitwe inne.
+
+Stirbt eine weibliche Herrscherin, die ihren Rang nicht mit ihrem Gemahl teilt, so gibt es kein männliches Äquivalent zum Wort Königinwitwe. Witwer von Königinnen nehmen gewöhnlich einen anderen Titel an, entweder einen geringeren Familientitel oder einen, den sie von ihren Kindern erhalten. Es gab einige Männer in der Geschichte von Hochfels, die mit dem Tod ihrer Gemahlin von der Anrede als König zur Anrede als Herr herabgesunken sind.
+
+Andere Regionen werden von Herzögen und Herzöginnen, Marquis (oder Marquessen) und Marquisen (oder Marquionessen), Grafen und Gräfinnen, Vicomtes und Vicomtessen, Baronen und Baronessen, Fürsten und Fürstinnen regiert. Diese Liste reicht theoretisch vom höchsten bis zum niedrigsten Rang, aber der Herrscher eines Gebiets steht über allen anderen Adligen, gleich welchen Titels. Dwynnen ist zum Beispiel eine Baronie, und der Baron oder die Baroness von Dwynnen steht über den anderen Adligen des Herrschaftsgebietes, selbst Herzögen und Grafen.
+
+In der Theorie (auch hier gibt es wieder Abweichungen durch lokale Bräuche) nimmt der älteste Sohn oder die älteste Tochter eines Adligen den Titel an, der dem höchsten Titel der Eltern folgt. So hatte der Herzog von Nordmoor, der dazu der Marquis von Calder ist, eine Tochter, die zur Marquioness von Calder wurde.
+
+Könige und Königinnen werden in Konversationen immer mit "Eure Majestät" angesprochen; Grafen und Gräfinnen mit "Euer Gnaden". Alle anderen Herrscher werden mit ihrem Titel und Namen, oder Fürst und Fürstin sowie ihrem Namen angeredet.
+
+Es können einige Hinweise nötig sein, um genau zu bestimmen, wer über ein Gebiet herrscht. Ihr mögt Euch darauf verlassen, dass die Leute auf den Straßen ihrem Herrscher die Referenz erweisen, aber das muss nicht unbedingt ausreichen. Wenn schließlich vom Fürsten Bemmesch und der Vicomtesse Byrd geschwätzt wird, könnten beide oder keiner von beiden Herrscher des Gebietes sein. Ich habe herausgefunden, dass es eine viel zuverlässigere Methode ist, den Namen von Tavernen und Geschäften der Region einige Aufmerksamkeit zu widmen. Traditionell werden viele von diesen "Des Grafen Fuchs" oder "Der Fürstin Besorgungen" genannt. Das ist in den meisten Fällen der Name des Herrschers. Lautet der Geschäftsname "Fürstin Annisas Besorgungen" oder "Fürst Büchswerths Fuchs", so ist dies vermutlich der Name eines lokal betitelten Händlers, nicht des Herrschers. Ein Geschäft mit dem Herrschertitel ohne Namen gibt es vermutlich schon länger, es braucht seinen Namen nicht mit dem neuen Herrschernamen zu ändern.
+
+Im Gespräch mit jeder Person, ob Herrscher oder nicht, ist es zuvorderst wichtig zu wissen, was für eine Art von Person diese ist. Herrscher neigen dazu, auf Förmlichkeiten Wert zu legen und bevorzugen es, wenn sie höflich und ehrerbietig angesprochen werden. Natürlich gibt es auch hier Ausnahmen, besonders unter jüngeren Herrschern oder solchen, die neu in ihrer Position sind. Diese können einen kühneren, salopperen Stil vorziehen. Wenn Ihr Euch nicht sicher oder Eurer Fähigkeit ungewiss seid, wahlweise das Vokabular eines Aristokraten oder Kriminellen anzunehmen, dann entscheidet Euch dafür, so einfach und direkt wie möglich zu sprechen. Ihr werdet selten jemanden mit einfacher Rede entzücken, aber auch niemanden durch mangelnde Höflichkeit oder überholte Ausdrucksweise verstimmen. Einen Herrscher zu verstimmen - das muss ich Euch nicht sagen - kann der letzte Fehler sein, den man begeht.
+

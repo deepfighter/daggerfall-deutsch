@@ -1,0 +1,48 @@
+Title: Der Betonienkrieg
+Author: Vulper Neutor
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Der Betonienkrieg
+
+
+
+[/font=1]
+[/center]von
+[/center]Vulper Neutor
+
+[/font=4]
+
+
+
+In ihrer Gesamtheit erzählt würde die Geschichte der Iliac-Bucht die Leser mehr entsetzen als die grauenvollste Legende über den Unterkönig. Im Vergleich zu den Kriegen der Ersten und Zweiten Ära scheint unser letzter Waffengang, der Betonienkrieg, zu verblassen. Die Belagerung von Orsinium währte ohne Unterbrechung von 1Ä 950 bis 1Ä 980. Ein Jahrtausend später raffte die Thrassische Pest zusammen mit dem Krieg der Rechtschaffenheit über die Hälfte der Bevölkerung der Iliac-Bucht dahin. Und doch fasziniert uns der Betonienkrieg, und das nicht nur wegen seiner Unmittelbarkeit. 
+
+Ironischerweise strebte Fürst Mogref von Betonien nach Frieden, als er um Protektion der Insel Betonien durch Dolchsturz ersuchte. Die Insel war lange Zeit unabhängig, aber als die Piraterie in der Bucht zunahm, erkannte Mogref erst wirklich die Verwundbarkeit Betoniens. Auf den Rat vieler hin, einschließlich Fürst Vanechs, seines Erzpriesters der Kynareth, stimmte König Lysandus zu, Betoniens Lehnsherr zu sein. Obwohl Betonien eine wohlhabende Fischerinsel und strategisch gut gelegen war, stellte das Vasallentum Betoniens in erster Linie einen Akt der Barmherzigkeit dar. Lysandus wusste, dass Betonien, wenn ihm niemand helfen würde, in die Hände von Piraten oder gar jemand Schlimmerem fallen würde. 
+
+Unglücklicherweise war König Camaron von Schildwacht nicht einverstanden. Indem er einen zweihundert Jahre alten Vertrag zitierte, unredlich, wenn nicht gar widerrechtlich abgefasst, um zu behaupten, dass Betonien ein "traditioneller Besitz" des Königreichs Schildwacht sei, erklärte Camaron den Krieg. Die Mehrheit seiner Berater, Kriegsherren in einem traditionell kriegslüsternen Land, unterstützten ihren König darin. Die oberste Ratgeberin, eine "das Orakel" genannte Frau, sah Tod und Niederlage in diesem Krieg voraus, aber ihre Weisheit wurde unterdrückt und sie selbst vom Hof verbannt. Camaron hätte auf sie hören sollen. 
+
+Einige Handgemenge des Krieges von Betonien gingen an Schildwacht, aber die Hauptschlachten wurden alle von Dolchsturz gewonnen. König Lysandus, sein Erbe Prinz Gothryd und der General des Heeres, Fürst Breitwell, waren großartige Anführer und Krieger, und die Schlacht an den Felsklippen sowie die Belagerung von Klippenburg gingen beide an Dolchsturz.
+
+Der Krieg hätte womöglich mit einem weiteren Sieg gewonnen werden können, wäre es nicht zu einem ungewöhnlichen internen Zwischenfall an König Lysandus' Hof gekommen. Die Königinmutter, die Königinwitwe Nulfaga, war bezüglich des Krieges von Anfang an besorgt, nun aber begann sie, Katastrophenvisionen zu haben. Sie sah den Tod ihres geliebten Sohnes, falls der Krieg andauern sollte. Im Rausch seines Erfolges weigerte sich König Lysandus, auf ihre Ängste zu hören, bis Nulfaga den Hof verließ. Erst dann erkannte Lysandus, wie sicher sie sich über seinen bevorstehenden Tod war. Er begann nun, aktiv einen Friedensvertrag mit Schildwacht zu verhandeln, wobei er das neutrale Fürstentum Reichsgradfried als Vermittler nutzte. 
+
+Das Abkommen von Reichsgradfried sollte niemals zustande kommen. König Camaron war anfangs zuvorkommend, wie die Verliererseite eines Krieges oft zuvorkommend ist, aber als er erkannte, dass der angestrebte Vertrag eine formale Erklärung enthalten hätte, wonach sich die Königreiche Schildwacht und Dolchsturz Betonien aufteilen sollten, verfiel er in rasenden Zorn. Ohne einen Gedanken an das Protokoll dabei zu verschwenden, ein neutrales, friedliches Fürstentum anzugreifen, gab Camaron seinem Heer den Befehl, durch Reichsgradfried zu wüten. Rot strömte das Blut, zuerst in den Hallen des Palastes und dann in den Straßen der Hauptstadt. Allein mit der Unterstützung des Heeres von Dolchsturz wurde das Chaos unter relative Kontrolle gebracht. Schildwachts Heer floh in das Yeorth-Hügelland, und das Heer von Dolchsturz verfolgte sie bis zum Ravennischen Wald, bevor sie das Lager aufschlugen.
+
+Eine Woche später, nachdem jede Seite Gelegenheit gehabt hatte, nach Verstärkungen zu schicken und ihre Strategie zu planen, trafen sich die Heere auf der Walstatt, das sie trennte, jenem blühenden, Cryngainefeld genannten Wiesenland. In der Hitze des Gefechts breitete sich ein unnatürlicher Nebel über dem Feld aus, der allen Kämpfern die Sicht nahm. Als sich der Nebel endlich lichtete, wurde König Lysandus' lebloser Körper gefunden. In seinem Hals steckte ein unmarkierter Pfeil. 
+
+Dolchsturz verschwendete keine Zeit mit Trauer; der junge Prinz Gothryd, der in der Schlacht große Tapferkeit bewiesen hatte und unter den Truppen sehr beliebt war, wurde gleich hinter den Schlachtreihen zum König von Dolchsturz gekrönt und befahl das Heer nach vorne. Vielleicht war es der Anblick des tapferen, zum König gewordenen jungen Kriegers, der in vollem Ornat auf dem Schlachtfeld erschien, was das Herr von Dolchsturz inspirierte, vielleicht hätte sich die Schlacht auch unabhängig davon gewendet, aber Sentinel verfiel in Panik. König Gothryd traf König Camaron, bevor sich die Rothwardonen zurückgezogen hatten, und die zwei Monarchen kämpften. Beide waren hervorragende Krieger, aber Gothryd war ein gewandterer Schwertkämpfer, und Camaron fiel an diesem Tag. Fürst Oresme von Schildwacht kapitulierte förmlich vor Dolchsturz und gab damit alle Rechte an Betonien offiziell auf. Auf dem Schiff zurück nach Schildwacht beging er später Selbstmord.
+
+Frieden war für die Städte und Dörfer auf beiden Seiten der Iliac-Bucht ein schwieriger Prozess. Als Teil des formalen Friedensvertrages bat König Gothryd um die Hand von Prinzessin Aubk-i, der einzigen Tochter des verstorbenen Königs Camaron und der Königinregentin Akorithi. Das Ersuchen war darauf aus, die Freundschaft zwischen den Königreichen wiederherzustellen und hatte auch teilweise Erfolg, obgleich viele am königlichen Hof von Schildwacht die Prinzessin eher als Kriegsgefangene denn als Bund mit Dolchsturz betrachteten. 
+
+Das letzte überlebende Mitglied der Herrscherfamilie von Reichsgradfried war ein kränkliches, unmündiges Kind, weshalb die Staatsräte Fürst Auberon Fleyt, einen Cousin Fürst Graddocks, aufforderten, über das Fürstentum in Regentschaft zu herrschen. Fürst Fleyt akzeptierte, und sein harter, fast diktatorischer Stil war genau das, was Reichsgradfried benötigte, um die Ordnung nach dem blutigen Abkommen von Reichsgradfried wiederherzustellen. Seine Untertanen dankten es ihm, indem sie ihn und seine Gemahlin Doryanna nicht nur von Regenten zu Herrschern erhöhten, als der junge Erbe verstorben war, sondern auch zustimmten, das Fürstentum zu seinen Ehren umzubenennen. Reichsgradfried wurde Anticlere, benannt nach der Heimstatt seiner Vorfahren.
+
+Die Schrecken des Betonienkrieges leben selbst in Anticlere noch bis heute fort. Ob Dolchsturz und Schildwacht in der Lage sein werden, die Heirat zwischen König Gothryd und Prinzessin Aubk-i als Symbol des Friedens anstelle der Zwietracht wahrzunehmen, ist etwas, was nur die Zukunft zeigen kann. 
+
+      - 14. Sonnenaufgang 3Ä 404
+

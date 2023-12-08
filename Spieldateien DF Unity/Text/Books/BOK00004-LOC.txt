@@ -1,0 +1,83 @@
+Title: Rothwardonen, ihre Geschichte und ihre Helden
+Author: Destri Melarg
+IsNaughty: False
+Price: 500
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Rothwardonen, ihre Geschichte
+[/center]und ihre Helden
+
+
+
+[/font=1]
+[/center]von
+[/center]Destri Melarg
+
+[/font=4]
+
+
+
+Aufzeichnungen zu den Rothwardonen, ihrer Geschichte und ihren Helden. 
+ 
+Dies ist ein Verlagsabzug des ersten Entwurfs meines Buches ROTHWARDONEN, IHRE GESCHICHTE UND IHRE HELDEN. 
+ 
+Das Folgende ist eine Sammlung der Erzählungen, Mythen und Historien der Rothwardonen. Vieles aus ihrer Geschichte ist geheimnisumwoben und in den Nebeln der Zeit verhüllt. Es ist nicht einfach, zwischen Mythen und wahrer Geschichte zu unterscheiden. 
+ 
+Unten stehen die ersten Kapitel des Entwurfs von Destri Melarg.
+ 
+Aufzeichnungen des Autors, übersetzt in die moderne Sprache Hammerfalls: 
+ 
+Frandar Hunding wurde im Jahr 2356 alter Zählweise in unserer geliebten Wüste des alten Landes geboren. Die traditionelle Herrschaft der Kaiser wurde 2012 beendet, und obwohl auch die folgenden Kaiser als Repräsentanten des Kaiserreichs auftraten, war ihre Macht erheblich beschnitten. Seit dieser Zeit erlebte unser Volk 300 Jahre, in denen beinahe durchgehend Bürgerkrieg zwischen den Herrschern der Provinzen, Kriegermönchen und Räubern herrschte, die miteinander um Land und Macht rangen. Einst waren wir Kunsthandwerker, Dichter und Gelehrte, aber der stets schwelende Zwist führte zwangsläufig auf den Weg des Schwertes. Das Lied der Klinge durch die Luft, durch Fleisch und Knochen, sein Klirren gegen Rüstung - die Antwort auf unsere Gebete.
+
+In der Zeit von Fürst Frandar, dem ersten Kriegerfürsten, erbauten Herrscher, die Yokeda genannt wurden, gewaltige Steinburgen, um sich und ihre Ländereien zu beschützen, und vor den Mauern entstanden Burgdörfer. Doch 2245 trat Mansel Sesnit auf den Plan. Er wurde zum Obersten Yokeda, zum Militärdiktator, und innerhalb von acht Jahren gelang es ihm, beinahe das gesamte Kaiserreich zu beherrschen. Als Sesnit im Jahr 2253 ermordet wurde, trat ein Mann aus dem Volk seine Nachfolge an. Randic Torn setzte Sesnics Werk fort und vereinte das Kaiserreich weiter, wobei er jedes Anzeichen von Auflehnung im Keim erstickte. Er riss die alte Kluft zwischen den Kriegern, Schwertsänger genannt, und dem gemeinen Volk wieder auf, indem er das Tragen von Schwertern einschränkte. Dies ging als "Torns Schwertjagd" in die Geschichte ein: Nur die Sänger durften Schwerter tragen, was sie vom Rest der Bevölkerung abhob.
+
+Obwohl Torn viel dafür getan hat, dass das Kaiserreich wieder so wird, wie es vor den Streitigkeiten war, herrschten auch zum Zeitpunkt seines Todes im Jahr 2373 noch interne Unruhen. Nach seinem Tod brach der Bürgerkrieg wieder offen aus, ein Krieg, gegen den die Unruhen der 300 Jahre davor harmlos erschienen. Das war die Zeit, in der Frandar Hunding aufwuchs.
+
+Hunding war einer der Schwertsänger. Dieser Teil der Gesellschaft des Kaiserreichs entstand aus den Kunsthandwerkern der Wüste und rekrutierte sich anfangs aus den jungen Söhnen und Töchtern der Familien der Oberschicht. Sie erbauten den unbekannten Kriegsgöttern ihren ersten Tempel und errichteten eine Ausbildungsstätte, die sie "Die Halle der Kriegstugenden" nannten. Innerhalb weniger Generationen war der Weg des Schwertes, das "Lied der Klinge", ihr Leben geworden. Das Volk der Klinge bewahrte sich seine Poesie und Kunstfertigkeit dadurch, dass es wunderschöne Schwerter fertigte, in die die Magie und die Macht der unbekannten Götter einflossen. Die Besten unter ihnen wurden bekannt als Ansei, oder "Schwertheilige". Jeder dieser Schwertheiligen begründete seine eigene Ausbildungsschule, in der er seinen ganz eigenen Weg des Schwertes lehrte. Äußerst tugendhafte Ansei durchstreiften die Lande, sie bekämpften das Übel, sorgten für Gerechtigkeit und versuchten, den Zwist zu beenden.
+
+Zusammenfassend: Hunding war ein Schwertsänger, ein Meister, ein meisterhafter Ansei zu einer Zeit, in der aus dem Chaos nach Torns Tod der Zwist neue Höhen erreichte. Viele Sänger hängten ihr Schwert an den Nagel und wurden Kunsthandwerker, denn ihr künstlerisches Erbe rief stets nach ihnen. Andere, wie Hunding, verfolgten das Ideal des Kriegers und suchten Erleuchtung auf dem gefährlichen Weg des Schwertes. Duelle aus Rache und um die Fähigkeiten zu messen waren an der Tagesordnung, und so gab es immer mehr Fechtschulen.
+
+Frandar do Hunding Hel Ansei No Shira, besser bekannt als Frandar Hunding, wurde in der abseits gelegenen Ödnis der Provinz Hochwüste geboren. „Hunding“ ist der Name der Region von Hochwüste, in deren Nähe er geboren wurde. "No Shira" bedeutet "adlige Person" oder "Person adligen Geblüts", und "Hel Ansei" ist sein Titel als Schwertheiliger.
+ 
+Hundings Ahnen reichen zurück bis zum Anbeginn der Geschichtsschreibung in Hochwüste; sie waren Kunsthandwerker und Mystiker. Sein Großvater war ein Gefolgsmann des Obersten Yokeda Mansel Sesnit gewesen und hatte zahlreiche Vereinigungskämpfe angeführt, bevor Sesnit ermordet wurde.
+ 
+Als Hunding 14 Jahre alt war, starb sein Vater bei einem der zahlreichen Aufstände, und so musste Hunding seine Mutter und seine vier Brüder ernähren. Sein Geschick mit der Klinge machte sein Leben jedoch gleichzeitig einfach und schwierig. Einfach, weil seine Dienste als Wächter und Leibwächter schon bald enorm gefragt waren. Schwierig, weil sein Ruf ihm vorauseilte und die Leute Schlange standen, um sich gegen ihn bewähren zu können; so mancher dachte, durch einen Sieg über Hunding zu schnellem Ruhm gelangen zu können.
+ 
+Bis zu seinem 30. Lebensjahr hatte Hunding in mehr als 90 Duellen gekämpft. Jedes einzelne hatte er gewonnen, indem er seinen Gegner tötete. Er wurde mit dem Schwert so gut wie unbesiegbar, und seine Fähigkeiten erreichten schließlich einen Punkt, an dem er aufhörte, die physischen Schwerter zu verwenden, die sein Volk herstellte, und sich stattdessen auf den Shehai, den „Weg des Geisterschwertes“ konzentrierte.
+ 
+Alle Schwertsänger lernen durch ihre intensive Ausbildung und ihre Hingabe gegenüber den Kriegsgöttern und dem Weg des Schwertes die Formen der Disziplin, die ihnen das Erschaffen des Geisterschwertes ermöglichen. Bei dieser einfachen Form der Magie oder Herrschaft über den Geist wird mittels reiner Gedankenkraft ein Abbild eines Schwertes erschaffen. Der Schwertsänger formt das Schwert, indem er sich konzentriert und es so in seiner Hand Gestalt annimmt. 
+
+Für gewöhnlich entsteht so ein blasses Ding aus Licht, nebelhaft und ohne Substanz, vielleicht schön anzusehen, oder ein Sinnbild der Hingabe dem Weg und den Göttern gegenüber, aber keine Waffe. Allerdings können Ansei der höchsten Stufe und Sensibilität und mit Talent in Magie in Zeiten der Not ein Geisterschwert formen, ein Shehai, das weit mehr ist als nur Licht und Luft. Dieses Geisterschwert ist eine unaufhaltsame Waffe enormer Macht, eine Waffe, die man dem Träger nicht abnehmen kann, ohne auch seinen Geist zu nehmen.
+
+Das Shehai wurde Hundings Waffe, und mit ihm tötete er Horden von Räubern und wandernden Monstern, die das Land plagten. Nachdem er sein 90. Duell beendet hatte, in dem er den bösen Fürsten Janik und seine sieben untoten Gefolgsmänner getötet hatte, war er endlich von seine Unbesiegbarkeit überzeugt. Dann machte sich Hunding daran, seine Philosophie des „Weges des Schwertes“ niederzuschreiben. So verfasste er bis zu seinem 60. Lebensjahr das BUCH DER KREISE, während er als Einsiedler in einer Höhle in den Bergen von Hochwüste lebte.
+
+In diesem Jahr dachte Hunding, nachdem er an den vielen Schlachten des Kaiserreichs teilgenommen und alle Feinde getötet hatte, dass er bereit zum Sterben sei. Er zog sich in seine Höhle zurück, um seine Strategie und seine mystischen Visionen zu sammeln, die er mit den anderen Schwertsänger teilen wollte. Nachdem er seine Schriftrolle des Kreises fertiggestellt hatte, fanden ihn die Sänger, als er sein Todesgedicht verfasste und sich bereit machte, seine letzte Ruhestätte an der Seite der Kriegsgötter zu beziehen.
+ 
+Mit 60 Jahren war er ein Mann in der Blüte seines Lebens, der dachte, sein Leben sei bereits zu Ende, aber seine Schwertsänger brauchten ihn. Sie brauchten ihn, wie sie ihn noch nie zuvor gebraucht hatten.
+ 
+Torns Schwertjagd hatte die Sänger vom gewöhnlichen Volk abgespalten, und mit dem Aufstieg des Letzten Kaisers begann der letzte große Zwist des Wüstenreichs: der letzte Versuch des Kaisers und seiner Gemahlin Elisa, dem Volk die Kontrolle über das Kaiserreich zu entreißen, indem sie die Schwertsänger vernichteten. Hira schwor, dass seine Räuberarmee aus Orks und Ausgestoßenen der Kriege des Kaiserreiches jeden einzelnen Sänger finden und sie vom Angesicht der Welt tilgen würde.
+
+Es gab nie sonderlich viele Schwertsänger. Die unerbittliche Wüste sorgte dafür, dass kaum welche geboren wurden, und nur jene mit eisernem Geist und Willen überlebten die Widrigkeiten dieser rauen Umgebung. Und so traf der letzte große Zwist, der als "Krieg der Sänger" bekannt wurde, das Volk des Schwertes unvorbereitet; es war nicht rechtzeitig in der Lage, die Fähigkeiten seiner einzelnen Mitglieder zu einer Armee zu bündeln, die ihre Heimat und ihr Leben verteidigen konnte.
+ 
+Man suchte Frandar Hunding auf, der bei seinem Todesgedicht unterbrochen wurde, und übertrug ihm ohne große Feierlichkeiten die Führerschaft über die Sänger. Es ist den unbekannten Kriegsgöttern großer Dank dafür geschuldet, dass Hunding in seiner Höhle die Zeit hatte, all seine über die Jahre gesammelte Weisheit, Strategie und Wissen über den Shehai niederzuschreiben.
+
+Die Sänger flohen aus ihren Lagern in die Hügel und Berge der Wüste und zum Fuß des Hattu, des "Vaters aller Berge", wohin Hunding sich zurückgezogen hatte, um in Frieden zu schreiben und zu sterben. Dort formierten sich diese Überbleibsel zur Armee des Kreises; sie lernten Hundings Weg, seine Strategien, seine Taktiken, und die letzte große Vision für einen Meisterstreich.
+ 
+Hunding entwarf einen Plan mit sieben Schlachten, in denen er die Armeen von Hira weiter und weiter in die Wildnis am Fuß des Hattu führen würde, wo schließlich die letzte Schlacht stattfände. Hunding nannte seinen Plan "Hammer und Amboss". Mit jeder Schlacht würden Hundings Sänger seine Strategien und Taktiken besser verstehen und ihre Fähigkeiten in der Verwendung des Shehai verbessern, und am Ende würden sie bereit sein, ihre Feinde in der siebten Schlacht zu besiegen. Und so geschah es auch. Die sechs ersten Schlachten wurden geschlagen; jede endete ohne Sieg oder Niederlage und führte zur jeweils nächsten. Die größeren Armeen von Hira folgten der kleinen Armee von Hunding. Obgleich sie dreißig zu eins in der Unterzahl waren, wichen die Sänger nie vom Weg ab. Alles lief nach Plan: Hira und seine Armee bewegten sich zum Fuß des Berges Hattu, wo der Hammerschlag ausgeführt wurde. Die Schlacht war heftig, und viele Sänger fielen an jenem Tag.
+
+Hunding wusste, dass nur wenige Sänger in der Unterzahl waren, wichen die Sänger nie vom Weg ab. Alles lief nach Plan: Hira und seine Armee bewegten sich zum Fuß des Berges Hattu, wo der Hammerschlag ausgeführt wurde. Die Schlacht war heftig, und viele Sänger fielen an jenem Tag. Hunding wusste, dass nur wenige Sänger überleben würden, aber Hira und sein Kaiserreich des Bösen würde untergehen ... Und so kam es dann auch.
+ 
+Am Ende überlebten Hunding und weniger als 20.000 Sänger, aber es gab keine Armee des Bösen mehr, die brandschatzen und morden konnte; mehr als 300.000 fielen an diesem Tag am Hattu. Jene, die fliehen konnten und mit dem Leben davonkamen, wurden in alle vier Winde zerstreut und stellten keine organisierte Streitmacht mehr dar.
+ 
+Die Sänger packten ihre Habseligkeiten, brachen ihre Zelte ab, beweinten ihre Toten und folgten Hunding in die große Hafenstadt Bogenhafen in der Provinz Meereswind. Dort wartete eine kleine Flotte Schiffe auf Hunding und sein Gefolge. Die Sänger verließen ihre Wüste und brachen auf in ein neues Land. Da sie im Kaiserreich der Wüste nicht mehr willkommen waren, verließen sie es und wurden zur Legende. Der letzte große Krieger, die Sänger von Shehai, das Buch der Kreise; sie alle verließen das Land, in dem ihre Tugenden nicht mehr galten. Rot, rot vor Blut waren sie in den Augen der friedfertigen Bürger; da half es auch nichts, dass sie sie vor einem großen Bösen gerettet hatten.
+ 
+Die Sänger schworen, einen Neuanfang zu wagen, als sie über das weite Meer zu ihrem neuen Zuhause reisten. Sie wollten einen neuen Namen annehmen, aber die Vergangenheit weiterhin ehren. Zu Ehren ihrer letzten Schlacht nannten sie ihre neue Heimat Hammerfall, und sich selbst nannten sie Rothwardonen.
+ 
+Zu Ehren des großen Kriegerfürsten Hunding gab es in jedem Haushalt Hammerfalls in der Nähe des Herdfeuers eine kleine Nische, gerade groß genug, um die Schriftrolle darin abzulegen: Das Buch der Kreise.
+

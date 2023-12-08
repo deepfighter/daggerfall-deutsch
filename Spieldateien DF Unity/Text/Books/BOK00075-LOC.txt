@@ -1,0 +1,182 @@
+Title: Des Narren Ebenerz, Die Zweite Abhandelung
+Author: Frincheps
+IsNaughty: True
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+[/center]Des Narren Ebenerz
+
+
+[/center]- Die Zweite Abhandelung -
+
+[/center]
+[/font=1]
+[/center]von
+[/center]Frincheps
+
+[/font=4]
+
+
+[/font=1]
+[/center]Die Zweite Abhandelung 
+
+[/font=4]
+[/center]- hauptsächlich des Narren Ebenerz und Tempel betreffend
+
+  Selber Ort, selbes Gausthaus, ein oder zwei Flaschen später.
+
+    (PROLOGIST, der ABENTEURER und LHEBAN treten auf)
+
+PROLOGIST: Bislang hat sich in unserer Posse nur wenig begeben. Der Abenteurer, unser dunkelelfischer Spitzbube, gab zwei Priestern des Akatosh etwas zu trinken aus. Alle sind schon ordentlich angeheitert. Einer der Priester ist seinem Laternenmädchen auf den Fersen abgezogen. Und wenn ich nichts vergessen oder verpasst habe, als ich anderweitig beschäftigt war, ist das auch schon ein kompletter Umriss der Ersten Abhandelung. Ah, hier kommen zwei weitere Priester. Der bescheidene Prologist muss hier entschwinden.
+
+    (PROLOGIST ab)
+    (RAIC und STETE treten auf)
+
+RAIC: Abend, Lheban! Abend, Fremder. Mein Kollege hier ist Priester Stete, ich bin Raic. Uns obliegt die Ehre, Julianos zu dienen.
+
+ABENTEURER: Was geht hier eigentlich vor sich - Priesterabend? Und ich dachte, dass eure Tempel - Akatosh, Julianos und der Rest ... ich dachte, die stünden alle in mörderischem Wettstreit. In Theologie und Gold, wenn ihr mir meine Direktheit nachseht. Doch ihr scheint alle beste Freunde zu sein? Wenn ich es mir recht überlege, habe ich nicht schon vorher einmal mit Stete geredet und ihr meintet, ihr wäret vom Tempel Stendarrs? 
+
+RAIC: Ein weitverbreitetes Missverständnis, Freund ...
+
+LHEBAN: ... aber eines, das wir ... zu fördern wissen ...
+
+RAIC: Wir arbeiten wirklich alle sehr eng zusammen, verkehren zwischen den Tempeln, wenn es die Not gebietet ...
+
+LHEBAN: ... tauschen Informationen ...
+
+RAIC: ... teilen Gelder...
+
+STETE: ... tauschen unsere Schwestern...
+
+    (LHEBAN tritt STETE)
+    (PROLOGIST tritt auf)
+
+PROLOGIST: Entschuldigt die Unterbrechung des fröhlichen Klamauks, aber ich hatte eben versäumt zu erklären, dass die 'Des Narren Gold'-Saga - wenn dies das Wort ist - unbegründete Verweise auf priesterliche Fehltritte und sexuelle Ausschweifungen enthält. Ich hoffe, dass die verdrießlichen, prüden, mürrischen, altbackenen oder griesgrämigen Zuschauer sich nicht angegriffen fühlen. Wohlan denn, weiter mit den Lustbarkeiten.
+
+    (PROLOGIST ab)
+
+LHEBAN: ... und all das ...
+
+RAIC: Aber es hilft bei unserem ... heiligen Werk, wenn wir als getrennt und, äh, im Wettstreit angesehen werden ...
+
+LHEBAN: Aber stellt Euch vor, dass es ein oder zwei, äh ... religiöse Organisationen gibt ... nun, so etwas in der Art ... mit denen wir rein gar nichts zu tun haben ...
+
+RAIC: Gar nichts, rein gar nichts ... Tiere, nichts als Tiere ...
+
+ABENTEURER: Und die wären ...?
+
+LHEBAN: Nuuun - die Dunkle Bruderschaft ... garstige Schlägerbande ... und dann gibt es da noch die Nachtschwarz- Gesellschaft ... (zu RAIC) Dieser Kerl scheint ein anständiger Bursche zu sein ... scheint etwas über Magier und des Narren Ebenerz zu wissen ...
+
+RAIC: (zu LHEBAN) Im Ernst? Wie interessant ... (zu allen) Hey, Kumpel, gönnt Euch noch eine Flasche - das wird Eure Kehle segnen. Meine, ja, meine wird es ganz bestimmt ... 
+
+ABENTEURER: Danke, Raic. Macht Euch keine Gedanken ...
+
+LHEBAN: Aber lasst mich fortfahren - ich war dabei, des Narren Ebenerz zu erklären ...
+
+RAIC: Ja, des Narren Ebenerz ...
+
+LHEBAN: Nun denn. Also des Narren Ebenerz. Gut, Ihr wisst über gewöhnliches Ebenerz Bescheid, wie selten es ist, dass es nur wenige Zwergenclans schürfen und verkaufen. Und nicht zu viele in diesen Tagen und Zeiten ...
+
+STETE: Wie ging dieses bekannte Lied? (singt) Sagt mir wo die Zwerge sind, wo sind sie geblieben ... 
+
+    (LHEBAN wirft den Wirt auf STETE)
+    (RAIC zieht dem Wirt und STETE einen Stuhl über) (Der Wirt verliert das Bewusstsein) 
+
+LHEBAN: Es gibt einen Haufen von echtem Ebenerz in den Wrothgarischen Bergen, irgendwo im Norden, habe ich sagen hören. Ihr wisst, wie dieses mattschwarze Ebenerz von Magiern und einigen kundigen Schmieden bearbeitet wird, wie sie daraus alle Arten von mächtigen Waffen, Amuletten, Gürteln und dergleichen herstellen. Diese Gegenstände bringen einen hohen Preis, wenn man sie auftreiben kann. Und die allerbesten wurden vor langer Zeit von den alten Zwergen geschaffen ...
+
+    (STETE kommt wieder auf die Füße)
+    (LHEBAN tritt STETE wieder um)
+    (Der ABENTEURER lockert seine Tunika)
+
+LHEBAN: Oh! Oh, verzeiht mir, Freund, werter Herr! Ich sehe, Ihr habt - was ist das? Ein Halsring aus Ebenerz? Oh, und ein Ebenerzkatana! Oh du meine Güte! Dann wisst Ihr das alles natürlich schon, Herr. 
+
+ABENTEURER: Oh, das ist in Ordnung, Ihr konntet es nicht wissen. Hier, nehmt noch eine Flasche ...
+
+LHEBAN: Vielen Dank der liebe Herr. Nun, dann wisst Ihr, dass alle Abenteurer, selbst rotznäsige Kinder, alle Schatzsucher, immer auf der Suche nach Artefakten, Waffen und was nicht noch alles aus Ebenerz sind. Aber was Ihr vielleicht nicht wisst: einige der erfahreneren Sucher jagen nach rohen Adern, Erzhaufen oder zwergischen Überbleibseln. Dieses Zeug, das rohe Ebenerz, ist weitaus wertvoller. 
+
+ABENTEURER: Das ungeformte Rohmaterial, das Arbeit ... und Macht ... für so wenige bietet? Offensichtlich nur mit negativer Magicka geladen?
+
+RAIC: Richtig, richtig!
+
+LHEBAN: Ja, richtig! Ganz genau so. Nun, jetzt zu des Narren Ebenerz. Sieht genauso aus wie das echte Rohmaterial. Zieht sich in Adern durch den tiefen Fels. Fühlt sich genauso an, riecht fast genauso. Aber der große Unterschied: es ist kein echtes Ebenerz. Hat überhaupt keine Macht. Wenn man es aufnimmt macht man sich etwas die Hände schmutzig. Ist nach allen Berichten auch weicher. Auch irgendwie glänzend. Aber wer kann das erkennen, in einer alten Mine, gar mit dem Atem eines Ghuls im Nacken? Da heißt es nur schnappen und rennen, würde ich sagen, in diesen scheußlichen Löchern. So schleppen die Narren, Kinder und verrückten Schatzsucher immer einen Beutel, einen Sack, von des Narren Ebenerz mit sich herum. Und werden von den Kaufleuten, Tauschhändlern, Magiern und uns ausgelacht ... daher der Narrenteil. Das Zeug wird einfach in die Bucht geschmissen ... 
+
+ABENTEURER: Ja ... das ist genau das, was ich von den Magiern ... äh ... gehört habe. Aber ich hörte noch etwas anderes ...
+
+LHEBAN: Und das wäre, Freund ... natürlich nur, wenn Ihr es erzählen wollt ... Herr.
+
+ABENTEURER: Oh, natürlich! Ich glaube, wir können eine ... äh ... Abmachung treffen?
+
+LHEBAN und RAIC (zusammen): Gewiss, oh ja!
+
+ABENTEURER: Also diese Magier - Shub und Shub, werden sie nicht immer Shub genannt? - jedenfalls sprachen diese alten Kerle darüber, wie des Narren Ebenerz brennen kann. Nicht magisch, sondern wie ein gewöhnliches Stück Holz. Aber die Flamme währt viel länger, gibt mehr Hitze ab, macht keinen nennenswerten Rauch, kein Geräusch ... sehr interessant ... die Magier meinten, wie gern es Alchemisten zum Erhitzen ihrer Retorten und Kolben nehmen würden ... wie gern die Magiergilde es hätte, um ... ähem ... falsche Amulette und so zu verkaufen, ein mieser Trick! Und ganz besonders die Schmiede, die wollen es unbedingt, für ihre Schmiedefeuer, nehme ich an. Und die Alchemisten, für ihre Schmelztiegel ... 
+
+LHEBAN: Genau meine Information! Nun ... es wird kalt hier oben im Winter, oder? Und alle fällen Bäume, bauen Belagerungsmaschinen und Boote, diese ganze üble Kriegsmaschinerie! All diese reichen Adligen und Händler müssen ihre großen Häuserklötze heizen, so dass ihre Comtessas statt im Pelz in so gut wie nichts herumlaufen können ...
+
+STETE: ... genau wie meine Schwester ...
+
+    (LHEBAN beisst in STETEs Arm)
+    (STETE schreit auf und verliert die Besinnung)
+
+ABENTEURER: All diese Schmiede müssen ihre Öfen und Essen feurig halten ... 
+
+LHEBAN: ... All diese Magier müssen ihre Vertrauten warm halten ...
+
+RAIC: ... All diese Adligen müssen ihre Comtessas am Laufen halten ...
+
+LHEBAN: ... All diese Bauern müssen ihre Tiere warm halten ...
+
+ABENTEURER: Und zum Sheogorath mit Frau und Kind, oder? Ha! Und ich nehme an, dass es auch für euch Priester nicht ganz einfach ist, Segnungen und Heilungen vorzunehmen, wenn eure Finger steif und gefroren sind ...? Macht das Entkorken ein bisschen schwierig, ganz davon zu schweigen, diese kleinen Pergamentbändchen aufzuzwirbeln ...?
+
+RAIC: Wie wahr Ihr doch sprecht!
+
+LHEBAN: Wahrlich ein Mann der Weisheit! Ja!
+
+ABENTEURER: Nun, wo finden wir des Narren Ebenerz - in Massen?
+
+LHEBAN: Da legt Ihr Euren Finger (Ihr habt sechs, merke ich - oh, entschuldigt, werter Herr) auf die Krux der Sache. Ich habe Gerüchte gehört, nur Gerüchte, wohlgemerkt, dass es ganz gewaltig, enorme Adern von diesem Zeug an einem Ort an der Oberfläche gibt, hoch oben in den Wrothgarischen. Ein übler, übler Ort, um dahinzugehen. Aber Wagenladungen von dem Zeug, wenn man es hin und wieder zurück schafft!
+
+ABENTEURER: Das ist genau, was ich zufällig bei den Magiern aufgeschnappt habe - hoch oben in den Wrothgarischen Bergen - Orks, Drachlinge, Daedra, Sheogorath weiß, was noch alles ... diese Magier schienen den Ort aber zu kennen, wollten jemanden finden, der ...
+
+RAIC: Ihr habt nicht ... mit den Magiern ... gesprochen, oder? Ich meine, Ihr habt ihnen nicht ... 
+
+ABENTEURER: Oh nein. Sie wussten nicht einmal, dass ich da war ... (zur Seite) Noch nicht, jedenfalls ...
+
+LHEBAN: Gut, gut - ich kann solchen Magiern nicht trauen, wisst Ihr ... die alten Fossilien würden ihre eigenen Mütter in Krötenschnöten verwandeln! Goldverrückt, machtverrückt, verrücktverrückt, die ganze verdammte Bande! Aber dann haben sie keine Mütter mehr!
+
+RAIC: Ausgezeichnet. Mir scheint es, Freund - oder können wir Euch Partner nennen? Ja? Exzellent. Es sieht mir so aus, dass meine Priesterbrüder und Ihr etwas herumschürfen und anhauen sollten - sehen, ob wir zu diesen Adern, diesen Vorkommen kommen können, was?
+
+ABENTEURER: Ja, in der Tat, Partner! Aber es wird eine gute Stange Goldes kosten, um dahinzukommen - Waffen, Zauber, Frauen, Kleidung, Wagen und Pferde, Verpflegung, Tränke ... man geht am besten gut vorbereitet da rauf. 
+
+LHEBAN: Kein Problem, Partner. Unsere Tempel haben ... gewisse Mittel, so dass wir, wenn uns ... alleiniger Zugang, alleiniges Wissen der Lage ... garantiert wäre, jemanden ... jemanden mit den erforderlichen Fähigkeiten, wie Euch selbst etwa? ... finanzieren würden. Wie es der Zufall so will bin ich der Hüter der Bücher ... seht Ihr die Möglichkeit?
+
+ABENTEURER: Oh ja! Oh ja! Nun - wollen wir noch eine letzte Flasche köpfen, um auf die Abmachung anzustoßen?
+
+LHEBAN: In der Tat, tun wir das! Zuerst brauchen wir Informationen - wer weiß über die Stätte da oben Bescheid, kennt die Lage, den Weg ... warum treffen wir uns nicht einfach in, sagen wir, einer Woche wieder hier, zur selben Stunde? Und sehen, was wir bis dahin in Erfahrung bringen können? 
+
+RAIC: Wir müssen auch einen Händler finden. Jemanden, der es für uns abwickeln kann ... Warenlager, Feilbieten ... 
+
+LHEBAN: Und behaltet es für Euch!
+
+ABENTEURER: Ich werde mich wegen der Händler umhören ... habe ein oder zwei Kontakte ... das Problem ist - nun, Ihr wisst, wie das läuft - etwas Gold hier, etwas da, und bevor Ihr Euch verseht, habt Ihr wie’s aussieht die halbe Stadt bestochen. Wie’s das Unglück will habe ich gerade nicht allzu viel - wurde von einem verdammten Magier über’s Ohr gehauen, in irgendeiner Stadt im Süden, und verlor den Großteil meines Besitzes in einem Schiffswrack ...
+
+LHEBAN: Ah, ja! Ihr braucht etwas ... Saatgeld, gewissermaßen. 
+
+RAIC: (zu LHEBAN) Lasst mich Stetes Geldbeutel nehmen, er hat viel verdient, nachdem er letzte Woche Schwester verliehen hat ... 
+
+LHEBAN: Danke, Raic. Hier, um die 100 Goldstücke - reicht das?
+
+ABENTEURER: Oh ja, das ist mehr als genug, meine Herren. Gut, gut, gut ... Wir haben also eine Abmachung? Ja, es gilt. Eine Woche!
+
+    (LHEBAN und RAIC, STETE tragend, ab)
+    (Der ABENTEURER ab)
+    (EPILOGIST tritt auf)
+
+EPILOGIST: Ah, die Dinge nehmen nun Fahrt auf, daran zweifle ich nicht. Ich gebe euch zu bedenken, werte Besucher, das dieses fiktionale Werk von einem der begnadetsten Schreiber des Irrenhauses geschaffen wurde, Frincheps, dem Erzprinzen von ganz Sommersend. So etwas wie des Narren Ebenerz gibt es nicht. Auch wird Ebenerz ganz und gar nicht so geschürft wie es die Priester beschrieben haben. Versteht das bitte. Wenn ihr an diesem Stück als grober Fiktion weiterhin gefallen findet, so bleibt uns für die Dritte Abhandelung erhalten. Wenn nicht, dann lebt wohl. Und vergesst nicht das Trinkgeld für die Schankweiber. 
+
+  Und so endet die Zweite Abhandelung.
+

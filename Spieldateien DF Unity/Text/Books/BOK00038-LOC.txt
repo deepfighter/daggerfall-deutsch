@@ -1,0 +1,39 @@
+Title: Ursprung der Magiergilde
+Author: Erzmagier Salarth
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Ursprung der Magiergilde
+
+
+
+[/font=1]
+[/center]von
+[/center]Erzmagier Salarth
+
+[/font=4]
+
+
+
+Die Idee Magier, Zauberer und bestimmte Mystiker zu versammeln und ihre Mittel und Fähigkeiten zum Zweck der Forschung und des Gemeinwohls zu vereinen, war in den frühen Jahren der Zweiten Ära revolutionär. Die einzige Einrichtung, die in Zielsetzung und Aufbau dem glich, was wir heute als die Magiergilde kennen, war der Psijik-Orden der Insel Artaeum. Zu dieser Zeit wurde Magie nur von Einzelnen oder allenfalls in vertrauten Zirkeln erlernt. Magier waren, wenn nicht gleich Einsiedler, so doch für gewöhnlich Einzelgänger.
+
+Der Psijik-Orden diente den Herrschern der Sommersend-Insel als Ratgeber und wählte seine Mitglieder mittels eines komplexen rituellen Verfahrens, das für das einfache Volk unverständlich war. Seine Ziele und Zwecke blieben ebenfalls im Verborgenen, und Verleumder nannten die schlimmsten Übel als Quelle der Macht des Ordens. Tatsächlich konnte die Religion des alten Ordens als Ahnenverehrung beschrieben werden, eine in der Zweiten Ära mehr und mehr aus der Mode gekommene Weltanschauung.
+
+Als Vanus Galerion, ein Psijik von Artaeum und Schüler des berühmten Iachesis, begann, Magienutzer aus der Umgebung der Sommersend-Inseln zu versammeln, zog er den Unwillen aller auf sich. Er arbeitete vom Stadtzentrum von Ersthalt aus, und die dort vorherrschende (und nicht ganz unbegründete) Meinung war, dass magische Experimente nur in unbevölkerten Gebieten durchgeführt werden sollten. Weitaus mehr Anstoß erregte, dass Galerion jedem Mitglied der Öffentlichkeit, so es genug Geld hatte, die Herstellung magischer Gegenstände, Tränke und sogar Zaubersprüche anbot. Magie war nicht länger auf den Adel und die Bildungsschicht beschränkt.
+
+Galerion wurde vor Iachesis und den König von Ersthalt, Rilis XII., gebracht, um die Absichten der Gilde, die er bildete, darzulegen. Die Tatsache, dass Galerions Rede an Rilis und Iachesis nicht für die Nachwelt festgehalten wurde, ist zweifellos eine Tragödie, obgleich sie Geschichtsschreibern die Möglichkeit bietet, sich gegenseitig mit Theorien über die Lügen und Überredungskünste zu amüsieren, die Galerion zur Gründung der allgegenwärtigen Organisation vorgebracht haben könnte. Das Privileg wurde in jedem Fall erteilt.
+
+Beinahe unverzüglich nach Gründung der Gilde musste die Frage der Sicherheit zur Sprache gebracht werden. Die Insel Artaeum benötigte keine Streitkräfte zum Schutz vor Angreifern; wenn der Psijik-Orden jemanden am Betreten der Insel hindern möchte, werden die Insel und ihre Einwohner einfach substanzlos. Die neue Magiergilde hatte im Gegensatz dazu Wachen anheuern müssen. Galerion lernte schnell, was der Adel von Tamriel seit Jahrtausenden wusste: Geld allein erkauft keine Treue. Der ritterliche Orden des Lichts wurde im darauffolgenden Jahr gegründet.
+
+Wie ein Baum aus einer Eichel entstanden Zweigstellen der Magiergilde auf der gesamten Sommersend-Insel und danach auf dem Festland von Tamriel. Es gibt viele Aufzeichnungen von abergläubischen Herrschern oder solchen mit einer gesunden Skepsis, die die Gilde in ihrem Königreich verboten. Aber ihre Erben oder die Erben ihrer Erben erkannten die Weisheit darin, der Gilde freie Hand zu gewähren. Die Magiergilde war eine starke Macht in Tamriel, ein gefährlicher Feind, wenn auch ein mitunter uninteressierter Verbündeter. Es gab nur einige seltene Vorfälle, in denen sich die Magiergilde in lokale politische Kämpfe involvieren ließ. Bei diesen Gelegenheiten sorgte die Teilnahme der Gilde letztendlich für die Entscheidung des Konflikts.
+
+Wie von Vanus Galerion festgelegt liegt die Aufsicht über die Magiergilde als Einrichtung bei einem obersten Rat von sechs Erzmagistern. Jedes Gildenhaus wird von einem Gildenmagister, unterstützt von zwei Ratgebern, dem Meister der Inkunabula und dem Meister der Waffen geleitet. Der Meister der Inkunabula sitzt einem weiteren Rat von zwei Magiern vor: dem Meister der Akademie und dem Meister der Weissagung. Der Meister der Waffen hat ebenfalls zwei Ratgeber, den Meister der Eingeweihten und den Palatinus, der außerdem das örtliche Kapitel des Ordens des Lichts anführt. 
+
+Man muss kein Mitglied der Magiergilde sein, um zu erkennen, dass diese sorgsam kompliziert gestaltete Hierarchie oft nicht mehr als ein Hirngespinst ist. Vanus Galerion selbst sagte verbittert, als er Tamriel verließ und in andere Länder aufbrach: "Die Gilde ist inzwischen nichts weiter als ein verworrener Sumpf politischer Machtkämpfe geworden."

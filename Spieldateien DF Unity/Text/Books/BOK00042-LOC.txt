@@ -1,0 +1,62 @@
+Title: Der Wahnsinn des Pelagius
+Author: Tsathenes
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Der Wahnsinn des Pelagius
+
+
+
+[/font=1]
+[/center]von
+[/center]Tsathenes
+
+[/font=4]
+
+
+
+Der Mann, der einmal Kaiser von ganz Tamriel werden sollte, wurde als Thoriz Pelagius Septim, Prinz aus dem königlichen Geblüt derer von Wegesruh im Jahre 3Ä 119 gegen Ende der glorreichen Herrschaft seines Onkels Antiochus I. geboren. Wegesruh war in den Jahren vor Pelagius' Geburt mit Privilegien überschüttet worden, da König Magnus der Lieblingsbruder des Antiochus war.
+
+Es ist schwer zu sagen, wann sich der Wahnsinn des Pelagius erstmals manifestierte, da - um der Wahrheit Genüge zu tun - die ersten zehn Jahre seines Lebens durch eine Periode des Wahnsinns gekennzeichnet waren, der das Land als Ganzes ergriffen hatte. Als Pelagius gerade ein Jahr alt war, verstarb Antiochus, und eine seiner Töchter, Kintyra, bestieg unter allgemeinem Jubel den Thron. Kintyra II. war eine Cousine des Pelagius und eine bekannte Mystikerin und Hexenmeisterin. Hätten ihre Kräfte allerdings gereicht, einen Blick auf die Zukunft zu erhaschen, so hätte sie den Palast vermutlich in wilder Flucht verlassen.
+
+Die Geschichte des Krieges des Roten Diamanten ist bereits in vielen anderen gelehrten Veröffentlichungen erzählt worden; die meisten Historiker sind sich dabei einig, dass die Herrschaft von Kintyra II. durch den gemeinsamen Cousin der Kintyra und des Pelagius, Uriel, usurpiert wurde, der sich auf die Macht seiner Mutter Potema, der sogenannten Wolfskönigin von Einsamkeit, stützen konnte. Im Jahre nach ihrer Thronbesteigung wurde Kintyra in Felsschlucht gefangengenommen und in den dortigen kaiserlichen Verliesen eingekerkert.
+
+Als Prinz Uriel den Thron unter dem Namen Uriel III. bestieg, brach ein Krieg aus, der ganz Tamriel erfasste. Hochfels, wo die Kaiserin gefangen gehaltenen wurde, war Schauplatz einiger der blutigsten Schlachten. Der Vater des Pelagius, König Magnus, verbündete sich mit seinem Bruder Cephorus gegen den unrechtmäßigen Kaiser und zog so den Zorn Uriels III. und der Königin Potema auf Wegesruh. Pelagius, seine Brüder und Schwestern sowie seine Mutter Utheilla flohen auf die Insel Balfiera. Utheilla entstammte dem Geschlecht der Direnni, und das Stammhaus ihrer Familie befindet sich noch heute auf dieser uralten Insel.
+
+Dank der Überlieferungen von Kindermädchen und Besuchern wissen wir viel über die Kindheit des Pelagius auf Balfiera. Alle, die ihn kennen lernten, beschrieben ihn als einen gut aussehenden, sympathischen Jungen, der sich für Sport, Magie und Musik interessierte. Selbst wenn man davon ausgeht, dass sich hier ein für Diplomatenkreise typischer Mangel an Offenheit zeigte, so schien Pelagius doch ein Glücksfall für die Zukunft der Septim-Dynastie zu sein.
+
+Als Pelagius acht war, erschlug Cephorus Uriel III. in der Schlacht von Ichidag und ernannte sich selbst zum Kaiser Cephorus I. Die nächsten zehn Jahre seiner Herrschaft waren durch den Kampf mit Potema gekennzeichnet. Die erste Schlacht, an der Pelagius teilnahm, war die Belagerung von Einsamkeit; diese endete mit dem Tode der Potema und dem endgültigen Ende des Krieges. Aus Dankbarkeit setzte Cephorus Pelagius auf den Thron von Einsamkeit. 
+
+Als König von Einsamkeit erregte Pelagius erstmals Aufmerksamkeit durch sein exzentrisches Verhalten. Da er jedoch der Lieblingsneffe des Kaisers war, erlaubten sich nur wenige Diplomaten kritische Anmerkungen über Pelagius. Während der ersten beiden Jahre seiner Herrschaft fiel Pelagius zumindest durch seine besorgniserregenden Gewichtsschwankungen auf. Vier Monate nach der Thronbesteigung bezeichnete ein Diplomat aus Ebenherz Pelagius als "eine gesunde und muntere Seele mit einem Herzen so groß, dass es seine Taille weitet". Fünf Monate später schrieb eine auf Besuch weilende Prinzessin von Ersthalt ihrem Bruder: "Der König ergriff meine Hand und es fühlte sich an, als würde sie von einem Skelett umklammert. Pelagius ist in der Tat enorm abgemagert."
+
+Cephorus verstarb unverheiratet und kinderlos drei Jahre nach der Belagerung von Einsamkeit. Als einzig Überlebender der Geschwister gab der Vater des Pelagius, Magnus, den Thron von Wegesruh auf und siedelte als Kaiser Magnus I. in die Kaiserstadt über. Magnus war nicht mehr der Jüngste und Pelagius sein ältestes noch lebendes Kind, daher konzentrierte sich die Aufmerksamkeit Tamriels auf Schildwacht. Zu diesem Zeitpunkt begann Pelagius, wegen seines exzentrischen Verhaltens in Verruf zu geraten.
+
+Es gibt eine Vielzahl von Legenden über sein Verhalten als König von Schildwacht, doch die Zahl gut dokumentierter Fälle ist klein. Es ist bekannt, dass Pelagius sich mit den jungen Prinzen und Prinzessinnen von Silvenar in seinem Gemach einschloss und diese erst freiließ, nachdem eine nicht unterzeichnete Kriegserklärung unter der Tür durchgeschoben wurde. Als er sich während der Rede anlässlich eines örtlichen Festes die Kleider vom Leibe riss, beschlossen seine Berater anscheinend, ihn genauer im Auge zu behalten. Auf Befehl des Magnus wurde Pelagius mit der wunderschönen Erbin eines Dunkelelfengeschlechts, Katariah Ra'athim, vermählt.
+
+Nordische Könige, die Dunkelelfen heiraten, werden dadurch selten beliebter. Die meisten Gelehrten geben zwei Gründe für die Verbindung an: Magnus versuchte damals, die Beziehungen zu Ebenherz zu festigen, wo der Clan der Ra'athim beheimatet war. Das Nachbarreich von Ebenherz, Gramfeste, war ein historischer Verbündeter des Kaiserreichs seit Urzeiten, und der Prinzgemahl der Königin Barenziah hatte im Krieg des Roten Diamanten viele Schlachten gewonnen. Die Unterstützung Ebenherzens für Uriel III. und Potema war ein schlecht gehütetes Geheimnis.
+
+Der zweite Grund für die Heirat war persönlicherer Natur. Katariah war auf dem diplomatischen Parkett so gewandt, wie sie schön war. Falls irgendein Wesen imstande war, den Wahnsinn des Pelagius zu verbergen, so war sie es.
+
+Am achten Tage der Zweitsaat des Jahres 3Ä 145 starb Magnus friedlich im Schlafe. Jolethe, die Schwester des Pelagius, bestieg den Thron von Einsamkeit, und Pelagius und Katariah hielten Einzug in der Kaiserstadt, um zu Kaiser und Kaiserin von Tamriel gekrönt zu werden. Es heißt, Pelagius sei in Ohnmacht gefallen, als ihm die Krone aufs Haupt gesetzt wurde, doch Katariah hielt ihn aufrecht, so dass nur die den Thronen am nächsten Sitzenden sehen konnten, was geschehen war. Wie so viele der Geschichten über Pelagius ist auch diese unbewiesen.
+
+Pelagius III. war nie der wirkliche Herrscher Tamriels. Katariah und der Ältestenrat trafen alle Entscheidungen und waren lediglich bemüht, zu verhindern, dass Pelagius alle in Verlegenheit brachte. Trotzdem gibt es Geschichten über die Herrschaft Pelagius III.
+
+Es heißt, dass Pelagius anlässlich eines Besuchs des argonischen Botschafters von Schwarzrose bei Hofe darauf bestand, sich nur grunzend und quiekend zu unterhalten, da dies die Muttersprache der Argonier war.
+
+Es ist bekannt, dass Pelagius unter einem Sauberkeitswahn litt; und viele Gäste berichteten, dass sie früh am Morgen durch den Lärm der Putzkolonnen des Kaiserpalastes geweckt worden seien. Die Legende, dass Pelagius sich während der Überprüfung der Arbeit der Dienerschaft plötzlich auf den Fußboden entleerte, um den Dienern etwas zu tun zu geben, geht vermutlich auf einen anonymen Verleumder zurück.
+
+Als Pelagius begann, Besucher des Kaiserpalastes zu beißen und zu schlagen, wurde entschieden, ihn in einer privaten Anstalt unterzubringen. Katariah wurde, zwei Jahre nachdem Pelagius den Thron bestiegen hatte, zur Regentin ernannt. Die nächsten sechs Jahre verbrachte der Kaiser in einer Reihe unterschiedlicher Anstalten.
+
+Verräter am Kaiserreich haben mannigfaltige Lügen über diesen Zeitraum verbreitet. Flüsterpropaganda über widerliche Experimente und Foltermaßnahmen, denen Pelagius ausgesetzt war, wurde von vielen als Tatsache akzeptiert. Die edle Dame Katariah wurde kurz nach der Überstellung des Kaisers in die Anstalt schwanger, und Gerüchte über ihre Untreue und, noch absurder, Verschwörungstheorien, die besagten, dass der Kaiser bei geistiger Gesundheit eingesperrt sei, verbreiteten sich wie ein Lauffeuer. Wie Katariah nachwies, war die Schwangerschaft das Ergebnis eines Besuches in der Zelle ihres Gatten. Da es keine weiteren Belege gibt, sind wir als treue Untertanen verpflichtet, dem Wort der Kaiserin Glauben zu schenken. Ihr zweites Kind, ein Sohn, der lange Jahre unter dem Namen Uriel IV. regieren sollte, entsprang ihrer Verbindung mit ihrem zweiten Gatten Lariate, eine Tatsache, die öffentlich anerkannt wurde.
+
+In einer warmen Nacht des Sonnenuntergangs verschied Pelagius III. nach kurzem Fieber im Alter von 34 Jahren in seiner Zelle im Tempel von Kynareth auf der Insel Betonien. Katariah I. herrschte für weitere sechsundvierzig Jahre, bevor das Zepter an Cassynder überging, das einzige Kind, das aus ihrer Verbindung mit Pelagius hervorgegangen war.
+
+Das wilde Verhalten des Pelagius hat diesem eine wunderliche Zuneigung der Provinz eingebracht, in der er geboren wurde und starb. Der zweite Tag der Morgenröte, an dem sich möglicherweise sein Tod jährt (die Quellen sind hier nicht sehr genau), wird als Wahnsinniger Pelagius gefeiert, ein Tag, an dem zu aller Art von närrischem Verhalten ermuntert wird. Und so kommt es, dass einer der am wenigsten wünschenswerten Kaiser der Septim-Dynastie einer ihrer berühmtesten geworden ist.
+

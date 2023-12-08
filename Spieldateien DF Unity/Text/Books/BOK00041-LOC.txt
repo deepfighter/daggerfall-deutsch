@@ -1,0 +1,42 @@
+Title: Der Fall des Usurpators
+Author: Palaux Illthre
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Der Fall des Usurpators
+
+
+
+[/font=1]
+[/center]von
+[/center]Palaux Illthre
+
+[/font=4]
+
+
+
+Die Einwohner Dwynnens feiern an jedem fünften Tag des Sonnenaufgangs Othrokzit, als der Legende zufolge ein Mann aus der Wildnis von Hochfels trat, die Untoten in Schloss Wichtmoor besiegte und der erste Baron von Dwynnen wurde. An diese Legende glauben nur noch wenige Leute, aber es gab ganz sicher einen Baron Othrok von Dwynnen, dem es bestimmt war, einer der wahren Helden von Hochfels, wenn nicht ganz Tamriels zu werden.
+
+Die Legende, wie sie Euch in Dwynnen jedes Kind erzählen wird, besagt, dass die Einwohner Dwynnens vor vielen Jahren (Archivare haben sich auf das Jahr 3Ä 253 geeinigt) von einem Lich und seinen Heeren aus Zombies, Geistern, Vampiren und Skeletten beherrscht wurden. Othrok war von den Göttern gesegnet und wurde mit einem Heer aus Menschen und Tieren betraut, die Toten zu vernichten. Er brachte dem Land Frieden und Wohlstand und wurde mächtiger, während sich das Land vervollkommnete. Jahre später führte er die winzige Baronie gegen den Camoranischen Usurpator und rettete ganz Tamriel.
+
+Es wurde debattiert, wie viel Ehre dem Baron für die Niederlage des Camoranischen Usurpators gebührt, aber es ist eine unbestreitbare Tatsache, dass die unaufhaltsame Nordbewegung des Camoranischen Usurpators durch Hochfels im Jahre 3Ä 267 auf dem Gebiet des heutigen Dwynnen gestoppt wurde. Gegenwärtig ist Dwynnen um einiges größer, als in den ersten Tagen des Barons. Es hatte eigentlich nicht einmal einen Seehafen, aber die Schlacht der Feuerwellen fand an der Küste statt. Die Tatsache, dass sich die Schlacht vermutlich nicht in Dwynnen zutrug, schmälert die Teilnahme des Barons dennoch nicht im Geringsten.
+
+Der Camoranische Usurpator hatte Hammerfall und Valenwald durch ein großes Heer erobert, das der Legende nach vollständig aus Untoten und Daedra bestand, sich aber größtenteils aus Rothwardonen und Waldelfen zusammensetzte. Aller Wahrscheinlichkeit nach beschwor der Usurpator die Daedra und Untoten in Arenthia und ersetzte die ursprünglich beschworenen Kreaturen nach und nach mit den Armeen seiner eroberten Gebiete. Historisch bestanden die meisten Heere Valenwald aus Söldnern.
+
+Die Kunde von den Eroberungen des Usurpators erreichte Hochfels Anfang 266, aber Vorbereitungen zur Abwehr der Invasion begannen erst mit dem Beginn des folgenden Jahres. Historiker schreiben Hochfels' Zögerlichkeit zwei Faktoren zu. Die Hauptmächte der Bucht wurden von ausnehmend unfähigen Monarchen beherrscht - Wegesruh und Schildwacht hatten beide noch unmündige Könige und Dolchsturz wurde von Spannungen zwischen Helena und ihrer Cousine Jilathe zerrissen. Der Fürst von Reichsgradfried (heute Anticlere) war 266 hindurch todkrank und starb am Jahresende. Es gab kurz gesagt keine Anführer, um die Provinz gegen den Usurpator zu vereinen. Von den Anführern mit etwas Einfluss leisteten wenigstens acht (die "Acht Verräter" der Legende) dem Usurpator geheime Treueschwüre, um ihre Länder zu beschützen.
+
+Der zweite Grund für die Lethargie von Hochfels hat mit der Tiefe der Beziehungen zwischen der Provinz und dem Septimischem Kaiserreich zu tun. Zum ersten Mal seit Beginn jener Dynastie herrschte ein Kaiser über Tamriel, der weder Bretone war noch einen Teil seiner Kindheit in Hochfels verbracht hatte. Der Unterschied zwischen Cephorus II. und seinem Cousin Uriel IV., der vor ihm geherrscht hatte, war für die Einwohner von Hochfels beängstigend. Selbst wahnsinnige Kaiser wie Pelagius III. verehrten die Bretonen über allen anderen Völkern, Cousins und jüngere Geschwister der Kaiser herrschten seit Gründung des Kaiserreichs in Hochfels. Cephorus aber war ein Nord mit Sympathien für Himmelsrand und Morrowind. Die Gesinnung der einfachen Leute von Hochfels war also dem Camoranischen Usurpator als Erzfeind dieses verhassten Kaisers durchaus zugetan.
+
+Der Baron und seine weniger legendären Verbündeten, die Herrscher Ykalons, Phrygias und Kambriens, änderten diese wohlwollende Sichtweise. Größtenteils wahre Nachrichten über die barbarische Behandlung von Gefangenen und die Misshandlung eroberter Länder durch den Usurpator verbreiten sich schnell in ihren Gebieten und dann den übrigen neutralen Ländern. Innerhalb weniger Monate wurde die größte jemals zusammengeführte Kriegsflotte an Hochfels' Grenze der Iliac-Bucht aufgestellt. Nur die Kriegsflotte der unglückseligen Invasion Akavirs unter Uriel V. war damit vergleichbar.
+
+Wie die vereinten Streitkräfte von Hochfels das endlose Heer des Usurpators besiegten, ist sicherlich selbst eines längeren Buches wert. Und vielleicht bleibt es auch am besten der allgemeinen Vorstellungskraft überlassen. Ohne Zweifel arbeitete das Wetter gegen den Usurpator, was einem göttlichen Eingriff zugeschrieben werden kann. 
+
+Baron Othroks göttliche Bestimmung ist schließlich das zentrale Thema von Othrokzit. Und wie der Dichter Braeloque schrieb: "Um die Fakten zu finden, sucht der Weiseste immer zuerst in der Fiktion."
+

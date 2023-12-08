@@ -1,0 +1,33 @@
+Title: Galerion der Mystiker
+Author: Asgrim Kolsgreg
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Galerion der Mystiker
+
+
+
+[/font=1]
+[/center]von
+[/center]Asgrim Kolsgreg
+
+[/font=4]
+
+
+
+In den frühen, blutigen Jahren der Zweiten Ära wurde Vanus Galerion unter dem Namen Trechtus als Leibeigener auf den Besitztümern eines niederen Edelmannes namens Fürst Gyrnasse von Sollicich-on-Ker geboren. Trechtus' Vater und Mutter waren gewöhnliche Arbeiter, aber sein Vater hatte heimlich, entgegen dem Gesetz von Fürst Gyrnasse, erst sich und dann Trechtus das Lesen beigebracht. Fürst Gyrnasse war geraten worden, dass des Lesens und Schreibens kundige Leibeigene eine Verirrung der Natur und eine Gefahr für sich selbst und ihre Fürsten seien. Deshalb ließ er alle Bücherstände in Sollicich-on-Ker schließen. Sämtlichen Buchhändler, Poeten und Lehrer wurde die Ausübung ihres Berufes untersagt, es sei denn, sie standen ausschließlich im Dienst von Gyrnasse selbst. Dennoch hielt eine kleine Schmugglergruppe direkt unter Gyrnasses Nase eine Reihe von Büchern und Schriftrollen im Umlauf.
+
+Als Trechtus acht Jahre alt war, flogen die Schmuggler auf, und sie wurden eingekerkert. Einige behaupteten, dass Trechtus' Mutter, eine unwissende und religiöse Frau, die sich vor ihrem Gatten fürchtete, die Schmuggler verraten habe, aber es gab auch anderslautende Gerüchte. Die Schmuggler wurden umgehend und ohne Verhandlung bestraft. Die Leiche von Trechtus' gehängtem Vater baumelte während des heißesten Sommers, den Sollicich-on-Ker seit Jahrhunderten erlebt hatte, wochenlang im Wind.
+
+Drei Monate später floh Trechtus von Fürst Gyrnasses Besitztümern. Er schlug sich quer über die Sommersend-Insel bis nach Alinor durch. Eine Gruppe von Troubadouren fand ihn schließlich halbtot, zusammengerollt in einem Straßengraben, pflegte ihn wieder gesund und beschäftigte ihn für Brot und Obdach als Laufburschen. Einer der Troubadoure, ein Hellseher namens Heliand, begann, Trechtus' Verstand auf die Probe zu stellen, und fand heraus, dass er zwar schüchtern, doch außergewöhnlich intelligent und seinen Umständen entsprechend gebildet war. Heliand erkannte in dem Jungen Parallelen zu sich selbst, denn er war auf der Insel Artaeum als Mystiker ausgebildet worden.
+
+Als die Truppe in Potansa, einem Dorf an der Ostküste von Sommersend, auftrat, brachte Heliand den nun elfjährigen Trechtus zur Insel Artaeum. Iachesis, der Magister der Insel, erkannte Trech
+    
+So wurde der erste Erzmagister der Magiergilde ausgebildet. Von den Psijiks der Insel Artaeum erhielt er seine Ausbildung und von der Not und Ungerechtigkeit seiner Kindheit seine Philosophie, Wissen zu teilen.

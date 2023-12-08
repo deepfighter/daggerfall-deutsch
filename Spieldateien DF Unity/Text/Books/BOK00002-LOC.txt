@@ -1,0 +1,44 @@
+Title: Fragment: Über Artaeum
+Author: Taurce il-Anselma
+IsNaughty: False
+Price: 10000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Fragment: Über Artaeum
+
+
+
+[/font=1]
+[/center]von
+[/center]Taurce il-Anselma, 3Ä 400
+
+[/font=4]
+
+
+
+Die Insel Artaeum (ar-TA-E-um)
+
+Artaeum ist die drittgrößte Insel des Sommersend-Archipels, südlich von Moridonuns Dorf Potansa und westlich des auf dem Festland gelegenen Dorfes Runcibae. Sie ist vor allem als Heimat des Psijik-Ordens bekannt, der wahrscheinlich ältesten Ordensgemeinschaft Tamriels.
+
+Die ersten schriftlichen Aufzeichnungen über die Psijik stammen aus dem 20. Jahr der Ersten Ära und erzählen die Geschichte des berühmten Bretonenweisen und Autors Voernet, der zur Insel Artaeum reiste, um dort Iachesis, den Ritenmeister der Psijiks, zu treffen. Schon damals waren die Psijiks die Berater der Könige und Befürworter des "Alten Weges", die sie das ursprünglich in Tamriel wohnende Volk gelehrt hatte. Der Alte Weg ist eine Philosophie, die auf Meditation und Studium beruht, um die Kräfte der Natur an den persönlichen Willen zu binden. Er hat ursprünglich nichts mit Magie zu tun, aber die Effekte sind ziemlich ähnlich. 
+
+Daher ist es wahrscheinlich kein Zufall, dass die Insel Artaeum zu Beginn der Zweiten Ära buchstäblich von den Küsten Sommersends verschwand - etwa zur gleichen Zeit, als die Magiergilde in Tamriel gegründet wurde. Verschiedene Historiker und Gelehrte haben Theorien darüber veröffentlicht, aber niemand außer Iachesis und seinen Anhängern könnte Licht in diese Sache bringen.
+
+Fünfhundert Jahre vergingen und Artaeum kehrte zurück. Die Psijiks auf der Insel bestanden aus Personen, meist Elfen, die während der Zweiten Ära verschwunden waren und für tot gehalten wurden. Sie konnten oder wollten keine Erklärungen zum Verbleib Artaeums in dieser Zeit oder zum Schicksal Iachesis' und des ursprünglichen Rats von Artaeum abgeben.
+
+Zurzeit werden die Psijik von Wissensbewahrer Celarus angeführt, der dem Rat von Artaeum seit mindestens zweihundertfünzig Jahren vorsteht. Der Einfluss des Rates auf die Politik Tamriels schwankt: Die Könige von Sommersend, besonders die in Moridunon, fragen oft nach der Meinung der Psijik. Kaiser Uriel V. wurde in der ersten, ruhmreichsten Zeit seiner Herrschaft sehr vom Rat beeinflusst. Dies war vor seinem katastrophalen Angriff auf Akavir. Es heißt, dass die Flotte König Orghums von Pyandonea von den vereinten Kräften des Kaisers Antiochus und des Psijik-Ordens zerstört wurde. Die letzten vier Kaiser, Uriel VI., Morihatha, Pelagius IV. und Uriel VII., waren den Psijiks gegenüber so skeptisch, dass sie in der Kaiserstadt keine Botschafter der Insel Artaeum duldeten.
+
+Die Insel Artaeum ist kartographisch schwer zu erfassen. Es heißt, dass sie sich ständig durch Zufall oder den Willen des Rates bewegt. Besucher sind auf dieser Insel so selten, dass man kaum je davon gehört hat. Wer einen Psijik treffen möchte, kann in Potansa und Runcibae und in vielen Königreichen Sommersends Kontakte knüpfen.
+
+Wenn es besser erreichbar wäre, wäre Artaeum jedoch ein bevorzugtes Ziel von Reisenden. Ich war einmal auf der Insel und träume immer noch von den idyllischen Obstgärten und offenen Weiden, den stillen und ruhigen Lagunen, dunstigen Wäldern und der einmaligen Architektur der Psijiks, die so natürlich wie ihre Umgebung und selbst überaus wundervoll ist.
+
+Ich habe den Turm Ceporah ganz besonders studiert, da er ein Relikt einer Zivilisation ist, die noch um einige hundert Jahre älter ist als die der Hochelfen, und immer noch für bestimmte Riten der Psijiks genutzt wird. Vielleicht kehre ich eines Tages zurück.
+
+[Anmerkung: Der Autor weilt zurzeit mit freudlicher Genehmigung von Meister Sargenius vom Rat von Artaeum auf der Insel.]
+

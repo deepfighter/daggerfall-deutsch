@@ -1,0 +1,40 @@
+Title: Feiertage der Iliac-Bucht
+Author: Theth-i
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Feiertage der Iliac-Bucht
+
+
+
+[/font=1]
+[/center]von
+[/center]Theth-i
+
+[/font=4]
+
+
+
+Die Region der Iliac-Bucht verfügt über eine reichhaltige Geschichte und aufgrund ihrer Geschichte wenig überraschend auch eine Reihe einzigartiger Feiertage. Die bretonischen und rothwardonischen Kulturen weisen viele Gemeinsamkeiten auf, doch ebenso viele Unterschiede. Die Analyse der Festtage bietet eine Möglichkeit, die Völker zu studieren. 
+
+Wie euch jedes Schulkind sagen kann, sind die Rothwardonen in Tamriel eine relativ junge Kultur. Die Ankunft von ihren Heimatgestaden ist tatsächlich gut dokumentiert, obwohl sie sich vor einigen tausend Jahren im 808. Jahr der Ersten Ära ereignete. Hammerfall war eine große Wüste, umgeben von beinahe unüberwindlichen Bergen - unbeachtet und unbeansprucht. Viele der Feiertage, die im modernen Hammerfall überlebt haben, scheinen direkte Überführungen älterer Rothwardonenfeste aus der Zeit vor ihrer Auswanderung nach Tamriel zu sein.
+
+Die orgiastischen saisonalen Feiern erscheinen ungewöhnlich in einer Provinz mit kaum Wetterveränderungen von Monat zu Monat. Doch am 28. Sonnenaufgang feiern die Rothwardonen des banthanischen Dschungels Aduros Nau, um die Lethargie der Winterzeit abzustreifen; am 1. Jahresmitte begehen die Einwohner von Abibon-Gora das Drigh R'Zimb, um der Sonne zu huldigen, die kein normaler Rothwardone dieser Tage anbetet; auch der Feiertag am 29. Sonnenhöhe, der in der Wüste "Glühende Nacht" genannt wird, scheint in einer solchen Umwelt fast schon widernatürlich; das Koomu Alezer'i am 11. Letzte Saat in Schildwacht wurde als herbstliches Erntedankfest übersetzt, obgleich viele Gelehrte darauf hingewiesen haben, dass es einst einen Tag des Frühlingsanfangs darstellte; auch war das Festmahl des Tigers in der Bantha am 14. Letzte Saat möglicherweise ein religiöser Feiertag für eine Tigergottheit statt ein Erntedankfest.
+
+Andere alte Rothwardonenfeste wurden entweder als Teil der alten Kultur gewürdigt oder angepasst, um den klimatischen Gegebenheiten Hammerfalls zu entsprechen. Der Schlangentanz von Satakalaam, beispielsweise, ist selbstredend eine alte Festlichkeit zu Ehren eines Schlangengottes aus dem Heimatland, der offensichtlich die Reise nach Hammerfall nicht überlebt hat. Die Bedeutung des Datums, des 3. Sonnenuntergang, ging mit den Schlangenpriestern verloren. Baranth Do am 18. Abendstern und Chil'a am 24. desselben Monats sind beides Neujahrsfeste.
+
+Höchstwahrscheinlich wurden sie von ihren ursprünglichen Daten verlegt, um mit der Zeitrechnung Tamriels in Einklang zu stehen.  
+
+Die Bretonen waren schon vor der überlieferten Geschichte in Tamriel. Ihre Feiertage haben nahezu unverändert seit den primitiven Zeiten überdauert, wenngleich neue geschaffen wurden, um diejenigen zu ersetzen, welche an Popularität verloren haben. 
+
+Die ältesten Feiertage, die sich noch in Hochfels beobachten lassen, umfassen sicher den Tag des Erwachens am 18. Morgenstern, wenn die Bewohner des Yeorth-Hügellandes nach dem Winter sehr nahe an der Tradition ihrer ehrwürdigen Ahnen die Naturgeister wecken. Der am 25. Erste Saat in den kleinen Dörfern von Hochfels begangene Blumentag ist vermutlich ebenso alt oder noch älter. In Tamarilyn erinnert man sich des alten Kultes der Blume am 1. Regenhand auch als Gardzit. Dolchsturz' Tag der Toten am 13. Regenhand weist auf den Ahnenkult hin, der die bretonische Religion des Altertums ausmachte. Schließlich wird der uralten Göttin der Monde, Secunda, beim Mondfest im Glenumbramoor am 8. Sonnenaufgang gerade dann gedacht, wenn die Nächte beginnen, wieder länger zu werden.
+
+Die jüngeren Feiertage von Hochfels sind solche wie Tibedetha, "Tiberstag", der jeden 24. Jahresmitte zu Ehren von Alcaires berühmtesten Sohn, Tiber Septim, begangen wird. Ebenso wird Othrokzit am 5. Sonnenaufgang als Ehrentag des ersten und glanzvollsten Barons von Dwynnen gefeiert. In starkem Kontrast dazu steht der Marukhstag am 9. Zweite Saat, ein gravitätischer Tag, der die Lehren des ebenso gravitätischen Propheten Marukh aus der Ersten Ära bewahrt. Mein Favorit unter den modernen bretonischen Festlichkeiten ist Wahnsinniger Pelagius, abgehalten als zweifelhafte Ehre für den exzentrischsten der Septim-Kaiser. Pelagius war schließlich ein Prinz von Wegesruh, bevor er König von Einsamkeit und dann Kaiser von Tamriel wurde. Die Bretonen prahlen gerne damit, dass ihn seine Zeit in Hochfels verrückt gemacht habe.
+

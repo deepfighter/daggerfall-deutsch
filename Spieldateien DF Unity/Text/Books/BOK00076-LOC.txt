@@ -1,0 +1,203 @@
+Title: Des Narren Ebenerz, Die Dritte Abhandelung
+Author: Frincheps
+IsNaughty: True
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+[/center]Des Narren Ebenerz
+
+
+[/center]- Die Dritte Abhandelung -
+
+[/center]
+[/font=1]
+[/center]von
+[/center]Frincheps
+
+[/font=4]
+
+
+[/font=1]
+[/center]Die Dritte Abhandelung 
+
+[/font=4]
+[/center]  In der Magiergilde, ein bis drei Tage später. 
+
+    (PROLOGIST tritt auf)
+
+PROLOGIST: Wir sind nun fast zur Hälfte unseres zerlegten Epos gelangt. Wenn ihr eben erst gekommen seid, habt ihr kaum etwas verpasst. Der Abenteurer, unser spitzbübischer Dunkelelf, hat sich mit einer Quadripartie (das ist ein Triumvirat plus einem) von Priestern zusammengeschlossen, um ein brennendes, des Narren Ebenerz genanntes Metall zu entdecken und reich zu werden. Die Priester haben unseren Helden mit etwas Gold ausgestattet, um Händler zu bestechen, doch allein die Magier der Magiergilde wissen, wo sich das Narrenerz findet. Wie der Epilog zum Ende der Zweiten Abhandelung klarstellte, gibt es weder so etwas wie des Narren Ebenerz noch wird echtes Ebenerz geschürft. Das hat unser Stückeschreiber offenbar nicht recherchiert. Nun, nehmt es als epische Phantastik, wenn ihr wollt. Oder als was auch immer. Hört, da kommt unser Held. Stellt euch das Miasma (wenn es das Wort ist, das ich meine) der magischen Elixiere, blubbernden Kessel und schwebenden Kugeln von glitzerndem was auch immer vor. Und so muss der Prologist weichen. 
+
+    (Der ABENTEURER und SHUB treten auf)
+
+ABENTEURER: Ho! jemand zuhause?
+
+SHUB: Hier drüben, junger Mann, im Winkel ...
+
+ABENTEURER: Guten Morgen. Nennt Ihr Euch ... Shub ...?
+
+SHUB: Oh ja, Shub ist mein Name, Shub ist’s ... Wie in Tamriel konntet Ihr das wissen?
+
+ABENTEURER: Können wir irgendwo ... ungestört reden? ... Ich habe ein ... ähm ... delikates Anliegen zu besprechen ...
+
+SHUB: Keine Heimlichkeit nötig! Wir Magier haben nichts zu verbergen!
+
+ABENTEURER: Des Narren Ebenerz?
+
+SHUB: Schnell durch diese Tür! Nun rechts ... links ... Ah ... lasst mich schnell einen Privatsphärenzauber auf uns legen ...
+
+    (laute Zischgeräusche) (SHUB tritt auf)
+
+SHUB: Gut! Nun, Herr - Oh, lasst mich hier übrigens meinen Magierkollegen Shub vorstellen. 
+
+SHUB: Mmmm.
+
+SHUB: Nun, Ihr erwähntet des Narren Ebenerz ...?
+
+ABENTEURER: Nun, ich glaube mich selbst nicht ganz unwissend in Sachen Ebenerz. Hatte in meiner Zeit schon das ein oder andere Stück in Händen, ich hatte ... 
+
+SHUB: Wie wir sehen, tragt Ihr ein Ebenerz-Amulett, ein Ebenerzkatana - und auch noch des Blitzes! Und einen Ebenerz- Gürtel ... mmmm...
+
+ABENTEURER: Hände weg von dem Spielzeug, meine Herren, bitte!
+
+SHUB: Verzeiht uns - aber wir schätzen so hervorragende Gegenstände ...
+
+SHUB: ... und sammeln sie auch ...
+
+ABENTEURER: Nun, letztens habe ich, natürlich ganz zufällig, zwei Priester des Tempels von ... ähm ... Stendarr war’s glaube ich ... reden gehört. Sie hatten, nehme ich an, ein bisschen zu tief ins Glas geschaut, waren etwas laut, und haben gar nicht gemerkt, wie ich da gelauert ... ähm, wie ich da gestanden habe. Es ging ihnen um dieses Narren Ebenerz - Stoff wie das echte, nur keine Magicka. Nichts. Aber es brennt wie Holz, nur länger, heißer, kein Rauch, gleichmäßige Wärme. 
+
+SHUB: Ja ... wir haben auch solche Gerüchte gehört. Haben etwas von dem Stoff gesehen - Klumpen aus ein oder zwei Säcken, die so ein wirrer Schatzsucher angeschleppt hatte, irgend so etwas. Nicht wahr, Shub?
+
+SHUB: Oh - Oh ja, richtig, irgend so was ... richtig ... (zur Seite) Ich sollte daran denken, das Geheimnis zu bewahren, was es auch sein mag.
+
+ABENTEURER: Nun, diese närrischen Priester sprachen so, als würden sie einen Ort kennen, an dem es so einiges davon gibt, ganze Haufen, meine ich, von diesem Zeug ... irgendwo oben in den Wrothgarischen Bergen ...
+
+SHUB und SHUB (zusammen): Wo? Wer? Haben sie’s gesagt? Wie? Wann? Wo?
+
+SHUB: Sie haben aber nicht erfahren, dass Ihr mitgehört habt, oder?
+
+ABENTEURER: Natürlich nicht! Für wen haltet Ihr mich? Für einen Priesterfreund?
+
+SHUB: Beruhigt Euch, mein Herr ... das ist besser ... fuchtelt nur nicht so mit dem Katana herum. Macht uns nervös.
+
+SHUB: Ja, nervös, sehr ...
+
+SUB: Hier, setzt Euch. Da. Wollt Ihr etwas Glühwein? Nein? Oh gut, ich muss nur selbst austrinken.
+
+SHUB: Also schienen sie den Ort zu kennen. (zur Seite) Hmmmm. Das bedeutet, wir müssen schnell handeln, flink, rasant, mit großer Eile.
+
+ABENTEURER: Oh ja! Sie sprachen so, als würden sie in ein paar Wochen oder so eine Ladung erhalten ...
+
+SHUB: Oh du heiliger Dunstschleier ...! Oh, du liebe ... Ohhh ...
+
+SHUB: Nun denn. Scheint, als wüsstet Ihr so einiges über des Narren Ebenerz. Und Ihr erkennt das Potential - denkt nur, große warme Feuer in all unseren Studierzimmern ...
+
+SHUB und SHUB (zusammen): ... Es dem Palast verkaufen ... es diesen dummen Alchemisten verkaufen ... die Schmiedegilde würde viel ordern ... unsere Familiare warm halten ... und unsere Allerwertesten! ... nur daran zu denken, wie sehr Daedrische Verführerinnen ein nettes warmes Feuer mögen ... den Bauern noch schwelende Brocken überlassen, um damit ihre Hütten zu wärmen - gegen etwas Gold, versteht sich ...
+
+SHUB: ... denkt nur an das ganze Gold ...
+
+SHUB: Das Problem ist, Sohn - wir würden das Zeug gerne per Wagenladung bekommen, hier runterschaffen ... 
+
+SHUB: Einen vertrauenswürdigen Händler haben ... 
+
+SHUB: Einen Zauber auf ihn legen!
+
+SHUB: ... einen Händler als eine Art Mittelsmann für uns zu haben ... 
+
+ABENTEURER: Aber ... warum das Zögern, meine Herren?
+
+SHUB: Ihr scheint ein ehrenwerter Kamerad zu sein. Wir werden Euch einweihen - wohlgemerkt, ein Wort davon und ein Flammenatronach wird zu Euch ins Bett kommen ... aber keine Drohungen unter Ehrenmännern, richtig!
+
+ABENTEURER: Sehr gut - ich werde Schweigen wie ein Grab. 
+
+SHUB: Wisst Ihr, wir wissen wo das Zeug Wagenladung um Wagenladung liegt. Aber wir können nicht einfach hin und wieder zurück ...
+
+SHUB: Wir gehen nicht so gerne an die frische Luft. 
+
+SHUB: In der Stadt ist es sicherer.
+
+SHUB: Und auch wärmer.
+
+SHUB: Denkt nur an die ganzen Vorräte, die wir bräuchten.
+
+SHUB: Die ganzen garstigen Dinge da draußen.
+
+SHUB: Wusstet Ihr, dass Verführerinnen uns in der Wildnis nicht besuchen würden?
+
+SHUB: Wir müssten Wachen anheuern, um uns diese schrecklichen Priester vom Leib zu halten.
+
+SHUB: Und die Aufregung, mit all diesen ungeschliffenen Leuten zu verkehren ... diesen Händlern.
+
+SHUB: Den Schmieden.
+
+SHUB: Den Adligen.
+
+ABENTEURER: Mmm. Ich glaube, ich verstehe - Ihr wollt einen erfahrenen Entdeckerhelden, jemanden, der sich in der Wildnis auskennt, es für Euch holt, eine Lieferkette aufbaut und so weiter ...?
+
+SHUB: Genau. Und der einen netten, nützlichen Händler für uns findet. Den wir kontrollieren können.
+
+SHUB: Mit einem großen Warenlager, Lieferdienst und so ...
+
+ABENTEURER: Nun, meine Herren. Lasst mich meine Dienste anbieten! Ich habe euch Herren Magier schon immer bewundert - so schlau, scharfsinnig. Es gibt nichts, was euch zum Narren hält, oder?
+
+SHUB: Nein, nichts ...
+
+    (PROLOGIST tritt auf)
+
+PROLOGIST: Das, meine Damen und Herren, ist Ironie.
+
+    (PROLOGIST ab)
+
+ABENTEURER: Ich sage euch was, ich kann möglicherweise einen passenden Händler auftreiben. Brauche aber etwas Gold - diese Diebe kennen den Wert eines Goldstücks! Und wie es das Unglück will, wurde ich von diebischen Priestern in einer kleinen Stadt südlich von hier um mein letztes Gold gebracht. Und davor habe ich viel gutes Zeug in einem Schiffswrack verloren ... 
+
+SHUB: Nun ... da Ihr zugestimmt habt, uns zu helfen ... könnten wir etwas Gold aus der Gildenkasse entbehren, oder, Shub?
+
+SHUB: Oh! Oh ja, da ist viel drin ... wird immer mehr ...
+
+ABENTEURER: Nun, ich muss ungefähr wissen, wo die Stelle ist, weil ich die richtige Sorte Pferd wählen muss, meine Vorräte bis auf den letzten Tropfen zu kalkulieren habe, herausbekommen muss, welche Waffen ich brauchen könnte ... Vorräte, wie Verpflegung, lauter Kleinigkeiten ... Durchmesser der Wagenräder bei rechteckigen Jurten ... Hinterhalte für die Priester, falls sie versuchen, da raufzukommen ... mmmmh ...
+
+SHUB: Hier sind 500 Goldstücke. Setzt die Dinge in Bewegung!
+
+SHUB: Ja ... wir können jederzeit mehr machen. 
+
+SHUB: (zur Seite, zu SHUB) Schweigt!
+
+    (SHUB feuert einen Zauber auf SHUB, der ihn zu Asche verbrennt und stellt ihn dann wieder her)
+
+(zu allen) Entschuldigt ... wo war ich ... oh ... besorgt einen Händler, Wachen, Wagen, was immer Ihr für nötig haltet. Kommt wieder, wenn Ihr mehr braucht.
+
+SHUB: Und was ist mit den Priestern?
+
+ABENTEURER: Da habe ich ein oder zwei Ideen. Ich werde mich mit ihnen anfreunden. Vielleicht ein paar Laternenmädchen mieten, ein paar Fässer heiligen Weines besorgen ... und gleich werden sie mir aus der Hand fressen. Und wenn ihr mir zeigt, wo sich des Narren Ebenerz befindet ... nun, dann kann ich sie irreführen, direkt in eine Trollhöhle oder so schicken.
+
+SHUB: Ihr seid der Experte! Hier, lasst es mich auf der Karte zeigen. Und ich muss Euch nicht an die Flammenatronachen erinnern, oder?
+
+ABENTEURER: Also ... scheint, hmmmm ... nur dreißig Tage dahin, zu dieser Jahreszeit, vielleicht vierzig mit der Ladung zurück. Lasst mich das noch ein wenig studieren ...
+
+SHUB: Natürlich könnt Ihr die Karte nicht mitnehmen ... will nicht, dass es jetzt schon bekannt wird ...
+
+ABENTEURER: Oh nein, das genügt. Nur gebt mir noch etwas mehr Gold. Ich werde ein paar stabile Wagen brauchen. Seht hier, diese Gegend ... von den ganzen Abschwemmungen durchzogen ... hmmmm ... der Flummox da wird schrecklich verwirrend sein ... oh, und diese Ruinen, voller Geister, wette ich ... hmmmm ... und dieser Pass, sicher voller Irrlichter ...
+
+SHUB: Wenn Ihr das sagt ... Mir scheint, wir haben den richtigen Mann gefunden, Shub!
+
+SHUB: Oh ja, in der Tat.
+
+ABENTEURER: Also - warum treffe ich nicht gleich Vorbereitungen und komme in ... äh ... sagen wir einer Woche wieder auf euch zurück? Sagt - seid ihr sicher, dass ihr nicht mitkommen wollt? Es gibt schließlich nichts Schöneres als das Leben in der Wildnis. Mit der Sonne aufwachen, den Frost abschütteln. Einen Ork für’s Frühstück fangen - hattet ihr je Orkdarm, gebraten über stinkendem Lorbeer? Oh, das ist eine Gaumenfreude! Jeden Bachlauf nach toten Riesenspinnen absuchen - oder lebendigen! Koboldgalle zum Mittagessen! Die Felsgrate auf Drachlingen prüfen! In einem blendenden Schneesturm gegen Frostatronachen Wache stehen! Oh, was für ein Leben!
+
+SHUB und SHUB (zusammen): Nein, nein ... wir, wir bleiben besser hier in der Gilde. Haben schließlich noch unsere Pflichten ... jemand muss an den Laden denken ... jemand muss die Nachricht unter den ausgewählten Kunden verbreiten ... Nein danke, guter Herr, es klingt nach so einem reizenden Leben, aber ich glaube, wir bleiben am Besten hier ... ja, wirklich ... 
+
+ABENTEURER: Schade, meine Herren. Nun, dann gehe ich es mal an! Und sorgt euch nicht, wenn ihr mich mit diesen Priestern seht - ich muss sie täuschen und in die Irre führen, genau so!
+
+SHUB: Alsdann, bis in einer Woche!
+
+    (SHUB, der ABENTEURER und SHUB ab)
+    (EPILOGIST tritt auf)
+
+EPILOGIST: Shub und Shub, meine Damen und Herren. Unwahrscheinlich zurückgebliebene Magier, ja, aber vielleicht ist noch mehr an ihnen dran, als diese Abhandelung vermuten lässt. Glaubt ihr das etwa? Nun, wenn ihr nicht zur Vierten Abhandelung im Theater seid, werdet ihr es nie erfahren, nicht? Vergesst nicht das Trinkgeld für eure Schankmaid und denkt darüber nach, während wir die Bühne umbauen. 
+
+  Und so endet die Dritte Abhandelung.
+

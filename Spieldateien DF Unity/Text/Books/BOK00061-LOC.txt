@@ -1,0 +1,48 @@
+Title: Geschichte von Dolchsturz
+Author: Odiva Gallwald
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Geschichte von Dolchsturz
+
+
+
+[/font=1]
+[/center]von
+[/center]Odiva Gallwald
+
+[/font=4]
+
+
+
+Es gibt für den modernen Historiker genügend archäologische Beweise zu der Annahme, dass es bereits seit mindestens einem Jahrtausend vor der überlieferten Geschichte irgendeine Form menschlicher Ansiedlung im Stadtstaat Dolchsturz gab. Der Name Dolchsturz wurde wohl zuerst im Jahre 246 der Ersten Ära benutzt, um die Gegend um das derzeitige Kapitol zu bezeichnen. Die nördliche Hälfte der Iliac-Bucht, tatsächlich die gesamte gegenwärtige Provinz Hochfels, war von einfallenden Nord erobert worden, die eine grobe Form der Zivilisation mit sich brachten. Eine der ersten zivilisierten, von den Nord vollbrachten Handlungen war eine Volkszählung - das sogenannte Buch des Lebens. Auf Seite 933 ist dieser Eintrag aufgeführt: 
+
+"Nördlich der höchsten Klippen, südlich der Moore, westlich der Hügel und östlich des Meeres, wird DOLCHSTURZ genannt. 110 Männer, 93 Frauen, 13 Kinder unter 8 Jahren, 58 Kühe, 7 Bullen, 63 Hühner, 11 Hähne und 38 Schweine leben hier."
+
+Beinahe viertausend Jahre, nachdem diese Volkszählung vorgenommen wurde, können wir sehen, dass sich diese 216 Personen stark vermehrt haben. Der letzte Zensus im Jahre 3Ä 401 erfasste über 110.000 Einwohner. Es ist immer schwierig, eine genaue Zahl zu finden, aber zweifellos überbietet die Hauptstadt Dolchsturz ihre Rivalen Schildwacht und Wegesruh bei weitem.
+
+Es ist ein beständiges, wenn auch nicht ganz so hilfreiches Vergnügen für Historiker, den Ursprung von Ortsnamen zu finden. Dolchsturz, heißt es der Tradition zufolge, würde sich auf das Messer beziehen, das der erste Häuptling warf, um die Grenzen seines Landes festzulegen. Allerdings gibt es noch andere Legenden, welche dieselbe Gültigkeit beanspruchen könnten. 
+
+Der Dolchsturz-Eintrag im Buch des Lebens untermauert tatsächlich eine Theorie über die Ursache der Langlebigkeit von Dolchsturz. Die Einwohner waren Küstenfischer, aber sie fanden auch ein Land vor, das ergiebig genug war, um Viehzucht zu betreiben. Diese Neigung der frühen Bürgerschaft, ihre Hauptprodukte abzusichern, brachte Stabilität in ein unbeständiges Land. 
+
+Dolchsturz gedieh in den Jahren der Besetzung durch Himmelsrand. Als die Wilde Jagd 1Ä 369 König Borgas von Winterfeste tötete, stürtzten sich die Nordlande in den Erbfolgekrieg und das stark geschwächte Himmelsrand verlor seine Besitztümer in Hochfels und Morrowind. Die Iliac-Bucht war strategisch wichtig geworden und Dolchsturz begann, sein Militär auszubauen.
+
+Während der Konflikte der Direnni mit der Macht der Alessianischen Reform gab es viele Gelegenheiten, das Militär und die Marine einzusetzen. Die Direnni waren einheimische Bretonen, und Bretonen haben kaum je etwas für exzessive Religion übrig gehabt. Dolchsturz wurde zu einer kleinen Operationsbasis der Direnni und ihrer Verbündeten. Rabenschwarz Direnni, die Zauberin, deren Magie dabei geholfen hatte, den endgültigen Sieg über die Alessianer im Glenumbramoor zu sichern, gehörte zu den ersten Bewohnerinnen von Burg Dolchsturz. 
+
+Über die folgenden Jahrzehnte verschwanden die Direnni, aber Dolchsturz wuchs weiter. 1Ä 609 besiegte König Thagore das Heer von Felsschlucht und Dolchsturz wurde zur unübertroffenen wirtschaftlichen, kulturellen und militärischen Macht im südlichen Hochfels, eine Position, welche das Königreich seither knapp gehalten hat. 
+
+Ironischerweise war es ein anderer erfolgreicher Militäreinsatz dreihundertsiebzig Jahre später, der die Monopolstellung von Dolchsturz im Buchthandel beendete: die Vernichtung der orkischen Hauptstadt Orsinium durch eine gemeinsame Anstrengung von Dolchsturz, dem neuen Königreich Schildwacht sowie dem heute nicht mehr existierenden Orden von Diagna. Die Vertreibung der Orks aus dem südöstlichen Hochfels machte die Flussroute zur Bucht zugänglicher. Das winzige Dorf Wegesruh wuchs und gedieh wie eine Blume, die nicht mehr die Sense fürchtet. In nur zwanzig Jahren entsprachen Wegesruhs Handelsprofite denen von Dolchsturz. In vierzig Jahren war Wegesruh anerkannter Meister des Handels in der Iliac-Bucht. In einhundertzwanzig Jahren wurde Wegesruh zum Königreich Wegesruh. 
+
+Das Königreich Schildwacht legte in der Ersten Ära nicht Wegesruhs Höhenflug an den Tag. Die Rothwardonen waren Krieger, welche die Wege der Kaufleute gerade erst lernten, und ihr Land war feindselig genug, um die Bevölkerung klein zu halten. Tatsächlich wurde die Anzahl der Bewohner sämtlicher Gebiete der Iliac-Bucht in der Ersten Ära einmal durch die Thrassische Pest, noch einmal durch den Krieg der Rechtschaffenheit und ein drittes Mal durch die einfallenden Akaviri halbiert. Hätte Dolchsturz nicht sein erstes Jahrtausend damit verbracht, sich auf die Schlachten des nächsten Jahrtausends vorzubereiten, erscheint es tatsächlich gut möglich, dass die Iliac-Bucht heute akavirisch wäre.
+
+Die Zweite Ära ist, wie der spätere Teil der Ersten Ära, eine einzige Tapisserie aus Kriegen, Aufständen und Seuchen. Dolchsturz, Schildwacht und Wegesruh expandierten weiter und verbesserten ihre militärische und wirtschaftliche Stellung in der Bucht. Dolchsturz und Wegesruh sollten die Positionen als Haupthandelszentrum der Bucht austauschen, während Dolchsturz und Schildwacht ebenfalls darum stritten, wer nun die überlegene Militärmacht sei. 
+
+Die Iliac-Bucht nimmt weiterhin eine wichtige Stellung in der kaiserlichen Regierung der Dritten Ära ein. Selten verbündet (obwohl die vereinten Heere im Kampf gegen den Camoranischen Usurpator im dritten Jahrhundert der Dritten Ära eine bemerkenswerte Ausnahme darstellten), aber auch nicht immer verfeindet, überstanden Dolchsturz, Schildwacht und Wegesruh alle Stürme der Streitigkeiten, Seuchen, Hungersnöte und Pestilenzen. Der nicht weit zurückliegende Betonienkrieg war typisch für die Kriegsführung an der Iliac-Bucht: aufrecht, erschreckend gewalttätig und friedlich gelöst. 
+

@@ -1,0 +1,33 @@
+Title: Mystik - Die unfassbare Reise
+Author: Tetronius Lor
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+[/center]Mystik
+
+
+[/center]- Die unfassbare Reise -
+
+[/center]
+[/font=1]
+[/center]von
+[/center]Tetronius Lor
+
+[/font=4]
+
+
+Die Mystik ist die Schule der Zauberei, die von der magischen Gemeinschaft am wenigsten verstanden wird und die den Magiernovizen am schwierigsten zu erklären ist. Die Wirkungen der Zaubersprüche, die gewöhnlich der Schule der Mystik zugeschrieben werden, sind grundverschieden. Beispielsweise die Seelenfalle – die Erschaffung einer Zelle, die den Geist eines Opfers nach dessen Tod festhält – im Gegensatz zur Stille – der Auslöschung von Geräuschen. Aber diese Wirkungen sind einfach das: Wirkungen. Die Zauberei dahinter liegt in einem Mysterium verschleiert, das auf die ältesten Zivilisationen Tamriels zurückgeht, vielleicht sogar noch weiter.
+
+Die Psijiks der Insel Artaeum haben einen anderen Begriff für Mystik: der Alte Weg. Die Phrase versinkt im semantischen Sumpf, denn der Alte Weg bezieht sich auch auf die Religion und die Bräuche der Psijiks, welche Teil der Magie der Mystik sein können, aber nicht müssen.
+
+Es gibt wenige Magier, die ihr Leben den Studien der Mystik widmen. Die anderen Schulen sind viel vorhersehbarer und bestimmbarer. Die Mystik scheint Energie aus ihren Rätseln und Paradoxa zu ziehen. Das Experimentieren, egal wie objektiv die Herangehensweise daran ist, kann die Magicka durch ihre alleinige Existenz beeinflussen. Deshalb muss der mystische Magier sich verpflichten, verlässliche Muster in einer aufgewühlten Verwirrung von Energie zu finden. In der Zeit, in der er einen Zauberspruch mit beständigem Auslöser und Ergebnis erschafft, könnten seine Kommilitonen in anderen Schulen schon dutzende neue Zaubersprüche und ihre Wirkung untersucht und dokumentiert haben. Der Mystiker muss daher geduldig und ein nicht wetteifernder Gelehrter sein.
+
+Jahrhundertelang, aber hauptsächlich während der Zweiten Ära veröffentlichten gelehrte Journale eine Theorie nach der anderen, die sich mit dem Aspekt oder den Aspekten von Magicka beschäftigten, die unter dem Begriff der Mystik verschmolzen wurden. Da die Magiergilde immer Antworten auf alle Fragen zu finden sucht, haben respektierte Forscher vorgeschlagen, dass Aetherius selbst die vorletzte Energiequelle der Mystik war, oder gar andere daedrische Wesen mit unvorstellbarer Kraft. Beide Überlegungen würden die anscheinend zufälligen Konfigurationen der Mystik erklären. Einige schlugen sogar vor, dass die Mystik von den ungenutzten Elementen erfolgreicher oder sogar gescheiterter Zaubersprüchen kommt. Diskussionen innerhalb des Ordens von Artaeum nach seiner Wiederkehr haben einige Gelehrte dazu geführt zu postulieren, dass die Mystik in ihrem Wesen weniger spirituell ist, als sie es ursprünglich gewesen sein soll. Es reicht entweder der intellektuelle oder der emotionale Zustand des Gläubigen aus, um die Energiekonfiguration und den Energiefluß zu beeinflussen.
+
+Keine dieser Erklärungen ist für sich selbst genommen wirklich befriedigend. Für den jungen Studenten der Mystik ist es am besten, einfach die erkennbaren Muster im Strudel der vergangenen Jahrhunderte zu lernen. Je mehr Muster entdeckt werden, umso klarer werden die Übrigen. Allerdings nur, bis sie sich verändern. Denn das müssen sie zweifellos. Und dann beginnt die Reise von neuem.

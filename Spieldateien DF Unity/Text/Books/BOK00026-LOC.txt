@@ -1,0 +1,42 @@
+Title: Die Brüder der Dunkelheit
+Author: Pellarne Assi
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Die Brüder der Dunkelheit
+
+
+
+[/font=1]
+[/center]von
+[/center]Pellarne Assi
+
+[/font=4]
+
+
+
+Wie ihr Name schon andeutet, liegt die Geschichte der Dunklen Bruderschaft im Nebel der Dunkelheit verborgen. Mit ihren Sitten und Bräuchen sind nur jene vertraut, die selbst dem Orden angehören ("Bruder" ist dabei generisch zu verstehen; manche ihrer tödlichsten Assassinen sind Frauen, aber auch sie werden häufig Brüder genannt). Eines der größten Rätsel dabei ist, wie sie in der Verborgenheit existieren, aber mühelos von jenen gefunden werden können, die verzweifelt genug sind, um für ihre Dienste zu bezahlen.
+
+Die Dunkle Bruderschaft entsprang während der Zweiten Ära einem religiösen Orden, den Morag Tong. Die Morag Tong waren Anhänger des daedrischen Geistes Mephala, der ihnen auftrug, Ritualmorde zu begehen. Anfangs waren sie so desorganisiert, wie es nur obskure Kulte sein können; es gab keinen Anführer, und als Gruppe wagten sie es auch nicht, irgendjemanden von Bedeutung zu ermorden. Das änderte sich mit dem Aufstieg der Mutter der Nacht.
+
+Alle Anführerinnen der Morag Tong und später der Dunklen Bruderschaft sind Mutter der Nacht genannt worden. Ob ein und dieselbe Frau die Dunkle Bruderschaft seit der Zweiten Ära befehligt hat (und ob es sich dabei überhaupt um eine Frau handelt), ist unbekannt. Man geht davon aus, dass die ursprüngliche Mutter der Nacht eine wichtige Doktrin der Morag Tong entwickelt haben soll, nämlich die Überzeugung, dass Mephala zwar mit jedem in ihrem Namen begangenen Mord stärker würde, dass aber manche Morde besser seien als andere. Aus Hass begangene Morde gefielen Mephala besser als Morde aus Habsucht. Und Morde an wichtigen Persönlichkeiten gefielen Mephala besser als Morde an relativ Unbekannten.
+
+Die Zeit, in der dieser Glaube übernommen wurde, fällt ungefähr mit dem ersten Mord zusammen, der von den Morag Tong begangen wurde. Im Jahre 324 der Zweiten Ära wurde der Potentat Versidue-Shaie in seinem Palast ermordet in dem Gebiet, das heute als das Elsweyr-Königreich Senchal bekannt ist. Voller Dreistigkeit verkündete die Mutter der Nacht die Identität der Mörder, indem sie mit dem Blut des Potentaten "MORAG TONG" an die Wände schrieb.
+
+Bis zu diesem Zeitpunkt hatten die Morag Tong in relativem Frieden existiert, mehr oder weniger wie ein Hexenzirkel – gelegentlich verfolgt, aber für gewöhnlich ignoriert. Mit bemerkenswerter Synchronität in einer Zeit, da die Arena ein zersplittertes Land war, wurde die Morag Tong auf dem gesamten Kontinent geächtet. Jeder Souverän behandelte die Auslöschung des Kults plötzlich als oberste Priorität. Danach war hundert Jahre lang offiziell nichts mehr von ihnen zu hören.
+
+Eine Datierung des Zeitraums, in dem die Morag Tong als Dunkle Bruderschaft erneut in Erscheinung traten, ist schwieriger, insbesondere da im Lauf der Geschichte von Tamriel auch vereinzelt andere Assassinengilden auftauchten. Die früheste Erwähnung der Dunklen Bruderschaft habe ich in den Tagebüchern der Blutkönigin Arlimahera von Hegathe gefunden: Sie sprach davon, ihre Feinde eigenhändig beziehungsweise falls nötig "mit der Hilfe der Mutter der Nacht und ihrer Dunklen Bruderschaft, des geheimen Arsenals meiner Familie seit der Zeit meines Großvaters" getötet zu haben. Arlimahera schrieb dies im Jahre 2Ä 412; man kann daher vermuten, dass es die Dunkle Bruderschaft schon seit mindestens dem Jahre 360 gab, wenn ihr Großvater tatsächlich ihre Dienste in Anspruch genommen hatte.
+
+Der wichtigste Unterschied zwischen der Dunklen Bruderschaft und Morag Tong bestand darin, dass die Bruderschaft sowohl ein kommerzielles Geschäft als auch ein Kult war. Herrscher und wohlhabende Händler bedienten sich des Ordens als Assassinengilde. Damit erlangte die Bruderschaft sowohl die offensichtlichen Vorteile eines profitablen Unternehmens als auch den sekundären Vorteil, dass die Herrscher sie nicht länger aktiv verfolgen konnten. Sie wurden gebraucht. Sie waren nun Lieferanten einer unentbehrlichen Ware. Selbst ein besonders tugendsamer Anführer wäre nicht gut beraten, die Bruderschaft schlecht zu behandeln. 
+
+Nicht lange nach Alimaheras Tagebucheintrag fand die vielleicht berüchtigtste Exekutionsserie in der Geschichte der Dunklen Bruderschaft statt. Im Monat Morgenröte des Jahres 430 wurden der akavirische Kaiserpotentat Savirien-Chorak und alle seiner Erben in einer blutigen Nacht ermordet. Zur Freude ihrer Feinde zerfiel das Akaviri-Potentat daraufhin innerhalb von nur zwei Wochen. Über vierhundert Jahre herrschte in Tamriel das Chaos, bis der Kriegerkaiser Tiber Septim hervortrat. Obwohl keine vergleichbar eindrucksvollen Exekutionen mehr verzeichnet wurden, muss die Bruderschaft in diesem Interregnum eine Menge Gold eingenommen haben.
+
+Die Dunkle Bruderschaft hat wahrhaft keinen Mangel an Geschäftsgelegenheiten; eine "Abrechnung" ist nach meinen Informationen der beliebteste Euphemismus der Bruderschaft für eine Exekution. Sie gelten zwar offiziell in jedem Winkel des Kaiserreichs als ungesetzliche Organisation, werden aber, wie die Diebesgilde, eigentlich überall geduldet.
+

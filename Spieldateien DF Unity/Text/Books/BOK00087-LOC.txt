@@ -1,0 +1,73 @@
+Title: Aufzeichnungen zur Rothwardonengeschichte
+Author: Destri Melarg
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+
+
+[/font=2]
+[/center]Aufzeichnungen
+
+[/center]zur Rothwardonengeschichte
+
+
+[/font=1]
+[/center]von
+[/center]Destri Melarg
+
+[/font=4]
+
+
+
+Biographische Anmerkung:
+
+Destri Melarg war ein bekannter Historiker und Übersetzer alter rothwardonischer Verse, der im 20. Jahr der Dritten Ära einfach nur als Destri im Stadtstaat Rihad geboren wurde. Im Alter von neunzehn Jahren zog er zum Studium in die Kaiserstadt. Zu dieser Zeit gab es wenige Rothwardonen, die in der Kaiserprovinz gewesen waren, und vielleicht nahm er den Nachnamen Melarg an, um sich den Bretonen-, Nord- und Dunkelelfen-Kulturen anzupassen, denen er dort begegnete.
+
+Als er vierundneunzig Jahre später starb, hinterließ er zahlreiche unvollendete Historien und unübersetzte Verse. Von seinem fragmentarischen Werk hat nur wenig seinen Weg aus den Sammlungen herausgefunden. Was folgt ist ein nicht abgeschickter Brief von Melarg an seinen Herausgeber in der Kaiserstadt. Die Einsichten in den Mann, der die mündlichen Traditionen der Rothwardonen zu Papier brachte, haben mich genug beeindruckt, um seine Veröffentlichung anzustreben. 
+
+Melius, sollte angemerkt werden, war Melius Kane, Melargs Herausgeber in der Kaiserstadt. 
+
+  - Vune, Erster Gelehrter des Rothwardonischen, Kaiserliche Universität
+
+[/center]- - -
+
+Melius,
+
+dies ist der Entwurf meines letzten Kapitels der Reihe über die Helden von Hammerfall. Ich habe Dendles Erzählungen zusammengefasst. Ich habe meine Notizen, aber mit all den Zitaten wird die Geschichte nur lang. Sie bringt viel Dialog in ihren Erzählungen unter. Ich war sehr beeindruckt, dass die alten Geschichten über die fünf Schwerter immer wieder auftauchen. Seit Hellions Zeit sind tausend Jahre vergangen, aber die Leute glauben noch immer an die Geschichten. 
+
+Der Kutscher saß mit mir zusammen und wir rauchten eine Pfeife, nachdem wir ihrer Erzählung gelauscht hatten. Als wir die Geschichte diskutierten, sagte er, dass sein Geschichtenerzähler zu sagen pflegte, dass eines der fünf Schwerter die Schließung des Goblintores überdauert habe und nun hier in Hammerfall versteckt sei. Es war das schwächste der fünf, aber die Geschichte besagt, dass es jede moderne Klinge, ob magisch oder aus Ebenerz, noch um mehrere Größenordnungen übertrifft.
+
+Natürlich betrachte ich das mit einem gewissen Maß an Skepsis, da eine Ebenerzwaffe in ihrer scharfen Schneidfähigkeit unübertroffen ist und ich mir persönlich keine Waffe vorstellen kann, die mehr Schaden anrichtet als ein Claymore des Feuersturms oder ein Säbel des Lebensraubes. Dendle glaubt sogar, dass es in der Gegend um Skaven in einer der Hallen der Kriegstugenden noch immer Menschen gibt, die den alten Wegen folgen und ein Shehai oder Geisterschwert formen können. 
+
+Als ich diese Geschichten sammelte, glaubte ich einmal zu sehen, wie ein Shehai von einem alten Hallenmeister geformt wurde, aber dieses Ding, wenn überhaupt ein Geisterschwert, war so blass, dass selbst die Schwertform zweifelhaft war. Ich wollte den alten Mann nicht beleidigen und behauptete daher, es ebenfalls gesehen zu haben. Aber wenn das ein Shehai war, kann ich mir nicht vorstellen, dass es möglicherweise als echte Waffe eingesetzt wird. 
+
+Hier ist der Entwurf meiner neuen Geschichte:
+
+Zur Zeit dieser Geschichte ist Hammerfall vollständig von den Rothwardonen eingenommen. Alle alten Zwergenstädte (bis auf eine - die Geisterstadt von Zwergenheim) sind nun Städte des heutigen, modernen Hammerfall. Es kommt eine zweite Invasionbder Riesengoblins. Hammerfall ist bis auf einige getreue Anhänger unvorbereitet, die alle Jünglinge in den ländlichen Hallen der Tugend sind.
+
+Hallin, der einzige Ansei, sammelt die Armeen von Hammerfall. Nach einer Niederlage bringt er die alten Wege zurück, indem er jedem Krieger aufträgt, das Buch der Kreise zu lesen. Die Armee kann den Vormarsch der Goblins aufhalten, aber die Dinge sehen trübe aus, ganz so wie in Divads Lied. Irgendwie werden die Goblins stets aufs Neue mit Truppen und Waffen versorgt. Schließlich wird die Armee von Hammerfall verlieren.
+
+Der alte Meister von Hallins Halle der Kriegstugenden besitzt eine antike Kopie von Divads letztem Willen und Testament und liest es Hallin vor. Es erzählt, dass die fünf Schwerter nicht verloren sind, sondern nur versteckt und gut beschützt in fünf Höhlen. Jede der Höhlen ist das Heim eines Wächtermeisters, einem der alten, blinden Ansei - und zusätzlich noch ein Labyrinth.
+
+Dem letzten Willen entsprechend muss Derik zusammen mit tugendhaften Gefährten von reinem Herzen die Höhlen betreten, jeden Ansei-Meister besiegen und das Schwert zurückholen.
+
+Dendle ging hier sehr ins Detail. Es scheint, dass jeder Meister eine herausragende Eigenschaft besaß - eine Katrice besaß katzenartige Grazie und war ziemlich katzenartig geworden; ein anderer, der über eiskalte Ruhe verfügte, war so etwas wie ein Eisgolem. 
+
+Auf jeder Klinge ist ein Teil einer komplizierten Botschaft eingeschrieben, wie die Macht der Schwerter kombiniert zu nutzen ist. Derik durchsucht die ländlichen Hallen nach Brüdern der Klinge und Jungfern des Geisterschwertes, um ihn auf seiner Suche zu begleiten. Er findet seine Gefährten schließlich einen nach dem anderen und gewinnt jedes Schwert.
+
+Sie lernen über die Klingen und schwingen zusammen die Macht der fünf Schwerter, um den Riss in der Raumzeit zu versiegeln, den die Goblins erschaffen haben und woraus ihre Invasion entspringt. Hallins Gefährten vermieden es von den magischen Schwertern geblendet zu werden, indem sie die Schwerter zusammen in die Leere schleuderten und die Riesengoblins für immer in der Leere zwischen ihrer und unserer Welt einschlossen.
+
+Das Land ist gerettet und Hallin und seine Gefährten (drei Frauen und zwei Männer) werden Ansei und stellen die Lehren von Frandar Hunding in Hammerfall wieder her.
+
+Das ist die Geschichte in der Kurzfassung. Ich begrüße jedwede Kommentare von Euch oder einem der anderen Herausgeber.
+
+Noch ein anderes Anliegen meinerseits. Ich verstehe, dass Ihr in Betracht zieht, einen bekannteren Autor zu verwenden, Uthilla Abuhk oder Casmyr Kreestrom, um die Geschichten zu schreiben, die ich erforscht habe. Ich kann verstehen, dass ein bekannterer Autor ein paar mehr verkaufte Exemplare bedeuten könnte, aber das sollte nicht Eure einzige Sorge sein. Abuhk und Kreestrom sind zwar gute Schreiber und Dichter, müssten aber erst in der wahren Geschichte der Rothwardonen unterwiesen werden. Selbst wenn Ihr bereit wäret, mich dafür zu bezahlen, müsst Ihr zugeben, dass die Niederschrift so länger brauchen würde als wenn Ihr sie mir gleich gestattet. Nur etwas, das Ihr bedenken solltet, wenn Ihr die Entscheidung trefft. 
+
+Ich hoffe dieser Brief erreicht Euch, Eure Gemahlin und Kinder bei guter Gesundheit und Laune.
+
+                  Hochachtungsvoll
+                                   Destri Melarg

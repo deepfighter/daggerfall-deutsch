@@ -1,0 +1,219 @@
+Title: Des Narren Ebenerz, Die Erste Abhandelung
+Author: Frincheps
+IsNaughty: True
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+[/center]Des Narren Ebenerz
+
+
+[/center]- Die Erste Abhandelung -
+
+[/center]
+[/font=1]
+[/center]von
+[/center]Frincheps
+
+[/font=4]
+
+
+- Dramatis Personae -
+
+    PROLOGIST
+    Der ABENTEURER, ein spitzbübischer Dunkelelf
+    KOMON, ein Priester des Akatosh
+    LHEBAN, noch ein Priester des Akatosh
+    EPILOGIST
+    STETE, ein Priester des Julianos
+    RAIC, noch ein Priester des Julianos
+    SHUB, ein Magier
+    SHUB, ein anderer Magier mit gleichem Namen
+    NEPHRON, ein etwas schmieriger Händler
+    Fünf WAFFENSCHMIEDE
+    ORTHO
+    CRUNN, Millies Ehemann
+    Eine frivole COMTESSA
+    MILLIE, Wirtin und Philosophin
+    GURNSEY, einfältige Hure
+    Verschiedene HUREN und SCHUFTE aus den Tavernen
+    SOLDATEN
+    ZWERGE
+    RIESEN
+
+[/font=1]
+[/center]Die Erste Abhandelung 
+
+[/font=4]
+[/center]- Priester und Nackles betreffend
+
+  Dolchsturz und Umland irgendwann in der Dritten Ära.
+
+Wie dem Abenteurer, der zur Stunde kein Abenteuer und nichts besseres zu tun hatte, lang und breit von zwei Priestern des Akatosh berichtet wird. Worin (womöglich ungewollt) ein Licht auf die Priesterschaft und ihre Mitglieder geworfen wird, und auf eine alte Bauernmär von gewisser Bedeutung, die in Hochfels besonders geläufig ist. Und worin des Narren geheimnisvolles Ebenerz aufscheint, jener fremdartige Stoff, der einen einschneidenden Kulturwandel für die vielen, großen Profit für die wenigen, den Tod von ein paar oder überhaupt keine Auswirkungen welcher Art auch immer haben könnte.
+
+  Früh im Monat Eisherbst. Gasthaus Zum Toten Daedra. 
+
+    (PROLOGIST tritt auf)
+
+PROLOGIST: Unsere armen Darsteller werden versuchen, sich an ihre Textzeilen zu erinnern und nicht über die spärliche Szene zu stolpern. Ich bitte euch, verehrtes Auditorium, nicht dazwischenzurufen, zu stören oder mit fauligen Essensresten zu werfen: Ihr würdet dieses kurze Stück nur in die Länge ziehen. Die Gilde der Theaterautoren, Schauspieler und Bühnendichter ersucht all jene unter euch, die auf weitschweifige Dialoge, hölzerne Darbietung, unverständliche Exposition oder unbefriedigende, einen verwirrt und traurig zurücklassende Enden empfindlich oder allergisch reagieren, unverzüglich den Saal zu verlassen. Euer Gold wird leider nicht zurückerstattet. Zur Rettung enthält die Folge der Charakterzeichnungen jedoch überflüssige Anspielungen auf sämtliche Freuden des Fleisches. Daran mögt ihr Gefallen finden ... Ah, da kommt unser Held, der schurkische Dunkelelf, den man den Abenteurer nennt. Für den Prologisten ist es nun geboten, fröhlich das Weite zu suchen.
+ 
+    (PROLOGIST ab.)
+    (Der ABENTEURER tritt auf.)
+
+ABENTEURER: Was für ein seltsames Gespräch habe ich da eben zwischen diesen zwei Magiern gehört! Es wäre klüger, so etwas nicht in der Nähe von Hecken mit langen Ohren zu besprechen. 
+
+    (Zwei Priester des Akatosh treten auf LHEBAN, KOMON)
+
+LHEBAN: Ob wir uns Euch zugesellen dürfen, Kamerad? ... Gut, wir brauchen selbst etwas Gesellschaft. Ich heiße Lheban, mein Mitpriester hier ist Komon. Wir beide dienen Akatosh, ganz auf unsere Weise, versteht sich ...
+
+ABENTEURER: Macht es Euch bequem, die Bank gehört mir nicht. Aber ich dachte, dass Priester ... nicht an ... äh ... Orte wie diesen gehen, Tavernen, meine ich ... wenn nicht zur Mission?
+
+LHEBAN: Oh, wir sind nicht zur Mission. Müssen unsere inneren Lebenssäfte wieder auffüllen, damit wir noch segnen und heilen können ...
+
+    (KOMON kichert)
+
+LHEBAN: Schauen nach denen, die Trost und Segen brauchen, versteht sich ... 
+
+KOMON: Oh ja, oh ja ... wie dieses junge Mädchen draußen den anderen Abend ...
+
+    (LHEBAN tritt KOMON)
+
+KOMON: ... und unser Hohepriester meinte ohnehin, dass wir verschwinden sollten ...
+
+LHEBAN: Er will sagen, dass er uns an die frische Luft schickte. Wir hatten Visionen, versteht Ihr ...
+
+KOMON: Ja, äußerst sonderbar, wirklich ... und wir hatten noch gar nichts von diesem ...
+
+    (LHEBAN tritt KOMON)
+
+LHEBAN: Wir haben beide dieselben Visionen - wirklich merkwürdig.
+
+ABENTEURER: Erzählt ruhig, ich habe nichts mehr vor.
+
+LHEBAN: Nun, wir beide haben so etwas wie ... Worte ... gehört, um damit anzufangen. Wie 'Sir Nich' oder 'Sankt Nack'...
+
+ABENTEURER: Sagtet Ihr 'Nich' oder 'Nack'? Moment ... lasst mich schnell einen Schluck aus Eurer Flasche nehmen, Bruder ... Ah! Schon besser - ein herrlicher Tropfen, den Ihr Kameraden trinkt! Ja, ich erinnere mich - so eine Geschichte oder alte Legende über einen Elfen namens Nuckle, glaube ich - aus Morrowind?
+
+LHEBAN: Nun ja, Ihr seid da vermutlich an etwas dran - es gibt eine alte Legende in dieser Region, kommt tief aus Hochfels, glaube ich ... hmmmm ... Nackles, das ist es!
+
+ABENTEURER: Nackles, wie? Scheint, dass einige Dunkelelfen diesen Namen tragen ... besonders die ... seltsameren ... 
+
+KOMON: Ja, ich nehme an, die üblen Kerle gehen alle ganz in diesem Kampfmagickazeug auf ... sehr garstige Leute ... 
+
+LHEBAN: (zu KOMON) Komon! Dieser Kerl hat spitze Ohren und rote Augen ...
+
+KOMON: Entschuldigt, Freund ... es ist ziemlich dunkel, und ich sah nicht ... ähem ...
+
+ABENTEURER: Oh, das geht in Ordnung. Dies sind seltsame Zeiten. Ihr wisst schon, leben und leben - oder sterben - lassen, was es auch gerade sein mag. Nun ... ich nehme an, Ihr erzählt mir nun diesen Nacklesmythos? Lasst mich euch bei der Flasche da helfen ... Ah! Danke.
+
+LHEBAN: Äh ... sicher, trinkt aus, wenn Ihr wollt ... Hier, noch einen Schluck! Sicher, wir haben die Zeit, und mir steht jetzt wieder alles klar vor Augen.
+
+KOMON: Ja, wir haben ein paar Stunden, bis sich die kleine Blonde bei ihrer Laterne ...
+
+    (LHEBAN tritt KOMON)
+
+LHEBAN: (zu KOMON) Schweigt! Denkt daran, wir mussten dem Hohepriester ihre Adresse geben, sie wird also eine Weile nicht da sein! (zu allen) Also gut, hier kommt die Geschichte, so gut ich mich just daran erinnern kann. Es ist ein Märchen, das die Bauern oben in Hochfels ihren Kindern erzählen, um ihnen Angst einzujagen, damit sie wieder ein Weilchen brav sind, glaube ich. Sie erzählen es, lasst mich nachdenken ... entweder zu Geschichten bei Kerzenschein oder beim Hexenfest? - kurz bevor die Kinder in die Scheune oder den Schweinestall zum Schlafen geschickt werden.
+
+KOMON: Garstige, grausame Bauern! Ich würde sie ja alle in die Jauchegrube schicken ...
+
+LHEBAN: Ehrlich, Komon! Bedenkt, dass diese armen Seelen unser Mitleid und unseren Segen brauchen, wir sind ihre Erlösung!
+
+KOMON: Wer hat hier jetzt den altehrwürdigen Dreckskerl studiert?
+
+LHEBAN: Äh ... Es läuft etwa so: Wenn die Kinder das Jahr über wirklich brav waren - genug auf dem Markt stibitzt, täglich die Ställe ausgemistet, nicht mit den Goblins spielen waren, die Schafe in Ruhe gelassen haben und so weiter. Nun, wenn sie wirklich brav gewesen sind, haben sie nichts zu befürchten. Aber wenn sie es nicht waren, gibt es diesen garstigen, schrecklichen Geist des Dunkelelfen Nackles. Sieht nicht aus wie der typische Dunkelelf, ist dünner, größer. Ein teigiges, weißes Gesicht, so lang wie dein Arm. Läuft, als bögen sich seine Knie und Ellbogen im falschen Winkel. Kichert so, als würde man mit dem Fingernagel über eine Schieferplatte kratzen. Trägt einen engen schwarzen Anzug (nicht den der Khajiit, eher wie ein förmlicher Anzug mit Knöpfen), der aber zu eng und kurz ist. Er besucht die bösen Mädchen und -
+
+KOMON: Warum sprecht ihr noch gleich über den altehrwürdigen Dreckskerl, Lheban?
+
+    (KOMON hickst)
+    (LHEBAN tritt KOMON)
+
+LHEBAN: Ihr müsst Komon wirklich entschuldigen: überarbeitet, wenn Ihr versteht. Zu viele Heilungen und Konvertierungen ... einerlei, von dem Alten Garstigen Nackles wird vermutet, dass er unter unserem Tamriel umherwandert, in dreckigen, tiefen, dunklen Zwergenstollen. Überall unter den Landen, könnt Ihr Euch das vorstellen?! Fährt in einer rostigen, quietschenden, alten Lore auf abgenutzten Minengleisen ...
+   
+ABENTEURER: Ich habe solche vor langer langer Zeit im Krallenhort gesehen, unten in Hammerfall ...
+
+KOMON: (zu LHEBAN) Was beim Sheogorath hat er im Krallenhort gemacht?!
+
+LHEBAN: (zu KOMON) Seid still! Wenn er der ist, für den ich ihn halte, wollt Ihr es gar nicht wissen! (an alle) Ähm, ja. Nun, Nackles wird von Goblins durch all diese tiefen Tunnel gezogen - nicht Eure gemeinen gelben, sondern ganz scheußliche, schwarze Dinger. Jedenfalls ziehen sie ihn durch die Tunnel herum. Spät in der Nacht hält Nackles dann unter jeder Hütte, jedem Haus oder Schloss der unartigen Kinder - er macht da keinen Unterschied. Dann kriecht er die Abflussrohre hinauf ...
+
+KOMON: Kriecht Ritzen hinauf ... zwängt sich durch Löcher ...
+
+LHEBAN: Sickert Oublietten hoch ...
+
+KOMON: Klettert kichernd den Abort hinauf ....
+
+LHEBAN: Direkt in das Kinderzimmer! Wenn das Kind dann nur ein klein bisschen unartig war, sorgt er allenfalls für ein Durcheinander, damit’s Ärger kriegt. Macht überall schmierige Schmutzflecken hin (jedenfalls mehr als üblich), zerbricht ein paar Sachen, stiehlt dies und das und so weiter. Vielleicht nimmt er auch auch Süßigkeiten mit und lässt dafür ein paar Klumpen von des Narren Ebenerz zurück ...
+
+ABENTEURER: Des Narren Ebenerz - was ist das? Habe es vor, oh, nur ein paar Stunden erst erwähnt gehört ... zwei Magier ... 
+
+LHEBAN: Das habt Ihr? Interessant ... Sehr ... Nun, lasst uns gleich darüber reden ... lasst mich nur eben diese Nackles- Sache zu Ende bringen. Wo war ich? Oh ja ... nun, wenn das kleine Balg wirklich ungezogen war - dann nimmt er ihm alle Spielsachen weg. Den Kupferdolch, das Holzschwert, die kleine Gerte, und so weiter. Die ganzen Lieblingskindersachen eben. 
+
+KOMON: Gerten? Die mag ich.
+
+    (KOMON hickst)
+    (LHEBAN tritt KOMON)
+
+LHEBAN: Und wenn das Balg sehr, sehr böse war, dann nimmt Nackles ihn mit. Steckt ihn oder sie in seinen großen Drecksack. Schleppt den Sack durch die Löcher und Ritzen in seine rostige, alte Lore hinab! Und weg sind sie!
+
+KOMON: Hoffentlich lässt er ein paar ungezogene Mädchen da.
+
+    (LHEBAN tritt KOMON)
+
+LHEBAN: Äh ... natürlich damit wir sie retten können, Freund. Nun, manchmal, habe ich sagen hören, kommt das Balg nicht mehr zurück. Kein großer Verlust, würde ich meinen, die Bauern machen einfach noch einen. 
+
+KOMON: Darüber weiß ich Bescheid, jaja ...
+
+    (LHEBAN kneift KOMON in die Nase)
+
+LHEBAN: Allerdings, so geht man die Geschichte jedenfalls hier, werden die Bälger an die Arbeit geschickt, schürfen nach Klumpen von des Narrens Ebenerz, schaufeln Dreck und füllen ihn in Säcke. Bauen für Nackles die Tunnel aus. Nach einiger Zeit werden sie wieder zurückgebracht, wo sie hergekommen sind. Es scheint, als würde das Balg denken, er wäre ein Jahr da unten gewesen, aber oben ist nur ein Tag vergangen ... er kommt jedenfalls richtig dünn und dreckig zurück, ganz mit schwarzem Schmutz bedeckt ... schlussendlich habe ich am Tag nach dem Hexenfest auch schon ein paar kleine Bälger gesehen, dürr, voller schwarzem Schmutz und mit verstörtem Blick. Eltern schleppen sie in die Tempel, damit sie gesegnet und geheilt werden, jedenfalls wenn sie Geld haben. Beim Barte Sheogoraths, das Gejammere und der Lärm! Genug, um einen Priester in den ... äh ... ach, vergesst es ... das ist unser Problem ... 
+
+KOMON: Nein ... ist ein Problem mit unseren Anhängern, sage ich Euch ...
+
+    (LHEBEN schmeißt KOMON durch eine Trennwand)
+
+LHEBAN: Jedenfalls ist das die Kurzfassung dieser Nackleslegende hier in der Gegend. Nun fällt mir wieder ein, dass sie in ganz Tamriel weitverbreitet ist ... und ich meine den Ort ganz gut zu kennen, vielleicht steckt mehr als nur ein Körnchen Wahrheit in der Geschichte, vielleicht sehr viel mehr ...
+
+ABENTEURER: Also, ich glaube, manche der ... ähem, dunkleren Dunkelelfen könnten Nackles sein. Von der Person aus zu schließen, sozusagen...
+
+LHEBAN: Genau, die kämen dafür in Frage ... aber wir sehen nicht gerade, wie diese Typen Bälger im Sack wegschleppen, oder? 
+
+KOMON: Nee, das machen wir doch, unartige kleine Mädchen jedenfalls, nicht wahr?
+
+    (KOMON hickst)
+    (LHEBAN zertrümmert eine Flasche auf KOMONs Kopf)
+    (KOMON verliert das Bewusstsein)
+
+ABENTEURER: Das ist eine sehr interessante Geschichte, meine Herren. Sagt, kann ich Euch im Gegenzug noch eine Flasche ausgeben? Was trinkt Ihr da? Ah, dachte ich mir - Wirtin! Mehr heiligen Wein für diese heiligen Männer!
+
+LHEBAN: Möget Ihr für diese freundliche Geste gesegnet sein, Freund.
+
+ABENTEURER: Ich danke Euch, ich könnte sicher einen oder drei davon gebrauchen ... Nun, von Narrenerz habe ich in letzter Zeit viel Munkeln und Murmeln gehört - meist, indem ich Magier und dergleichen ... belauschte ... verzeiht, ihnen zuhörte. Was hat es mit dem Zeug auf sich? Hier, nehmt noch einen Schluck ... gut!
+
+LHEBAN: Nun, wir sollten Außenstehenden nichts davon erzählen ... Ihr scheint dagegen schon etwas darüber zu wissen. Und wenn Ihr das Magiergeschwätz gehört habt ... nun, vielleicht können wir uns auf einen kleinen Handel einigen. Mit Gewinn für jeden! Nun ... für die Kantorei des Akatosh, versteht sich, und Euer Entgelt, werter Herr.
+
+ABENTEURER: Das wird immer interessanter - ich bitte Euch, fahrt fort. 
+
+    (KOMON kommt auf die Füße)
+    (KOMON hickst)
+
+KOMON: Zeit für mich, das kleine Laternenmädchen zu bekehren ... nein, nein, nein - nicht die von letzter Nacht, sondern die Blonde ...
+
+    (KOMON ab)
+    (Hinter der Kulisse schreit eine Frau)
+
+LHEBAN: Ihr müsst Komon entschuldigen, mein Freund. Er ist etwas ... komisch, wisst Ihr ... Hat diese...
+
+ABENTEURER: Oh, das ist schon in Ordnung, wir alle haben unsere ...
+
+    (LHEBAN und der ABENTEURER ab)
+    (EPILOGIST tritt auf)
+
+EPILOGIST: Wir entschuldigen uns für die bisherige Qualität des Dramas. Wenn die von euch, die geblieben sind, ein paar Minuten warten mögen, während unser Barde „Schweigen zeugt von Zustimmung" spielt, werden wir die Bühne für den nächsten Akt umbauen, die Zweite Abhandelung. Bitte vergesst nicht, eurer Schankmaid Trinkgeld zu geben. Glaubt ihr, dass es so etwas wie des Narren Ebenerz gibt? Vielleicht erfahren wir es in der Zweiten Abhandelung. Vielleicht auch nicht. 
+
+    (Fanfare)
+    (EPILOGIST ab)
+
+  Ende der Ersten Abhandelung, wie sie größtenteils die Legende des Nackles behandelte.

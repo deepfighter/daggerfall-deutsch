@@ -1,0 +1,52 @@
+Title: Über Lykanthropie
+Author: Varnard Karessen
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Über Lykanthropie
+
+
+
+[/font=1]
+[/center]von
+[/center]Varnard Karessen
+
+[/font=4]
+
+
+
+Wie bekommt man Interesse am Studium der lykanthropischen Krankheit? Ich habe eine Reihe meiner Kollegen befragt und herausgefunden, dass alle, bis auf den letzten Mann, erst nach einer schrecklichen Begegnung mit einem Lykanthropen irgendeiner Art in die Materie eingetaucht sind. Ich bin dabei keine Ausnahme.
+
+In Himmelsrand ist es eine alte Tradition, zum Schutz gegen Werbären Caniswurzeln an die Bäume rund ums Haus zu reiben. Als ich noch jung und dumm war (im Gegensatz zu heute, da ich vermutlich alt und dumm bin), habe ich immer gehofft, einem Werbären zu begegnen, um herauszufinden, ob sie wirklich so beeindruckend waren wie die Legenden sagen. Ich folgte merkwürdigen Spuren in den Wäldern, bis sie verschwanden, ohne Furcht oder einen Gedanken daran, was ich tun würde, wenn ich mein Ziel erreichte. Bei Thorigs Barte, ich hatte Glück, dass meine Nachforschungen erfolglos blieben.
+
+Als ich schließlich einen Lykanthropen zu Gesicht bekam war es kein Werbär. Es war ein Werwolf, der "gemeine" Lykanthrop, der in jedem Teil von Tamriel gefunden werden kann. Mein Vater war Priester und während der kältesten Zeit im Winter erlaubte er es den Bettlern und dem Gesindel von Falcrenth, im relativ warmen Keller seines Tempels zu bleiben. Wir stellten sogar heißen Gersteneintopf zur Verfügung. Meinen Schwestern, Brüder und ich hat dieses bisschen Menschenfreundlichkeit immer sehr gefallen, denn es schien so, als gäbe es in den Kellern im Winter ständig ein Fest. Es gab immer Reisende mit interessanten Geschichten und Exzentritäten, und die Atmosphäre in den Kellern war stets ungezwungen und freundlich. Bis zu dieser Nacht. 
+
+Nach einer eingefahrenen Tradition gingen die Bettler, die krank waren oder mehr Ruhe als Essen und Gemeinschaft wollten zu den Schlafplätzen in der hintersten, dunkelsten Kellerecke, wo sie sich zumindest relativer Ungestörtheit sicher sein konnten. Wir erfreuten uns an einem Lied, und meine Schwester Gethessa tanzte zur allgemeinen Kurzweil. Das Lied endete, aber aus der Dunkelheit der entferntesten Kellerecke war weiterhin ein Chorus zu hören. So betrunken und unverständlich wie die meisten Sänger waren brauchten wir eine Minute um zu erkennen, dass das Geräusch, das wir hörten, nicht Gesang war, sondern Geschrei. 
+
+Niemand war allzu besorgt, da einige der älteren Vagabunden häufiger an lebhaften Alpträumen litten. Trotzdem ging einer der Priester meines Vaters los, um den Schreienden zu beruhigen und in dem Moment, als er in der Dunkelheit verschwand, hörten wir noch ein anderes Geräusch. Das Knurren eines Wolfs. Dann hörten wir den Priester schreien, während der ursprüngliche Schrei verstarb. 
+
+"Werwolf!", schrie der alte Barde, der das Lied angeführt hatte. Der Keller verwandelte sich in ein Chaos. 
+
+Ich wurde mit der ersten Panikwelle aus der Kellertür in den Schnee geschoben, aber konnte sehen, dass einige der mutigeren (oder betrunkeneren) Vagabunden in die Dunkelheit strömten, um sich mit dem Lykanthropen zu schlagen. Sie kamen natürlich alle fast auf der Stelle um. 
+
+Als mein Vater von dem unwillkommenen Besucher erfuhr, verschloss er den Keller, nachdem der letzte Überlebende des Blutbads herausgekommen war. Ein erfahrener Kampfmagier der Magiergilde von Falcrenth, der Vater noch einen Gefallen schuldete, ging in den Keller und tötete die Bestie. 
+
+"Nicht zu zäh", sagte er, als er wieder herauskam und den Kadaver mit sich trug. "Der Winter muss ihm auch arg zugesetzt haben." Trotz seiner stolzen Worte stammte das Blut auf seinem Gesicht und Körper nicht nur von seinem Feind. 
+
+Werwölfe kehren mit dem Tod nicht zu ihrer menschlichen Form zurück, gleich was die Legenden erzählen mögen. Ich hatte Gelegenheit, den dampfenden Körper des Monsters im Schnee in Augenschein zu nehmen, bevor er abtransportiert wurde, um verbrannt zu werden. Die Zähne, verstopft mit dem Fleisch der Bettler, waren schrecklich, aber die Klauen schockierten mich noch mehr. Ich habe seither gesehen, wie Lykanthropen Golems, Atronachen und andere Wesen, die von mundanen Waffen nicht verletzt werden können, bekämpfen und daraus den Schluss gezogen, dass sie als natürlich verzauberte Waffen wirken. 
+
+Da der Werwolf der allgegenwärtigste Lykanthrop ist, wurde der Begriff Lykanthropie seit den alten Tagen verwendet, um die Krankheit zu beschreiben, die Menschen in Halbbestien verwandelt, obwohl Lykanthropie genau genommen nur für Verwandlungen von Menschen in Werwölfe gebraucht werden sollte. Aber das ist reine Semantik. Es gibt sicherlich Unterschiede zwischen den sieben dokumentierten Formen der Lykanthropie in Tamriel, aber die Gemeinsamkeiten überwiegen. 
+
+In Schwarzmarsch und im südlichen Morrowind schleichen Werkrokodile durch die Sümpfe. Die Schwarzmarsch teilt mit der Kaiserprovinz und den feuchteren Teilen von Elsweyr auch die üble Gegenwart von Werl%wen. Valenwalds Wergeier findet man in keiner anderen Provinz. Der Wereber hat sich sowohl im Klima von Hochfels als auch in Hammerfall eingelebt. Wie ich bereits erwähnte, ist der Werbär der am häufigsten vorkommende Lykanthrop in Himmelsrand und wird zudem in den nördlichsten Teilen von Hochfels, der Kaiserprovinz und Morrowind angetroffen. Der Werwolf kann in jeder Provinz gefunden werden. Der siebte Lykanthrop, denn ich niemals gesehen habe, aber von dessen Existenz mich meine vertrauenswürdigen Kollegen überzeugt haben, ist ein Werhai, der die Ozeane um Tamriel durchstreift.
+
+Ich habe mein Leben damit verbracht, Lykanthropen zu beobachten und zu kategorisieren, aber manchmal fühle ich mich bei meinen Versuchen, sie zu verstehen, immer noch als das Kind, das in einem Keller gefangen ist. Ich weiß zum Beispiel, dass Lykanthropie kurz nach der Infektion geheilt werden kann, aber danach ist das Opfer verloren. Keiner, den ich kannte, hat es jemals geschafft, sich nach dem Prozess der ersten Verwandlung noch zu heilen. Auf der anderen Seite habe ich einen Kollegen, der in den Gebirgsausläufern von Felsschlucht in Hochfels einen Hexenzirkel untersucht, der Gerüchten zufolge über ein Gegenmittel verfügt. Ich bleibe skeptisch. 
+
+Vielleicht ist es die Tatsache, dass sie verloren sind, die Lykanthropen so aggressiv macht. Ich habe den Inhalt eines Werwolfmagens entnommen und mehr Rückstände von Wurzeln und Beeren als von Tierfleisch gefunden. Meine Schlussfolgerung ist, dass sie Menschen nicht angreifen und verschlingen müssen, um zu überleben. Dennoch tun sie es aus irgendeinem Grund. Treibt sie die Lykanthropie in den Wahnsinn oder verspüren die Lykanthropen einen Drang, die Krankheit als eine Form der Vermehrung zu verbreiten? Ich weiß es nicht. Ich bin nicht sicher, ob es einer von uns, der kein Lykanthrop ist, jemals erfahren wird. Und dann ist es natürlich zu spät.
+

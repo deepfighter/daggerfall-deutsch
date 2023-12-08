@@ -1,0 +1,38 @@
+Title: Die Alten Wege
+Author: Wissensbewahrer Celarus
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Die Alten Wege
+
+
+
+[/font=1]
+[/center]von
+[/center]Wissensbewahrer Celarus
+
+[/font=4]
+
+
+
+- Gebräuche und Philosophie des Ernsten und Getreuen Rates -
+
+Wir, die wir die Alten Wege kennen, wissen, dass es eine Geisterwelt gibt, die den Unwissenden verborgen bleibt. So wie jene, die in einem Königreich leben, aber nichts von den politischen Ränken hinter den Kulissen wissen, eine neue Steuer oder eine Heerschau als Launen des Schicksals betrachten, stehen viele Leute Überschwemmungen, Hungersnöten und Wahnsinn mit ähnlichem Unverständnis gegenüber. Dies ist bedauerlich. Wie schon der große Cuilean Darnizhaan beklagte: "Die Kraft der Unwissenheit kann wahrhaftig Mithril zerschlagen wie Glas."
+
+Woher stammen also diese Geisterkräfte, die die unsichtbaren Fäden von Mundus bewegen? Jeder Novize Artaeums weiß, dass diese Geister unsere Ahnen sind, die zu Lebzeiten ebenfalls verwirrt waren angesichts der Geister ihrer Ahnen. Dies setzt sich fort bis hin zu den ursprünglichen Acharyai. Die Daedra und Götter, an die sich das Volk wendet, sind nichts anderes als die Geister überlegener Männer und Frauen, die durch ihre Macht und Leidenschaft großen Einfluss in der Welt der Erscheinungen gewonnen haben. Dies ist zweifellos unsere Wahrheit und unsere Religion. Aber wie hilft uns das dabei, unsere heilige Pflicht zum Seliffrnsae zu erfüllen, also geringeren Wesen "ernsten und getreuen Rat" zu erteilen?
+
+In erster Linie ist es einfach zu verstehen, warum gute Wesen große Macht erhalten und mächtige Wesen zum Guten bewegt werden müssen. Wir kennen die zahlreichen Gefahren, die ein starker Tyrann mit sich bringt: Er entfacht Grausamkeit, die den Daedra Boethiah nährt, und Hass, der den Daedra Vaernima nährt; wenn er zu Lebzeiten eine besonders abscheuliche Tat begangen hat, kann er zum Herrscher im Reich des Vergessens aufsteigen; und, schlimmer noch, er inspiriert andere Missetäter dazu, nach Macht zu gieren, und andere Herrscher dazu, Missetaten zu begehen. In diesem Wissen haben wir Geduld im Umgang mit solchen Despoten entwickelt. Sie sollten verkrüppelt, gedemütigt, enteignet und in Ketten gelegt werden. Andere Ratgeber als wir würden vielleicht zu Mord oder Kriegsführung raten. Diese Methoden sind nicht nur spirituell unbedeutend, sondern auch kostspielig und aleatorisch. Außerdem fügen sie den Unschuldigen mindestens so viel Pein zu wie der brutale Diktator. Nein, wir sind Sammler von Informationen und würdevolle Diplomaten, keine Revolutionäre.
+
+In welcher Weise sind unsere Berater also "getreu"? Wir sind nur den Alten Wegen treu ergeben; es ist wesentlich nie die Geisterwelt zu vergessen, während wir unsere Augen in der physischen Welt offen halten. Das Durchführen der Riten von Moawita am zweiten Tag des Herdfeuers und des Vigyld am ersten Tag der Zweitsaat tragen wesentlich dazu bei, wohlgesonnene Geister zu stärken und unreine Geister zu schwächen. Wie also sind wir gleichzeitig denen treu, denen wir Rat geben, und der Insel Artaeum? 
+
+Der Weise Taheritae hat es wohl am treffendsten formuliert: "In Mundus werden Veränderungen durch Konflikt und Disparität bewirkt, und Veränderung ist die heiligste der Elf Kräfte. Veränderung ist die Kraft ohne Ziel und Ursprung. Es ist die Pflicht des disziplinierten Psijik ['Erleuchteten'], Veränderung zu zügeln, wo sie zu Gier, Völlerei, Faulheit, Unwissenheit, Vorurteilen, Grausamkeit, … [hier zählt Taheritae den Rest der 111 Verschwendungen auf] führt, und Veränderung zu fördern, wo sie zu Vortrefflichkeit, Schönheit, Zufriedenheit und Erleuchtung führt. Daher dient der treue Berater nur einem Herrn, nämlich seinem Geist. Wenn derjenige, dem der Psijik Rat gibt, sich böse verhält und Oegnithr ['schlechte Veränderung'] verursacht und sich durch Rat nicht davon abbringen lässt, ist der Psijik verpflichtet, dem Oegnithr entgegenzuwirken, und zwar mit allen nötigen Mitteln [Hervorhebung von mir]."
+
+Ein Schüler der Alten Wege kann sich tatsächlich mit einem Herrscher verbünden, jedoch ist dies eine gefahrvolle Verbindung. Es kann nicht genug betont werden, dass dies eine Entscheidung ist, die wohlüberlegt sein sollte. Sollte der Herrscher weisen Rat ablehnen und dem Psijik (um Taheritaes altmodisches Wort zu verwenden) eine Handlung befehlen, die den Lehren der Alten Wege zuwiderläuft, stehen nur wenige Möglichkeiten offen. Der Psijik kann, wenn auch widerwillig, gehorchen und den finsteren Mächten anheimfallen, denen er den Kampf geschworen hat. Der Psijik kann seinen Herrn verlassen, was ihm und der Insel Artaeum Schande bringen würde; der Psijik wird möglicherweise lebenslang von der Insel verbannt. Oder der Psijik kann sich selbst töten.
+

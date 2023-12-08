@@ -1,0 +1,64 @@
+Title: Der Weise
+Author: Aegrothius Goth
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Der Weise
+
+
+
+[/font=1]
+[/center]von
+[/center]Aegrothius Goth
+
+[/font=4]
+
+
+
+Knattern, knistern, zischen ... flimmern, strahlend, trüb ... das Feuer im Herd schenkt Licht und Wärme. Nichts davon scheint den alten Mann zu berühren. Seine angelehnte Gestalt starrt in die Flammen und die Flammen spiegeln sich in seinen tiefschwarzen Augen wieder. Indigoblaue Gewänder reflektieren, absorbieren und verschlucken den Feuerschein zugleich und die Strähnen der Goldfäden glitzern mit dem Flackern der Flammen. Sein Bart und Haar sind lang und schneeweiß; im Feuerschein wirken sie geradezu ätherisch wie bei einem Göttling. Neben ihm liegt ein hoher Spitzhut von der Farbe seines Gewandes, an dem ebenfalls die Goldsträhnen glitzern. Das Gesicht ist vom Alter gezeichnet und erscheint doch fast jugendlich; seine ganze Person strahlt Weisheit und einen scharfen Verstand aus. Dies ist der Weise, der in ganz Tamriel als Champion und Ratgeber aller Magienutzer bekannt ist. Seine Gedanken schweifen ab und er erinnert sich ... 
+
+[/center]- - -
+
+Gyron Vardengroet stammte aus einer armen, bescheidenen Bretonenfamilie im Dorf Mondwacht. Er war das einzige Kind von Frieda und Horstle Vardengroet und wurde während einer seltenen Finsternis von Tamriels Monden geboren. Bald wurde offenbar, dass er in den magischen Künsten ungewöhnlich begabt war. Als er ein Jahr alt war fand man ihn dabei, wie er den Familienhund levitieren ließ. Die meisten Bretonen haben ein großes Talent für Magie, aber als er heranwuchs zeigte Gyron ein Talent, das seine Gleichaltrigen weit in den Schatten stellte. Der Dorfzauberer begann, ein Interesse an dem jungen Gyron zu entwickeln und nahm ihn unter seine Fittiche. Trotz der rauflustigen Neigungen des jungen Mannes schloss ihn der alte Zauberer Grungdingler ins Herz und arbeitete verbissen daran, ihm die magischen Künste im Rahmen seiner eigenen Fertigkeiten beizubringen.
+
+Schließlich war der Tag gekommen, an dem Grungdingler ihm nichts mehr beibringen konnte. Der junge Magier hatte seinen Meister übertroffen, der von den Fragen des Zauberlehrlings nach Leben, Tod und Unsterblichkeit ziemlich beunruhigt war. Grungdingler rief ihn zu sich und gab ihm einen Brief an Morkledder, den Gildenmagister der Magiergilde von Schornhelm. Der junge Magier erzählte seinen Eltern von seinem Glück, packte sein weniges Hab und Gut und brach nach Schornhelm auf. Nach einer langen, vielmonatigen Reise durch die Ausläufer der Kurallischen Berge erreichte Gyron endlich die Tore des großen Stadtstaates Schornhelm hoch oben im Bergland von Hochfels. 
+
+Nach dem Leben in seinem kleinen Bretonendorf war Schornhelm wie ein Wunder für Gyron. Er erkundete die Stadt von einem Ende zum anderen und entdeckte schließlich die Magiergilde. Als er Morkledder den Brief von Grungdingler präsentiert hatte wurde er warm empfangen. Morkledder erklärte Gyron, dass er geprüft werden müsse, bevor er seine weitere Ausbildung erhalten könne. Nach einer Nacht der Rast und Meditation wurde Gyron in die Haupthalle der Magiergilde geführt, die jetzt mit allerlei Magiern gefüllt war. Es war sehr still. Der junge Magier spürte, wie ihm das Herz bis zum Hals schlug, als er sich dem Rat der Drei näherte, den Anführern der Magier in diesem Stadtstaat. Morkledder erhob sich und erklärte Gyron die verschiedenen Prüfungen, die er durchlaufen musste, um seinen Wert als Magier zu beweisen. Dann wandte sich der Jüngling um und verließ, die Augen sämtlicher Magier auf ihn gerichtet, die Ratskammer um sich an die Prüfungen zu machen, die ihm auferlegt worden waren. 
+
+Als er einige Jahre später nach Schornhelm zurückkehrte wurde Gyron in der Magiergilde zugelassen und in die Ratskammer geführt, wo er Morkledder wiederbegegnete. Der alte Magier sah durch seine Tagebucheinträge, die gesammelten Artefakte und ganz besonders die Einträge im Zauberbuch, die ihm Gyron präsentierte. Ein Ausdruck des Erstaunens breitete sich über das Gesicht des alten Zauberers; noch nie hatte ein Novize erreicht, was Gyron während der Prüfungen gelungen war. Morkledder berief daraufhin eine Vollversammlung der Gilde ein und stellte Gyron als vollwertigen Zauberer vor.
+
+Gyron blieb einige Jahre bei Morkledder und studierte eifrig. In einer Privatstunde einige Jahre nach seiner Prüfung gab Morkledder ihm gegenüber zu, dass ihn die Gilde in Schornhelm nichts mehr lehren könnte und er im Kristallturm auf der Insel Sommersend nach weiterer Erleuchtung suchen sollte. 
+
+Ein weiteres Mal packte Gyron seine Sachen und machte sich zu einer weiteren langen Reise auf. Nachdem er die Provinz Hammerfall durchquert hatte, wo er viele Abenteuer bestand, viele andere Magier traf und Erfahrungen und Wissen mit ihnen teilte, erreichte er einige Jahre später den Kristallturm. Er hörte Geschichten von wunderbaren Pflanzen, die in Verbindung mit anderen Elementen Tote wieder zum Leben erwecken, das Leben unter uns verlängern und dem Anwender sogar Unsterblichkeit verleihen konnten. Gyron war stets schnell dabei, andere Magier, die weniger erfahren waren, zu beraten und anzuleiten. Er liebte es, anderen behilflich zu sein. So machte er sich viele Freunde und im Land begannen sich Geschichten über diesen außerordentlichen Magienutzer zu verbreiten. 
+
+Als er den Kristallturm betrat wurde er von vielen Magiern begrüßt, die sich alle um seine Aufmerksamkeit rissen. Sein Ruf war ihm vorausgeeilt. Aber die Menge verstummte beim Eintritt einer äußerst imposanten Person, ganz in indigoblaue, goldbesetzte Gewänder gekleidet, die einen hohen Spitzhut und den schönsten geschnitzten Stab trug, den Gyron jemals gesehen hatte. Esthlainder, Ältester des Rates der Zauberer, sah den jungen Zauberer genau an, nickte und machte kehrt, um in den Turm zurückzukehren. Gyron folgte ihm ohne Zögern. Die darauf folgende Audienz überwältige den jungen Magier. 
+
+Esthlainder erzählte ihm, dass Gyrons Ankunft schon seit vielen Jahren vorausgesagt war und man ihn erwartet hatte. Die Götter hatten den Magiern erzählt, dass einer der ihren kommen würde, um ihnen Anleitung, Wissen und Hilfe zu gewähren. Gyron war dieser versprochene Champion und Anführer. Gyron war unsicher und verwirrt. Wie konnte er eine so wichtige Person sein? Was musste er tun, um sein Schicksal zu erfüllen? Aus ihm sprudelten viele Fragen hervor, auf die Esthlainder keine Antworten wusste. Der Älteste schlug vor, dass Gyron eine Weile bei ihnen im Kristallturm bleiben und studieren sollte. Das tat er. 
+
+Schließlich war der Tag gekommen, an dem der Älteste zugab, dass der Kristallturm Gyron nichts neues mehr bieten könne und er die Lande Tamriels bereisen solle, um Wissen und Weisheit zu finden. Esthlainder seufzte und sagte Gyron, wie traurig er darüber war, dass der Kristallturm ihn verlor, aber dass sein Schicksal erfüllt werden müsse. Mit diesen Worten überreichte er ihm ein Bündel, das in dasselbe wunderschöne indigoblau eingeschlagen war wie das Gewand des Ältesten. Gyron sollte das Bündel mitnehmen, aber es erst dann öffnen, wenn er eine Tagesreise vom Kristallturm entfernt war. 
+
+Nach einem langen Tagesmarsch schlug Gyron an einer wunderschönen Lichtung bei einem kristallklaren Bach sein Lager auf. "Jetzt kann ich endlich das Päckchen des Ältesten öffnen", dachte er. Als er das goldene Band, die das Bündel zuschnürte, öffnete, entdeckte er, dass der Umschlag gar kein Umschlag war, sondern ein vorzüglich maßgeschneidertes Gewand, das mit dem des Ältesten identisch war. Als er das Gewand aufschlug, kam ein hoher, spitzer Zaubererhut hervor und mit einem "whoosh" und "pop" erschien derselbe kompliziert geschnitzte Stab, den der Älteste getragen hatte. In einer Nachricht verriet ihm der Älteste, dass das Gewand unzerstörbar wäre und der Stab viele magische Eigenschaften für Gyron zum Entdecken bot. Er erklärte weiterhin, dass Gyron von diesem Tage an als der Weise bekannt sein würde.
+
+Müde von seiner Wanderung und mit dem inneren Leuchten der Vollendendung ließ sich der Weise zur ersten Nacht seiner langen Pilgerreise durch die Lande nieder. 
+
+Nach vielen Monaten weiterer Reisen und Abenteuer kehrte der Weise nach Mondwacht zurück und wurde von den Dörflern und ganz besonders seinen Eltern Frieda und Horstle wärmstens willkommen geheißen. Die Neuigkeit seines Kommens war ihm vorausgeeilt und die ganze Dorfgemeinschaft hatte hart gearbeitet, um für den Magier ein Häuschen im freundlichen Wald nahe der Stadt zu bauen und einzurichten. Nach einem Festbankett an diesem Abend zog sich Gyron an in sein neues Zuhause zurück.
+
+Der Weise gewöhnte sich an sein Leben außerhalb von Mondwacht. Er empfing viele Besucher, die von weither kamen, um ihn um Anleitung, Hilfe und Ausbildung zu ersuchen. Die Jahre vergingen. Es dauerte nicht mehr lange, bis zuerst Horstle und dann Frieda starben. Der Weise war über diesen Verlust am Boden zerstört. In seiner Trauer schwor er, den Rest seines Lebens damit zu verbringen, den Tod zu bekämpfen, damit andere niemals eine Trauer wie die seine zu erfahren brauchten. 
+
+Er kehrte zur Großen Bibliothek beim Kristallturm zurück und erforschte die vielen Blüten, Kräuter und Gewächse, von denen er während seiner Reisen gehört oder die er gesehen hatte. In seinem Häuschen brütete er unermüdlich über den Zauberbüchern, Phiolen und Pflanzensammlungen aus allen Ländern. Er prüfte die Tränke an sich selbst. Die Jahre vergingen, aber der Weise schien nicht mehr zu altern. Irgendwann fand er bei seinen Experimenten die richtige Kombination, doch konnte er nicht bestimmen, welche Kombination es gewesen war, weil die Veränderung höchst subtil gewirkt hatte. Er hatte ein endloses Leben sichergestellt. Und die Jahre zogen weiter dahin.
+
+Magier kamen und ersuchten ihn um Hilfe, die er bereitwillig gewährte. Der Weise gewöhnte sich an ein Leben, das darin bestand, andere zu beraten und anzuleiten und die Jahre zogen weiter dahin. Bedauerlicherweise wurde sein Ruhm so groß, dass sich der Ruf nach seiner Hilfe nicht mehr bewältigen ließ. Ungern packte er seine Besitztümer zum letzten Mal, reiste tief in die Kurallischen Berge und baute sich eine magische Festung. Nur die würdigsten Anwender der Magie konnten Zugang und Hilfe des Weisen erlangen. 
+
+Wenn er allerdings seinem Herzen folgt, verlässt der Weise selbst heute noch seinen Bergsitz und bereist das Land, um jungen Magiern zu helfen, Erfahrungen zu sammeln und daran zu wachsen. 
+
+[/center]- - -
+
+Knattern, knistern ... die Flammen flackern. Der alte Magier rührt sich, als die Erinnerungen wie das Feuerlicht verschwinden und flackern. Tock, tock, tock ... Echos eines hartnäckigen Klopfers am großen Eichentor der Festung ... der Weise erhebt sich und begibt sich zum Tor. Er weiß, dass ihn ein weiterer Magier in Nöten gefunden hat und seiner Hilfe würdig ist.
+

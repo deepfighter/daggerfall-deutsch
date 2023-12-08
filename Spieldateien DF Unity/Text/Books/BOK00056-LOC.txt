@@ -1,0 +1,45 @@
+Title: Bekenntnisse eines Diebes
+Author: Anonymus
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+
+
+[/center]Bekenntnisse eines Diebes
+
+
+
+[/font=4]
+
+
+
+
+Ich bin ein Dieb. Versteht das jetzt nicht falsch. Ich sage das weder aus Stolz heraus, noch schäme ich mich meiner Tätigkeit. Diebe besitzen im Kaiserreich eine perfekte Existenzberechtigung. Die Leute sagen, wir seien unehrlich. Natürlich sind diese Leute typischerweise entweder Händler oder Priester, was mich wirklich erstaunt. Als würde die Schlange dem Wurm vorhalten, keine Beine zu haben.
+
+Herrscher mögen uns. Diebstahl in Maßen ist gut für die Wirtschaft. Der Trick besteht darin, es in einer gleichmäßigen Gangart zu halten, in einer exakt abgestimmten, zeitlich einschläfernden Weise und geringfügigen Dosis, um die fetten Hintern davon abzuhalten, aktiv zu werden. Natürlich gibt es immer wieder dumme, aber talentierte Diebe, die weiterhin stehlen, Taschen leeren und noch etwas mehr stehlen. Das ist für niemanden gut. Hier kommt die Gilde ins Spiel.
+
+Eine Diebesgilde ist das, was sie einen Verbrechensregler nennen. Wir beschützen uns gegenseitig und bestrafen die Ungeschickten und Gierigen. Die Könige sind von uns abhängig, um die Amateure aus dem Geschäft zu halten.
+
+Ja, gelegentlich wird uns ein König zusetzen. Ich habe sogar schon ein- oder zweimal meinen Gildenmeister als Dieb im Gefängnis landen sehen. Irgendeine meiner Begleiterinnen hat sogar erzählt, dass ihr erster Gildenmeister gehängt wurde. Dann muss es die Diebesgilde dem König heimzahlen, und - lasst Euch das von jemandem gesagt sein, der sich damit auskennt - die Ergebnisse sind ziemlich unschön.
+
+Ich kam in die Gilde, wie ich es bei den meisten Dieben beobachtet habe. Es ist ein paar Jahre her, als dieser Fiesling Jagar Tharn auf dem Thron saß, nur dass jeder dachte, er wäre der Kaiser. Der Bauernhof meiner Eltern verwandelte sich in acht Äcker aus Staub und Felsen, und sie warfen mich und meine Brüder aus dem Haus. Ich war schon immer ein dürres Etwas gewesen, aber als ich schließlich an der nächsten Stadt ankam, war ich noch ein beträchtliches Stück dürrer geworden.
+
+Nur weil die Stadt etwas Erde besaß, auf der Pflanzen gedeihen konnten, machte sie das nicht viel reicher als es meine Leute waren. Ich versuchte, alle möglichen Arbeiten zu bekommen, aber je hungriger und verwahrloster ich wurde, desto schneller mich jemand mit Arbeit wieder vor die Tür setzen. Als schließlich die verregnete Jahreszeit einsetzte, kam sie wie ein Sturzbach und ich hatte keine Bleibe gefunden. Glücklicherweise fand ich die unverschlossene Kellertür.
+
+Es stellte sich heraus, dass die Eigentümer des Hauses wie Murmeltiere schliefen, denn ich raubte sie bis aufs Hemd aus (sogar wortwörtlich gesprochen, trotz meiner Ungeschicktheit) und sie wachten nicht einmal auf. Ich verkaufte das ganze Zeug bei einem schmutzigen Pfandleiher, den ich kannte, und verbrachte die nächsten zwei Tage damit, wie ein Potentat zu leben. Dann bekam ich meinen ersten Besuch von der örtlichen Diebesgilde.
+
+Ich erinnere mich noch daran, wie der Kerl aussah, nicht jedoch genau, was er sagte. Etwas wie: "He, Junge, falls Ihr in diesen Gefilden stehlen wollt, werdet Ihr Euch der Diebesgilde anschließen müssen. Andernfalls werde ich, oder jemand wie ich, Eure dünnen Ärmchen brechen müssen, damit Ihr nicht mehr stehlen könnt."
+
+Ich habe einige Leute gekannt, welche die Mitgliedschaft in der Gilde abgelehnt und trotzdem weiter gestohlen haben. Ich habe einigen die Arme gebrochen. Was mich betrifft, war es das erste Karriereangebot, seit mir mein Vater bedeutet hatte, dass er mir den Kopf abreißen würde, sollte ich nicht die Kuh melken. Im Vergleich dazu war der Kerl in der Taverne geradezu ein Ehrenmann. Ich habe sofort zugestimmt.
+
+Sicher, ich musste der Gilde meinen Wert beweisen, bevor ich beitreten konnte, und selbst jetzt noch. Aber über zwei taugliche Arme zu verfügen ist nur ein Teil des Vorteils. Sie haben mich ausgebildet, mich gelehrt und vor dem Gefängnis bewahrt. Wie viele andere Gilden können mit einem Fälschungsexperten in ihren Räumlichkeiten prahlen?
+
+Also denkt das nächste Mal besser nach, bevor ihr einen betrügerischen Händler oder wucherischen Priester einen Dieb nennt. Es gibt Ehre unter Dieben - ich sollte es wissen.
+

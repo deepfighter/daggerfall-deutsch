@@ -1,0 +1,76 @@
+Title: Rechtliche Grundlagen
+Author: Anchivius, M.Z.F.
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Rechtliche Grundlagen
+
+
+
+[/font=1]
+[/center]von
+[/center]Anchivius, M.Z.F.
+
+[/font=4]
+
+
+
+Unwissenheit schützt vor Strafe nicht. Seid gewarnt, dass das Folgende nur die grundlegendsten der tamrielischen Gesetze und Regelungen sind. Eure eigene Provinz oder Euer Fürstentum mag selbst einzigartige Gesetze haben. Als Bürger des Kaiserreiches ist es Euer Recht und Eure Pflicht, die Gesetze des Landes zu kennen und zu befolgen.
+
+Einbruch:
+
+Dies bezieht sich auf jede Rechtshandlung einschließlich, aber nicht ausschließlich des Öffnens, Aufbrechens, Einäscherns, magischen Teleportierens oder jeder anderen Art und Weise eine Tür, ein Fenster oder anderes Portal, das magisch oder mundan verschlossen wurde oder das jede vernünftige Person als verbotenen Bereich erkennen würde, passierbar zu machen. Ebenso die Rechtshandlung (auch wenn die tatsächliche Rechtshandlung für diese Definition nicht erforderlich ist) ein Haus, Geschäft oder eine öffentliche Einrichtung durch ein wie oben definiertes Portal zu betreten. Die Strafe für dieses Verbrechen kann aus einem Bußgeld oder einer Haftstrafe oder aus einem Bußgeld und einer Haftstrafe oder die Haftstrafe oder beides oder keines kann für den Einbruchsversuch oder Hausfriedensbruch geringer ausfallen.
+
+Ein Versuch des Einbruchs oder Hausfriedensbruchs ist definiert als eine Rechtshandlung, die jede vernünftige Person als Vorbereitung für einen Versuch (egal ob dieser erfolgreich ist oder nicht) eine Tür, ein Fenster oder jedes andere Portal, das magisch oder mundan verschlossen wurde oder das jede vernünftige Person als verbotenen Bereich erkennen würde, und die Rechtshandlung (selbst wenn die Rechtshandlung keine Voraussetzung für die Definition ist), die Vorbereitung oder der Versuch (egal ob der Versuch erfolgreich ist oder ob der Versuch möglich oder unmöglich erscheinen mag), ein Haus, Geschäft oder öffentliche Einrichtung durch ein wie oben definiertes Portal zu betreten.
+
+Hausfriedensbruch:
+
+Dies bezieht sich auf das Gehen, Fliegen, Reiten, Teleportieren, Schweben oder jede sonstige Bewegung oder Existenz auf oder über ein Eigentum ohne die ausdrückliche schriftliche oder mündliche Erlaubnis (oder der unausgesprochenen Erlaubnis, die aber eine vernünftige Person voraussetzen würde) des Eigentümers oder Verwalters des oben genannten Eigentums. Die Strafe für dieses Vergehen kann ein Bußgeld oder eine Haftstrafe oder ein Bußgeld und eine Haftstrafe einschließen.
+
+Tätlichkeit:
+
+Jede Drohung oder der Versuch (egal ob erfolgreich oder nicht) einer Person, einer Gruppe von Personen oder einer juristischen Person, die eine vernünftige Person als empfindungsfähig bezeichnen würde, physisch, emotional, mental oder magisch Schaden oder Verletzungen zuzufügen. Die Strafe für dieses Vergehen kann ein Bußgeld oder eine Haftstrafe oder ein Bußgeld und eine Haftstrafe einschließen.
+
+Mord:
+
+Jede Rechtshandlung von vorsätzlicher oder böswilliger oder vorsätzlicher und böswilliger Absicht (oder das was eine vernünftige Person als vorsätzlich oder böswillig oder vorsätzlich und böswillig bezeichnen würde) oder zufällig, aber kriminell beabsichtigt (oder was eine vernünftige Person als kriminell beabsichtigt bezeichnen würde) die direkt zum Tod (oder einer Verletzung, die zum Tod führt) einer Person, Gruppe von Personen oder einer juristischen Person, welche eine vernünftige Person als empfindungsfähig beschreiben würde, führt. Die Strafe für dieses Verbrechen kann ein Bußgeld oder eine Haftstrafe oder ein Bußgeld und eine Haftstrafe einschließen.
+
+Kriminelle Verabredung:
+
+Jedes Treffen, Kommunikation oder Begegnung mit der Absicht (oder was eine vernünftige Person als Grund annehmen könnte) eine Straftat (oder mehrere Straftaten) vorzubereiten oder ihre Durchführung zu planen oder zu veranlassen. Die Strafe für dieses Vergehen kann ein Bußgeld oder eine Haftstrafe oder ein Bußgeld und eine Haftstrafe einschließen.
+
+Landstreicherei:
+
+Jede Rechtshandlung von Untätigkeit, Störung, Bettelei oder ungebührlichen Betragen gegenüber einer Person mit Arbeit, Gold oder einem Heim (oder Arbeit, Gold und Heim oder Arbeit oder Gold und Heim oder Arbeit und Gold oder Heim oder Arbeit und Heim oder Gold) oder was eine vernünftige Person als untätig, störend, bettelnd oder ungebührlich bezeichnen würde. Die Strafe für dieses Vergehen kann ein Bußgeld oder eine Haftstrafe oder ein Bußgeld und eine Haftstrafe einschließen.
+
+Schmuggel:
+
+Jede Rechtshandlung der Einfuhr, Ausfuhr, des Teleports oder der Veranlassung zur Ein- oder Ausfuhr oder des Teleports eines illegalen Objektes oder, wenn nicht illegal, dann mit einer Ein- oder Ausfuhrsteuer belegt, welche nicht bezahlt wurde. Die Strafe für dieses Vergehen kann ein Bußgeld oder eine Haftstrafe oder ein Bußgeld und eine Haftstrafe einschließen und wird die Beschlagnahmung des beanstandeten oder illegalen Gegenstandes beinhalten. Weiterhin kann die Strafe, ohne sich darauf zu beschränken, aus Exekution oder Verbannung oder Exekution und Verbannung bestehen.
+
+Hochverrat:
+
+Jede Tat gegen (gleich ob direkt oder indirekt oder jede Unterlassung, die zu Umständen führt, direkt oder indirekt, gegen) einen loyalen Herrscher oder gegen den Vasallenstaat eines Lehnsherren, die in physischem, emotionalem, mentalem der magischem Schaden oder Verletzung für diesen Herrscher oder Lehnsherren resultiert (oder was eine vernünftige Person als Resultat annehmen würde). Die Strafe für dieses Vergehen ist der Tod.
+
+Taschendiebstahl:
+
+Jede Tat einen Gegenstand oder Gegenstände, den oder die eine Person, eine Gruppe von Personen oder ein Geschöpf, welches eine vernünftige Person als empfindungsfähig bezeichnen würde, an seiner oder ihrer eigenen Person oder ihren eigenen Personen trägt, zu stehlen oder ohne die ausdrückliche schriftliche oder mündliche Erlaubnis (oder was eine vernünftige Person als eine implizierte Erlaubnis verstehen könnte) zu nehmen. Die Strafe für dieses Vergehen kann ein Bußgeld oder eine Haftstrafe oder ein Bußgeld und eine Haftstrafe einschließen.
+
+Diebstahl (zuweilen Dieberei genannt):
+
+Jede Rechtshandlung einen Gegenstand oder Gegenstände, von oder aus dem Heim, dem Geschäft, der Person oder einem anderen Ort, den eine vernünftige Person vor Plünderung geschützt annehmen würde, einer Person, einer Gruppe von Personen oder eines Geschöpfes, die eine vernünftige Person als empfindungsfähig bezeichnen würde, zu stehlen oder ohne die ausdrückliche schriftliche oder mündliche Erlaubnis (oder was man eine vernünftige Person als implizierte Erlaubnis verstehen könnte) zu nehmen. Die Strafe für dieses Vergehen kann ein Bußgeld oder eine Haftstrafe oder ein Bußgeld und eine Haftstrafe einschließen.
+
+Dies sind die üblichen, alltäglichen Definitionen, wie sie von Rechtsexperten (wie mir) benutzt werden. Aber beides, die Definitionen und Strafen, können je nach Ort und Situation stark variieren. In der Kaiserstadt ist eine Rechtsberatung von Personen wie mir verfügbar, aber in den Provinzen besteht kein derartiges System. Vielleicht wird sich dies mit der Zeit ändern. Wir können alle darauf hoffen.
+
+Eine abschließende Bemerkung: Das tamrielische Rechtssystem hat seine Grundlage in dem zivilisierten und rationalen Credo, das vom Propheten Marukh in der Ersten Ära geäußert wurde:
+
+     "Alle sind schuldig, bis sie ihre Unschuld bewiesen haben."
+
+Wurde jemals ein wahreres Wort gesprochen?
+

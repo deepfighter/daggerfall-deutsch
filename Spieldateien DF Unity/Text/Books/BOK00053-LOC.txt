@@ -1,0 +1,38 @@
+Title: Über das Reich des Vergessens
+Author: Morian Zenas
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Über das Reich des Vergessens
+
+
+
+[/font=1]
+[/center]von
+[/center]Morian Zenas
+
+[/font=4]
+
+
+
+Es ist inkorrekt, wenn auch gebräuchlich, von den Bewohnern des Reichs des Vergessens als "Dämonen" zu sprechen. Dies geht wahrscheinlich auf die Alessianischen Doktrinen des Propheten Maruhk aus der Ersten Ära zurück, welcher, eher belustigend, "Verkehr mit Dhaemonen" verbot und dann versäumte zu erklären, was Dhaemonen eigentlich sind.
+
+Es ist wahrscheinlich, dass "Dhaemonen" eine falsche Schreibweise oder etymologische Darstellung von "Daedra", dem alten Elfenwort für diese starken, kraftvollen Wesen mit zweifelhaften Beweggründen ist, die aus dem Reich des Vergessens kommen ("Daedra" ist tatsächlich die Pluralform; der Singular lautet "Daedroth").  In einer späteren Abhandlung von König Hale dem Frommen von Himmelsrand, beinahe tausend Jahre nach der Veröffentlichung der ursprünglichen Doktrinen, vergleicht er die üblen Machenschaften seiner politischen Gegner mit der "Bosheit der Dämonen aus dem Reich des Vergessens ... Ihre Verderbtheit kommt der von Sanguine gleich, sie sind grausam wie Boethiah, berechnend wie Molag Bal und verrückt wie Sheogorath." So stellte Hale der Fromme langatmig erstmals in schriftlicher Form vier der Daedrafürsten vor.
+
+Doch schriftliche Aufzeichnungen sind letzten Endes nicht der richtige Weg, das Reich des Vergessens und seine Bewohner, die Daedra, zu erforschen. Diejenigen, die "Verkehr mit Dhaemonen" haben, möchten meist vermeiden, dass dies bekannt wird. Nichtsdestotrotz finden sich im Schrifttum der Ersten Ära Tagebücher, Aufzeichnungen, Nachrichten von Hexenverbrennungen und Richtlinien für all jene, die Jagd auf Daedra machen wollen. Diese habe ich hauptsächlich als Quellenmaterial genutzt. Sie sind mindestens so vertrauenswürdig wie die Daedrafürsten, die ich tatsächlich beschworen habe und mit denen ich mich ausführlich unterhielt.
+
+Offenbar ist das Reich des Vergessens ein Ort, der sich aus mehreren Regionen zusammensetzt; daher die vielen Namen, mit denen das Reich des Vergessens gleichbedeutend ist: Kalthafen, Modderfenn, Mondschatten usw. Man darf wohl annehmen, dass jede Region des Reichs des Vergessens von einem Fürsten regiert wird. Die Daedrafürsten, deren Namen immer wieder in den alten Schriften auftauchen (auch wenn dies sicher keinen unfehlbaren Beweis ihrer Echtheit oder Existenz darstellt), sind wie bereits erwähnt Sanguine, Boethiah, Molag Bal und Sheogorath, hinzu kommen Azura, Mephala, Clavicus Vile, Vaermina, Malacath, Hoermius (oder Hermaeus, oder Hormaius, oder Herma; es scheint keine einheitliche Schreibweise zu geben) Mora, Namira, Jyggalag, Nocturnal, Mehrunes Dagon und Peryite.
+
+Meinen Erfahrungen zufolge sind Daedra höchst unterschiedlich. Abgesehen von ihrer ungeheuren Kraft und ihrem Hang zum Extremen ist es fast unmöglich, Eigenschaften zu finden, die auf alle Daedra zutreffen. Wie dem auch sei, rein im Sinne der Wissenschaft habe ich hier für einige Fälle den Versuch gemacht.
+
+Mehrunes Dagon, Molag Bal, Peryite, Boethiah und Vaermina sind die Daedra, die man wohl am ehesten „dämonisch“ nennen kann, in dem Sinn, dass ihr Wirkungsbereich zerstörerischer Natur zu sein scheint. Natürlich können die anderen Daedra genauso gefährlich sein wie diese fünf, doch nur selten rein der Zerstörung willen. Auch sind diese fünf nicht untereinander vergleichbar in ihrer Methode der Zerstörung. Mehrunes Dagon scheint Naturkatastrophen wie Erdbeben und Vulkanausbrüche zu bevorzugen, um seinem Ärger Luft zu machen. Molag Bal bedient sich gerne anderer Daedra, und Boethiah beeinflusst die Waffen sterblicher Krieger. Perytes Wirkungsbereich scheint die Pestilenz zu sein, und Vaermina scheint die Folter zu bevorzugen.
+
+In Vorbereitung der Fortsetzung dieser Reihe werde ich zwei Angelegenheiten untersuchen, die meine Neugier erregen, seit ich meine Laufbahn als Erforscher der Daedra begann. Bei der ersten handelt es sich um einen speziellen Daedra, vielleicht einen weiteren Fürsten, der in diversen Teilen der Erstdrucke als Hircine erwähnt wird. Hircine wird "der Jäger der Prinzen" und "der Vater der Tiermenschen" genannt, aber ich habe noch niemanden gefunden, der ihn beschwören konnte. Das andere und vielleicht zweifelhaftere meiner Ziele ist, etwas zu finden, das Sterblichen den Übergang ins Reich des Vergessens ermöglicht. Es war schon immer meine Einstellung, dass wir nur das fürchten müssen, was wir nicht verstehen; und mit diesem Gedanken verfolge ich stets meine Ziele.
+

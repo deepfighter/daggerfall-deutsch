@@ -1,0 +1,43 @@
+Title: Übersicht über Götter und Kulte in Tamriel
+Author: Bruder Hetchfeld
+IsNaughty: False
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+
+
+[/center]Übersicht über Götter und Kulte
+
+
+
+[/font=4]
+
+
+
+
+Anmerkung des Herausgebers: Bruder Hetchfeld ist Schreiber an der Kaiserlichen Universität, Fakultät für Einführende Studien
+
+[/center]- - -
+
+Die Götter werden im Allgemeinen nach ihrem Interesse an weltlichen Angelegenheiten beurteilt. Der Glaube an die aktive Mitwirkung der Gottheiten an irdischen Belangen kann durch den Hinweis auf die offensichtliche Teilnahmslosigkeit und Gleichgültigkeit, welche die Götter in Zeiten von Seuchen und Hungersnöten an den Tag legen, in Frage gestellt werden.
+
+Gleich ob es um das Eingreifen in legendäre Questen oder um Erscheinungen im Alltag geht, für die Aktivitäten der Götter von Tamriel lässt sich kein wirkliches Muster erkennen. Die Interessen der Götter scheinen oft in keiner Beziehung zu den täglichen Sorgen der Sterblichen zu stehen, denen sie bestenfalls gleichgültig gegenüberstehen. Es gibt jedoch auch Ausnahmen.
+
+Viele geschichtliche Zeugnisse und Legenden weisen auf ein offenes Eingreifen eines oder mehrerer Götter in Zeiten großer Not hin. Zahlreiche Heldensagen erzählen von Segnungen der Gottheiten, die Helden gewährt wurden, die für eine Gottheit oder ihren Tempel arbeiteten oder Aufgaben bestanden. Einige der mächtigsten Objekte der bekannten Welt wurden ihren Eignern ursprünglich von den Göttern als Belohnung gegeben. Außerdem wird berichtet, dass hochrangige Priester die Götter um Segen oder Hilfe in Zeiten der Not anrufen können. Die genaue Art dieses Kontaktes und der gewährten Segnungen liegt im Bereich der Vermutungen, da die Tempel diese Verbindungen, die ihnen heilig sind, geheim halten. Ein solch direkter Kontakt stärkt den Glauben daran, dass die Götter sich des Reichs der Sterblichen durchaus bewusst sind. In vielen Fällen bleiben die Götter allerdings untätig angesichts von Tod und Leid, da sie offenbar nicht das Bedürfnis haben, sich einzumischen. Dies legt die Schlussfolgerung nahe, dass wir Sterblichen nicht fähig sind, mehr als nur einen Bruchteil der Gedankengänge und der Logik dieser höheren Wesen zu verstehen.
+
+Ein prägendes Merkmal aller Götter und Göttinnen ist ihr Interesse an Anbetung und Heldentaten. Heldentaten in Form von heiligen Questen sind nur eine von vielen Möglichkeiten, die Aufmerksamkeit einer Gottheit auf sich zu ziehen. Man geht davon aus, dass Taten im Alltag, die sich nach den Gesetzen und Pflichten einzelner Tempel richten, den Göttern ebenfalls gefallen. Ebenso können zeremonielle Handlungen in einem Tempel die Aufmerksamkeit der Gottheit bewirken. Dabei sind die Zeremonien von Gottheit zu Gottheit verschieden. Die Ergebnisse sind nicht immer offensichtlich, doch üblicherweise sind Opfer und Geschenke notwendig, um überhaupt eine Hoffnung zu haben, die Aufmerksamkeit der Gottheit zu erlangen.
+
+Während es durchaus Berichte von direkten Eingriffen in das tägliche Tempelleben gibt, bleibt die Art der Anwesenheit eines Gottes im weltlichen Alltag eine Streitfrage. Eine Redewendung der Waldelfen lautet: "Des einen Wunder ist des anderen Unglück." Während man von einigen Göttern glaubt, dass sie am täglichen Leben aktiv Anteil nehmen, sind andere für ihren Mangel an Interesse an weltlichen Angelegenheiten bekannt.
+
+Verschiedenen Theorien zufolge gewinnen Götter durch Dinge wie Verehrung, Anbetung, Opfer oder Heldentaten tatsächlich an Macht. Es ließe sich sogar die Theorie aufstellen, dass sich die Anzahl der Anhänger, die einer bestimmten Gottheit folgen, auf deren Stellung unter den anderen Göttern auswirkt. Dies ist auch meine eigene Vermutung, gestützt auf die offensichtliche Fähigkeit der größeren Tempel, leichter Segnungen und Hilfe von ihrem Gott zu erlangen als die kleineren religiösen Einrichtungen.
+
+Es gibt Berichte über die Existenz von Geistern in unserer Welt, die ebenso wie die Götter die Fähigkeit besitzen, die Handlungen und Taten der Sterblichen zu ihrer eigenen Stärkung zu nutzen. Das Verständnis des genauen Wesens dieser Kreaturen würde uns helfen, die Verbindung zwischen einer Gottheit und ihren Anhängern besser zu verstehen.
+
+Das Wissen um die Existenz solcher Geister legt die Vermutung nahe, dass die Geister sogar in der Lage sein könnten, sich auf die Ebene der Götter und Göttinnen zu erheben. Motusuo von der Kaiserlichen Akademie vermutet, dass diese Geister die Überreste von Göttern und Göttinnen sind, die mit der Zeit alle oder einen Großteil ihrer Anhängerschaft verloren haben und nun zu ihrer frühesten Grundform zurückgekehrt sind. Die Anhänger der Alten Wege sagen, dass es keine Götter gibt, nur höhere und niedere Geister. Vielleicht besteht die Möglichkeit, dass alle drei Theorien wahr sind.
+

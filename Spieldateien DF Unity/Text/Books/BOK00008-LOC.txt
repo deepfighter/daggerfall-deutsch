@@ -1,0 +1,30 @@
+Title: Die Schweinekinder
+Author: Tyston Bann
+IsNaughty: False
+Price: 10
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Die Schweinekinder
+
+
+
+[/font=1]
+[/center]von
+[/center]Tyston Bann
+
+[/font=4]
+
+
+
+Niemand, nicht einmal der älteste Dunkelelf vom Berg Dagoth-Ur oder der Alte Weise von Einsamkeit selbst, kann sich an eine Zeit erinnern, als der Ork nicht unser schönes Tamriel heimgesucht hat. Welcher widerwärtige und verdorbene Daedra aus dem Reich des Vergessens auch immer ihn ersonnen hat, er hätte nur schwerlich eine beständigere Bedrohung für das Wohlergehen der zivilisierten Völker Tamriels schaffen können als den abscheulichen Ork.
+
+Orks sind glücklicherweise durch ihre Größe (sie sind zumeist vierzig Pertans groß und fünfzehntausend Angaids schwer), ihre derben, schweineartigen Züge und ihren Gestank leicht von anderen Humanoiden zu unterscheiden. Sie führen ständig Krieg, haben eine groteske Moral, ihr Intellekt grenzt an Schwachsinn und sie sind unsauber. Bei allem, was Recht ist, hätten die zivilisierten Völker von Tamriel schon vor langer Zeit in der Lage sein müssen, das Land von ihrem Pestodem zu reinigen, aber ihre Grausamkeit, ihre tierische Arglist und merkwürdige Stammestreue machen sie so unvermeidlich wie Blutegel in einem stehendem Tümpel.
+
+Es gab schon vor den schriftlichen Aufzeichnungen Überlieferungen von der Grausamkeit der Orks. Als Jastyaga im Jahr 1Ä 950 davon berichtete, dass der Orden von Diagna sich mit den Armeen von Dolchsturz und Schildwacht verbündete, "um die frevlerischen Orks in ihrer üblen Festung Orsinium in Schach zu halten ... und alles in reinigendem Feuer zu verbrennen", nahm sie an, dass jeder Leser sich der orkischen Barbarei bewusst sein würde. Als die Belagerung 30 Jahre später vollendet war, nach dem Tod vieler Helden wie Gaiden Shinji, und sich die überlebenden Orks nach der Zerstörung von Orsinium überall in die Wrothgarischen Berge verstreuten, ergänzte sie: "Die freien Völker jubelten, da ihr uralter grausamer Feind in alle Winde zerstreut wurde." Offenbar hatten die Orks die Gegend der Iliac-Bucht mindestens seit den frühen Jahren der Ersten Ära terrorisiert.
+

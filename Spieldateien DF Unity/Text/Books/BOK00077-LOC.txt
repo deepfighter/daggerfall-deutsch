@@ -1,0 +1,130 @@
+Title: Des Narren Ebenerz, Die Vierte Abhandelung
+Author: Frincheps
+IsNaughty: True
+Price: 1000
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+[/center]Des Narren Ebenerz
+
+
+[/center]- Die Vierte Abhandelung -
+
+[/center]
+[/font=1]
+[/center]von
+[/center]Frincheps
+
+[/font=4]
+
+
+[/font=1]
+[/center]Die Vierte Abhandelung 
+
+[/font=4]
+[/center]- Handelsabwicklungen, die Schmiede bringen sich selbst ins Spiel. Nach etwas allgemeiner Diskussion und Wortgeplänkel wird endlich des Narren Ebenerz erforscht ...
+
+  Irgendwo in der Nähe des Marktplatzes, im Hinterzimmer eines Ladens namens „Nephrons Gemischtwaren". 
+
+  Der Tag danach.
+
+    (PROLOGIST, der ABENTEURER und NEPHRON treten auf)
+
+PROLOGIST: Indem die Schauspieler, die den Abenteurer und den Händler Nephron spielen, dramatisch den Mund bewegen, um ein Gespräch zu pantomimisieren, obliegt es dem armen Prologisten, das Auditorium über die Geschehnisse der ersten drei Abhandelungen des Stückes in Kenntnis zu setzen. Der Abenteurer, ein Spitzbube von einem Dunkelelfen, hat bei zwei verschiedenen Gruppen angeheuert - vier illuminierten Priestern und zwei raffgierigen Magiern - um die jeweils andere Gruppe aufzuhalten und das verschollene Lager von des Narren Ebenerz in den Wrothgarischen Bergen zu finden. Nun, stellt euch diese ungeschickt aufgemachte Kulisse als Hinterzimmer eines erfolgreichen Handelsgeschäfts vor. Und bevor der Abenteurer und Nephron Kieferstarre bekommen, wird euch der Prologist damit verlassen. 
+
+ABENTEURER: Also, Freund Nephron, erkennt Ihr die Chance, die sich uns bietet? Wir haben dieses neue Handelsgut, für das es, wie Ihr zustimmen werdet, hohe Nachfrage geben wird.
+
+NEPHRON: Besonders durch die Adligen - wenn einer von denen etwas Neues hat, wollen es die anderen natürlich auch haben.
+
+ABENTEURER: Nicht zu vergessen die Schmiede mit ihren Öfen, und die Alchemisten mit ihren Retorten und was nicht noch ...
+
+NEPHRON: Ihr scheint die Magier fein überzeugt zu haben, habt ihren Ort, habt Euch die Zugangskarte eingeprägt und so weiter - wisst Ihr, wir Händler hatten schon immer den Verdacht, dass diese alten Dussel irgendein tiefes, dunkles Geheimnis haben, das für uns von Interesse ist ... nun, die Priester - mit der Schule des Julianos arbeiten wir schon gut zusammen, Hand und Handschuh, könnte man sagen. Aber natürlich sollten wir ihnen die Hauptgewinne vorenthalten - vielleicht lassen wir sie etwas unter ihrer Herde verteilen? Und ihren Tempeln geht es doch gut! Oder sollte ich Geschäftshäusern sagen? Aber die Kantorei des Akatosh ist ein Problem, sie sind unberechenbar und arbeiten auf eigene Initiative, keine Zusammenarbeit, einfach verrückte Leute ... wir müssen uns wirklich etwas für sie einfallen lassen, um uns ihrer ... äh ... Mitarbeit zu versichern ...
+
+ABENTEURER: Ich habe da schon eine Idee ... erinnert Euch, wie der alte Komon ging und allem Anschein nach ein kleines blondes Laternenmädchen abgeschleppt hat ... nur mal angenommen, rein zufällig, er würde bei seiner ... Trunkenheit ... irrtümlicherweise jemand Wichtigen abschleppen? Könnte eine Menge Ärger für die Kantorei geben, wenn das rauskäme!
+
+NEPHRON: Hmmm. In der Tat ... da gibt es diese dumme kleine blonde Adlige, die vom 'echten Leben' hier in diesem Teil der Stadt so begeistert ist. Verkleidet sich (glaubt sie jedenfalls), kommt hier runter und spielt dann, arm zu sein. Hohle kleine Nuss ... Komon ist immer noch mit seiner Blonden untergetaucht, nicht? 
+
+ABENTEURER: Ja, in diesem 'Refugium', das die Priester unten am Hafen haben. 
+
+NEPHRON: Oh ja, den kenne ich - verkaufe ihnen oft gewisse 'spirituelle Pulver' und so ... Gut ... stellt Euch vor, was geschehen würde, wenn sich Komon zufällig diese unters Volk gegangene, kleine Comtessa geschnappt hätte ... die Kantorei des Akatosh hätte mit dem Palast Ärger ohne Ende, wenn ihr etwas ungehöriges zustieße ... und da kämen wir ins Spiel, könnten der Kantorei 'Beistand' in diesen harten Zeiten anbieten ... Hmmm. Ja! Überlasst das mir, ich werde ein paar meiner ... äh ... Geschäftspartner kontaktieren, um einige ... Arrangements zu treffen.
+
+ABENTEURER: Und ich rede weiter mit den Priestern, damit sie unser kleines Geschäft unterstützen?
+
+NEPHRON: Genau! Und ich sollte Euch einigen höherrangigen Mitgliedern unserer Bruderschaft ... pardon, Gilde ... vorstellen. Lasst mich in ein paar Tagen auf Euch zukommen, wenn alles geklärt ist. Ihr seid jeden Abend hier? 
+
+ABENTEURER: Ja, dieser Tage ist es bei Nachteinbruch nicht besonders sicher draußen.
+
+NEPHRON: Ich verstehe. Wir sollten einen gewissen ... Schutz für Euch besorgen. Nun, dann bis in ein paar Tagen.
+
+    (NEPHRON ab, unauffällig) (FÜNF SCHMIEDE treten auf)
+    (Schmiede und der ABENTEURER kämpfen) (Der ABENTEURER geht zu Boden)
+    (Die Schmiede fesseln den ABENTEURER und wecken ihn auf)
+
+SCHMIED 1: Gut, Kamerad. Lasst uns nicht um den heißen Brei herumreden! Wir wissen über diese Sache mit dem Narrenerz Bescheid. Und über die Magier, die offensichtlich den Ort entdeckt haben. Und wir haben Euren Tanz mit den Priestern, Magiern und Händlern beobachtet. Fast mit jedem, der zwei Beine hat!
+
+SCHMIED 2: Und dass ihr tatsächlich mit Nephron zusammenarbeitet.
+
+SCHMIED 3: Und wie Ihr die Priester und die Magier gegeneinander ausspielt ...
+
+SCHMIED 2: Bei der Kantorei des Akatosh macht Ihr und Nephron wirklich gute Arbeit, zugegeben.
+
+SCHMIED 1: Aber jetzt wollen wir diese Lieferung mit des Narren Ebenerz. Wir müssen unsere Produktion steigern, unsere Qualität - und unsere Preise. Wir können mit Nephron und seiner Bande arbeiten, wir brauchen ohnehin Warenlager und Verkauf.
+
+SCHMIED 4: Wir könnten es aus Euch heraushämmern ...
+
+SCHMIED 3: Wir könnten den Priestern stecken, was Ihr treibt - sie würden Euch in Blitzeseile der Nachtschwarz- Gesellschaft vorwerfen!
+
+SCHMIED 5: Wir könnten den Magiern stecken, was Ihr treibt - sie würden Euch für sehr, sehr lange Zeit ins Reich des Vergessens schicken. 
+
+SCHMIED 1: Aber wir sähen es lieber, wenn Ihr unserer Gilde 'beiträtet'. Wir werden Dolchsturz nicht für einen brenzligen Wildnisausflug verlassen. Gibt dieser Tage zu viel Nachfrage nach unseren Diensten.
+
+SCHMIED 2: Aber wir können Euch eine Gruppe unserer Lehrlinge mitgeben, um Euch Gesellschaft zu leisten.
+
+SCHMIED 4: Die testen für gewöhnlich all unsere Produkte ... und brennen sicher darauf, das einmal dort draußen zu tun.
+
+ABENTEURER: Meine Herren, meine Herren! Bitte - ich wollte Euch wirklich das ganze Geschäft anbieten, sobald ich erst von jedem anderen Gold kassiert hätte.
+
+    (SCHMIED 5 schlägt den ABENTEURER mit einem heißen Schürhaken)
+
+Ohhh ... nun, ich habe darüber nachgedacht ...
+
+SCHMIED 5: Sicher! Und ich bin eine Nymphe!
+
+ABENTEURER: Ja, ja, ja, Ihr seid sehr überzeugend. Ich würde eine ... äh ... Eskorte und Wache so robuster Leute begrüßen. Wird da draußen sehr praktisch sein. 
+
+SCHMIED 1: Gut. Dachte schon, Ihr würdet es verstehen! Einige unserer Mitglieder haben gerade eine kleine ... Unterredung mit Nephron. Mit ihm kommen wir klar. Und von nun an werden zwei unserer größeren Lehrlinge immer zur Stelle sein. Zum Schutz, versteht sich - diese Stadt kann nachts sehr gefährlich sein ...
+
+SCHMIED 3: Also setzt Eure Vorbereitungen fort und arbeitet mit Nephron zusammen. Ihr könnt in jedem Waffenladen eine Nachricht hinterlassen, wann Ihr aufbrechen wollt. Und wenn Ihr Probleme haben solltet ...
+
+ABENTEURER: Gewiss, meine Herren. Ja, Ihr seid in der Tat sehr überzeugend. Ich sollte Euch auf dem Laufenden halten. Und ... äh ... danke für den Schutz.
+
+    (ORTHO, der sehr große Lehrling, tritt auf) (Der ABENTEURER wird losgebunden) (FÜNF SCHMIEDE ab)
+
+ABENTEURER: Hallo, wer seid Ihr?
+
+ORTHO: Mich sein Ortho!
+
+ABENTEURER: Mein ... Schutz?
+
+ORTHO: Mich sein Ortho!
+
+ABENTEURER: Ihr kommt mir aus irgendeinem Grund bekannt vor. Schon mal in Morrowind gewesen?
+
+ORTHO: Mich sein Ortho!
+
+ABENTEURER: Also schön. (zur Seite) Mein alter Herr sagte immer, dass ein Abend in Gesellschaft eines ehrlichen Politikers das schlimmste sei, was einem passieren kann. Das hier kommt glaube ich direkt an zweiter Stelle.
+
+    (Der ABENTEURER und ORTHO ab) (EPILOGIST tritt auf)
+
+EPILOGIST: Unser Stück hat sechs Abhandelungen, wir haben soeben die vierte beendet. Ist es nicht interessant, dass die frivole Comtessa bislang noch nicht in Erscheinung trat? Ihr glaubt doch nicht etwa, dass unser Stückeschreiber sie umsonst unter den Dramatis Personae aufgeführt hat, oder?
+
+Nun, ihr werdet es erfahren, wenn ihr zu Des Narren Ebenerz, Die Fünfte Abhandelung zurückkommt. Und wenn euer Nachbar sich entscheidet, nicht zurückzukommen, so lasst ihn auch nicht wissen, wie es sich begeben hat. Wir Schauspieler müssen auch unser Brot verdienen. Vergesst nicht, den Schankmaiden ein Trinkgeld zu geben, indes wir die Bühne umbauen. 
+
+    (EPILOGIST ab)
+
+  Und so endet die Vierte Abhandelung.
+
