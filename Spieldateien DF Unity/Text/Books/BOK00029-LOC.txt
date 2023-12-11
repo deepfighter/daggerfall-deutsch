@@ -1,0 +1,47 @@
+Title: Kurze Geschichte des Kaiserreichs, Zweiter Teil
+Author: Stronach k'Thojj III.
+IsNaughty: False
+Price: 352
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Kurze Geschichte des Kaiserreichs
+[/center]Zweiter Teil
+
+
+
+[/font=1]
+[/center]von
+[/center]Stronach k'Thojj III.
+[/center]Kaiserlicher Historiker
+
+[/font=4]
+
+
+BAND I DIESER REIHE BOT KURZE LEBENSBESCHREIBUNGEN der ersten acht Kaiser der Septim-Dynastie, angefangen mit dem glorreichen Tiber Septim und endend bei seiner Ur-Ur-Ur-Urgroßnichte Kintyra II. Ihre Ermordung während der Gefangenschaft in Felsschlucht wird von manchen als das Ende der reinen Linie des Septim-Blutes in der kaiserlichen Familie angesehen. Zweifellos steht er bezeichnend für das Ende von etwas Bedeutendem.
+
+Uriel III. rief sich nicht nur zum Kaiser von Tamriel aus, sondern auch noch zu Uriel Septim III., womit er den berühmten Nachnamen als Titel beanspruchte. In Wahrheit lautete sein Nachname von der Linie seines Vaters her Mantiarco. Uriel III. wurde schließlich entthront und für seine Verbrechen geschmäht, aber die Tradition, den Namen Septim als Titel des Kaisers von Tamriel anzunehmen, starb nicht mit ihm.
+
+Sechs Jahre lang zerriss der Krieg des Roten Diamanten (dessen Namen sich von dem berühmten Wappen der Septim-Familie ableitet) das Kaiserreich. Die Kontrahenten waren die drei überlebenden Kinder von Pelagius II. - Potema, Cephorus und Magnus - und deren Nachkommen. Potema unterstützte natürlich ihren Sohn Uriel III. und erfreute sich des gemeinsamen Beistands von ganz Himmelsrand und dem nördlichen Morrowind. Aufgrund von Cephorus' und Magnus' Anstrengungen wechselte die Provinz Hochfels jedoch die Seiten. Die Loyalitäten der Provinzen Hammerfell, Summerset, Valenwald, Elsweyr und Schwarzmarsch waren geteilt; die meisten der Könige unterstützten aber Cephorus und Magnus.
+
+Im Jahre 3Ä 127 wurde Uriel III. in der Schlacht von Ichidag in Hammerfell gefangen genommen. Auf dem Weg zu seinem Prozess in der Kaiserstadt überfiel ein Haufen Gesindel seine Gefangenenkutsche und verbrannte ihn darin bei lebendigem Leibe. Sein Fänger und Onkel zog in die Kaiserstadt weiter und wurde unter allgemeinem Beifall zu Cephorus I., Kaiser von Tamriel, ausgerufen.
+
+Cephorus' Herrschaft zeichnete sich durch nichts als Krieg aus. Einvernehmlichen Berichten zufolge war er ein gütiger und intelligenter Mann, aber Tamriel brauchte einen großen Krieger - und das war er glücklicherweise auch. Es sollte noch weitere zehn Jahre ständiger Kriegsführung brauchen, bis er endlich seine Schwester Potema bezwang. Die sogenannte Wolfskönigin von Einsamkeit verstarb während der Belagerung ihres Stadtstaats im Jahre 137. Cephorus überlebte seine Schwester nur um drei Jahre. In den ganzen Kriegsjahren war er nicht dazu gekommen zu heiraten, und so fiel der Thron an seinen Bruder, das vierte Kind von Pelagius II.
+
+Kaiser Magnus war bereits nicht mehr der Jüngste, als er das kaiserliche Diadem übernahm, und die Bestrafung der verräterischen Könige aus dem Krieg des Roten Diamanten zehrte viele seiner letzten Kräfte auf. Die Legende beschuldigt Magnus' Sohn und Erben Pelagius III. zudem des Vatermords, aber das erscheint höchst unwahrscheinlich - wenn auch aus keinem anderen Grund, als dass Pelagius nach Potemas Tod König von Einsamkeit war und die Kaiserstadt nur selten besuchte.
+
+Pelagius III., manchmal auch Pelagius der Wahnsinnige genannt, wurde im 145. Jahr der Dritten Ära zum Kaiser ausgerufen. Fast von Anfang an wurde bei Hofe sein exzentrisches Verhalten bemerkt. Er brachte Würdenträger in Verlegenheit, beleidigte seine Vasallenkönige und beging das Ende eines kaiserlichen Prunkballs einmal mit dem Versuch, sich zu erhängen. Schließlich wurde die Regentschaft über Tamriel seiner schwer geprüften Gattin übertragen und Pelagius III. bis zu seinem Tod 3Ä 153 im Alter von vierunddreißig Jahren in verschiedene Heilanstalten und Sanatorien geschickt.
+
+Nach dem Tod ihres Gemahls wurde die Kaiserin-Regentin von Tamriel zu Kaiserin Katariah I. ausgerufen. Manche, für die der Tod von Kintyra II. nicht das Ende der Septim-Blutlinie markiert, betrachten die Vorherrschaft dieser Dunkelelfe als das wahre Anzeichen ihres Niedergangs. Ihre Verteidiger behaupten auf der anderen Seite, dass Katariah zwar selbst nicht von Tiber abstammte, ihr gemeinsamer Sohn mit Pelagius jedoch sehr wohl, so dass die kaiserliche Erblinie nicht unterbrochen worden sei. Trotz gegenteiliger rassistischer Behauptungen war Katariahs sechsundvierzigjährige Herrschaft eine der gerühmtesten in Tamriels Geschichte. Da sie sich in der Kaiserstadt unwohl fühlte, reiste Katariah so ausgiebig durch das Reich, wie es seit Tibers Tagen kein Kaiser mehr getan hatte. Sie machte einen Großteil des Schadens wieder gut, den die gebrochenen Bündnisse und die verpfuschte Diplomatie der vorherigen Kaiser angerichtet hatten. Das Volk von Tamriel liebte seine Kaiserin weit mehr als der Adel. Katariahs Tod in einem kleineren Gefecht in Schwarzmarsch ist ein Lieblingsthema verschwörungsgläubiger Historiker. So entdeckte der Weise Montalius beispielsweise einen ausgestoßenen Zweig der Septim-Familie und dessen Beteiligung an diesem Scharmützel, was in der Tat eine Enthüllung darstellte.
+
+Cassynder war bereits ein Mann in den mittleren Jahren, als er nach dem Tod seiner Mutter die Thronfolge antrat. Da in seinen Adern nur zur Hälfte Elfenblut floss, alterte er wie ein Bretone. Tatsächlich hatte er die Regentschaft über Wegesruh wegen seines schlechten Gesundheitszustands seinem Halbbruder Uriel überlassen. Dessen ungeachtet wurde er jedoch als einziger echter Blutsverwandter von Pelagius und damit von Tiber zur Annahme des Throns gedrängt. Niemand war überrascht, dass die Herrschaft von Kaiser Cassynder nicht lange währte. Nach zwei Jahren folgte er seinen Vorgängern in die ewige Ruhe.
+
+Uriel Lariat, Cassynders Halbbruder, Sohn von Katariah I. und ihrem kaiserlichen Prinzgemahl Gallivere Lariat (nach dem Tod Pelagius' III.), verließ das Königreich Wegesruh, um Tamriel als Uriel IV. zu regieren. Rechtlich gesehen war Uriel IV. ein Septim. Cassynder hatte ihn in die königliche Familie adoptiert, als er König von Wegesruh wurde. Allerdings sahen ihn der Rat und das Volk von Tamriel als Bastardkind Katariahs. Uriel besaß nicht die Dynamik seiner Mutter, und seine lange dreiundvierzigjährige Herrschaft war eine Brutstätte des Aufruhrs.
+
+Die Geschichte Uriels IV. wird im dritten Band dieser Reihe erzählt.
+ 

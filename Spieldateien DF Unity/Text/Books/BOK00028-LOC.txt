@@ -1,0 +1,43 @@
+Title: Kurze Geschichte des Kaiserreichs, Erster Teil
+Author: Stronach k'Thojj III.
+IsNaughty: False
+Price: 352
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Kurze Geschichte des Kaiserreichs
+[/center]Erster Teil
+
+
+
+[/font=1]
+[/center]von
+[/center]Stronach k'Thojj III.
+[/center]Kaiserlicher Historiker
+
+[/font=4]
+
+
+BEVOR TIBER SEPTIM AN DIE MACHT KAM, regierte in Tamriel allenthalben das Chaos. Der Dichter Tracizis nannte dieses Zeitalter ständiger Unruhen „die Tage und Nächte von Blut und Gift”. Die Könige waren ein unbedeutender Haufen habsüchtiger Tyrannen, die Tibers Versuche, dem Land Ordnung zu bringen, bekämpften. Sie waren jedoch so unorganisiert wie ausschweifend, so dass Septims starke Hand schließlich doch Frieden in Tamriel erzwang. Man schrieb das Jahr 2Ä 896. Im folgenden Jahr verkündete der Kaiser den Anfang einer neuen Ära - damit begann die Dritte Ära, das Jahr Null.
+
+Achtunddreißig Jahre lang herrschte Kaiser Tiber unangefochten. Es war ein gesetzestreues, frommes und glorreiches Zeitalter, in dem alle gerecht behandelt wurden, vom Leibeigenen bis zum Landesherrn. Nach Tibers Tod regnete es vierzehn Tage lang ununterbrochen, als ob das Land Tamriel selbst weinte.
+
+Der Enkel des Kaisers, Pelagius, bestieg den Thron. Seine Herrschaft währte zwar nur kurz, jedoch war er ebenso stark und beherzt wie sein Großvater, und Tamriels Goldenes Zeitalter hätte durchaus andauern können. Aber ein unbekannter Feind der Septim-Familie heuerte jene verfluchte Organisation von Meuchelmördern, die Dunkle Bruderschaft, an, um Kaiser Pelagius umzubringen, als er im Tempel des Einen in der Kaiserstadt zum Gebet niederkniete. Pelagius I. regierte nicht einmal drei Jahre lang.
+
+Da Pelagius keine lebenden Kinder hatte, fiel die Kaiserkrone an seine Cousine ersten Grades, die Tochter von Tibers Bruder Agnorith. Kintyra, ehemalige Königin von Silvenar, bestieg den Thron als Kintyra I. Ihre Herrschaft war mit Wohlstand und guten Ernten gesegnet, und sie erwies sich als eifrige Patronin von Kunst, Musik und Tanz.
+
+Nach Kintyras Tod wurde ihr Sohn zum neuen Herrscher gekrönt; er war der erste Kaiser von Tamriel, der den Kaisernamen Uriel annahm. Uriel I. war der bedeutendste Gesetzgeber der Septim-Dynastie und ein Förderer unabhängiger Organisationen und Gilden. Unter seiner gütigen, aber festen Hand erlangten die Kriegergilde und die Magiergilde in ganz Tamriel immer größere Bedeutung. Sein Sohn und Nachfolger Uriel II. regierte achtzehn Jahre lang, vom Tod Uriels I. im Jahre 3Ä 64 bis zur Thronbesteigung Pelagius II. im Jahre 3Ä 82. Tragischerweise wurde die Herrschaft Uriels II. von Pest, Plagen und Aufständen gegeißelt. Die von seinem Vater ererbte Weichherzigkeit erwies Tamriel keine guten Dienste, und nur wenig Gerechtigkeit wurde geübt.
+
+Pelagius II. erbte von seinem Vater nicht nur den Thron, sondern auch die Schulden, die aus dessen schwacher Führung des Finanz- und Gerichtssystems herrührten. Pelagius entließ alle Mitglieder des Ältestenrats und erlaubte nur denen, welche zur Zahlung großer Summen bereit waren, ihren Sitz im Rat wieder einzunehmen. Er ermunterte seine Vasallen, die Könige von Tamriel, ähnlich vorzugehen, und gegen Ende seiner siebzehnjährigen Herrschaft erlebte Tamriel eine neue wirtschaftliche Blüte. Kritiker raunten jedoch, dass jeder Berater, der zwar weise, aber nicht reich war, von Pelagius unverzüglich seines Amtes enthoben würde. Dies führte womöglich zu manchen Problemen, mit denen sich sein Sohn Antiochus konfrontiert sah, als er seinerseits Kaiser wurde.
+
+Antiochus war sicherlich eines der flamboyanteren Mitglieder der sonst eher sittenstrengen Septim-Familie. Er hatte zahlreiche Mätressen und fast ebenso viele Ehefrauen und war bekannt für seine prächtigen Kleidung und sein sonniges Gemüt. Unglücklicherweise war seine Herrschaft von Bürgerkriegen geprägt, die selbst jene unter seinem Großvater Uriel II. übertrafen. Im Inselkrieg des Jahres 3Ä 110, zwölf Jahre nach Antiochus' Thronbesteigung, verlor Tamriel beinahe die Provinz Summerset. Die geschlossene Allianz der Könige von Summerset und Antiochus konnten König Orgnum vom Inselkönigreich Pyandonea zwar besiegen, aber nur dank eines außergewöhnlichen Sturms. Die Legende schreibt das Zauberwerk hinter diesem Orkan dem Psijic-Orden der Insel Artaeum zu.
+
+Das Geschick von Kintyra II., die ihrem Vater Antiochus auf den Thron nachfolgte, ist sicherlich eines der traurigsten Kapitel in der Geschichte des Kaiserreichs. Indem er auf die berüchtigte Dekadenz in der Kaiserstadt unter der Herrschaft ihres Vaters anspielte, bezichtigte ihr Cousin Uriel, Sohn der Königin Potema von Einsamkeit, Kintyra eine Bastardin zu sein. Als diese Anschuldigung ihre Krönung nicht verhindern konnte, erkaufte sich Uriel die Unterstützung mehrerer unzufriedener Könige von Hochfels, Himmelsrand und Morrowind und koordinierte mit Königin Potemas Hilfe drei Angriffe auf das Septimische Kaiserreich.
+
+Der erste Angriff erfolgte in der Region der Iliac-Bucht, die Hochfels von Hammerfell trennt. Kintyras Gefolge wurde abgeschlachtet und die Kaiserin selbst gefangen genommen. Zwei Jahre lang schmachtete Kintyra II. in einem kaiserlichen Gefängnis, wahrscheinlich irgendwo in Felsschlucht oder Schluchtweiher, bevor sie unter mysteriösen Umständen in ihrer Zelle umgebracht wurde. Der zweite Angriff richtete sich gegen eine Reihe von kaiserlichen Garnisonen entlang der küstennahen Inseln Morrowinds. Bei der Verteidigung der Festungen fiel Kontin Arynx, der Prinzgemahl der Kaiserin. Beim dritten und letzten Angriff wurde die Kaiserstadt selbst belagert, nachdem der Ältestenrat das Heer aufgeteilt hatte, um Hochfels im Westen und Morrowind im Osten anzugreifen. Die stark geschwächte Regierung konnte Uriels entschlossener Aggression wenig entgegensetzen und kapitulierte nach nur zweiwöchigem Widerstand. Uriel bestieg noch am selben Abend den Thron und rief sich selbst zu Uriel III., Kaiser von Tamriel, aus. Man schrieb das Jahr 3Ä 121. So begann der Krieg des Roten Diamanten, beschrieben in Band II dieser Reihe.
+ 

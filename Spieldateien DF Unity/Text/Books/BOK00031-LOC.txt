@@ -1,0 +1,45 @@
+Title: Kurze Geschichte des Kaiserreichs, Vierter Teil
+Author: Stronach k'Thojj III.
+IsNaughty: False
+Price: 352
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Kurze Geschichte des Kaiserreichs
+[/center]Vierter Teil
+
+
+
+[/font=1]
+[/center]von
+[/center]Stronach k'Thojj III.
+[/center]Kaiserlicher Historiker
+
+[/font=4]
+
+
+DER ERSTE BAND DIESER REIHE BESCHRIEB IN KÜRZE die ersten acht Kaiser der Septim-Dynastie, angefangen mit Tiber I. Der zweite Band befasste sich mit dem Krieg des Roten Diamanten und den sechs nachfolgenden Kaisern. Im dritten Band wurden die Schwierigkeiten der nächsten drei Kaiser beschrieben - es ging um den frustrierten Uriel IV., den halbherzigen Cephorus II. und den heroischen Uriel V.
+
+Als Uriel V. jenseits des Meeres im fernen, feindlichen Akavir starb, war Uriel VI. gerade fünf Jahre alt. In der Tat war Uriel VI. kurz vor dem Aufbruch seines Vaters nach Akavir geboren worden. Die einzigen anderen Nachkommen Uriels V., die Zwillinge Morihatha und Eloisa, stammten aus einer morganatischen Verbindung und wurden einen Monat geboren, nachdem er abgereist war. Uriel VI. wurde im 290. Jahr der Dritten Ära gekrönt. Der Kaiserlichen Gemahlin Thonica wurde als Mutter des Jungen eine eingeschränkte Regentschaft übertragen, bis Uriel VI. seine Volljährigkeit erreichte. Der Ältestenrat behielt die wahre Macht, wie er es seit den Tagen von Katariah I. getan hatte.
+
+Der Rat genoss seine grenzenlose und uneingeschränkte Freiheit, Gesetze zu erlassen (und Profit zu machen) so sehr, dass Uriel VI. erst im Jahre 307 die volle Regierungsgewalt übertragen wurde, als er bereits 22 Jahre alt war. Er hatte im Laufe der Jahre allmählich mehr und mehr Verantwortungspositionen übernommen, aber sowohl der Rat als auch seine Mutter, die selbst ihre eingeschränkte Regentschaft genoss, mochten die Zügel nur ungern aus der Hand geben. Als er endlich den Thron bestieg, ließen ihm die Regierungsmechanismen mit Ausnahme des kaiserlichen Vetos nur wenig Macht.
+
+Diese Macht übte er jedoch regelmäßig und nachdrücklich aus. Gegen das Jahr 313 konnte sich Uriel VI. mit Überzeugung rühmen, Tamriel wirklich zu regieren. Er benutzte stillgelegte Spionagenetze und Wacheinheiten, um die schwierigen Mitglieder des Ältestenrats einzuschüchtern und auf seine Linie zu zwingen. Seine Halbschwester Morihatha war (nicht überraschend) seine entschiedenste Verbündete, insbesondere nachdem ihr die Heirat mit Baron Ulfe Gersen von Winterfeste beträchtlichen Wohlstand und Einfluss brachte. Wie der Weise Ugaridge sagte: "Uriel V. bezwang Esroniet, Uriel VI. jedoch bezwang den Ältestenrat.”
+Als Uriel VI. eines Tages vom Pferd fiel und auch von den besten Heilern des Kaiserreichs nicht wiederbelebt werden konnte, übernahm seine geliebte Schwester Morihatha die kaiserliche Tiara. Im Alter von fünfundzwanzig Jahren war sie von (zugegebenermaßen auf den eigenen Vorteil bedachten) Diplomaten als das schönste Geschöpf in ganz Tamriel beschrieben worden. Zweifellos war sie sehr gebildet, lebhaft, athletisch und eine überaus geschickte Politikerin. Sie holte den Erzmagister von Himmelsrand in die Kaiserstadt und machte ihn zum zweiten Kaiserlichen Kampfmagier seit den Tagen von Tiber Septim.
+Morihatha brachte das von ihrem Bruder begonnene Werk zu Ende und bescherte der Kaiserprovinz eine echte Regierung unter der Kaiserin (und später dem Kaiser). Außerhalb der Kaiserprovinz hatte sich das Kaiserreich jedoch allmählich immer mehr aufgelöst. Seit den Tagen ihres Großvaters Cephorus II. hatten offene Revolutionen und Bürgerkriege ungehindert gewütet. Durch sorgfältige Koordination ihrer Gegenangriffe gelang es Morihatha, ihre rebellischen Vasallen allmählich wieder auf ihre Seite zu bringen. Dabei achtete sie stets darauf, sich nicht selbst zu übernehmen.
+
+Morihathas Militärkampagnen erwiesen sich zwar als außerordentlich erfolgreich, jedoch war der Rat wegen ihres bedachtsamen Vorgehens oft frustriert. Einer der Ratsherren, ein Argonier, der den colovianischen Namen Thorikles Romus angenommen hatte, war so wütend über ihre Weigerung, Truppen in seine unruhige Schwarzmarsch zu schicken, dass er angeblich die Assassinen anheuerte, die ihr im Jahre 3Ä 339 das Leben nahmen. Romus wurde kurzerhand der Prozess gemacht und er selbst darauf hingerichtet, obwohl er seine Unschuld bis zuletzt beteuerte.
+
+Morihatha hatte keine überlebenden Kinder, und Eloisa war vier Jahre zuvor an einem Fieber gestorben. Also wurde Eloisas fünfundzwanzigjähriger Sohn Pelagius als Pelagius IV. gekrönt. Pelagius IV. setzte das Werk seiner Tante fort und brachte die radikalen und widerspenstigen Königreiche, Herzogtümer und Baronien des Kaiserreichs nach und nach wieder unter seine Fittiche. Bei seinen Bemühungen ließ er sich von der gleichen inneren Sicherheit und Umsicht leiten wie Morihatha - aber leider blieb ihm ihr Erfolg versagt. Die Königreiche waren so lange keinen Einschränkungen mehr unterworfen gewesen, dass ihnen selbst eine wohlwollende kaiserliche Präsenz verhasst blieb. Dennoch kam Tamriel, als Pelagius nach einer erstaunlich stabilen und prosperierenden neunundzwanzigjährigen Herrschaft verstarb, der Einheit so nahe wie seit den Tagen Uriels I. nicht mehr.
+
+Unser gegenwärtiger Kaiser, Seine Ehrfurchtgebietende und Formidable Majestät Uriel Septim VII., Sohn von Pelagius IV., besitzt die Gewissenhaftigkeit seiner Großtante Morihatha, das politische Geschick seines Großonkels Uriel VI. und den kriegerischen Heldenmut seines Urgroßonkels Uriel V. In den einundzwanzig Jahren seiner Herrschaft brachte er Tamriel Gerechtigkeit und Ordnung. Im Jahre 3Ä 389 wurde er jedoch von seinem Kaiserlichen Kampfmagier Jagar Tharn verraten.
+
+Uriel VII. wurde in einer von Tharn erschaffenen Dimension eingekerkert, der seine Illusionshexerei benutzte, um die Gestalt des Kaisers anzunehmen. Die nächsten zehn Jahre lang missbrauchte Tharn das kaiserliche Privilegium, führte aber den Rückeroberungsplan Uriels VII. nicht weiter fort. Bis heute ist nicht genau bekannt, was Tharns Ziele und persönlichen Erfolge in den zehn Jahren waren, da er sich als sein Lehnsherr ausgab. Im Jahre 3Ä 399 schlug ein geheimnisvoller Champion den Kampfmagier in den Kerkern des Kaiserpalastes und befreite Uriel VII. aus seinem andersdimensionalen Gefängnis.
+
+Seit seiner Befreiung hat sich Uriel Septim VII. unermüdlich dafür eingesetzt, die Kämpfe für Tamriels Wiedervereinigung erneut aufzunehmen. Tharns Einmischung warf den Schwung dieser Bemühungen zwar in der Tat zurück - die Jahre haben seither jedoch bewiesen, dass es wieder Hoffnung auf das Goldene Zeitalter unter der Herrschaft Tiber Septims gibt und Tamriel erneut in Herrlichkeit erstrahlt.
+ 

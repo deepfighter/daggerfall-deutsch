@@ -1,0 +1,37 @@
+Title: Biographie der Königin Barenziah, Band II
+Author: Stem Gamboge
+IsNaughty: False
+Price: 406
+IsUnique: False
+WhenVarSet: 
+Content:
+
+
+[/font=2]
+
+
+[/center]Biographie der Königin Barenziah
+
+[/center]Band II
+
+
+
+[/font=1]
+[/center]von
+[/center]Stem Gamboge
+
+[/font=4]
+
+
+Der erste Band dieser Reihe erzählte die Geschichte von Barenziahs Herkunft, Erbin des Thrones von Gramfeste, bis ihr Vater gegen Seine Majestät Tiber Septim rebellierte und Unheil über die Provinz Morrowind brachte. Vor allem dank der Güte des Kaisers wurde das Mädchen Barenziah nicht zusammen mit ihren Eltern getötet, sondern vom Baron Sven von Finstermoor aufgezogen.  In seiner Obhut wuchs Sie wunderschön, fromm und vertrauensvoll heran. Dieses Vertrauen wurde von einem heimtückischen Stallburschen ausgenutzt, ein Waisenjunge, der auf Graf Svens Anwesen arbeitete, der Sie mit Lügen austrickste und mit Ihm nach Finstermoor zu fliehen. Nach vielen Abenteuern unterwegs ließen sie sich in Rifton nieder, einer Stadt in Himmelsrand nahe der Grenze Morrowinds.
+
+Der Stallbursche Strenz meinte es aber nicht böse. Er liebte Barenziah auf seine eigene, selbstsüchtige Art, und hielt Täuschung für das einzige Mittel, ihre Bindung an ihn zu festigen. Sie empfand allerdings lediglich Freundschaft für ihn, aber er hoffte, dass sie eines Tages ihre Meinung ändern würde. Er wollte einen kleinen Hof kaufen, sich niederlassen und eine schöne Ehe führen, aber zu dieser Zeit verdiente er kaum genug, um sie beide versorgen und unterbringen zu können.
+
+Nach nur kurzer Zeit in Rifton freundete sich Cumar mit einem dreisten, niederträchtigen khajiitischen Dieb namens Therris an, der vorschlug, in das Haus des kaiserlichen Kommandanten im Herzen der Stadt einzubrechen. Therris sagte, er habe einen Kunden, einen Verräter des Kaiserreiches, der gut für alle Informationen bezahlen würde, die sie dort fänden. Barenziah belauschte zufällig das Gespräch und war entsetzt. Sie stahl sich aus ihrer Unterkunft und lief voll Verzweiflung durch die Straßen Riftons, hin und her gerissen zwischen ihrer Loyalität gegenüber dem Kaiserreich und der Liebe zu ihren Freunden.
+
+Schließlich siegte die Loyalität gegenüber dem Kaiserreich über persönliche Freundschaften und sie begab sich zum Haus des Kommandanten, offenbarte ihre wahre Identität und warnte ihn vor dem Plan ihrer Freunde. Der Kommandant hörte sich ihre Geschichte an, lobte ihren Mut und versicherte ihr, dass ihr kein Leid geschehen werde.
+
+Er war niemand anders als General Symmachus, der das Land seit ihrem Verschwinden auf der Suche nach ihr durchkämmt hatte und gerade erst in Rifton angekommen war. Er nahm sie in seine Obhut auf und informierte sie darüber, dass sie keinesfalls verkauft, sondern als Königin von Gramfeste eingesetzt werden sollte, sobald sie 18 Jahre alt sei. Bis zu diesem Zeitpunkt sollte sie bei der Familie Septims in der neu erbauten Kaiserstadt leben, wo sie die Grundlagen des Regierens erlernen und dem Kaiserlichen Hof vorgestellt werden sollte.
+
+In der Kaiserstadt freundete Barenziah sich mit Kaiser Tiber Septim an, der sich in den mittleren Jahren seiner Herrschaft befand. Tibers Kinder, vor allem sein ältester Sohn und Erbe Pelagius, liebten sie wie eine Schwester. Die Balladen dieser Tage rühmten ihre Schönheit, Reinheit, Klugheit und Gelehrsamkeit. Zu ihrem 18. Geburtstag kam die ganze Kaiserstadt, um den Abschiedsfeierlichkeiten vor ihrer Rückkehr in ihr Heimatland beizuwohnen. So betrübt sie auch über ihre Abreise waren, so wussten doch alle, dass sie für ihre glorreiche Bestimmung als Herrscherin des Königreiches Gramfeste bereit war.
+
