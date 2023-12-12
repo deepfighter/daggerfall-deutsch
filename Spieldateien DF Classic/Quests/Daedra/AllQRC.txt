@@ -1,0 +1,2648 @@
+________________________________________
+10C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Oh ja mein Liebling, ich glaube, ich kann Euch bei 
+Euren<0xFD>
+ Ambitionen behilflich sein. Würdet Ihr zuerst etwas 
+für<0xFD>
+ mich tun, bevor ich Euch etwas sehr Wertvolles gebe?
+<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Oh, das ist eine Schande. Eine freundliche Warnung,
+<0xFD>
+ gierigen %ra-Abenteurern, die immer nur nehmen,<0xFD>
+ aber nie geben wollen, könnten schlimme Dinge 
+zustoßen.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Ihr werdet? Oh, das ist sehr lieb. Viel lieber als ein
+<0xFD>
+ gewisser _monster_, den ich kenne, =monster_<0xFD>
+ genannt - schließt zuerst mit mir eine Vereinbarung, 
+um<0xFD>
+ es sich dann doch noch anders zu überlegen! Wenn Ihr 
+so<0xFD>
+ freundlich wäret, =monster_ einmal zu besuchen<0xFD>
+ und %g2 wissen zu lassen, wie fatal so ungalantes 
+Benehmen<0xFD>
+ ist. Dann geht zu meinem guten Freund _qgfriend_,
+<0xFD>
+ der =1stparton_ Tage in __qgfriend_ in ___qgfriend_
+<0xFD>
+ warten und Euch den Ring der Khajiiti übergeben wird,
+<0xFD>
+ wenn Ihr dort ankommt. Das ist genau, was Ihr 
+braucht.<0xFD>
+ Nun geht Ihr am besten. Seid vorsichtig!<0xFD>
+ <0xFE>
+
+---------- Record 3 [1003] ----------
+Ihr wollt Meridias innige Freundschaft nicht wirklich
+<0xFD>
+ durch die Behauptung aufs Spiel setzen, Ihr hättet
+<0xFD>
+ =monster_ erschlagen? Wir wissen beide, dass<0xFD>
+ dem nicht so ist, oder? Ich hoffe, Ihr gebt das<0xFD>
+ nicht wirklich vor.<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+%pcn? Ich bin _qgfriend_. Ich glaube,<0xFD>
+ Ihr sucht nach mir. Hier habe ich den Ring der 
+Khajiiti,<0xFD>
+ wie Meridia versprochen hat. Meridia ist beeindruckt,
+<0xFD>
+ weil Ihr Euren Teil der Vereinbarung erfüllt habt,
+<0xFD>
+ wenn ich das hinzufügen darf.<0xFD>
+ <0xFE>
+
+---------- Record 5 [1005] ----------
+Der Zauberer in ___mondung_ ist ein verbissener 
+Sammler von seltsamen Artefakten.<0xFF>
+Ich hörte, dass =monster_ mit Geistern paktiert, um %
+g3 Sammlungen zu erweitern.<0xFE>
+
+---------- Record 6 [1006] ----------
+Dieser sammelwütige Zauberer hat ___mondung_ 
+schließlich verlassen. Ich vermute, um mehr Zeug zu 
+sammeln.<0xFF>
+Dieser =qgfriend_ _qgfriend_ verließ __qgfriend_ und 
+murmelte dabei irgendetwas über verlogene %ra.<0xFE>
+
+---------- Record 7 [1007] ----------
+Man sagt, irgendein Monster aus =monster_s Sammlung 
+sei auferstanden und habe %g2 getötet.<0xFF>
+=monster_ wurde offensichtlich von jemandem getötet, 
+der Interesse an %g3 gewaltigen Sammlung hatte.<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: Tried to call questtext 1008. Whoopsy!<0xFD>
+<0xFE>
+
+---------- Record 9 [1009] ----------
+Error: Tried to call questtext 1009. Ye Gods!<0xFD>
+<0xFE>
+
+---------- Record 10 [1011] ----------
+_qgfriend_ ist der Name dieses =qgfriend_ in 
+__qgfriend_, gleich %di von hier.<0xFF>
+_qgfriend_ ist ein stiller =qgfriend_, den ich in 
+__qgfriend_ traf. Das ist %di von hier.<0xFE>
+
+---------- Record 11 [1012] ----------
+_qgfriend_ ist einer von Meridias Sammlern in %reg. 
+Wirklich charmant, so wie sich das gehört.<0xFF>
+_qgfriend_ ist ein Diener Meridias, der Daedrafürstin 
+der Gier.<0xFE>
+
+---------- Record 12 [1013] ----------
+Meridia ist eine Daedraregentin und Sammlerin 
+humanoider Exemplare.<0xFF>
+Meridia ist eine ziemlich beschäftigte Daedrafürstin 
+und rücksichtslos in ihrer Habsucht.<0xFE>
+
+---------- Record 13 [1014] ----------
+Der Ring ist ein uralter und mächtiger Gegenstand.
+<0xFD>
+ Angeblich kann er seinen Träger so unsichtbar,<0xFD>
+ leise und schnell wie den Wind machen.<0xFD>
+ <0xFE>
+
+---------- Record 14 [1020] ----------
+%qdt:<0xFC>
+ Ich habe =1stparton_ Tage um einen _monster_<0xFC>
+ namens =monster_ zu finden und zu töten, in<0xFC>
+ ___qgfriend_ zu sein um einen =qgfriend_<0xFC>
+ namens _qgfriend_ zu treffen und Meridias<0xFC>
+ versprochenes Artefakt zu erhalten, den<0xFC>
+ Ring der Khajiiti. Ich weiß, dass sich<0xFC>
+ =monster_ in ___mondung_ und<0xFC>
+ _qgfriend_ in ___qgfriend_ aufhält.<0xFC>
+ <0xFF>
+<0xFE>
+
+---------- Record 15 [1030] ----------
+=monster_ liegt tot vor Euren Füßen.<0xFD>
+ Fürstin Meridia steht nun in Eurer Schuld.<0xFD>
+<0xFE>
+
+---------- Record 16 [1040] ----------
+________________________________________
+20C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Ihr wollt also Macht, %pcn. Macht ist viel greifbarer,
+<0xFD>
+ als Weisheit, meint Ihr nicht auch? Nun denn, damit
+<0xFD>
+ wir Euren Wert beurteilen können, müsst Ihr eine
+<0xFD>
+ kleine Mühe auf Euch nehmen. Nichts unangenehmes,
+<0xFD>
+ versteht sich. Ihr werdet daran sicher Gefallen 
+finden.<0xFD>
+ Ein simpler Anschlag, für den Ihr mit dem 
+Streitkolben<0xFD>
+ von Molag Bal belohnt werdet. Dann können wir sehen,
+<0xFD>
+ ob Ihr für wahre Macht bereit seid. Klingt das 
+annehmbar?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Ihr habt unsere Zeit verschwendet. Wir sind nicht 
+erfreut.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Wir dachten uns schon, dass es Euch zusagen würde.
+<0xFD>
+ Also hört gut zu: Euer Ziel ist ein _monster_<0xFD>
+ namens =monster_. Dieser infernalische Funkensprüher
+<0xFD>
+ hat unseren Namen angerufen und von unserer Macht
+<0xFD>
+ gezehrt, ohne einen Pakt geschlossen zu haben. Das
+<0xFD>
+ mag aus Unwissenheit geschehen sein, aber wir können
+<0xFD>
+ keine Gnade walten lassen. Sucht den Magier in %g3
+<0xFD>
+ Laboratorium ___mondung_ und vernichtet %g2.<0xFD>
+ Dann trefft unseren Agenten _contact_, einen<0xFD>
+ =contact_, bevor =1stparton_ verstrichen sind, in
+<0xFD>
+ __tavern_, an einem Ort namens _tavern_.<0xFD>
+ Dann wird %g Euch den Streitkolben von Molag Bal
+<0xFD>
+ überreichen. Säumt nicht, die Zeit ist knapp.<0xFD>
+ Wir werden Euch beobachten. Und versagt nicht.<0xFD>
+ <0xFE>
+
+---------- Record 3 [1003] ----------
+Hört zu, %pcf, wir beide wissen, dass =monster_<0xFD>
+ noch atmet. Pakt ist Pakt und Molag Bal vergisst nie.
+<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Hallo, %pcf. Ihr wart erfolgreich.<0xFD>
+ Molag Bal zollt Euch seine Anerkennung<0xFD>
+ und übermittelt Euch den Streitkolben.<0xFD>
+ Habt Eure Freude daran und lebt wohl.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Jeder tuschelt über die Experimente, die in 
+___mondung_ vor sich gehen.<0xFF>
+Da geht irgendwas seltsames %di von ___mondung_ vor 
+sich.<0xFE>
+
+---------- Record 6 [1006] ----------
+Dieser helle, rote Stern soll der Zorn des Daedra 
+Molag Bal sein.<0xFF>
+Vor kurzem ist ein verrückter =contact_ hier 
+herumgerannt und hat etwas von Pakten geschrien.<0xFE>
+
+---------- Record 7 [1007] ----------
+In letzter Zeit ist es wirklich still um ___mondung_ 
+geworden.<0xFF>
+Es gab einmal viel Aufregung um  ___mondung_, aber das 
+hat sich wieder beruhigt.<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: Quest 20c00y00.q tried to display text<0xFE>
+
+---------- Record 9 [1008] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error: Quest 20c00y00.q tried to display text<0xFE>
+
+---------- Record 11 [1009] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+Ein hoheitlicher Daedrafürst, angeblich der 
+machthungrigste aller Daedra.<0xFF>
+Es heißt Molag Bal sei besessen davon, Tamriel zu 
+einem Teil seines Reiches zu machen.<0xFE>
+
+---------- Record 13 [1012] ----------
+Irgendein sich seltsam verhaltender =contact_ war in 
+__tavern_, %di von hier.<0xFF>
+Ein =contact_ mit diesem Namen war unlängst in 
+__tavern_, %di von hier.<0xFE>
+
+---------- Record 14 [1013] ----------
+Der Streitkolben von Molag Bal entzieht seinen Opfern 
+magische Kraft.<0xFF>
+Der Streitkolben von Molag Bal, dem Laien auch als 
+Streitkolben des Vampirs<0xFD>
+ bekannt, überträgt magische Energie und lässt sie dem 
+Träger zuströmen.<0xFD>
+ <0xFE>
+
+---------- Record 15 [1020] ----------
+%qdt:<0xFC>
+ Der Daedrafürst Molag Bal hat mich ausgesandt,<0xFC>
+ irgendeinen Zauberkundigen in ___mondung_<0xFC>
+ zu töten. Wenn der Magier innerhalb von =1stparton_ 
+Tagen<0xFC>
+ tot ist und ich Molag Bals Verbündeten _contact_
+<0xFC>
+ in __tavern_ an einem Ort namens<0xFC>
+ _tavern_ aufgesucht habe, werde ich den<0xFC>
+ Streitkolben von Molag Bal erhalten.<0xFC>
+ <0xFE>
+
+---------- Record 16 [1030] ----------
+=monster_ ist tot.<0xFD>
+ Ihr habt Euren Pakt<0xFD>
+ mit Molag Bal erfüllt.<0xFD>
+ Holt nun Eure Belohnung ab.<0xFD>
+<0xFE>
+
+---------- Record 17 [1040] ----------
+=monster_ hebt %g3 Stab<0xFD>
+ und verschwindet mit einem Donnerknall.<0xFD>
+ <0xFE>
+
+---------- Record 18 [1060] ----------
+Auf dieser Karte ist die Position von ___hideout_,
+<0xFD>
+ markiert, versehen mit dieser Notiz:<0xFD>
+ "_dummy_ erinnern, Vorräte einzulagern.<0xFD>
+ Anzeichen, dass Molag Bal mich aufgespürt hat."<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+30C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Das Verlangen nach Macht frisst sich durch Euer<0xFD>
+ Gedärm, nicht war, %pcf? Ich kann es sehen.<0xFD>
+ Entschuldigt meinen Mangel an Förmlichkeit, aber
+<0xFD>
+ ich habe das Gefühl als würde ich Euch kennen.<0xFD>
+ Ich spüre Eure Begierde als wäre es meine eigene.
+<0xFD>
+ Ihr wollt kontrollieren und der Gedanke daran<0xFD>
+ lässt Euch wie einen hungrigen Wolf geifern.<0xFD>
+ Ich kann Euren Bauch füllen, aber erst muss<0xFD>
+ ich etwas wissen. Werdet Ihr töten, um diese<0xFD>
+ Leere zu füllen?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Nein?! Verspottet mich nicht, %pcf.<0xFD>
+ Ihr lockt mich aus meinem finsteren Palast und<0xFD>
+ meidet dann meine Gesellschaft. Wenn ich glauben
+<0xFD>
+ könnte, Ihr wäret einfach nur grausam, so würde<0xFD>
+ ich es respektieren. Aber ich hege den Verdacht,
+<0xFD>
+ dass Ihr einfach nur töricht seid. Darum entbiete
+<0xFD>
+ ich Euch einen zutiefst angewiderten Abschiedsgruß.
+<0xFD>
+ <0xFE>
+
+---------- Record 2 [1002] ----------
+Wunderbar. Ihr solltet den Blick in Euren Augen<0xFD>
+ sehen, %pcf. Ihr werdet mächtig sein, ich<0xFD>
+ kann es in ihnen lesen. Nun, Euer Weg zur Macht<0xFD>
+ führt über einen vampirischen Ältesten, namens<0xFD>
+ =monster_, %g hat mein Missfallen erregt.<0xFD>
+ Ihr sollt wissen, dass %g ein mächtiger Gegner<0xFD>
+ ist und %g3 Zuflucht, ___mondung_, gut<0xFD>
+ bewacht wird. Aber Ihr könnt und werdet %g2 töten.
+<0xFD>
+ Wenn Ihr das getan habt, solltet Ihr zu meinem<0xFD>
+ geschätzten Freund, _qgfriend_ drüben<0xFD>
+ in  __qgfriend_ in ___qgfriend_ gehen.<0xFD>
+ _qgfriend_ ist eine vielbeschäftigte Person.<0xFD>
+ Lasst %g2 also nicht länger als =1stparton_ Tage 
+warten.<0xFD>
+ _qgfriend_ wird ein Geschenk für Euch haben,<0xFD>
+ von dem ich glaube, dass es Euch sehr glücklich<0xFD>
+ machen wird. Lebt wohl, %pcf.<0xFD>
+ Wir werden uns wiedersehen. Ich weiß es.<0xFD>
+ <0xFE>
+
+---------- Record 3 [1003] ----------
+Solange der Vampir-Älteste noch nicht tot ist,<0xFD>
+ haben wir nichts zu bereden, %pcf.<0xFD>
+ <0xFE>
+
+---------- Record 4 [1004] ----------
+Hallo, %pcn. Ich bin _qgfriend_.<0xFD>
+ Ihr seht ... gesättigt aus. Ich denke, der Mord<0xFD>
+ hat dafür gesorgt. Gut, Ich hoffe, dies wird euch
+<0xFD>
+ ebenso gefallen. Namira befahl mir, Euch ihren<0xFD>
+ Ring zu geben. Legt ihn an und Ihr werdet die<0xFD>
+ wahre Bedeutung von Hunger und Sättigung erfahren.
+<0xFD>
+ Wenn Ihr darum wisst, dann kennt Ihr wahre Macht.
+<0xFD>
+ Guten Tag, %pcf.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Es gibt einen Vampir in ___mondung_, der so alt ist, 
+dass er nicht einmal mehr Blut trinkt.<0xFF>
+Man sagt, der Vampir in  ___mondung_ habe gelernt, 
+seinen Blutdurst zu kontrollieren.<0xFE>
+
+---------- Record 6 [1006] ----------
+Der Vampir in ___mondung_ hat offenbar entschieden, 
+dass es an der Zeit war, weiterzuziehen.<0xFF>
+Ich schätze, der Vampir brauchte letzten Endes doch 
+Blut. Aus irgendeinem Grund ist er davongezogen.<0xFE>
+
+---------- Record 7 [1007] ----------
+Mir egal, ob der Vampir seinen Blutdurst bezwungen 
+hat. Ich bin froh, dass er tot ist.<0xFF>
+Der Stern von Namira schien letzte Nacht besonders 
+hell. Immer hungrig, nie gesättigt.<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: Quest 30c00y00.q tried to display text<0xFE>
+
+---------- Record 9 [1008] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error: Quest 30c00y00.q tried to display text<0xFE>
+
+---------- Record 11 [1009] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+_qgfriend_ ist dieser =qgfriend_ drüben in  
+__qgfriend_, glaube ich. Ja, %di von hier.<0xFF>
+_qgfriend_ ist der Name des =qgfriend_ in __qgfriend_. 
+Schaut %di!<0xFE>
+
+---------- Record 13 [1012] ----------
+_qgfriend_ ist ein Feinschmecker im Dienste Namiras, 
+der Daedrafürstin des Hungers.<0xFF>
+_qgfriend_ ist der Name eines der Gourmands im Dienste 
+Namiras.<0xFE>
+
+---------- Record 14 [1013] ----------
+Dem Träger des Ringes zugefügter Schmerz wird auf den 
+Angreifer zurückgeworfen.<0xFE>
+
+---------- Record 15 [1020] ----------
+%qdt:<0xFC>
+ Die Daedrafürstin Namira versprach mir ihren Ring,
+<0xFC>
+ wenn ich für sie in den nächsten =1stparton_ Tagen
+<0xFC>
+ den Vampir =monster_ töte.<0xFC>
+ Ihr Kontakt _qgfriend_ wird nicht länger<0xFC>
+ in __qgfriend_ zu ___qgfriend_<0xFC>
+ auf mich warten, ich darf mich also nicht verspäten.
+<0xFC>
+ Der Vampir hält sich vermutlich in ___mondung_ auf.
+<0xFC>
+<0xFE>
+
+---------- Record 16 [1030] ----------
+=monster_ ist tot. Namiras Hunger<0xFD>
+ wurde gestillt; nun befriedigt Euer eigenes<0xFD>
+ Verlangen und berichtet _qgfriend_.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+40C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Ihr strebt nach Macht, %pcn.<0xFD>
+ Damit könntet Ihr auf Schatten einschlagen<0xFD>
+ und Hoffnung haben. Was würdet Ihr mir bringen,<0xFD>
+ wenn ich Euch diese Hoffnung gebe?<0xFD>
+ <0xFD>
+ Würdet Ihr jemanden töten der mir Schmerz bereitet?
+<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Wie ich vermutet habe, überhaupt kein Herz.<0xFD>
+ Wir werden also keinen Pakt schließen,<0xFD>
+ Ihr und ich. Und enttäuscht kehre ich in<0xFD>
+ meinen kalten Palast zurück. Die Seelen<0xFD>
+ dort sind zwar auch nicht freundlicher<0xFD>
+ als hier, aber zumindest folgen sie mir.<0xFD>
+ <0xFE>
+
+---------- Record 2 [1002] ----------
+Würdet Ihr? Ihr würdet meine nächtliche<0xFD>
+ Beruhigung sein? Ihr werdet zum Lager des<0xFD>
+ _monster_ =monster_ in ___mondung_<0xFD>
+ gehen, und %g2 töten? Ah, %pcf, dafür<0xFD>
+ würde ich Euch meinen Skelettschlüssel geben,<0xFD>
+ den ich meinem Sklaven _qgfriend_<0xFD>
+ anvertraut habe. Wenn =monster_<0xFD>
+ tot ist, geht nach ___qgfriend_ und<0xFD>
+ trefft meinen Sklaven in __qgfriend_.<0xFD>
+ Ihr werdet %g2 gleich erkennen; ein<0xFD>
+ =qgfriend_. Dort erhaltet Ihr den<0xFD>
+ Skelettschlüssel. Und nun muss ich in<0xFD>
+ meinen kalten Palast im Reich des Vergessens<0xFD>
+ zurück. Ich werde auf Neuigkeiten warten.<0xFD>
+ <0xFE>
+
+---------- Record 3 [1003] ----------
+Nein. Ihr müsst einen anderen<0xFD>
+ =qgfriend_ suchen.<0xFD>
+ Mein Name ist nicht _qgfriend_.<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+So, Ihr seid also %pcn, stimmts?<0xFD>
+ Ich bin  _qgfriend_.<0xFD>
+ Ich habe mich schon gefragt, was für einen<0xFD>
+ %ra es brauchen würde, um in die Burg<0xFD>
+ eines _monster_ einzudringen,<0xFD>
+ den Besitzer zu erschlagen und dann wieder<0xFD>
+ herauszumarschieren. Wirklich sehr beeindruckend.
+<0xFD>
+ Nocturnal ist gleichfalls von Euch fasziniert,<0xFD>
+ daher ihr Geschenk, der Skelettschlüssel.<0xFD>
+ Seid vorsichtig damit, %pcf.<0xFD>
+ <0xFE>
+
+---------- Record 5 [1005] ----------
+=monster_ ist ziemlich heimtückisch; %g bringt die 
+ganze Magiergilde in Verruf.<0xFF>
+Da ich weiß, dass =monster_ ein Mitglied der 
+Magiergilde ist, kann ich keinem von denen mehr 
+vertrauen.<0xFF>
+Die Magier sagen, =monster_ verstecke sich in 
+___fakedung_ vor dem Zorn der Daedra.<0xFF>
+Die Magier versammeln sich, um  ___fakedung_ von dem 
+Schurken =monster_ zu befreien.<0xFF>
+Ich sah, wie eine Gruppe Magier Richtung ___fakedung_ 
+zog.<0xFF>
+Ich habe gehört, der Verräter =monster_ würde sich 
+jetzt in ___fakedung_ verstecken.<0xFC>
+<0xFE>
+
+---------- Record 6 [1006] ----------
+Ich wusste doch, dass =monster_ in Schwierigkeiten 
+war. Warum sonst hätte %g so schnell verschwinden 
+sollen?<0xFF>
+Die Magiergilde muss entschieden haben, dass =monster_ 
+eine Gefahr für ihr Ansehen darstellte.<0xFC>
+<0xFE>
+
+---------- Record 7 [1007] ----------
+Nun, ich kann wirklich nicht sagen dass ich überrascht 
+wäre, was =monster_ angeht; %g3 Vergangenheit hat %g2 
+eingeholt.<0xFF>
+Ich glaube nicht einmal, dass es den Erzmagister sehr 
+betrübt, von =monster_s Tod zu hören.<0xFC>
+<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: Quest 40c00y00.q tried to display text<0xFC>
+<0xFE>
+
+---------- Record 9 [1008] ----------
+ <0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error: Quest 40c00y00.q tried to display text<0xFC>
+<0xFE>
+
+---------- Record 11 [1009] ----------
+ <0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+_qgfriend_ ist einer der Stammgäste in __qgfriend_,  %
+di von hier.<0xFF>
+_qgfriend_ist ein =qgfriend_, der häufig __qgfriend_ 
+aufsucht. Das ist %di.<0xFC>
+<0xFE>
+
+---------- Record 13 [1012] ----------
+_qgfriend_ ist ein Agent von Nocturnal und operiert 
+von __qgfriend_ aus, %di von hier.<0xFF>
+_qgfriend_ ist einer der Sklaven Nocturnals, der 
+Daedrafürstin der Nacht.<0xFC>
+<0xFE>
+
+---------- Record 14 [1013] ----------
+Nocturnal ist die mysteriöse Herrin der Nacht, eine 
+der daedrichen Regenten.<0xFF>
+Nocturnal ist eine Regentin im Reich des Vergessens. 
+Ihre Sphäre sind Geheimnis und Dunkelheit.<0xFC>
+<0xFE>
+
+---------- Record 15 [1014] ----------
+Der Skelettschlüssel kann jedes Schloss öffnen.<0xFC>
+<0xFE>
+
+---------- Record 16 [1015] ----------
+Die Magier sagen, dass sich =monster_  in ___fakedung_ 
+vor dem Zorn des Reichs des Vergessens versteckt.
+<0xFF>
+Die Magier sammeln sich, um ___fakedung_ von diesem 
+schurkischen =monster_ zu geißeln.<0xFF>
+Ich habe eine Menge Magier gesehen, die sich nach 
+___fakedung_ aufgemacht haben.<0xFF>
+Ich hörte, dass sich =monster_ nun als Verräter in 
+___fakedung_ verbirgt.<0xFC>
+<0xFE>
+
+---------- Record 17 [1016] ----------
+%oth!  =monster_,<0xFD>
+ Der Agent des Reichs des Vergessens ist unter uns!
+<0xFD>
+ Ich habe die wertvollsten Reagenzien nach<0xFD>
+ ___fakedung_ verschafft und beabsichtige<0xFD>
+ Euch dort zu treffen, nachdem Ihr mit<0xFD>
+ diesem lästigen %ra fertig geworden seid.<0xFD>
+ <0xFD>
+N.<0xFD>
+<0xFE>
+
+---------- Record 18 [1017] ----------
+Eine Stimme scheint in Eurem<0xFD>
+ Ohr widerzuhallen: =monster_<0xFD>
+ ... sicher ... besonderer Ort ...<0xFD>
+ Neuigkeiten...<0xFD>
+<0xFE>
+
+---------- Record 19 [1018] ----------
+%qdt:<0xFC>
+ Als ich in  ___mondung_ eintraf,<0xFC>
+ nannte mir ein Echo einen<0xFC>
+ "besonderen Ort" im Inneren.<0xFC>
+<0xFE>
+
+---------- Record 20 [1019] ----------
+%qdt:<0xFC>
+ Ich habe eine Notiz von =monster_ gefunden, die<0xFC>
+ besagt, dass %g in ___fakedung_ erwartet<0xFC>
+ wird, nachdem er versucht hatte, mich zu bestechen.
+<0xFC>
+<0xFE>
+
+---------- Record 21 [1020] ----------
+%qdt:<0xFC>
+ Nun habe ich einen Pakt mit Nocturnal, einer<0xFC>
+ Daedrafürstin aus dem Reich des Vergessens.<0xFC>
+ Ich habe zugestimmt, den _monster_<0xFC>
+ =monster_ in %g3 Burg ___mondung_<0xFC>
+ zu töten. Dafür werde ich Nocturnals Artefakt,<0xFC>
+ den Skelettschlüssel, erhalten. Ich habe =1stparton_ 
+Tage<0xFC>
+ Zeit um die Tat zu vollbringen und ihren Agenten
+<0xFC>
+ _qgfriend_ in __qgfriend_ in<0xFC>
+ ___qgfriend_ zu treffen oder ich werde den<0xFC>
+ Pakt nicht eingehalten haben. Das könnte schlimmere
+<0xFC>
+ Folgen nach sich ziehen als nur den Skelettschlüssel
+<0xFC>
+ nicht bekommen zu haben.<0xFC>
+<0xFE>
+
+---------- Record 22 [1021] ----------
+%qdt:<0xFC>
+ =monster_ hat mir Auriels Bogen im Austausch<0xFC>
+ gegen %g3 Leben angeboten und ich konnte nicht<0xFC>
+ widerstehen. %g sagte, dass er sich irgendwo in<0xFC>
+ ___bowdung_ befindet. Da ich Nocturnal<0xFC>
+ ohnehin schon betrogen habe, kann ich nun auch<0xFC>
+ versuchen, ihn zu finden.<0xFC>
+ <0xFE>
+
+---------- Record 23 [1022] ----------
+%qdt:<0xFC>
+ =monster_ hat mir den Ring des Hexenmeisters<0xFC>
+ im Austausch gegen %g3 Leben angeboten und<0xFC>
+ ich konnte nicht widerstehen. %g sagte,<0xFC>
+ dass er sich irgendwo in ___ringdung_<0xFC>
+ befindet. Da ich Nocturnal ohnehin schon<0xFC>
+ betrogen habe, kann ich nun auch versuchen,<0xFC>
+ ihn zu finden.<0xFC>
+<0xFE>
+
+---------- Record 24 [1023] ----------
+%qdt:<0xFC>
+ =monster_ hat mir den Stab des Magnus<0xFC>
+ im Austausch gegen %g3 Leben angeboten und<0xFC>
+ ich konnte nicht widerstehen. %g sagte,<0xFC>
+ dass er sich irgendwo in _staffdung_<0xFC>
+ befindet. Da ich Nocturnal ohnehin schon<0xFC>
+ betrogen habe, kann ich nun auch versuchen,<0xFC>
+ ihn zu finden.<0xFC>
+<0xFE>
+
+---------- Record 25 [1030] ----------
+Wartet! Ich weiß, dass Nocturnal Euch<0xFD>
+ geschickt hat, und dass sie Euch den<0xFD>
+ Skelettschlüssel versprochen hat. Aber<0xFD>
+ wenn Ihr wahre Macht sucht, kann ich ihr<0xFD>
+ Angebot überbieten - wenn Ihr Euren Angriff<0xFD>
+ einstellt, werde ich Euch verraten, wo<0xFD>
+ Ihr Auriels Bogen finden könnt.<0xFD>
+ Seid Ihr damit einverstanden?<0xFD>
+<0xFE>
+
+---------- Record 26 [1031] ----------
+Wartet! Ich weiß, dass Nocturnal Euch<0xFD>
+ geschickt hat, und dass sie Euch den<0xFD>
+ Skelettschlüssel versprochen hat. Aber<0xFD>
+ wenn Ihr wahre Macht sucht, kann ich ihr<0xFD>
+ Angebot überbieten - wenn Ihr Euren Angriff<0xFD>
+ einstellt, werde ich Euch verraten, wo<0xFD>
+ Ihr den Ring des Hexenmeisters finden könnt.<0xFD>
+ Seid Ihr damit einverstanden?<0xFD>
+<0xFE>
+
+---------- Record 27 [1032] ----------
+Wartet! Ich weiß, dass Nocturnal Euch<0xFD>
+ geschickt hat, und dass sie Euch den<0xFD>
+ Skelettschlüssel versprochen hat. Aber<0xFD>
+ wenn Ihr wahre Macht sucht, kann ich ihr<0xFD>
+ Angebot überbieten - wenn Ihr Euren Angriff<0xFD>
+ einstellt, werde ich Euch verraten, wo<0xFD>
+ Ihr den Stab des Magnus finden könnt.<0xFD>
+ Seid Ihr damit einverstanden?<0xFD>
+<0xFE>
+
+---------- Record 28 [1035] ----------
+Ihr habt =monster_ getötet.<0xFD>
+ Fürstin Nocturnal wird nun<0xFD>
+ ruhiger schlafen.<0xFD>
+<0xFE>
+
+---------- Record 29 [1040] ----------
+Ausgezeichnet. Ich wusste, dass<0xFD>
+ Ihr eine Söldnerseele habt.<0xFD>
+ Auriels Bogen liegt versteckt<0xFD>
+ in ___bowdung_.<0xFD>
+ Wenn Ihr ihn findet werdet Ihr<0xFD>
+ tatsächlich eine Macht sein, mit<0xFD>
+ der man rechnen muss. Jetzt<0xFD>
+ entbiete ich Euch einen guten Tag,<0xFD>
+ bevor Ihr auf die Idee kommt, Euch<0xFD>
+ den Bogen und den Schlüssel zu<0xFD>
+ sichern, indem Ihr mich umbringt.<0xFD>
+ Einer Söldnerseele wie Euch sollte<0xFD>
+ man nicht zu sehr vertrauen!<0xFD>
+<0xFE>
+
+---------- Record 30 [1041] ----------
+Ausgezeichnet. Ich wusste, dass<0xFD>
+ Ihr eine Söldnerseele habt.<0xFD>
+ Der Ring des Hexenmeisters liegt versteckt<0xFD>
+ in ___bowdung_.<0xFD>
+ Wenn Ihr ihn findet werdet Ihr<0xFD>
+ tatsächlich eine Macht sein, mit<0xFD>
+ der man rechnen muss. Jetzt<0xFD>
+ entbiete ich Euch einen guten Tag,<0xFD>
+ bevor Ihr auf die Idee kommt, Euch<0xFD>
+ den Ring und den Schlüssel zu<0xFD>
+ sichern, indem Ihr mich umbringt.<0xFD>
+ Einer Söldnerseele wie Euch sollte<0xFD>
+ man nicht zu sehr vertrauen!<0xFD>
+<0xFE>
+
+---------- Record 31 [1042] ----------
+Ausgezeichnet. Ich wusste, dass<0xFD>
+ Ihr eine Söldnerseele habt.<0xFD>
+ Der Stab des Magnus liegt versteckt<0xFD>
+ in ___bowdung_.<0xFD>
+ Wenn Ihr ihn findet werdet Ihr<0xFD>
+ tatsächlich eine Macht sein, mit<0xFD>
+ der man rechnen muss. Jetzt<0xFD>
+ entbiete ich Euch einen guten Tag,<0xFD>
+ bevor Ihr auf die Idee kommt, Euch<0xFD>
+ den Stab und den Schlüssel zu<0xFD>
+ sichern, indem Ihr mich umbringt.<0xFD>
+ Einer Söldnerseele wie Euch sollte<0xFD>
+ man nicht zu sehr vertrauen!<0xFD>
+<0xFE>
+
+---------- Record 32 [1045] ----------
+Spöttisches Gelächter hallt in Eurem Kopf wider:<0xFD>
+ <0xFD>
+ "Ihr hättet es besser wissen sollen als<0xFD>
+ mir zu vertrauen, %pcn. Vielleicht kann<0xFD>
+ dieser Schatten der Macht Euer Verlangen<0xFD>
+ für eine Weile stillen, während Ihr vergebens<0xFD>
+ gegen jene wütet, die sie tatsächlich besitzen.<0xFD>
+ Mich zum Beispiel. Ich hoffe, die gute Nocturnal
+<0xFD>
+ wird von Eurem Verrat nicht zu enttäuscht 
+sein."<0xFD>
+ <0xFD>
+ Auriels Bogen zerfällt in Euren Händen zu Staub.
+<0xFD>
+<0xFE>
+
+---------- Record 33 [1046] ----------
+Spöttisches Gelächter hallt in Eurem Kopf wider:<0xFD>
+ <0xFD>
+ "Ihr hättet es besser wissen sollen als<0xFD>
+ mir zu vertrauen, %pcn. Vielleicht kann<0xFD>
+ dieser Schatten der Macht Euer Verlangen<0xFD>
+ für eine Weile stillen, während Ihr vergebens<0xFD>
+ gegen jene wütet, die sie tatsächlich besitzen.<0xFD>
+ Mich zum Beispiel. Ich hoffe, die gute Nocturnal
+<0xFD>
+ wird von Eurem Verrat nicht zu enttäuscht 
+sein."<0xFD>
+ <0xFD>
+ Der Ring des Hexenmeisters zerfällt in Euren Händen
+<0xFD>
+ zu Staub.<0xFD>
+<0xFE>
+
+---------- Record 34 [1047] ----------
+Spöttisches Gelächter hallt in Eurem Kopf wider:<0xFD>
+ <0xFD>
+ "Ihr hättet es besser wissen sollen als<0xFD>
+ mir zu vertrauen, %pcn. Vielleicht kann<0xFD>
+ dieser Schatten der Macht Euer Verlangen<0xFD>
+ für eine Weile stillen, während Ihr vergebens<0xFD>
+ gegen jene wütet, die sie tatsächlich besitzen.<0xFD>
+ Mich zum Beispiel. Ich hoffe, die gute Nocturnal
+<0xFD>
+ wird von Eurem Verrat nicht zu enttäuscht 
+sein."<0xFD>
+ <0xFD>
+ Der Stab des Magnus zerfällt in Euren Händen zu 
+Staub.<0xFD>
+<0xFE>
+
+---------- Record 35 [1050] ----------
+Nocturnal war von Eurem Wagemut<0xFD>
+höchst beeindruckt, %pcn.<0xFD>
+Sie hat mich gebeten, Euch zur Belohnung<0xFD>
+solch kühnes Verrats schnell zu töten.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+50C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Man kann gar nicht genug Macht haben,<0xFD>
+ nicht wahr, %pcf? Ihr ähnelt<0xFD>
+ stark jemandem, den ich einst kannte.<0xFD>
+ Aber das war damals in Eurer Ersten Ära,<0xFD>
+ also könnt Ihr das wohl nicht sein, oder?<0xFD>
+ Nun denn, wenn Ihr mögt, kann ich Euch<0xFD>
+ einen kleinen Schild geben, den Zauber-<0xFD>
+ brecher. Es wird Euch sicher die Macht<0xFD>
+ gewähren, nach der Ihr sucht. Aber erst<0xFD>
+ müsst Ihr beweisen, dass Ihr es ernst<0xFD>
+ meint. Ihr meint es doch ernst?<0xFD>
+ <0xFE>
+
+---------- Record 1 [1001] ----------
+Habt Eure Meinung geändert, ja?<0xFD>
+ Fühlt Euch deswegen nicht schlecht.<0xFD>
+ Es zeugt von Reife, auch einmal<0xFD>
+ Nein sagen zu können. Beschwört<0xFD>
+ mich nur herauf, wenn Ihr Eure<0xFD>
+ Meinung ändert. Ich weiß, dass<0xFD>
+ Ihr das noch werdet.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Ausgezeichnet. Es ist wunderbar, einen<0xFD>
+ %ra mit klaren Zielen zu sehen.<0xFD>
+ Sehr selten dieser Tage und dieser Ära.<0xFD>
+ Nun denn, es gibt da diesen _monster_,<0xFD>
+ offen gesagt ein Vampir, den Ihr hassen<0xFD>
+ würdet. Durch und durch töricht, hässlich<0xFD>
+ und engstirnig. Er muss auf eine Reise<0xFD>
+ ohne Wiederkehr geschickt werden. Wenn<0xFD>
+ Ihr Euch um dieses unangenehme Geschäft<0xFD>
+ gekümmert habt, solltet Ihr meinen Freund<0xFD>
+ _qgfriend_ aufsuchen, einen charmanten<0xFD>
+ =qgfriend_ in __qgfriend_<0xFD>
+ in ___qgfriend_. Ich möchte Euch<0xFD>
+ nicht drängen, aber ich kann nicht<0xFD>
+ länger als =1stparton_ Tage auf Euch warten.<0xFD>
+ Und allein nach ___mondung_ zu<0xFD>
+ gelangen wird eine Weile dauern, also<0xFD>
+ säumt besser nicht auf Eurem Weg.<0xFD>
+ Es wird _qgfriend_ eine Freude<0xFD>
+ sein, Euch den Zauberbrecher zu über-<0xFD>
+ reichen. Jetzt habe ich aber lang genug<0xFD>
+ geplappert. Es war mir eine Freude.<0xFD>
+ <0xFE>
+
+---------- Record 3 [1003] ----------
+Ihr müsst nach einem anderen<0xFD>
+ =qgfriend_ suchen.<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Da seid Ihr ja, %pct.<0xFD>
+ Ich bin _qgfriend_,<0xFD>
+ Ich glaube, der Meister schickte Euch zu mir?<0xFD>
+ Der Meister ist sehr zufrieden, wie Ihr die<0xFD>
+ Arbeit mit diesem fürchterlichen _monster_<0xFD>
+ erledigt habt, wenn ich das so sagen darf.<0xFD>
+ Der Meister scheint ohnehin ziemlich vernarrt<0xFD>
+ in Euch zu sein. Hier ist der Schild, den<0xFD>
+ Ihr wolltet, der Zauberbrecher.<0xFD>
+ Magier werden Euch damit fürchten.<0xFD>
+ Ich hoffe er gefällt Euch, %pct.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+=monster_ aus ___mondung_, hat sich, wie es heißt, 
+sowohl mächtige Feinde als auch Freunde gesucht.<0xFF>
+In __qgfriend_ habe ich einen sehr netten =qgfriend_ 
+getroffen. Ich frage mich, warum ich %g2 vorher nie 
+begegnet bin.<0xFE>
+
+---------- Record 6 [1006] ----------
+Der alte  =monster_ ist in den Norden gegangen. Wir 
+wissen also vermutlich, wohin die Plage als nächstes 
+ziehen wird.<0xFF>
+Ich hörte, selbst die Daedra würden die Macht von 
+=monster_ fürchten.<0xFE>
+
+---------- Record 7 [1007] ----------
+Man sagt, =monster_ würde sich mächtiger als die 
+Daedra selbst fühlen.<0xFF>
+=monster_ hat den Lohn dafür erhalten, dass %g sich 
+der Macht über Leben und Tod rühmte.<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: Quest 50c00y00.q tried to display text<0xFE>
+
+---------- Record 9 [1008] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error: Quest 50c00y00.q tried to display text<0xFE>
+
+---------- Record 11 [1009] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+Man sagt, _qgfriend_ sei ein sehr freundlicher und 
+charmanter =qgfriend_, der außerdem die Daedra 
+anbetet.<0xFF>
+Von _qgfriend_ wird behauptet, Peryites Sklave in %reg 
+zu sein.<0xFE>
+
+---------- Record 13 [1012] ----------
+Peryite ist der Daedra der Pestilenz und Plagen.<0xFF>
+Peryite ist der umgänglichste aller Daedrafürsten, 
+aber auch der mit dem schlechtesten Ruf.<0xFE>
+
+---------- Record 14 [1013] ----------
+Der Zauberbrecher ist die ultimative Verteidigung 
+gegen Zauber.<0xFF>
+Zauberbrecher kann Zauber auflösen oder sogar auf den 
+Angreifer zurückwerfen.<0xFE>
+
+---------- Record 15 [1014] ----------
+Ihr habt =monster_ getötet.<0xFD>
+ Peryites Rache ist vollbracht.<0xFD>
+ <0xFE>
+
+---------- Record 16 [1015] ----------
+%qdt:<0xFC>
+ Der Daedrafürst Peryite wünscht,<0xFC>
+ dass ich nach ___mondung_<0xFC>
+ gehe und innerhalb von =1stparton_ Tagen<0xFC>
+ einen Vampir namens =monster_<0xFC>
+ töte. Danach soll ich _qgfriend_<0xFC>
+ an einem Ort namens __qgfriend_<0xFC>
+ in ___qgfriend_ treffen, um<0xFC>
+ den berühmten Schild Zauberbrecher zu<0xFC>
+ erhalten. Ich habe weitere =2ndparton_ Tage<0xFC>
+ für die ganze Reise.<0xFC>
+<0xFF>
+<0xFE>
+
+________________________________________
+60C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Ach, bei meiner Treu! Ich wette mit<0xFD>
+ mir, dass Ihr mich nicht erwartet habet!<0xFD>
+ Meine Unbrüder und Nichtschwestern sint<0xFD>
+ bisweylen ein bisschen langsam, also<0xFD>
+ springe ich für sie ein. Pech und Schwefel<0xFD>
+ für Euch. Ihr werdet Euren Handel mit<0xFD>
+ mir verhandeln müssen. Andernorts sie mich<0xFD>
+ vermissen eh' die fahle Stund verstrichen!<0xFD>
+ Also los! Ein %ra will Macht, um<0xFD>
+ sich damit den Körper einzureiben und die<0xFD>
+ vierhundert Wunden des sterblichen Lebens<0xFD>
+ zu lindern? Ja, Sheogorath hat Macht,<0xFD>
+ genug Macht, um die Zweige vor die Augen<0xFD>
+ der Monde zu zerren und Blut auf Tamriel<0xFD>
+ regnen zu lassen! Würdet Ihr dafür jemandem<0xFD>
+ eine höfliche Einladung zum Tee mit mir<0xFD>
+ überbringen?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+La, zurückgewiesen von einem dreckigen<0xFD>
+ %ra mit Läusen im Haar.<0xFD>
+ Wie weit ist Sheogorath emporgestiegen!<0xFD>
+ Ich sollte um eine Erweiterung meiner<0xFD>
+ Befugnisse ersuchen. Tirrah, %pct.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Zum Tee, zu einer Teegesellschaft mit mir!<0xFD>
+ Fort, fort zum ___mondung_ geheißenen Ort,<0xFD>
+ wo das Objekt meiner bitteren Begierde steht<0xFD>
+ und geht und Brombeerkronen trägt. Wartet ...<0xFD>
+ bittet diesen Kampfmagier nicht zum Tee bei mir.
+<0xFD>
+ Jetzt erinnere ich mich! =monster_ ist der Name!
+<0xFD>
+ Tötet %g2 zu Tode, ermordet %g2 mordsicher, das<0xFD>
+ wünsche ich. Dann geht von ___mondung_<0xFD>
+ in ein Tollhaus, das ___contactdung_ genannt<0xFD>
+ wird, und besucht meinen Freund =qgfriend_,<0xFD>
+ _qgfriend_. Wabbajack wird %g Euch geben.<0xFD>
+ Wird auf Euch =1stparton_ Tage warten und dann<0xFD>
+ den unbekannten Erben von Rowanda heiraten.<0xFD>
+ Nun ziehe ich meinen Hut vor Euch und auf bald!<0xFD>
+ <0xFE>
+
+---------- Record 3 [1003] ----------
+Entschuldigt, Ihr werdet es nicht wissen,<0xFD>
+ aber ich bin vollkommen wahnsinnig.<0xFD>
+ Und wenn Ihr nicht abschiebt, werde ich<0xFD>
+ mich auf Euch erbrechen.<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Ah, nett von Euch, dass Ihr mich in Eure<0xFD>
+ Zelle lasst, Madam Kerkermeisterin.<0xFD>
+ Sheogorath hat seine Meinung geändert<0xFD>
+ und wollte =monster_ nun doch zum<0xFD>
+ Tee einladen. Aber als er erfuhr, dass<0xFD>
+ %g tot ist, entschied er, dass es so<0xFD>
+ das beste wäre. So kann =monster_<0xFD>
+ nicht all die kleinen Küchlein wegessen.<0xFD>
+ Bevor ich es vergesse, hier der Wabbajack.<0xFD>
+ Zeigt damit nicht auf mich!<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Ein verrückter Kampfmagier terrorisiert das Land um 
+___mondung_.<0xFE>
+
+---------- Record 6 [1006] ----------
+___mondung_ ist ruhig, jetzt da =monster_ fort ist,
+<0xFD>
+ aber %g wird wiederkommen, das wette ich.<0xFD>
+<0xFE>
+
+---------- Record 7 [1007] ----------
+Auf Nimmerwiedersehen zu diesem Kampfmagier =monster_ 
+in ___mondung_. Ich hörte, %g sei verrückt wie ein 
+Magister gewesen.<0xFF>
+Also hat endlich jemand diesen verrückten Kampfmagier 
+in ___mondung_ getötet. %god sei Dank.<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: Quest 60c00y00.q tried to display text<0xFE>
+
+---------- Record 9 [1008] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error: Quest 60c00y00.q tried to display text<0xFE>
+
+---------- Record 11 [1009] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+_qgfriend_ ist dieser verrückte, sabbernde =qgfriend_, 
+der in ___contactdung_ lebt.<0xFF>
+_qgfriend_ ist dieser irre =qgfriend_, der vor einer 
+Weile in die Stadt kam.<0xFD>
+ Man sagt, %g würde zur Zeit in ___contactdung_ leben.
+<0xFE>
+
+---------- Record 13 [1012] ----------
+Sheogorath ist der Daedrafürst des Wahnsinns. Nicht 
+gerade jemand, auf den man zählen kann.<0xFF>
+Sheogorath ist der Verrückte, der Daedra, der in Chaos 
+und Wahnsinn schwelgt.<0xFE>
+
+---------- Record 14 [1013] ----------
+Wabbajack ist ein sehr altes Artefakt mit verrückten 
+Zufallszaubern.<0xFF>
+Wabbajack kann seine Ziele in andere Kreaturen 
+verwandeln.<0xFE>
+
+---------- Record 15 [1014] ----------
+_qgfriend_ ist einer der treuesten Diener des 
+Daedrafürsten Sheogorath.<0xFF>
+_qgfriend_ ist der Name dieses =qgfriend_, ein Sklave 
+von Sheogorath.<0xFE>
+
+---------- Record 16 [1020] ----------
+%qdt:<0xFC>
+ Der Daedrafürst Sheogorath hat mir ein<0xFC>
+ Artefakt namens Wabbajack im Austauch<0xFC>
+ für den Tod eines Kampfmaigers namens<0xFC>
+ =monster_ versprochen. Wenn dieser<0xFC>
+ Kampfmagier, der an einem Ort namens<0xFC>
+ ___mondung_ residiert, tot ist und ich<0xFC>
+ Sheogoraths Kontaktperson in ___contactdung_<0xFC>
+ treffe, wird mir _qgfriend_ den<0xFC>
+ Wabbajack geben. Allerdings muss ich<0xFC>
+ das alles in =1stparton Tagen erledigen.<0xFC>
+<0xFE>
+
+---------- Record 17 [1030] ----------
+Ich habe =monster_ aus der<0xFD>
+ sterblichen Ebene getilgt.<0xFD>
+ Nun sehen wir einmal, ob sich<0xFD>
+ Sheogorath noch an den Vertrag<0xFD>
+ erinnert.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+70C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Macht ist so ein schönes Wort, nicht wahr?<0xFD>
+ Es fließt wie Honig von der Zunge. Wenn<0xFD>
+ Macht Euer Aphrodisiakum ist, wäre ich<0xFD>
+ ganz entzückt, Euch Sanguines Rose zu schenken.<0xFD>
+ Ihr müsst für mich nur einen ganz furchtbaren<0xFD>
+ Priester bestrafen, der es gewagt hat, mich<0xFD>
+ herauszufordern. Klingt das gut für Euch?<0xFD>
+ <0xFE>
+
+---------- Record 1 [1001] ----------
+Die Pocken über Euch, %pcn!<0xFD>
+ Wie könnt Ihr es wagen, mich heraufzubeschwören<0xFD>
+ und dann mein großzügiges Angebot auszuschlagen?
+<0xFD>
+ Betet, dass ich Euch vergeben werde,<0xFD>
+ %pcf. Sanguine ist<0xFD>
+ niemand, den man zum Feind haben sollte.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Ihr werdet es nicht bereuen, %pcf,<0xFD>
+ vorausgesetzt, Ihr erfüllt Euren Teil<0xFD>
+ der Abmachung. Dieser frömmlerische<0xFD>
+ Mönch ist nicht harmlos; %g3 Name ist<0xFD>
+ =monster_ und %g hat meine<0xFD>
+ geliebten Anhänger in Asche verwandelt.<0xFD>
+ Geht zu dem verlassenen Tempel  ___mondung_,<0xFD>
+ wo %g herumlungert und reißt %g2 das Herz<0xFD>
+ aus %g3 Brust. Mein Agent _contact_<0xFD>
+ wird Euch in ___contact_ erwarten.<0xFD>
+ _contact_ verweilt aber nur ungern, also<0xFD>
+ begeht den Mord in =1stparton_ oder weniger<0xFD>
+ Tagen. Ich habe das köstliche Gefühl, dass<0xFD>
+ wir uns wiedersehen werden, %pcf.<0xFD>
+ Ich hoffe es.<0xFD>
+ <0xFE>
+
+---------- Record 3 [1003] ----------
+Dieser frömmelnde Reaktionär ist<0xFD>
+ noch am Leben und Ihr wisst das,<0xFD>
+ %pcf. Spielt mit Sanguine<0xFD>
+ keine Spielchen, %pct.<0xFD>
+ Die Regeln würden Euch nicht gefallen.<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Freut mich, Eure Bekanntschaft zu machen,<0xFD>
+ %pcn. Ich bin _contact_.<0xFD>
+ Sanguine muss von Euch wirklich hingerissen<0xFD>
+ sein. Er hat die Rose für seine<0xFD>
+ Lieblingsschüler zurückgelegt.<0xFD>
+ Und nun ist sie Euer. Ich hoffe,<0xFD>
+ Ihr werdet sie ausgiebig genießen.<0xFD>
+ <0xFE>
+
+---------- Record 5 [1005] ----------
+All die Orgien, die hier stattzufinden pflegten, 
+wurden von =monster_ unterdrückt.<0xFF>
+Es gibt nicht viel zu tun, seit =monster_ seine Fackel 
+an die Orgien gehalten hat.<0xFE>
+
+---------- Record 6 [1006] ----------
+=monster_ ist weitergezogen - %g sucht nach 
+Schlupfwinkeln der Dekadenz im Norden.<0xFF>
+Jeder hat Angst davor, überhaupt noch etwas 
+Vergnügliches zu tun, wenn Leute wie =monster_ in der 
+Nähe sind.<0xFE>
+
+---------- Record 7 [1007] ----------
+Viele Leute freuen sich über den Tod von =monster_. 
+Genau das, was %g3 Sorte verdient.<0xFF>
+Die Orgien haben wieder eingesetzt, nun da =monster_ 
+von der Bildfläche verschwunden ist.<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: Quest 70c00y00.q tried to display text<0xFE>
+
+---------- Record 9 [1008] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error: Quest 70c00y00.q tried to display text<0xFE>
+
+---------- Record 11 [1009] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+Sanguine ist der Daedrafürst der Lust. "Stets im 
+Exzess" ist sein Motto.<0xFF>
+Der Daedrafürst der Perversion und unnatürlichen 
+sexuellen Verbindungen, natürlich.<0xFE>
+
+---------- Record 13 [1012] ----------
+Nur ein schielender =contact_ %di von hier in 
+__contact_.<0xFF>
+_contact_ ist der Name eines nichtsnutzigen =contact_ 
+in __contact_.<0xFE>
+
+---------- Record 14 [1014] ----------
+Sanguines Rose beschwört einen Daedra, der für Euch 
+kämpft. Im besten Fall ist das noch ein riskantes 
+Unterfangen.<0xFF>
+Der Besitzer von Sanguines Rose soll die Macht haben, 
+Hilfe aus dem Reich des Vergessens zu beschwören.
+<0xFE>
+
+---------- Record 15 [1015] ----------
+=monster_ ist tot.<0xFD>
+ Ihr hofft, dass sich<0xFD>
+ Sanguine darüber<0xFD>
+ ekstatisch freut.<0xFD>
+<0xFE>
+
+---------- Record 16 [1020] ----------
+%qdt:<0xFC>
+ Sanguine will, dass ich einen Mönch<0xFC>
+ namens =monster_  als<0xFC>
+ Gegenleistung für seine Rose töte.<0xFC>
+ Der Mönch ist in ___mondung_<0xFC>
+ und muss in =1stparton_ oder weniger Tagen<0xFC>
+ tot sein. Ich habe dann =1stparton_ Tage,<0xFC>
+ mich mit _contact_ in<0xFC>
+ ___contact_ an einem Ort namens<0xFC>
+ __contact_ zu treffen.<0xFC>
+<0xFF>
+<0xFE>
+
+________________________________________
+80C0XY00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Ja, ich kenne noch jemanden, der an Macht<0xFD>
+ interessiert war. Eine kleine Panikosa aus<0xFD>
+ dem Reich des Vergessens, die von Macht<0xFD>
+ träumte und mich bat, sie mit der Schönheit<0xFD>
+ und Anmut auszustatten, die sie schon immer<0xFD>
+ begehrt hatte. Und als ich ihr Schönheit<0xFD>
+ gewährte, bekämpfte sie mich, widersetzte<0xFD>
+ sich meinen Willen, als ob ich sie nicht<0xFD>
+ geschaffen hätte. Vielleicht seid Ihr nicht<0xFD>
+ anders. Wenn ich Euch stark und schön mache,<0xFD>
+ würdet Ihr doch das Geschenk respektieren,<0xFD>
+ das ich Euch gebe, oder nicht?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Einfältiger %ra, kennt Ihr<0xFD>
+ nicht einmal eine gute Lüge?<0xFD>
+ Verschwendet mit Eurem<0xFD>
+ erbärmlichen Verlangen<0xFD>
+ nicht meine Zeit.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Ich glaube Euch, %pcn.<0xFD>
+ Im Gegenzug für den Tod dieser verräterischen<0xFD>
+ Verführerin, der ich einst vertraute,<0xFD>
+ werde ich Euch Volendrung geben, meinen<0xFD>
+ wertvollsten Besitz in Eurer Welt. Er wird<0xFD>
+ Euch in der Tat sehr mächtig werden lassen.<0xFD>
+ Ihr findet diese verabscheute Kreatur in<0xFD>
+ ___mondung_. Tötet sie und trefft meinen<0xFD>
+ teuren und vertrauten _qgfriend_<0xFD>
+ in ___qgfriend_. Ich werde %g2<0xFD>
+ anweisen, Euch der Einfachheit halber am<0xFD>
+ dortigen Anwesen zu treffen. Ich denke nicht,<0xFD>
+ dass die ganze Sache mehr als =1stparton_ Tage<0xFD>
+ dauern sollte, wenn mit der erforderlichen<0xFD>
+ Effizienz erledigt wird.<0xFD>
+ <0xFD>
+ Nun geht in die Welt hinaus und handelt auf<0xFD>
+ mein Geheiß, %pcn.<0xFD>
+<0xFE>
+
+---------- Record 3 [1003] ----------
+Verschwindet, Ihr sabbernder %ra.<0xFD>
+ Ich suche nach einem wirklich sterblichen Wesen.
+<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Ihr seid also %pcn.<0xFD>
+ Malacath hat Euch perfekt beschrieben.<0xFD>
+ Gute Arbeit mit der alten =monster_.<0xFD>
+ Sie hat einfach nicht den Mund gehalten,<0xFD>
+ wisst Ihr? Egal, hier ist Volendrung.<0xFD>
+ Kein ganz so schlechter Knochenbrecher.<0xFD>
+ Und wer weiß, vielleicht müsst Ihr ihn<0xFD>
+ eines Tages gegen Malacath selbst einsetzen.<0xFD>
+ Ein Witz ... selbstverständlich.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+_murder_ wurde tot in %g3 Palast in ___ruler_ 
+gefunden.<0xFF>
+Die meisten daedrischen Verführerinnen haben eine 
+Mission. Die in ___mondung_ wartet einfach nur.<0xFE>
+
+---------- Record 6 [1006] ----------
+Ich muss immer noch an dieses Frauengelächter denken, 
+dass ich am Himmel hörte.<0xFF>
+Keine Ahnung wo, aber viele Leute haben sie vor ein 
+paar Nächten herumfliegen sehen.<0xFE>
+
+---------- Record 7 [1007] ----------
+Ich hörte, diese Verführerin sei von den Agenten ihres 
+Meisters getötet worden, weil sie sich verliebt hat.
+<0xFF>
+Hat mich nervös gemacht - diese Verführerin saß nur in 
+ihrem Loch und wartete auf irgendetwas.<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: Quest 80c00y00.q tried to display text<0xFE>
+
+---------- Record 9 [1008] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error: Quest 80c00y00.q tried to display text<0xFE>
+
+---------- Record 11 [1009] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+_qgfriend_ ist ein Adliger. Er soll angeblich eine 
+geheime Romanze mit einer dunklen Gespielin gehabt 
+haben.<0xFF>
+_qgfriend_ ist ein Adliger mit einer Menge geheimer 
+Treueschwüre.<0xFE>
+
+---------- Record 13 [1012] ----------
+Malacath ist der Daedrafürst der Lügen, Täuschung und 
+Heuchelei.<0xFF>
+Malacath zieht Lügen an, wie ein toter Hund Maden.
+<0xFE>
+
+---------- Record 14 [1013] ----------
+Volendrung ist ein Kriegshammer von großer Macht und 
+in der Lage, seinen Opfern Gesundheit zu entziehen.
+<0xFF>
+<0xFE>
+
+---------- Record 15 [1015] ----------
+=monster_ ist tot.<0xFE>
+
+---------- Record 16 [1020] ----------
+%qdt:<0xFC>
+ Ich habe den Daedrafürsten Malacath beschworen,<0xFC>
+ der mir Volendrung im Gegenzug Gegenzug für<0xFC>
+ den Tod von =monster_ angeboten<0xFC>
+ hat. Diese daedrische Verführerin war einmal<0xFC>
+ in seinem Gefolge. Sie hat an einem Ort namens<0xFC>
+ ___mondung_ Zuflucht gesucht.<0xFC>
+ Wenn ich =monster_ innerhalb<0xFC>
+ von =1stparton_ Tagen töten und in den Palast von
+<0xFC>
+ ___qgfriend_ gelangen kann,<0xFC>
+ wird mir ein =qgfriend_ namens<0xFC>
+ _qgfriend_ den Volendrung geben.<0xFC>
+<0xFE>
+
+---------- Record 17 [1030] ----------
+=monster_,<0xFC>
+ <0xFC>
+     Malacath will _murder_ tot sehen.<0xFC>
+ %g3 Agenten haben eine Verschwörung<0xFC>
+ zu viel aufgedeckt. %g muss aufgehalten<0xFC>
+ werden, bevor unsere gesamten Pläne<0xFC>
+ für %reg vereitelt sind. Ihr findet<0xFC>
+ %g2 im Palast von ___ruler_.<0xFC>
+ Stellt sicher, dass %g3 Tod nicht bis<0xFC>
+ zu uns zurückverfolgt werden kann.<0xFC>
+ Wartet in ___mondung_ auf mich,<0xFC>
+ nachdem Ihr den Anschlag ausgeführt habt.<0xFC>
+ Ich werde Eure Belohnung und den<0xFC>
+ nächsten Auftrag von Malacath mitbringen.<0xFC>
+ <0xFC>
+ _qgfriend_<0xFD>
+<0xFE>
+
+---------- Record 18 [1040] ----------
+%oth! _qgfriend_ steckte<0xFD>
+ hinter dem Tod von _murder_?<0xFD>
+ Und auch noch in eine Daedraverschwörung<0xFD>
+ verwickelt? Ohne Euch hätten wir den<0xFD>
+ Mordfall wohl nie gelöst, %pcn.<0xFD>
+ Eure Loyalität zu %rt wird nicht<0xFD>
+ vergessen werden.<0xFD>
+<0xFE>
+
+---------- Record 19 [1041] ----------
+Gebt Ihr _ruler_ den<0xFD>
+ Brief von _qgfriend_?<0xFD>
+<0xFE>
+
+---------- Record 20 [1050] ----------
+Der Tod von _murder_ ist noch immer ein Rätsel.<0xFD>
+ _ruler_ leitet die Ermittlungen, aber bis jetzt ohne 
+Erfolg.<0xFF>
+Ich bin sicher, dass _murder_ wegen %g3 
+Korruptionsermittlungen in %reg sterben musste.<0xFE>
+
+---------- Record 21 [1051] ----------
+_murder_ untersuchte eine Verschwörung zum Sturz von
+<0xFD>
+ %rt %rn, als %g auf "mysteriöse Weise" verstarb.
+<0xFD>
+ _ruler_ versucht herauszufinden, wer für den Tod von
+<0xFD>
+ _murder_ verantwortlich ist, wird dabei aber nie bis 
+zum Grund vordringen.<0xFD>
+<0xFF>
+_murder_ wurde tot im Palast von ___ruler_<0xFD>
+ gefunden, all %g3 Ermittlungsnotizen über den Verrat 
+in höchsten<0xFD>
+ Kreisen wurden gestohlen. _ruler_ wurde beauftragt,
+<0xFD>
+ den Mörder von _murder_ zu finden, hat aber nichts,  
+womit man anfangen könnte.<0xFD>
+<0xFE>
+
+---------- Record 22 [1052] ----------
+_ruler_ leitet die Ermittlungen, aber bis jetzt ohne 
+Erfolg.<0xFD>
+<0xFF>
+_ruler_ versucht, den Tod von _murder_ im Palast von 
+___ruler_ aufzuklären.<0xFD>
+<0xFE>
+
+---------- Record 23 [1053] ----------
+_ruler_ versucht herauszufinden, wer für den Tod von 
+_murder_<0xFD>
+ verantwortlich ist, wird dabei aber nie bis zum Grund 
+vordringen.<0xFD>
+<0xFF>
+_ruler_ wurde beauftragt, den Mörder von _murder_ zu 
+finden,<0xFD>
+ hat aber nichts, womit man anfangen könnte.<0xFD>
+<0xFE>
+
+________________________________________
+90C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Ein sehr weiser %ra sagte einmal,<0xFD>
+ das Macht korrumpiert und absolute<0xFD>
+ Macht absolut großartig ist. Darum<0xFD>
+ werde ich Euch helfen. Nun, ich bin<0xFD>
+ mir sicher, dass Ihr einige moralische<0xFD>
+ Probleme damit haben würdet, Unschuldige<0xFD>
+ zu ermorden, die Euch nie in irgendeiner<0xFD>
+ Weise geschadet haben. Aber Ihr würdet<0xFD>
+ es tun um meinen Schädel der Korrumpierung<0xFD>
+ zu erlangen, nicht wahr?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Nein? Warum ... Ihr ...<0xFD>
+ verachtenswertes, schluchzendes<0xFD>
+ tugendhaftes, glänzendes Stück<0xFD>
+ Goblinrotze! Ich werde meine<0xFD>
+ Zeit nicht mit jemandem von<0xFD>
+ so giftiger Moral verschwenden.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Großartig. Dieser bestimmte Unschuldige,<0xFD>
+ an den ich denke, ist ein _monster_.<0xFD>
+ Ein unschuldiger Lich, werdet Ihr denken.<0xFD>
+ Nun, unschuldig Euch gegenüber. Für mich<0xFD>
+ ist er ein betrügerischer ehemaliger Diener,<0xFD>
+ der alle Macht nahm, die ich ihm bot, aber<0xFD>
+ dann meine Befehle missachtete.<0xFD>
+ <0xFD>
+ Ihr findet seine leichenhafte Gestalt in<0xFD>
+ ___mondung_. Er ist nervös,<0xFD>
+ seid also für einen Kampf bereit. Begebt<0xFD>
+ Euch auf Euren Sieg nach ___qgfriend_<0xFD>
+ und sucht in __qgfriend_<0xFD>
+ meinen Diener _qgfriend_,<0xFD>
+ einen =qgfriend_.<0xFD>
+<0xFE>
+
+---------- Record 3 [1003] ----------
+Warum, Ihr betrügerischer %ra?<0xFD>
+ Gebt Ihr vor, den Lich getötet zu<0xFD>
+ haben, um den Schädel in Eure<0xFD>
+ raffgierigen Hände zu bekommen?<0xFD>
+ Vaernima wäre belustigt, leider<0xFD>
+ habe ich aber strikte Anweisungen.<0xFD>
+ Kommt wieder wenn Ihr den Vertrag<0xFD>
+ erfüllt habt.<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Hat der Lich eine Wolke Staub ausgehustet,<0xFD>
+ als er starb? _qgfriend_,<0xFD>
+ zu Diensten, %pcf. Vaernima<0xFD>
+ wird sich über diese Neuigkeiten sehr<0xFD>
+ freuen. Ich hoffe, Ihr seid nicht böse,<0xFD>
+ wenn ich die furchtbar abscheulichen<0xFD>
+ Sünden, die Ihr auf Eurer Reise begangen<0xFD>
+ habt, etwas ausschmücke. Hier ist der<0xFD>
+ Schädel. Benutzt ihn, wann immer Ihr<0xFD>
+ wünscht, dass ein Gegner seiner dunklen<0xFD>
+ Seite gegenübertritt. Lebt wohl, %pcf,<0xFD>
+ aber tut Böses.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Solange sich dieser Lich in ___mondung_ aufhält liegt 
+ein Fluch auf diesem Land.<0xFF>
+Wenn nur ein großer Held kommen und den uralten Lich 
+in ___mondung_ töten würde ...<0xFE>
+
+---------- Record 6 [1006] ----------
+Der Lich hat ___mondung_ verlassen, ist aber nicht 
+wirklich tot. Er wird zurückkehren, wenn es für ihn an 
+der Zeit ist.<0xFF>
+Ich bin nur froh, dass der Lich weg ist, auch wenn er 
+nicht wirklich tot sein mag.<0xFE>
+
+---------- Record 7 [1007] ----------
+Ich hörte, %god habe uns einen Engel geschickt, um 
+___mondung_ von diesem verfluchten Lich zu befreien.
+<0xFF>
+Wir werden vielleicht nie erfahren, wer den Lich in 
+___mondung_ vernichtet hat, aber wir schließen ihn in 
+unsere Gebete ein.<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: Quest 90c00y00.q tried to display text<0xFE>
+
+---------- Record 9 [1008] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error: Quest 90c00y00.q tried to display text<0xFE>
+
+---------- Record 11 [1009] ----------
+<0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+_qgfriend_ ist dieser gruselige =qgfriend_ drüben in 
+__qgfriend_ in %di Richtung.<0xFF>
+_qgfriend_ ist der übelriechende =qgfriend_, den ich 
+in _qgfriend_ sah.<0xFE>
+
+---------- Record 13 [1012] ----------
+_qgfriend_ ist einer von Vaernimas Agenten des 
+Verderbens in %reg.<0xFF>
+_qgfriend_ ist einer von Vaernimas dreckigen kleinen 
+Verderbnisverbreitern.<0xFE>
+
+---------- Record 14 [1013] ----------
+Vaernima ist die Daedrafürstin der Korrumpierung und 
+des Verfalls. Wirklich nicht schön anzusehen.<0xFF>
+Vaernima ist eine Regentin im Reich des Vergessens. 
+Ihre Sphäre ist Korrumpierung und Verfall.<0xFE>
+
+---------- Record 15 [1014] ----------
+Der Schädel der Korrumpierung erschafft dunkle und 
+feindselige Doppelgänger seines Ziels.<0xFF>
+Der Schädel bringt die dunkle Seite eines Gegners aus 
+Vaernimas Ebene im Reich des Vergessens hervor.<0xFE>
+
+---------- Record 16 [1015] ----------
+Ihr habt _monster_ getötet,<0xFD>
+ und somit Euren Teil des Handels<0xFD>
+ mit Fürstin Vaernima erfüllt. <0xFE>
+
+---------- Record 17 [1020] ----------
+%qdt:<0xFC>
+ Ich habe einen Pakt mit der Daedrafürstin<0xFC>
+ Vaernima geschlossen. Sie wird ihren<0xFC>
+ Agenten in ___qgfriend_ anweisen,<0xFC>
+ mir ihr Artefakt, den Schädel der Korrumpierung,
+<0xFC>
+ zu übergeben, wenn es mir gelingt, %g2<0xFC>
+ in =1stparton_ oder weniger Tagen mit dem Staub<0xFC>
+ eines gewissen _monster_ an<0xFC>
+ meinen Händen in __qgfriend_<0xFC>
+ zu treffen. Alles was ich über _monster_<0xFC>
+ weiß ist, dass er in ___mondung_ lebt.<0xFC>
+<0xFF>
+<0xFE>
+
+________________________________________
+T0C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Ihr wagt es, Azura vom Purpurtor zu beschwören<0xFD>
+ und sie um Macht zu bitten? Ich weiß nicht, ob<0xFD>
+ Ihr einer solchen Gunst würdig seid. Eigentlich<0xFD>
+ bezweifle ich es doch sehr. Wenn ich, sagen wir,
+<0xFD>
+ von Euch verlangte, einen Priester zu töten, der
+<0xFD>
+ sehr, sehr unschöne Dinge über mich verbreitet,<0xFD>
+ würdet Ihr mir wohl selbst diesen einfachen,<0xFD>
+ kleinen Wunsch abschlagen. Oder würdet Ihr das<0xFD>
+ für mich tun?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Nein?! Ihr hättet Ja sagen sollen!<0xFD>
+ Ihr hättet "Ja, wunderschöne Azura,<0xFD>
+ ich würde mit Freuden für Euch morden,<0xFD>
+ sobald Ihr mit Euren elfenbeinfarbenen<0xFD>
+ Fingern schnippt" sagen sollen.<0xFD>
+ Tölpel!<0xFD>
+ Frömmler!<0xFD>
+ Barbar!<0xFD>
+ Ich sollte nun gehen, bevor ich vergesse,<0xFD>
+ dass ich eine Dame bin und etwas sage,<0xFD>
+ das ich bereuen würde ...<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Ihr würdet? Oh wunderbar! Nun, dieser<0xFD>
+ wirklich entsetzliche Priester ist noch<0xFD>
+ dazu ein Heiler, wenn das etwas bedeutet.<0xFD>
+ Ist das nicht einfach typisch?<0xFD>
+ Wie bei solchen selbstgerechten Typen,<0xFD>
+ üblich hat sich =monster_  nach<0xFD>
+ ___mondung_ zurückgezogen,  wo<0xFD>
+ er sich geistig läutert oder so etwas<0xFD>
+ lächerliches. Na, einerlei, warum schaut<0xFD>
+ Ihr da nicht mal vorbei und stecht ein<0xFD>
+ Schwert in %g2 oder so? Und dann schnell<0xFD>
+ nach ___qgfriend_ um meinen<0xFD>
+ Liebsten _qgfriend_ zu treffen,<0xFD>
+ der Euch meinen Stern geben wird.<0xFD>
+ Das ist genug Macht für jeden. =1stparton_ Tage 
+<0xFD>
+ sollten ausreichen, meint Ihr nicht?<0xFD>
+ Oh, gut. Dann beeilt Euch, %pcf.<0xFD>
+ Und grüßt _qgfriend_ von mir!<0xFD>
+ Auf bald!<0xFD>
+<0xFE>
+
+---------- Record 3 [1003] ----------
+Hmm? Was?<0xFD>
+ Kenne ich Euch?<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Oh. Oh, %pcn!<0xFD>
+ Wartet Ihr schon lange? Es tut mir<0xFD>
+ leid, ich hatte nur gerade einen Tagtraum<0xFD>
+ über meine Herrin, die Fürstin Azura.<0xFD>
+ Wisst Ihr, diese Kerze erinnerte mich<0xFD>
+ an das Funkeln ihrer Augen. Wie albern<0xFD>
+ von mir. Nun, hier ist Azuras Stern.<0xFD>
+ Sie überlässt ihn wirklich nicht jedem.<0xFD>
+ Aber lasst Euch das nicht zu Kopf steigen.<0xFD>
+ Ich habe sie zuerst gekannt.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Habt Ihr die Rede von =monster_ über die Sünde der 
+Eitelkeit gehört, als %g in der Stadt war?<0xFF>
+Wenn Ihr mit =monster_ redet, werdet Ihr begreifen, 
+dass Egoismus die schlimmste aller Sünden ist.<0xFE>
+
+---------- Record 6 [1006] ----------
+=monster_ ist weitergezogen, aber %g3 Botschaft über 
+die Vorzüge der Bescheidenheit bleibt uns erhalten.
+<0xFF>
+=monster_ hat %reg verlassen, verbreitet aber noch 
+immer %g3 Botschaften über die Eitelkeit, wie man 
+hört.<0xFE>
+
+---------- Record 7 [1007] ----------
+Das mit =monster_ ist keine wirkliche Tragödie. Ich 
+meine, %g war ein richtiger Tugendbold.<0xFF>
+Ich bin nicht glücklich, dass =monster_ tot ist, aber 
+%g3 Botschaft war ... nun, schon ziemlich extrem. 
+Meint Ihr nicht auch?<0xFE>
+
+---------- Record 8 [1011] ----------
+_qgfriend_ ist dieser =qgfriend_, den ich beim 
+Tagträumen in __qgfriend_ im %di gesehen habe.<0xFF>
+_qgfriend_ ist dieser verklärt schauende =qgfriend_ in 
+__qgfriend_ %di von hier.<0xFE>
+
+---------- Record 9 [1012] ----------
+_qgfriend_ ist einer von Fürstin Azuras Liebhabern und 
+ihr Agent in %reg.<0xFF>
+_qgfriend_ ist ein =qgfriend_, der von Fürstin Azura 
+betört wurde und ihr geradezu sklavisch ergeben ist.
+<0xFE>
+
+---------- Record 10 [1013] ----------
+Azura ist eine der daedrischen Regenten im Reich des 
+Vergessens. Ihre Sphäre ist die Eitelkeit.<0xFF>
+Azura ist die Daedrafürstin von Eitelkeit und 
+Egoismus.<0xFE>
+
+---------- Record 11 [1014] ----------
+Azuras Stern kann lebende Kreaturen für immer in 
+Statuen verwandeln.<0xFE>
+
+---------- Record 12 [1020] ----------
+%qdt:<0xFC>
+ Ich habe ein Abkommen mit der Daedrafürstin<0xFC>
+ Azura getroffen. Wenn ich einen Mönch töte,<0xFC>
+ der in einem verlassenen Tempels namens<0xFC>
+ ___mondung_ lebt und ihren<0xFC>
+ Kontakt _qgfriend_ in ___qgfriend_<0xFC>
+ innerhalb von =1stparton_ Tagen treffe, soll ich
+<0xFC>
+ Azuras Stern erhalten.<0xFC>
+<0xFE>
+
+---------- Record 13 [1030] ----------
+Ihr habt den _monster_<0xFD>
+ =monster_ getötet, wie<0xFD>
+ Ihr es Azura versprochen habt.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+U0C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Macht, ha! Würde denn ein durch Mundus kriechender
+<0xFD>
+ %ra etwas mit wahrer Macht anzufangen<0xFD>
+ wissen? Ihr meint, dass Ihr noch ein paar andere
+<0xFD>
+ Sterbliche herumstoßen möchtet, nicht wahr? Nun,
+<0xFD>
+ das lässt sich bewerkstelligen. Beweist mir, dass
+<0xFD>
+ ihr den Mut habt, auch wirklich zu gebrauchen<0xFD>
+ was ich Euch gewähre.<0xFD>
+ <0xFD>
+ Werdet Ihr jemanden für mich töten?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Pah, Ihr macht mich krank. Beschwört mich<0xFD>
+ nicht wieder, %pcf, bis<0xFD>
+ Ihr erwachsen seid oder einen Kampf sucht.<0xFD>
+ <0xFE>
+
+---------- Record 2 [1002] ----------
+Gut, das ist zumindest ein Schritt in die<0xFD>
+ richtige Richtung. Der Magierkrieger, den ich<0xFD>
+ im Sinn habe, damit Ihr ihn um der Macht willen<0xFD>
+ töten könnt ist =monster_, ein wirklich<0xFD>
+ bezaubernder und barmherziger Arsch, der mich<0xFD>
+ seit Jahren zur Hölle ärgert. Ihr werdet %g2<0xFD>
+ in %g3 Festung finden, einem ___mondung_<0xFD>
+ genannten Ort. Aber glaubt nicht, dass<0xFD>
+ =monster_ nicht kämpfen kann, nur weil %g<0xFD>
+ so feine Manieren hat. Ich möchte Euch schon<0xFD>
+ ein bisschen für mein Geschenk arbeiten lassen.<0xFD>
+ Nach dem Mord solltet Ihr _qgfriend_<0xFD>
+ treffen, meinen Agenten, der sich in __qgfriend_
+<0xFD>
+ in ___qgfriend_ herumtreibt. Sucht dort<0xFD>
+ einfach nach einem =qgfriend_. Und lasst %g2<0xFD>
+ nicht warten. Ich werde %g2 sagen, dass Ihr in =
+1stparton_ Tagen<0xFD>
+ eintrefft. Das ist mehr als genug Zeit. Ich beobachte 
+Euch.<0xFD>
+<0xFE>
+
+---------- Record 3 [1003] ----------
+Geht weiter, %ra. Wir<0xFD>
+ haben nichts zu bereden.<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Ihr seid also %pcn. Hmm,<0xFD>
+ Ihr seid gar nicht so kümmerlich wie<0xFD>
+ Boethiah meinte. Nehmt das als<0xFD>
+ Anerkennung. Und nehmt auch das hier.<0xFD>
+ Boethiah hat die Ebenerzrüstung selbst<0xFD>
+ erschaffen. Sie glaubt, das Artefakt würde<0xFD>
+ Euch bei Eurer Suche nach Macht helfen.<0xFD>
+ Sie hat Interesse an Euch, soviel ist sicher.<0xFD>
+ Ich habe es an ihrem Lächeln gesehen,<0xFD>
+ als sie Euch ''kümmerlich'' nannte.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Bei der nächsten Bürgermeisterwahl werde ich für 
+=monster_ abstimmen.<0xFF>
+Was für eine liebenswürdige, freundliche und 
+großzügige Person =monster_ doch ist. Eine echte 
+Bereicherung für %reg.<0xFE>
+
+---------- Record 6 [1006] ----------
+Wer in Tamriel würde =monster_ ermorden lassen wollen? 
+Dankt %god, dass %g überlebt hat.<0xFF>
+=monster_ hatte einen Zusammenstoß mit einem 
+Assassinen. Zum Glück war dieser Assassine unfähig.
+<0xFE>
+
+---------- Record 7 [1007] ----------
+Es ist eine Tragödie für ganz %reg. Welches Monster 
+würde =monster_ töten?<0xFF>
+%oth, ich kann nicht glauben, dass =monster_ tot ist. 
+Was für ein tragischer, entsetzlicher Verlust.<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: u0c00y00.q tried to display text<0xFE>
+
+---------- Record 9 [1008] ----------
+.<0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error: u0c00y00.q tried to display text<0xFE>
+
+---------- Record 11 [1009] ----------
+.<0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+_qgfriend_ ist der Name dieses grobschlächtigen 
+=qgfriend_ drüben in __qgfriend_.<0xFF>
+So heißt dieser Schläger %di in __qgfriend_.<0xFE>
+
+---------- Record 13 [1012] ----------
+_qgfriend_ ist ein Agent der Daedrafürstin Boethiah in 
+Tamriel.<0xFF>
+_qgfriend_ ist ein gemeiner Schläger, und arbeitet für 
+die Daedrafürstin Boethiah.<0xFE>
+
+---------- Record 14 [1013] ----------
+Boethiah ist die Daedrafürstin der Grausamkeit und 
+Folter. Keine nette Dame.<0xFF>
+Sie ist eine Fürstin im Reich des Vergessens, gehört 
+zu den daedrischen Regenten und ist wirklich tödlich.
+<0xFE>
+
+---------- Record 15 [1014] ----------
+Die Ebenerzrüstung schützt den Träger vor vielen Arten 
+von Gefahr,<0xFD>
+ Feuer und Lebensentzug sind dabei die bekanntesten.
+<0xFE>
+
+---------- Record 16 [1010] ----------
+%qdt:<0xFC>
+ Ich habe einen Pakt mit Boethiah geschlossen,<0xFC>
+ einen Magierkrieger namens =monster_ in<0xFC>
+ %g3 Festung ___mondung_ zu töten.<0xFC>
+ Dafür werde ich ihr Artefakt, die Ebenerzrüstung,
+<0xFC>
+ erhalten. Ich habe =1stparton_ Tage Zeit, um den
+<0xFC>
+ Magierkrieger zu beseitigen und Boethiahs Kontakt
+<0xFC>
+ _qgfriend_ zu __qgfriend_ in ___qgfriend_ zu treffen.
+<0xFE>
+
+---------- Record 17 [1030] ----------
+Ihr habt Euren Teil der Abmachung mit<0xFD>
+ Boethiah eingehalten. =monster_ ist tot.<0xFD>
+<0xFE>
+
+---------- Record 18 [1040] ----------
+=monster_:<0xFC>
+ <0xFC>
+     verlasst ___mondung_ sofort!<0xFC>
+ Ich habe erfahren, dass es Boethiah eingefädelt<0xFC>
+ hat, Euch töten zu lassen. Wir können uns bei<0xFC>
+ anderer Gelegenheiten über Euer leichtsinniges<0xFC>
+ Verhalten unterreden, aber vorerst solltet Ihr<0xFC>
+ zu unserem üblichen Treffpunkt begeben. Wenn<0xFC>
+ ich alle Vorbereitungen abgeschlossen habe, aus<0xFC>
+ %reg zu verschwinden, werde ich Euch<0xFC>
+ selbst dort aufsuchen.<0xFC>
+ <0xFC>
+ Passt auf Euch auf,<0xFD>
+ <0xFD>
+ _mfriend_<0xFD>
+ ___mfriend_<0xFD>
+<0xFE>
+
+---------- Record 19 [1041] ----------
+Wie seid Ihr hier hereingekommen?<0xFD>
+ %oth! Ich wusste, dass<0xFD>
+ =monster_ mich eines Tages<0xFD>
+ töten würde. Hört zu, da %g mein<0xFD>
+ Leben offenbar kaum genug schätzt,<0xFD>
+ um nicht meinen Brief herumliegen<0xFD>
+ zu lassen, ist %g es auch nicht<0xFD>
+ wert, länger von mir beschützt zu werden.<0xFD>
+ Ihr könnt %g2 in ___hideout_<0xFD>
+ finden. %g geht mich nichts mehr an.<0xFD>
+<0xFE>
+
+---------- Record 20 [1042] ----------
+%qdt:<0xFC>
+ =monster_ ist mir in<0xFC>
+ ___mondung_ entwischt,<0xFC>
+ aber ich weiß jetzt, dass<0xFC>
+ %g sich in ___hideout_<0xFC>
+ versteckt. %g wird mir kein<0xFC>
+ zweites Mal davonkommen.<0xFC>
+<0xFF>
+<0xFE>
+
+________________________________________
+V0C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Meine Bedürfnisse sind eher ... bescheiden, aber<0xFD>
+ in meinem Angebot sind, wie Ihr mir gewiss<0xFD>
+ zubilligen werdet, Altruismus und Großzügigkeit<0xFD>
+ untrennbar miteinander verbunden. Als<0xFD>
+ Gegenleistung für die Maske des Clavicus Vile,<0xFD>
+ ein Artefakt von großer Macht, bitte ich Euch<0xFD>
+ nur, ein lästiges Fellbündel zu erledigen, das<0xFD>
+ Jagd auf einige meiner Freunde gemacht hat, die<0xFD>
+ bei ___mondung_ leben. Die Wölfischen<0xFD>
+ sind gemeinhin zu mir und meinen Verbündeten<0xFD>
+ recht freundlich, aber dieser bestimmte ... nun,
+<0xFD>
+ Kinder sind eben Kinder. Verstehen wir einander?
+<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Warum, Ihr widerliches Insekt? Ihr vergiftet die<0xFD>
+ Luft mit Eurer begriffsstutzigen Unverschämtheit.
+<0xFD>
+ Wie könnt Ihr es wagen, den größten aller Fürsten
+<0xFD>
+ des Reichs des Vergessens zu beschwören und dann
+<0xFD>
+ die geringfügigste Bitte auszuschlagen, um die<0xFD>
+ ich Euch ersuchen kann? Ich biete Euch Wasser<0xFD>
+ für Wein, und Ihr spuckt mir beides ins Gesicht.
+<0xFD>
+ Das werde ich Euch nicht vergessen, %pcn.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Ah, Ihr erkennt ein gutes Geschäft, nicht wahr?<0xFD>
+ Ihr werdet die wölfische Bedrohung irgendwo an<0xFD>
+ einem Ort namens ___mondung_ finden.<0xFD>
+ Unglücklicherweise ist die Zeit bei dieser<0xFD>
+ Angelegenheit nicht unser Freund. Aus Gründen,<0xFD>
+ die zu langweilig sind um diskutiert zu werden,<0xFD>
+ muss dieser Tölpel in =1stparton_ Tagen tot sein.
+<0xFD>
+ Nachdem Ihr die Kreatur ermordet habt, trefft<0xFD>
+ Ihr meinen Freund in __contact_ in<0xFD>
+ ___contact_. Seht Euch nach einem<0xFD>
+ =contact_ um. Schön, mit Euch<0xFD>
+ Geschäfte zu machen, %pcn.<0xFD>
+ Wir werden uns sicher wiedersehen.<0xFD>
+<0xFE>
+
+---------- Record 3 [1003] ----------
+Hört zu, Kindchen. Keine Ahnung, wie oft Ihr<0xFD>
+ schon mit Clavicus Vile zu tun hattet, aber<0xFD>
+ eins sage ich Euch: Er mag es nicht, wenn<0xFD>
+ etwas nur halb erledigt wird. Ich weiß,<0xFD>
+ dass der Werwolf nicht tot ist, und wenn Ihr<0xFD>
+ glaubt, ihr könntet Vile zum Narren halten,<0xFD>
+ seid Ihr ein Idiot. Ohne toten Werwolf auch<0xFD>
+ keine Maske. So einfach ist das.<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Ah, %pcf, Vile sagte, ich solle<0xFD>
+ Euch erwarten. Nun, Ihr habt Euren Teil erfüllt,
+<0xFD>
+ so wie ich das verstehe, also ist hier die Maske
+<0xFD>
+ des Clavicus Vile, genau wie er es versprochen<0xFD>
+ hat. Er ist übrigens sehr von Euch beeindruckt.<0xFD>
+ Man kann wirklich schlechtere Freunde haben,<0xFD>
+ glaubt mir.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Ich habe gehört, dass hier so etwas wie ein Werwolf 
+frei herumläuft.<0xFF>
+Ich hörte, die Werwölfe hätten einen Unterschlupf in  
+___mondung_ gefunden.<0xFF>
+Habt Ihr das Heulen letzte Nacht gehört? Wolfsheulen?
+<0xFE>
+
+---------- Record 6 [1006] ----------
+Werwölfe sind richtige Nomaden, nehme ich an. Ich 
+hörte, dass unser Wolf in den Süden gezogen ist.<0xFF>
+Mein Cousin hat mir erzählt, man hätte unseren Werwolf 
+im Süden gesehen.<0xFE>
+
+---------- Record 7 [1007] ----------
+Drüben bei ___mondung_ hat irgendeine seltsame 
+Kultaktivität eingesetzt.<0xFF>
+Viele Leute fühlen sich sicherer, jetzt da der Werwolf 
+tot ist.<0xFF>
+Habt Ihr von dem Werwolf gehört, den ein %ra erlegt 
+hat?<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: v0c00y00.q tried to display text<0xFE>
+
+---------- Record 9 [1008] ----------
+.<0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error: v0c00y00.q tried to display text<0xFE>
+
+---------- Record 11 [1009] ----------
+.<0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+Clavicus Vile ist der perfekte Politiker im Reich des 
+Vergessens.<0xFF>
+Ihr werdet keinen daedrischen Fürsten finden, der 
+sorgfältiger auf seine Neutralität bedacht ist als 
+Clavicus Vile.<0xFE>
+
+---------- Record 13 [1012] ----------
+Dieser glattzüngige =contact_ ist im %di, in 
+__contact_.<0xFF>
+Sucht nach einem =contact_, wenn Ihr %di nach 
+__contact_ geht.<0xFE>
+
+---------- Record 14 [1014] ----------
+Angeblich steigert die Maske das Charisma des Trägers.
+<0xFE>
+
+---------- Record 15 [1020] ----------
+%qdt:<0xFC>
+ Clavicus Vile will, dass ich einen Werwolf<0xFC>
+ im Verlies von ___mondung_ töte.<0xFC>
+ Ein =contact_ namens _contact_<0xFC>
+ wird die nächsten =1stparton_ Tage über in<0xFC>
+ __contact_ in ___contact_<0xFC>
+ warten, um mir die Maske des Clavicus zu geben.<0xFC>
+<0xFE>
+
+---------- Record 16 [1030] ----------
+Ihr habt den Werwolf getötet<0xFD>
+ wie es Clavicus Vile befohlen hat.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+W0C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Ja, Macht ist ein anspielungsreiches, doch<0xFD>
+ eloquentes Ansinnen. Einer meiner Günstlinge<0xFD>
+ besitzt ein sehr altes Buch, Oghma Infinium<0xFD>
+ genannt, das dem Leser seiner Seiten große<0xFD>
+ Macht verleiht. Wenn Ihr einen gewissen<0xFD>
+ verkommenen Patrizier beseitigt, der mein<0xFD>
+ Missfallen erregt hat, werde ich eine Begegnung<0xFD>
+ zwischen Euch und dem Buch in die Wege leiten.<0xFD>
+ Könntet Ihr dem zustimmen?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Ihr antwortet ablehnend. Soll ich Euch so<0xFD>
+ verstehen, dass Ihr nach Macht verlangt<0xFD>
+ habt, sie aber umsonst erhalten möchtet?<0xFD>
+ Ihr hättet wohl besser nach Weisheit<0xFD>
+ streben sollen, denn sie käme Euch mehr<0xFD>
+ zustatten. Ich entbiete Euch einen<0xFD>
+ enttäuschten Abschiedsgruß.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Sehr gut. Die illustre Person, auf die ich<0xFD>
+ mich bezog, residiert in __palace_.<0xFD>
+ Für die Aufzeichnungen ist _enemy_<0xFD>
+ der Name Eures Opfers. Tötet %g2 und reist<0xFD>
+ nach ___contact_ weiter. Dort wird<0xFD>
+ Euch mein Diener _contact_ in einer<0xFD>
+ Bibliothek erwarten. Ich denke nicht, dass<0xFD>
+ es noch etwas bringen würde, diese<0xFD>
+ Unterhaltung fortzusetzen. Enttäuscht<0xFD>
+ mich nicht, %pcf, und die<0xFD>
+ Macht, nach der Ihr giert, soll Euch gehören.<0xFD>
+ <0xFE>
+
+---------- Record 3 [1003] ----------
+Hört zu, wenn Ihr %pcf seid,<0xFD>
+ dann geht zurück und tötet _enemy_<0xFD>
+ noch einmal. Hermaeus Mora sagt mir,<0xFD>
+ dass ich Euch das Buch nicht geben soll,<0xFD>
+ weil %g noch am Leben ist.<0xFD>
+ Tut mir leid, aber so ist es nun einmal.<0xFD>
+ <0xFE>
+
+---------- Record 4 [1004] ----------
+Ich habe Euch unterschätzt, %pcf.<0xFD>
+ Ich hatte Mora gesagt, Ihr würdet es nicht<0xFD>
+ schaffen, aber hier steht Ihr nun und ganz<0xFD>
+ %reg befindet sich wegen dem Tod<0xFD>
+ von _enemy_ in Aufruhr. Hier ist<0xFD>
+ wie versprochen das Buch. Denkt daran,<0xFD>
+ Ihr könnt es nur ein einziges Mal lesen.<0xFD>
+ Ich sehe Euch später, vielleicht.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Man sagt, _enemy_ hätte all %g3 Macht unmittelbar von 
+den Daedra selbst.<0xFF>
+_enemy_ muss eine Vereinbarung mit den Daedra 
+eingegangen sein. Niemand kann so viel Glück haben.
+<0xFC>
+<0xFE>
+
+---------- Record 6 [1006] ----------
+_enemy_ hat %reg sehr schnell verlassen. Ich schätze 
+,%g wurde von %g2 Vergangenheit eingeholt.<0xFF>
+Man kann die Daedra betrügen. _enemy_ hat das getan, %
+g musste zwar fliehen, ist aber noch am Leben.<0xFC>
+<0xFE>
+
+---------- Record 7 [1007] ----------
+Man erntet was man sät. _enemy_ soll versucht haben, 
+das Schicksal zu betrügen.<0xFF>
+Ich kann _enemy_ noch immer damit prahlen hören, wie %
+g die Daedra betrogen habe. Was für ein Narr!<0xFC>
+<0xFE>
+
+---------- Record 8 [1011] ----------
+Nur ein =contact_, der Umgang mit den Daedra pflegt.
+<0xFF>
+So ein =contact_, der eigentlich in __contact_ lebt.
+<0xFC>
+<0xFE>
+
+---------- Record 9 [1012] ----------
+Der Daedrafürst verbotenen Wissens und weisester aller 
+Höllenbewohner.<0xFF>
+Hermaeus Mora hat einen Verstand, der so alt ist wie 
+Tamriel. Und eine Körper aus Schleim.<0xFC>
+<0xFE>
+
+---------- Record 10 [1013] ----------
+Das Oghma Infinium ist das Buch des Wissens. Aber 
+Wissen kann in Vergessenheit geraten.<0xFF>
+Es ist dieses Buch, das seinem Leser einen stärkeren 
+Körper und fähigeren Verstand schenkt.<0xFC>
+<0xFE>
+
+---------- Record 11 [1020] ----------
+%qdt:<0xFC>
+ Der Daedrafürst Hermaeus Mora wünscht,<0xFC>
+ dass ich einen Magierkrieger töte, der<0xFC>
+ ihn betrogen hat. _enemy_ lebt<0xFC>
+ in __palace_. Sollte es mir<0xFC>
+ gelingen, in =1stparton_ oder weniger Tagen<0xFC>
+ in ___contact_ in __contact_<0xFC>
+ zu sein, werde ich für den Mord das Oghma<0xFC>
+ Infinium, das Buch des Wissens, erhalten.<0xFC>
+ _contact_ wird dort in<0xFC>
+ einer Bibliothek auf mich warten.<0xFC>
+<0xFE>
+
+---------- Record 12 [1030] ----------
+Hermaeus Mora wird zufrieden sein -<0xFD>
+ Ihr habt _enemy_ getötet.<0xFD>
+<0xFE>
+
+---------- Record 13 [1035] ----------
+Nein! Wartet! Ich schwöre, ich wollte Fürst<0xFD>
+ Mora bezahlen. Tötet mich nicht, ich flehe<0xFD>
+ Euch an! Hier, verschont mein Leben, und<0xFD>
+ bringt ihm diesen _magic_ zurück.<0xFD>
+ Als Zeichen meines guten Willens und Anzahlung<0xFD>
+ dessen, was ich schulde.<0xFD>
+ Ich bitte Euch, nehmt es!<0xFD>
+<0xFE>
+
+---------- Record 14 [1040] ----------
+Hmm, gut, danke für den _magic_,<0xFD>
+   nehme ich an ... Nun aber zurück zum Geschäft.
+<0xFD>
+<0xFE>
+
+---------- Record 15 [1045] ----------
+Ihr erzählt mir, dass Ihr diesen kleinen Wurm<0xFD>
+ habt leben lassen und bringt mir dieses erbärmliche
+<0xFD>
+ _magic_ statt _enemy_s<0xFD>
+ Blut an Euren Händen? Hermaeus Mora wird über<0xFD>
+ diese Neuigkeit sehr unerfreut sein.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+X0C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Wenn es Euch nichts ausmacht, mir eine<0xFD>
+ kleinen Gefallen zu erweisen, könnte<0xFD>
+ ich Eurem Besitz mit Hircines Ring<0xFD>
+ eine ganz ausgezeichnete Belohnung<0xFD>
+ hinzufügen. Ich habe ein Kind, das<0xFD>
+ offensichtlich mit all meinen Segnungen<0xFD>
+ unglücklich ist. Es braucht ... wie<0xFD>
+ lautet der Euphemismus? ... eine Lektion!<0xFD>
+ Eine sehr ernste Lektion. Klingt das<0xFD>
+ für Euch nach einem annehmbaren Pakt,<0xFD>
+ %pct?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Ich bin schwer enttäuscht %pct.<0xFD>
+<0xFF>
+ Selten werde ich beschworen und<0xFD>
+ noch seltener bin ich in der Lage,<0xFD>
+ eine Beschwörung auch zu beantworten.<0xFD>
+ Das war, um es frei heraus zu sagen,<0xFD>
+ eine Verschwendung meiner sehr<0xFD>
+ kostbaren Zeit.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Ah, gut. Dieses mein Kind ist ein<0xFD>
+ Wereber, der sein Lager an einem<0xFD>
+ Ort, der ___mondung_ genannt<0xFD>
+ wird, aufgeschlagen hat. Ihr solltet<0xFD>
+ keine Schwierigkeiten haben, es<0xFD>
+ zu finden. Nachdem Ihr ihn von<0xFD>
+ seinem offensichtlichen Elend erlöst<0xFD>
+ habt, was nicht länger als =1stparton_ Tage<0xFD>
+ einnehmen sollte, geht Ihr nach einem<0xFD>
+ __contact_ genannten Ort in<0xFD>
+ ___contact_ und sucht eine<0xFD>
+ Person namens _contact_ auf.<0xFD>
+ Wenn Ihr dort innerhalb der nächsten<0xFD>
+ =1stparton_ Tage eintrefft, und vorher den<0xFD>
+ Wereber erschlagen habt, wird %g Euch<0xFD>
+ den Ring von Hircine aushändigen. Es ist<0xFD>
+ wahrlich eine Freude, mit Euch Geschäfte<0xFD>
+ zu machen, %pct.<0xFD>
+ Viel Glück und lebt wohl.<0xFD>
+<0xFE>
+
+---------- Record 3 [1003] ----------
+Hört zu, %pcf,<0xFD>
+ Ihr und ich, wir beide wissen, dass<0xFD>
+ der Wereber noch atmet. Pakt ist Pakt!<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Willkommen, %pcf.<0xFD>
+ Ihr habt es geschafft. Hircine<0xFD>
+ ist von Euch beeindruckt, was<0xFD>
+ keine geringe Leistung ist.<0xFD>
+ Hier ist Hircines Ring, der<0xFD>
+ Euch versprochen wurde.<0xFD>
+ Achtet wohl darauf!<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Aus ___mondung_ %di von hier ertönt ein echt 
+scheußliches Quieken und Grunzen.<0xFF>
+Ich habe gehört, in ___mondung_ im %di würde sich 
+irgendein verrücktes Halbschwein aufhalten.<0xFC>
+<0xFE>
+
+---------- Record 6 [1006] ----------
+Dieses Schweinsvieh, das hier war, ist in den Norden 
+gerannt, als ob etwas hinter ihm her wäre.<0xFF>
+Ich frage mich, was einen Wereber so erschrecken kann, 
+dass er so wegläuft.<0xFC>
+<0xFE>
+
+---------- Record 7 [1007] ----------
+In letzter Zeit ist es um ___mondung_ herum wirklich 
+still.<0xFF>
+Ich frage mich, was mit dem Schweinsvieh passiert ist, 
+dass sich hier immer herumgetrieben hat.<0xFC>
+<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: x0c00y00.q tried to display text<0xFC>
+<0xFE>
+
+---------- Record 9 [1008] ----------
+.<0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error: x0c00y00.q tried to display text<0xFC>
+<0xFE>
+
+---------- Record 11 [1009] ----------
+.<0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+Der niederste der Daedrafürsten. Er ist ihr Meister 
+der Jagd.<0xFF>
+Es wird gesagt, Hircine sei der Schöpfer aller 
+Lykanthropen.<0xFC>
+<0xFE>
+
+---------- Record 13 [1012] ----------
+So ein sich seltsam aufführender =contact_ in 
+__contact_ %di von hier.<0xFF>
+Ein =contact_ mit diesem Namen war unlängst in  
+__contact_ %di von hier.<0xFC>
+<0xFE>
+
+---------- Record 14 [1013] ----------
+Ich habe keine Ahnung, was Hircines Ring bewirkt.
+<0xFD>
+<0xFE>
+
+---------- Record 15 [1020] ----------
+%qdt:<0xFC>
+ Als Gegenleistung für seinen Ring<0xFC>
+ hat mich der Daedrafürst Hircine<0xFC>
+ darum ersucht, einen Wereber in<0xFC>
+ ___mondung_ zu erlegen.<0xFC>
+ Der Wereber muss in =1stparton_ Tagen tot<0xFC>
+ und ich in in =1stparton_ Tagen zu<0xFC>
+ __contact_ in ___contact_<0xFC>
+ sein, um mich mit  _contact_,<0xFC>
+ eine, =contact_ zu treffen<0xFC>
+ und Hircines Ring zu erhalten.<0xFC>
+<0xFE>
+
+---------- Record 16 [1030] ----------
+Der Wereber ist tot<0xFD>
+wie Ihr dem Daedrafürsten<0xFD>
+Hircine versprochen habt.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+Y0C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Ihr wollt also Macht? Ja, viele<0xFD>
+ begehren Macht, ja, aber so wenige<0xFD>
+ wissen warum. Wollt Ihr Mehrunes' Klinge?<0xFD>
+ Ist was ganz besonderes, diese Klinge.<0xFD>
+ Sehr schön, ja, ja. Macht nur eine Sache<0xFD>
+ für mich und Ihr habt sie, mmmmh.<0xFD>
+ Ein Kind hab' ich, dass bestraft gehört,<0xFD>
+ ja. Ihr werdet das für die hübsche,<0xFD>
+ hübsche Klinge des Mehrunes tun, ja?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Dreck! %g Sterblichwesen sagt nein zu Mehrunes<0xFD>
+ Dagon! %g Sterblichwesen soll wissen, dass Zeit<0xFD>
+ für Dagon keine Rolle spielt, er denkt an<0xFD>
+ Beleidigungen, ja. Dunkel ist zu schwarz für<0xFD>
+ das Sterblichwesen, nein, ich ... werde ... das<0xFD>
+ nicht ... vergessen, %pcn.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Mmm, Sterblichwesen ist tapfer, gut, gut.<0xFD>
+ Jetzt auf nach ___mondung_,<0xFD>
+ tötet den Frostatronach da, er hält sich<0xFD>
+ für sicher, ha, wir schlachten das<0xFD>
+ Frostfleisch immer und überall! Tötet<0xFD>
+ es und geht nach _contact_<0xFD>
+ zu einem =contact_ in<0xFD>
+ __tavern_. Hat Mehrunes' gute,<0xFD>
+ gute Klinge für Euch. Tötet den Frostatronach<0xFD>
+ und besucht _contact_ vor<0xFD>
+ =1stparton_ Mundalnächten. zur Neige gehen. Geht
+<0xFD>
+ jetzt, %pcn. Dagon wartet.<0xFD>
+<0xFE>
+
+---------- Record 3 [1003] ----------
+Hallo, %pcn, will ich hoffen?<0xFD>
+ Ich bin _contact_. Ein kurzer<0xFD>
+ Ratschlag, wenn Ihr erlaubt: Mehrunes Dagon<0xFD>
+ mag wie eine geistlose Kröte wirken, er ist<0xFD>
+ aber keine. Er weiß, dass der Frostatronach<0xFD>
+ noch nicht tot ist, und Ihr tätet gut daran,<0xFD>
+ Euren Pakt mit ihm zu erfüllen.<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Ah, Ihr seid %pcn, ja?<0xFD>
+ Ich bin _contact_. Ich weiß,<0xFD>
+ dass Ihr erfolgreich eines von Mehrunes<0xFD>
+ Dagons entlaufenen Kindern zurechtgewiesen<0xFD>
+ habt. Ausgezeichnet. Nun, hier ist wie<0xFD>
+ versprochen Mehrunes' Klinge. Genießt<0xFD>
+ diese Waffe. Ich glaube nicht, dass wir<0xFD>
+ uns noch einmal begegnen. Lebt wohl.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Kalte Winde wehen aus Richtung ___mondung_ herüber.
+<0xFF>
+Es ist in letzter Zeit kälter geworden.<0xFE>
+
+---------- Record 6 [1006] ----------
+=contact_ ist hier durchgekommen und hat wie verrückt 
+irgendwas über einen %ra-Abenteurer herumgeschrien.
+<0xFF>
+Die Sterne von Mehrunes Dagon funkeln heute Nacht.
+<0xFE>
+
+---------- Record 7 [1007] ----------
+Es ist spürbar wärmer als in den letzten Tagen.<0xFF>
+Das Wetter ist nicht mehr so beißend kalt wie es 
+letztens war.<0xFE>
+
+---------- Record 8 [1008] ----------
+Error: y0c00y00.q tried to display text<0xFE>
+
+---------- Record 9 [1008] ----------
+.<0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error: y0c00y00.q tried to display text<0xFE>
+
+---------- Record 11 [1009] ----------
+.<0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+Mehrunes Dagon ist der Fürst der Zerstörung, der 
+gewalttätigste aller Daedra.<0xFF>
+Dagon erscheint wie ein tumber Wüstling, aber er ist 
+wirklich ziemlich gerissen.<0xFE>
+
+---------- Record 13 [1012] ----------
+_contact_ ist ein echt gruseliger =contact_. Ich sah %
+g2 in _tavern_.<0xFF>
+%di von hier ist ein Ort, der _tavern_ genannt wird. 
+Schaut mal dort.<0xFE>
+
+---------- Record 14 [1013] ----------
+Ich habe keine Ahnung, was Mehrunes' Klinge bewirkt.
+<0xFD>
+<0xFE>
+
+---------- Record 15 [1020] ----------
+%qdt:<0xFC>
+ Der daedrische Fürst Mehrunes Dagon<0xFC>
+ wünscht, dass ich einen Frostatronach<0xFC>
+ in ___mondung_ töte.<0xFC>
+ Nach seiner Vernichtung habe ich =1stparton_ Tage,
+<0xFC>
+ um _contact_ zu treffen<0xFC>
+ und Mehrunes' Klinge als Belohnung für<0xFC>
+ die Zerstörung des Frostatronachen in<0xFC>
+ seinem Namen zu erhalten. %g wird in<0xFC>
+ _tavern_ in __tavern_<0xFC>
+ auf mich warten.<0xFC>
+<0xFE>
+
+---------- Record 16 [1030] ----------
+Dagons Beute kehrt ins Reich des Vergessens zurück.
+<0xFC>
+<0xFF>
+<0xFE>
+
+________________________________________
+Z0C00Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Ich hätte wissen müssen, dass Ihr es seid.<0xFD>
+ Ich sollte auf diese Beschwörungen gar nicht<0xFD>
+ antworten. Nun, vielleicht ist es für eine<0xFD>
+ Larve nur natürlich, wenn er sich zu einer<0xFD>
+ Wespe entwickeln will. Sehr gut, %pcf,<0xFD>
+ ich werde Euch Macht gewähren, aber zuerst<0xFD>
+ müsst Ihr etwas für mich tun. Ich brauche<0xFD>
+ jemanden, der ein Attentat auf einen<0xFD>
+ gewissen lästigen niederen Adligen verübt.<0xFD>
+ Kann ich dabei auf Euch setzen?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Das ist auch gut. Ich habe besseres mit<0xFD>
+ meiner Zeit anzufangen als undankbaren,<0xFD>
+ faulen Straßenkindern eine Machtbasis<0xFD>
+ zu errichten.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Nun, das ist doch in jedem Fall schon etwas.<0xFD>
+ Ihr könnt diesen lästigen Würdenträger<0xFD>
+ _enemy_ in __palace_<0xFD>
+ vorfinden, sicher und behaglich in seiner<0xFD>
+ Residenz, wie er glaubt. Ich weiß nicht,<0xFD>
+ wie Ihr Euch Einlass verschaffen werdet,<0xFD>
+ aber vielleicht fällt Euch ja etwas ein.<0xFD>
+ Vielleicht. Wenn es Euch gelingt, Euch<0xFD>
+ nicht selbst zu töten, so geht nach<0xFD>
+ ___qgfriend_ und ich werde<0xFD>
+ es einzurichten wissen, dass ein Diener<0xFD>
+ Euch Eure neue Quelle der Macht, die<0xFD>
+ Ebenerzklinge, überbringt. Ich werde<0xFD>
+ meinen Diener _qgfriend_<0xFD>
+ bitten =1stparton_ Tage in __qgfriend_<0xFD>
+ zu warten. Verspätet Euch bitte nicht.<0xFD>
+ Das ist alles.<0xFD>
+<0xFE>
+
+---------- Record 3 [1003] ----------
+Nein, nein, nein, nein! Ihr tötet<0xFD>
+ erst den Ritter in __palace_,<0xFD>
+ und dann kommt Ihr zu mir.<0xFD>
+ %oth, Mephala hatte recht.<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Guten Tag, %pcf,<0xFD>
+ Ich bin _qgfriend_.<0xFD>
+<0xFF>
+Mephala hat mir gesagt, dass Ihr kommen könnt,<0xFD>
+ aber sie äußerte gewisse Zweifel daran, ob<0xFD>
+ Ihr die Begegnung mit _enemy_<0xFD>
+ überleben würdet. Nun, dann ist es ja eine<0xFD>
+ feine Sache, dass ich die Klinge mitgebracht<0xFD>
+ habe, meint Ihr nicht? Entschuldigt, wenn<0xFD>
+ Mephala etwas weniger freundlich zu Euch<0xFD>
+ gesprochen hat. Da _enemy_ jetzt<0xFD>
+ tot ist, sollte sie viel besserer Stimmung<0xFD>
+ sein. Und schon allein dafür danke ich Euch.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+_enemy_ sagt, %g könne %g3 Weg zum Hauptquartier der 
+Dunklen Bruderschaft finden.<0xFF>
+Die Dunkle Bruderschaft muss doch zittern, da _enemy_ 
+nun gegen sie vorgeht.<0xFE>
+
+---------- Record 6 [1006] ----------
+Die Dunkle Bruderschaft hat jemanden geschickt, um 
+_enemy_ zu töten, aber %g ist noch am Leben!<0xFF>
+Nach dem fehlgeschlagenen Attentat auf %g ist _enemy_ 
+aus __palace_ ausgezogen.<0xFE>
+
+---------- Record 7 [1007] ----------
+_enemy_ muss zu nahe dran gewesen sein, die 
+Nachtseitenzuflucht der Dunklen Bruderschaft zu 
+finden.<0xFF>
+Ich vermute, die Dunkle Bruderschaft hat von _enemy_ 
+und %g3 Absichten gehört.<0xFE>
+
+---------- Record 8 [1008] ----------
+Error z0c00y00.q tried to display text<0xFE>
+
+---------- Record 9 [1008] ----------
+.<0xFD>
+<0xFE>
+
+---------- Record 10 [1009] ----------
+Error z0c00y00.q tried to display text<0xFE>
+
+---------- Record 11 [1009] ----------
+.<0xFD>
+<0xFE>
+
+---------- Record 12 [1011] ----------
+_qgfriend_ ist dieser selbstherrliche =qgfriend_ , %g 
+in __qgfriend_ verkommt, %di von hier.<0xFF>
+_qgfriend_ ist der Name dieses =qgfriend_ %di von hier 
+in __qgfriend_.<0xFE>
+
+---------- Record 13 [1012] ----------
+_qgfriend_ ist einer von Mephalas Agenten in %reg und 
+agiert von __qgfriend_ aus.<0xFF>
+_qgfriend_  ist eine Schachfigur von Mephala: %g ist 
+ein =qgfriend_ in __qgfriend_.<0xFE>
+
+---------- Record 14 [1013] ----------
+Mephala ist die daedrische Regentin des Mordes und 
+Schutzherrin der Dunklen Bruderschaft.<0xFF>
+Mephala gehört zu den Fürsten im Reich des Vergessens; 
+ihre Sphäre ist der Mord.<0xFE>
+
+---------- Record 15 [1014] ----------
+Die Ebenerzklinge ist ein Artefakt mit vampirischer 
+Macht; sie entzieht<0xFD>
+ dem Opfer Lebenskraft und überträgt sie auf ihren 
+Besitzer.<0xFE>
+
+---------- Record 16 [1020] ----------
+%qdt:<0xFC>
+ Ich habe einen Pakt mit Mephala geschlossen,<0xFC>
+ einer der Daedrafürsten. Ich werde einen<0xFC>
+ Würdenträger namens _enemy_<0xFC>
+ töten, wofür sie mir ihr Artefakt, die<0xFC>
+ Ebenerzklinge, gewährt. Ihre Kontaktperson<0xFC>
+ _qgfriend_ wird =1stparton_ Tage lang in<0xFC>
+ __qgfriend_ in ___qgfriend_<0xFC>
+ auf mich warten. Die einzige weitere<0xFC>
+ Erschwernis besteht darin, dass sich<0xFC>
+ _enemy_, wie Mephala verriet,<0xFC>
+ hinter den Mauern von __palace_<0xFC>
+ versteckt. Es könnte schwierig werden,<0xFC>
+ %g2 zu erreichen.<0xFC>
+<0xFE>
+
+---------- Record 17 [1030] ----------
+Mephala wäre stolz;<0xFD>
+ _enemy_ ist tot.<0xFD>
+ Zeit, dass Ihr verschwindet.<0xFD>
+<0xFE>
+
+---------- Record 18 [1040] ----------
+Wer seid Ihr, und was macht Ihr hier drin?<0xFD>
+<0xFE>
+
+---------- Record 19 [1041] ----------
+Ihr herumschleichenden Assassinen seid doch alle<0xFD>
+ gleich. Darum habe ich mir einen wirksamen Schutz
+<0xFD>
+ besorgt. =bodyguard_! Aufwachen, Schweinebacke,<0xFD>
+ und bringt ihn um!<0xFD>
+<0xFF>
+<0xFE>
+
+Also schickt Meridia nun ihre Lakaien gegen mich aus.
+<0xFD>
+ Aber auch ich bin nicht ganz ohne Verbündete.<0xFD>
+ Zeigt Euch, Kinder des Vergessens!<0xFD>
+ Dient mir in der Stunde der Not!<0xFD>
+ <0xFF>
+<0xFE>
+

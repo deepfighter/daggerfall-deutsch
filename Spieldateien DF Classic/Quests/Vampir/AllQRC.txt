@@ -1,0 +1,1679 @@
+________________________________________
+P0A01L00.QRC
+________________________________________
+Record n°0----------
+Blut in Ewigkeit %pcn,<0xFC>
+ <0xFC>
+     wir beobachten Euch nun schon seit einiger<0xFC>
+ Zeit. Tatsächlich haben wir Euch seit der 
+Stunde<0xFC>
+ im Auge, in der Ihr den unheiligen Segen des<0xFC>
+ Vampirismus empfangen habt. Ihr hattet wohl 
+Eure<0xFC>
+ seltsamen und ungeschickten Augenblicke, aber 
+im<0xFC>
+ Ganzen missfällt uns der Vampir nicht, der aus<0xFC>
+ Euch geworden ist.<0xFC>
+ <0xFC>
+     Es ist an der Zeit, von Eurem Erbe zu<0xFC>
+ erfahren, der stolzen Familie der %vam,<0xFC>
+ bedeutendster aller vampirischen Blutlinien.<0xFC>
+ Zum Beweis Eurer treuen Gefolgschaft verlangen<0xFC>
+ wir jedoch eine Opfergabe.<0xFC>
+ <0xFC>
+     Ganz in Eurer Nähe hält sich ein 
+Angehöriger<0xFC>
+ einer geringerer Blutlinie auf. Geht zu dem 
+Ort,<0xFC>
+ den man ___mondung_ nennt und tötet<0xFC>
+ =monster_, diese verdorbene Beleidigung<0xFC>
+ unseres Geschlechts. Kehrt nach  __questgiver_<0xFC>
+ in ___questgiver_ zurück, wenn die Tat<0xFC>
+ vollbracht ist, und sucht mich auf. Ihr werdet<0xFC>
+ mich sogleich erkennen: haltet nach einem<0xFC>
+ =questgiver_ Ausschau.<0xFC>
+ <0xFC>
+     Ich werde =1stparton_ Tage warten,<0xFC>
+ %pcf. Danach werde ich weiterziehen.<0xFC>
+ Ich hoffe, wir verpassen uns nicht.<0xFC>
+ <0xFC>
+  _questgiver_<0xFD>
+<0xFE>
+
+Record n°1----------
+Error: Questtext 1001 Called!<0xFE>
+
+Record n°2----------
+Error: Questtext 1002 Called!<0xFE>
+
+Record n°3----------
+Seht Ihr, ich will nicht unhöflich<0xFD>
+ sein, aber ich erwarte noch jemanden,<0xFD>
+ also verschwindet.<0xFD>
+
+Record n°4----------
+Exzellent, %pcf. Ihr werdet einen<0xFD>
+ ausgezeichneten Angehörigen der %vam<0xFD>
+ abgeben. Willkommen in der Familie.<0xFD>
+ Man kennt mich als _questgiver_.<0xFD>
+ Die %vam werden Euren Fortschritt<0xFD>
+ weiterhin beobachten und Euch von Zeit<0xFD>
+ zu Zeit in Familienangelegenheiten<0xFD>
+ kontaktieren. Hier ist ein Ring, der Euch<0xFD>
+ als einen der unsrigen kennzeichnet.<0xFD>
+<0xFE>
+
+Record n°5----------
+Man sagt, ___mondung_ werde wieder von irgendjemandem 
+bewohnt ... oder irgendetwas.<0xFF>
+Drüben bei __questgiver_ ist neuerdings ein seltsamer 
+=questgiver_.<0xFE>
+
+Record n°6----------
+%god sei Dank hat dieser seltsame =questgiver_ 
+__questgiver_ verlassen.<0xFF>
+Es scheint, als wäre ___mondung_ wieder aufgegeben 
+worden.<0xFE>
+
+Record n°7----------
+Viele Leute fragen sich, was für ein Wesen es 
+geschafft haben könnte, _monster_ zu erschlagen.<0xFF>
+Ich frage mich, ob _monster_ nicht von etwas noch viel 
+Schlimmerem getötet wurde.<0xFE>
+
+Record n°8----------
+Error: Questtext 1008 Called. Not sposed to be.<0xFE>
+
+Record n°9----------
+Error: Questtext 1009 Called. Not sposed to be.<0xFE>
+
+Record n°10----------
+_questgiver_? Nie von %g2 gehört. Lebt %g hier in der 
+Gegend?<0xFE>
+
+Record n°11----------
+Dieser =questgiver_ ist ein Mentor der vampirischen 
+Blutlinie %vam.<0xFF>
+_questgiver_ ist ein stolzer und fähiger Angehöriger 
+der %vam-Blutlinie.<0xFE>
+
+Record n°12----------
+%qdt:<0xFC>
+ Ich erhielt einen Brief von einem Angehörigen 
+meiner<0xFC>
+ "Familie". Mir wurde aufgetragen, einen 
+Abkömmling<0xFC>
+ aus geringerer Blutlinie, vermutlich keinen der<0xFC>
+ %vam, an einem Ort namens ___mondung_<0xFC>
+ zu töten. Danach soll ich nach ___questgiver_<0xFC>
+ reisen und im __questgiver_ einen<0xFC>
+ =questgiver_ namens _questgiver_ treffen,<0xFC>
+ bevor %g in =1stparton_ Tagen den Ort verlässt.<0xFC>
+<0xFE>
+
+Record n°13----------
+Ein mageres, bleiches Kind überreicht<0xFD>
+ Euch einen Brief und stürzt davon.<0xFD>
+<0xFE>
+
+Record n°14----------
+Ihr habt den Vampir<0xFD>
+ =monster_ getötet.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+P0B00L01.QRC
+________________________________________
+Record n°0----------
+Habt Ihr ein paar freie Nächte<0xFD>
+ für die Angelegenheiten der %vam?<0xFD>
+<0xFE>
+
+Record n°1----------
+Ein "Nein" war nicht die Antwort,<0xFD>
+ die ich erwartet hätte. Versucht,<0xFD>
+ zukünftig mehr Zeit und Mühen für<0xFD>
+ die %vam-Familie aufzubringen,<0xFD>
+ Welpe. Ihr würdet nicht wünschen,<0xFD>
+ dass sie Euch den Rücken kehrt.<0xFD>
+<0xFE>
+
+Record n°2----------
+%pcf, Ihr müsst einen Brief an<0xFD>
+ einen Verbündeten der %vam<0xFD>
+ überbringen. _pawn_ wird<0xFD>
+ nicht länger als =1stparton_ Nächte im<0xFD>
+ __pawn_ in ___pawn_ auf<0xFD>
+ Euch warten. Lasst diese Frist<0xFD>
+ nicht verstreichen! Ich erwarte Euch<0xFD>
+ in =1stparton_ Nächten wieder hier zurück.<0xFD>
+ Lebt wohl.<0xFD>
+<0xFE>
+
+Record n°3----------
+Ich bin erst wieder an einem<0xFD>
+ Gespräch mit Euch interessiert,<0xFD>
+ wenn sich mein Brief in den<0xFD>
+ verschwitzten Händen von<0xFD>
+ _pawn_ befindet,<0xFD>
+ %pcf.<0xFD>
+<0xFE>
+
+Record n°4----------
+Ich danke Euch für die umgehende<0xFD>
+ Überbringung meines Briefes, %pcf.<0xFD>
+ Er war ziemlich wichtig und ich<0xFD>
+ anderweitig beschäftigt. Nehmt<0xFD>
+ _reward_ als Geschenk für<0xFD>
+ einen gut ausgeführten Auftrag.<0xFD>
+<0xFE>
+
+Record n°5----------
+Dieser =pawn_ im __pawn_ wartet auf jemanden. 
+Jemanden, der des Nachts eintrifft.<0xFF>
+Man sagt, der %t würde endlich etwas gegen diese 
+Vampirplage unternehmen.<0xFF>
+<0xFE>
+
+Record n°6----------
+Dieser nervöse =pawn_ hat __pawn_ endlich verlassen. 
+Hat wohl %g3 nächtliches Treffen verpasst.<0xFF>
+Dieser =vampire_ im __vampire_ hat irgendetwas über 
+diesen %ra gemurmelt, mit dem %g des öfteren zusammen 
+gesehen wird.<0xFF>
+<0xFE>
+
+Record n°7----------
+Der %rt hat anscheinend seine Meinung zur Existenz von 
+Vampiren in %reg geändert.<0xFF>
+Der %rt wollte nachts eigentlich mehr Wachen 
+aufstellen, hat sich dann aber dagegen 
+entschieden.<0xFF>
+<0xFE>
+
+Record n°8----------
+Ich grüße Euch, %pcf. Ich hoffe, _pawn_ hat der 
+Höflichkeit Genüge getan.<0xFE>
+
+Record n°9----------
+Als ich Euch zu _pawn_<0xFD>
+ geschickt habe, erwartete ich<0xFD>
+ bereits, dass Ihr zu %g2 geht, %pcf<0xFD>
+ Macht mich nicht ... wütend.<0xFD>
+<0xFE>
+
+Record n°10----------
+Ja, mein Name ist _pawn_.<0xFD>
+ I-Ihr müsst %pcn sein.<0xFD>
+ Sagt _vampire_, dass<0xFD>
+ ich mich um alles kümmern werde.<0xFD>
+ Lasst %g bitte wissen, dass<0xFD>
+ ich loyal bin. Es hat sich nichts<0xFD>
+ geändert. Ich danke Euch. Ich werde<0xFD>
+ sicherstellen, dass alles gut läuft.<0xFD>
+<0xFE>
+
+Record n°11----------
+_vampire_?  Ein charmanter =vampire_, der sich im 
+__vampire_ aufhält, glaube ich.<0xFF>
+_vampire_ ist dieser =vampire_ im __vampire_.<0xFE>
+
+Record n°12----------
+_vampire_ ist ein Vampir der %vam.<0xFF>
+_vampire_ ist ein Mentor, ein ziemlich junger 
+Angehöriger der %vam-Blutlinie.<0xFE>
+
+Record n°13----------
+_pawn_,<0xFC>
+ <0xFC>
+     Wir haben erfahren, dass es der<0xFC>
+ %t erneut in Betracht zieht, die<0xFC>
+ Anzahl der nächtlichen Patrouillen in<0xFC>
+ %reg zu erhöhen, um den ungeklärten<0xFC>
+ Angriffen entgegenzuwirken. %t<0xFC>
+ %rt wird einen Besucher der %vam<0xFC>
+ empfangen, damit sich diese Situation<0xFC>
+ vernünftig lösen lässt.<0xFC>
+ <0xFC>
+     Bitte sorgt dafür, dass diese Ange-<0xFC>
+ legenheit der ursprünglichen Vereinbarung<0xFC>
+ entsprechend geregelt wird. Den %vam<0xFC>
+ gefällt es nicht, sich fortwährend demselben<0xFC>
+ potentiellen Problem widmen zu müssen.<0xFC>
+ <0xFC>
+     Die Familie des %t erfreut sich<0xFC>
+ übrigens bester Gesundheit. Das ist kein<0xFC>
+ Zufall. Und auch kein Zustand, der sich<0xFC>
+ nicht ändern ließe.<0xFC>
+ <0xFC>
+ - _vampire_<0xFD>
+<0xFE>
+
+Record n°14----------
+_pawn_ ist ein nervöser =pawn_ im __pawn_, %di von 
+hier.<0xFF>
+_pawn_ ist der Name dieses =pawn_, den ich im __pawn_ 
+gesehen habe. Das ist %di von hier.<0xFF>
+<0xFE>
+
+Record n°15----------
+_pawn_ ist eine Spielfigur der %vam-Vampire, der aus 
+dem __pawn_ operiert.<0xFF>
+Dieser =pawn_ ist ein Verbündeter der %vam-Vampire - 
+%g lebt im __pawn_.<0xFF>
+<0xFE>
+
+Record n°16----------
+%pcn,<0xFC>
+ <0xFC>
+     die %vam rufen Euch nach<0xFC>
+ ___vampire_. Sucht<0xFC>
+ mich dort auf und zeigt diesen<0xFC>
+ Brief vor.<0xFC>
+ <0xFC>
+ Mit sterbendem Atem,<0xFC>
+ _vampire_<0xFD>
+<0xFE>
+
+Record n°17----------
+Ihr habt einen Brief erhalten.<0xFD>
+<0xFE>
+
+Record n°18----------
+%qdt:<0xFC>
+ _vampire_ von den %vam im<0xFC>
+ __vampire_, ___vampire_<0xFC>
+ hat mich losgeschickt, um einen Brief<0xFC>
+ zu einem =pawn_ mit dem<0xFC>
+ unvorteilhaften Namen _pawn_<0xFC>
+ in ___pawn_ zu bringen. Es ist<0xFC>
+ anscheind von großer Wichtigkeit, dass<0xFC>
+ ich mich innerhalb von =1stparton_ Nächten<0xFC>
+ wieder mit %g2 im __pawn_ treffe.<0xFC>
+<0xFE>
+
+Record n°19----------
+%qdt:<0xFC>
+ _vampire_ aus ___vampire_<0xFC>
+ hat mich in einer Angelegenheit der %vam<0xFC>
+ zum __vampire_ gerufen.<0xFC>
+ <0xFF>
+<0xFE>
+
+________________________________________
+P0B00L03.QRC
+________________________________________
+Record n°0----------
+Kann ich Euch für eine<0xFD>
+ gefährliche Mission zum höheren<0xFD>
+ Ruhm der %vam interessieren?<0xFD>
+<0xFE>
+
+Record n°1----------
+Ihr wollt es einem anderen Angehörigen<0xFD>
+ der %vam überlassen und auf die<0xFD>
+ Ehre verzichten? Ganz wie Ihr wünscht,<0xFD>
+ doch ich muss zugeben, dass mich Euer<0xFD>
+ Ungehorsam enttäuscht.<0xFD>
+<0xFE>
+
+Record n°2----------
+Ihr seid wunderbar gehorsam, %pcf.<0xFD>
+ Ein rivalisierender Vampir hat sich<0xFD>
+ in meinem Territorium niedergelassen.<0xFD>
+ Ihr werdet ihn töten, solltet aber<0xFD>
+ mit Bedacht vorgehen, %pcf. Ein<0xFD>
+ vampirischer Ältester ist selbst dann<0xFD>
+ ein nicht zu unterschätzender Gegner,<0xFD>
+ wenn er aus einem den %vam<0xFD>
+ unterlegenen Clans stammt. Zieht nicht<0xFD>
+ unvorbereitet in diesen Kampf. Der<0xFD>
+ Vampir trägt den Namen _vampname_,<0xFD>
+ sein neuer Unterschlupf wird ___mondung_<0xFD>
+ genannt. Er ist dafür bekannt, übermäßig<0xFD>
+ stolz auf seine aus der Haut seiner Opfer<0xFD>
+ gemachte  _vampproof_ zu sein.<0xFD>
+ Bringt sie mit Euch zurück. Ich werde Euch<0xFD>
+ in den nächsten =1stparton_ Nächten erwarten.<0xFD>
+ Lasst Euch nicht töten, %pcf.<0xFD>
+<0xFE>
+
+Record n°3----------
+Habt Ihr vielleicht gehofft,<0xFD>
+ _vampname_ würde<0xFD>
+ Selbstmord begehen? Unwahrscheinlich.<0xFD>
+ Ihr müsst ihm den Tod bringen.<0xFD>
+<0xFE>
+
+Record n°4----------
+Willkommen zurück, %pcf, mein<0xFD>
+ Kind. Seltsam, ich war tatsächlich<0xFD>
+ etwas um Euer Wohlergehen besorgt.<0xFD>
+ Wie absurd - Sentimentalität bei einem<0xFD>
+ Vampir der %vam! Ich überbringe<0xFD>
+ Euch die Glückwünsche der %vam-Ältesten.<0xFD>
+ Sie hießen mich, Euch diesen _reward_<0xFD>
+ zu geben. Haltet es nicht für so etwas<0xFD>
+ abgeschmacktes wie Bezahlung. Es ist<0xFD>
+ nur ein Geschenk von Eurer Familie.<0xFD>
+<0xFE>
+
+Record n°5----------
+In  ___mondung_ ist einiges los gewesen, obwohl es 
+seit Jahren verlassen liegt.<0xFF>
+Dieser _vampname_ ist ein Aristokrat. Sagt, %g würde 
+in ___mondung_ und ganz %reg aufräumen.<0xFF>
+<0xFE>
+
+Record n°6----------
+_vampname_ ist endlich aus ___mondung_ ausgezogen, 
+hörte ich. Ist kein Platz für einen 
+Aristokraten.<0xFF>
+Nun, da _vampname_ aus ___mondung_ ausgezogen ist, 
+wird %g oft düben im Palast gesehen.<0xFF>
+<0xFE>
+
+Record n°7----------
+Es hat sich herausgestellt, dass dieser nette 
+_vampname_ ein Vampir war! Ich hatte ja keine Ahnung!
+<0xFF>
+%god sei Dank hat dieser wunderbare %ra-Söldner den 
+Vampir in ___mondung_ getötet.<0xFF>
+<0xFE>
+
+Record n°8----------
+Grüße, %pcf. Ich hoffe Euch gefällt Euer neuer  
+_reward_.<0xFE>
+
+Record n°9----------
+_vampname_ wandelt noch<0xFD>
+ immer durch die Nacht, %pcf.<0xFD>
+ Ihr seid diesen Auftrag auf<0xFD>
+ inakezptable Weise angegangen.<0xFD>
+ Die gesamte %vam-Familie ist<0xFD>
+ von Euch ... enttäuscht.<0xFD>
+<0xFE>
+
+Record n°10----------
+%pcn,<0xFC>
+ <0xFC>
+     Ich fürchte, die %vam haben<0xFC>
+ ein potentielles Problem. Kommt baldigst<0xFC>
+ zu mir nach ___vampire_.<0xFC>
+ <0xFC>
+ Im Tode,<0xFC>
+ _vampire_<0xFD>
+<0xFE>
+
+Record n°11----------
+%g ist ein sehr netter, intelligenter =vampire_ im 
+__vampire_.<0xFF>
+_vampire_ ist dieser nette =vampire_, den Ihr im 
+__vampire_, %di von hier, finden könnt.<0xFF>
+<0xFE>
+
+Record n°12----------
+_vampire_ ist ein Vampir der %vam-Blutlinie.<0xFF>
+_vampire_ ist ein junger Vampir der %vam, der sogar 
+noch jüngere Vampire unterrichtet.<0xFF>
+<0xFE>
+
+Record n°13----------
+Die _vampproof_ von _vampname_ sind aus eigenartig 
+bleichem Leder.<0xFE>
+
+Record n°14----------
+Error -- 1015 is being displayed<0xFE>
+
+Record n°15----------
+Ihr habt einen Brief erhalten.<0xFE>
+
+Record n°16----------
+Ich bin schon einmal vom Tode<0xFD>
+ wiedergekehrt. Ich werde es wieder<0xFD>
+ tun. Und sobald ich zurück bin,<0xFD>
+ werde ich Euch und _vampire_<0xFD>
+ als die widerlichen Blutegel, die<0xFD>
+ Ihr seid, zur Strecke bringen!<0xFD>
+<0xFE>
+
+Record n°17----------
+%qdt:<0xFC>
+   _vampire_ von ___vampire_<0xFC>
+ hat mich in Angelegenheiten der %vam<0xFC>
+ zum __vampire_ gerufen.<0xFC>
+<0xFE>
+
+Record n°18----------
+%qdt:<0xFC>
+ _vampire_ hat mich<0xFC>
+ nach ___mondung_ geschickt,<0xFC>
+ um dort einen _vampname_ genannten<0xFC>
+ Vampir-Ältesten zu töten. Nach dem<0xFC>
+ Gemetzel soll ich seine besonderen<0xFC>
+ _vampproof_ als Beweis der Tat<0xFC>
+ mitnehmen und innerhalb der nächsten<0xFC>
+ =1stparton_ Nächte zum __vampire_<0xFC>
+ zurückkehren.<0xFC>
+<0xFF>
+<0xFE>
+
+________________________________________
+P0B00L04.QRC
+________________________________________
+Record n°0----------
+Error: Questtext 1000 called.<0xFE>
+
+Record n°1----------
+Error: Questtext 1001 called.<0xFE>
+
+Record n°2----------
+Error: Questtext 1002 called.<0xFE>
+
+Record n°3----------
+Liegt da etwa eine Spur des Bedauerns auf<0xFD>
+ Eurer Stirn, %pcf? Ich verstehe<0xFD>
+ das sehr gut. Auch ich musste bereits zu<0xFD>
+ mehr als einer Gelegenheit einen meiner<0xFD>
+ Abkömmlinge erschlagen. Ihr müsst lernen,<0xFD>
+ über dieser gefühlsseligen, sterbliche<0xFD>
+ Rücksicht gegenüber der Vermehrung erhaben zu<0xFD>
+ sein. Was Ihr tun musstet, ist bedauernswert,<0xFD>
+ aber Ihr müsst Euer Blut beruhigen, um<0xFD>
+ wahrhaftig zu einem der %vam zu<0xFD>
+ werden. Ihr habt einen Schritt in die richtige<0xFD>
+ Richtung getan, für den Ihr Gratulation 
+verdient.<0xFD>
+<0xFE>
+
+Record n°4----------
+Das Grab von =vampire_ muss ausgeraubt worden sein. Es 
+ist ... komplett verwüstet.<0xFF>
+In letzter Zeit ist nachts um ___mondung_ herum 
+einiges los.<0xFF>
+<0xFE>
+
+Record n°5----------
+Ich habe mir neulich ein Geschwür eingefangen ... aber 
+es ist verheilt<0xFF>
+Ich hatte gerade eine dreistündige Unterhaltung über 
+das Wetter.<0xFF>
+Das Wetter ist für diese Jahreszeit recht 
+normal.<0xFF>
+Es scheint für diese Jahreszeit ein wenig kühl in %cn 
+zu sein.<0xFF>
+Es ist wirklich um einiges wärmer als letztes Jahr um 
+diese Zeit.<0xFF>
+Meine Großtante reist zu einem Spezialisten jenseits 
+der Bucht.<0xFF>
+Es ist immer wieder interessant, um welche Zeit es 
+hier dunkel wird.<0xFF>
+Wir sollten hier irgendwo eine Kriegsstatue 
+errichten.<0xFF>
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß 
+ja nicht.<0xFF>
+Ich hatte letzte Nacht den verrücktesten Traum.<0xFF>
+Ich habe neulich einen großartigen Witz gehört. 
+%jok<0xFF>
+%jok Das war vielleicht ein Witz.<0xFF>
+%jok Könnt Ihr mir den erklären?<0xFF>
+Das Rechtssystem in %reg hat seine guten und seine 
+schlechten Seiten.<0xFF>
+<0xFE>
+
+Record n°6----------
+Ich habe mir neulich ein Geschwür eingefangen ... aber 
+es ist verheilt<0xFF>
+Ich hatte gerade eine dreistündige Unterhaltung über 
+das Wetter.<0xFF>
+Das Wetter ist für diese Jahreszeit recht 
+normal.<0xFF>
+Es scheint für diese Jahreszeit ein wenig kühl in %cn 
+zu sein.<0xFF>
+Es ist wirklich um einiges wärmer als letztes Jahr um 
+diese Zeit.<0xFF>
+Meine Großtante reist zu einem Spezialisten jenseits 
+der Bucht.<0xFF>
+Es ist immer wieder interessant, um welche Zeit es 
+hier dunkel wird.<0xFF>
+Wir sollten hier irgendwo eine Kriegsstatue 
+errichten.<0xFF>
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß 
+ja nicht.<0xFF>
+Ich hatte letzte Nacht den verrücktesten Traum.<0xFF>
+Ich habe neulich einen großartigen Witz gehört. 
+%jok<0xFF>
+%jok Das war vielleicht ein Witz.<0xFF>
+%jok Könnt Ihr mir den erklären?<0xFF>
+Das Rechtssystem in %reg hat seine guten und seine 
+schlechten Seiten.<0xFF>
+<0xFE>
+
+Record n°7----------
+Error: Questtext 1008 Called<0xFE>
+
+Record n°8----------
+Error: Questtext 1009 Called<0xFE>
+
+Record n°9----------
+                     __vamp_<0xFC>
+                      ___vamp_<0xFC>
+ <0xFC>
+ <0xFC>
+ Blut in Ewigkeit %pcn,<0xFC>
+ <0xFC>
+     Vielleicht erinnert Ihr Euch eines<0xFC>
+ Kriegers, den Ihr einst getroffen habt,<0xFC>
+ =vampire_? Stramm, saftig, etwas dünnes<0xFC>
+ Blut, aber alles in allem eine erinnerungs-<0xFC>
+ würdige Mahlzeit. Nun, %g ist aus dem<0xFC>
+ Grabe zurückgekehrt.<0xFC>
+ <0xFC>
+     Die %vam stehen der Existenz Eures<0xFC>
+ Sprösslings mit gemischten Gefühlen entgegen.<0xFC>
+ Sucht mich auf und wir unterreden uns in<0xFC>
+ dieser Angelegenheit.<0xFC>
+ <0xFC>
+ <0xFC>
+                   Euer im Tode,<0xFC>
+ <0xFC>
+                    _vamp_<0xFC>
+<0xFE>
+
+Record n°10----------
+Ein bleicher junger Knabe drückt<0xFD>
+ Euch einen Brief in die Hand und<0xFD>
+ verschwindet flink wie eine Ratte.<0xFD>
+<0xFE>
+
+Record n°11----------
+%qdt:<0xFC>
+ _vamp_ von den %vam hat<0xFC>
+ mir einen Brief geschickt, in dem<0xFC>
+ er um meine unverzügliche Anwesenheit<0xFC>
+ an einem Ort namens __vamp_<0xFC>
+ in ___vamp_ ersucht.<0xFC>
+<0xFE>
+
+Record n°12----------
+Ah, einen guten Abend Euch, Blut von meinem 
+Blut.<0xFD>
+ Wir haben ein Problem, Ihr und ich. Eine Eurer<0xFD>
+ früheren Mahlzeiten ist aus dem Grab 
+zurückgekehrt.<0xFD>
+ =vampire_? Ich weiß nicht, ob Euch der Name<0xFD>
+ etwas sagt. Auf jeden Fall haben wir %g2 
+beobachtet,<0xFD>
+ so wie wir Euch beobachtet haben, um zu sehen, 
+ob<0xFD>
+ %g3 Reaktion auf die Unsterblichkeit %g3 
+Blutlinie<0xFD>
+ würdig ist. Sie war es nicht. Mit jedem Tropfen 
+Blut,<0xFD>
+ den %g trinkt, vervielfacht sich %g3 Durst um 
+das<0xFD>
+ Zehnfache. Ein tobender, junger Vampir, der frei 
+in<0xFD>
+ dieser Region umherstreift, stellt eine 
+Bedrohung<0xFD>
+ aller zivilisierten vampirischen Geschäfte dar.<0xFD>
+ Geht zum ___mondung_ und entledigt Euch dieses<0xFD>
+ lästigen Kindes von Euch. Es ist eine 
+unangenehme<0xFD>
+ Angelegenheit, aber es ist auch Eure Pflicht. 
+Ich<0xFD>
+ erwarte, Euch innerhalb von =queston_ Nächten<0xFD>
+ nach vollbrachter Tat wiederzusehen. Lebt wohl.<0xFD>
+<0xFE>
+
+Record n°13----------
+%dat:<0xFC>
+ _vamp_ hat mich nach<0xFC>
+ ___mondung_ geschickt,<0xFC>
+ wo ich =vampire_ töten soll,<0xFC>
+ einen Vampir, den ich erschaffen<0xFC>
+ habe. Ich habe =queston_ Nächte,<0xFC>
+ um dieser Verpflichtung nachzukommen und<0xFC>
+ mich im ___vamp_ zurückzumelden.<0xFC>
+<0xFE>
+
+Record n°14----------
+Ihr spart besser nicht mit der Peitsche,<0xFD>
+ mein Schöpfer. Sonst verderbt Ihr mich.<0xFD>
+<0xFF>
+Ich kenne Euch. Ihr wart das letzte<0xFD>
+ Gesicht, das ich sah, beschmiert mit<0xFD>
+ dem Blut meines Körpers. Kommt,<0xFD>
+ mein lieber Schöpfer, umarmen wir uns.<0xFD>
+<0xFF>
+Euer Gesicht ist das Gesicht in meinen<0xFD>
+ Alpträumen, %pcn. Ihr seid<0xFD>
+ derjenige, der mich zu diesem Unleben<0xFD>
+ verdammt hat, ist es nicht so?<0xFD>
+<0xFF>
+<0xFE>
+
+Record n°15----------
+=vampire_ stirbt<0xFD>
+ schließlich einen wahren<0xFD>
+ Tod. Ihr müsst zurückkehren<0xFD>
+ und _vamp_ berichten,<0xFD>
+ dass die Tat vollbracht ist.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+P0B00L06.QRC
+________________________________________
+Record n°0----------
+Error: Questtext 1000 Called<0xFE>
+
+Record n°1----------
+Error: Questtext 1001 Called<0xFE>
+
+Record n°2----------
+Error: Questtext 1002 Called<0xFE>
+
+Record n°3----------
+Error: Questtext 1003 Called<0xFE>
+
+Record n°4----------
+Wie niedlich. Habt Ihr das gelesen?<0xFD>
+ Aber natürlich habt Ihr das. Was für ein<0xFD>
+ Schund. Es gab da einmal einen anderen<0xFD>
+ Magier, der ähnliche Ansichten über die<0xFD>
+ Vampirstämme vertrat; ich erinnere mich<0xFD>
+ jedoch nicht an seinen Namen.<0xFD>
+ <0xFD>
+ Das habt Ihr gut gemacht, Jungchen.<0xFD>
+ Sehr gut sogar.<0xFD>
+<0xFE>
+
+Record n°5----------
+_mage_ befasst sich unten im ___mondung_ mit furchtbar 
+wichtiger Arbeit.<0xFF>
+___mondung_ ist ein düsterer Ort, aber gut für _mage_, 
+um in Ruhe zu arbeiten.<0xFF>
+<0xFE>
+
+Record n°6----------
+=mage_s Arbeit über Vampire hat angeblich die 
+Aufmerksamkeit der Magiergilde auf sich gezogen.<0xFF>
+Der Erzmagister der Magiergilde selbst studiert die 
+Arbeit von _mage_.<0xFF>
+<0xFE>
+
+Record n°7----------
+Tamriel wird wahrscheinlich nie erfahren, woran der 
+arme _mage_ so hart gearbeitet hat.<0xFF>
+Man sagt, _mage_ wurde ermordet, weil %g an einem 
+Talisman gegen Daedra gearbeitet habe.<0xFF>
+<0xFE>
+
+Record n°8----------
+Error: Questtext 1008 Called. Whoopsy<0xFE>
+
+Record n°9----------
+Error: Questtext 1009 Called. My Bad<0xFE>
+
+Record n°10----------
+                      __vamp_<0xFC>
+                       ___vamp_<0xFC>
+ <0xFC>
+ <0xFC>
+ Blut in Ewigkeit, %pcn,<0xFC>
+ <0xFC>
+     Diese wankelmütigen, unwissenden<0xFC>
+ Barbaren, die sich selbst die Magiergilde<0xFC>
+ nennen, haben sich erneut in ein ziemlich<0xFC>
+ sinnloses Unterfangen gestürzt. Dieses Mal<0xFC>
+ haben sie jedoch möglicherweise versehentlich<0xFC>
+ einen Pfad eingeschlagen, der die Schatten<0xFC>
+ lichten und zur Enthüllung der Existenz der<0xFC>
+ %vam führen könnte. Auch wenn es<0xFC>
+ unvorstellbar erscheint, dass die Magiergilde<0xFC>
+ tatsächlich etwas derartiges zustande<0xFC>
+ brächte, müssen wir für eine solche<0xFC>
+ Eventualität Vorkehrungen treffen.<0xFC>
+  <0xFC>
+      Sucht mich so schnell wie möglich am<0xFC>
+ oben erwähnten Ort auf.<0xFC>
+ <0xFC>
+                      Euer im Tode,<0xFC>
+ <0xFC>
+ <0xFC>
+                      _vamp_<0xFC>
+<0xFE>
+
+Record n°11----------
+%qdt:<0xFC>
+ Ich habe einen Brief von<0xFC>
+ _vamp_ erhalten,<0xFC>
+ einem der %vam<0xFC>
+ in ___vamp_.<0xFC>
+ Ich soll %g2 so schnell wie<0xFC>
+ möglich an einem Ort namens<0xFC>
+ __vamp_ treffen.<0xFC>
+<0xFE>
+
+Record n°12----------
+Guten Abend, Blutsverwandter.<0xFD>
+ Diese Narren von der Magiergilde sind<0xFD>
+ in ihren ziellosen Forschungen blind<0xFD>
+ über einige offenkundige Fakten gestolpert.<0xFD>
+ Es ist unwahrscheinlich, dass sie überhaupt<0xFD>
+ zu so etwas wie einem Ergebnis kommen werden,<0xFD>
+ aber der Magier, der die Untersuchungen leitet,<0xFD>
+ ist zumindest weise genug, sich zu verstecken.<0xFD>
+ Das alleine ist Grund genug zu unserer<0xFD>
+ Beunruhigung. Natürlich ist es sinnlos,<0xFD>
+ sich irgendwo in %reg vor den<0xFD>
+ %vam zu verstecken. _mage_<0xFD>
+ ist im ___mondung_, einer Art<0xFD>
+ Laboratorium. Ich will, dass Ihr die Notizen<0xFD>
+ dieser Forschung an Euch nehmt und zu mir<0xFD>
+ bringt. Ich gehe davon aus, dass<0xFD>
+ _mage_ die Notizen in der<0xFD>
+ lächerlichen Annahme bei sich trägt, dass sie<0xFD>
+ dort sicher seien. Geht und zeigt ihm seinen<0xFD>
+ Denkfehler auf, %pcf.<0xFD>
+<0xFE>
+
+Record n°13----------
+Seid mir gegrüßt %pcn,<0xFC>
+ <0xFC>
+     Wann immer Ihr Euch in der Gegend von<0xFC>
+ ___mg_ befindet, könnte Eure<0xFC>
+ Anwesenheit im __mg_ der<0xFC>
+ Lösung unserer gegenwärtigen Probleme sehr<0xFC>
+ zuträglich sein. Als Gegenleistung für Eure<0xFC>
+ Unterstützung bei einer Forschungsangelegenheit<0xFC>
+ kann ich Euch eine Gratifikation zum 
+persönlichem<0xFC>
+ finanziellen Wohlstand und die noch größere<0xFC>
+ Freude, einem Kollegen der Magiergilde geholfen<0xFC>
+ zu haben, anbieten.<0xFC>
+  <0xFC>
+    Ich hoffe, Euch sehr bald zu sehen.<0xFC>
+ <0xFC>
+ <0xFC>
+ <0xFC>
+    Euch sehr verbunden und all das,<0xFC>
+ <0xFC>
+ <0xFC>
+      _mg_<0xFC>
+<0xFE>
+
+Record n°14----------
+Ein Kurier in tiefblauem Gewand<0xFD>
+ händigt Euch einen Brief aus und<0xFD>
+ verschwindet mit einer Verbeugung.<0xFD>
+<0xFE>
+
+Record n°15----------
+Oh, oh, %oth, seid Ihr %pcn?<0xFD>
+ Ich, äh, sehe dass Ihr hierfür geeignet seid.<0xFD>
+ Ihr seid mutig und kräftig, kurz gesagt stark<0xFD>
+ genug,  _mage_  zu helfen,<0xFD>
+ einem Hexenmeister, der fürchtet, dass %g3<0xFD>
+ Forschungen die, äh, inquisitorische 
+Aufmerksamkeit<0xFD>
+ eines lokalen Vampirstammes erregt zu haben.<0xFD>
+ <0xFD>
+ Zu viel Arbeit hat den armen, alten Hexenmeister -
+<0xFD>
+ wie soll ich sagen - überempfindlich werden 
+lassen.<0xFD>
+ Wenn Ihr einfach in %g3 Labor, ___mondung_,<0xFD>
+ vorbeischauen und diese kostbaren Notizen holen<0xFD>
+ könntet, wäre ich Euch äußerst äh, verbunden.<0xFD>
+ <0xFD>
+ Nehmt Euch bloß vor dem alten _mage_<0xFD>
+ in Acht -- %g ist ein wenig, äh, aufgeregt,<0xFD>
+ nehme ich an.<0xFD>
+<0xFE>
+
+Record n°16----------
+%oth! Meine kostbaren Notizen!<0xFD>
+ Hinfort, Blutsauger! Hinfort!<0xFD>
+<0xFE>
+
+Record n°17----------
+Wartet einen Moment!<0xFD>
+ Seid Ihr der %ra,<0xFD>
+ dem ich die Notizen geben sollte?<0xFD>
+<0xFE>
+
+Record n°18----------
+Ich bitte aufrichtig um Verzeihung, %pcn.<0xFD>
+ Ich war in letzter Zeit sehr nervös.<0xFD>
+ Hier sind die Notizen. Aber seid vorsichtig.<0xFD>
+ Vertraut niemandem. Jeder könnte ein<0xFD>
+ %vam-Vampir sein.<0xFD>
+<0xFE>
+
+Record n°19----------
+%dat:<0xFC>
+ _mg_ im<0xFC>
+ __mg_ in ___mg_<0xFC>
+ möchte, dass ich zum ___mondung_<0xFC>
+ reise, dort die Arbeit von<0xFC>
+ _mage_ an mich nehme und<0xFC>
+ sicher nach ___mg_ bringe.<0xFC>
+ Obwohl _mage_ mich erwartet, ist<0xFC>
+ %g vielleicht bisschen nervös ... immerhin<0xFC>
+ könnte jeder ein Vampir sein ...<0xFC>
+<0xFE>
+
+Record n°20----------
+ Die %vam sind der vorherrschende<0xFC>
+ Stamm in %reg, jedoch sind sie<0xFC>
+ keineswegs in der ganzen Region um die<0xFC>
+ Iliac-Bucht dominant. (hier eintragen<0xFC>
+ über die Montalion, Vrasethi, Ghulari,<0xFC>
+ Selenu, et cetera, blah, blah, blah)<0xFC>
+ <0xFC>
+ Unterschiedliche Kräfte, aber im Grunde<0xFC>
+ diesselbe interne Struktur, blah, blah, blah).<0xFC>
+ <0xFC>
+ Wie wird man vom Vampirismus geheilt (das<0xFC>
+ Buch "Vampire der Iliac-Bucht" auftreiben,<0xFC>
+ Andeutungen auf eine Gemeinschaft von<0xFC>
+ ehemaligen Vampiren)? Durch Erschlagen<0xFC>
+ des Schöpfers derselben Blutlinie, dem<0xFC>
+ zufolge, was ich aus persönlichen Gesprächen<0xFC>
+ und dergleichen sammeln konnte. (Notiz an mich:<0xFC>
+ dieser =vamp_ in ___vamp_ hat Interesse<0xFC>
+ an meiner Arbeit gezeigt. Mögliche 
+Informationsquelle<0xFC>
+ oder Falle?) Vampire, die Königshöfe, die 
+Dunkle<0xFC>
+ Bruderschaft und sogar die Magiergilde in %reg<0xFC>
+ und weitere infiltrieren. Steht der %t von %reg<0xFC>
+ unter dem Einfluss der %vam, oder vielleicht<0xFC>
+ mehr als nur unter dem Einfluss? Den 
+Standardtest<0xFC>
+ (Patent anmelden) durchführen und sehen, wie 
+die<0xFC>
+ Dinge stehen. Brauche Nymphenhaar, heiliges 
+Symbol,<0xFC>
+ et cetera, et cetera, dieses Mal frisch, in<0xFC>
+ %gods Namen.<0xFC>
+ <0xFC>
+ Mit _mg_ über eine Erhöhung der<0xFC>
+ Forschungsgelder reden. Laufe ins Leere.<0xFE>
+
+Record n°21----------
+%dat:<0xFC>
+ Ein Zauberer namens<0xFC>
+ _mage_ ist einigen<0xFC>
+ bedeutenden Entdeckungen<0xFC>
+ über die %vam nahegekommen und<0xFC>
+ _vamp_ hat mich zu seinem<0xFC>
+ Laboratorium, ___mondung_,<0xFC>
+ geschickt, um seine Notizen zu<0xFC>
+ entwenden. Es ist wahrscheinlich,<0xFC>
+ dass _mage_ sie bei sich trägt,<0xFC>
+ als ob das ein Schutz gegen<0xFC>
+ mich sei.<0xFC>
+<0xFE>
+
+Record n°22----------
+Ist es das, was _mage_<0xFD>
+ schützen wollte? Das abschweifende<0xFD>
+ Gekritzel eines Verrückten. Dennoch<0xFD>
+ nicht Eure Schuld, nehme ich an.<0xFD>
+ Hier sind _mggold_ Goldstücke<0xFD>
+ für die gelungene Überführung.<0xFD>
+<0xFE>
+
+Record n°23----------
+Ein bleicher junge Knabe händigt Euch einen<0xFD>
+Brief aus und huscht wie eine Ratte davon.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+P0B01L02.QRC
+________________________________________
+Record n°0----------
+Seid gegrüßt %pcf,<0xFC>
+ <0xFC>
+     Wir haben eine kleine Aufgabe für Euch, um 
+Eure<0xFC>
+ Entschlossenheit, einer der unsrigen zu sein, 
+unter<0xFC>
+ Beweis zu stellen. Ein _vamprelic_, das uns<0xFC>
+ gehört, wird in der Magiergilde von __itemdung_<0xFC>
+ wie ein paar trivialer Inkunabeln aufbewahrt.<0xFC>
+ Befreit es innerhalb von =1stparton_ Tagen aus 
+seinem<0xFC>
+ Gefängnis. Sie planen, es dann an einen besser<0xFC>
+ gesicherten Ort zu schaffen.<0xFC>
+ <0xFC>
+     Kommt zu mir, sobald Ihr das _vamprelic_ 
+habt.<0xFC>
+ Ich werde =1stparton_ Tage lang im __vampire_<0xFC>
+ in ___vampire_ auf Euch warten. Ich bin leicht 
+zu<0xFC>
+ erkennen, haltet nach einem =vampire_ Ausschau.<0xFC>
+ <0xFC>
+     Ich freue mich bereits darauf, weniger 
+förmlich<0xFC>
+ Eure Bekanntschaft zu machen, %pcf.<0xFC>
+ Versäumt nicht, mich aufzusuchen.<0xFC>
+ <0xFC>
+ Im Tode,<0xFD>
+ _vampire_ der %vam<0xFD>
+<0xFE>
+
+Record n°1----------
+Error: Dagtext 1001 Called.<0xFE>
+
+Record n°2----------
+Error: Dagtext 1002 Called.<0xFE>
+
+Record n°3----------
+Ich bin erfreut, Euch endlich<0xFD>
+ kennenzulernen, %pcf.<0xFD>
+ Gewiss, ich bin _vampire_.<0xFD>
+ Der %vam-Stamm wird<0xFD>
+ eine angemessen Verwendung<0xFD>
+ für diesen _vamprelic_ finden.<0xFD>
+ Glaubt bloß nicht, dass Ihr hierfür<0xFD>
+ bezahlt werdet. Es ist schon Ehre<0xFD>
+ genug, den %vam auch nur dienen<0xFD>
+ zu dürfen.<0xFD>
+<0xFE>
+
+Record n°4----------
+Die Magiergilde will eine Menge alten, nutzlosen 
+Plunder loswerden, habe ich gehört.<0xFF>
+Ich hörte dass es eine Abfallgrube gibt, wohin die 
+ganzen Magiergilden ihren alten Kram schicken.<0xFF>
+<0xFE>
+
+Record n°5----------
+Bei den ganzen Sicherheitsmaßnahmen muss es doch etwas 
+in der Magiergilde geben, das sich zu stehlen 
+lohnt.<0xFF>
+Sie haben diesen alten, staubigen Plunder endlich aus 
+der Magergilde geschafft.<0xFF>
+<0xFE>
+
+Record n°6----------
+Letzte Nacht haben die drei Sterne Locandas 
+geleuchtet. Das bedeutet unheilige Allianzen.<0xFF>
+Die Magiergilde ist ratlos, was diesen Einbruch 
+angeht. Wer würde dieses Ding schon haben wollen?
+<0xFF>
+<0xFE>
+
+Record n°7----------
+Grüße, %pcn. Danke nochmal für das _vamprelic_.<0xFE>
+
+Record n°8----------
+%pcf, dies ist nicht der<0xFD>
+ richtige Zeitpunkt, um die Grenzen<0xFD>
+ meiner Geduld auf die Probe zu stellen.<0xFD>
+ In meinem Brief bat ich Euch ausdrücklich,<0xFD>
+ mir das _vamprelic_ zu bringen,<0xFD>
+ aber wo ist es? Schwache Vorstellung,<0xFD>
+ %pcf. Sehr schwach.<0xFD>
+<0xFE>
+
+Record n°9----------
+Eine unheimlich aussehende Person dieses Namens ist 
+%di von hier im __vampire_.<0xFF>
+Ein seltsamer =vampire_ namens _vampire_ hält sich im 
+__vampire_ auf, %di von hier.<0xFF>
+<0xFE>
+
+Record n°10----------
+_vampire_ ist ein Angehöriger des %vam-Stammes und ein 
+Mentor für dessen Jünglinge.<0xFF>
+_vampire_ ist ein recht junger Angehöriger der %vam, 
+aber stolz und stark dazu.<0xFF>
+<0xFE>
+
+Record n°11----------
+Nur ein _vamprelic_. Kein besonders hübscher 
+Anblick.<0xFF>
+Ein seltsam aussehendes _vamprelic_.<0xFF>
+<0xFE>
+
+Record n°12----------
+Nach dem, was ich gehört habe, ist es ein _vamprelic_ 
+aus den älteren Kreisen der %vam.<0xFF>
+Es ist ein _vamprelic_, das von den Meistern der %vam 
+in bestimmten, geheimen Ritualen verwendet wird.<0xFF>
+<0xFE>
+
+Record n°13----------
+%qdt:<0xFC>
+ Ich habe einen Brief von _vampire_ aus<0xFC>
+ ___vampire_ erhalten. Ich habe =1stparton_ Nächte, 
+um<0xFC>
+ ein _vamprelic_ aus einer gesichterten Kammer 
+in<0xFC>
+ der Magiergilde von __itemdung_ zu stehlen. 
+Sobald<0xFC>
+ die Tat vollbracht ist, soll ich das 
+_vamprelic_<0xFC>
+ zu _vampire_ in das __vampire_ bringen.<0xFC>
+<0xFE>
+
+Record n°14----------
+Ein zusammengerolltes Pergament auf dem<0xFD>
+ Boden fällt Euch ins Auge. Als Ihr es Euch<0xFD>
+ genauer anseht, bemerkt Ihr erstaunt,<0xFD>
+ dass es an Euch adressiert ist.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+P0B10L07.QRC
+________________________________________
+Record n°0----------
+Error: Questtext 1001 Called.<0xFE>
+
+Record n°1----------
+Error: Questtext 1002 Called.<0xFE>
+
+Record n°2----------
+_knight_ ist halb verrückt<0xFD>
+ vor Angst, %pcf.<0xFD>
+ Welch Schrecken Ihr doch verbreitet!<0xFD>
+ Die %vam sind der Auffassung,<0xFD>
+ dass Ihr Euch diesen _jewelry_<0xFD>
+ in Anerkennung Eurer Treue und Eurer<0xFD>
+ bemerkenswerten ... Selbstbeherrschung<0xFD>
+ in dieser Sache verdient habt.<0xFD>
+ Gut gemacht, Blutsverwandter.<0xFD>
+<0xFE>
+
+Record n°3----------
+Wenn _knight_ sich nicht vorsieht, werden sich diese 
+Vampire gegen %g2 wenden.<0xFF>
+_knight_ denkt, %g versteht etwas von Vampiren. Aber 
+%g ist ein Narr.<0xFF>
+<0xFE>
+
+Record n°4----------
+_knight_ ist über die Bucht gezogen, aber %g behält 
+die Vampire im Auge.<0xFF>
+_knight_ fürchtet sich nicht vor Vampiren. Hat 
+tausende davon getötet, habe ich gehört.<0xFF>
+<0xFE>
+
+Record n°5----------
+_knight_ wurde die Lektion %g3 Lebens erteilt. Es 
+lohnt sich nicht, Vampire zu bekämpfen.<0xFF>
+_knight_ war ein eingebildeter Wichtigtuer. Lasst die 
+Vampire einfach in Ruhe, sage ich.<0xFF>
+<0xFE>
+
+Record n°6----------
+Error: Questtext 1008 Called.<0xFE>
+
+Record n°7----------
+Error: Questtext 1009 Called.<0xFE>
+
+Record n°8----------
+              __vamp_<0xFC>
+               ___vamp_<0xFC>
+ <0xFC>
+ <0xFC>
+ Grüße %pcn,<0xFC>
+ <0xFC>
+     die %vam brauchen Euch.<0xFC>
+ Kommt unverzüglich.<0xFC>
+ <0xFC>
+ <0xFC>
+               Euer im Tode,<0xFC>
+ <0xFC>
+ <0xFC>
+               _vamp_<0xFC>
+<0xFE>
+
+Record n°9----------
+Ah, guten Abend, mein Blutsverwandter.<0xFD>
+ Wir haben Schwierigkeiten mit einem<0xFD>
+ lokalen Kriegsherrn, der es trotz<0xFD>
+ unserer vielen, vielen höflichen<0xFD>
+ verbalen und schriftlichen Drohungen<0xFD>
+ weiterhin wagt, einen Krieg gegen die<0xFD>
+ %vam zu führen. Für gewöhnlich<0xFD>
+ würde dieser lästige Ritter schon<0xFD>
+ seit Wochen im Jenseits verweilen.<0xFD>
+ Aber unsere Nachsicht rührt nicht von<0xFD>
+ Empfindlichkeit her. Wir könnten<0xFD>
+ _knight_ als Verbündeten<0xFD>
+ in %reg brauchen, aber %g2 muss<0xFD>
+ gehorsam beigebracht werden.<0xFD>
+ <0xFD>
+ Ich möchte, dass Ihr mit %g2 in<0xFD>
+ ___mondung_ sprecht, dort, wo<0xFD>
+ %g sich am sichersten fühlt. Tötet<0xFD>
+ %g3 nicht - mischt %g3 nur etwas auf.<0xFD>
+ Ich erwarte Euch innerhalb von =queston_ Tagen<0xFD>
+ zurück, nachdem Ihr _knight_ ...<0xFD>
+ erweicht habt.<0xFD>
+<0xFE>
+
+Record n°10----------
+%qdt:<0xFC>
+ Ich habe einen Brief von<0xFC>
+ _vamp_ von den %vam<0xFC>
+ erhalten. Ich werde so schnell<0xFC>
+ wie möglich im ___vamp_<0xFC>
+ in __vamp_ gebraucht.<0xFC>
+<0xFE>
+
+Record n°11----------
+%dat:<0xFC>
+ _vamp_ will, dass ich zu einem<0xFC>
+ Ort namens ___mondung_ reise<0xFC>
+ und dort _knight_ zusetze,<0xFC>
+ einem Ritter, der sich dem Willen der<0xFC>
+ %vam zu beugen weigert. Mir wurde<0xFC>
+ befohlen, %g2 nicht zu töten, sondern<0xFC>
+ nur zu erschrecken und innerhalb<0xFC>
+ von =queston_ Tage zurück in<0xFC>
+ ___vamp_ zu sein.<0xFC>
+<0xFE>
+
+Record n°12----------
+Bei %god, sagt den<0xFD>
+ %vam, ich mache alles!<0xFD>
+ Nur tötet mich nicht!<0xFD>
+<0xFF>
+%oth, ich ergebe mich!<0xFD>
+ Ich werde alles tun, was<0xFD>
+ sie wollen, nur bitte, im Namen<0xFD>
+ von %god, tötet mich nicht!<0xFD>
+<0xFE>
+
+Record n°13----------
+_knight_ ist tot.<0xFD>
+ _vamp_ wird nicht<0xFD>
+ erfreut sein.<0xFD>
+<0xFE>
+
+Record n°14----------
+Ich habe es schon gehört, %pcf.<0xFD>
+ Ihr habt _knight_ umgebracht,<0xFD>
+ obwohl ich Euch ausdrücklich gesagt<0xFD>
+ gesagt habe, %g2 nur Angst einzujagen.<0xFD>
+ %oth, Ihr seid nicht besser<0xFD>
+ als ein Schlägertyp, stimmt's?<0xFD>
+ Die %vam und ich sind sehr<0xFD>
+ enttäuscht, %pcf.<0xFD>
+<0xFE>
+
+Record n°15----------
+Ein bleicher, junger Knabe händigt Euch<0xFD>
+ einen Brief aus, bevor er mit überraschender<0xFD>
+ Wendigkeit davonhuscht.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+P0B10L08.QRC
+________________________________________
+Record n°0----------
+Error: Questtext 1000 Called.<0xFE>
+
+Record n°1----------
+Error: Questtext 1001 Called.<0xFE>
+
+Record n°2----------
+Error: Questtext 1002 Called.<0xFE>
+
+Record n°3----------
+Error: Questtext 1003 Called.<0xFE>
+
+Record n°4----------
+Ihr habt dem Namen der %vam<0xFD>
+ in dieser Nacht alle Ehre gemacht, %pcf.<0xFD>
+ ==daedra_ hegt uns und Euch gegenüber Respekt,<0xFD>
+ den kein anderer Vampirstamm je verdiente. Euer<0xFD>
+ Blutsvater hat mich geheißen, Euch _gem_<0xFD>
+ als Symbol der Dauerhaftigkeit Eurer Stellung<0xFD>
+ unter den %vam zu geben.<0xFD>
+<0xFE>
+
+Record n°5----------
+In ___mondung_ sind seltsame Dinge im Gange. Noch 
+seltsamer als sonst, sollte ich wohl sagen.<0xFE>
+
+Record n°6----------
+Es ist  um ___mondung_ wieder ruhiger geworden. Aber 
+die Sterne der Daedra leuchten hell in der 
+Nacht.<0xFF>
+<0xFE>
+
+Record n°7----------
+___mondung_ hat sich beruhigt. Sogar die Sterne der 
+Daedra schienen letzte Nacht sanfter.<0xFE>
+
+Record n°8----------
+Error: Questtext 1008 Called.<0xFE>
+
+Record n°9----------
+Error: Questtext 1009 Called.<0xFE>
+
+Record n°10----------
+              __vamp_<0xFC>
+               ___vamp_<0xFC>
+ <0xFC>
+ <0xFC>
+ Grüße %pcn,<0xFC>
+ <0xFC>
+     die %vam brauchen Euch.<0xFC>
+ Kommt unverzüglich.<0xFC>
+ <0xFC>
+ <0xFC>
+               Euer im Tode,<0xFC>
+ <0xFC>
+ <0xFC>
+               _vamp_<0xFC>
+<0xFE>
+
+Record n°11----------
+Ah, %pcf, Ihr habt meinen Brief erhalten.<0xFD>
+ Der Älteste unseres Stammes, Euer Blutsvater,<0xFD>
+ hat darum ersucht, dass Ihr Euch einer 
+Angelegenheit<0xFD>
+ widmet, die ihn sehr beunruhigt. Hier ist die<0xFD>
+ Abschrift eines Briefes, den er, um ein Messer<0xFD>
+ gewickelt, in seinem Altarraum fand. Wer auch<0xFD>
+ immer diesen Brief hinterlassen hat verfügt<0xFD>
+ offenbar über nicht unbeträchtliche Macht und<0xFD>
+ wünscht die Stärke der %vam zu prüfen. Geht<0xFD>
+ zu dem im Brief genannten Verlies, ___mondung_,<0xFD>
+ findet diesen _daedra_, der den Brief 
+geschrieben<0xFD>
+ hat und beweist %g2, dass die %vam kein Haufen<0xFD>
+ von Schwächlingen sind, die sich ungestraft 
+bedrohen<0xFD>
+ oder verspotten lassen. Der Stolz der %vam<0xFD>
+ ist mit Euch, %pcf. Ich erwarte Euch<0xFD>
+ innerhalb von =queston_ Tagen zurück, wenn diese 
+Sache<0xFD>
+ geregelt ist. Enttäuscht uns nicht, %pcf.<0xFD>
+<0xFE>
+
+Record n°12----------
+%qdt:<0xFC>
+ _vamp_ von ___vamp_<0xFC>
+ hat mir einen Brief gegeben, verfasst<0xFC>
+ unter dem Namen von _daedra_ aus<0xFC>
+ ___mondung_, der unseren Stamm,<0xFC>
+ die %vam, beleidigt. Mir wurde<0xFC>
+ aufgetragen, nach ___mondung_<0xFC>
+ zu reisen und _daedra_ %g3<0xFC>
+ Worte bereuen zu lassen. Ich habe<0xFC>
+ =queston_ Tage, um dies zu erledigen und<0xFC>
+ nach __vamp_ zurückzukehren.<0xFC>
+<0xFE>
+
+Record n°13----------
+Blutschmarotzer,<0xFC>
+ <0xFC>
+     Mein Zirkel hat mir berichtet,<0xFC>
+ dass Eure Monster, diese absonderliche<0xFC>
+ kleine Bande blutsaugender Schreckgespenster,<0xFC>
+ ein Monopol auf die Geschäfte des Grauens<0xFC>
+ in %reg hält und meine eigenen<0xFC>
+ Kinder sich ob der rohen Kraft der<0xFC>
+ %vam fürchten, ihr Hoheitsgebiet<0xFC>
+ zu expandieren. Die Feiglinge wurden<0xFC>
+ angemessen bestraft und mein Zirkel<0xFC>
+ schreitet nun weiter voran.<0xFC>
+ <0xFC>
+     Wenn die selbstgefälligen Aasgeier,<0xFC>
+ die sich %vam nennen, wirklich auch<0xFC>
+ nur über eine Unze der Macht verfügten,<0xFC>
+ an die mein Zirkel einst glaubte, so antwortet<0xFC>
+ auf meine Herausforderung. Bereitet Euch<0xFC>
+ anderenfalls darauf vor, dass es in %reg<0xFC>
+ für %vam und Eure kleinlichen Verbrechen<0xFC>
+ etwas weniger Freiraum geben wird.<0xFC>
+ <0xFC>
+     Ich bin _daedra_ aus dem Kult von<0xFC>
+ ==daedra_. Betrachtet den Fehdehandschuh<0xFC>
+ als geworfen. Ich erwarte Eure Antwort in<0xFC>
+ ___mondung_.<0xFC>
+<0xFE>
+
+Record n°14----------
+%qdt:<0xFC>
+ Ich habe einen Brief von<0xFC>
+ _vamp_ von den %vam,<0xFC>
+ erhalten, in dem er um meine<0xFC>
+ unverzügliche Anwesenheit an einem<0xFC>
+ Ort namens __vamp_ in ___vamp_ ersucht.<0xFC>
+<0xFE>
+
+Record n°15----------
+Willkommen in ___mondung_,<0xFD>
+ %pcn. Ihr seid vermutlich hier,<0xFD>
+ um im Namen der %vam<0xFD>
+ anzuerkennen, dass der Kult von<0xFD>
+ ==daedra_, Fürst des Reichs des Vergessens,<0xFD>
+ fortan über %reg herrscht?<0xFD>
+<0xFE>
+
+Record n°16----------
+Erbärmlicher Blutsauger.<0xFD>
+ Ich habe nicht mehr erwartet und doch<0xFD>
+ noch gehofft. Schert Euch zurück nach<0xFD>
+ _vamp_, Kind.<0xFD>
+<0xFE>
+
+Record n°17----------
+Ihr wagt es, die Überlegenheit<0xFD>
+ von ==daedra_ vor meinem Angesicht<0xFD>
+ herauszufordern, untoter Wurm?<0xFD>
+ =daedroth_ wird es genießen, Eure<0xFD>
+ Eure respektlosen Knochen zu brechen!<0xFD>
+ <0xFD>
+ Zeigt mir, dass ein Angehöriger<0xFD>
+ der %vam wenigstens so gut<0xFD>
+ kämpfen wie prahlen kann!<0xFD>
+<0xFE>
+
+Record n°18----------
+Ihr hört, wie die Stimme von ==daedra_<0xFD>
+ in Eurem Kopf spricht:<0xFD>
+ <0xFD>
+ "Ihr habt mir bewiesen, dass die<0xFD>
+ %vam Respekt verdienen. Ihr<0xFD>
+ mögt _vamp_ sagen, dass<0xFD>
+ %reg Euch gehört.<0xFD>
+ Ein interessantes Exemplar seid Ihr,<0xFD>
+ %pcn. Ich bin mir sicher,<0xFD>
+ dass wir uns wiedersehen."<0xFD>
+<0xFE>
+
+Record n°19----------
+Ihr habt die %vam enttäuscht,<0xFD>
+ %pcf. Der Zirkel von ==daedra_<0xFD>
+ hat uns herausgefordert und Ihr<0xFD>
+ habt eine einzige Schmach abgeboten.<0xFD>
+ Es ist eine Nacht der Schande.<0xFD>
+<0xFE>
+
+Record n°20----------
+Error: Questtext 1020 Called.<0xFE>
+
+Record n°21----------
+Ein erschreckend bleicher Junge<0xFD>
+ mit wilden Augen übergibt Euch<0xFD>
+ einen Brief und verschwindet<0xFD>
+ in die Dunkelheit.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+P0B10L10.QRC
+________________________________________
+Record n°0----------
+Error: Questtext 1000 Called.<0xFE>
+
+Record n°1----------
+Error: Questtext 1001 Called.<0xFE>
+
+Record n°2----------
+Error: Questtext 1002 Called.<0xFE>
+
+Record n°3----------
+Reisen ist für unsere Art keine einfache<0xFD>
+ Sache. Mit der zusätzlichen Belastung<0xFD>
+ durch _vamp_ möchte ich mir<0xFD>
+ Eure Beschwernisse nicht einmal vorstellen.<0xFD>
+ Dazu kommt noch die Furcht vor diesem<0xFD>
+ bösartigen =mage_. Jetzt verstehe<0xFD>
+ ich, warum die %vam mit solcher<0xFD>
+ Wertschätzung von Euch sprechen,<0xFD>
+ %pcf.<0xFD>
+<0xFE>
+
+Record n°4----------
+=mage_ ist manchen zufolge der einzige anständige 
+Vampirjäger in %reg.<0xFF>
+=mage_ könnte den meisten Vampiren einen würdigen 
+Kampf liefern.<0xFF>
+<0xFE>
+
+Record n°5----------
+So ein =vamp2_ in __vamp2_ hat nach einem %ra namens 
+%pcn gefragt.<0xFF>
+<0xFE>
+
+Record n°6----------
+=mage_ ist anscheinend doch kein ein großer 
+Vampirjäger wie %g behauptet hat.<0xFF>
+=mage_ soll angeblich ein großartiger Vampirjäger 
+gewesen sein. Schätze, %g war doch nicht so gut.<0xFF>
+<0xFE>
+
+Record n°7----------
+Error: Questtext 1008 Called.<0xFE>
+
+Record n°8----------
+Error: Questtext 1009 Called.<0xFE>
+
+Record n°9----------
+              __vamp_<0xFC>
+               ___vamp_<0xFC>
+ <0xFC>
+ <0xFC>
+ Grüße %pcn,<0xFC>
+ <0xFC>
+     die %vam brauchen Euch.<0xFC>
+ Kommt unverzüglich.<0xFC>
+ <0xFC>
+ <0xFC>
+               Euer im Tode,<0xFC>
+ <0xFC>
+ <0xFC>
+               _vamp_<0xFC>
+<0xFE>
+
+Record n°10----------
+%qdt:<0xFC>
+ Ich habe einen Brief von<0xFC>
+ _vamp_ erhalten,<0xFC>
+ einem Vampir der %vam, der<0xFC>
+ dringend um meine Anwesenheit<0xFC>
+ an einem Ort namens __vamp_<0xFC>
+ in  ___vamp_  ersucht.<0xFC>
+<0xFE>
+
+Record n°11----------
+Danke, dass Ihr unverzüglich gekommen seid.<0xFD>
+ Hier in %reg lebt ein gefährlicher Feind<0xFD>
+ unseres Stammes, ein Magier namens =mage_.<0xFD>
+ Ich selbst hatte schon eine unglückliche 
+Begegnung<0xFD>
+ mit %g2. Es ist dringend geboten, dass ich<0xFD>
+ mit _vamp2_ drüben in ___vamp2_<0xFD>
+ über diese Angelegenheit spreche, aber ich 
+weiß,<0xFD>
+ dass =mage_ nach mir sucht.<0xFD>
+ <0xFD>
+ Ich bin zu schwach, um diese Reise alleine<0xFD>
+ anzutreten. Ihr müsst mich zu __vamp2_<0xFD>
+ in ___vamp2_ eskortieren. Wir sollten<0xFD>
+ uns beeilen, damit dieser verteufelte Magier<0xFD>
+ nicht noch weitere Verbündete hinzuzieht.<0xFD>
+ =queston_ Nächte, %pcf. Das ist nicht viel 
+Zeit,<0xFD>
+ aber wir müssen es versuchen.<0xFD>
+<0xFE>
+
+Record n°12----------
+Ein Blutsauger, der auch noch<0xFD>
+ einen Stachel hat. Das sollte<0xFD>
+ die Sache interessanter machen!<0xFD>
+<0xFE>
+
+Record n°13----------
+%dat:<0xFC>
+ Ich eskortiere _vamp_<0xFC>
+ zu _vamp2_ in ___vamp2_.<0xFC>
+ Ich muss es nach __vamp2_ <0xFC>
+ schaffen, bevor der uns verfolgende<0xFC>
+ Magier die Gelegenheit erhält,<0xFC>
+ Verstärkung zu rufen.<0xFC>
+<0xFE>
+
+Record n°14----------
+"%pcf!" sagt _vamp_,<0xFD>
+ "Ihr habt =mage_ erschlagen,<0xFD>
+ die Geißel der %vam!"<0xFD>
+<0xFE>
+
+Record n°15----------
+"Ihr braucht zu lange",<0xFD>
+ sagt _vamp_<0xFD>
+ und wankt alleine davon.<0xFD>
+<0xFE>
+
+Record n°16----------
+Ein bleicher Junge mit glühenden<0xFD>
+ Augen händigt Euch einen Brief aus<0xFD>
+ und verschwindet dann in den Schatten.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+P0B20L09.QRC
+________________________________________
+Record n°0----------
+Error: Questtext 1000 Called<0xFE>
+
+Record n°1----------
+Error: Questtext 1001 Called<0xFE>
+
+Record n°2----------
+Error: Questtext 1002 Called<0xFE>
+
+Record n°3----------
+Error: Questtext 1003 Called<0xFE>
+
+Record n°4----------
+Ich grüße Euch, Jäger der Werbestien.<0xFD>
+ Euer Blutsvater wird erfreut sein zu hören,<0xFD>
+ mit welcher Effizienz Ihr diese Bestien<0xFD>
+ ausgelöscht habt. Behaltet =wereboar_s<0xFD>
+ Stoßzahn als Ehrenzeichen unter den %vam.<0xFD>
+<0xFE>
+
+Record n°5----------
+___mondung_ ist das eine Verlies, das niemand jemals 
+betreten sollte. Niemals.<0xFF>
+<0xFE>
+
+Record n°6----------
+Vor ein paar Nächten konnte man ein triumphierendes 
+Heulen aus ___mondung_ hören.<0xFF>
+<0xFE>
+
+Record n°7----------
+___mondung_ ist wieder still und friedlich wie ein 
+Grab.<0xFF>
+<0xFE>
+
+Record n°8----------
+Error: Questtext 1008 Called<0xFE>
+
+Record n°9----------
+Error: Questtext 1009 Called<0xFE>
+
+Record n°10----------
+              __vamp_<0xFC>
+               ___vamp_<0xFC>
+ <0xFC>
+ <0xFC>
+ Grüße %pcn,<0xFC>
+ <0xFC>
+     die %vam brauchen Euch.<0xFC>
+ Kommt unverzüglich.<0xFC>
+ <0xFC>
+ <0xFC>
+               Euer im Tode,<0xFC>
+ <0xFC>
+ <0xFC>
+               _vamp_<0xFC>
+<0xFE>
+
+Record n°11----------
+Ich grüße Euch in Ehre, %pcn, guten Abend.<0xFD>
+ Die Ältesten der %vam wollen sich in<0xFD>
+ Kürze hier in %reg treffen, doch<0xFD>
+ eine Gruppe Lykanthropen hat sich, als wollten<0xFD>
+ sie uns verspotten, in ___mondung_<0xFD>
+ niedergelassen, wo die Ältesten 
+zusammenzukommen<0xFD>
+ gedenken. Ich bitte Euch, zeigt diesem Pack<0xFD>
+ und anderen ihrer Art, dass ___mondung_<0xFD>
+ den %vam gehört und wir keine Eindringlinge<0xFD>
+ dulden werden. Tötet so viele von ihnen wie<0xFD>
+ möglich, einschließlich ihres Anführers,<0xFD>
+ einen Wereber. Kommt innerhalb von =queston_ 
+Nächten<0xFD>
+ mit einem seiner Stoßzähne zurück und die<0xFD>
+ %vam werden Euch höchst dankbar sein.<0xFD>
+ Nun gehabt Euch wohl.<0xFD>
+<0xFE>
+
+Record n°12----------
+%qdt:<0xFC>
+ Ich habe einen Brief von<0xFC>
+ _vamp_ erhalten,<0xFC>
+ einem Vampir der %vam, der<0xFC>
+ dringend um meine Anwesenheit<0xFC>
+ an einem Ort namens __vamp_<0xFC>
+ in  ___vamp_  ersucht.<0xFC>
+<0xFE>
+
+Record n°13----------
+%dat:<0xFC>
+ _vamp_ hat mich nach<0xFC>
+ ___mondung_ geschickt, wo es eine<0xFC>
+ Gruppe vermessener Werkreaturen gewagt hat,<0xFC>
+ den Boden der %vam zu betreten.<0xFC>
+ Ich soll den missgestalten Kreaturen<0xFC>
+ den Fehler solchen Verhaltens aufzeigen<0xFC>
+ und innerhalb von =queston_ Nächten mit dem<0xFC>
+ Stoßzahn ihres Anführers als Trophäe nach<0xFC>
+ _vamp_ zurückkehren.<0xFC>
+<0xFE>
+
+Record n°14----------
+Ein bleicher Junge mit wilden<0xFD>
+ Augen übergibt Euch einen<0xFD>
+ Brief und verschwindet<0xFD>
+ dann in die Dunkelheit.<0xFD>
+<0xFE>
+
+Record n°15----------
+Ihr habt =wereboar_ erschlagen,<0xFD>
+ den Anführer der Lykanthropen.<0xFD>
+ Sie werden es fortan besser wissen als<0xFD>
+ in eine Festung der %vam einzudringen.<0xFD>
+<0xFE>
+
+Record n°16----------
+Zwingt mich nicht, Euch zu töten,<0xFD>
+ Blutsauger. Geht zurück und richtet<0xFD>
+ den %vam aus, dass =wereboar_<0xFD>
+ Euch nach Hause geschickt hat, weil<0xFD>
+ Ihr Euch nicht benehmen konntet.<0xFD>
+<0xFF>
+<0xFE>
+

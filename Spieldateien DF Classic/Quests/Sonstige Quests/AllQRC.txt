@@ -1,0 +1,725 @@
+________________________________________
+$CUREVAM.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Error -- 1000 called<0xFE>
+
+---------- Record 1 [1001] ----------
+Error -- 1001 called<0xFE>
+
+---------- Record 2 [1002] ----------
+Error -- 1002 called<0xFE>
+
+---------- Record 3 [1003] ----------
+Error -- 1003 called<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Als =bloodfather_ stirbt, spürt Ihr,<0xFD>
+ wie Euch der Fluch des Vampirismus<0xFD>
+ von der Seele genommen wird.<0xFD>
+ Ihr seid nicht länger ein Vampir.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+_hunter_ wird bald einen neuen Kreuzzug gegen Vampire
+<0xFD>
+ durch %reg führen. Vielleicht können wir uns dann
+<0xFD>
+ wieder ohne Furcht nachts auf die Straßen trauen.
+<0xFD>
+<0xFE>
+
+---------- Record 6 [1006] ----------
+_hunter_ und %g3 Gefolge haben in %reg einen Haufen
+<0xFD>
+ Vampire getötet, aber ich bezweifle, dass sie alle
+<0xFD>
+ erwischt haben.<0xFD>
+<0xFF>
+_hunter_ hätte es dabei bewenden lassen sollen. %g3 
+<0xFD>
+ Kreuzzüge haben die Vampire bloß in ihre Verstecke
+<0xFD>
+ getrieben. Sobald %g weiterzieht, kommen sie stärker
+<0xFD>
+ wieder heraus als zuvor.<0xFD>
+<0xFE>
+
+---------- Record 7 [1007] ----------
+_hunter_ und %g3 Gefolge haben in %reg einen Haufen
+<0xFD>
+ Vampire getötet, aber ich bezweifle, dass sie alle
+<0xFD>
+ erwischt haben.<0xFD>
+<0xFF>
+_hunter_ hätte es dabei bewenden lassen sollen. %g3 
+<0xFD>
+ Kreuzzüge haben die Vampire bloß in ihre Verstecke
+<0xFD>
+ getrieben. Sobald %g weiterzieht, kommen sie stärker
+<0xFD>
+ wieder heraus als zuvor.<0xFD>
+<0xFE>
+
+---------- Record 8 [1008] ----------
+Error -- 1008 called<0xFE>
+
+---------- Record 9 [1009] ----------
+Error -- 1009 called<0xFE>
+
+---------- Record 10 [1011] ----------
+_hunter_ spürt Vampire in ganz Tamriel auf und 
+vernichtet sie.<0xFF>
+_hunter_ hat %g3 Leben der Jagd nach Vampiren 
+gewidmet.<0xFE>
+
+---------- Record 11 [1012] ----------
+Man sagt, der Vater von _hunter_ sei von Vampiren 
+getötet worden.<0xFD>
+ Das hat zu %g3 fanatischen Hass gegen sie geführt.
+<0xFD>
+<0xFF>
+_hunter_ musste %g3 eigenen Vater töten, nachdem der 
+zum Vampir geworden war.<0xFD>
+ Das nenne ich einen echten Zeloten!<0xFD>
+<0xFE>
+
+---------- Record 12 [1020] ----------
+                       %qdt<0xFC>
+ <0xFC>
+ Verehrter %pcn von den %vam,<0xFC>
+ <0xFC>
+     Erlaubt mir, mich vorzustellen. Ich bin<0xFC>
+ _hunter_. Ihr habt vielleicht von mir gehört -
+<0xFC>
+ der berühmte Vampirjäger? Doch urteilt nicht<0xFC>
+ zu vorschnell über mich. Ich bin nicht Euer<0xFC>
+ Feind, zumindest noch nicht. Obgleich ich den<0xFC>
+ Vampirismus mit Leidenschaft verabscheue und<0xFC>
+ mein Leben der Ausrottung dieser dunklen Plage
+<0xFC>
+ in Tamriel gewidmet habe, ist mir auch bewusst,
+<0xFC>
+ dass manche bloß unschuldige Opfer sind, wie Ihr
+<0xFC>
+ selbst. Der Wille zu leben an sich ist nicht<0xFC>
+ böse und ich versuche immer, meiner Beute die<0xFC>
+ Möglichkeit zum Beweis einzuräumen, dass Ihr<0xFC>
+ blutiges Werk nur auf Notwendigkeit statt<0xFC>
+ Mordlust beruhte.<0xFC>
+ <0xFC>
+     Ich bin sicher, dass Eure 
+"Verwandtschaft"<0xFC>
+ Euch nichts davon erzählt hat, aber Vampirismus
+<0xFC>
+ <0xFC>
+(weiter...)<0xFD>
+ <0xFC>
+ kann geheilt werden. Dazu müsst Ihr Euren "Bluts-
+<0xFC>
+ vater" vernichten, jenes uralte Böse, das die<0xFC>
+ Linie der Vampire bis zu Euch erschaffen hat.<0xFC>
+ Damit werdet Ihr nicht nur Euch selbst retten,
+<0xFC>
+ sondern ganz %reg von dem Krebsgeschwür,<0xFC>
+ das in seinem Herzen wuchert, befreien.<0xFC>
+ <0xFC>
+     Ich selbst weiß nicht, wo Euer 
+"Blutsvater"<0xFC>
+ zu finden ist, aber meine Quellen haben den<0xFC>
+ Namen eines hochrangigen Mitglieds der %vam<0xFC>
+ offenbart: _vamp1_ in ___vamp1_.<0xFC>
+ %g sollte über die Informationen verfügen, die
+<0xFC>
+ Ihr benötigt.<0xFC>
+ <0xFC>
+     Ich werde =huntstart_ Tage warten, bevor<0xFC>
+ ich gegen die Vampire in %reg vorgehe. Damit<0xFC>
+ gebe ich Euch eine Chance, Euch zu retten.<0xFC>
+ Bedenkt mein Angebot gut, %pcn. Ihr habt<0xFC>
+ =huntstart_ Tage, danach werden wir Euch und<0xFC>
+ den Rest der %vam wie Ungeziefer vernichten.<0xFC>
+ <0xFC>
+ _hunter_<0xFD>
+<0xFE>
+
+---------- Record 13 [1021] ----------
+Wollt Ihr _vamp1_<0xFD>
+ den Brief von _hunter_ zeigen?<0xFD>
+<0xFE>
+
+---------- Record 14 [1022] ----------
+Ihr tatet gut daran, dies zu mir zu bringen,<0xFD>
+ %pcn. _hunter_ ist seit vielen<0xFD>
+ Jahren ein Fluch für die %vam. Dank dieser<0xFD>
+ vorzeitigen Warnung können wir viele der<0xFD>
+ Unseren retten. Ihr solltet nicht die Gefahr<0xFD>
+ unterschätzen, in der Ihr Euch befindet, %pcf.<0xFD>
+ _hunter_ ist unbarmherzig und erfahren, %g3<0xFD>
+ Spione sind überall. %g würde einen hervorragenden
+<0xFD>
+ Zuwachs der %vam darstellen - vielleicht<0xFD>
+ wird %g das auch noch. Sei es, wie es sei,<0xFD>
+ %g kennt Euren Namen, und ohne jeden Zweifel<0xFD>
+ wird %g versuchen, %g3 Drohungen wahrzumachen.<0xFD>
+ Möge die Nacht Euch beschützen.<0xFD>
+<0xFE>
+
+---------- Record 15 [1023] ----------
+%pcn, nicht wahr? Ich habe vom Rest der<0xFD>
+ %vam viel Gutes über Euch gehört.<0xFD>
+ Also, Ihr wollt Euren Blutsvater finden.<0xFD>
+ Ein nachvollziehbares Verlangen, obwohl<0xFD>
+ dieses Privileg jemandem von Eurer Jugend<0xFD>
+ für gewöhnlich nicht eingeräumt wird. Doch<0xFD>
+ ich glaube angesichts Eurer Verdienste<0xFD>
+ für die %vam kann ich eine Ausnahme<0xFD>
+ machen. Lasst mich überlegen; es müsste<0xFD>
+ entweder =elder_ oder =bloodfather_ sein.<0xFD>
+ Ersteren könnt Ihr in ___wrongdung_<0xFD>
+ finden und Letzteren in ___fatherdung_.<0xFD>
+ Ich würde allerdings davon abraten, die<0xFD>
+ Ruhe eines Stammesältesten leichtfertig zu<0xFD>
+ stören. Es wäre wohl das Beste, wenn Ihr<0xFD>
+ _vamp2_ in ___vamp2_ aufsuchen würdet.<0xFD>
+ %g ist der Hüter der Blutlinie und wird Euch<0xFD>
+ mit Sicherheit sagen können, welcher der<0xFD>
+ beiden %vam-Ältesten Euer Blutsvater ist.<0xFD>
+ Nehmt diesen Armreif mit zu %g2, so weiß<0xFD>
+ %g, dass ich Euch geschickt habe.<0xFD>
+<0xFE>
+
+---------- Record 16 [1024] ----------
+Hmph. Ihr seid viel zu jung, als dass Euch<0xFD>
+ solcherlei Informationen anvertraut werden sollten.
+<0xFD>
+ Doch da Ihr das Zeichen von _vamp1_<0xFD>
+ bei Euch tragt, werde ich Euch verraten, wo<0xFD>
+ Euer Blutvater =bloodfather_ residiert.<0xFD>
+ Ihr werdet ihn in seinem Unterschlupf in<0xFD>
+  ___fatherdung_ finden. Seid Euch<0xFD>
+ bewusst, dass die Stammesältesten um<0xFD>
+ diese Zeit des Jahres von niemandem gestört<0xFD>
+ werden möchten. Verletzt die Abgeschiedenheit<0xFD>
+ von =bloodfather_ auf eigene Gefahr.<0xFD>
+<0xFE>
+
+---------- Record 17 [1025] ----------
+Blutsverräter! Wir haben von Eurem Verrat<0xFD>
+ erfahren. Ihr werdet =bloodfather_ niemals<0xFD>
+ finden. Wenn Eure Tage unter den %vam<0xFD>
+ auch gezählt sind, braucht Ihr Euch doch nicht<0xFD>
+ zu sorgen. _hunter_ wird Euch nicht<0xFD>
+ zur Strecke bringen müssen.<0xFD>
+<0xFE>
+
+---------- Record 18 [1030] ----------
+Jungchen, störet meine Meditationen nicht!<0xFD>
+ Fort mit Euch, oder mein Hunger wird mich<0xFD>
+ zwingen, Euch zu töten!<0xFD>
+<0xFE>
+
+---------- Record 19 [1031] ----------
+Ihr habt =elder_ getötet,<0xFD>
+ einen Stammesältesten der %vam.<0xFD>
+<0xFE>
+
+---------- Record 20 [1032] ----------
+%pcn, Euer Blut spricht zu mir.<0xFD>
+ Warum greift Ihr Euren eigenen Vater an?<0xFD>
+ Die %vam bestrafen Vatermord<0xFD>
+ mit dem Tod. Zwingt mich nicht, dieses<0xFD>
+ Urteil selbst zu vollstrecken.<0xFD>
+ Flieht, mein Kind!<0xFD>
+<0xFE>
+
+---------- Record 21 [1040] ----------
+_hunter_ sagte mir, dass ich Euch<0xFD>
+ hier finden würde. Sterbt, Nachtwandler!<0xFD>
+<0xFE>
+
+---------- Record 22 [1045] ----------
+Ein unbekannter Gegenstand in Eurem Gepäck<0xFD>
+ fällt Euch ins Auge. Es ist ein Brief, der<0xFD>
+ in elegant flüssiger Handschrift an Euch<0xFD>
+ adressiert wurde. Wie ist er dorthin gelangt?<0xFD>
+
+<0xFE>
+
+---------- Record 23 [1050] ----------
+%qdt:<0xFC>
+ Der Vampirjäger _hunter_<0xFC>
+ hat mir einen Brief geschickt, in dem<0xFC>
+ %g schwört, mich zur Strecke zu bringen,<0xFC>
+ wenn ich mich nicht vom Vampirismus heile,<0xFC>
+ indem ich meinen Blutsvater töte.<0xFC>
+ _hunter_ weiß nicht, wer oder wo<0xFC>
+ mein Blutsvater ist, aber %g deutete an,<0xFC>
+ dass _vamp1_ in ___vamp1_<0xFC>
+ es wissen könnte. Ich habe =huntstart_ Tage<0xFC>
+ bevor die Vampirjagd beginnt.<0xFC>
+<0xFE>
+
+---------- Record 24 [1051] ----------
+%qdt:<0xFC>
+ _vamp1_ denkt, dass mein Blutsvater<0xFC>
+ entweder in ___wrongdung_ oder<0xFC>
+ in ___fatherdung_ lebt, schlug<0xFC>
+ aber vor, dass ich %g3 Armreif zu _vamp2_<0xFC>
+ in __vamp2_, ___vamp2_, bringe,<0xFC>
+ der mit Sicherheit w________________________________________
+$CUREWER.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Error -- 1000 called<0xFE>
+
+---------- Record 1 [1001] ----------
+Error -- 1001 called<0xFE>
+
+---------- Record 2 [1002] ----------
+Error -- 1002 called<0xFE>
+
+---------- Record 3 [1003] ----------
+Error -- 1003 called<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Während _child_ Euer Blut<0xFD>
+ trinkt, spürt Ihr, wie Euer Kopf<0xFD>
+ zum ersten Mal, seit Ihr an der Lykanthropie<0xFD>
+ erkrankt seid, wieder klar wird.<0xFD>
+ Doch _child_ schreit vor<0xFD>
+ Höllenqualen, als %g vor Euren<0xFD>
+ Augen die Gestalt verändert.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+_hunter_ kommt nach %reg, um die Ausbreitung der 
+Werbestien aufzuhalten.<0xFD>
+ Vielleicht können wir uns dann wieder ohne Furcht 
+nachts auf die Straßen trauen.<0xFD>
+<0xFE>
+
+---------- Record 6 [1006] ----------
+_hunter_ und %g3 Gefolge haben in %reg<0xFD>
+ einen Haufen Werwölfe getötet, aber ich will<0xFD>
+ gehängt sein, wenn sie alle erwischt haben.<0xFD>
+<0xFF>
+_hunter_ hätte es dabei bewenden lassen sollen.<0xFD>
+ %g3 Kreuzzüge haben die Werkreaturen nur noch<0xFD>
+ wütender gemacht.<0xFD>
+<0xFE>
+
+---------- Record 7 [1007] ----------
+_hunter_ und %g3 Gefolge haben in %reg<0xFD>
+ einen Haufen Werwölfe getötet, aber ich will<0xFD>
+ gehängt sein, wenn sie alle erwischt haben.<0xFD>
+<0xFF>
+_hunter_ hätte es dabei bewenden lassen sollen.<0xFD>
+ %g3 Kreuzzüge haben die Lykanthropen nur noch<0xFD>
+ wütender gemacht.<0xFD>
+<0xFE>
+
+---------- Record 8 [1008] ----------
+Error -- 1008 called<0xFE>
+
+---------- Record 9 [1009] ----------
+Error -- 1009 called<0xFE>
+
+---------- Record 10 [1011] ----------
+_hunter_ spürt Lykanthropen in ganz Tamriel auf und 
+vernichtet sie.<0xFF>
+_hunter_ hat %g3 Leben der Jagd nach Lykanthropen 
+gewidmet.<0xFF>
+<0xFE>
+
+---------- Record 11 [1012] ----------
+Man sagt, die Mutter von _hunter_ sei von einem<0xFD>
+ Werwolf getötet worden. Das hat zu %g3<0xFD>
+ fanatischen Hass gegen sie geführt.<0xFD>
+<0xFF>
+_hunter_ musste %g3 seine eigene Mutter töten,<0xFD>
+ nachdem die sich in einen Werwolf verwandelt hatte.
+<0xFD>
+ Das nenne ich einen echten Zeloten!<0xFD>
+<0xFE>
+
+---------- Record 12 [1013] ----------
+_father_ ... der Name klingt vertraut, aber ich kann 
+nicht behaupten, dass ich ihn kenne.<0xFF>
+Ich glaube, _father_ ist vor Jahren gestorben. Oder 
+ist er weggezogen? Ich bin mir nicht sicher.<0xFF>
+_father_ war der Letzte eines einst in<0xFD>
+ ___local_ mächtigen Adelshauses.<0xFD>
+ Er starb vor einigen Jahren, fürchte ich.<0xFD>
+<0xFF>
+Ich glaube, er starb vor zwei oder drei Jahren<0xFD>
+ und ließ sein einziges Kind als Waise zurück.<0xFD>
+ Aber _local_ drüben im __local_ weiß<0xFD>
+ bestimmt mehr darüber.<0xFD>
+<0xFF>
+_father_ lebt schon seit Jahren nicht<0xFD>
+ mehr in ___local_. Ich weiß nicht, was<0xFD>
+ aus ihm geworden ist. Aber _local_ war<0xFD>
+ ein Freund von ihm und weiß vielleicht mehr.<0xFD>
+<0xFF>
+_father_ ist vor langer Zeit nach ___father_<0xFD>
+ weggezogen. Oder war er es, der damals so tragisch
+<0xFD>
+ ums Leben gekommen ist?<0xFD>
+<0xFE>
+
+---------- Record 13 [1014] ----------
+_father_ starb vor einigen Jahren. Sein einziges<0xFD>
+ Kind wurde von einer Familie im __childhouse_<0xFD>
+ adoptiert, glaube ich. Fragt doch dort nach _child_.
+<0xFD>
+<0xFF>
+Wart Ihr ein Freund?  Es tut mir Leid, aber er ist
+<0xFD>
+ vor ungefähr einem Jahr gestorben. Sein einziges
+<0xFD>
+ Kind _child_ wurde von einer Familie in<0xFD>
+ der __childhouse_ aufgenommen.<0xFD>
+<0xFE>
+
+---------- Record 14 [1020] ----------
+                       %qdt<0xFC>
+ <0xFC>
+ Verehrter %pcn,<0xFC>
+ <0xFC>
+     Oder sollte ich Euch "=wereboar_" nennen,<0xFC>
+ wie das gemeine Volk von %reg, das jede<0xFC>
+ Nacht aus Furcht vor Euch die Tore verriegelt?<0xFC>
+ Ja, ich weiß, wer und was Ihr seid, und die Tage,
+<0xFC>
+ die Ihr die Iliac-Bucht terrorisiert habt, sind<0xFC>
+ gezählt. Ich lasse Euch die Wahl: entsagt Eurer<0xFC>
+ Lykanthropie oder werdet wie die wilde Bestie<0xFC>
+ gejagt, die Ihr seid. Niemand soll sagen, dass<0xFC>
+ es _hunter_ an Mitleid fehlen würde. Ich<0xFC>
+ biete Euch eine letzte Chance, Euch zu retten.<0xFC>
+ Geht zu _priest_ vom  __priest_<0xFC>
+ in ___priest_, wenn Ihr weiterleben wollt.<0xFC>
+ %g in in den Eigenarten der Lykanthropie wohl-<0xFC>
+  bewandert, wenn Euch jemand helfen kann, dann<0xFC>
+ ist %g es. Ich werde =huntstart_ Tage warten, bevor
+<0xFC>
+ ich meine Jäger auf Euch hetze. Nutzt die Zeit weise.
+<0xFC>
+ <0xFC>
+ _hunter_<0xFD>
+<0xFE>
+
+---------- Record 15 [1021] ----------
+Ihr müsst %pcn sein. _hunter_ sagte mir,<0xFD>
+ dass Ihr mich womöglich aufsucht,<0xFD>
+ auch wenn %g Zweifel daran hatte, dass Ihr %g3
+<0xFD>
+ Warnung Beachtung schenken würdet. Viele tun<0xFD>
+ es leider nicht, weil sie von ihrer inneren Bestie
+<0xFD>
+ zu berauscht sind, um sich noch zu retten.<0xFD>
+ Ja, der Fluch der Lykanthropie kann aufgehoben
+<0xFD>
+ werden, doch mir graut, davon zu sprechen,<0xFD>
+ denn die Heilung könnte schlimmer als die Krankheit
+<0xFD>
+ sein. Wir sollten leiser sprechen. Ihr wisst es
+<0xFD>
+ vielleicht nicht, aber Lykanthropie ist eine<0xFD>
+ vererbbare Krankheit und wird in gewissen<0xFD>
+ Familien weitergegeben, obwohl es möglich ist,
+<0xFD>
+ dass sie mehrere Generationen lang schläft,<0xFD>
+ bevor sie erneut ausbricht. Deshalb sind diese
+<0xFD>
+ großen Kreuzzüge gegen die Lykanthropen, wie der
+<0xFD>
+ von _hunter_, letzten Endes vergeblich,<0xFD>
+ solange nicht die Familien, die die Blutlinien
+<0xFD>
+ weiterführen, ebenfalls ausgelöscht werden.<0xFD>
+ Ich denke, Ihr versteht nun, warum ich zögere,
+<0xFD>
+ dieses Wissen zu teilen. Wie Ihr wisst kann der
+<0xFD>
+ Biss einer Werbestie die Infektion auf ein neues
+<0xFD>
+ Opfer übertragen. Wenn Ihr jedoch die Infektion
+<0xFD>
+ auf einen latenten Lykanthropen übertragen könntet,
+<0xFD>
+ wird der Fluch wegen der Intensität, mit der er in
+<0xFD>
+ dem neuen Opfer gedeiht, von Euch genommen.<0xFD>
+ Bei meinen Studien bin ich vor Kurzem auf eine
+<0xFD>
+ Familie gestoßen, von der ich sicher bin, dass
+<0xFD>
+ sie die Krankheit in sich trägt. Wenn Ihr diesem
+<0xFD>
+ dunklen Pfad folgen wollt, kann ich Euch sagen,
+<0xFD>
+ wo Ihr den letzten Überlebenden dieser uralten,
+<0xFD>
+ verfluchten Blutlinie finden mögt.<0xFD>
+<0xFE>
+
+---------- Record 16 [1022] ----------
+Nun gut. Ich kann es Euch nicht vorwerfen, dass Ihr
+<0xFD>
+ zu leben wünscht. Ich werde mein Gewissen mit<0xFD>
+ dem Gedanken beruhigen, dass _father_<0xFD>
+ der letzte Nachkomme einer dem Untergang geweihten
+<0xFD>
+ Familie ist, deren Linie besser endet, bevor der 
+Fluch<0xFD>
+ sich erneuern kann. Ja, er  ist es, den Ihr sucht.
+<0xFD>
+ Meines Wissens nach weilt er noch immer in ___local_,
+<0xFD>
+ wo die Familie seit Generationen lebt. Aber zuerst
+<0xFD>
+ werdet Ihr _alchemist_ in ___alchemist_<0xFD>
+ aufsuchen müssen. %g war mir schon früher bei<0xFD>
+ solchen Angelegenheiten behilflich. Der sicherste
+<0xFD>
+ Weg, die Krankheit weiterzugeben, besteht darin,
+<0xFD>
+ das Opfer das Blut des Lykanthropen trinken<0xFD>
+ zu lassen. _alchemist_ wird ob Eures befremdlichen
+<0xFD>
+ Anliegens weder Fragen stellen noch Geschichten<0xFD>
+ verbreiten. Möge %god Eure Schritte leiten.<0xFD>
+<0xFE>
+
+---------- Record 17 [1023] ----------
+Ich verstehe. Tatsächlich bin ich beinahe 
+erleichtert,<0xFD>
+ dass Ihr vor diesem Pfad zur Erlösung 
+zurückschreckt.<0xFD>
+ Es zeigt, dass die Bestie Euch noch nicht völlig
+<0xFD>
+ beherrscht. Ich will keine falschen Hoffnungen
+<0xFD>
+ wecken, aber falls Ihr immer noch versuchen wollt,
+<0xFD>
+ eine Heilung zu finden ... Nun, es ist nicht mehr
+<0xFD>
+ als eine Legende, doch angeblich gibt es irgendwo
+<0xFD>
+ einen Hexenzirkel, der Lykanthropie heilen kann.
+<0xFD>
+ Der beste Anhaltspunkt, den ich habe, ist ein<0xFD>
+ uralter Text, "Geschichte der daedrischen Sekten".
+<0xFD>
+ Unglücklicherweise ist das einzige Exemplar bei
+<0xFD>
+ der Plünderung von ___hintdung_ vor über<0xFD>
+ einem Jahrzehnt verlorengegangen. Vielleicht ist
+<0xFD>
+ es noch irgendwo in den Ruinen dort verborgen.
+<0xFD>
+ Wenn auch sonst nichts, hilft die Suche Euch<0xFD>
+ vielleicht, die Bestie zumindest für eine Weile
+<0xFD>
+ im Zaum zu halten. Möge %god Eure Schritte leiten.
+<0xFD>
+<0xFE>
+
+---------- Record 18 [1024] ----------
+Soso, ein weiterer Besucher von _priest_.<0xFD>
+ Ganz recht, ich weiß, was Ihr wollt, aber das wird
+<0xFD>
+ nicht billig. 1000 Goldstücke im Voraus.<0xFD>
+ Nehmt an oder vergesst es.<0xFD>
+ <0xFD>
+ In Ordnung, haltet eine Minute lang still.<0xFD>
+ <0xFD>
+ Na bitte, hat kein bisschen wehgetan, oder?<0xFD>
+ Jetzt verschwindet hier, bevor einer meiner<0xFD>
+ ehrbaren Kunden Euch sieht.<0xFD>
+<0xFE>
+
+---------- Record 19 [1025] ----------
+Soso, ein weiterer Besucher von _priest_.<0xFD>
+ Ganz recht, ich weiß, was Ihr wollt, aber das wird
+<0xFD>
+ nicht billig. 1000 Goldstücke im Voraus.<0xFD>
+ Nehmt an oder vergesst es.<0xFD>
+ <0xFD>
+ Tut mir Leid, Freundchen, aber Ihr habt<0xFD>
+ nicht genug Bargeld. Raus hier, bevor<0xFD>
+ ich die Wachen rufe.<0xFD>
+<0xFE>
+
+---------- Record 20 [1026] ----------
+Ihr seid auf der Suche nach _father_?<0xFD>
+ Ich fürchte, er ist vor drei Jahren gestorben.<0xFD>
+ Hat sich umgebracht, um genau zu sein, auch<0xFD>
+ wenn nur wenige diesen Teil der Geschichte kennen.
+<0xFD>
+ Ich bin mir nicht sicher, was damals passiert ist,
+<0xFD>
+ aber er wurde sehr übellaunig und fing an,<0xFD>
+ tagelang zu verschwinden. Hat eine Nachricht<0xFD>
+ hinterlassen, in der stand, dass er mit sich<0xFD>
+ selbst nicht leben könnte und nicht wollte,<0xFD>
+ dass _child_ die Wahrheit darüber<0xFD>
+ herausfände. Ich habe nie verstanden, worum<0xFD>
+ es dabei eigentlich ging. Ja, _child_<0xFD>
+ war sein einziges Kind. %g wurde nach dem<0xFD>
+ Tod seines Vaters von einer Familie im<0xFD>
+ __childhouse_ aufgenommen.<0xFD>
+ Ich fürchte, das ist alles, was ich weiß.<0xFD>
+<0xFE>
+
+---------- Record 21 [1027] ----------
+Hallo. Seid Ihr ein Heilkünstler?<0xFD>
+ Ich fühle mich heute nicht besonders wohl.<0xFD>
+ Habt Ihr da Medizin für mich?<0xFD>
+<0xFE>
+
+---------- Record 22 [1028] ----------
+Gebt Ihr _child_ das Blut?<0xFD>
+<0xFE>
+
+---------- Record 23 [1030] ----------
+Wollt Ihr ein Opfer aufspüren, um<0xFD>
+ Euch von der Lykanthropie zu heilen?<0xFD>
+<0xFE>
+
+---------- Record 24 [1040] ----------
+_hunter_ sagte, dass ich Euch hier<0xFD>
+ finden würde. Sterbt, =wereboar_!<0xFD>
+<0xFE>
+
+---------- Record 25 [1045] ----------
+Ihr werdet auf einen fremden Gegenstand in Eurem<0xFD>
+ Gepäck aufmerksam. Es ist ein Brief, der in einer
+<0xFD>
+ gewandten Handschrift an Euch gerichtet wurde.<0xFD>
+ Wie kam er dort hinein?<0xFD>
+<0xFE>
+
+---------- Record 26 [1050] ----------
+%qdt:<0xFC>
+ Der Lykanthropenjäger _hunter_<0xFC>
+ hat mir einen Brief zukommen lassen, in dem<0xFC>
+ %g schwört, mich zur Strecke zu bringen,<0xFC>
+ wenn ich mich nicht von der Lykanthropie heile.<0xFC>
+ %g hat mich zu _priest_ vom<0xFC>
+ __priest_ in ___priest_ geschickt.<0xFC>
+ Ich habe =huntstart_ Tage, bevor die Jagd beginnt.
+<0xFC>
+<0xFE>
+
+---------- Record 27 [1051] ----------
+%qdt:<0xFC>
+ _priest_ erklärte mir, dass der einzige<0xFC>
+ Weg zur Heilung darin besteht, _father_<0xFC>
+ in der ___local_ aufzusuchen, den<0xFC>
+ letzten Nachkommen einer Familie von<0xFC>
+ latenten Lykanthropen, und ihn zu zwingen,<0xFC>
+ mein Blut zu trinken, wodurch die Krankheit<0xFC>
+ vollkommen von mir auf ihn übertragen wird.<0xFC>
+ Ein Alchemist namens _alchemist_ in<0xFC>
+ ___alchemist_ kann zu diesem Zweck<0xFC>
+ eine Phiole meines Blutes vorbereiten.<0xFC>
+<0xFE>
+
+---------- Record 28 [1052] ----------
+%qdt:<0xFC>
+ Ich habe das Angebot von _priest_,<0xFC>
+ meine Lykanthropie zu heilen, indem ich<0xFC>
+ sie auf einen anderen übertrage, abgelehnt.<0xFC>
+ %g3 einziger weiterer Hinweis galt einem<0xFC>
+ Buch, das mich zu einem Hexenzirkel führen<0xFC>
+ könnte, der angeblich ein Heilmittel besitzt.<0xFC>
+ Der letzte bekannte Fundort des Buches war<0xFC>
+ ___hintdung_, also kann ich ebenso gut<0xFC>
+ dort anfangen.<0xFC>
+<0xFE>
+
+---------- Record 29 [1053] ----------
+%qdt:<0xFC>
+ Ich fand eine Buchseite, der zufolge,<0xFC>
+ mehr Informationen über den<0xFC>
+ "Glenmorilzirkel" in der Bibliothek von<0xFC>
+ ___mapdung_ gefunden werden könnten.<0xFC>
+<0xFE>
+
+---------- Record 30 [1054] ----------
+%qdt:<0xFC>
+ Es scheint, als wäre _father_ bereits tot.<0xFC>
+ Aber es ist nicht alle Hoffnung verloren.<0xFC>
+ Ich habe erfahren, dass er ein Kind hatte,<0xFC>
+ _child_, das nun im __childhouse_ lebt.<0xFC>
+<0xFE>
+
+---------- Record 31 [1060] ----------
+Eine Karte, die den Standort des Glenmorilzirkels
+<0xFD>
+ in den Ilessanischen Hügeln zeigt.<0xFD>
+<0xFE>
+
+---------- Record 32 [1061] ----------
+[Dies scheint eine Seite zu sein, die aus einem
+<0xFC>
+ Buch gerissen wurde]<0xFC>
+ <0xFC>
+ "... angeblich die Fähigkeit besitzt, die Toten zu
+<0xFC>
+ erwecken, obgleich das Konklave bis heute keine
+<0xFC>
+ Beweise zutage gefördert hat, die über die üblichen
+<0xFC>
+ Legenden und Anekdoten hinausgehen.<0xFC>
+ <0xFC>
+     Im Gegensatz dazu ist die Existenz des<0xFC>
+ Glenmorilzirkels fest in der Geschichte verwurzelt.
+<0xFC>
+ Tatsächlich ist der Zirkel eine solche Antiquität,
+<0xFC>
+ dass seine Ursprünge selbst vergessen sind. Der
+<0xFC>
+ Zirkel der Sieben, wie er oft genannt wird (der
+<0xFC>
+ Glenmorilzirkel hält dreizehn für eine neumodische
+<0xFC>
+ Verfälschung der ursprünglichen sieben Eingeweihten
+<0xFC>
+ plus sechs Akolythen - einen für jedes Mitglied des
+<0xFC>
+ Zirkels außer der Meisterin, die als über 
+derartigen<0xFC>
+ Lehrpflichten stehend gilt). Wie gewöhnlich 
+vermischen<0xFC>
+ sich im Volksglauben Legenden, wonach der 
+Glenmoril-<0xFC>
+ zirkel über die Heilung der Lykanthropie verfügt,
+<0xFC>
+ mit den Fakten. Eine vollständige Dokumentation
+<0xFC>
+ dieser Legenden kann in der Bibliothek von<0xFC>
+ ___mapdung_ gefunden werden.<0xFC>
+ <0xFC>
+ Die Region der Iliac-Bucht ist auch die Heimat des 
+..."<0xFC>
+<0xFF>
+<0xFE>
+
+eiß, wo ich<0xFC>
+ ihn finden kann.<0xFC>
+<0xFE>
+
+---------- Record 25 [1052] ----------
+%qdt:<0xFC>
+ _vamp2_ sagte mir, dass der Name<0xFC>
+ meines Blutsvaters =bloodfather_ lautet<0xFC>
+ und er in ___fatherdung_ lebt.<0xFC>
+<0xFF>
+<0xFE>
+

@@ -1,0 +1,1224 @@
+________________________________________
+Q0C00Y01.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Wir k&nnten Eure Hilfe bei der Suche<0xFD>
+ nach einem perfiden Dokument<0xFD>
+ gebrauchen, das von unseren Feinden<0xFD>
+ in Umlauf gebracht wurde, um unserem<0xFD>
+ Bund Schaden zuzuf}gen. Ich wei*,<0xFD>
+ wo sich diese Anh#ufung gedruckter<0xFD>
+ L}gen befindet, jedoch ben&tigen<0xFD>
+ wir jemanden wie Euch, der gegen<0xFD>
+ ihren W#chter antritt und ihn zu<0xFD>
+ uns bringt. W}rdet Ihr den<0xFD>
+ ==qgiver_ solcherart<0xFD>
+ behilflich sein?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+So w}rdet Ihr nicht helfen?<0xFD>
+ %oth, dann ersucht die<0xFD>
+ ==qgiver_ nicht<0xFD>
+ um weitere Gefallen.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+So wollt Ihr helfen? Dann seid Euch<0xFD>
+ unserer unverbr}chlichen Dankbarkeit<0xFD>
+ gewiss. Das Schriftst}ck befindet<0xFD>
+ sich in einem Tempel hier in %reg,<0xFD>
+ in einer Stadt, __temple_<0xFD>
+ genannt. _temple_ verwahrt<0xFD>
+ es wohl hinter verschlossenen T}ren,<0xFD>
+ bewacht durch einen _guardian_<0xFD>
+ von erheblicher Macht. Bringt Ihr<0xFD>
+ mir das Schriftst}ck, so gew#hre<0xFD>
+ ich Euch etwas aus der Manufaktur<0xFD>
+ unseres Zirkels, das man _mitem_<0xFD>
+ nennt. Kehrt nicht sp#ter als in<0xFD>
+ =queston_ Tagen zur}ck!<0xFD>
+<0xFE>
+
+---------- Record 3 [1004] ----------
+Ah, das verfluchte Dokument.<0xFD>
+ Ihr empfehlt Euch durch Euren<0xFD>
+ Dienst an der Schwesternschaft,<0xFD>
+ %pct. Hier, nehmt Eure Belohnung<0xFD>
+ - _mitem_ , ganz wie ich<0xFD>
+ es Euch versprach. Die Dankbarkeit<0xFD>
+ des Zirkels der ==qgiver_<0xFD>
+ muss nicht physisch sein,<0xFD>
+ um gesp}rt zu werden.<0xFD>
+<0xFE>
+
+---------- Record 4 [1005] ----------
+Habt Ihr die Geschichte des Zirkels<0xFD>
+ der ==qgiver_  gelesen? Schockierend!<0xFD>
+<0xFE>
+
+---------- Record 5 [1006] ----------
+Die Geschichte des Zirkels der ==qgiver_<0xFD>
+ wird in der Kaiserstadt nachgedruckt.<0xFD>
+<0xFE>
+
+---------- Record 6 [1007] ----------
+Manche haben die Geschichte der<0xFD>
+ ==qgiver_ gelesen, aber<0xFD>
+ die einzige Niederschrift ist<0xFD>
+ verschwunden.<0xFD>
+<0xFE>
+
+---------- Record 7 [1008] ----------
+Seid Ihr mit dem R}stzeug, das wir Euch zur<0xFD>
+ Belohnung gaben, zufrieden, %pcf?<0xFD>
+ Ihr habt es Euch redlich verdient.<0xFD>
+<0xFE>
+
+---------- Record 8 [1009] ----------
+Das verfluchte Dokument wurde<0xFD>
+ in die Kaiserstadt verbracht,<0xFD>
+ um dort f}r die unwissenden<0xFD>
+ Massen vervielf#ltigt zu werden,<0xFD>
+ %pcf. Ihr habt versagt.<0xFD>
+ Verschwindet von diesem Ort!<0xFD>
+<0xFE>
+
+---------- Record 9 [1010] ----------
+%qdt:<0xFC>
+ Ich habe zugestimmt, ein Schriftst}ck<0xFC>
+ }ber die ==qgiver_ aus<0xFC>
+ _temple_ in __temple_<0xFC>
+ in =queston_ Tagen oder weniger zu<0xFC>
+ beschaffen. Das Dokument wird<0xFC>
+ wahrscheinlich von einem _guardian_<0xFC>
+ bewacht.<0xFC>
+<0xFE>
+
+---------- Record 10 [1011] ----------
+Das ist augenscheinlich das Dokument,<0xFD>
+ dass die ==qgiver_ haben wollten.<0xFD>
+<0xFE>
+
+---------- Record 11 [1012] ----------
+Unter den teuflischeren Praktiken der<0xFC>
+ ==qgiver_ findet sich der Ritus,<0xFC>
+ den sie zu Ehren ==daedra_s vollziehen.<0xFC>
+ Das Fleisch eines neugeborenen S#uglings<0xFC>
+ wird f}r dreieinhalb Tage }ber den<0xFC>
+ Flammen brennenden Schwefels gekocht,<0xFC>
+ bis es hart und ledrig ist. Der<0xFC>
+ resultierende Faserstoff wird }ber den<0xFC>
+ Kopf einer schwarzen Katze gen#ht, die<0xFC>
+ in einem K#fig gehalten wird, bis sie<0xFC>
+ sich entweder durch diese Haube gekaut<0xFC>
+ hat oder daran erstickt ist. Stirbt<0xFC>
+ die Katze, wissen die Hexen, dass<0xFC>
+ ==daedra_ ihre Bitten nicht erh&ren<0xFC>
+ wird, }berlebt die Katze jedoch,<0xFC>
+ d}rfen die ==qgiver_<0xFC>
+ ==daedra_ um alles bitten - Tod<0xFC________________________________________
+Q0C00Y03.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Die ==qgiver_ k&nnten<0xFD>
+ tats#chlich Euren Beistand in einer<0xFD>
+ h&chst absurden und doch ernsthaften<0xFD>
+ Angelegenheit gebrauchen. Ihr macht<0xFD>
+ Euch keine Illusionen dar}ber, dass<0xFD>
+ die Hexen aus %reg verachtet<0xFD>
+ werden. Niemand traut uns }ber l#ngere<0xFD>
+ Zeit, denn unsere Macht und<0xFD>
+ Abgeschiedenheit machen uns zu einem<0xFD>
+ Einflussfaktor, der f}r andere nur<0xFD>
+ schwierig zu manipulieren ist.<0xFD>
+ Man hat uns eine Falle gestellt, die<0xFD>
+ schon bald zuschnappen k&nnte, und wir<0xFD>
+ brauchen jemanden wie Euch, um sie<0xFD>
+ zu entsch#rfen. W#ret Ihr an solch<0xFD>
+ einer Aufgabe im Austausch f}r einen<0xFD>
+ _gem_ interessiert?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+So wollt Ihr nicht? %oth,<0xFD>
+ die ==qgiver_ sind an die<0xFD>
+ Feigheit unserer Verb}ndeten gew&hnt.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+So wollt Ihr helfen? Dann nehmt dieses Kind!<0xFD>
+ Es sagt, es sei _child_ gehei*en.<0xFD>
+ Wir haben es vor ein paar Tagen alleingelassen<0xFD>
+ gefunden. Ganz gewiss wurde es dort ausgesetzt,<0xFD>
+ damit uns unsere Feinde unterstellen k&nnen,<0xFD>
+ dass wir in gewisse Vorg#nge verwickelt w#ren -<0xFD>
+ Was glaubt Ihr? Menschenopfer? Verderbung der<0xFD>
+ Unschuldigen? Nichts so Allt#gliches wie<0xFD>
+ Entf}hrung, w}rde ich wetten. _child_<0xFD>
+ sagte uns, dass %g3 Eltern an einem Ort namens<0xFD>
+ _home_ in __home_ leben.<0xFD>
+ Bringt das Kind zur}ck, aber seht Euch vor.<0xFD>
+ Unsere guten Freunde w}rden Euch beide lieber<0xFD>
+ tot sehen, als das Kind nach Hause zur}ckkehren<0xFD>
+ zu lassen. Kehrt in =queston_ oder weniger Tagen<0xFD>
+ zur}ck und wir werden die _gem_-Gemme<0xFD>
+ f}r Euch bereit halten. Auf dass es Euch gelingen mag!
+<0xFD>
+<0xFE>
+
+---------- Record 3 [1004] ----------
+Gut, dass _child_<0xFD>
+ wieder zuhause ist. Vielleicht wird die G}te,<0xFD>
+ welche die ==qgiver_ erwiesen<0xFD>
+ haben, f}r die n#chste Generation mit einigen<0xFD>
+ Mythen }ber unsere Missetaten aufr#umen.<0xFD>
+ Hier ist Eure _gem_-Gemme.<0xFD>
+ Euch geb}hrt Dank, %pcf.<0xFD>
+<0xFE>
+
+---------- Record 4 [1005] ----------
+Die ==qgiver_ sollen noch schlimmer als gemeine Entf}hrer 
+sein.<0xFF>
+Wenn man _child_ nicht findet, wird der Zirkel der 
+==qgiver_ brennen.<0xFE>
+
+---------- Record 5 [1006] ----------
+Man sagt, der Bund der ==qgiver_ habe ein  =child_ entf}
+hrt. Armes Ding.<0xFF>
+Die ==qgiver_ k&nnen nicht widerlegen, dass sie ein Kind 
+entf}hrt haben.<0xFE>
+
+---------- Record 6 [1007] ----------
+Die ==qgiver_ haben  _child_ gar nicht entf}hrt - das 
+Kind selbst sagt, dass sie das nicht getan haben.<0xFF>
+Wenn man _child_s Worten trauen kann, wurde dem Kind von 
+den ==qgiver_ sogar geholfen statt geschadet.<0xFE>
+
+---------- Record 7 [1008] ----------
+Angesichts Eurer G}te gegen}ber _child_ und den ==qgiver_ 
+sch#tze ich mich gl}cklich, mit Euch zu sprechen.<0xFE>
+
+---------- Record 8 [1009] ----------
+Wir baten Euch, klein<0xFD>
+ _child_ nach Hause<0xFD>
+ zu geleiten, doch Ihr habt versagt.<0xFD>
+ Das war weder ein m}*iges Ansinnen<0xFD>
+ noch sind die Schuldzuweisungen harmlos.<0xFD>
+ Verlasst auf der Stelle die ==qgiver_,<0xFD>
+ verfluchter %ra.<0xFD>
+<0xFE>
+
+---------- Record 9 [1010] ----------
+%qdt:<0xFC>
+ Ich bringe ein Kind nach Hause zur}ck,<0xFC>
+ dass bei den ==qgiver_ ausgesetzt<0xFC>
+ wurde. _child_, das Kind,<0xFC>
+ lebt an einem Ort, den man _home_<0xFC>
+ in __home_ nennt. Die Feinde der<0xFC>
+ Hexen, so wurde mir erkl#rt, w}rden uns<0xFC>
+ eher t&ten als das Kind unversehrt<0xFC>
+ heimkehren zu lassen.<0xFC>
+<0xFE>
+
+---------- Record 10 [1011] ----------
+"Hier wohne ich!<0xFD>
+ Hier ist mein Zuhause!"<0xFD>
+ _child_ gibt Euch<0xFD>
+ einen Kuss auf die Wange.<0xFD>
+ "Danke, %pcf!"<0xFD>
+<0xFE>
+
+---------- Record 11 [1012] ----------
+"Hexenliebhaber!<0xFD>
+ Kind von _daedra_!",<0xFD>
+ kreischt eine Stimme.<0xFD>
+<0xFF>
+"Lasst nicht zu, dass das Kind<0xFD>
+ von ==daedra_ und den<0xFD>
+ ==qgiver_ am Leben<0xFD>
+ bleibt!", ruft jemand.<0xFD>
+<0xFF>
+"%god st#rke meine Hand<0xFD>
+ gegen den Handlanger und<0xFD>
+ das Kind dieser h&llischen<0xFD>
+ ==qgiver_!", schreit<0xFD>
+ eine Stimme.<253><0xFE>
+
+---------- Record 12 [1013] ----------
+"Ich werde den Rest meines Weges<0xFD>
+ alleine zur}cklegen", sagt das Kind,<0xFD>
+ entwischt Euch und verschwindet mit<0xFD>
+ erstaunlicher Geschicklichkeit.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+Q0C00Y04.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Die ==qgiver_ wurden von<0xFD>
+ der Magiergilde kontaktiert und nach<0xFD>
+ einem speziellen Trank gefragt, einer<0xFD>
+ sehr heiligen Formel, die in %reg<0xFD>
+ #u*erst begehrt ist. Sie w#ren gewillt,<0xFD>
+ _gold_ Goldst}cke daf}r zu bezahlen,<0xFD>
+ die Euch geh&ren sollen. Uns ist nur<0xFD>
+ am Respekt der Magiergilde gelegen.<0xFD>
+ Die Reise wird nicht einfach werden.<0xFD>
+ Seid Ihr interessiert?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Ich verstehe.<0xFD>
+ Ich bin entt#uscht,<0xFD>
+ aber ich verstehe.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Sehr gut, %pcf. Hier ist der<0xFD>
+ Trank. Nun, Ihr solltet w#hrend des<0xFD>
+ Tages sicher sein, denn jene, die ihn<0xFD>
+ sich aneignen wollen, reisen stets nur<0xFD>
+ bei Nacht. Sie erwarten den Trank in<0xFD>
+ der Magiergilde von ___mguild_<0xFD>
+ in =queston_ Tagen oder weniger, also<0xFD>
+ verweilt nicht zu lange. Fragt nach<0xFD>
+ einem Magier namens _mage_.<0xFD>
+<0xFE>
+
+---------- Record 3 [1004] ----------
+Ah, eine sehr seltene und wundersame Formel.<0xFD>
+ Hier sind Eure _gold_ Goldst}cke.<0xFD>
+ Kein zu hoher Preis f}r diesen Trank.<0xFD>
+<0xFE>
+
+---------- Record 4 [1005] ----------
+Der Frieden zwischen der Magiergilde und den ==qgiver_ 
+ist erstaunlich.<0xFF>
+Dieser Frieden zwischen den Zauberern und Hexen wird 
+nicht lange halten.<0xFE>
+
+---------- Record 5 [1006] ----------
+Die ==qgiver_ sind von einem Abkommen mit der Magiergilde 
+zur}ckgetreten.<0xFF>
+Die Magiergilde bricht ihre Beziehungen zum Zirkel der 
+==qgiver_ ab.<0xFE>
+
+---------- Record 6 [1007] ----------
+Der Zaubertrank, den die Schwesternschaft der ==qgiver_ 
+der Magiergilde gab, heilt Vampirismus!<0xFF>
+Der Zaubertrank, den die ==qgiver_ der Magiergilde }
+bergaben heilt Lykanthropie!<0xFE>
+
+---------- Record 7 [1008] ----------
+Die Magiergilde teilte uns mit, dass die {bergabe gegl}
+ckt ist. Dank Euch, %pcf.<0xFE>
+
+---------- Record 8 [1009] ----------
+Wir haben daran gearbeitet, die<0xFD>
+ Beziehungen zur Magiergilde zu<0xFD>
+ festigen, aber Ihr habt alles<0xFD>
+ zunichte gemacht, indem Ihr vers#umt<0xFD>
+ habt, diesen Trank abzuliefern,<0xFD>
+ %pcf. Geht mir aus den Augen.<0xFD>
+ Ich kann es nicht ertragen, Euch<0xFD>
+ weiter ansehen zu m}ssen.<0xFD>
+<0xFE>
+
+---------- Record 9 [1010] ----------
+%qdt:<0xFC>
+ ==qgiver_ haben mich mit einem<0xFC>
+ mysteri&sen Zaubertrank zur<0xFC>
+ Magiergilde von ___mguild_<0xFC>
+ geschickt. Ich soll des Nachts<0xFC>
+ auf jene achten, die ebenfalls<0xFC>
+ auf den Trank aus sind. Der<0xFC>
+ Name des Magiers, der mir f}r<0xFC>
+ den Trank _gold_ Goldst}cke zahlen<0xFC>
+ wird, ist _mage_.<0xFC>
+ Ich habe =queston_ Tage Zeit,<0xFC>
+ die Zustellung zu erledigen.<0xFC>
+<0xFE>
+
+---------- Record 10 [1012] ----------
+Eine vom Grabesdreck raue Stimme<0xFD>
+ faucht: "Ihr! Dieser Trunk geh&rt uns!"<0xFD>
+<0xFF>
+"Gebt mir den Trank", knurrt jemand.<0xFD>
+ "Er geh&rt Euch nicht!"<0xFD>
+<0xFF>
+Ihr h&rt, wie jemand einen unnat}rlichen,<0xFD>
+ wilden Schrei des Verlangens heult.<0xFD>
+ "Der Trank! Der Trank!"<0xFD>
+<0xFE>
+
+---------- Record 11 [1013] ----------
+Das Geheul eines Wolfes erklingt.<0xFD>
+<0xFF>
+Ihr h&rt, wie etwas einen<0xFD>
+ herzzerei*enden Schrei<0xFD>
+ der Sehnsucht ausst&*t.<0xFD>
+<0xFF>
+Der Ruf eines Wolfes durchdringt<0xFD>
+ die Nacht. Es ist kein Geheul vor<0xFD>
+ Hunger, sondern vor Sehnsucht.<0xFD>
+<0xFE>
+
+---------- Record 12 [1014] ----------
+Der schrille Laut eines Ebers<0xFD>
+ durchdringt die Nacht.<0xFD>
+<0xFF>
+Ihr h&rt das kehlige Knurren<0xFD>
+ eines Ebers, das mit dem Klang<0xFD>
+ der Verzweiflung zittert.<0xFD>
+<0xFF>
+Die Stille der Nacht wird pl&tzlich<0xFD>
+ durch das schrille Knurren eines<0xFD>
+ w}tenden Ebers unterbrochen.<0xFD>
+<0xFE>
+
+---------- Record 13 [1015] ----------
+Ihr f}hlt Euch merkw}rdig.<0xFD>
+<0xFE>
+
+---------- Record 14 [1016] ----------
+Error: Questtext 1016 Called.<0xFE>
+
+---------- Record 15 [1017] ----------
+Was soll das? Die Formel wurde<0xFD>
+ entweiht! Ich bin entt#uscht,<0xFD>
+ dass Ihr nicht einmal diese<0xFD>
+ eine simple Erledigung f}r<0xFD>
+ mich t#tigen konntet.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+Q0C00Y06.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Ich f}rchte, wir haben ein potentielles<0xFD>
+ Problem. Ein Vampir-@ltester, dem Hexen<0xFD>
+ seit jeher ein @rgernis sind, hat ein<0xFD>
+ verlassenes Schloss in unserem Gebiet<0xFD>
+ bezogen. Offensichtlich ist das eine<0xFD>
+ Situation, der wir Abhilfe schaffen<0xFD>
+ m}ssen, meint Ihr nicht auch, %pcf?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Ich kann Eure Furcht nachvollziehen.<0xFD>
+ Nur die sehr Bef#higten oder sehr<0xFD>
+ T&richten w}rden einstimmen, einen<0xFD>
+ Vampir-@ltesten zu t&ten.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+So w}rdet Ihr? Und doch ist ein<0xFD>
+ vampirischer @ltester alles andere<0xFD>
+ als ein schwacher Widersacher.<0xFD>
+ Zieht nicht ohne Vorbereitung in<0xFD>
+ die Schlacht. Die Kreatur wird<0xFD>
+ =vamprival_ genannt<0xFD>
+ und ihr neuer Zufluchtsort ist<0xFD>
+ ein Ort namens ___mondung_.<0xFD>
+ Ihr findet es in ____mondung_.<0xFD>
+ Ich erwarte Euch in =1stparton_ N#chten<0xFD>
+ zur}ck. Auf dass Ihr Euch nicht<0xFD>
+ t&ten lasst, %pcf.<0xFD>
+<0xFE>
+
+---------- Record 3 [1003] ----------
+Vielleicht habt Ihr darauf gehofft,<0xFD>
+ dass =vamprival_<0xFD>
+ Selbstmord begeht? Unwahrscheinlich.<0xFD>
+ Dann m}sst Ihr der Bote %g3 Todes sein.<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Wir konnten selbst hier noch die Schreie<0xFD>
+ des @ltesten vernehmen, %pcf.<0xFD>
+ Ihr habt die Dankbarkeit der Hexen.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Es gab ziemlich viel Bewegung in ___mondung_, aber der 
+Ort wurde schon vor Jahren verlassen.<0xFF>
+=vamprival_ ist Aristokrat. Sagt, dass %g in ___mondung_ 
+und %reg aufr#umt.<0xFC>
+<0xFE>
+
+---------- Record 6 [1006] ----------
+=vamprival_ ist endlich aus dem Ort namens ___mondung_ 
+fortgezogen, wie ich h&rte. Kein Ort f}r einen 
+Aristokraten.<0xFF>
+Nun, da =vamprival_  ___mondung_ verlassen hat, ist %g 
+h#ufig dr}ben in den Hallen.<0xFC>
+<0xFE>
+
+---------- Record 7 [1007] ----------
+Es hat sich herausgestellt, dass =vamprival_ ein Vampir 
+war! Ich hatte ja keine Ahnung!<0xFF>
+%god sei Dank hat dieser wunderbare %ra-S&ldner den 
+Vampir in ___mondung_ get&tet.<0xFC>
+<0xFE>
+
+---------- Record 8 [1008] ----------
+Wir haben =vamprival_ nicht vergessen, %pcf. Was k&nnen 
+wir f}r Euch tun?<0xFC>
+<0xFE>
+
+---------- Record 9 [1009] ----------
+=vamprival_ durchstreift noch<0xFD>
+ immer die Nacht und zehrt von unseren<0xFD>
+ Schwestern. Ihr h#ttet erkennen und<0xFD>
+ erkl#ren sollen, dass Ihr der Kreatur<0xFD>
+ nicht gewachsen seid. Verlasst uns<0xFD>
+ jetzt. Wir werden nicht weitersprechen.<0xFD>
+<0xFE>
+
+---------- Record 10 [1011] ----------
+_witch_ ist eine sehr freundliche und intelligente 
+=witch_ in __witch_.<0xFF>
+_witch_ ist diese nette =witch_, die Ihr in __witch_ 
+findet, %di von hier.<0xFC>
+<0xFE>
+
+---------- Record 11 [1012] ----------
+_witch_ geh&rt dem Hexenkult von ___witch_ an.<0xFF>
+_witch_ ist eine ___witch_-Hexe, eine =witch_.<0xFC>
+<0xFE>
+
+---------- Record 12 [1015] ----------
+%qdt:<0xFC>
+ _witch_ von ___witch_ hat<0xFC>
+ mich ausgesandt, einen Vampir-@ltesten<0xFC>
+ zu t&ten, der auf die Vernichtung der<0xFC>
+ Hexen von %reg versessen ist.<0xFC>
+ Ich habe versprochen, dass ich der<0xFC>
+ untoten Kreatur in ___mondung_<0xFC>
+ binnen =1stparton_ Tagen einen dauerhaften<0xFC>
+ Tod bereite und dann nach ___witch_<0xFC>
+ zur}ckkehre.<0xFC>
+<0xFE>
+
+---------- Record 13 [1020] ----------
+Ihr habt =vamprival_ get&tet.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+Q0C00Y07.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Unsere Schwester _witch_<0xFD>
+ wurde gefangengenommen. Wir brauchen<0xFD>
+ jemanden wie Euch, um sie zu retten.<0xFD>
+ Willigt Ihr ein?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Ihr habt ein Herz aus Eis,<0xFD>
+ %pcf. Sehr zur Schande!<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Wenn Ihr uns helft, werden wir<0xFD>
+ uns als sehr dankbar erweisen.<0xFD>
+ Gebt ihr dieses Gewand zur<0xFD>
+ Verkleidung, sobald Ihr sie in<0xFD>
+ ___mondung_ findet.<0xFD>
+ Wir erwarten Euch beide in =queston_ Tagen<0xFD>
+ zur}ck, wenn nicht schon fr}her.<0xFD>
+<0xFE>
+
+---------- Record 3 [1004] ----------
+_witch_, es tut meinem<0xFD>
+ Herzen gut, Euch wohlbehalten<0xFD>
+ hier zu sehen. %pcf,<0xFD>
+ Ihr habt Euch heute den Respekt<0xFD>
+ der ==qgiver_ verdient.<0xFD>
+<0xFE>
+
+---------- Record 4 [1005] ----------
+Wenn sie mit der Befragung von _witch_ fertig sind, 
+warten die Flammen auf sie.<0xFF>
+Es wird f}r _witch_ schon recht bald den Galgen oder das 
+Feuer geben.<0xFC>
+<0xFE>
+
+---------- Record 5 [1006] ----------
+_witch_s Hinrichtung war es wirklick wert, ihr 
+beizuwohnen. Ein Spa* f}r die ganze Familie.<0xFF>
+_witch_ ist jetzt nur noch Asche. Alle Zauberspr}che 
+konnten ihr nicht helfen.<0xFC>
+<0xFE>
+
+---------- Record 6 [1007] ----------
+_witch_ ist davongekommen. Die Leute sagen, ==qgiver_ 
+stecken dahinter.<0xFF>
+_witch_ wurde nie Gerechtigkeit zuteil. Nicht einmal 
+wirkliche Folter.<0xFC>
+<0xFE>
+
+---------- Record 7 [1008] ----------
+_witch_ erholt sich pr#chtig, %pcf, es wird Euch sicher 
+freuen, das zu h&ren.<0xFC>
+<0xFE>
+
+---------- Record 8 [1009] ----------
+Unsere Schwester _witch_<0xFD>
+ ist tot, bei lebendigem Leibe<0xFD>
+ verbrannt. Vielleicht h#ttet Ihr<0xFD>
+ sie retten k&nnen, vielleicht<0xFD>
+ auch nicht. Aber Ihr seid hier<0xFD>
+ nicht l#nger willkommen.<0xFD>
+ Vielleicht f}r sehr lange Zeit<0xFD>
+ nicht mehr.<0xFD>
+<0xFE>
+
+---------- Record 9 [1010] ----------
+%qdt:<0xFC>
+ Die ==qgiver_ haben mich nach<0xFC>
+ ___mondung_ ausgesandt.<0xFC>
+ Dort wird _witch_, eine<0xFC>
+ Schwester der Hexen, gefangen<0xFC>
+ gehalten. Ich soll ihr<0xFC>
+ _clothes_ geben, um sie zu<0xFC>
+ verkleiden, und zu den<0xFC>
+ ==qgiver_ zur}ckkehren,<0xFC>
+ bevor  =queston_ Tage verstrichen sind.<0xFC>
+<0xFE>
+
+---------- Record 10 [1011] ----------
+Die ==qgiver_ haben Euch geschickt?<0xFD>
+ ==daedra_ sei gepriesen!<0xFD>
+ Ich werde die _clothes_<0xFD>
+ anziehen, dann k&nnen wir von<0xFD>
+ hier verschwinden.<0xFD>
+<0xFE>
+
+---------- Record 11 [1012] ----------
+"Es ist _witch_,<0xFD>
+ die Gefangene! Bleibt stehen!<0xFD>
+ Hexenweib!"<0xFD>
+<0xFF>
+"Schluss mit Gef#ngnis, _witch_!<0xFD>
+ Diesmal geht es geradewegs zur Exekution!"<0xFD>
+<0xFF>
+"Halt! Ihr seid _witch_!"<0xFD>
+<0xFE>
+
+---------- Record 12 [1013] ----------
+"Ich denke ich schaffe es<0xFD>
+ von hier aus alleine zu den<0xFD>
+ ==qgiver_," _witch_<0xFD>
+ dankt Euch und schreitet ihres Weges.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+Q0C00Y08.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Ja, in der Tat, Ihr k&nntet uns<0xFD>
+ behilflich sein, %pcf.<0xFD>
+ Wir sind ein abgeschiedener Zirkel,<0xFD>
+ von der Au*enwelt mit Furcht und<0xFD>
+ Feindseligkeit bedacht. Wenn Ihr<0xFD>
+ uns einen gewissen seltenen Folianten,<0xFD>
+ der f}r uns in ___contact_<0xFD>
+ bereitgehalten wird, verschaffen<0xFD>
+ k&nntet, w#re es uns eine Freude, Euch<0xFD>
+ einen, sagen wir, speziellen Gegenstand<0xFD>
+ namens _mitem_, pers&nlich<0xFD>
+ f}r Euch angefertigt, zu }berlassen.<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Wohlan, dann sollten wir auf den n#chsten<0xFD>
+ umherstreifenden Reisenden warten.<0xFD>
+ Es ist uns damit nicht so eilig.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+So w}rdet Ihr? Der Name des Folianten ist<0xFD>
+ _book_ - tats#chlich ein<0xFD>
+ sehr seltenes Werk. Selbst wenn jemand<0xFD>
+ eine Abschrift davon f#nde, w#re ihr<0xFD>
+ Preis noch immer unerschwinglich.<0xFD>
+ Wir sind daher gl}cklich, einen Freund<0xFD>
+ in ___contact_ zu haben,<0xFD>
+ ein =contact_ namens _contact_.<0xFD>
+ Dieser Freund hat eine Abschrift gestohlen.<0xFD>
+ Wenn Ihr %g2 in __contact_<0xFD>
+  trefft, wird %g Euch das Buch }bergeben.<0xFD>
+ Wir erwarten Euch in =queston_ Tagen zur}ck.<0xFD>
+ Danach wird das Buch keinen Nutzen mehr<0xFD>
+ f}r uns haben. M&ge ==daedra_<0xFD>
+ }ber Eure Reise wachen.<0xFD>
+<0xFE>
+
+---------- Record 3 [1004] ----------
+Ah, da ist es. Ich hatte gehofft,<0xFD>
+ dass sich Euch Gelegenheit bot,<0xFD>
+ die Abhandlung durchzusehen,<0xFD>
+ werter %pcf. Es ist<0xFD>
+ zweifelhaft, ob Ihr in naher<0xFD>
+ Zukunft noch einmal seinesgleichen<0xFD>
+ finden werdet. Nun, hier ist Euer<0xFD>
+ _mitem_.<0xFD>
+<0xFE>
+
+---------- Record 4 [1005] ----------
+_contact_ steht unter Verdacht. Sie sagen, dass %g Umgang 
+mit den Hexen pflegt.<0xFF>
+_contact_ ist insgeheim eine Hexe, sagen manche. <0xFE>
+
+---------- Record 5 [1006] ----------
+_contact_ was arrested and burned at the stake. Serves %
+g2 right.<0xFF>
+Poor _contact_ never could keep %g3 mouth shut. Well, 
+'tis shut now.
+_contact_ wurde verhaftet und am Pfahl verbrannt. Recht 
+so.<0xFF>
+_contact_ konnte noch nie den Mund halten. Damit ist nun 
+Schluss.<0xFE>
+
+---------- Record 6 [1007] ----------
+_contact_ wurde verhaftet, aber das _book_ fanden sie 
+nicht.<0xFF>
+Sie haben _contact_ geschnappt, aber %g war wohl nicht 
+der =contact_, der das _book_gestohlen hat.<0xFE>
+
+---------- Record 7 [1008] ----------
+Oh, hallo, %pcf. Ich las just in _book_ - der Abschrift, 
+die wir Euch verdanken.<0xFE>
+
+---------- Record 8 [1009] ----------
+_book_ ist vielleicht<0xFD>
+ f}r immer verlorengegangen.<0xFD>
+ Jetzt ist keine Zeit zum Reden.<0xFD>
+ Geht, verlasst die ==qgiver_.<0xFD>
+ Ihr seid hier nicht l#nger willkommen.<0xFD>
+<0xFE>
+
+---------- Record 9 [1010] ----------
+%qdt:<0xFC>
+ Die ==qgiver_ haben mich<0xFC>
+ nach ___contact_ geschickt,<0xFC>
+ um einen =contact_ namens<0xFC>
+ _contact_ in __contact_<0xFC>
+ aufzusuchen und ein sehr seltenes<0xFC>
+ Buch zu beschaffen. Ich soll das<0xFC>
+ Buch in =queston_ Tagen oder<0xFC>
+ weniger zu den ==qgiver_<0xFC>
+ zur}ckbringen.<0xFC>
+<0xFE>
+
+---------- Record 10 [1011] ----------
+Alles klar, %pcf, hier ist<0xFD>
+ das Buch. Nur passt auf Euch auf.<0xFD>
+ Die Wachen durchk#mmen ganz<0xFD>
+ ___contact_ nach dem Ding.<0xFD>
+<0xFE>
+
+---------- Record 11 [1012] ----------
+Bleibt stehen! Dieb!<0xFD>
+<0xFE>
+
+---------- Record 12 [1013] ----------
+Es kommt Euch pl&tzlich in den Sinn,<0xFD>
+ dass die Hexen genau in diesem Moment<0xFD>
+ das Buch erwartet haben.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+Q0C0XY02.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+So w}rdet Ihr den ==qgiver_<0xFD>
+ helfen %pcf? Viele kommen wegen<0xFD>
+ Beistands zu uns, wenden sich<0xFD>
+ aber wieder von uns ab, sobald<0xFD>
+ ihre W}nsche erf}llt wurden,<0xFD>
+ ihre Schw}re zu Fl}chen und<0xFD>
+ ihre Versprechen zu Verruchtheiten<0xFD>
+ geworden sind. W}rdet Ihr um<0xFD>
+ der Dankbarkeit der ==qgiver_<0xFD>
+ willen einen dieser Misset#ter<0xFD>
+ an der Schwesternschaft bestrafen?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Nicht einmal das w}rdet Ihr tun?<0xFD>
+ %oth, bei ==daedra_,<0xFD>
+ Ich nehme an, Ihr versprecht besser<0xFD>
+ nichts, was Ihr nicht halten k&nnt.<0xFD>
+ Trotzdem bin ich gekr#nkt.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Das werdet Ihr wirklich?<0xFD>
+ Wenn Ihr es w}nscht soll ein<0xFD>
+ ausgezeichnetes Ausr}stungsst}ck<0xFD>
+ namens _mitem_ f}r Euch<0xFD>
+ gefertigt werden. Nun macht Euch<0xFD>
+ zu jenem weit entfernten Ort auf,<0xFD>
+ der da __tavern_<0xFD>
+ hei*t und sucht die Person auf,<0xFD>
+ die uns betrogen hat, eine<0xFD>
+ abgefeimte, uns als =man_<0xFD>
+ bekannte Gestalt, die sich selbst<0xFD>
+ _man_ nennt. Gebt der Person<0xFD>
+ dieses _jewelry_, sagt weiterhin,<0xFD>
+ dies sei ein Geschenk von einer<0xFD>
+ alten Liebschaft und dann kehrt<0xFD>
+ zu uns zur}ck. Ihr m}sst euch<0xFD>
+ beeilen, denn das _jewelry_<0xFD>
+ wird die innere Sch&nheit nach<0xFD>
+ au*en kehren. Die ==qgiver_<0xFD>
+ werden Euch in =queston_ Tagen erwarten.<0xFD>
+ M&ge ==daedra_ auf Eure<0xFD>
+ heilige Aufgabe herabl#cheln!<0xFD>
+<0xFE>
+
+---------- Record 3 [1004] ----------
+Gut %pcf, Euer Versprechen<0xFD>
+ an die ==qgiver_ soll als<0xFD>
+ erf}llt gelten. Wie versprochen,<0xFD>
+ erhaltet Ihr etwas R}stzeug,<0xFD>
+ das man _mitem_ nennt.<0xFD>
+ _man_, armer Teufel.<0xFD>
+ Ich hoffe, dass sie das Schwein<0xFD>
+ sehr leiden lassen, bevor man<0xFD>
+ ihm ein Ende bereitet.<0xFD>
+<0xFE>
+
+---------- Record 4 [1005] ----------
+_man_ hat alles Erreichte aus eigener Kraft geschafft. 
+Ein wahres Wunder.<0xFF>
+Die ==qgiver_ k&nnen extrem rachs}chtig sein.<0xFC>
+<0xFE>
+
+---------- Record 5 [1006] ----------
+_man_ lacht }ber die Vorstellung, den ==qgiver_ 
+irgendetwas schuldig zu sein.<0xFF>
+_man_ hat __tavern_ verlassen und wird schon schmerzlich 
+vermisst.<0xFC>
+<0xFE>
+
+---------- Record 6 [1007] ----------
+_man_ verwandelte sich in _tavern_ vor der versammelten 
+Kundschaft in eine grauenhafte Bestie.<0xFF>
+_man_ muss wohl mit Daedra verkehrt haben. %oth, was f}r 
+ein Schicksal.<0xFC>
+<0xFE>
+
+---------- Record 7 [1008] ----------
+Wahrlich, ich hoffe Ihr findet an Eurem _mitem_ Gefallen, 
+%pcf.<0xFC>
+<0xFE>
+
+---------- Record 8 [1009] ----------
+Unsere Vergeltung an _man_<0xFD>
+ ist noch nicht vollendet!<0xFD>
+ Verschwindet von hier oder %g3<0xFD>
+ wohlverdientes Schicksal wird<0xFD>
+ sich auch gegen Euch wenden,<0xFD>
+ %pcf.<0xFD>
+<0xFE>
+
+---------- Record 9 [1011] ----------
+_man_ dankt Euch f}r das<0xFD>
+ _jewelry_. %g probiert es an,<0xFD>
+ w#hrend Ihr erkl#rt, wer es %g2<0xFD>
+ zukommen l#sst. Beim Namen der<0xFD>
+ ==qgiver_ weiten sich die Augen<0xFD>
+ vor Furcht, dann verwandelt sich<0xFD>
+ die Furcht in Schmerz.<0xFD>
+<0xFE>
+
+---------- Record 10 [1012] ----------
+Ihr solltet _man_ nicht umbringen,<0xFD>
+ sondern lediglich das_jewelry_<0xFD>
+ }berreichen! T&lpel! M&rder!<0xFD>
+ _man_ sollte f}r %g3 Insolenz<0xFD>
+ zutiefst leiden, nicht einfach<0xFD>
+ nur schmerzlos dahingerafft werden.<0xFD>
+ ==daedra_ verfluche Euch,<0xFD>
+ %pcf!<0xFD>
+<0xFE>
+
+---------- Record 11 [1020] ----------
+%qdt:<0xFC>
+ Die ==qgiver_<0xFC>
+ von %reg haben mich ausgesandt,<0xFC>
+ ein _jewelry_ zu einer Person<0xFC>
+ namens _man_, die mir als<0xFC>
+ =man_ beschrieben wurde, in<0xFC>
+ __tavern_ zu bringen.<0xFC>
+ Mir wurde gesagt mich zu beeilen,<0xFC>
+ weil das _jewelry_ "das @u*ere<0xFC>
+ in ein Abbild der inneren Sch&nheit"<0xFC>
+ verwandeln w}rde. Ich muss das<0xFC>
+ _jewelry_ in  =queston_ Tagen }berbracht<0xFC>
+ haben und zu den ==qgiver_<0xFC>
+ zur}ckgekehrt sein.<0xFC>
+<0xFF>
+<0xFE>
+
+________________________________________
+Q0C10Y00.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Wenn Ihr die Hilfe der ==qgiver_<0xFD>
+ w}nscht, m}sst zun#chst Ihr uns einen<0xFD>
+ Dienst erweisen. Werdet Ihr uns die<0xFD>
+ drei Zutaten bringen, die wir brauchen,<0xFD>
+ um unser Gebr#u zu vollenden?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Dann verschwindet vom Grund unseres Zirkels!<0xFD>
+ Ungl}ck folgt jenen, die Alles f}r Nichts erwarten.
+<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Wir Hexen brauchen der Zutaten drei f}r<0xFD>
+ unser Gebr#u des Wetterweberei, doch sie<0xFD>
+ aufzutreiben blieb uns bisher verwehrt.<0xFD>
+ Zuerst, etwas _item1_ aus ___dungeon1_.<0xFD>
+ Durchsucht zum zweiten ___dungeon2_<0xFD>
+ nach ein wenig _item2_, was die Wolken<0xFD>
+ zum Kochen bringen wird. Zuletzt m}sst<0xFD>
+ Ihr uns das wirksame Ingredienz _item3_<0xFD>
+ aus ___dungeon3_ bringen.<0xFD>
+ Beschafft uns diese Dinge in =queston_ Tagen,<0xFD>
+ bevor sich unser Kessel erkaltet.<0xFD>
+<0xFE>
+
+---------- Record 3 [1003] ----------
+Wir ben&tigen _item1_, _item2_,<0xFD>
+ und _item3_, %pcn.<0xFD>
+ Wir haben keine Zeit f}r Geschw#tz.<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Geschwind, Schwester, nehmt die Last von<0xFD>
+ diesem %ra. _item1_ zerst}ckelt,<0xFD>
+ _item2_ gesch#lt und zersto*en<0xFD>
+ das _item3_. Hier haben wir drei<0xFD>
+ glitzernde Murmeln, f}r die wir keine<0xFD>
+ Verwendung haben. Nehmt sie, %pcn,<0xFD>
+ als Zeichen unserer Dankbarkeit.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Das Wetter war in letzter Zeit ziemlich vorhersehbar. Die 
+Hexen m}ssen wohl schlafen.<0xFF>
+Eine dieser Hexen versuchte, gesch#ftlich hier in den Ort 
+zu kommen, aber wir haben sie verjagt.<0xFE>
+
+---------- Record 6 [1006] ----------
+Erinnert Euch, wie die Hexen einst unseren %t verflucht 
+haben. Sch#tze, ihr Funken ist erloschen.<0xFF>
+Man sagt, die ==qgiver_ h#tten ihr Handwerk verlernt.
+<0xFE>
+
+---------- Record 7 [1007] ----------
+Man kann die Energie fast sp}ren. Als w}rde sich die Luft 
+bereit machen, zu explodieren.<0xFF>
+Wer auch immer behauptet, die ==qgiver_ verst}nden nichts 
+von ihrem Handwerk, ist ein verdammter Narr.<0xFE>
+
+---------- Record 8 [1008] ----------
+Wegen der von Euch besorgten Zutaten - _item1_, _item2_ 
+und _item3_ - stehe ich Euch zu Diensten, %pcf.<0xFE>
+
+---------- Record 9 [1009] ----------
+Ich ersuchte Euch um drei Zutaten,<0xFD>
+ Ihr aber habt die ==qgiver_ entt#uscht.<0xFD>
+ Geht mir aus den Augen!<0xFD>
+<0xFE>
+
+---------- Record 10 [1011] ----------
+Sie ist eine der ==qgiver_. Jemand, zu dem man h&flich 
+sein sollte.<0xFF>
+Sie ist eine m#chtige Prophetin, die den ==qgiver_ 
+angeh&rt.<0xFE>
+
+---------- Record 11 [1015] ----------
+%qdt:<0xFC>
+ Wenn ich _qgiver_s Anerkennung<0xFC>
+ gewinnen will, muss ich drei Gegenst#nde<0xFC>
+ beschaffen und sie innerhalb von =queston_ Tagen<0xFC>
+ zu den ==qgiver_ bringen.<0xFC>
+ Die drei Dinge - _item1_, _item2_,<0xFC>
+ und _item3_ - m}ssen aus<0xFC>
+ ___dungeon1_, ___dungeon2_,<0xFC>
+ und ___dungeon3_ geborgen werden.<0xFC>
+ Sieht so aus, als h#tte ich alle H#nde<0xFC>
+ voll zu tun.<0xFC>
+<0xFE>
+
+---------- Record 12 [1021] ----------
+Ihr habt die Zutat _item1_ gefunden.<0xFD>
+ _qgiver_ hatte Euch darum gebeten.<0xFD>
+<0xFE>
+
+---------- Record 13 [1022] ----------
+Das muss das bisschen _item2_<0xFD>
+ sein, das _qgiver_ w}nschte.<0xFD>
+<0xFE>
+
+---------- Record 14 [1023] ----------
+Dies sieht aus wie die Probe _item3_,<0xFD>
+ die _qgiver_ ben&tigte.<0xFD>
+<0xFF>
+<0xFE>
+
+________________________________________
+Q0C20Y02.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Ihr seid den ==questgiver_ Freund,<0xFD>
+ dies wissen wir. Aber um Euch zu<0xFD>
+ helfen, muss ein Zauber gewoben<0xFD>
+ werden; ein Zauber, der zuerst<0xFD>
+ zerst&ren muss, bevor er erschafft.<0xFD>
+ Werdet Ihr uns einen Gegenstand<0xFD>
+ namens _magicitem_ f}r unser<0xFD>
+ Gebr#u bringen, auf dass Euch durch<0xFD>
+ seine Vernichtung Segen zuteil wird?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Ihr seid f}r diese Aufgabe zu besch#ftigt,<0xFD>
+ obwohl Ihr Euch ihrer Bedeutung gewahr seid?<0xFD>
+ Bedauerlich f}r die ==questgiver_ und<0xFD>
+ bedauerlich f}r Euch, %pcn.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Die Zutat _magicitem_,<0xFD>
+ die wir brauchen, ist im Besitz der<0xFD>
+ ==other_. Wir ben&tigen es,<0xFD>
+ bevor der Tag =1stparton_ mal ged#mmert hat.<0xFD>
+ Die Gemeinschaft der ==other_<0xFD>
+ kann in ___other_ angetroffen<0xFD>
+ werden. Fragt nach _other_.<0xFD>
+ M&gen die G&tter und Geister Eure Schritte<0xFD>
+ leiten, %pcf.<0xFD>
+<0xFE>
+
+---------- Record 3 [1003] ----------
+_magicitem_, %pcf ...<0xFD>
+ Habt Ihr vergessen?<0xFD>
+<0xFE>
+
+---------- Record 4 [1004] ----------
+Ah, _magicitem_, die fehlende Zutat<0xFD>
+ f}r unser Gebr#u. Geschwind, Schwestern.<0xFD>
+ Biegt und brecht und kocht es im<0xFD>
+ verschlossenen Bottich. Hier haben wir<0xFD>
+ eine _reward_gemme f}r Euch,<0xFD>
+ %pcn, um Euch f}r Eure<0xFD>
+ Eile und Tapferkeit zu entlohnen.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Erinnert Ihr Euch noch daran, wie die Hexen einst %t in 
+eine Schnecke verwandelt haben?<0xFF>
+Das Einzige, was schlimmer ist, als auf die ==questgiver_ 
+zu treffen, ist es, ihren Zorn zu beschw&ren.<0xFE>
+
+---------- Record 6 [1006] ----------
+Letzte Nacht h&rte ich ein Heulen in den W#ldern. Ich 
+denke, die Hexen sind au*er Rand und Band.<0xFF>
+Riecht Ihr diesen sauren Geruch im Wind? Das bedeutet, 
+dass die ==questgiver_ w}tend sind.<0xFE>
+
+---------- Record 7 [1007] ----------
+Man sagt, die ==questgiver_ feiern das Aufgehen einer 
+ihrer Intrigen.<0xFF>
+Man kann von dem Geruch in der Luft trunken werden. Ein 
+Zeichen fr&hlicher Hexen.<0xFE>
+
+---------- Record 8 [1008] ----------
+M&gt Ihr Euren _reward_, %pcf? Ich denke, er wird Euch 
+zufriedenstellen.<0xFE>
+
+---------- Record 9 [1009] ----------
+Habt Ihr das _magicitem_ vergessen?<0xFD>
+ %oth, nun ist es zu sp#t.<0xFD>
+ Die ==questgiver_ sind entt#uscht,<0xFD>
+ %pcf. Wahrlich, das sind wir.<0xFD>
+<0xFE>
+
+---------- Record 10 [1010] ----------
+Das _magicitem_ wollt Ihr?<0xFD>
+ Es soll f}r tausend Euer sein.<0xFD>
+ Sehr gut, hier habt Ihr.<0xFD>
+<0xFE>
+
+---------- Record 11 [1011] ----------
+Sie ist eine sehr weise Frau der ==questgiver_.<0xFF>
+Sie ist eine Frau von den ==questgiver_, mit der nicht zu 
+spa*en ist.<0xFE>
+
+---------- Record 12 [1020] ----------
+Ich gebe dieses _magicitem_<0xFD>
+ nicht f}r weniger als eintausend Goldst}cke<0xFD>
+ aus den H#nden. Und selbst das tue ich<0xFD>
+ nur f}r die ==questgiver_.<0xFD>
+<0xFE>
+
+---------- Record 13 [1025] ----------
+%qdt:<0xFC>
+ _questgiver_ von den<0xFC>
+ ==questgiver_ hat mich ausgesandt,<0xFC>
+ um ein _magicitem_, das im Besitz<0xFC>
+ einer Gruppe ist, die sich ==other_<0xFC>
+ nennt, bei einer =other_ namens<0xFC>
+ _other_ in ___other_.<0xFC>
+ Ich habe =1stparton_ Tage Zeit, das<0xFC>
+ _magicitem_ zu holen und zu<0xFC>
+ ___questgiver_ zur}ckzukehren.<0xFC>
+<0xFF>
+<0xFE>
+
+________________________________________
+Q0C4XY04.QRC
+________________________________________
+---------- Record 0 [1000] ----------
+Die ==questgiver_ m}ssen einmal mehr<0xFD>
+ Eure Macht und Freundlichkeit in Anspruch<0xFD>
+ nehmen. Wir ben&tigen f}r unser Zauberwerk<0xFD>
+ das Herz eines Daedra, das frisch und von<0xFD>
+ Euch herausgerissen worden sein muss.<0xFD>
+ Wollt Ihr f}r Eure lieben Muhmen einen<0xFD>
+ Daedra finden und t&ten?<0xFD>
+<0xFE>
+
+---------- Record 1 [1001] ----------
+Nein? Oh, Nacht voller Kummer.<0xFD>
+<0xFE>
+
+---------- Record 2 [1002] ----------
+Die G&ttin l#chelt auf uns herab,<0xFD>
+ %pcn, denn es gibt ein<0xFD>
+ Verlies nicht weit von hier, das<0xFD>
+ von Daedra heimgesucht wird. Jedes<0xFD>
+ Daedraherz, au*er dem eines Dremora,<0xFD>
+ wird gen}gen, denn ihre sind von<0xFD>
+ W}rmern verdorben. Geht nun nach<0xFD>
+ ___mondung_, %pcn,<0xFD>
+ t&tet einen Daedra und bringt uns das<0xFD>
+ Herz vor =1stparton_ Sonnenunterg#ngen.<0xFD>
+<0xFE>
+
+---------- Record 3 [1003] ----------
+Das Herz, %pcn,<0xFD>
+ schl#gt in ___mondung_<0xFD>
+ in der Brust eines Daedra.<0xFE>
+
+---------- Record 4 [1004] ----------
+Seht nur, wie es dampft und immer<0xFD>
+ noch in den blutigen H#nden von<0xFD>
+ %pcn schl#gt!<0xFD>
+ Schnell in die brackige Br}he damit,<0xFD>
+ bevor es erkaltet. Ah,<0xFD>
+ %pcn, nehmt diesen<0xFD>
+ _reward_ f}r Eure Unanehmlichkeiten.<0xFD>
+ Ihr seid gut zu uns armen Hexen.<0xFD>
+<0xFE>
+
+---------- Record 5 [1005] ----------
+Die Daedra  von ___mondung_ haben anscheinend etwas vor. 
+Was ein Haufen!<0xFF>
+%god hat uns verflucht. Warum sonst sind die Daedra in 
+___mondung_ eingefallen?<0xFC>
+<0xFE>
+
+---------- Record 6 [1006] ----------
+Gepriesen sei %god, die Daedra haben ___mondung_ 
+verlassen. Ich konnte n#chtelang nicht schlafen!<0xFF>
+Die Daedra verlie*en ___mondung_ auf so mysteri&se Weise 
+wie sie gekommen sind. Auf Nimmerwiedersehen, sage ich.
+<0xFC>
+<0xFE>
+
+---------- Record 7 [1007] ----------
+Wenn sich die Sterne so wie letzte Nacht verdunkeln, ist 
+das ein Zeichen f}r den Tod eines Daedras.<0xFF>
+Habt Ihr letzte Nacht die Musik in den W#ldern geh&rt? 
+Die Hexen feiern anscheinend.<0xFC>
+<0xFE>
+
+---------- Record 8 [1008] ----------
+Freund der ==questgiver_, wie steht es um Euch und Eure 
+Belohnung?<0xFC>
+<0xFE>
+
+---------- Record 9 [1009] ----------
+Wir hatten auf ein Herz f}r unseren<0xFD>
+ Eintopf gehofft, %pcf.<0xFD>
+ So Ihr zu besch#ftigt gewesen w#ret,<0xFD>
+ h#ttet Ihr uns das sagen sollen.<0xFD>
+ Es wurden Pl#ne geschmiedet die<0xFD>
+ zerschlagen werden mussten. Ihr seid<0xFD>
+ unser Freund, gleichwohl ... sind wir traurig.<0xFD>
+<0xFE>
+
+---------- Record 10 [1011] ----------
+_questgiver_ ist =questgiver_ und eine der ==questgiver_.
+<0xFF>
+Sie ist eine der Hexen, die sich in %reg niedergelassen 
+hat.<0xFC>
+<0xFE>
+
+---------- Record 11 [1012] ----------
+Ich h&rte, dass ___mondung_ ein Vampirversteck sei.<0xFF>
+Das Nachtvolk lebt in ___mondung_. Bei Tage kommen sie 
+nie heraus.<0xFF>
+___mondung_? Ist das nicht eine Orkfestung?<0xFF>
+Untote schlurfen durch die Hallen von ___mondung_. Ich w}
+rde mich davon fernhalten.<0xFC>
+<0xFE>
+
+---------- Record 12 [1015] ----------
+%qdt:<0xFC>
+ _questgiver_ von den<0xFC>
+ ==questgiver_ hat mich nach<0xFC>
+ ___mondung_ geschickt, um einer<0xFC>
+ beliebigen Verf}hrerin, einem Daedroth<0xFC>
+ oder Flammen- und Frostatronachen, dem<0xFC>
+ ich begegne, das Herz eines Daedra zu<0xFC>
+ nehmen. Das Herz muss in =1stparton_ Tagen<0xFC>
+ oder weniger in ___questgiver_ sein.<0xFC>
+<0xFE>
+
+---------- Record 13 [1040] ----------
+Ihr rei*t ein perfektes Herz<0xFD>
+ aus dem noch zuckenden K&rper.<0xFD>
+<0xFF>
+<0xFE>
+
+>
+ oder Verst}mmelung von F}rsten,<0xFC>
+ Wirtschaftskatastrophen, Hungersn&te,<0xFC>
+ Plagen, Kriege ...<0xFC>
+<0xFE>
+
+---------- Record 12 [1013] ----------
+Handlanger der Teufelinnen!<0xFD>
+ Sklave der ==qgiver_!<0xFD>
+ Die rechtschaffende Hand von<0xFD>
+ %god wird Euch zermalmen!<0xFD>
+<0xFF>
+<0xFE>
+
