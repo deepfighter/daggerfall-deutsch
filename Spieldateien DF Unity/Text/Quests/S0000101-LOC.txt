@@ -1,0 +1,20 @@
+Quest: S0000101
+DisplayName: Wer bekommt das Totem?
+QRC:
+
+Message:  1015
+<ce> König Eadwyre hat uns geschickt, Euch
+<ce> zu töten und ihm das Totem abzuliefern.
+<ce> Seid bereit zu sterben, %pcn.
+<--->
+<ce> Wir wollen das Totem. Oder um genau zu
+<ce> sein: Königin Barenziah will das Totem.
+<ce> Sie ist gerne bereit Euch mit einem
+<ce> schnellen statt einem langsamen Tod zu
+<ce> bezahlen.
+<--->
+<ce> Ihr müsst schlechte Geschäfte mit
+<ce> Wegesruh gemacht haben. Sie haben
+<ce> uns geschickt, um Euch zu ermorden
+<ce> und das Totem zurückzubringen.
+

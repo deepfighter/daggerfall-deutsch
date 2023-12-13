@@ -1,0 +1,97 @@
+Quest: S0000017
+DisplayName: Das Gemälde aus Wegesruh
+QRC:
+
+QuestorOffer:  [1000]
+<ce> %pcn! Willkommen in Schildwacht.
+<ce> ich hoffe, Ihr hattet bisher einen
+<ce> angenehmen Aufenthalt. Lasst mich
+<ce> direkt zum Punkt kommen. Mein Sohn,
+<ce> Prinz Lhotun, beschreibt Euch, %ra,
+<ce> als respektabel und zuverlässig.
+<ce> Jemanden von Eurer Sorte kann ich
+<ce> gebrauchen. Ich bin bereit, Euch
+<ce> _gold_ Goldstücke dafür zu bezahlen,
+<ce> dass Ihr in Schloss Wegesruh eindringt
+<ce> und dort ein Erbstück des verstorbenen
+<ce> Königs Lysandus für mich beschafft.
+<ce> Würdet Ihr das tun?
+
+RefuseQuest:  [1001]
+<ce> Hmmm. Ich werde Eure Stellung an
+<ce> diesem Hof überdenken müssen.
+
+AcceptQuest:  [1002]
+<ce> Wie zuvorkommend von Euch! Es gibt
+<ce> da einen Gegenstand, ein Gemälde,
+<ce> das irgendwo in Schloss Wegesruh
+<ce> versteckt ist. Mich verlangt danach
+<ce> aus Gründen, die Euch nicht zu
+<ce> interessieren brauchen. Bringt es
+<ce> mir und ich werde Euch mit _gold_
+<ce> Goldstücken bezahlen.
+
+QuestComplete:  [1004]
+<ce> Hier sind Eure _gold_ Goldstücke, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Königin Akorithi hat mich beauftragt, in Schloss
+ Wegesruh einzudringen. Irgendwo in den Gewölben
+ befindet sich ein Gemälde, dass sie haben möchte.
+ Sie wird mir _gold_ Goldstücke bezahlen, wenn ich
+ es ihr aushändige.
+
+Message:  1011
+Seid gegrüßt %pcn,
+ 
+     Eure Anwesenheit an unserem Hof ist
+ noch vor Ende der nächsten Saison erwünscht.
+ Prinz Lhotun hat Euch mit höchstem Lob
+ überhäuft. Ich erwarte Eure Ankunft.
+ 
+Akorithi
+Königin von Schildwacht
+
+Message:  1012
+<ce> Ein Pagenmädchen, mit dem Wappen von Schildwacht
+<ce> überreicht Euch einen knittrig gepressten Umschlag.
+<ce> Sie ignoriert Eure Fragen, wendet sich um und
+<ce> geht davon.
+
+Message:  1013
+<ce> Je länger Ihr es anseht, desto mehr scheint
+<ce> sich das Bild auf der Leinwand zu bewegen.
+<ce> Bevor noch etwas schlimmeres geschieht,
+<ce> reißt Ihr Euren Blick von dem Gemälde los.
+
+Message:  1015
+<ce> Die Szene in dem Gemälde verschwimmt
+<ce> und verändert sich. Ihr könnt nun in
+<ce> einen Zeitraum hineinsehen. Mehrere
+<ce> in die Livree von Wegesruh gekleidete
+<ce> Männer diskutieren hitzig mit einem
+<ce> Mann, der den Wappenrock von Dolchsturz
+<ce> trägt. Einer der Wegesruher schleicht
+<ce> sich hinter den Mann aus Dolchsturz,
+<ce> zieht einen Dolch und stößt ihn gleichgültig
+<ce> zwischen seine Rippen. Das Bild verblasst
+<ce> als das Leben aus seinem Körper entweicht.
+
+Message:  1020
+<ce> Habt Ihr versucht, das Gemälde zu benutzen?
+
+Message:  1021
+<ce> Ausgezeichnet. Seine Eigenschaften
+<ce> sind jenen von königlichem Blut
+<ce> vorbehalten. Ihr dagegen habt
+<ce> bewiesen, dass Ihr nicht nur treu,
+<ce> sondern auch gehorsam seid.
+
+Message:  1022
+<ce> Ihr maßt Euch viel an, %pcn.
+<ce> Was Ihr gesehen habt, ist nicht für
+<ce> die neugierigen Augen der Massen
+<ce> bestimmt. Es betrifft königliche
+<ce> Angelegenheiten, und die Königshäuser
+<ce> werden sich damit befassen.

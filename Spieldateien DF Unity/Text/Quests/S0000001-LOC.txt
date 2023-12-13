@@ -1,0 +1,311 @@
+Quest: S0000001
+DisplayName: Der verschwundene Prinz
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Willkommen in Schildwacht, %pcf. Ich vermute,
+<ce> dass Ihr meinen Brief erhalten habt. Ich weiß einiges
+<ce> über Lysandus und warum er Dolchsturz heimsuchen könnte,
+<ce> doch bevor ich Euch etwas sage, müsst Ihr versprechen,
+<ce> erst etwas für mich zu tun. Einverstanden?
+
+RefuseQuest:  [1001]
+<ce> %oth, %pcf, ich hätte gedacht,
+<ce> Ihr würdet Euch etwas ... heldenhafter verhalten.
+<ce> Da habe ich mich wohl getäuscht.
+
+AcceptQuest:  [1002]
+<ce> Ihr wollt mir also helfen? %god sei Dank.
+<ce> Ihr müsst wissen, ich hatte einmal einen älteren
+<ce> Bruder, zehn oder elf Jahre älter als ich. Sein Name
+<ce> war _brother_. Jedes Mal, wenn ich frage,
+<ce> was mit ihm geschehen ist, wird mir eine andere
+<ce> Geschichte aufgetischt. Die einen sagen, er sei
+<ce> krank geworden und gestorben, andere behaupten,
+<ce> der Unterkönig habe ihn entführt. Ich will die
+<ce> Wahrheit erfahren. Wenn Ihr nachweisen könnt, was
+<ce> wirklich aus meinem Bruder geworden ist, werde ich
+<ce> Euch alles sagen, was ich über König Lysandus weiß.
+
+QuestFail:  [1003]
+<ce> Ich wollte einen eindeutigen Beweis, %pcf.
+
+QuestComplete:  [1004]
+<ce> Das entspricht meinen schlimmsten Befürchtungen.
+<ce> Armer _brother_. Wie versprochen erzähle ich Euch,
+<ce> was ich über Lysandus gehört habe. Ich weiß nicht,
+<ce> wie viel davon geheim ist, aber ich vertraue Euch.
+<ce> Lysandus war in seine Hofzauberin verliebt, eine
+<ce> Adlige namens Medora Direnni. Seine Königin
+<ce> fand dies während des Krieges gegen uns heraus.
+<ce> Man sagt, Königin Mynisera habe Medora in Abwesenheit
+<ce> ihres Gemahls vom Hofe verbannt. Nun ist meine
+<ce> Schwester Aubk-i dort Königin als Teil des Abkommens,
+<ce> um den Frieden zu wahren, aber Mynisera residiert noch
+<ce> immer als verwitwete Königinmutter auf Burg Dolchsturz.
+ 
+<ce> Ich weiß nicht, wohin Medora gegangen ist, doch sie
+<ce> besitzt einen gewaltigen Burgturm irgendwo auf der
+<ce> Insel Balfiera. Aber ich hörte auch, dass irgendein
+<ce> Fluch auf ihr läge und dass sie ihn niemals verlassen
+<ce> könne. Ich bin mir nicht sicher, ob Euch das weiterhilft,
+<ce> aber das ist alles, was ich weiß. Nochmals vielen Dank
+<ce> für den Brief von _brother_. Allein zu wissen,
+<ce> was geschehen ist, wird mein Herz etwas erleichtern.
+ 
+<ce> Bitte nehmt dies hier als Zeichen meiner Wertschätzung
+<ce> [_magicitem_].
+
+RumorsDuringQuest:  [1005]
+Der arme Prinz Lhotun versinkt wieder mal in Trübsal. Er ist überhaupt nicht so wie Greklith.
+<--->
+Königin Akorithi weiß nicht, was sie mit Prinz Lhotun anstellen soll. Er ist so schwermütig.
+
+RumorsPostfailure:  [1006]
+Prinz Lhotuns düstere Stimmung geht immer irgendwann vorüber. Trotzdem eigenartig für einen Jungen seines Alters.
+<--->
+Prinz Lhotun scheint noch schlechterer Stimmung zu sein als sonst. Sehr seltsamer Junge.
+
+RumorsPostsuccess:  [1007]
+Prinz Lhotuns Gemütszustand hat sich gebessert. Er ist immer noch sehr still, aber das ist normal.
+<--->
+Königin Akorithi berichtet freudig, dass ihr Jüngster wieder guten Mutes ist.
+
+QuestorPostsuccess:  [1008]
+Hallo, %pct. Es tut mir leid, aber ich bin immer noch erschüttert, das Tagebuch meines Bruders gelesen zu haben.
+
+QuestorPostfailure:  [1009]
+<ce> Ihr habt also keinerlei Informationen
+<ce> für mich? Ich muss sagen, es wirkt
+<ce> äußerst verdächtig, dass Ihr nichts zu
+<ce> berichten habt. Vieleicht arbeitet Ihr
+<ce> für meine Mutter oder einen der Adligen.
+<ce> Ich denke, Ihr solltet besser gehen.
+
+QuestLogEntry:  [1010]
+23. Morgenstern 3Ä 400
+ ___ukcrypt_
+ 
+ Zwei Tage sind inzwischen vergangen, seit ich, ohne
+ Nahrung und Wasser, in dieser Krypta eingeschlossen
+ wurde. Ich weiß nicht, was mich zuerst umbringen wird,
+ der Hunger, Krankheit oder eine der Kreaturen, mit denen
+ ich dieses feuchte Loch teile - ich weiß nur, dass ich
+ bald tot sein und nicht einmal meine Gebeine zurückbleiben
+ werden. Ich hoffe lediglich darauf, dass dieser Brief in
+ den Jahren, die noch kommen, gelesen und die traurige
+ Geschichte von _brother_, Prinz von Schildwacht, erzählt
+ werden wird.
+ 
+ Ich bin zum Zeitpunkt dieses Schreibens fünfzehn Jahre
+ alt und wurde zur Frustration meiner kerngesunden Eltern
+ die meiste Zeit meines Lebens über von schwacher Gesundheit
+ geplagt. Die besten Heiler und Trankmischer Westtramriels
+ mühten sich an jedem meiner Husten und Fieber ab, aber wenn
+ sie mein Leben auch ein ums andere mal retten konnten,
+ gelang es ihnen doch nicht, meiner kränklichen Verfassung
+ aufzuhelfen. Im Nachhinein betrachtet erfuhr ich vom König
+ und der Königin, die beschämt waren, einen solchen Krüppel
+ als Erben des Königreichs gezeugt zu haben, nur selten
+ wahre Zuneigung. Ich kann nicht behaupten, dass ich die
+ Liebe sehr vermisst habe; ich erhielt viel Aufmerksamkeit
+ von den Ärzten, Priestern und Kräuterkundigen bei Hofe.
+ Zweifellos war es mir nicht bestimmt, der große Krieger
+ zu werden, wie König Camaron einer war, aber einer
+ meiner liebsten Freunde, ein Priester Stendarrs, sagte,
+ dass ich möglicherweise der erste Gelehrtenkönig
+ in der Geschichte von Schildwacht werden könnte.
+ 
+ Meine jüngere Schwester Aubk-i war der wahre Liebling
+ meiner Eltern: athletisch, wunderschön und charmant.
+ Es fällt schwer, an ein unschmeichelhaftes Wort über
+ sie zu denken. Ich habe mich mit meinem bevorstehenden
+ Tod abgefunden, und doch würde ich sie so gerne noch
+ einmal sehen. Sechs Jahre lang waren Aubk-i und ich
+ die einzigen Königskinder von Schildwacht. Vor acht
+ Jahren bekam die Königin einen weiteren Jungen und
+ nannte ihn Greklith, nach dem alten rothwardonischen
+ Wort für "Starker König". Nur wenige sprechen heute
+ noch diese Sprache, aber all die Gelehrten und Adligen
+ von Hammerfall verstanden. Und Greklith ist in der Tat
+ ein starker Junge - ich habe ihn niemals auch nur
+ husten gesehen. Der Königin nächstes Kind, geboren nur
+ ein Jahr später als Greklith, bekam einen noch ominöseren
+ Geburtsnamen - Lhotun. "Zweiter Junge". Wäre ich weniger
+ behütet, von Natur aus argwöhnischer gewesen, hätte ich
+ vielleicht meine Schlüsse aus der Wahl dieser Namen
+ gezogen. Lhotun und Greklith sind in unserer Familie
+ keine ungewöhnlichen Namen, dachte ich mir. Heute weiß
+ ich, dass ich zu diesem Zeitpunkt bereits enterbt war -
+ wenn auch noch nicht offiziell. 
+ 
+ Einige Monate vor Lhotuns Geburt und über drei Jahre
+ danach, kämpfte ich gegen ein besonders ernstes Fieber.
+ Die Heiler verzweifelten an mir, aber irgendwie schaffte
+ ich es doch noch, mich sehr, sehr langsam. Stück für
+ Stück, zu erholen. Zum ersten und letzten Mal sah ich
+ einen Gesichtsausdruck bei meinem Vater, auf dem
+ Antlitz des Königs, der nicht Gleichgültigkeit bedeutete.
+ Es war Abscheu.
+ 
+ Das war vor zwei Wochen. Vor drei Tagen wurde ich
+ während eines Spaziergangs von Männern überfallen, die
+ ich noch nie zuvor gesehen hatte. Meine Hauslehrerin
+ stand einfach bloß da und sah ruhig zu, wie ich
+ geknebelt, gefesselt und grob in einen Sack gesteckt
+ wurde. Ich weiß nicht, wie lange sie mit mir geritten
+ sind, aber irgendwann wurde ich hier zurückgelassen.
+ Als ich mich endlich von meinen Fesseln befreit hatte,
+ erkannte ich, dass ich offenbar allein war. Meine
+ Erkundungen führten zu nichts. Dieser Ort ist voller
+ untoter Kreaturen, die mich davon abhalten, einen
+ Ausgang zu finden.
+ 
+ Ich habe keine Hoffnung mehr, aber auch keine Furcht.
+ Nur ein paar Dinge, die ich bereue. Hätte ich Magie
+ studiert anstatt Geschichte und Wissenschaft, könnte
+ ich mich von diesem Ort befreien. Einer meiner Lehrer
+ erzählte mir einmal die Geschichte vom Unterkönig;
+ davon, wie er seine Lebenskraft in den Körper eines
+ mächtigen Wesens eingepflanzt und so vor langer,
+ langer Zeit ganz Tamriel erobert hatte. Hätte ich
+ doch nur die Stärke so eines mächtigeren Körpers!
+ 
+ Aber ich habe nicht Magie studiert. Ich habe Geschichte
+ studiert, und so hinterlasse ich diesen Brief - nicht,
+ um mich zu rächen, sondern als ein historisches Dokument.
+
+Message:  1011
+Eine zarte, dürre Gerte von einer Frau tritt an Euch
+heran und gibt Euch eine Botschaft. Mit eingefallenem,
+ausdruckslosen Gesicht weist sie all Eure Fragen ab.
+
+Message:  1012
+Der Unterkönig hatte früher eine Gruft ganz in der Nähe - ___ukcrypt_, von hier aus direkt %di.
+<--->
+Niemand hat viel vom Unterkönig gehört, seit seine Gruft ___ukcrypt_ aufgegeben wurde.
+<--->
+König Camaron selbst vertrieb die Dienerschaft des Unterkönigs aus ___ukcrypt_.
+
+Message:  1013
+Der Unterkönig soll jahrhundertealt sein.
+<--->
+Unser König ist eine Witzfigur. Oh...UNTERkönig! Verzeiht, darüber weiß ich nichts.
+<--->
+Er ist ein Lich mit sehr großer Macht. So sagt man zumindest.
+<--->
+Ich habe gehört, er hätte Prinz _brother_ entführt.
+<--->
+König Camaron machte den Unterkönig für den Tod von Prinz _brother_ verantwortlich. Obwohl das für mich noch nie Sinn ergeben hat.
+<--->
+Sie sagen, Tiber Septim sei niemals wirklich gestorben. Er wurde zum Unterkönig.
+<--->
+Ach, das ist doch wieder nur so ein Schreckgespenst, Ihr wisst schon, wie dieser Jagar Tharn.
+<--->
+Der Unterkönig ist nur ein Märchen für kleine Kinder.
+<--->
+Unterkönig? Nie von ihm gehört.
+
+Message:  1014
+                                   Palast von Schildwacht
+ 
+ 
+Seid gegrüßt %pcn,
+ 
+     Ihr kennt mich nicht, aber ich kenne Euch. Ich weiß, dass
+ Ihr Schiffbruch erlitten habt. Ich weiß von Euren Bemühungen,
+ den Geist von König Lysandus zu bannen. Wenn Ihr wollt, kann
+ ich Euch erzählen was ich weiß, aber als Gegenleistung
+ brauche ich Eure Hilfe.
+ 
+     Wenn Ihr reden möchtet; mein Name ist Prinz Lhotun und
+ ich lebe in Schildwacht im Samaruik, der gemeinhin Palast
+ von Schildwacht genannt wird. Ich hoffe, dass wir uns
+ bald treffen können.
+
+
+<ce> Hochachtungsvoll,
+ 
+<ce> Lhotun,
+<ce> Prinz von Schildwacht
+
+Message:  1015
+___ukcrypt_ war früher die Gruft des Unterkönigs, jetzt ist es aber ein schildwächter Gefängis.
+<--->
+___ukcrypt_ ist gleich %di von hier. Einige sagen, sie sei immer noch eine Gruft des Unterkönigs.
+
+Message:  1016
+___ukcrypt_ liegt direkt %di von hier. Es war früher eine Gruft des Unterkönigs.
+<--->
+___ukcrypt_ wird nicht mehr als Gefängnis genutzt, geschweige denn als Gruft des Unterkönigs.
+
+Message:  1018
+<ce> Was hat das zu bedeuten? Erpressung? Wartet nur,
+<ce> Ihr verachtungswerter Schurke. Man sollte Euch
+<ce> für den Versuch verprügeln, mir diese billige
+<ce> Fälschung unterzuschieben. Der arme Prinz _brother_
+<ce> starb vor vielen, vielen Jahren an einem Fieber.
+<ce> Warum könnt Ihr ihn nicht in Frieden ruhen lassen?
+
+Message:  1019
+%qdt:
+ Prinz Lhotun von Schildwacht hat mich gebeten, den Tod
+ seines Bruders _brother_ zu untersuchen, der angeblich
+ vor Jahren vom Unterkönig entführt wurde.
+
+Message:  1020
+<ce> Ihr hebt einen
+<ce> Totenschein auf.
+
+Message:  1030
+_brother_ war ein Prinz von Schildwacht. Er ist vor Jahren gestorben.
+<--->
+_brother_ bekam schweres Fieber und starb letzten Endes daran.
+<--->
+War das nicht der Gelehrtenprinz?
+<--->
+_brother_ hatte mehr für Bücher als für Schwerter übrig. Es hat König Camaron damals ganz verrückt gemacht.
+<--->
+Er war der einzige Prinz, der niemals eine öffentliche Beisetzung erhielt.
+
+Message:  1031
+<ce> Der alte König Camaron, möge seine Seele in Frieden ruhen, hatte _brother_ nie wirklich ins Herz geschlossen.
+ Er hätte Greklith als seinen Erben bevorzugt.
+<--->
+Ich hörte, dass die frühere Hauslehrerin von _brother_ mit einer Kiste voll Gold nach Himmelsrand geschickt wurde.
+<--->
+König Camaron schien viel zu unbeschwert, als _brother_ damals starb.
+<--->
+Ich hörte. dass er an einem Fieber starb.
+<--->
+Die Sache mit _brother_ hat mich immer schon beschäftigt. Der König verweigerte dem Tempel damals, den Körper für die Bestattung vorzubereiten.
+
+Message:  1032
+%pcf,
+ 
+     wenn Ihr interessiert seid, die
+ Wahrheit über Prinz _brother_ zu erfahren,
+ dann trefft mich im _agentplace_ in
+ __agentplace_ in der Region Schildwacht.
+ 
+<ce> [unsigniert]
+
+Message:  1035
+<ce> %pcn? Shhh. Ich würde es vorziehen,
+<ce> wenn mich niemand mit Euch sprechen sähe.
+<ce> Es ist uns zu Ohren gekommen, dass der Unterkönig
+<ce> zu Unrecht der Entführung von Prinz _brother_
+<ce> beschuldigt wird. Seht Euch in ___ukcrypt_
+<ce> um, bevor Ihr urteilt. Ich werde den Ort auf
+<ce> Eurer Karte markieren. Wer ich bin?
+<ce> Nennt mich einfach einen treuen Diener.
+<ce> Jetzt geht weiter, bevor noch jemand
+<ce> Verdacht schöpft. Haut ab, verschwindet!
+
+Message:  1040
+%qdt:
+ Ich habe mich insgeheim mit einem Diener des
+ Unterkönigs getroffen. Angeblich hatte der Unterkönig
+ nichts mit der Entführung von _brother_ zu tun.
+ Ich sollte mich in ___ukcrypt_ umsehen.
+

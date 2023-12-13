@@ -1,0 +1,140 @@
+Quest: S0000988
+DisplayName: Mantella offenbart
+QRC:
+
+QuestLogEntry:  [1010]
+%pcf,
+ 
+ vermutlich habt Ihr noch nie das Märchen vom
+ Numidium gehört, aber das müsst Ihr unbedingt.
+ 
+ Die Legende reicht bis in die frühesten Tage
+ der Dritten Ära zurück.
+ 
+ Das Numidium soll ein Riese von solcher Größe
+ gewesen sein, dass seine Fäuste die Monde vom
+ Himmel holen konnten. Ich erinnere mich nicht
+ mehr, ob das Numidium in den Geschichten gut
+ oder böse sein sollte, aber sie haben mir als
+ Kind immer Angst eingejagt.
+ 
+ Die Legenden sind tatsächlich wahr. Es gab ein
+ Numidium, und es wird zurückkehren, wenn sich
+ die aktuelle Lage weiter verschlimmert. Mit dem
+ Totem von Tiber Septim kann Numidium kontrolliert
+ werden. Die Legende sagt jedoch auch, das große
+ Numidium habe im letzten Kampf mit Tiber Septims
+ Kampfmagier sein Mantellisches Herz verloren, was
+ immer das sein soll. Bis das Herz gefunden wird,
+ bleibt das Totem nutzlos.
+ 
+<ce>Ein Freund
+
+Message:  1011
+Seid gegrüßt, %pcf,
+ 
+ Numidium war Tiber Septims Geheimwaffe in seinem
+ Streben nach der obersten Herrschaft: eine tausend
+ Fuß große Maschine, ein Golem oder etwas wie ein
+ Atronach, betrieben von einem das Mantella genannten
+ Juwel. Dieses Mantella war mit der Lebenskraft von
+ Tiber Septims Kaiserlichem Kampfmagier durchtränkt,
+ und mit seiner Hilfe zerschmetterte Septim jeden,
+ der ihm im Weg stand.
+ 
+ Nach der totalen und vollständigen Niederlage all
+ seiner Widersacher begann Septim, das Numidium auch
+ noch einzusetzen, um die neutralen Königsfamilien
+ Tamriels zu zerschlagen. Er würde dann nur noch
+ diejenigen inthronisieren, um deren Loyalität er
+ wusste. Sein Kaiserlicher Kampfmagier geriet über
+ diesen Missbrauch seiner Schöpfung in Wut und
+ kämpfte darum, das Mantella zurückzuerlangen.
+ 
+ In der anschließenden Schlacht verschwanden sowohl
+ das Geschaffene als auch der Schöpfer. Das Herz,
+ das sie teilten, wurde aus dieser Wirklichkeit in die
+ Jenseitswelt geschleudert, die sie Aetherius nennen.
+ Numidiums Körper wurde über ganz Tamriel verstreut.
+ Seiner Lebenskraft beraubt fiel der Kaiserliche
+ Kampfmagier in einem unterirdischen Gewölbe in
+ Halbschlaf.
+ 
+ In den folgenden Jahrhunderten sammelten die Elite-
+ soldaten des Kaisers, Generation um Generation, die
+ Teile Numidiums wieder ein und machten sich als die
+ Klingen einen Namen. Tiber Septims  Kaiserlicher
+ Kampfmagier wurde als der Unterkönig bekannt und
+ schickte seinerseits Kräfte aus, das Mantella zu
+ finden.
+ 
+ Seid also gewarnt. Jene, die das Totem von Tiber Septim
+ verfolgen, suchen damit das Instrument, welches der
+ erste Kaiser von Tamriel benutzte, um das Numidium zu
+ kontrollieren. Sollte Numidium zurückkehren, wird der
+ Besitzer oder die Besitzerin des Totems Herr über das
+ Schicksal Tamriels sein.
+ 
+ Seid also gewarnt. Wer das Totem von Tiber Septim
+ begehrt, sucht damit nach dem Instrument, das der
+ erste Kaiser von Tamriel zur Kontrolle Numidiums
+ einsetzte. Sollte das Numidium zurückkehren, wird
+ der Besitzer oder die Besitzerin des Totems Herr
+ über das Schicksal Tamriels sein.
+ 
+<ce>Ein Freund
+
+Message:  1012
+Seid gegrüßt %pcf,
+ 
+ Ich muss Euch über das Totem von Tiber Septim aufklären,
+ das alle so sehr begehren. Ihr müsst die Wahrheit über
+ das erfahren, was man von Euch verlangt.
+ 
+ Das Totem wurde auf Tiber Septims Befehl durch den
+ ursprünglichen Kaiserlichen Kampfmagier von Tamriel
+ erschaffen. Es ist im Wesentlichen ein Instrument
+ zur Kontrolle einer gargantuanischen Kreatur, die
+ das Numidium genannt wird. Ohne das Totem würde das
+ Numidium einfach stillstehen. Der Kaiserliche Kampfmagier
+ versah das Totem mit einem Siegel, so dass jeder, der
+ nicht der septimischen Blutlinie entstammt oder wie er
+ selbst eine besondere übernatürliche Affinität aufweist,
+ beim Versuch es zu benutzen augenblicklich getötet würde.
+ 
+ Zusammen mit dem Rest des Numidiums ging das Totem
+ in der epischen Schlacht zwischen dem Kaiserlichen
+ Kampfmagier und seiner eigenen Schöpfung verloren.
+ 
+<ce>Ein Freund
+
+Message:  1020
+<ce> Ein junger Page, der lächelt, als er Euch erkennt,
+<ce> tritt an Euch heran und fragt gar nicht erst nach
+<ce> Eurem Namen, als er den an Euch adressierten
+<ce> Brief aushändigt. Auf all Eure Fragen antwortet er
+<ce> nur mit einem nichtssagenden Blick und einem Lächeln.
+<--->
+<ce> Ein Brief wird Euch in die Hand gedrückt. Ihr
+<ce> dreht Euch herum, um zu sehen, wer ihn Euch
+<ce> gegeben hat. Ihr könnt nur noch flüchtig eine
+<ce> Livree erkennen, die in der Menge verschwindet.
+<--->
+<ce> Ein Page tritt heran, sagt: "Brief für Euch,
+<ce> %pcn", und übergibt Euch eine Nachricht.
+<--->
+<ce> Ein Kurier mit einem Brief in der Hand tritt
+<ce> an Euch heran. "Mir wurde befohlen, diesen
+<ce> Brief jemandem zu übergeben, auf den Eure
+<ce> Beschreibung passt", sagt der Kurier. Als Ihr
+<ce> den Brief an Euch nehmt, dreht sich der Kurier
+<ce> um und entfernt sich schnellen Schrittes.
+<--->
+<ce> Ihr greift nach etwas Wegzehrung in Eurem Gepäck und
+<ce> entdeckt eine Nachricht. Sie war vorher noch nicht da.
+<--->
+<ce> Ein Kurier mit rotem Kopf schreckt Euch mit seinen
+<ce> Rufen auf: "Brief für %pcn! Hey, das müsst Ihr
+<ce> sein. Hier, nehmt das. Muss gehen. Hab noch
+<ce> andere Lieferungen."
+

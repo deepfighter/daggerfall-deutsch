@@ -1,0 +1,154 @@
+Quest: S0000012
+DisplayName: Der Kurier des Kaisers
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Hallo %pcn. Ich habe schon viel
+<ce> über Euch gehört. Und nun kommt Ihr
+<ce> mit einer überaus interessanten
+<ce> Betrugsgeschichte zu mir. Die Magd
+<ce> Cyndassa sagt also, dass Aubk-i einen
+<ce> Brief des Kaisers geöffnet hat, der
+<ce> an mich adressiert war. %pcf,
+<ce> ich kann Euch versichern, dass sie mir
+<ce> so einen Brief nie überbracht hat.
+ 
+<ce> Ich möchte, dass Ihr diese Sache
+<ce> weiter untersucht, %pcn. Es könnte
+<ce> aber gefährlich werden, sich in die
+<ce> Angelegenheiten von Aubk-i einzumischen.
+<ce> Obwohl er mein Sohn ist, könnet Ihr
+<ce> damit Gothryd gegen Euch aufbringen.
+ 
+<ce> Seid Ihr dazu bereit?
+ 
+RefuseQuest:  [1001]
+<ce> Aubk-i muss Euch wirklich um den Finger
+<ce> gewickelt haben, %pcn. Ich hoffe
+<ce> Ihr überlebt lange genug, um noch von
+<ce> Ihrer Gönnerschaft profitieren zu können.
+
+AcceptQuest:  [1002]
+<ce> Gut. Ich habe seit Langem meine Zweifel an
+<ce> Aubk-is Treue gegenüber dem Kaiser. Sie ist
+<ce> die Tochter des verstorbenen Königs Camaron,
+<ce> der Hammerfall von seiner Hochburg in Schildwacht
+<ce> aus beherrschte.
+ 
+<ce> Mein Gemahl, König Lysandus, möge %god
+<ce> seiner Seele gnädig sein, starb wie König
+<ce> Camaron auf dem Cryngainefeld. Lysandus'
+<ce> Leichnam wurde nie geborgen, also wurde ihm
+<ce> dort ein Scheingrab anstelle einer echten
+<ce> Grabstätte errichtet. Ah ... ich schweife ab.
+ 
+<ce> Der Kaiser setzt _messenger_ als Kurier
+<ce> in Dolchsturz ein. %g könnte überall in der
+<ce> Region sein und Botschaften übermitteln.
+<ce> Jedoch ist _messenger_ auch ein Mitglied
+<ce> der Ritter des Drachen. Geht nach __dispatcher_
+<ce> in ___dispatcher_ und fragt
+<ce> _dispatcher_, wo _messenger_ zu
+<ce> finden ist. Versucht herauszufinden, warum Aubk-i
+<ce> ein an mich adressierter Brief zugestellt wurde.
+
+QuestComplete:  [1004]
+<ce> Ah! Jetzt ergibt es Sinn. Uriel Septim adressierte
+<ce> die Botschaft an die Königin von Dolchsturz. Als
+<ce> er sie losschickte, war ich Königin. Doch als der
+<ce> Brief hier eintraf, war mein geliebter Lysandus tot
+<ce> und Aubk-i gekrönt. Wir müssen herausfinden, was in
+<ce> diesem Brief stand. Ich habe Aubk-i nie vertraut.
+ 
+<ce> Gestern erhielt ich einen Brief der Prinzessin Morgiah
+<ce> von Wegesruh. Sie behauptete, sie wisse etwas über den
+<ce> Brief des Kaisers. Das ist nun auch eine Familie, in
+<ce> der es unter der Herrschaft des Kaisers brodelt. Kehrt
+<ce> zu mir zurück, sobald Ihr herausfindet, wer den Brief
+<ce> des Kaisers hat.
+ 
+<ce> Ihr selbst habt Euch mir vorerst bewiesen, %pcn.
+<ce> Nehmt das hier als Zeichen meiner Dankbarkeit
+<ce> [_jewelry_]. Ich möchte nicht länger etwas
+<ce> von Aubk-i besitzen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Mynisera, Königinmutter von Gothryd, hat mich
+ gebeten herauszufinden, warum ein Brief vom
+ Kaiser, der an sie adressiert war, in die Hände
+ von Königin Aubk-i gelangt ist. Der Bote des
+ Kaisers, _messenger_, kann nur durch
+ _dispatcher_ von __location_
+ gefunden werden. Beide gehören den Rittern des
+ Drachen an. Sie hat mir einen Siegelring gegeben,
+ um ihnen meine Vertrauenswürdigkeit zu beweisen.
+
+Message:  1011
+%qdt:
+ Mit Myniseras Siegelring erlangte ich das Vertrauen
+ von _dispatcher_. %g erzählte mir, dass _messenger_
+ in =2palace_ Tagen im __palace_ zu _palace_
+ sein würde.
+
+Message:  1015
+<ce> Der Brief des Kaisers? Um ehrlich zu sein,
+<ce> %pcf, ist mir das ziemlich unangenehm.
+<ce> Der Brief wurde mir noch am selben Tag
+<ce> gestohlen, an dem ich ihn erhalten hatte.
+<ce> Ich habe ihn nie gelesen und gehofft, dass
+<ce> er wieder auftauchen oder der Kaiser einen
+<ce> weiteren schicken würde. Falls Ihr den Brief
+<ce> findet, wäre ich Euch sehr verbunden, wenn
+<ce> Ihr ihn mich persönlich Mynisera überreichen
+<ce> lasst.
+
+Message:  1016
+<ce> Ihr hättet nie versuchen sollen, dem Brief
+<ce> des Kaisers nachzuspüren, %pcn. Dafür
+<ce> werdet Ihr jetzt mit Eurem Leben bezahlen
+
+Message:  1017
+<ce> Der %ra muss sterben. Ein Hinterhalt
+<ce> auf dem Weg nach  ___dispatcher_
+<ce> ist Eure beste Gelegenheit. Der Narr hat
+<ce> vor, dort _dispatcher_ zu befragen.
+ 
+<ce> - A.
+
+Message:  1019
+Ein Siegelring, blasoniert mit dem Wappen von Dolchsturz und Lysandus' persönlichem Wappen.
+
+Message:  1020
+<ce> Ich bin _dispatcher_.
+<ce> Ich würde eigentlich niemandem, der
+<ce> kein Ritter des Drachen ist, erzählen,
+<ce> wo _messenger_ zu finden ist.
+<ce> Aber ich stehe treu zu Königin Mynisera.
+<ce> Ich weiß auch, dass _messenger_
+<ce> der letzten Person, die %g2 auflauerte,
+<ce> den Bauch aufgeschlitzt hat. In =2palace_ Tagen
+<ce> muss %g in _palace_  in __palace_
+<ce> sein. Versucht es dort.
+
+Message:  1021
+<ce> Ho! Seid gewarnt, ich bin ein Ritter des Drachen
+<ce> im Dienst des Kaisers höchstselbst. Wenn das hier
+<ce> eine List ist, um mich hinterhältig zu überfallen,
+<ce> werdet Ihr nicht lange genug leben, um es zu bereuen.
+ 
+<ce> Hmmm. Ja, ich bin _dispatcher_. Dieser
+<ce> Siegelring beweist, dass Ihr tatsächlich in Myniseras
+<ce> Diensten steht. Vor einiger Zeit überbrachte ich
+<ce> einen Brief des Kaisers, der an die Königin von
+<ce> Dolchsturz adressiert war. Sollte ich mich nicht
+<ce> täuschen, ist Aubk-i die Königin von Dolchsturz,
+<ce> nicht Mynisera. Richtet Mynisera aus, dass ich
+<ce> meine Pflichten sehr ernst nehme. Ich würde niemals
+<ce> eine Botschaft wissentlich an die falsche Seite
+<ce> übermitteln. Königin Aubk-i gab mir sogar ein
+<ce> Zeichen ihrer Dankbarkeit [_jewelry_].
+<ce> Zeigt es Mynisera auf dass sie wissen möge,
+<ce> dass ich ein getreuer Diener und meinem Orden
+<ce> ergeben bin.
+

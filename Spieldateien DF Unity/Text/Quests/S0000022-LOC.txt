@@ -1,0 +1,40 @@
+Quest: S0000022
+DisplayName: Lysandus' Offenbarung
+QRC:
+
+RefuseQuest:  [1001]
+<ce> Ich dachte ich hätte Euch gesagt,
+<ce> dass es einen Monat dauern würde.
+<ce> Das Pulver ist noch nicht fertig.
+<ce> Kommt später wieder.
+
+AcceptQuest:  [1002]
+<ce> Das Pulver ist fertig. Ihr müsst es nur noch
+<ce> über seinen wahren Leichnam streuen. Ich muss
+<ce> Euch warnen. Es wird seinen Geist nicht zur
+<ce> Ruhe bringen, ihn aber soweit besänftigen,
+<ce> dass Ihr mit ihm sprechen könnt. Es ist dann an
+<ce> Lyandus, den abschließenden Exorzismus zu wählen.
+ 
+<ce> Ich weiß nicht, wo er beigesetzt wurde. Aber
+<ce> ich weiß, dass es nicht auf dem Cryngainefeld
+<ce> war, wo sie ein Monument für ihn errichtet
+<ce> haben. Wenn Ihr dann mit ihm sprecht ... würdet
+<ce> Ihr ihm ausrichten, dass ich ihn immer noch
+<ce> liebe? Der Tod wird uns nicht lange trennen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Medora hat mir gesagt, dass sie einen Monat
+ brauchen würde, um den Staub vorzubereiten.
+ Wenn diese Zeit verstrichen ist, soll ich sie
+ wieder in ihrem Zuhause im Direnni-Turm
+ aufsuchen.
+
+Message:  1011
+%qdt:
+ Medora hat mir ein Pulver gegeben, dass den Geist
+ von Lysandus besänftigen wird. Es wird ihn allerdings
+ nicht zur Ruhe bringen, sondern lediglich seinen Zorn
+ lindern. Nun muss ich nur seine Grabstätte finden und
+

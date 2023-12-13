@@ -1,0 +1,343 @@
+Quest: S0000008
+DisplayName: Wer bekommt das Totem?
+QRC:
+
+QuestorOffer:  [1000]
+<ce> %pcf, ich bin froh, dass Ihr
+<ce> gekommen seid. Die Klingen und Euer Kaiser
+<ce> brauchen Euch erneut. Vielleicht wisst Ihr
+<ce> bereits, dass das Totem von Tiber Septim
+<ce> gefunden wurde. Fürst Wiedborn von Wegesruh
+<ce> besaß es für kurze Zeit. Woher er es hatte
+<ce> ist nach wie vor ein Rätsel. Die Klingen
+<ce> haben Wiedbornhall angegriffen, um das
+<ce> Totem zurückzugewinnen. Die Halle fiel,
+<ce> doch viele der unsrigen fanden dabei den Tod.
+ 
+<ce> Wir haben Wiedbornhall durchsucht, aber das
+<ce> Totem war verschwunden. Ich habe nun Grund
+<ce> zu der Annahme, dass Gothryd das Totem besitzt.
+<ce> Die Klingen haben nicht mehr genügend Männer
+<ce> für einen Angriff auf Burg Dolchsturz. Ihr habt
+<ce> allerdings ein gewisses Talent darin bewiesen,
+<ce> ungesehen in solche Orte hinein- und auch
+<ce> auch wieder hinauszufinden. Würdet Ihr in Burg
+<ce> Dolchsturz eindringen und das Totem von Tiber
+<ce> Septim zurückholen?
+
+RefuseQuest:  [1001]
+<ce> Dies sind wahrhaftig finstere Zeiten.
+<ce> Wenn Gothryd auch noch das Mantella
+<ce> in seinen Besitz bringt wird Tamriel
+<ce> in einen Bürgerkrieg stürzen.
+
+AcceptQuest:  [1002]
+<ce> Ich wusste, dass ich auf Euch zählen kann,
+<ce> %pcf. Das Totem wird höchstwahrscheinlich
+<ce> in der Schatzkammer von Dolchsturz aufbewahrt.
+<ce> Es ist ein großer Raum, ziemlich unverwechselbar.
+<ce> Ich reise in ein paar Tagen ab. Ich werde Euch
+<ce> wissen lassen, wo Ihr mich treffen könnt,
+<ce> nachdem Ihr das Totem geborgen habt. Der
+<ce> Kaiser hat mich angewiesen, Euch bei Erfolg
+<ce> mit dem Ring des Hexenmeisters zu belohnen,
+<ce> einem mächtigen und bedeutenden Artefakt.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Fürstin Brisienna hat mich gebeten, ihr das Totem
+ von Tiber Septim zu bringen. Es ist in der Schatz-
+ kammer von Burg Dolchsturz versteckt. Sie fürchtet,
+ dass Assassinen auf sie angesetzt wurden und wird
+ mir ihren momentanen Aufenthaltsort in einem Brief
+ mitteilen, sobald ich aus der Burg entkommen
+ bin. Wer das Totem besitzt hat die Möglichkeit,
+ das mächtige Numidium zu kontrollieren und ein
+ neues Kaiserreich zu schmieden, wie es vor
+ langer Zeit Tiber Septim tat.
+
+Message:  1011
+%pcn,
+ 
+     kommt umgehend nach __tavern_
+ in ____tavern_. Ich werde in
+ einer Taverne namens _tavern_
+ auf Euch warten.
+ 
+     Das Schicksal des Kaiserreichs
+ könnte auf dem Spiel stehen.
+ 
+ - Fürstin Brisienna
+
+Message:  1015
+[Eine Stimme ertönt in Eurem Kopf ...]
+ 
+ "Ihr seid %pcn, mein neuer Besitzer.
+ Wisset nun und mit aller Deutlichkeit:
+ Ihr seid nicht würdig, das Totem von
+ Tiber Septim zu tragen. Nur seine Blutlinie
+ darf mich führen. Ich gebe Euch ein Jahr
+ und einen Tag, um dies ins Werk zu setzen."
+
+Message:  1017
+%qdt:
+ Das Totem von Tiber Septim sprach in meinem Kopf zu
+ mir! Es behauptet, dass nur jene von königlichem Blut
+ Anspruch auf das Totem erheben können. Es hat mir
+ ein Jahr und einen Tag Zeit gegeben, um zu entscheiden,
+ wer sein wahrer Träger sein soll.
+ 
+
+Message:  1020
+%pcn,
+ 
+     Ihr seid damit beauftragt, das Totem von
+ Tiber Septim zu beschaffen. Leugnet es nicht,
+ meine Spione haben es bestätigt. Das Totem
+ ist nicht für das gemeine Volk bestimmt und
+ Ihr könnt es nicht nutzen. Bringt mir das Totem
+ und ich werde Euch 100.000 Goldstücke zahlen.
+ Das wäre eine in jeder Hinsicht königliche
+ Belohnung.
+ 
+     Seid gewarnt, dass weder Wegesruh noch
+ Daggerfall treu zum Thron stehen. Ich bin
+ die einzige vertrauenswürdige Regentin an
+ der Iliac-Bucht. Die anderen würden es nur
+ benutzen, um mich zu vernichten.
+ 
+<ce> Akorithi
+<ce> Königin von Sentinel
+
+Message:  1021
+%pcf,
+ 
+     mir sind Gerüchte zu Ohren gekommen
+ wonach Ihr das Totem von Tiber Septim sucht.
+ Seit vielen Jahren bin ich selbst hinter
+ diesem wundersamen Artefakt her. Solltet
+ Ihr es finden, würde ich Euch eine stattliche
+ Summe dafür bezahlen - genug, um Euch ein
+ eigenes Schiff zu kaufen. Ich werde mit
+ jedem Preis, den Euch Gothryd oder Akorithi
+ bieten, gleichziehen oder ihn übertreffen.
+ Vergesst niemals Eure wahren Freunde.
+ 
+<ce> König Eadwyre,
+<ce> von Wegesruh
+
+Message:  1022
+%pcn,
+ 
+     Ihr seid kein Ork. Wie solltet Ihr verstehen
+ können, wie das ist? Mein Volk wird wie Barbaren
+ behandelt. Schon beim Anblick abgeschlachtet.
+ Ist es so überraschend, dass wir auch so
+ reagieren? Gewalt erzeugt wieder Gewalt.
+ 
+     Ich strebe danach, mein Volk aus diesem Morast
+ herauszuziehen. Ich werde ihnen zu demselen Ansehen
+ wie den anderen Völkern Tamriels verhelfen. Dafür
+ brauche ich das Totem von Tiber Septim. Ich werde
+ Euch nicht mit dem falschen Versprechen beleidigen,
+ dass kein Blut vergossen wird. Aber ich schwöre bei 
+ meiner Krone und meinen Erben, dass ich nicht versuchen
+ werde. über die Grenzen Orsiniums hinaus zu herrschen.
+ Es ist nicht mein Ziel, Tamriel zu erobern, sondern ein
+ orkisches Heimatland zu errichten. Ich bin im Besitz
+ eines Artefakts, dass Ihr sicher gerne haben würdet.
+ Chrysamere gehört Euch, wenn Ihr mir nur das Totem
+ von Tiber Septim gebt.
+ 
+- Gortwog, Kriegsherr und König
+
+Message:  1023
+%pcn,
+ 
+     Ihr werdet bald das Totem von Tiber Septim in
+ Händen halten. So steht es in den Sternen und ich
+ habe sie gelesen. Wisset dies: Alle Sterblichen
+ sind von Hochmut und Habgier erfüllt. Einem von
+ von ihnen das Totem zu geben bedeutet, diese Welt,
+ sterblicher Eitelkeit zu überlassen. Sie werden
+ eben das zerstören, was sie begehren.
+ 
+     Ich habe keine irdischen Bedürfnisse. Ich kenne
+ keinen menschIichen Hochmut, keine engherzige Habgier.
+ Nur jemand wie ich kann das Totem sicher tragen,
+ denn ich würde es nach Aetherius mitnehmen und diese
+ irdische Hülle hinter mir lassen. Solange das Totem
+ existiert, stellt es für jeden in Tamriel eine Gefahr
+ dar. Bringt mir das Totem und ich werde die Welt
+ beschützen. Ich werde Euch weder Gold noch Juwelen
+ anbieten. Ich werde Euch anbieten, was nur ich geben
+ kann: Berühmtheit. Euer Ruf wird in ganz Tamriel
+ emporschnellen.
+ 
+ 
+<ce> Fürst der Totenbeschwörer,
+<ce> König der Würmer
+
+Message:  1024
+%pcn,
+ 
+     vor Jahrhunderten beherrschte Tiber Septim
+ das Land und schmiedete mit dem großen Numidium
+ ein Kaiserreich. Das Geheimnis der Macht des
+ Numidiums liegt in seinem Herzen, eingeschlossen
+ im Mantella. Es ist das Herz von Tiber Septims
+ Kampfmagier. Es ist mein Herz. Es ist mein
+ Mantella. Es ist mein Totem. Es ist mein - und
+ keines anderen.
+ 
+     Ich gewann und verlor ein Kaiserreich. Ich
+ habe kein Verlangen danach, mich weiter mit den
+ Angelegenheiten der Sterblichen zu befassen.
+ Ich besitze das Amulett des Totenbeschwörers,
+ eines der bedeutendsten Artefakte dieser Welt.
+ Im Austausch gegen das Totem könnt Ihr es haben.
+ 
+     Mein treuester Diener wird Eure Ankunft im
+ __temple_ von ____temple_,
+ _temple_ erwarten.
+ 
+<ce> König der Unterwelt
+
+Message:  1025
+%pcn,
+ 
+     wenn Ihr dies lest, müsst Ihr das Totem
+ gefunden haben und aus Burg Dolchsturz
+ entkommen sein. Ich bin in __newplace_,
+ ____newplace_, _newplace_.
+ Bringt das Totem so schnell wie möglich dorthin.
+ 
+- Fürstin Brisienna
+
+Message:  1030
+<ce> Ein in die Livree von Schildwacht gekleideter Bote
+<ce> übergibt Euch einen Brief und geht schweigend davon.
+
+Message:  1031
+<ce> Ein stämmiger Mann, der die Standarte von Wegesruh
+<ce> trägt, tritt mit einem Brief an Euch heran. Sein
+<ce> finsterer Gesichtsausdruck ist unbewegt und er
+<ce> spricht kein Wort. Dann verlässt er Euch so still
+<ce> wie er gekommen ist.
+
+Message:  1032
+<ce> Eine stark verhüllte Gestalt schlurft auf Euch zu.
+<ce> Als Ihr Euch schon darauf vorbereitet, Euch zu
+<ce> verteidigen, kommt eine knorrige, grüne Hand mit
+<ce> einem Brief zum Vorschein. Verblüfft reagiert Ihr
+<ce> nicht, als die Gestalt davonschlurft.
+
+Message:  1033
+<ce> Eine Hand packt von hinten Euer Handgelenk.
+<ce> Ihr wirbelt herum und öffnet den Mund, um
+<ce> nach den Wachen zu rufen, als Euch eine
+<ce> Skeletthand einen Brief in den Mund steckt.
+<ce> Das stark verhüllte Skelett lässt Euer
+<ce> Handgelenk los und wendet sich ab, ohne dass
+<ce> die anderen Passanten etwas bemerken.
+
+Message:  1034
+<ce> Ein Brief schwebt durch die Luft auf Euch zu.
+<ce> Seltsamerweise scheint das niemand sonst zu
+<ce> bemerken. Der Brief landet wie von selbst
+<ce> in Eurem Gepäck.
+
+Message:  1040
+<ce> Übergebt uns das Totem oder wir
+<ce> werden Euch auf der Stelle töten.
+ 
+<ce> Also? Gebt Ihr uns das Totem freiwiliig
+<ce> oder müssen wir es uns erst holen?
+
+Message:  1041
+<ce> Dann werden wir es uns einfach nehmen.
+
+Message:  1042
+<ce> Feigling. Und jetzt verschwindet. Ach ja.
+<ce> Mir wurde gesagt, Ihr sollt Nalfuga
+<ce> aufsuchen, wer auch immer das ist.
+
+Message:  1043
+<ce> Ihr habt es nicht einmal! Dann werde
+<ce> ich Euch wohl einfach zum Spaß umbringen.
+
+Message:  1050
+<ce> Das Totem von Tiber Septim! Ein unbezahlbares
+<ce> Artefakt. Ich werde es streng bewachen und
+<ce> die rebellischen Mächte von Dolchsturz und
+<ce> Wegesruh im Zaum halten. Nehmt Eure Belohnung,
+<ce> %pcf. Ihr habt sie Euch zehnfach verdient.
+<ce> Ihr müsst nun Eure Augen und Ohren nach dem
+<ce> Mantella aufhalten. Jedes Gerücht muss mit
+<ce> Nachdruck verfolgt werden. Ohne das Mantella
+<ce> ist das Totem nutzlos.
+
+Message:  1051
+<ce> Narr! Dachtet Ihr wirklich, ich würde Euch für
+<ce> das Totem bezahlen? Ihr seid tot, %ra!
+
+Message:  1052
+<ce> Ein Orkreich ist zum Greifen nahe.
+<ce> Ihr habt meinem Volk Hoffnung auf
+<ce> Freiheit gegeben, %pcn.
+<ce> Solltet Ihr auch noch das Manstella
+<ce> selbst erlangen, werde ich Euch
+<ce> dreifach dafür belohnen.
+
+Message:  1053
+<ce> Wie ich sehe, habt Ihr wieder Vernunft angenommen.
+<ce> Ich sollte Euch hinrichten lassen, aber ich habe
+<ce> mehr Ehre als das. Stattdessen werde ich Euch
+<ce> belohnen. Hier, nehmt diese _goldgoth_ Goldstücke für
+<ce> Euren Treuewandel. Bringt mir noch das Mantella
+<ce> und mein Vertrauen in Euch ist wiederhergestellt.
+
+Message:  1054
+<ce> Das Totem! Endlich gehört es mir. Das habt
+<ce> Ihr gut gemacht, %pcf. ich werde mich
+<ce> daran erinnern wenn ich mich verwandelt
+<ce> habe. Sucht nun nach dem Mantella, ohne
+<ce> welches das Totem wertlos ist. Und erfreut
+<ce> Euch bis dahin der Bewunderung der Welt.
+
+Message:  1055
+<ce> Der Unterkönig wird hocherfreut sein.
+<ce> Er hat viele Menschenleben lang nach
+<ce> diesem verschollenen Relikt gesucht.
+<ce> Ich wurde angewiesen, Euch dieses Artefakt
+<ce> zu überreichen. Gebraucht es weise!
+<ce> Und solltet Ihr jemals das Mantella
+<ce> finden, wäre Euch der Unterkönig sehr
+<ce> verbunden.
+
+Message:  1056
+<ce> Euer Kaiser wird sich erkenntlich zeigen.
+<ce> In den falschen Händen hätte das Totem
+<ce> einen Bürgerkrieg auslösen können.
+<ce> Habt vielen Dank, %pcf.
+ 
+<ce> Nun müsst Ihr Nulfaga aufsuchen. Sie verfügt
+<ce> über den Schlüssel zum Mantella. Erlangt das
+<ce> Mantella und der Kaiser wird mit dem Totem
+<ce> das Große Numidium kontrollieren können.
+
+Message:  1060
+Nulfagas unverwechselbare Stimme spricht
+leise in Eurem Kopf:
+ 
+ "Wie ich sehe hat das Totem seinen Weg in
+ die Hände von jemandem mit königlichem
+ Blut gefunden. Es ist wohl an der Zeit,
+ mir einen weiteren Besuch hier in
+ Shedungent abzustatten, %pcn.
+ Eure Arbeit ist noch nicht getan."
+
+Message:  1070
+<ce> Eine fröhliche junge Frau überreicht Euch
+<ce> einen Brief und geht dann pfeifend davon.
+

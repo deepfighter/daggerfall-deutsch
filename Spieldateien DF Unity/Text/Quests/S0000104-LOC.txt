@@ -1,0 +1,16 @@
+Quest: S0000104
+DisplayName: Wer bekommt das Totem?
+QRC:
+
+Message:  1015
+<ce> Der Unterkönig will das Totem.
+<ce> Ihr müsst sterben.
+<--->
+<ce> Ihr habt dem Unterkönig keine
+<ce> Treue gezeigt. Damit er das
+<ce> Totem bekommt müsst Ihr sterben.
+<--->
+<ce> Ich bin wegen des Totems von Tiber
+<ce> Septim gekommen. Ihr werdet Euch
+<ce> den Reihen der Toten anschließen.
+

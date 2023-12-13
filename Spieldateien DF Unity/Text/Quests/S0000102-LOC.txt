@@ -1,0 +1,21 @@
+Quest: S0000102
+DisplayName: Wer bekommt das Totem?
+QRC:
+
+Message:  1015
+<ce> Gortwog sagt, Ihr müsst sterben.
+<ce> Wir können Euren ganzen Krempel
+<ce> behalten, bis auf das Totem,
+<ce> das sein Preis ist.
+<--->
+<ce> Ihr %ra habt den Orks
+<ce> nie den angemessenen Respekt
+<ce> erwiesen. Es wird eine Freude sein,
+<ce> Euch für König Gortwog zu töten
+<ce> und ihm das Totem zu überbringen.
+<--->
+<ce> König Gortwog sagt, dass Ihr %ra
+<ce> nicht vertrauenswürdig seid.
+<ce> Ich bin hier, um Euch zu töten
+<ce> und ihm das Totem zu bringen.
+

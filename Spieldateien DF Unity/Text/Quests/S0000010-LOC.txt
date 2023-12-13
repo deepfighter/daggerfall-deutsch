@@ -1,0 +1,130 @@
+Quest: S0000010
+DisplayName: Festung der Klingen
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Guten Tag, %pcf. Mein Name ist
+<ce> _agentuk_. Ich muss zugeben,
+<ce> ich bin bin überrascht, Euch zu
+<ce> sehen. Wäret Ihr vielleicht bereit,
+<ce> dem Unterkönig bei einem Vorhaben
+<ce> gegen die Totenbeschwörer zu helfen?
+<ce> Wir würden Euch großzügig für Eure
+<ce> Dienste entlohnen und Euch Informationen
+<ce> geben, die Ihr wohl nirgendwo sonst
+<ce> finden würdet.
+
+RefuseQuest:  [1001]
+<ce> Nein. Ich verstehe. Sehr wohl.
+
+AcceptQuest:  [1002]
+<ce> Das werdet Ihr? Hmm. Bemerkenswert. Die
+<ce> Totenbeschwörer haben uns einen Gegenstand
+<ce> entwendet, ein Relikt [_reward_]
+<ce> von beträchtlichem Wert. Doch der Wert
+<ce> ist nebensächlich. Das eigentliche Problem
+<ce> ist, dass sie den Gegenstand verflucht und
+<ce> den Klingen überlassen haben. Die Klingen
+<ce> waren einst die Ehrengarde Tiber Septims,
+<ce> falls Ihr es nicht wisst. Heute stehen sie
+<ce> treu zum Kaiserreich und Tibers Kodex, wenn
+<ce> auch nicht immer zum gegenwärtigen Kaiser.
+<ce> Der Unterkönig hat seine Gründe, den Klingen
+<ce> kein Leid zu wünschen. Wir möchten, dass Ihr
+<ce> Schloss Llugwych in Ykalon infiltriert und
+<ce> dieses Relikt [_reward_] wiedererlangt.
+<ce> Bitte erledigt das in den nächsten =itemindung_ Tagen,
+<ce> wenn Ihr Eure Informationen und Belohnung wollt.
+
+QuestFail:  [1003]
+<ce> Ohne _reward_ keine Informationen,
+<ce> wie es so schön heißt, %pcf.
+
+QuestComplete:  [1004]
+<ce> Gut gemacht, %pcf. Lasst mich nur
+<ce> diesen Zauber darauf wirken ... so.
+<ce> Das Relikt [_reward_] ist nun
+<ce> ungefährlich und gehört Euch.
+ 
+<ce> Nicht einmal der Tod kann einen wahren
+<ce> Nachkommen Tiber Septims vor dem Unterkönig
+<ce> verbergen. König Lysandus fiel nicht in der
+<ce> Schlacht von Cryngaine. Er wurde schon davor
+<ce> durch Verrat getötet. Das für ihn in Hammerfall
+<ce> errichtete Grabmal ist leer. Seine Überreste
+<ce> wurden heimlich zu einer alten Gruft in
+<ce> Menevia gebracht, die ich Euch nun zeigen
+<ce> werde. Ich weiß weder, wer Lysandus betrogen
+<ce> hat, noch weshalb sein Geist die Stadt
+<ce> Dolchsturz und nicht das Schlachtfeld von
+<ce> Cryngaine heimsucht. Ich habe meinen Teil
+<ce> des Handels eingehalten und Ihr habt Euch
+<ce> die Dankbarkeit des Unterkönigs verdient.
+
+RumorsDuringQuest:  [1005]
+Es wird vermutet, dass der König der Würmer und der Unterkönig ein und dieselbe Person sind.
+<--->
+Der Unterkönig ist angeblich tot, doch seine Diener verfolgen noch immer seine Ziele.
+
+RumorsPostfailure:  [1006]
+Vom Unterkönig zu stehlen ist die Tat eines Wahnsinnigen. Das wird dieser %ra wohl erfahren haben.
+<--->
+Habt Ihr schon gehört? Ein %ra hat versucht, den Unterkönig zu bestehlen? Armer Idiot.
+
+RumorsPostsuccess:  [1007]
+Seltsame Omen standen letzte Nacht in den Sternen. Zornige Leidenschaften eines Halbgottes.
+<--->
+Angeblich sollen Totenbeschwörer das Land durchstreifen und nach einem Relikt namens _reward_ suchen.
+
+QuestorPostsuccess:  [1008]
+%qdt:
+ Ein Agent des Unterkönigs hat mich nach Schloss
+ Llugwych in Ykalon geschickt, um dort ein bestimmtes
+ Artefakt [_reward_] zu finden, das die Totenbeschwörer
+ dem Unterkönig gestohlen hatten. Ich habe =itemindung_ Tage,
+ um es zu finden und damit zurückzukehren.
+
+QuestLogEntry:  [1010]
+<ce> Ihr mischt Euch in die Pläne des Königs der
+<ce> Würmer ein. Fürchtet um Euer sterbliches Leben!
+<--->
+<ce> Der König der Würmer fordert Rache.
+<ce> Ihr habt gestohlen, was rechtmäßig sein war.
+<ce> Nun müsst Ihr ins Totenreich eingehen!
+<--->
+<ce> Törichtes Fleisch und Blut.
+<ce> Fordert niemals den Herrn der Toten heraus.
+<ce> Der König der Würmer wird seine Rache bekommen.
+<--->
+<ce> Ihr hättet dieses Relikt [_reward_] niemals
+<ce> anrühren sollen. Es ist die Pforte ins Reich
+<ce> der Toten. Nun müsst Ihr Euch uns dort anschließen.
+<ce> Bereitet Euch auf den Tod vor!
+
+Message:  1021
+%pcn,
+ 
+     Königin Akorithi von Schildwacht sprach in
+ höchsten Tönen von Euch: Ein mutiger, fähiger
+ und unvoreingenommener %ra. 'Ein Held',
+ das waren tatsächlich ihre Worte. Seit einiger
+ Zeit suchen wir nach so jemandem.
+ 
+     Über unsere Treue werde ich Euch nichts
+ vormachen. Wir dienen dem Unterkönig. Solltet Ihr
+ an Märchen glauben und den Unterkönig für die
+ ultimative Macht des Bösen halten, dann
+ entschuldigen wir uns Euch falsch eingeschätzt
+ zu haben. Anderenfalls benötigen wir Eure Hilfe.
+ Ihr könnt mich im _agentplace_ in
+ __agentplace_ in der Region
+ Schildwacht finden. Ich werde einen Monat warten.
+ 
+ 
+ - _agentuk_
+
+Message:  1022
+<ce> Ein junger Kurier überreicht Euch trocken
+<ce> einen Brief und stolziert davon, ohne
+<ce> ein Wort zu sagen.
+

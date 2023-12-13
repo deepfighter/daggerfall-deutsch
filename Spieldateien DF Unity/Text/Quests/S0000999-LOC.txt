@@ -1,0 +1,170 @@
+Quest: S0000999
+DisplayName: Freibeuternest und Briefe
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 called on MAIN.Q
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 called on MAIN.Q
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 called on MAIN.Q
+
+QuestFail:  [1003]
+Error: Questtext 1003 called on MAIN.Q
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich bin im Auftrag des Kaisers unterwegs, um
+ wegen König Lysandus' Totengeist zu ermitteln,
+ der die Stadt Dolchsturz heimgesucht hat.
+ Der Kaiser betraute mich persönlich mit der
+ Aufgabe, seiner wütenden Seele Frieden zu
+ verschaffen.
+ 
+ Außerdem ist da noch die weniger wichtige
+ Angelegenheit eines Briefes, den er der
+ Königin von Dolchsturz geschickt hat.
+ Er wäre höchst erfreut, wenn herausfände,
+ was mit dem Brief geschehen ist.
+ 
+ Bevor wir in Dolchsturz anlegen konnten, wurde
+ das Schiff von einem plötzlichen Sturm erfasst
+ und zum Kentern gebracht. Ich habe es gerade
+ noch in diese Höhle geschafft.
+
+Message:  1011
+%qdt:
+ Ich traf Fürstin Brisienna in der Gaststube einer
+ Taverne. Sie erklärte mir, dass Dolchsturz, Wegesruh
+ und Schildwacht die drei Hauptmächte an der Iliac-Bucht
+ sind. Wenn ich das Mysterium um Lysandus' Geist
+ ergründen will, sollte ich zuerst mit den Königs-
+ familien dieser Lehen sprechen.
+
+Message:  1026
+<ce> Ein junger Page, der lächelt, als er Euch erkennt,
+<ce> tritt an Euch heran und fragt gar nicht erst nach
+<ce> Eurem Namen, als er den an Euch adressierten
+<ce> Brief aushändigt. Auf all Eure Fragen antwortet er
+<ce> nur mit einem nichtssagenden Blick und einem Lächeln.
+<--->
+<ce> Ein Brief wird Euch in die Hand gedrückt. Ihr
+<ce> dreht Euch herum, um zu sehen, wer ihn Euch
+<ce> gegeben hat. Ihr könnt nur noch flüchtig eine
+<ce> Livree erkennen, die in der Menge verschwindet.
+<--->
+<ce> Ein Page tritt heran, sagt: "Brief für Euch,
+<ce> %pcn", und übergibt Euch eine Nachricht.
+<--->
+<ce> Ein Kurier mit einem Brief in der Hand tritt
+<ce> an Euch heran. "Mir wurde befohlen, diesen
+<ce> Brief jemandem zu übergeben, auf den Eure
+<ce> Beschreibung passt", sagt der Kurier. Als Ihr
+<ce> den Brief an Euch nehmt, dreht sich der Kurier
+<ce> um und entfernt sich schnellen Schrittes.
+<--->
+<ce> Ihr greift nach etwas Wegzehrung in Eurem Gepäck und
+<ce> entdeckt eine Nachricht. Sie war vorher noch nicht da.
+<--->
+<ce> Ein Kurier mit rotem Kopf schreckt Euch mit seinen
+<ce> Rufen auf: "Brief für %pcn! Hey, das müsst Ihr
+<ce> sein. Hier, nehmt das. Muss gehen. Hab noch
+<ce> andere Lieferungen."
+
+Message:  1031
+<ce> %pcn, ich habe eine besondere Aufgabe
+<ce> für Euch im Sinn. Ihe müsst Euch mir allerings,
+<ce> offen gesagt, erst noch beweisen. Ich weiß
+<ce> noch nicht, ob ich Euch vertrauen kann.
+ 
+<ce> Ich werde Eure Taten beobachten und wie Ihr Euch
+<ce> gegenüber anderen Mitgliedern meines Hofes und
+<ce> meiner Familie verhaltet. Das wird mir zeigen,
+<ce> ob Ihr einen gebührlichen Charakter habt.
+<--->
+<ce> Euer Mut und Eure Fertigkeiten stehen außer
+<ce> Frage. Wenn ich nur das Gefühl hätte, dass
+<ce> ich Euch vertrauen könnte, würde ich Euch
+<ce> mit einer besonders heiklen Mission betrauen.
+<ce> Kommt wieder und sucht mich auf, wenn Ihr
+<ce> bewiesen habt, dass ich mich auf Euch
+<ce> verlassen kann.
+
+Message:  1032
+<ce> %pcn, ich habe eine besondere Aufgabe,
+<ce> die perfekt für Euch wäre. Aber wenn ich
+<ce> Euch jetzt damit beauftrage, würde ich nur
+<ce> Euer Todesurteil unterschreiben. Kehrt zu
+<ce> mir zurück, wenn Ihr etwas erfahrener seid,
+<ce> vielleicht kann ich Euch dann damit betrauen.
+<--->
+<ce> Wirklich schade, %pcf.
+<ce> Ich habe einen besonderen Auftrag, der nach
+<ce> jemandem verlangt, dem ich sovertrauen kann
+<ce> wie Euch. Um zu überleben braucht es aber
+<ce> jemanden mit größerem Talent. Kommt wieder
+<ce> und sucht mich auf, wenn Ihr noch etwas an
+<ce> Euren Fertigkeiten gearbeitet habt.
+
+Message:  1033
+<ce> %pcn, Ihr könntet genau die
+<ce> richtige Person sein, um mir zu helfen.
+<ce> Aber ich traue Euch noch nicht genug.
+<ce> Wenn ich höre, dass Ihr ein aufrechter
+<ce> %ra seid, könnt Ihr vielleicht
+<ce> wiederkommen und mich noch einmal fragen.
+
+Message:  1034
+<ce> Ich könnte Eure Hilfe wirklich gebrauchen,
+<ce> %pcn. Aber Ihr seid einfach nicht
+<ce> stark genug, um das zu erledigen, was
+<ce> ich getan haben muss. Werdet besser und
+<ce> kommt dann wieder zu mir.
+
+Message:  1035
+<ce> Ich habe delikate Angelegenheiten, derer
+<ce> Ihr Euch vielleicht annehmen könnt. Aber
+<ce> zuerst müsst Ihr Euch als würdig erweisen.
+<ce> Kehrt zu mir zurück, wenn Ihr Euch das
+<ce> Vertrauen für meine Patronage erworben habt.
+
+Message:  1036
+<ce> Ihr seid vertrauenswürdig, soviel steht fest.
+<ce> Aber Ihr seid, offen gesagt, noch nicht
+<ce> erfahren genug. Ich hätte interessante
+<ce> Arbeit für Euch, wenn Ihr Eure Fertigkeiten
+<ce> steigert und ein tödlicherer Gegner werdet.
+
+Message:  1040
+%pcn,
+ 
+     Seid gegrüßt und willkommen. Ich hoffe,
+ Eure Reise verlief ohne Zwischenfälle. Man
+ sagt, Ihr würdet Euch ungemein für die
+ Heimsuchung von Dolchsturz interessieren.
+ Mein Vater und König Lysandus standen sich
+ ziemlich nahe. Solltet Ihr mir einen Besuch
+ abstatten, wäre ich vielleicht in der Lage,
+ etwas Licht in die jüngsten Ereignisse um
+ Lysandus zu bringen.
+ 
+<ce> Prinz Lhotun,
+<ce> Palast von Schildwacht
+
+Message:  1041
+%pcf,
+ 
+     Meine Augen und Ohren da draußen berichten
+ mir, dass Ihr Euch für den Verbleib eines
+ gewissen Briefes interessiert. Kein Kaiser
+ sollte so unbedacht sein - und auch keine
+ Königin. Ihr solltet mich wirklich einmal
+ auf Schloss Wegesruh besuchen. Ich kenne ein
+ paar interessante Pikanterien, die Ihr,
+ sicher gerne hören würdet.
+ 
+<ce> Morgiah
+<ce> Prinzessin von Wegesruh
+

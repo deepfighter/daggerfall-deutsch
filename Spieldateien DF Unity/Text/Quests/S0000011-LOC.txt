@@ -1,0 +1,369 @@
+Quest: S0000011
+DisplayName: Barenziahs Buch
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Ich danke Euch, dass Ihr auf meinen Brief
+<ce> reagiert habt, %pcf. Für die
+<ce> Königin eines mächtigen Reichs, noch dazu
+<ce> eine Königin, deren Heimat in weiter Ferne
+<ce> liegt, ist es nicht leicht, irgendeinem Söldner
+<ce> zu vertrauen, Aber als mir mein liebes Kind
+<ce> von Euch erzählte, habe ich keinen Moment
+<ce> gezögert, Euch zu schreiben. Es braut sich
+<ce> eine heikle Situation zusammen. Ich brauche
+<ce> jemanden, der für mich einigen widerspänstigen
+<ce> Revolutionären eine Lektion erteilt.
+ 
+<ce> Würdet Ihr mir für _reward_ Goldstücke diesen
+<ce> Dienst erweisen? Ich kann Euch neben dem Gold
+<ce> auch noch mit Informationen belohnen.
+
+RefuseQuest:  [1001]
+<ce> Das ist bedauerlich. Prinz Helseth liegt
+<ce> bei seiner Einschätzung von Personen
+<ce> gewöhnlich richtig, doch scheint es,
+<ce> dass er sich in diesem Fall geirrt hat.
+
+AcceptQuest:  [1002]
+<ce> Es freut mich, das zu hören. Vor einigen Jahren
+<ce> verfasste ein verstimmter und vielleicht auch
+<ce> verwirrter Schreiber von mir eine Biographie
+<ce> über mich, die selbst mein schlimmster Feind
+<ce> grausam und verleumderisch nennen würde. Weil
+<ce> das Buch noch dazu übermäßig kritisch gegenüber
+<ce> dem Kaiserreich und der Septim-Kaiserfamilie
+<ce> war, wirde es wohlweislich unterdrückt und
+<ce> sein Autor hingerichtet. Leider tauchen Kapitel
+<ce> des Buches von Zeit zu Zeit wieder auf. Ich
+<ce> habe Grund zu der Annahme, dass sich die Orks
+<ce> von Orsinium ein Kapitel beschafft haben und
+<ce> nun versuchen, es zu veröffentlichen.
+ 
+<ce> Ich will, dass es aus ihrer Festung, die auch
+<ce> Orsinium heißt, verschwindet. Es ist Eile geboten.
+<ce> Ich bin sicher, dass Gortwog nicht lange warten
+<ce> wird. Sobald das Kapitel sicher ist, werden wir
+<ce> über Eure weiteren Ziele sprechen.
+
+QuestFail:  [1003]
+<ce> Ach %pcf ... bevor wir weiterreden
+<ce> können, benötige ich dieses Buchkapitel.
+
+QuestComplete:  [1004]
+<ce> Sehr gut gemacht, %pcf.
+
+RumorsDuringQuest:  [1005]
+Königin Barenziah ist angeblich schlechter Stimmung. Aber das kann man nie so genau sagen.
+<--->
+Es soll ein neues Buch mit der wahren Geschichte der ehemaligen Königin von Gramfeste erscheinen. 
+
+RumorsPostfailure:  [1006]
+Die Totenbeschwörer haben angeblich etwas, womit sie Barenziah erpressen.
+<--->
+Königin Barenziahs Männer suchen nach jemandem, der König der Würmer genannt wird.
+
+RumorsPostsuccess:  [1007]
+Dieses Buch über Königin Barenziah hat es wohl nie bis in den Druck geschafft.
+<--->
+Königin Barenziah hat wahre Loblieder auf so einen Abenteurer gesungen. Ein %ra, den sie angeheuert hat.
+
+QuestorPostsuccess:  [1008]
+
+QuestorPostfailure:  [1009]
+
+QuestLogEntry:  [1010]
+%qdt:
+ Königin Barenziah hat mich beauftragt, ein Kapitel
+ aus dem verleumderischen Buch über sie zu finden,
+ das um die Bucht kursiert. Sie nimmt an, dass es
+ sich in den Gewölben von Orsinium befindet, der
+ Heimat des Ork-Kriegsherren Gortwog.
+
+Message:  1014
+<ce> Prinz Helseth hat Euren Wert nicht zu hoch
+<ce> eingeschätzt. Hier sind die _reward_ Goldstücke,
+<ce> die ich Euch versprach.
+
+Message:  1015
+Kapitel VI
+ 
+ "Ihr tanzt auf dem Vulkan, Kind", ermahnte sie Drelliane,
+ als Barenziah den herrlichen Sternensaphirring bewunderte,
+ den ihr der kaiserliche Liebhaber zur Feier ihres ein-
+ monatigen Jubiläums geschenkt hatte.
+ 
+ "Wie kann das sein? Wir machen einander glücklich. Wir
+ tun keinem etwas zu Leide. Symmachus hat mir geboten,
+ anspruchsvoll und diskret zu sein. Was für eine bessere
+ Wahl könnte ich denn treffen? Und wir sind sehr diskret.
+ In der Öffentlichkeit behandelt er mich wie eine Tochter."
+ Die nächtlichen Besuche Tiber Septims erfolgten durch
+ einen Geheimgang, von dem nur wenige Personen im Palast
+ Kenntnis hatten - der Kaiser selbst und eine Handvoll
+ Leibwächter, denen er vertraute.
+ 
+ "Er lechzt förmlich nach Euch wie ein Hund nach Wasser.
+ Habt Ihr noch nicht bemerkt, wie kühl sich die Kaiserin
+ und ihr Sohn Euch gegenüber verhalten?"
+ 
+ Barenziah zuckte die Schultern. Auch vor Beginn der Affäre
+ hatte die Familie sie nur mit dem Nötigsten an Höflichkeit
+ behandelt. Mit dem Allernötigsten. "Ja und? Tiber ist es
+ doch, der die Macht hat."
+ 
+ "Aber seinem Sohn gehört die Zukunft. Macht nicht den
+ Fehler, seine Mutter dem öffentlichen Gespött preiszugeben."
+ 
+ "Kann ich etwas dafür, wenn diese vertrocknete Schachtel
+ das Interesse ihres Mannes nicht einmal während einer
+ Unterhaltung beim Abendessen halten kann?"
+ 
+ "Haltet es weniger öffentlich. Mehr verlange ich nicht.
+ Sie ist kaum von Bedeutung, das ist wahr - doch ihre Kinder
+ lieben sie, und Ihr solltet sie Euch nicht zu Feinden machen.
+ Tiber Septim hat nicht mehr lange zu Leben. Was ich meine,
+ ist", setzte sie schnell hinzu, als sie Barenziahs finsteren
+ Gesichtsausdruck sah, "dass alle Menschen nur kurze Zeit
+ leben. Sie sind flüchtig, wie wir Elfen sagen. Sie kommen
+ und gehen wie die Jahreszeiten - doch die Familien der
+ Mächtigen bleiben einige Zeit. Ihr müsst der Familie eine
+ Freundin sein, wenn Ihr aus der Beziehung auf Dauer Vorteile
+ schöpfen wollt. Aber wie kann ich Euch die Wahrheit erkennen
+ lassen, die Ihr so jung und darüber hinaus noch von Menschen
+ aufgezogen seid! Wenn Ihr dies weise beachtet, dann werdet Ihr
+ mit Gramfeste zusammen noch das Ende der Dynastie Septims
+ erleben, so er denn eine gegründet hat, genau, wie Ihr deren
+ Aufstieg erlebt habt. So ist das mit der Geschichte der
+ Menschen. Sie kommen und gehen wie die Gezeiten. Ihre Städte
+ und Herrschaften erblühen wie Frühlingsblumen auf, nur um
+ sogleich in der Sommerhitze zu welken und zu sterben. Doch
+ die Elfen bleiben. Wir sind wie Jahre zu ihren Stunden,
+ Jahrzehnte zu ihren Tagen."
+ 
+ Barenziah lachte nur. Sie wusste, dass die Gerüchteküche
+ kochte. Sie genoss die Aufmerksamkeit, denn außer der Kaiserin
+ und deren Sohn schien ein jeder von ihr eingenommen zu sein.
+ Minnesänger besangen ihre dunkle Schönheit und ihren Charme.
+ Sie war allseits beliebt und verliebt - auch wenn das nur
+ vorübergehend sein mochte. So war das Leben nun einmal.
+ Zum ersten Mal, seit sie zurückdenken konnte, war sie
+ glücklich. Ihre Tage waren erfüllt von Freude und Glück.
+ Übertroffen wurden sie nur noch von den Nächten.
+ 
+ "Was stimmt nur nicht mit mir?", klagte Barenziah. "Seht
+ nur, kein einziger meiner Röcke passt mir mehr. Was ist
+ nur mit meiner Taille? Ich werde doch nicht etwa dick?"
+ Barenziah sah ihre dünnen Arme und Beine und die eindeutig
+ dicker gewordene Taille missbilligend im Spiegel an.
+ 
+ Drelliane zuckte mit den Schultern. "Trotz Eures jugendlichen
+ Alters scheint Ihr schwanger zu sein. Durch den ständigen
+ intimen Kontakt zu Menschen seid Ihr früher fruchtbar geworden
+ als üblich. Ihr müsst wohl oder übel mit dem Kaiser darüber
+ sprechen. Ihr seid in seiner Hand. Ich denke, es wäre wohl
+ am besten, wenn er Euch direkt nach Gramfeste gehen ließe,
+ damit ihr das Kind dort bekommen könnt."
+ 
+ "Allein?" Barenziah legte die Hände auf den kleinen Bauch
+ und verdrückte eine Träne. Mit jeder Faser ihres Seins sehnte
+ sie sich danach, die Frucht ihrer Liebe mit ihrem Geliebten
+ zu teilen. "Nie wird er dem zustimmen. Nun wird er gewiss
+ nicht weit von mir sein wollen. Ihr werdet schon sehen."
+ 
+ Drelliane schüttelte den Kopf. Obwohl sie nichts weiter
+ sagte, blickte sie Barenziah nicht mit der üblichen kühlen
+ Herablassung, sondern mit Mitgefühl und Bedauern an.
+ 
+ Noch in derselben Nacht teilte sie Tiber Septim die Nachricht
+ mit, als er zu ihrer üblichen Verabredung kam.
+ 
+ "Ein Kind?", Er wirkte schockiert, völlig entgeistert.
+ "Seid Ihr sicher? Aber man sagte mir doch, Elfen seien
+ in diesem Alter noch nicht fruchtbar ..."
+ 
+ Barenziah versuchte, zu lächeln. "Wie könnte ich denn
+ sicher sein? Ich habe noch nie -"
+ 
+ "Ich werde meinen Heiler kommen lassen."
+ 
+ Der Heiler, ein Hochelf mittleren Alters, bestätigte die
+ Vermutung, dass Barenziah schwanger sei und so etwas noch
+ nie zuvor geschehen wäre. Es sei Zeugnis der Potenz Seiner
+ Exzellenz, sagte der Heiler schmeichlerisch. Tiber Septim
+ verlor die Fassung.
+ 
+ "Es darf nicht sein!", rief er. "Macht es ungeschehen.
+ Wir befehlen es Euch!"
+ 
+ "Aber Herr", stammelte der Heiler fassungslos. "Ich kann
+ doch nicht ... Ich darf nicht -"
+ 
+ "Natürlich könnt Ihr das, Ihr inkompetenter Schwachkopf",
+ fuhr ihn der Kaiser an. "Es ist unser ausdrücklicher
+ Wunsch."
+ 
+ Barenziah, die das Geschehen bis dahin stumm und mit
+ vor Entsetzen geweiteten Augen verfolgt hatte, setzte
+ sich plötzlich im Bett auf. "Nein!", schrie sie. "Nein!
+ Wovon redet Ihr da?"
+ 
+ "Kind." Tiber Septim setzte sich neben sie, mit einem
+ gewinnenden Lächeln auf den Lippen. "Es tut mir aufrichtig
+ Leid. Aber das darf nicht sein. Es wäre eine Gefahr für
+ meinen Sohn und dessen Söhne. Ich werde es nicht noch
+ klarer ausdrücken."
+ 
+ "Aber mein Kind ist auch Eures!", heulte sie auf.
+ 
+ "Nein. Es ist bisher nichts als eine Möglichkeit, ein
+ potenzielles Wesen, das noch keine Seele hat und noch
+ nicht wirklich lebt. Ich werde es nicht akzeptieren.
+ Ich verbiete es." Er sah den Heiler abermals böse an.
+ Der Elf begann zu zittern.
+ 
+ "Aber Herr. Es ist ihr Kind. Elfen haben sehr wenige
+ Kinder. Keine Elfe kann mehr als vier Mal empfangen,
+ und auch das ist sehr selten. Meist haben Elfen zwei
+ Kinder. Manche haben nur ein Kind, und einige gar keine.
+ Wenn ich ihr dieses Kind nehme, Herr, wird sie vielleicht
+ niemals wieder empfangen."
+ 
+ "Ihr hattet bereits vorausgesagt, dass sie kein Kind
+ von uns bekommen könnte. Wir haben wenig Vertrauen in
+ Eure weiteren Weissagungen."
+ 
+ Nackt wie sie war, kletterte Barenziah aus dem Bett und
+ rannte zur Tür. Sie wusste nicht, wohin sie wollte, nur,
+ dass sie hier weg musste. Sie sollte sie nicht mehr
+ erreichen. Finsternis legte sich über sie.
+ 
+ Als sie wieder zu sich kam, empfand sie schrecklichen
+ Schmerz. Ein Gefühl unerträglicher Leere machte sich
+ breit. Ein Teil, in dem zuvor etwas Lebendiges gewesen
+ war, blieb nun leer, das Leben tot und auf ewig verloren.
+ Drelliane blieb bei ihr, um den Schmerz zu lindern und
+ das Blut, das sich immer noch zwischen ihren Beinen
+ sammelte, wegzuputzen. Doch nichts und niemand konnte
+ diese Leere füllen. Nichts konnte es ersetzen.
+ 
+ Der Kaiser schickte ihr herrliche Geschenke und große
+ Blumengestecke, und er stattete ihr kurze Besuche ab,
+ jedoch nie alleine. Zunächst freute sich Barenziah über
+ diese Besuche. Doch Nachts kam Tiber Septim nicht mehr
+ zu ihr - und nach einiger Zeit wünschte sie dies auch
+ nicht mehr.
+ 
+ Einige Wochen vergingen. Als sie sich körperlich erholt
+ hatte, gab ihr Drelliane Bescheid, dass Symmachus
+ geschrieben habe mit der Bitte, man möge sie früher
+ als geplant nach Gramfeste schicken. Umgehend wurde
+ ihre Abreise verkündet.
+ 
+ Man gewährte ihr ein großes Gefolge, eine beträchtliche
+ Aussteuer, wie es sich für eine Königin ziemte, und
+ bereitete ihr einen so aufwändigen wie beeindruckenden
+ zeremoniellen Abschied an den Toren der Kaiserstadt.
+ 
+
+Message:  1016
+                          Schloss Wegesruh
+ 
+%pcn,
+ 
+ mein geliebter Sohn hat mich auf Euren
+ Namen aufmerksam gemacht und angedeutet,
+ dass wir ein paar Angelegenheiten zu
+ besprechen haben könnten. Mir scheint,
+ wir haben ein gemeinsames Interesse.
+ Bitte sucht mich umgehend im Schloss
+ Wegesruh auf.
+ 
+ Die Eure,
+ 
+<ce> Barenziah
+<ce> Königin des Königreichs Wegesruh
+
+Message:  1017
+<ce> Ein Knappe, der die Farben und blassgelbe Rose
+<ce> von Wegesruh trägt, erscheint lautlos an Eurer
+<ce> Seite. Er übergibt Euch einen Brief und ver-
+<ce> schwindet so leise, wie er gekommen ist.
+
+Message:  1020
+<ce> Boethiah sei Dank, Ihr habt es gefunden,
+<ce> bevor diese scheußlichen Orks es wieder
+<ce> an sich bringen konnten. Ich habe alles
+<ce> darüber gehört, wie sie das Kapitel an
+<ce> den König der Würmer verloren haben.
+<ce> %god, was für eine Krise, wenn sie
+<ce> es veröffentlicht hätten. Hier sind
+<ce> _reward_ Goldstücke für Eure Dienste.
+
+Message:  1030
+<ce> Ihr wisst es vielleicht noch nicht, aber Gortwog
+<ce> besitzt nicht nur den vor ein paar Monaten
+<ce> verschollenen Brief des Kaisers, sondern sucht
+<ce> auch nach einem sehr alten Relikt, welches das
+<ce> Totem von Tiber Septim genannt wird. Wenn das
+<ce> Totem in die warzigen Hände dieses Kannibalen
+<ce> fällt, könnte es das Ende von Wegesruh,
+<ce> vielleicht sogar der gesamten Zivilisation an 
+<ce> der Iliac-Bucht bedeuten. Wir könnten Eure
+<ce> fähigen Dienste erneut brauchen, %pcf.
+
+Message:  1050
+<ce> Hallo, %pcn. Es sieht so aus, als hätten
+<ce> wir im König der Würmer einen gemeinsamen
+<ce> Gegenspieler. Ich bin Gortwog, König der
+<ce> Orks und Fürst von Orsinium. Ich würde
+<ce> Euch mit einem Juwel [_jewelry_] belohnen,
+<ce> wenn Ihr das Kapitel von Barenziahs Buch
+<ce> aus dem Skurkgrab in den Drachenschwanz-
+<ce> bergen zurückholt, wohin der König und
+<ce> seine Totenbeschwörer mitgenommen haben.
+ 
+<ce> Seid Ihr damit einverstanden?
+
+Message:  1051
+<ce> Eine Schande! Aber gut, dann werden wir
+<ce> eben einen anderen Söldner anheuern.
+
+Message:  1052
+<ce> Sehr gut. Dann los mit Euch.
+
+Message:  1054
+<ce> Hier ist Eure Belohnung [_jewelry_].
+<ce> Kümmert Euch nicht darum, was ich mit diesem
+<ce> Kapitel machen werde. An Eurer würde ich
+<ce> allerdings für eine Weile einen großen Bogen
+<ce> um Königin Barenziah machen.
+
+Message:  1060
+%qdt:
+ Der orkische Kriegsherr, Gortwog von Orsinium,
+ hat mich mit der Fortsetzung der Aufgabe
+ betraut, die bei der Königin von Wegesruh
+ begann: das verlorene Kapitel ihrer Biographie
+ zu finden. Gerüchten zufolge befindet es sich
+ in der den Untiefen der Totenbeschwörerfestung,
+ dem Skurkgrab in den Drachenschwanzbergen.
+
+Message:  1061
+Eine nebulöse Gestalt formt sich in Eurem Geist.
+Ein Ork-Schamane! Er macht einem majestätischen
+Ork Platz, der eine Krone trägt.
+ 
+  "Das Buch, nach dem Ihr sucht, befindet sich
+  nicht mehr in Orsinium. Die Totenbeschwörer
+  haben es uns gestohlen. Wenn Ihr dazu bereit
+  seid wären wir daran interessiert, unsere
+  Kräfte gegen diesen gemeinsamen Feind zu
+  vereinen. Seid nicht so töricht zu glauben,
+  die Orks wären Eure Feinde, nur weil sie Orks
+  sind. Besucht mich in den Hallen von Orsimium,
+  wenn Ihr interessiert seid."
+ 
+Das Gesicht verschwindet und zurück bleibt nur
+eine Erinnerung.
+

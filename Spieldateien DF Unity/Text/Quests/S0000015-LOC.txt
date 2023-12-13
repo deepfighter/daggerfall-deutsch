@@ -1,0 +1,161 @@
+Quest: S0000015
+DisplayName: Lysandus' Vergeltung
+QRC:
+
+RumorsDuringQuest:  [1005]
+Es waren ein paar fremde Männer hier und haben Fragen nach jemanden gestellt. Ein %ra namens %pcnn.
+<--->
+Der Anblick dieser Schläger hat mir überhaupt nicht gefallen. %god sei Dank sind sie weitergezogen.
+
+RumorsPostfailure:  [1006]
+Die Sterne künden von Träumen, die nie in Erfüllung gehen werden.
+<--->
+Die Orakel von %reg haben gefährliche Vorzeichen gesehen.
+
+RumorsPostsuccess:  [1007]
+Ich hörte, dass es in Wegesruh langsam ungemütlich wird.
+<--->
+Ich habe gehört, dass sie den Leichnam von König Lysandus gefunden haben!
+
+QuestLogEntry:  [1010]
+Dies sieht aus wie Fürst Wiedborns persönliches Tagebuch.
+<--->
+Fürst Wiedborns persönliches Tagebuch.
+
+Message:  1011
+[Seite 7]
+ 
+ aus meiner Kindheit. Ich weiß, dass Gothryd mir seine
+ Hilfe nicht verweigern würde, aber ich muss den rechten
+ Augenblick abwarten, um ihn zu fragen. Schließlich ist
+ Elysana nach wie vor Thronerbin von Wegesruh und ich
+ bin ihr Angetrauter. Demnach sollte ich König werden,
+ wenn Eadwyre stirbt (und das wird er, eher früher als
+ später).
+ 
+    Ich könnte und würde geduldig sein, wenn da nicht
+ diese Hurenkönigin und Ihre Bälger wären. Wie das alte
+ Sprichwort sagt: Vertraue niemals einem Dunkelelfen,
+ denn du kannst in ihren Augen nicht die Wahrheit lesen.
+ Wenn Barenziah ihren Willen durchsetzt, wird Helseth
+ Thronerbe werden und Elysana in ein fernes Königreich
+ verheiratet werden. Morgiah ist bereits dem Thronfolger
+ von Ersthalt versprochen, aber sie behalten sie noch
+ hier, damit sie ihr Gift gegen Elysana und ganz
+ besonders mich versprühen kann.
+ 
+    Barenziah vertraut mir nicht, dessen bin ich mir
+ bewusst. Ich werde mit ihr wie mit Lysandus verfahren.
+ Der Narr hätte zustimmen sollen, mich zu unterstützen.
+ Gortwog und seine Orks hätten ihn fast gerettet. Wenn
+ ich erst einmal auf dem Thron von Wegesruh sitze,
+ werde ich mich um diese Tiere kümmern.
+ 
+    Vorerst ist es wichtig, meine Machtstellung zu
+ festigen. Ich kann mich (fast sicher) darauf verlassen,
+ dass Gothryd meinen Thronanspruch unterstützen wird,
+ sollte Helseth zum Erben ernannt werden. Ich verfüge
+ über ein Agentennetz, das dem von Eadwyre, Gothryd,
+ Akorith-i oder dem Kaiser gleichkommt.
+ Möglicherweise sind die Vernetzungen der Totenbeschwörer
+ und des Unterkönigs noch ausgedehnter, aber ich bezweifle
+ es. Das Problem ist die rohe, physische Gewalt. Ich habe
+ kein stehendes Heer. Ich brauche Gold für das Ausheben.
+
+Message:  1018
+%qdt:
+ Ich habe in Wiedbornhall ein paar höchst belastende
+ Tagebuchseiten gefunden. Fürst Wiedborn wäre sicher
+ ziemlich aufgebracht wenn sie in die falschen Hände
+ geraten sollten.
+
+Message:  1019
+%qdt:
+ Lysandus' Geist erschien mir und erklärte,
+ dass nur der Tod oder die Schande seines
+ Mörders Fürst Wiedborn seiner Seele Frieden
+ verschaffen kann. Fürst Wiedborn ist ein
+ Adliger aus Wegesruh und Prinzessin Elysana
+ angetraut. Er besitzt eine Burge in der
+ Wildnis von Wegesruh.
+
+Message:  1021
+Wie ich hörte, wurde Fürst Wiedborn wegen Hochverrats enthauptet.
+<--->
+Sie haben Fürst Wiedborn ergriffen und wegen Hochverrats abgeurteilt.
+
+Message:  1022
+Ich hörte, dass eine Horde Daedra über Fürst Wiedborn hergefallen ist und ihn davongeschleppt hat.
+<--->
+Dinge von jenseits des Grabes sind auferstanden und haben Wiedbornhall angegriffen!
+<--->
+Ich hörte, Fürst Wiedborn habe die Magiergilde betrogen. Sie sandten Dämonen aus, um ihn zu töten.
+
+Message:  1024
+Ich hörte, Fürst Wiedborn würde Prinzessin Elysana heiraten.
+<--->
+Fürst Wiedborn steht dieser Tage auf Schloss Wegesruh in hoher Gunst.
+
+Message:  1030
+<ce> Das hat für mich nichts zu bedeuten. Solcher
+<ce> Schund lässt sich nur noch verbrennen. Gothyrd
+<ce> und Wiedborn verschwören sich, um Lysandus
+<ce> zu töten. Also wirklich! Schert Euch fort.
+
+Message:  1031
+<ce> Das ist entsetzlich! Nach all dem Wohlwollen,
+<ce> das wir diesem Narren Wiedborn haben angedeihen
+<ce> lassen! Fast hätten wir dieses niederträchtige
+<ce> Schwein mit Elysana verheiratet - fast einem
+<ce> Schurken erster Güte den Thron von Wegesruh
+<ce> überlassen! Gut, %pcf, es war
+<ce> wohlgetan, uns darauf aufmerksam zu machen.
+ 
+<ce> Seid versichert, dass Fürst Wiedborn für seinen
+<ce> Hochverrat verhaftet und hingerichtet wird.
+<ce> Sein Name soll aus den Ehrenbüchern gestrichen,
+<ce> seine Komplizen verhört und sein Vermögen beschlagnahmt
+<ce> werden. Bitte erlaubt mir, Euch diese _reward_ Goldstücke
+<ce> als Euren Anteil an seinem konfiszierten Vermögen
+<ce> zu überlassen.
+
+Message:  1032
+<ce> Fürst Wiedborn ist der Mörder meines geliebten
+<ce> Lysandus. Der Gerechtigkeit soll durch meine
+<ce> Hand Genüge getan werden! Ihr tätet gut daran,
+<ce> Euch einige Zeit von Wiedbornhall und Wegesruh
+<ce> fernzuhalten, %pcn.
+
+Message:  1033
+<ce> Diese Information ist äußerst wertvoll,
+<ce> %pcf. Lasst mich Euch mit
+<ce> _gold_ Goldstücken dafür belohnen, dass
+<ce> Ihr sie mir gebracht habt. Sie wird im
+<ce> heraufziehenden Konflikt überaus nützlich
+<ce> sein.
+
+Message:  1034
+<ce> Es war vollkommen richtig von Euch, dies zu
+<ce> mir zu bringen. Es hätte sonst herauskommen
+<ce> und Fürst Wiedborn schaden können.
+ 
+<ce> Wachen! Ihr seid tot, %ra!
+
+Message:  1040
+<ce> Ihr! Ihr seid dieser %ra, %pcn.
+<ce> Ihr seid mir nun schon seit Langem ein Dorn
+<ce> im Auge. Ein weiserer %ra hätte schlafende
+<ce> Könige ruhen lassen - wo ich doch alles
+<ce> Erdenkliche getan habe, sie umzubringen!
+<ce> Ganz richtig, %pcf, ich habe König Lysandus
+<ce> getötet. Und jetzt wird es mir ein Vergnügen
+<ce> sein, auch Euch zu töten. En garde!
+
+Message:  1045
+<ce> "Ich bin ... geschlagen. Jetzt liegt es
+<ce> ... an ... an Gothryd. Ihr sollt ...
+<ce> in der Hölle schmoren, %pcn.
+<ce> Ich ... werde das ... ganz sicher."
+ 
+<ce> Fürst Wiedborn ist tot.
+

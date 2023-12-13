@@ -1,0 +1,118 @@
+Quest: S0000005
+DisplayName: Sorge um Nulfaga
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Es heißt, dass Nulfaga, die arme Großmutter
+<ce> meines Gemahls, bei sehr schwacher Gesundheit
+<ce> und ihr einst brillianter Verstand fast ganz
+<ce> zerrüttet ist. Sie hat sich in ihrem Schloss
+<ce> in den Wrothgarischen Bergen eingeschlossen
+<ce> und experimentiert ohne Rücksicht auf ihre
+<ce> eigene Sicherheit mit magischen Studien.
+<ce> Ich würde gerne um ihren Zustand wissen,
+<ce> doch nur wenige haben den Mut, sich den
+<ce> Schrecken ihres Schlosses zu stellen und mit
+<ce> ihr zu sprechen. Ich würde Euch für einen
+<ce> Bericht über ihre Gesundheit hiermit entlohnen
+<ce> [_magicitem_].
+ 
+<ce> Werdet Ihr in dieser Sache mein Champion sein?
+
+RefuseQuest:  [1001]
+<ce> Eine allzu vorhersehbare Antwort.
+<ce> Dennoch sehr enttäuschend.
+
+AcceptQuest:  [1002]
+<ce> %oth, ich bin froh, einen Champion
+<ce> gefunden zu haben. Der Name ihres
+<ce> Schlosses ist Shedungent. Es sollte
+<ce> nicht länger als =2shedungent_ Tage dauern,
+<ce> dorthin zu gelangen. Wenn sie nicht bei
+<ce> Sinnen ist, könnte Shedungent in der
+<ce> Tat ein gefährlicher Ort sein. Seid
+<ce> sehr vorsichtig. Mögen Kynareth und
+<ce> Mara Euch beschützen.
+
+QuestFail:  [1003]
+<ce> Bevor Ihr nicht mit Nulfaga gesprochen habt, bin
+<ce> ich an einer Unterhaltung nicht interessiert.
+
+QuestComplete:  [1004]
+<ce> Ich gebe zu daran gezweifelt zu haben,
+<ce> Euch jemals wiederzusehen. Die Nachricht,
+<ce> dass Nulfaga noch unter den Lebenden weilt,
+<ce> tut mir con Herzen gut. Das hier ist für Euch
+<ce> [_magicitem_].
+ 
+
+RumorsDuringQuest:  [1005]
+Warum hat die Königin diese plötzliche Zuneigung zur verrückten, alten Nulfaga entwickelt?
+<--->
+Nulfaga ist nichts weiter als eine wahnsinnige Hexe. Was kümmert es Königin Aubk-i, wenn sie stirbt?
+
+RumorsPostfailure:  [1006]
+Die Königin hat einen weiteren Söldner losgeschickt, nachdem es dieser %ra nicht geschafft hat, Nulfaga zu finden.
+<--->
+Königin Aubk-i konnte nicht länger auf diesen %ra warten. Sie hat einen anderen Söldner losgeschickt.
+
+RumorsPostsuccess:  [1007]
+Es ist schön, Königin Aubk-i endlich glücklich zu sehen. Sie hat so ein hübsches Lächeln.
+<--->
+Königin Aubk-i scheint in letzter Zeit überaus glücklich zu sein. Sie wirkt wie ... befreit.
+
+QuestorPostsuccess:  [1008]
+Ah, %pcn. Der %ra, der sich geweigert hat, die Großmutter meines toten Gemahls zu besuchen.
+
+QuestorPostfailure:  [1009]
+Noch einmal danke ich Euch, die gefährliche Reise nach Shedungent auf Euch genommen zu haben, um für mich nach Nulfaga zu sehen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Aubk-i, die Königin von Dolchsturz, hat mich gebeten,
+ den Zustand Nulfagas, der Großmutter ihres Gemahls,
+ zu untersuchen. Ich soll zu Nulfagas Schloss Shedungent
+ nach Wrothgarien reisen und mit ihr sprechen, um zu
+ sehen, ob es ihr gut geht. Ich habe =2shedungent_ Tage, um Aubk-i
+ von ihrem Zustand zu berichten und meine Belohnung
+ zu erhalten.
+
+Message:  1011
+<ce> Bist du es, den ein gegenseitig Band einträchtigen
+<ce> Ziels und Rates, gleiche Hoffnung und gleiches
+<ce> Wagnis zu der großen Tat mit mir vereinte, einst?
+<ce> Dich hat nun gleiches Unglück und Weh mit mir
+<ce> vereinigt auch! Ewiges, ewiges, ewiges Unglück!
+<ce> Schweig still, sage ich zur Tür meiner Seele.
+<ce> O mein Kind, warum hörest du nicht, dein Ohr,
+<ce> dein glorreich sterbliches Gesicht, deine Kehle
+<ce> und der Pfeil. O Elend!
+<--->
+<ce> Aus wenigen doch nur die schlimmsten Worte wählt,
+<ce> lasst niemanden sie lesen! Verse, Verse formen
+<ce> womit andere Zauber so fürchterlich den Himmel
+<ce> fluchen. Verflucht sei das Reich des Vergessens!
+<ce> Mein Junge! Mein Junge ist tot, lasst Tamriel
+<ce> erzittern, bis er und ich verwehrten Frieden finden.
+<ce> Schweig still, tür seines Grabes und meines Hauses!
+<--->
+<ce> Wie war es möglich, Göttin, nicht verhehle: ein Pfeil
+<ce> traf meines Lysandus' Kehle? Starb er dort gesegnet
+<ce> und beklagt oder wandelten sich all meine hübschen
+<ce> Vöglein zu Grauschwingen? O Tür meines Herzens, schweig
+<ce> still bevor ich dich entzweispalte. Ich durchstreife
+<ce> die Jenseitswelt, die Unterwelt und Zwischenwelt,
+<ce> doch nirgendwo finde ich meines Sohnes Heiterkeit.
+<ce> O Wahnsinn, ich hänge an deiner nährenden Brust!
+<--->
+<ce> Wir sind wie stumme Wände, Grabgewölbe nur, gestürzt und
+<ce> ohne Widerhall. O düstre Welt, in welchen Schatten, Gruben
+<ce> finsterer Umnachtung, lebt in Angst und weibisch doch der
+<ce> Mensch! Wie kam Lysandus zu seinem Tod? In einem Nebel,
+<ce> ich weiß nicht wie. Schweig still, meine Tür, und halte
+<ce> seine grauen Himmel fern. Ist's Reich des Vergessens noch
+<ce> nicht gekommen? Heraufziehen lassen werde ich es durch eine
+<ce> Perspektive oder einen Spiegel erschaffen, der sogleich die
+<ce> ganze Welt in Flammen setzt! Ich kann nicht schlafen; mein
+<ce> Kissen ist mit einem Wurf von Stachelschweinen gestopft.
+

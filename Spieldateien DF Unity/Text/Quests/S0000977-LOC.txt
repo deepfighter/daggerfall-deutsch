@@ -1,0 +1,30 @@
+Quest: S0000977
+DisplayName: Fluch über Dolchsturz
+QRC:
+
+QuestorOffer:  [1000]
+
+RefuseQuest:  [1001]
+
+AcceptQuest:  [1002]
+
+QuestFail:  [1003]
+
+QuestComplete:  [1004]
+
+RumorsDuringQuest:  [1005]
+Geister suchen die Straßen von Dolchsturz heim.
+<--->
+Meidet die Straßen von Dolchsturz bei Nacht.
+<--->
+König Lysandus' Geist sucht des Nachts seine
+alte Hauptstadt heim. Niemand kennt den Grund.
+
+RumorsPostfailure:  [1006]
+
+RumorsPostsuccess:  [1007]
+
+QuestorPostsuccess:  [1008]
+
+QuestorPostfailure:  [1009]
+

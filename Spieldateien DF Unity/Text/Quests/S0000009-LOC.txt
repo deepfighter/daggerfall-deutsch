@@ -1,0 +1,142 @@
+Quest: S0000009
+DisplayName: Elysanas Verrat
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Ihr seid in Person sogar noch schneidiger,
+<ce> als Fürst Wiedborn Euch beschrieben hat.
+<ce> Ich liebe es einfach, mit Männern und
+<ce> Frauen der Tat zu sprechen! Ich weiß,
+<ce> dass Ihr nach einem bestimmten Gegenstand
+<ce> sucht, %pcf. Einem Totempfahl
+<ce> oder ähnlichem? Ein Bekannter von mir,
+<ce> ein ganz und gar reizender =contact_,
+<ce> hat etwas, das Euch vielleicht helfen
+<ce> könnte. Wenn Ihr meine Cousine _foil_
+<ce> zu _contact_ geleitet, könnt Ihr es
+<ce> haben. Würdet Ihr mir diesen klitzekleinen
+<ce> Gefallen tun?
+
+RefuseQuest:  [1001]
+<ce> Nein? Wie schrecklich! Meine arme Cousine
+<ce> wird so enttäuscht sein! Ihr seid nicht
+<ce> annähernd so unterhaltsam, wie
+<ce> Fürst Wiedborn gesagt hat.
+
+AcceptQuest:  [1002]
+<ce> Wie aufregend! Es wird ein richtiges
+<ce> Abenteuer sein. _foil_ liebt es einfach
+<ce> zu reisen und kann es kaum erwarten,
+<ce> etwas Zeit mit _contact_ zu verbringen.
+<ce> Geht nach ___contact_  in
+<ce> ____contact_, zu einem Ort namens
+<ce> __contact_. Dort wird man Euch =reward_ Goldstücke
+<ce> dafür bezahlen, dass Ihr _foil_ sicher
+<ce> hergebracht habt. Ihr müsst diese gefährlichen
+<ce> Missionen doch einfach lieben, oder etwa nicht?
+
+QuestFail:  [1003]
+<ce> Ich habe nichts mit Euch zu besprechen.
+
+QuestComplete:  [1004]
+<ce> %pcf! Wie habt...ich meine, ich freue
+<ce> mich, Euch zu sehen. Und auch _foil_.
+<ce> Hier, nehmt das Gold. Ein Gegenstand?
+<ce> Was ist ein Totem? Nun, es war nett,
+<ce> mit Euch zu reden. Ich muss los!
+
+RumorsDuringQuest:  [1005]
+Eine Gruppe zwielichtiger Gestalten war vor einer Weile hier; sie suchten nach einem Söldner, der ein %ra sein soll.
+<--->
+Prinzessin Elysana verbringt viel Zeit in der Wildnis von Wegesruh, habe ich gehört.
+
+RumorsPostfailure:  [1006]
+Ein %ra wurde von einer Bande überfallen, habt Ihr davon gehört? Zwielichtige Geschäfte, wenn Ihr mich fragt.
+<--->
+Dieser %ra wurde überfallen. Die Kerle waren nicht von hier. Auftragsmörder.
+
+RumorsPostsuccess:  [1007]
+Ich hörte, irgendein mysteriöser Mann heuert Auftragsmörder an, um einen bestimmten Söldner zu töten. Das Ziel ist ein %ra.
+<--->
+_contact_ war unglaublich wütend. Man sollte meinen, %g würde sich freuen, %g3 Cousine zu sehen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Prinzessin Elysana bat mich, ihre Cousine _foil_
+ nach ___contact_ in ____contact_ zu geleiten,
+ um sich dort mit _contact_ zu treffen. Als
+ Belohnung wird man mir =reward_ Goldstücke bezahlen
+ und etwas geben, das mit dem Totem in Verbindung steht.
+
+Message:  1011
+<ce> _foil_ läuft plötzlich davon.
+<ce> Auf leisen Sohlen verschwindet
+<ce> %g in den Schatten.
+
+Message:  1012
+<ce> %pcf, es war nicht meine Schuld!
+<ce> Ich wurde angeheuert, um Euch hereinzulegen!
+<ce> Hier, nehmt die _reward_ Goldstücke. So ein
+<ce> Kerl in einem grauen Mantel hat mir genau
+<ce> diese Summe dafür gegeben. _foil_ war
+<ce> nur irgendeine Hure, die bezahlt wurde,
+<ce> um Euch zu begleiten. Ist mir gerade
+<ce> wieder eingefallen. Ich habe auch noch
+<ce> _bribe_ Goldstücke bei mir, die einfach
+<ce> zu schwer sind, um sie länger mit mir
+<ce> herumzutragen. Warum nehmt Ihr sie nicht
+<ce> und ich gehe einfach?
+
+Message:  1013
+Tötet %pcn,  bevor zu viel
+bekannt wird. Nutzt jedes Mittel.
+  
+<ce>   - W.
+
+Message:  1015
+Ein Straßenkind hetzt auf Euch zu und ruft:
+ 
+ "Nachricht für %pcn von dem Mann
+ in Grau." Bevor Ihr es festhalten könnt,
+ läuft das Kind davon und lässt Euch mit
+ einer Notiz in Händen zurück.
+ 
+
+Message:  1016
+%pcn,
+ 
+     mein guter Freund Fürst Wiedborn
+ sagt, dass Ihr ein Held seid, dem man
+ vertrauen kann. Ich stünde wahrlich
+ tief in Eurer Schuld, wenn Ihr noch
+ ein wenig bleiben und Euch mit mir
+ unterhalten würdet. Vielleicht könntet
+ Ihr sogar etwas für mich tun. Ach,
+ ich wäre Euch so dankbar!
+ 
+<ce>                            Prinzessin Elysana
+<ce>                             Schloss Wegesruh
+
+Message:  1018
+%pcf,
+ 
+     brecht Eure Nachforschungen
+ der Stelle ab, wenn Ihr nicht wie
+ Lysandus sterben möchtet. Wollt Ihr
+ Euer Leben wirklich für einen Toten
+ riskieren? Ihr werdet beobachtet.
+
+Message:  1020
+_foil_ sagt: 
+
+ "Wer waren diese Barbaren?
+ Sie hätten Euch fast getötet!
+ Vielleicht solltet Ihr diese Sache mit
+ Lysandus' Geist einfach vergessen."
+
+Message:  1021
+_foil_ sagt:
+ 
+ "Ihr seid viel härter im Nehmen
+ als Elysana gesagt hat."
+

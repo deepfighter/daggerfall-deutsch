@@ -1,0 +1,128 @@
+Quest: S0000003
+DisplayName: Medoras Befreiung
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Seid gegrüßt, %pcf.
+<ce> Ich bin Medora Direnni, ehemalige Zauberin
+<ce> des Hofes von Dolchsturz. Ich habe ein gewisses
+<ce> Interesse daran, Euch bei Eurem Vorhaben,
+<ce> den Geist von König Lysandus zur Ruhe zu
+<ce> bringen, zu helfen, doch kann ich in meiner
+<ce> derzeitigen Lage nur wenig tun. Aber wenn
+<ce> Ihr einer gewissen anderen Zauberin einen
+<ce> Besuch abstatten würdet, könnte ich den Fluch
+<ce> aufheben, der auf dem Direnni-Turm liegt.
+<ce> Würdet Ihr das für mich tun, %pcf?
+
+RefuseQuest:  [1001]
+<ce> Ihr verweigert Euch jemandem, der Eurer Hilfe
+<ce> dringend bedarf, %pcf. Ich hoffe, Ihr
+<ce> könnt das mit Eurem Gewissen vereinbaren.
+
+AcceptQuest:  [1002]
+<ce> Ich würde in Eurer Schuld stehen, %pcf.
+<ce> Nulfaga, die Mutter meines ehemaligen Fürsten
+<ce> Lysandus, ist eine berühmte Mystikerin, doch
+<ce> man munkelt, der Verlust ihres Sohnes habe
+<ce> sie vor Kummer in den Wahnsinn getrieben.
+<ce> Wenn das unwahr ist, dann kann und wird sie
+<ce> mir helfen. Um den Fluch auf dem Direnni-Turm
+<ce> zu brechen, benötige ich einen ganz bestimmten
+<ce> seltenen Gegenstand: Das Horn eines Großen
+<ce> Einhorns. Aber wenn Nulfaga wirklich wahnsinnig
+<ce> ist, müsst Ihr selbst in ihrem Schloss nach dem
+<ce> Horn suchen und es zu mir zurückbringen.
+<ce> Ich werde Euch in =2shedungent_ Tagen wieder hier erwarten.
+
+QuestFail:  [1003]
+<ce> Ohne dieses Horn kann ich Euch überhaupt
+<ce> nicht helfen, %pcf.
+
+QuestComplete:  [1004]
+<ce> Ihr wart bei einer höchst gefährlichen
+<ce> Unternehmung erfolgreich, %pcf,
+<ce> aber noch viele solcher Prüfungen
+<ce> erwarten Euch. Ihr habt das Horn zu
+<ce> mir gebracht und mir damit geholfen,
+<ce> den Fluch aufzuheben, den die Königinwitwe
+<ce> über meinen Turm gelegt hat. Ich hoffe,
+<ce> ich kann weiterhin auf Eure Hilfe zählen.
+<ce> Doch nehmt zuerst meine Belohnung entgegen
+<ce> [_magicitem_].
+
+RumorsDuringQuest:  [1005]
+Niemand wagt sich in die Nähe der Insel Balfiera, seit die Königin des Reich des Vergessens dort erschienen ist.
+<--->
+Balfiera war einst ein exklusiver Erholungsort. Nun ist es das Land der Toten.
+
+RumorsPostfailure:  [1006]
+Die Feenherrin wurde dort vermutlich von der Bosheit ihres eigenen Zauberwerks gefangen.
+<--->
+Der Fluch von %god hängt über der einstigen Hexe von Dolchsturz, die für immer nach Balfiera verdammt ist.
+
+RumorsPostsuccess:  [1007]
+Ein großer Held rettete die arme Dame von Balfiera vor dem Fluch einer niederträchtigen Königin.
+<--->
+Ein %ra hat den Fluch, der auf der Dame von Balfiera lag, aufgehoben und das Land geheilt.
+
+QuestorPostsuccess:  [1008]
+<ce> Bist du es, den ein gegenseitig Band einträchtigen
+<ce> Ziels und Rates, gleiche Hoffnung und gleiches
+<ce> Wagnis zu der großen Tat mit mir vereinte, einst?
+<ce> Dich hat nun gleiches Unglück und Weh mit mir
+<ce> vereinigt auch! Ewiges, ewiges, ewiges Unglück!
+<ce> Oh, mein Kind, warum hörest du nicht, dein Ohr,
+<ce> dein glorreich sterbliches Gesicht, deine Kehle
+<ce> und der Pfeil. Oh Elend!
+<--->
+<ce> Aus wenigen doch nur die schlimmsten Worte wählt,
+<ce> Lasst niemanden sie lesen! Verse, Verse formen
+<ce> womit andere Zauber so fürchterlich den Himmel
+<ce> fluchen. Verflucht sei das Reich des Vergessens!
+<ce> Mein Junge! Mein Junge ist tot, lasst Tamriel
+<ce> erzittern, bis er und ich verwehrten Frieden finden.
+<--->
+<ce> Wie war es möglich, Göttin, nicht verhehle: ein
+<ce> Pfeil traf meines Lysandus' Kehle? Starb er dort
+<ce> gesegnet und beklagt oder wandelten sich all meine
+<ce> hübschen Vöglein zu Grauschwingen? Ich durchstreife
+<ce> die Jenseitswelt, die Unterwelt und Zwischenwelt,
+<ce> doch nirgendwo finde ich meines Sohnes Heiterkeit.
+<ce> Oh Wahnsinn, ich hänge an deiner nährenden Brust!
+<--->
+<ce> Wir sind wie stumme Wände, Grabgewölbe nur, gestürzt und
+<ce> ohne Widerhall. Oh düstre Welt, in welchen Schatten, Gruben
+<ce> finsterer Umnachtung, lebt in Angst und weibisch doch der
+<ce> Mensch! Wie kam Lysandus zu seinem Tod? In einem Nebel,
+<ce> ich weiß nicht wie. Ist's Reich des Vergessens noch nicht
+<ce> gekommen? Heraufziehen lassen werde ich es durch eine
+<ce> Perspektive oder einen Spiegel erschaffen, der sogleich die
+<ce> ganze Welt in Flammen setzt! Ich kann nicht schlafen; mein
+<ce> Kissen ist mit einem Wurf von Stachelschweinen gestopft.
+
+QuestorPostfailure:  [1009]
+<ce> Natürlich werde ich Medora das Horn des
+<ce> Großen Einhorns geben. Schließlich war sie
+<ce> die Favoritin meines geliebten Lysandus.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Medora, die ehemalige Hofzauberin von Dolchsturz,
+ hat mich nach Shedungent in den Wrothgarischen
+ Bergen entsandt. Shedungent ist der Sitz Nulfagas,
+ der Mutter von Lysandus. Ich muss von dort das Horn
+ des Großen Einhorns zurückholen. Falls Nulfaga
+ außerstande ist, mir zu helfen, muss ich ihr Schloss
+ Shedungent selbst nach dem Horn durchsuchen. Ich
+ habe =2shedungent_ Tage um zum Direnni-Turm zurückzukehren.
+
+Message:  1020
+<ce> Das feine, spiralförmige Horn krümmt sich
+<ce> leicht, bevor es in einer tödlichen,
+<ce> scharfen Spitze endet. Ihr habt immer
+<ce> gehört, dass Einhornhörner aus dem
+<ce> reinsten, alabasterfarbenen Elfenbein
+<ce> wären. Dieses hier scheint eher Silber
+<ce> zu gleichen.
+

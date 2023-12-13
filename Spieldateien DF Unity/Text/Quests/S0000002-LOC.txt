@@ -1,0 +1,280 @@
+Quest: S0000002
+DisplayName: Prinz Helseths Erpressung 
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Ich brauche einen Kurier, %pcf,
+<ce> aber diesmal wird keine gemeine hohlköpfige
+<ce> Söldnerpocke auf wackligen Beinen genügen. Ich
+<ce> habe einen Brief von äußerster Wichtigkeit an
+<ce> einen hochstehenden Würdenträger zu überbringen,
+<ce> der jedoch vor unangemeldeten Besuchern geschützt
+<ce> sein wird. Als Gegenleistung werde ich Euch nicht
+<ce> nur belohnen, sondern auch ein gutes Wort beim
+<ce> König und der Königin von Wegesruh für Euch
+<ce> einlegen. Außerdem werde ich Euch ein paar
+<ce> Informationen über diese Dolchsturzaffäre geben,
+<ce> die Ihr kaum andernorts erhalten würdet.
+ 
+<ce> Klingt das nach einer annehmbaren Vereinbarung?
+
+RefuseQuest:  [1001]
+<ce> Dummkopf! Warum muss ich meine Zeit
+<ce> mit Euresgleichen verschwenden?
+
+AcceptQuest:  [1002]
+<ce> Ausgezeichnet. Trefft mich morgen um diese Zeit
+<ce> wieder hier und ich werde Euch den Brief mitsamt
+<ce> Namen und Aufenthaltsort des Empfängers geben.
+
+QuestFail:  [1003]
+<ce> Der Brief muss zugestellt werden, %pcf.
+<ce> Enttäuscht mich nicht.
+
+QuestComplete:  [1004]
+<ce> In jedem Fall ist hier, was ich Euch versprochen habe
+<ce> [_magicitem_]. Niemand soll sagen, dass
+<ce> Prinz Helseth nicht seine Schuld begliche.
+ 
+<ce> Oh ja, ich versprach, Euch etwas über die Situation
+<ce> in Dolchsturz zu erzählen. Ich vermute, meine Familie
+<ce> hat mehr damit zu schaffen, als allgemein bekannt ist.
+<ce> Am Vorabend der Schlacht von Cryngaine sandten wir
+<ce> Berater aus, um König Lysandus und König Camaron
+<ce> zur Beilegung ihrer Differenzen anzuhalten. Lysandus
+<ce> war dem Kaiser gegenüber geradezu unerträglich loyal,
+<ce> während Camaron für mehr Autonomie kämpfte. Dem Bericht
+<ce> der Berater zufolge kamen sie zu spät, da Gortwogs Orks
+<ce> Ihnen unterwegs aufgelauert hatten. Ich habe aber auch
+<ce> gehört, dass zumindest ein paar unserer Berater bei
+<ce> Lysandus' Zelt eintrafen und kurz mit ihm sprachen.
+<ce> Mehr kann ich zurzeit nicht sagen. Wenn ich weitere
+<ce> Informationen erhalte oder sich die Lage ändert,<ce> 
+<ce> werde ich es Euch sicher wissen lassen.
+
+RumorsDuringQuest:  [1005]
+Fürst Kastellian empfängt keine Besucher, während er sich in __castfort_ erholt.
+<--->
+Die Frage der Thronfolge hat Fürst Kastellian schwer beschäftigt.
+
+RumorsPostfailure:  [1006]
+Fürst Kastellian scheint Prinzessin Elysana für die Thronfolge zu favorisieren.
+<--->
+Der Ältestenrat von Wegesruh scheint geneigt, das altehrwürdige Gesetz der Thronfolge zu bewahren.
+
+RumorsPostsuccess:  [1007]
+Fürst Kastellian befindet sich seit seiner Rückkehr ständig in Prinz Helseths Gesellschaft.
+<--->
+Der Ältestenrat von Wegesruh diskutiert ernsthaft darüber, das Gesetz der Thronfolge abzuschaffen.
+
+QuestorPostsuccess:  [1008]
+Ja, %pcf? Unsere Sterne scheinen gemeinsam aufzugehen. Was benötigt Ihr denn?
+
+QuestorPostfailure:  [1009]
+<ce> Ich hatte einen wichtigen Auftrag für
+<ce> Euch, %pcf, falls Ihr Euch erinnert.
+<ce> Hatte mit Fürst Kastellian zu tun.
+<ce> Nun, dafür ist es jetzt zu spät, und
+<ce> ich bin nicht gerade der geduldigste
+<ce> Mann in Tamriel. Verlasst mich nun
+<ce> bitte, bevor ich ungehobelt werde.
+
+QuestLogEntry:  [1010]
+Hochverehrter Fürst Kastellian,
+  
+     verzeiht mir die Notwendigkeit, Euch diesen Brief
+ auf die denkbar gröbste Art zuzustellen, aber es wäre
+ ausgeschlossen, Euch in einer so delikaten Affäre
+ im Schloss aufzusuchen. Seit langem bewundere ich Eure
+ Loyalität zur Krone und Eure Unvoreingenommenheit in
+ inneren Angelegenheiten. Versteht daher, dass ich allein
+ Eure Würde vor einem womöglich beschämenden Szenario
+ bewahren möchte.
+ 
+     Das Problem liegt bei Eurer Schwester, der Fürstin
+ Pasipha, welche, obwohl sie außer Landes weilt, immer
+ noch regen Kontakt zu Mitgliedern des Hofes pflegt.
+ Ich verstehe und respektiere die Tiefe Eurer
+ geschwisterlichen Liebe und Zuneigung, denn Fürstin
+ Pasipha ließ mir zur Antwort auf meine neugierige
+ Erkundigung einige anrührende Briefe zukommen, die
+ aus Eurer Feder stammen.
+ 
+ "Saht Ihr jemals voll Verlangen eine rote Beere in Sahne
+ prangen? So träumte ich von Euch, meine innigste Liebe,
+ meine Seele in Euch ergießend, Süße, denn durch Eure
+ Berührung, Liebste, ist meine Seele gänzlich verwirkt."
+ 
+     Während wir beide um die Lauterkeit Eurer Schwäche
+ für die Dame wissen, neigen die lüsterneren Köpfe bei
+ Hofe, wie Euch bewusst ist, zu grotesker Fehldeutung.
+ Ihr Gemahl ist, wie ich hörte, für seine eifersüchtigen
+ Wutanfälle berüchtigt. Ich habe einige Ideen, wie man
+ missliebige Auswirkungen in dieser Sache verhindern
+ könnte und würde Eure Antwort bei nächstmöglicher
+ Gelgenheit begrüßen.
+ 
+ Ich erwarte Euch auf Schloss Wegesruh.
+ 
+<ce> Helseth,
+<ce> Prinz von Wegesruh
+
+Message:  1011
+<ce> Gut gemacht, %pcn.
+<ce> Euer angehender Ruf scheint wohlverdient zu sein.
+<ce> Fürst Kastellian ist nun recht zugänglich.
+
+Message:  1012
+<ce> Es ist wirklich zu schade, dass Ihr nicht etwas
+<ce> schneller wart, %pcf. Meine Schwester
+<ce> Elysana ist inzwischen verlobt. Ohne ihren
+<ce> Widerstand war es nicht mehr nötig, den Brief bei
+<ce> Fürst Kastellian abzuliefern. Gleichwohl, bin ich
+<ce> überzeugt, auch das irgendwie zu meinem Vorteil
+<ce> nutzen zu können.
+ 
+
+Message:  1014
+<ce> Dieses intrigante, hinterhältige Frettchen.
+<ce> Es war gut getan, mich darauf aufmerksam
+<ce> zu machen, %pcf. Habt Dank.
+
+Message:  1017
+<ce> Ein Knappe, der die Farben und blassgelbe
+<ce> Rose von Wegesruh trägt, erscheint still
+<ce> an Eurer Seite. Er übergibt Euch einen Brief
+<ce> und verschwindet so leise, wie er gekommen ist.
+
+Message:  1018
+<ce> Ein atemloser Kurier drückt Euch einen
+<ce> Lederbeutel in die Hand. Eine vorsichtige
+<ce> Untersuchung bringt einen Brief und gewisse
+<ce> Menge Goldes zum Vorschein.
+
+Message:  1019
+%qdt:
+ Prinz Helseth wünscht, dass ich ihn morgen im
+ Schloss treffe, um die Einzelheiten eines Auftrags
+ zu erfahren. Ich werde als Kurier agieren.
+
+Message:  1020
+%qdt:
+ Prinz Helseth will, dass ich einen Brief zu Fürst
+ Kastellian, dem Vorsitzenden des Ältestenrates
+ von Wegesruh, auf seinen Landsitz _castfort_
+ in __castfort_ bringe. Ich habe =1stparton_ Tage, um
+ den Brief zuzustellen und zurückzukehren.
+
+Message:  1024
+Prinz Helseth,
+ 
+     ich weiß Eure Freundlichkeit zu schätzen
+ und werde mich, so es Euch beliebt, binnen
+ kurzen mit Euch treffen.
+ 
+<ce> Fürst Kastellian
+
+Message:  1025
+<ce> Fürst Kastellian hat Euren Tod befohlen.
+<ce> Ich soll Euch noch von ihm sagen, dass
+<ce> Ihr zu viel wisst.
+
+Message:  1026
+Hochverehrter Fürst Kastellian,
+ 
+     verzeiht diese gemeine Art der Zustellung,
+ aber es wäre politisch unklug gewesen, Euch
+ dieses potenzielle Problem im Schloss anzutragen.
+ Unglücklicherweise wird Eure wohlverdiente
+ Erholungszeit aufgeschoben werden müssen,
+ bis diese Angelegenheit geklärt ist.
+  
+     Ich spreche von Eurer Schwester, der Fürstin
+ Pasipha. Jahrelang war sie die schillerndste
+ Person am Hof von Wegesruh, der Liebling aller,
+ die Schönheit und Anmut zu würdigen wissen.
+ Vor kurzem erst kursierten Gerüchte, wonach das
+ für ihre Kleider und Juwelen ausgegebene Gold
+ unmöglich von ihrem Gemahl stammen könnte, der
+ derzeit mittellos ist Es folgten geschmacklose
+ Mutmaßungen, von denen keine auch nur die Tinte
+ wert wäre, sie niederzuschreiben.
+ 
+     Offen gesagt hat eine Person, die anonym
+ bleiben muss, mir gegenüber den Verdacht geäußert,
+ dass Ihr Geldmittel aus der königlichen Schatzkammer
+ entliehen hättet, um die Extravaganz Eurer Schwester
+ zu ermöglichen. Selbstverständlich habe ich Eure
+ Ehre in Schutz genommen, aber es wurden Abschriften
+ der königlichen Bücher angefertigt, welche die
+ Anschuldigung zu bestätigen scheinen. Ich bin mir
+ darum über das weitere Vorgehen unschlüssig.
+ 
+     Zweifelt nicht daran, mein Herr, dass ich von
+ Eurer Integrität als Vorsitzender des Ältestenrates
+ von Wegesruh überzeugt bin. Ich wünsche lediglich,
+ dass diese Ungereimtheiten in der Buchhaltung
+ aufgeklärt werden, damit sie, vor Eadwyre gebracht,
+ überzeugend verteidigt werden können.
+ 
+     Bitte übergebt diesem vertrauenswürdigen Kurier
+ Eure Antwort. Natürlich würde ich es vorziehen, Euch 
+ so bald wie möglich zu treffen.
+ 
+<ce> In tiefster Verbundenheit,
+ 
+<ce> Helseth
+
+Message:  1027
+<ce> Ah, seid erneut gegrüßt, %pcf. Hier ist
+<ce> der Brief. Er ist Fürst Kastellian zu übergeben,
+<ce> dem Vorsitzenden des Ältestenrates, der sich
+<ce> gegenwärtig auf seinem Herrensitz _castfort_
+<ce> in __castfort_ aufhält. Es ist für mich sehr
+<ce> wichtig, dass dieser Brief in spätestens =1stparton_ Tagen
+<ce> zugestellt ist und Ihr wieder zurück seid. Wie
+<ce> bereits erwähnt, schätzt Fürst Kastellian seine
+<ce> Privatsphäre über alle Maßen. Rechnet bei Eurer
+<ce> Ankunft in _castfort_ mit Widerstand. Ich möchte
+<ce> Euch bitten, den Brief nicht zu lesen, da der Inhalt
+<ce> privater Natur ist. Sollte ein Wort daraus bekannt
+<ce> werden, ziehe ich Euch zur Verantwortung.
+
+Message:  1028
+<ce> Ihr wartet, während Fürst Kastellian den.
+<ce> Brief liest. Seine Haut erbleicht und
+<ce> seine Hände beginnen zu zittern..
+ 
+<ce> "Ich verstehe. Bitte wartet, während ich
+<ce> eine Antwort an Prinz Helseth verfasse."
+<ce> Er braucht nur eine Minute, um eine Antwort
+<ce> zu schreiben, die er Euch dann übergibt.
+
+Message:  1030
+<ce> Dieser Brief wurde geöffnet.
+<ce> Für einen Kurier geht Ihr
+<ce> zu weit, %pcn.
+
+Message:  1031
+<ce> Ihr lest also gern die Schreiben
+<ce> Eurer Gebieter. Erwartet nicht, dass
+<ce> ich Euch so schnell wieder vertraue.
+
+Message:  1040
+Seid gegrüßt %pcn,
+ 
+     aufgrund der kürzlichen Heirat meiner Schwester
+ Elysana bedarf ich nicht länger Eure Dienste bezüglich
+ der Zustellung des Briefes an Fürst Kastellian. Da Ihr
+ ehrenhaft in meinem Namen gehandelt habt, wies ich
+ den Kurier an, Euch für Eure bisherige Zeit und Mühe
+ 100 Goldstücke zu übergeben.
+ 
+<ce> Helseth
+<ce> Prinz von Wegesruh
+
+Message:  1050
+Fürst Kastellian ist der einflussreichste Ratsherr von Wegesruh.
+<--->
+Wie ich höre, verfügt Fürst Kastellian über genügend Rückhalt, um Prinz Helseths Kriegspläne zu blockieren.
+

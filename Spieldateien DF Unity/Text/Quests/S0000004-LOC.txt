@@ -1,0 +1,155 @@
+Quest: S0000004
+DisplayName: Morgiahs Verlobung
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Ihr versucht doch, diesen Brief des
+<ce> Kaisers aufzuspüren, nicht wahr? Es
+<ce> gibt nur sehr wenige Skandale in der
+<ce> Bucht, über die ich gänzlich unwissend
+<ce> bin. Ich könnte Euch Informationen
+<ce> geben, aber alles hat seinen Preis,
+<ce> und den kenne ich gut. Ich brauche
+<ce> eine Champion, der die Feuer des
+<ce> Reich des Vergessens fürchtet.
+<ce> Seid Ihr interessiert?
+
+RefuseQuest:  [1001]
+<ce> Schade! Ich werde jemand anderen finden,
+<ce> der mir hilft. Aber ich frage mich, wen
+<ce> Ihr wohl finden mögt, der Euch hilft?
+
+AcceptQuest:  [1002]
+<ce> %oth, das ist eine Erleichterung für mich.
+<ce> Stellt keine Fragen - bringt diesen Brief zu
+<ce> einem bestimmten hohen Hexemmeister in der
+<ce> Krypta der Totenbeschwörer, dem Skurgrab in
+<ce> den Drachenschwanzbergen. Meidet den Spalt.
+<ce> Wenn Ihr ihn seht, seid Ihr zu weit gegangen.
+ 
+<ce> Sie werden Euch nicht erwarten und auch nicht
+<ce> darauf warten, dass Ihr Euch vorstellt. Die
+<ce> Totenbeschwörer empfinden den Tod nicht als
+<ce> Bestrafung, sondern als Belohnung für die
+<ce> Lebenden. Wenn Ihr den Brief überbracht habt,
+<ce> werden sie es nicht mehr für nötig halten Eure
+<ce> Sicherheit zu garantieren. So sind sie eben.
+<ce> Ich brauche die Antwort auf diesen Brief vom
+<ce> König der Würmer in spätestens einem Monat.
+<ce> Die Risiken sind sehr hoch, %pcf,
+<ce> bitte versagt nicht.
+ 
+
+QuestFail:  [1003]
+<ce> Ich brauche vom König der Würmer eine Antwort
+<ce> auf meinem Brief, %pcf.
+
+QuestComplete:  [1004]
+<ce> Es ist vollbracht! Ich werde Königin von
+<ce> Ersthalt sein! Obgleich ich mir sicher bin,
+<ce> dass sich die Verlobung hinziehen wird.
+<ce> Nun, ich habe Euch Informationen über den
+<ce> Brief des Kaisers versprochen.
+ 
+<ce> Der Brief, den Ihr sucht, befindet sich in
+<ce> den Händen Gortwogs, des Kriegsherrn der Orks.
+<ce> Er erstand ihn von der Diebesgilde von Dolchsturz,
+<ce> nachdem ihn einer der ihren Königin Aubk-i
+<ce> gestohlen hatte.
+ 
+<ce> Ich gestehe, dass ich nicht weiß, warum ihn
+<ce> der Kaiser an Aubk-i geschickt hat. Das
+<ce> Mädchen ist bis zur Schuldigkeit unschuldig
+<ce> und jeder weiß, dass Gothryd nicht der loyale
+<ce> Speichellecker des Kaiserreichs ist, der
+<ce> Lysandus war. Natürlich ist meine eigene
+<ce> Familie... nun, genug von diesem langweiligen
+<ce> Hofgeschwätz.
+ 
+<ce> Wenn Ihr diesen Brief wirklich finden wollt,
+<ce> solltet Ihr Euch mit Mynisera gut stellen,
+<ce> der ehemaligen Königin von Dolchsturz und
+<ce> Königinmutter Gothryds. Ich würde jedoch
+<ce> nicht direkt auf sie zutreten. Beginnt bei
+<ce> jemandem von geringerem Stand.
+
+RumorsDuringQuest:  [1005]
+Wenn da nicht Morgiahs Ruf wäre, würde Wegesruh ihren Bruder mit offenen Armen aufnehmen.
+<--->
+Wie konnten wir nur den Bruder einer manipulativen Hexe wie Prinzessin Morgiah krönen?
+
+RumorsPostfailure:  [1006]
+Prinzessin Morgiahs Stimmung hat sich verschlechtert. Und niemand hat so üble Laune wie sie.
+<--->
+Es ist wohl an der Zeit, dass Prinzessin Morgiah heiratet. Aber wer würde sie wollen?
+
+RumorsPostsuccess:  [1007]
+Prinzessin Morgiah ist mit dem König von Ersthalt verlobt. Wahrlich ein Wunder von %god.
+<--->
+Was könnte den König von Ersthalt dazu bewogen haben, um Morgiahs Hand anzuhalten?
+<--->
+Morgiah geht eine Verlobung auf drei Jahre ein! Königshäuser sind doch ziemlich eigenartig.
+
+QuestorPostfailure:  [1009]
+<ce> Sehr gut. Übergebt Prinzessin Morgiah
+<ce> bitte diese Nachricht, wenn Ihr von
+<ce> den treuen Grabesdienern nicht mit
+<ce> dem Tod belohnt werdet.
+
+QuestLogEntry:  [1010]
+KdW,
+ 
+     ich nehme Eure Bedingungen an.
+ Ich gebe Euch mein Erstes und Ihr nutzt
+ Euren Einfluss auf den König von Ersthalt
+ auf den Sommersend-Inseln.
+ 
+     Nur Ihr könnt ihn mit seinem toten
+ Sohn sprechen lassen. Dafür würde er
+ sogar Nulfaga heiraten!
+ 
+- M
+
+Message:  1011
+Prinzessin,
+ 
+ Einverstanden.
+ 
+- KdW
+
+Message:  1012
+%qdt:
+ Prinzessin Morgiah von Wegesruh hat mich gebeten,
+ einen Brief an den König der Würmer bei den
+ Totenbeschwörern im Skurkgrab zu überbringen.
+ Sie sagte, ich solle den Spalt meiden, was auch
+ immer das sein mag. Wenn ich ihn sehe, bin ich
+ zu weit gegangen. Sie wünscht die Antwort
+ innerhalb eines Monats.
+
+Message:  1013
+Prinzessin Morgiah hat Wegesruh verlassen und ist zu den Sommersend-Inseln und dem König von Ersthalt aufgebrochen.
+<--->
+Wegesruh hat seine Beziehungen zu den Hochelfen von Ersthalt durch eine Heirat gefestigt.
+<--->
+Ersthalt hat eine Königin gewonnen und Wegesruh eine Prinzessin verloren.
+<--->
+Morgiah wird als Karoodils Königin in Ersthalt glücklich sein.
+<--->
+Morgiah wird die erste Königin von Ersthaltsein, die keine Hochelfe ist.
+
+Message:  1014
+<ce> König Eadwyre und
+<ce> Königin Barenziah,
+<ce> Herrscher über das Königreich Wegesruh
+<ce> sind stolz, die Verlobung von
+<ce> Morgiah, Prinzessin von Wegesruh, mit
+<ce> Karoodil, König von Ersthalt
+<ce> auf den Sommersend-Inseln
+<ce> zu verkünden.
+
+Message:  1015
+<ce> Ein junger Knabe, dessen Wappenrock mit der Rose
+<ce> von Wegesruh bestickt ist, erscheint an Eurer Seite,
+<ce> händigt Euch eine gestochene Karte aus und verschwindet.
+

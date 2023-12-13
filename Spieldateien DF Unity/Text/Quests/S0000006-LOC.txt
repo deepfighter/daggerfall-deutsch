@@ -1,0 +1,131 @@
+Quest: S0000006
+DisplayName: Elysanas Gewand
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Hallo, %pcf. Ich bin Elysana,
+<ce> König Eadwyres Tochter und Thronanwärterin von
+<ce> Wegesruh. Vielleicht könntet Ihr mir aus einer
+<ce> etwas misslichen Lage heraushelfen. Der Vorsitzende
+<ce> des Ältestenrates Fürst Kastellian, ein guter
+<ce> Freund meines Vaters, ist vom Hof zu seiner
+<ce> Sommerresidenz aufgebrochen und ich vergaß,
+<ce> ihm einen Mantel zurückzugeben, den ich mir geborgt
+<ce> hatte. Würde es Euch - wenn dieser Botengang
+<ce> nicht zu langweilig ist - etwas ausmachen, ihn
+<ce> zu ihm nach ___casfort_ zu bringen?
+<ce> Als Belohnung könnte ich Euch ein schönes
+<ce> Schmuckstück anbieten [_jewelry_].
+ 
+
+RefuseQuest:  [1001]
+<ce> Nein? Oh, %oth.
+
+AcceptQuest:  [1002]
+<ce> Wie furchtbar nett von Euch, einem dummen Mädchen
+<ce> wie mir zu helfen. Hier ist der Mantel. Es ist sehr
+<ce> wichtig, dass der gnädige Herr Kastellian ihn bald
+<ce> bekommt. Er ist auf einem seiner Anwesen,
+<ce> _casfort_ in ___casfort_.
+<ce> Fürst Kastellian sollte nicht allzu schwer zu
+<ce> finden sein, fragt einfach nach ihm oder
+<ce> _casfort_ und gebt ihm den Mantel.
+<ce> Ich weiß das wirklich zu schätzen, %pcf.
+<ce> Es sollte auch wirklich nicht länger als
+<ce> =queston_ Tage dauern, nach ___casfort_
+<ce> zu gelangen und zurückzukehren, also werde
+<ce> ich solange auf Euch warten.
+
+QuestFail:  [1003]
+<ce> Ich weiß, dass Fürst Kastellian seinen Mantel noch
+<ce> nicht hat, und er ist kein sehr geduldiger Mann.
+
+QuestComplete:  [1004]
+<ce> Oh, wie wundervoll Ihr seid. Hier, lasst mich
+<ce> Euch wie versprochen belohnen [_jewelry_].
+<ce> Ich hoffe, Fürst Kastellian gefällt die zusätzliche
+<ce> Arbeit, die ich in diesen Mantel gesteckt habe.
+<ce> Jetzt ist er wahrlich spektakulär. Lasst mich
+<ce> Euch noch etwas mehr geben, %pcf.
+<ce> Mein Vater interessiert sich für ein bestimmtes
+<ce> altes Relikt, welches das Totem von Tiber Septim
+<ce> genannt wird. Überall suchen seine Spione danach.
+<ce> Wenn sie es finden wird mein Vater jemanden brauchen,
+<ce> der es sicherstellt. Und natürlich wird der, den
+<ce> er dafür auswählt, sagenhaft reich belohnt werden.
+<ce> Ich werde ihm Euren Namen nennen. Das ist das
+<ce> mindeste, was ich tun kann.
+
+RumorsDuringQuest:  [1005]
+Fürst Kastellian befürwortet eine Gesetzgebung, die Helseth zum Thronfolger machen wird.
+<--->
+Prinzessin Elysana ist beim Vorsitzenden des Ältestenrates in Ungnade gefallen.
+
+RumorsPostfailure:  [1006]
+Fürst Kastellian ist von _casfort_ nach Schloss Wegesruh zurückgekehrt. Die Erholungszeit ist vorbei.
+<--->
+Prinzessin Elysana scheint nicht gerade glücklich zu sein, Fürst Kastellian nach seiner Rückkehr wiederzusehen.
+
+RumorsPostsuccess:  [1007]
+Fürst Kastellian ist aus _casfort_ verschwunden, wo er sich erholt hatte.
+<--->
+König Eadwyre argwöhnt bei Fürst Kastellians Verschwinden ein falsches Spiel.
+
+QuestorPostsuccess:  [1008]
+Wunderschöne Gewandung. Aber nichts daran ist besonders ungewöhnlich.
+<--->
+Vorzügliche Handarbeit. Jemand war mit viel Herz bei diesen Stickereien.
+
+QuestorPostfailure:  [1009]
+Irgendwelche daedrischen Beschwörungsformeln, eingestickt in den Mantel.
+<--->
+Ein Daedra-Beschwörungsritual wurde in diesen Stoff eingestickt.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Prinzessin Elysana hat mich gebeten, einen Mantel zu
+ Fürst Kastellian, dem Vorsitzenden des Ältestenrates
+ von Wegesruh, auf seinem Anwesen in ___casfort_,
+ _casfort_, zu bringen. Ich muss in =queston_ Tagen
+ wieder in Schloss Wegesruh sein.
+
+Message:  1020
+<ce> Narr! Irgendeine unerschrockene Seele
+<ce> hat Euch einen Mantel gegeben,
+<ce> der mich beschworen hat, um Euch
+<ce> zu töten. Wie köstlich!
+
+Message:  1021
+<ce> Tod dem Verräter, der
+<ce> Fürst Kastellian ermordet hat!
+<--->
+<ce> Ihr sollt dafür bezahlen, meinen
+<ce> Lehnsherren getötet zu haben.
+<--->
+<ce> Mörder! Fürst Kastellian war ein
+<ce> großer Mann. Ihr sollt für Eure
+<ce> Tat sterben!
+
+Message:  1022
+<ce> "Ein Geschenk der Dame Elysana?
+<ce> Ich danke Euch, %pcn.
+<ce> Das passt mir wie angegossen."
+ 
+<ce> Ihr hört einen reißenden Laut,
+<ce> so als würde das Gefüge der
+<ce> Realität selbst aufgerissen werden.
+
+Message:  1023
+<ce> Verlasst diesen Ort, kleiner %ra.
+<ce> Wir sind gekommen, um Fürst Kastellian
+<ce> einzufordern. Ihr habt Euren Teil
+<ce> beigetragen, als ihr das Leichentuch
+<ce> überbrachtet, das uns beschworen hat.
+
+Message:  1030
+Fürst Kastellian ist das einflussreichste Ratsmitglied von Wegesruh.
+<--->
+Man sagt, Prinzessin Elysana empfinde nur wenig Liebe für Fürst Kastellian.
+<--->
+Fürst Kastellian macht kein Geheimnis aus seinem Wunsch, Prinzessin Elysana zu heiraten.
+

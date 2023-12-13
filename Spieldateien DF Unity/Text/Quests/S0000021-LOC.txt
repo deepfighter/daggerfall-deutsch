@@ -1,0 +1,90 @@
+Quest: S0000021
+DisplayName: Seele eines Lichs
+QRC:
+
+QuestorOffer:  [1000]
+<ce> %pcf, ich bin sehr erfreut,
+<ce> dass Ihr auf meinen Brief geantwortet habt.
+<ce> Ich hoffe, mein Kurier war zuvorkommend.
+<ce> Ihr seid mir in der Vergangenheit ein treuer
+<ce> Diener gewesen. Nicht so treu wie meine
+<ce> lebenden Toten, aber deutlich vielseitiger.
+<ce> Was ich brauche, befindet sich in den
+<ce> tiefsten Tiefen des Palastes von Schildwacht.
+<ce> Die Belohnung ist Wissen, über das nur die
+<ce> Toten verfügen. Seid Ihr bereit?
+
+RefuseQuest:  [1001]
+<ce> Ihr müsst viel für Königin Akorithi
+<ce> übrig haben. Was für ein Jammer!
+
+AcceptQuest:  [1002]
+<ce> Wie unterhaltsam. Ich suche die Antwort
+<ce> auf eine Frage. Sie findet sich nicht unter
+<ce> den Lebenden, aber vielleicht unter den Toten.
+<ce> Ich möchte, dass Ihr mir den Geist von Prinz
+<ce> Karolis, dem Urgroßvater des verstorbenen
+<ce> Königs Camaron von Schildwacht. Karolis war ein
+<ce> Hexenmeister von nicht geringem Talent. Nun ist
+<ce> er ein Lich tief in den Eingeweiden des Palastes.
+<ce> Ich gebe Euch einen speziellen Skarabäus. Ist er
+<ce> in seiner Nähe, wenn Ihr seine körperliche Gestalt
+<ce> zerstört, wird seine Seele darin gefangen. Bringt
+<ce> ihn mir und ich werde Euch eine Geschichte erzählen,
+<ce> die nur wenige Sterbliche jemals gehört haben.
+
+QuestComplete:  [1004]
+<ce> Gut gemacht, %pcf. Ich bin sicher,
+<ce> der Prinz wird sich höchst kooperativ zeigen.
+<ce> Bitte, nehmt diesen magischen Gegenstand
+<ce> [_magicitem_] als Zeichen meiner Dankbarkeit.
+<ce> Ich habe außerdem beschlossen, dass endlich
+<ce> jemand außerhalb der Linie von Tiber Septim
+<ce> die Wahrheit über den Unterkönig erfahren soll.
+<ce> Tiber Septim war, wie Ihr wisst, der erste Kaiser
+<ce> von Tamriel. Gegen Ende seiner Eroberungskriege,
+<ce> betrog er seinen Kampfmagier Zurin Arctus. Aber
+<ce> als Arctus starb, weigerte sich seine Seele,
+<ce> seinen Körper zu verlassen. Das hatte irgendetwas
+<ce> mit dem mysteriösen Numidium zu tun. Seit dieser
+<ce> Zeit lebt Zurin Arctus als der Unterkönig weiter.
+ 
+<ce> Der Unterkönig und seine Agenten sind mir seit
+<ce> Jahrhunderten ein Dorn im Auge. Und eines weiß ich:
+<ce> sollte der Unterkönig seine sterbliche Gestalt
+<ce> zurückgewinnen, würde er sicher ganz Tamriel in
+<ce> Konflikt und Zwietracht stürzen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Der König der Würmer hat versprochen, mich in
+ dunkle Geheimnisse einzuweihen, wenn ich ihm
+ den Geist eines Lichs bringe. Nicht irgendeinen
+ Lich, sondern den des einstigen Prinzen Karolis
+ von Schildwacht, der die Gewölbe des königlichen
+ Palastes heimsucht. Ich muss seinen Körper
+ zerstören, während ich einen speziellen Skarabäus
+ bei mir trage, der seine Seele einfangen wird.
+
+Message:  1011
+[In das faulige Fleisch des Zombies genäht,
+ könnt Ihr folgende Nachricht ausmachen:]
+ 
+ %pcn,
+ 
+     Es wäre mir eine Ehre, Euch sobald
+ möglich in meine Domäne einzuladen.
+ Ich hätte da ein kleines Anliegen, für
+ dass Ihr ideal geeignet wäret. Meine
+ Diener werden wie immer zuerst Euren
+ Mut auf die Probe stellen. Verfahrt
+ Ihnen nach Belieben. Sie können
+ jederzeit wieder auferweckt werden.
+ 
+ Der König der Würmer,
+ Herr vom Skurgrab
+
+Message:  1012
+<ce> Der Skarabäus, den Euch der
+<ce> König der Würmer gegeben hat.
+

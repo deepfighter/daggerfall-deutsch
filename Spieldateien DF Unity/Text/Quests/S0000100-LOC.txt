@@ -1,0 +1,20 @@
+Quest: S0000100
+DisplayName: Wer bekommt das Totem?
+QRC:
+
+Message:  1015
+<ce> Königin Akorithi hat uns geschickt, um
+<ce> eine schwere Bürde von Euch zu nehmen.
+<ce> Das Totem muss doch schwer auf Eurer
+<ce> Seele lasten. Es ist wirklich zu schade,
+<ce> dass Ihr Euch nicht stärker bemüht habt,
+<ce> in ihrer Gunst zu bleiben.
+ 
+<ce> <ce> Sie hat uns auch befohlen, Euch zu töten.
+Ohne Zeugen, versteht sich.
+<--->
+<ce> Wir sind hier, um Euch zu töten,
+<ce> %pcn. Nichts für ungut,
+<ce> wir wollen nur das Totem und
+<ce> Ihr seid im Weg.
+

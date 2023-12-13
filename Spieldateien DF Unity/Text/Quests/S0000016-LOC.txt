@@ -1,0 +1,52 @@
+Quest: S0000016
+DisplayName: Reise nach Aetherius
+QRC:
+
+QuestLogEntry:  [1010]
+%qdt:
+ Nulfaga hat mich in die Mantellische Krux
+ geschickt, um das Mantella zu finden, das
+ Herz des großen Numidiums. Angeblich ist
+ es ein riesiges, grünes Juwel. Ich brauche
+ es nur zu berühren.
+
+Message:  1012
+<ce> Nur gekrönte Häupter werden über das Totem verfügen:
+ 
+<ce> Der Erste ist jener, der einen tötete, aber nicht einen anderen
+<ce> Der Zweite ist jener, den seine beiden Jungen verschlingen
+<ce> Der Dritte ist jener, der einen versklavte und viele befreite
+<ce> Der Vierte und Fünfte sind jene, die um Schlamm wetteifern
+<ce> Der Sechste ist jener, der den Heimatlosen eine Heimat gibt
+<ce> Der Siebte ist jener, der über alle herrscht, doch nichts beherrscht
+ 
+<ce> Ich weiß nicht, welcher dieser Sieben die Macht am
+<ce> meisten verdient. Zu lange habe ich zugelassen,
+<ce> dass mich meine Qualen in den Wahnsinn trieben.
+<ce> Manchmal hängt das Schicksal der Welt von der
+<ce> Entscheidung einer einzelnen Person ab. Ihr habt
+<ce> gewählt, wer über das große Numidium gebieten wird.
+<ce> Ihr tragt die Bürde der Konsequenzen.
+ 
+<ce> Ich schicke Euch jetzt in die Mantellische Krux,
+<ce> das gesicherte Gefängnis des Mantella. Sucht nach
+<ce> einem grünen Juwel von ungewöhnlicher Größe.
+<ce> Berührt das Mantella einfach und es ist befreit.
+<ce> Ihr werdet dann wieder an meine Seite teleportiert.
+
+Message:  1020
+<ce> Eure Arbeit ist getan, %pcn.
+<ce> Die Welt ist nicht mehr, wie sie einst war.
+<ce> Das ist der Lauf der Dinge. Oh, und sagt meiner
+<ce> Lichstatue, sie soll stillschweigen, dann wird
+<ce> sich die Tür zu meiner Kammer öffnen.
+
+Message:  1050
+<ce> Nulfaga schnarrt: "Nicht so schnell, %pcn.
+<ce> Wollt Ihr nicht noch das Ergebnis von Eurer
+<ce> Hände Werk sehen? Nun werft einen Blick ins
+<ce> Buch der Zeit. Lest auf seinen Seiten die
+<ce> Geschichte dessen, was sich in den nächsten
+<ce> Tagen ereignen wird. Lest das Schicksal, wie es
+<ce> in den Schriftrollen der Alten geschrieben wird."
+

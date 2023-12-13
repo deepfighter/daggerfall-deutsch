@@ -1,0 +1,323 @@
+Quest: S0000007
+DisplayName: Die Werbestie
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Hey, angenommen ich könnte Euch ein paar
+<ce> Informationen über, sagen wir mal, diesen
+<ce> Brief von meiner Herrin geben, wäret Ihr
+<ce> daran interessiert, %pcf?
+ 
+<ce> Das habe ich mir gedacht. Aber die bekommt
+<ce> Ihr von mir nicht einfach so. Eine Hand
+<ce> wäscht die andere. Abgemacht?
+
+RefuseQuest:  [1001]
+<ce> Natürlich nicht. Ihr arbeitet nur für
+<ce> königliche Herrschaften, nicht wahr?
+<ce> Die arme Cyndassa muss sich
+<ce> selbst helfen, ist es das?
+<ce> Gut, %oth, wie Ihr wollt,
+<ce> soll mir recht sein.
+
+AcceptQuest:  [1002]
+<ce> Mein Name ist Cyndassa. Aus Dolchsturz.
+<ce> Ich kann Euch alles sagen, was ich weiß, aber
+<ce> ich muss Euch nicht daran erinnern, dass es
+<ce> keine Informationen umsonst gibt, nicht wahr,
+<ce> %pcn? Ich bin nur eine Dienstmagd
+<ce> Ihrer Hoheit, nicht mehr als ein Staubkorn in
+<ce> der Welt, und ich will nicht viel. Ich möchte,
+<ce> dass Ihr einen Werwolf erledigt. Ich weiß genau,
+<ce> wo er ist - in einem %god-verlassenen Loch,
+<ce> das Tristore-Laboratorium genannt wird, vor der
+<ce> Küste auf Betonien. Ich kann Euch nicht sagen
+<ce> warum, aber es ist für mich sehr wichtig, dass
+<ce> dieser Werwolf von seinem Elend erlöst wird.
+<ce> Ich werde hier =2mondung_ Tage auf Euch warten -
+<ce> das sollte genug Zeit sein.
+
+QuestFail:  [1003]
+<ce> Haltet Ihr mich für eine Idiotin, %pct?
+<ce> Glaubt Ihr ich wüsste nicht, dass der Wolf noch lebt?
+
+QuestComplete:  [1004]
+<ce> Dann ist es tot? Armes Ding. Er war einmal mein
+<ce> Bruder. Wenn Ihr mich fragt, starb er vor langer
+<ce> Zeit, als er das erste Mal gebissen wurde. Er
+<ce> verabscheute sich selbst, wenn er zu dieser
+<ce> Bestie wurde. Ich wünschte, es hätte einen
+<ce> anderen Weg gegeben, ihm zu helfen.
+ 
+<ce> Ich hatte Euch doch versprochen, Euch etwas
+<ce> über diesen Brief zu erzählen, nach dem Ihr
+<ce> sucht. Natürlich, ich erinnere mich an diesen
+<ce> Brief, %pcf. Man bekommt nicht alle Tage
+<ce> einen Brief vom Kaiser persönlich, vor allem
+<ce> wenn man bedenkt, dass der König ihm nicht
+<ce> gerade gewogen ist. Ganz ehrlich, es ist der
+<ce> einzige Brief, den ich je von ihm gesehen habe.
+<ce> Ich gebe ihn also Ihrer Majestät und sie wird
+<ce> ganz aufgeregt und reißt ihn auf und sagt: "Der
+<ce> ist nicht für mich, er ist an Mynisera adressiert."
+ 
+<ce> Dann ... bumm! Ihre Kinnlade klappt runter und ihre
+<ce> Augen werden ganz groß. Sie sagt, dass sie dafür
+<ce> sorgen wird, dass die Königinmutter ihn bekommt
+<ce> und ich mich nicht weiter darum kümmern brauche.
+
+RumorsDuringQuest:  [1005]
+Der Werwolf im Tristore-Laboratorium versetzt Betonien seit Wochen in Angst und Schrecken.
+<--->
+Niemand interessiert sich für den Werwolf im Tristore-Laboratorium - außer seinen Nachbarn.
+<--->
+Arme Aubk-i! Ihre Dienstmagd hat die wildesten Geschichten über sie erzählt.
+
+RumorsPostfailure:  [1006]
+Dieser Werwolf ist weitergezogen, aus dem Tristore-Laboratorium weg. Richtige Wanderbiester sind das.
+<--->
+Hätte nicht erwartet, dass das Werbiest so lange im Tristore-Laboratorium hausen würde.
+<--->
+Junge, diese Gestaltwandler haben mit diesem %ra da draußen kurzen Prozess gemacht.
+
+RumorsPostsuccess:  [1007]
+Plötzlich erschien so ein %ra-Abenteurer und verjagte den Werwolf im Tristore-Laboratorium aus Betonien.
+<--->
+Die Bauern, die in der Gegend um das Tristore-Laboratorium leben, sind froh, dass der Lykanthrop verschwunden ist.
+<--->
+Die Gestaltwandler können einem gewissen %ra dafür danken, einen der ihren gerettet zu haben.
+
+QuestLogEntry:  [1010]
+<ce> Der Körper des Werwolfs beginnt sich vor
+<ce> Euren Augen zu verwandeln. In wenigen
+<ce> Augenblicken hat er die Gestalt eines
+<ce> jungen Mannes angenommen, der eine große
+<ce> Ähnlichkeit mit Cyndassa aufweist.
+
+Message:  1011
+<ce> %pcf, ich bin Euch so dankbar,
+<ce> dass Ihr ihn aus dieser Falle befreit habt.
+<ce> Ich werde selbst mit der Matrone verhandeln,
+<ce> um alles wieder in Ordnung zu bringen.
+
+Message:  1012
+<ce> Ich erinnere mich noch gut, wie Cyndassa über
+<ce> die Privatangelegenheiten der Königin schwätzte.
+<ce> Erstaunlich, wie ein paar Tropfen Wein die Zunge
+<ce> eines jungen Mädchen lösen können. Es ist nicht
+<ce> gerade alltäglich, dass ein Brief des Kaisers
+<ce> überbracht wird - die Königin ist ihm nicht sehr
+<ce> gewogen. Dieser Brief war laut Cyndassa auch der
+<ce> einzige, den sie je von ihm bekommen hat. Sie war
+<ce> entsetzt, als es der Königin plötzlich den Atem
+<ce> verschlug und sie rief: "Aber der ist nicht für
+<ce> mich, der ist an Mynisera adressiert!"
+ 
+<ce> Arme Cyndassa! Sie glaubte, dass sie den Kurier
+<ce> missverstanden und den Brief der falschen Adligen
+<ce> überreicht hatte. Sie war so erleichtert, dass
+<ce> Aubk-i keine Szene daraus machte. Sie würde
+<ce> schon dafür sorgen, dass die Königinmutter den
+<ce> Brief unverzüglich erhielte. Cyndasse sollte
+<ce> sich keine Sorgen darum machen.
+
+Message:  1013
+<ce> Oh, behaltet dieses Relikt [_relic_], wenn ihr mögt.
+
+Message:  1014
+<ce> Aber %pcf, Ihr habt einen Teil des Tagebuchs
+<ce> meines alten Liebhabers gefunden. Diese
+<ce> Handschrift würde ich überall erkennen. Cyndassa,
+<ce> diese dreckige kleine Hure, hat ihn von zwei
+<ce> unterschiedlichen Werwölfen infizieren lassen!
+ 
+<ce> So etwas zu heilen übersteigt heutzutage unsere
+<ce> Fähigkeiten. Die Matrone hofft, durch weitere
+<ce> Studien eine Heilung zu finden. Sie kann den
+<ce> Prozess für einige Wochen aufhalten, aber nicht
+<ce> länger. Wir kennen bis jetzt keinen Fall, der
+<ce> die Erstinfektion länger überlebt hat.
+ 
+<ce> Wenn Ihr ihn zu mir bringen könntet, dann hätte ich
+<ce> ein paar Informationen, die für Euch von Nutzen
+<ce> sein sollten. Nehmt dieses besondere Relikt
+<ce> [_relic_]. Es wird die Bestie in ihm bezähmen.
+
+Message:  1015
+%qdt:
+ Ich habe mich mit _barmaid_ getroffen, einer
+ alten Geliebten von Cyndassas Bruder. Sie hat
+ einige Informationen für mich, wenn ich ihren
+ ehemaligen Geliebten zurückbringen kann. Dazu
+ soll ich das magische Relikt einsetzen, das
+ sie mir gegeben hat [_relic_]. Sie wird
+ in _tavern_ drüben in __tavern_ warten.
+
+Message:  1016
+%qdt:
+ Ich habe eine Seite aus dem Tagebuch von Cyndassas
+ Bruder gefunden, die nahelegt, dass sie aus nichts
+ dafür bezahlt hat, ihn in einen Lykanthropen
+ zu verwandeln.
+
+Message:  1017
+[Ihr entdeckt ein Tagebuchfragment, das mit
+zittriger Hand geschrieben wurde.]
+ 
+ "...ich kann nicht glauben, dass Cyndassa
+ sich so gehässig verhalten hat, nur weil ich
+ mich von ihrer Freundin _barmaid_
+ getrennt habe. Nun, ich habe mich nie wirklich
+ darum gekümmert, ___barmaid_ zu besuchen,
+ und ich dachte wir hätten uns einvernehmlich
+ getrennt...aber Geld zu bezahlen, um mich zu
+ einem Gestaltwandler zu machen - das begreife
+ ich nicht mehr. Cyndassa muss die schlechten
+ Gewohnheiten dieser niederträchtigen Adligen
+ am Hof von Dolchsturz angenommen haben."
+
+Message:  1018
+[Ihr entdeckt ein Tagebuchfragment, das
+mit ruhiger Hand geschrieben wurde.]
+ 
+ "... ich habe keine Erinnerung, wie ich an
+ diesen Ort gelangt bin. Für was sollte ich
+ entführt worden sein? Wir haben kein Geld
+ und Cyndassa wird von den Adligen bei Hofe
+ gerade so geduldet. In meiner letzten klaren
+ Erinnerung sehe ich den Mond über Burg
+ Dolchsturz aufgehen ..."
+
+Message:  1019
+Tsss. Diese Cyndassa heckt mir ihren Freundinnen ständig etwas aus.
+<--->
+Stellt Euch vor, dass Königin Aubk-i ihre Dienstmagd mit ==barmaid_ Umgang haben lässt.
+<--->
+Unvorstellbar, dass Köngin Aubk-i ihre Maid mit ==barmaid_ verkehren lässt.
+<--->
+Still. Diese Cyndassa heckt mit _barmaid_ irgendetwas aus.
+
+Message:  1020
+_wereBrother_ hat ihr das Herz gebrochen, und nun geht sie darin auf, drüben in _tavern_ herumzuhuren.
+<--->
+Irgendein junger Schurke hat ihr Herz gebrochen, und jetzt schmollt sie drüben in __tavern_.
+<--->
+Sie ist in __tavern_. Immer darauf bedacht, ihr Gewerbe zu treiben, wenn Ihr versteht was ich meine.
+<--->
+Hat sie nicht Cyndassa dazu gebracht, ihren Bruder in einen Werwolf zu verwandeln, nachdem er sie sitzengelassen hatte?
+
+Message:  1021
+Bleibt weg von mir %ra, Ihr dreckiger Mörder!
+<--->
+Mörder! Ich werde Euch den Wachen vorwerfen, %ra! 
+<--->
+Wie könnt Ihr es wagen Euch mir zu nähern, Ihr dreckige Werbrut!
+<--->
+Bewegt Eure dreckige werwandelnde Haut aus meinem Sichtfeld, %ra!
+
+Message:  1022
+Bleibt weg von mir, %ra! Ihr seid schwachköpfiges Wergesindel.
+<--->
+Ihr Narr! Wie konntet Ihr auf die Lügen dieser einfachen Dienstmagd hereinfallen?
+<--->
+Ihr närrischer %ra. Sagt mir nicht, dass Ihr auf Cyndassas Lügen hereingefallen seid!
+<--->
+Nach dem, was Ihr getan habt, sollte ich die Wandler auf Eure Fährte ansetzen, %ra.
+
+Message:  1023
+%qdt:
+ Cyndassa, die Dienstmagd Königin Aubk-is von
+ Dolchsturz hat mich aus irgendeinem Grund
+ losgeschickt, um einen Werwolf zu erschlagen,
+ der sich im Tristore-Laboratorium auf Betonien
+ verkrochen hat. Sie kann mich nur mit Informationen
+ bezahlen und hat versprochen, mir zu verraten,
+ was sie über den Brief des Kaisers weiß. Ich
+ habe =2mondung_ Tage, um das Werk zu vollbringen.
+
+Message:  1024
+<ce> Der Körper des Werwolfs beginnt sich
+<ce> vor Euren Augen zu verwandeln. 
+<ce> In wenigen Augenblicken hat er die
+<ce> Gestalt eines jungen Mannes angenommen,
+<ce> _wereBrother_, der bewusstlos zu
+<ce> Euren Füßen liegt. Ihr hebt ihn
+<ce> vorsichtig auf.
+
+Message:  1025
+Nun, da Cyndassa in der Burg aufwartet, legt ihre ganze Familie ein vornehmes Gehabe an den Tag.
+<--->
+Geschwisterrivalität - das ist der ganze Wahnsinn drüben in ___wereBrother_.
+<--->
+Tsss. Was für Sachen diese Kinder anstellen, um Aufmerksamkeit zu bekommen.
+
+Message:  1026
+<ce> Im Besitz der Gestaltwandlergilde
+
+Message:  1027
+<ce> Ihr verspürt einen übelkeitserregenden Schock,
+<ce> als das Relikt [_relic_] verschwindet.
+
+Message:  1028
+<ce> Habt Ihr Euren Verstand verloren, %pct?
+<ce> Ich war geneigt Euch zu helfen, doch nach Eurem
+<ce> Angriff auf _wereBrother_ ...
+<ce> Warum schleicht Ihr nicht zu dieser Hure
+<ce> Cyndassa zurück? Wertloses Stück %ra.
+
+Message:  1029
+<ce> Wenn ich es recht bedenke, %pct,
+<ce> warum komme ich nicht einfach mit?
+<ce> Ich werde das Relikt [_relic_] nehmen,
+<ce> weil es etwas kompliziert anzuwenden ist.
+
+Message:  1030
+%qdt:
+ _barmaid_ erzählte mir, dass Cyndassa einen
+ Brief, der für Mynisera bestimmt war, an
+ Königin Aubk-i abgeliefert hat, die versprach,
+ ihn sofort der Königinmutter zu übergeben.
+
+Message:  1031
+%qdt:
+ Ich muss _barmaid_ und _wereBrother_
+ zum Zirkel auf der Klippe in Daggerfall bringen.
+
+Message:  1032
+<ce> Während der Körper des Werwolfs langsam auf
+<ce> der Stelle erstarrt, sagt _barmaid_:
+<ce> "Hervorragend, %pcf, ich werde mein
+<ce> Versprechen halten und Euch sagen, was ich
+<ce> über den Brief weiß, nach dem Ihr sucht."
+
+Message:  1033
+<ce> Nun, wenn ich noch um den Gefallen bitten
+<ce> dürfte, uns zur Matrone der Schwestern
+<ce> der Klippe zu geleiten? Ihr werdet den Ort
+<ce> auf der Karte im Königreich Dolchsturz finden.
+
+Message:  1034
+<ce> %pcf, Ihr habt dem Zirkel
+<ce> einen unschätzbaren Dienst erwiesen.
+ 
+<ce> Bitte, Ihr könnt uns jederzeit besuchen.
+
+Message:  1035
+<ce> _barmaid_ sieht Euch empört an.
+ 
+<ce> "Was wollt Ihr hier abziehen,
+<ce> %ra? Uns entführen?"
+ 
+<ce> Sie hebt _wereBrother_
+<ce> auf und löst sich in Luft auf.
+
+Message:  1036
+<ce> _barmaid_ beginnt zu flüstern:
+ 
+<ce> "Gut, %pcf, wir machen es so:
+<ce> Wir trennen uns jetzt und begeben
+<ce> uns zu _wereBrother_.
+<ce> Dann lenkt Ihr ihn ab, während
+<ce> ich den Zauber wirke, um die Bestie
+<ce> in ihm zu bezähmen."
+

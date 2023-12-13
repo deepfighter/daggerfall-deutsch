@@ -1,0 +1,106 @@
+Quest: S0000018
+DisplayName: Der Staub des geruhsamen Todes
+QRC:
+
+QuestorOffer:  [1000]
+<ce>Medora will also den Staub des geruhsamen
+<ce>Todes. Nur aus Respekt vor dem Andenken
+<ce>an König Lysandus werde ich diese
+<ce>Information mit Euch teilen. Der Staub
+<ce>kann im ___crypt_ auf ihrer
+<ce>eigenen Insel gefunden werden. Sagt
+<ce>Medora, der Preis für meine Hilfe ist
+<ce>ihre Unterstützung, wenn ich meinen
+<ce>Anspruch auf das Herz erhebe. Sie wird
+<ce>wissen, was das bedeutet.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Medora erschien mir in einer Vision und erklärte mir,
+ noch dass sich Lysandus' Geist besänftigen ließe,
+ wenn ich Gortwog, den Fürsten der Orks in Orsinium,
+ überzeugen könnte, mir zu verraten, wo der Staub
+ des geruhsamen Todes aufbewahrt wird.
+
+Message:  1011
+%qdt:
+ Ich habe mit Gortwog gesprochen. Er sagt,
+ dass der Staub des geruhsamen Todes im
+ ___crypt_ auf der Insel Balfiera
+ zu finden ist. Er trug mir außerdem auf,
+ Medora mitzuteilen, dass sie seinen Anspruch
+ auf das Herz von Tiber Septim unterstützen
+ müsse, was auch immer das sein mag.
+
+Message:  1015
+<ce>Eure Sicht schwindet und die Welt um
+<ce>Euch herum trübt sich. Aus dem grauen
+<ce>Schleier heraus erscheint das Gesicht
+<ce>einer Frau. Medora!
+ 
+ "%pcf. Eure Mühen zu meiner Befreiung
+ waren nicht vergeblich. Ich habe ein
+ Pulver entdeckt, das den Geist meines
+ geliebten Lysandus besänftigen wird.
+ Es befindet sich aber in den Händen
+ Gortwogs, des Kriegsherrn der Orks,
+ in seiner stählernen Zitadelle von
+ Orsinium. Sucht ihn dort auf und seht,
+ ob Ihr ihn irgendwie dazu bewegen
+ könnt, es Euch zu überlassen. Bringt
+ es mir in den Direnni-Turm, sobald Ihr
+ das Pulver habt."
+ 
+<ce>Eure Sicht wird wieder klarer. Manchmal
+<ce>wünscht Ihr Euch, Zauberinnen würden
+<ce>einfach wie alle anderen Leute Briefe
+<ce>schicken.
+
+Message:  1016
+Ein Kästchen mit mitternachtsschwarzen Pulver.
+
+Message:  1020
+<ce>[Dieses Pergament war um das Kästchen mit
+<ce>dem Pulver gewickelt. Teile seiner Nachricht
+<ce>sind nun unlesbar.]
+ 
+ Dame Med...
+ 
+
+ ... Gefallen. Sie wollen ihn ermorden.
+ Ich schicke ........en, um sie aufzuhalten.
+ Ihr müsst mich unterstützen. Wenn es für das
+ Kaiserreich aussieht, als hätte ich königliche
+ Berater von Wegesr... ...elbst wenn sie Mörder
+ sind, wird mein Volk niemals denselben Status
+ und Respekt wie die Khaji................nier
+ erlangen. Mit Eurer Unterstützung jedoch kann
+ i... ein Held des Kaiserreichs ... und
+ Respekt für mein Volk gewinnen
+ 
+<ce>Gortwog
+<ce>Kriegsh...
+
+Message:  1030
+<ce>Das ist wirklich der Staub des geruhsamen
+<ce>Todes. Was diesen Brief angeht, so war er
+<ce>von Gortwog an mich gerichtet, aber ich habe
+<ce>ihn nie erhalten. Erst später habe ich von
+<ce>Gortwog erfahren, dass seine Orkkrieger den
+<ce>Tod gefunden hatten, als sie versuchten, die
+<ce>Mörder zu überfallen. Gortwog und seine Orks
+<ce>sind nicht die Ungeheuer, für die sie die
+<ce>meisten Menschen halten.
+ 
+<ce>Eadwyre und der Hof von Wegesruh waren dem
+<ce>Kaiserreich gegenüber nie besonders loyal.
+<ce>Aber Königsmord ist Hochverrat. Ich werde
+<ce>meine Rache bekommen, aber zuerst muss ich
+<ce>herausfinden, warum Eadwyre dieses Risiko
+<ce>eingehen sollte.
+ 
+<ce>Ich werde einen Monat brauchen, um den Staub
+<ce>aufzubereiten. Kommt dann zu mir zurück und
+<ce>ich werde ihn mit Instruktionen zu seiner
+<ce>Verwendung in Eure Hände geben.
+

@@ -1,0 +1,147 @@
+Quest: S0000013
+DisplayName: Myniseras Briefe
+QRC:
+
+QuestorOffer:  [1000]
+<ce> %pcf, ich weiß gar nicht, wie
+<ce> ich anfangen soll. Ihr müsst mir bei der
+<ce> Ehre Eurer Vorfahren versprechen, dass Ihr
+<ce> alles in Eurer Macht stehende tun werdet,
+<ce> um mir zu helfen und niemals irgendwo zu
+<ce> irgendjemandem ein Sterbenswörtchen darüber
+<ce> verliert, was ich sage oder Ihr sehen werdet.
+<ce> Schwört Ihr?
+
+RefuseQuest:  [1001]
+<ce> Ich nehme an, es wäre für Euch schlimmer
+<ce> gewesen zu schwören und dann Euren Schwur
+<ce> zu brechen. Dennoch hätte ich mir etwas
+<ce> mehr Edelmut von Euch erhofft.
+
+AcceptQuest:  [1002]
+<ce> Dann werde ich Euch vertrauen, %pcf.
+<ce> Diese Angelegenheit betrifft meine Schwiegermutter
+<ce> Mynisera, die Königinwitwe von Dolchsturz und
+<ce> einstige Gemahlin von Lysandus. Als Kämmerin
+<ce> der Haushaltsfinanzen ist mir aufgefallen, dass
+<ce> sie für den Unterhalt einer Festung namens
+<ce> Nekromoghan einschließlich eines vollen
+<ce> Aufgebots Soldaten bezahlt. Vor kurzem verschwand
+<ce> sie mit einem eingewickelten Papierbündel und kam
+<ce> einige Tage später mit leeren Händen zurück. Gerade
+<ce> erst ist wieder mit einem anderen Briefbündel
+<ce> aufgebrochen und meine Spione haben bestätigt, dass
+<ce> sie nach Nekromoghan gereist ist. Ihr werdet darauf
+<ce> vertrauen müssen, dass mein Verdacht über ihre
+<ce> Aktivitäten berechtigt ist, denn ich bin nicht
+<ce> imstande, Euch Beweise vorzulegen.
+ 
+<ce> Ich möchte, dass Ihr Nekromoghan durchsucht und
+<ce> dieses Briefbündel oder andere Informationen über
+<ce> ihre Aktivitäten dort findet. Mynisera wird in
+<ce> =2myndung_ Tagen zurückkehren. Ich fürchte, mehr Zeit
+<ce> werdet Ihr dafür nicht haben. Viel Glück.
+
+QuestFail:  [1003]
+<ce> Ich brauche in =2myndung_ oder weniger Tagen
+<ce> irgendeinen Beweis, %pcf.
+
+QuestComplete:  [1004]
+<ce> Wie traurig. Der Inhalt der Briefe
+<ce> entspricht ehrlich gesagt nicht dem,
+<ce> was ich erwartet hatte. Arme Mynisera!
+<ce> Jeder bei Hofe weiß, dass der verstorbene
+<ce> König Lysandus das Gesicht und den Körper
+<ce> einer anderen Frau bevorzugte, aber
+<ce> sie versucht noch immer, alle Beweise
+<ce> zu verheimlichen. Ihre Treue zu Lysandus
+<ce> ist beinahe so groß wie seine närrische
+<ce> Treue dem Kaiser.
+ 
+<ce> Und diese armen, kleinen Kinder. Ein
+<ce> furchtbares Gemetzel an Unschuldigen!
+<ce> Wir kennen die Barbarei der Orks, aber
+<ce> das hatten sie nicht verdient. Es überrascht
+<ce> nicht, dass Mynisera die Verantwortung
+<ce> ihres Vaters für eine so groteske
+<ce> Unternehmung nicht bekanntwerden lassen
+<ce> wollte. Nun, ich danke Euch für Eure
+<ce> Tapferkeit und Diskretion, %pcf.
+<ce> Bitte akzeptiert dieses kleine Zeichen
+<ce> meiner Anerkennung - nicht als Bezahlung,
+<ce> sondern als Geschenk. Möge %god Euch segnen.
+
+QuestorPostfailure:  [1009]
+<ce> Die Briefe sind größtenteils verbrannt,
+<ce> aber einige Worte sind noch lesbar.
+ 
+
+QuestLogEntry:  [1010]
+[erste Seite]
+ ... schon zu lange von dir getrennt, ist mein Herz ...
+ 
+ [zweite Seite]
+ ... du liebst meine Lippen, aber vergisst den Hauch,
+ ihrer Worte ...
+ 
+ [dritte Seite]
+ ... sie vermutet, dass du sie zur Betrogenen machst ...
+ und ich verehre und bewundere jeden Teil von dir, außer
+ deine hohle Krone und deinen hohlen Hochzeitsring, diese
+ zwei leeren Kreise, die dich binden und dir Schmerz
+ bereiten ... und ich bin so eitel, immerfort Lysandus'
+ Medora zu sein ... Körper und schlürfe Nektar von
+ deiner Hand ... liebe m... für immer ...
+ 
+ [vierte Seite]
+ ...rks. Doch sie sahen nur das Schlechte in der Siedlung,
+ sogar nachdem alle Orkhengste getötet worden waren und
+ die stark ... (da Orkstuten nur selten schwächer sind als
+ Orkhengste in einer ... nur noch Alte und Kranke
+ verblieben in dem groben Lag... die die Grundlagen der
+ cyrodilischen Sprache beherrschten ...rsuchte und flehte
+ um Gnade für die Kinder, doch Fürst Klaius sagte, dass die
+ Kinder groß und stark werden und nur ein törichter
+ Anführer diesen Tieren Gnade gewähren würde. Er erlaubte
+ seinen Männern, einen Sport aus dem Töten der Kinder zu
+ machen, und sie wurden alle ermordet, auf Arten, die ich
+ nicht niederschreiben kann. Ich war Zeuge, meine Herrin,
+ und, ich bitte um Verzeihung, Euer Vater hat großes Übel
+ begangen d... mein Schmach, dass ich nicht Nein sagte
+ ... Schande über alle ...
+ 
+ [fünfte Seite]
+ ... werde meine Pflichten niederlegen. Du und ... zusammen.
+ Der Rest der Welt soll verdammt sein. Lass mich diese ...
+ Betonien hinter mir lassen. Ich werde sie bei Cryngaine
+ vernichten. Während ... tot. Niemand wird vermuten, dass
+ ein König aufgeben würde ...
+
+Message:  1011
+%qdt:
+ Königin Aubk-i wünscht, dass ich ihrer Schwiegermutter,
+ der Königinwitwe von Dolchsturz, zu ihrer Festung
+ Nekromoghan folge, um herauszufinden, was mit den
+ Papierbündeln geschieht, welche die alte Mynisera
+ dorthin mitgenommen hat. Ich habe nur =2myndung_ Tage, um
+ mit den Briefen zu Aubk-i zurückzukehren. Sie hat
+ mir im Gegenzug mehr Informationen versprochen.
+
+Message:  1015
+<ce> Eine gestählte junge Frau in der Livree
+<ce> von Dolchsturz überreicht Euch einen Brief.
+<ce> Dann wendet sie sich scharf um, besteigt
+<ce> ihr Pferd und reitet davon.
+
+Message:  1020
+%pcn,
+ 
+ Einmal mehr bedarf ich Eures Beistands. Eure
+ Tapferkeit und Diskretion waren von unschätzbarem
+ Wert, als Ihr mir letzthin in der Angelegenheit
+ mit Nulfaga gedient habt. Bitte sucht mich in der
+ Burg auf, wenn Ihr nächstens durch Dolchsturz reist.
+ 
+<ce> Aubk-i
+<ce>Königin von Dolchsturz
+

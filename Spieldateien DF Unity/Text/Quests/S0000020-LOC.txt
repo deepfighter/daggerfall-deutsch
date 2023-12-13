@@ -1,0 +1,113 @@
+Quest: S0000020
+DisplayName: Orkisches Abkommen
+QRC:
+
+QuestorOffer:  [1000]
+<ce> Morgiah sagt also, Gortwog hätte den Brief
+<ce> des Kaisers. Sehr interessant. Ich denke,
+<ce> ich kenne einen Weg, Gortwog zur Herausgabe
+<ce> dieses Briefes zu bewegen. Seid Ihr bereit,
+<ce> den Tiefen von Orsinium zu trotzen und zu
+<ce> versuchen, ihn zurückzuholen?
+
+RefuseQuest:  [1001]
+<ce> Ihr steht offenbar nicht so treu
+<ce> zum Kaiserreich wie ich dachte.
+<ce> Hinfort mit Euch!
+
+AcceptQuest:  [1002]
+<ce> Gortwog will unbedingt vom Kaiserreich
+<ce> anerkannt werden. Das würde den Anfang
+<ce> eines Friedens zwischen Orks und den
+<ce> anderen Völkern des Kaiserreichs
+<ce> bedeuten. Überreicht Gortwog diesen
+<ce> Brief. Er wird ihn hoffentlich zur
+<ce> Kooperation bewegen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Mynisera, Königinmutter des Königs Gothryd von
+ Dolchsturz, hat mich gebeten, den gestohlenen
+ Brief zurückzuholen, den ihr der Kaiser gesandt
+ hatte. Ich muss in die Hallen von Orsinium reisen
+ und dem orkischen Kriegsherrn Gortwog einen
+ Brief von ihr überbringen.
+
+Message:  1015
+<ce> Sieh an, Mynisera versucht, mir Honig ums
+<ce> Maul zu schmieren. Pah! Ihr Brief hat
+<ce> für mich keinen Wert mehr. Meinetwegen
+<ce> kann sie ihn haben. Meine Leute werden
+<ce> allerdings nicht ganz so nachsichtig mit
+<ce> einem %ra sein, der durch die Halle von
+<ce> Orsinium wandert. Wenn Ihr den Brief
+<ce> findet und in meinem Reich überleben
+<ce> könnt, dürft Ihr ihn gerne zurückbringen.
+<ce> Dann werde ich Euch, %ra, als ebenbürtig
+<ce> anerkennen.
+
+Message:  1020
+Fürst Gortwog,
+König der Orks,
+Kriegsherr der Unterirdischen Reiche
+ 
+    Heil und langes Leben König Gortwog!
+ Lange habt Ihr und das orkische Volk die
+ förmliche Anerkennung durch das Kaiserreich
+ gesucht. Mein toter Gemahl König Lysandus
+ unterstützte Eure Forderung nach souveräner
+ Herrschaft. Ich wäre nun ebenfalls bereit,
+ Euch bei Eurem Anliegen zu helfen.
+ Bedauerlicherweise wurde ein unbedeutendes
+ Sendschreiben des Kaisers falsch zugestellt.
+ Damit ich wirklich das Vertrauen und Ohr
+ des Kaisers habe, muss ich diese Botschaft
+ zurückbekommen. Solltet Ihr in der Lage sein,
+ diesen belanglosen Brief in die Hände meines
+ Dieners zu legen, so wäre ich weitaus eher
+ in der Lage, Euer Ansinnen dem Kaiser und
+ seinen Hof zu unterbreiten.
+ 
+<ce>Die Witwe Mynisera,
+<ce>Königinmutter des Königs Gothryd von Dolchsturz
+
+Message:  1021
+Königin Mynisera,
+ 
+    ich habe ernste Neuigkeiten. Das Totem
+ von Tiber Septim wurde gefunden. Ihr wisst,
+ was das bedeutet. Die Macht hinter Tiber
+ Septim könnte erneut über Tamriel entfesselt
+ werden. Gerüchte besagen, dass es Fürst
+ Wiedborn, ein niederer Fürst von Wegesruh,
+ in Besitz hält. Er wird es zweifellos bald
+ "verlieren". Ihr müsst ihn dazu bewegen, es
+ Euch oder Fürstin Brisienna zu überlassen.
+ Der Hof von Wegesruh hegt keine Liebe für
+ König Lysandus, aber Ihr habt dort noch
+ immer Einfluss. Ich bitte Euch, diesen in
+ meinem Interesse auszuspielen.
+ 
+<ce>Uriel Septim
+<ce>Kaiser von Tamriel
+
+Message:  1030
+<ce> %pcf, dieser Brief ist gefährlich.
+<ce> Gortwog hat zweifellos Abschriften davon
+<ce> an jedermann von Wegesruh bis zum Unterkönig
+<ce> verkauft. Sollten die Mächte der Iliac-Bucht
+<ce> in einen Krieg um das Totem verwickelt
+<ce> werden, hätte er schließlich sehr viel zu
+<ce> gewinnen.
+ 
+<ce> Nun geht. Eure Arbeit ist getan. Ich bin
+<ce> sicher, das Totem wird schon irgendwie
+<ce> seinen Weg in Euer Leben finden. Ihr
+<ce> scheint für solche Dinge ein Talent zu haben.
+<ce> Erinnert Euch nur daran, dass der einzige
+<ce> sichere Herr des Totems der Kaiser ist.
+
+Message:  1040
+<ce> Ihr wisst immer noch nicht, wo der Brief des
+<ce> Kaisers ist. Kommt zurück, wenn dem so ist.
+ 

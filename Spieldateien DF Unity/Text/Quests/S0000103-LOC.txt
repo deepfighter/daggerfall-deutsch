@@ -1,0 +1,21 @@
+Quest: S0000103
+DisplayName: Wer bekommt das Totem?
+QRC:
+
+Message:  1015
+<ce> Niemand darf sich dem König der Würmer
+<ce> widersetzen und leben, um davon zu
+<ce> berichten. Ihr habt ihm das Totem von
+<ce> Tiber Septim verweigert. Darum werde
+<ce> ich Euch töten und es ihm überbringen.
+<--->
+<ce> Ich werde das Totem an mich nehmen und
+<ce> in dieser Nacht aus Euren Adern trinken.
+<ce> Gebt auf und es wird einigermaßen
+<ce> schmerzlos sein.
+<--->
+<ce> Der König der Würmer verlangt nach das
+<ce> Totem. Da er keinen Grund hat zu glauben,
+<ce> dass Ihr es ihm aus freien Stücken überlassen
+<ce> würdet, bin ich hier, um Euch zu töten.
+
