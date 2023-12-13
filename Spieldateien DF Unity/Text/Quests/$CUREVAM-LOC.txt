@@ -1,0 +1,233 @@
+Quest: $CUREVAM
+DisplayName: Vampirismus-Heilung
+QRC:
+
+QuestorOffer:  [1000]
+Error -- 1000 called
+
+RefuseQuest:  [1001]
+Error -- 1001 called
+
+AcceptQuest:  [1002]
+Error -- 1002 called
+
+QuestFail:  [1003]
+Error -- 1003 called
+
+QuestComplete:  [1004]
+<ce> Als =bloodfather_ stirbt, spürt Ihr,
+<ce> wie Euch der Fluch des Vampirismus
+<ce> von der Seele genommen wird.
+<ce> Ihr seid nicht länger ein Vampir.
+
+RumorsDuringQuest:  [1005]
+_hunter_ wird bald einen neuen Kreuzzug gegen Vampire
+durch %reg führen. Vielleicht können wir uns dann
+wieder ohne Furcht nachts auf die Straßen trauen.
+
+RumorsPostfailure:  [1006]
+_hunter_ und %g3 Gefolge haben in %reg einen Haufen
+Vampire getötet, aber ich bezweifle, dass sie alle
+erwischt haben.
+<--->
+_hunter_ hätte es dabei bewenden lassen sollen. %g3 
+Kreuzzüge haben die Vampire bloß in ihre Verstecke
+getrieben. Sobald %g weiterzieht, kommen sie stärker
+wieder heraus als zuvor.
+
+RumorsPostsuccess:  [1007]
+_hunter_ und %g3 Gefolge haben in %reg einen Haufen
+Vampire getötet, aber ich bezweifle, dass sie alle
+erwischt haben.
+<--->
+_hunter_ hätte es dabei bewenden lassen sollen. %g3 
+Kreuzzüge haben die Vampire bloß in ihre Verstecke
+getrieben. Sobald %g weiterzieht, kommen sie stärker
+wieder heraus als zuvor.
+
+QuestorPostsuccess:  [1008]
+Error -- 1008 called
+
+QuestorPostfailure:  [1009]
+Error -- 1009 called
+
+Message:  1011
+_hunter_ spürt Vampire in ganz Tamriel auf und vernichtet sie.
+<--->
+_hunter_ hat %g3 Leben der Jagd nach Vampiren gewidmet.
+
+Message:  1012
+Man sagt, der Vater von _hunter_ sei von Vampiren getötet worden.
+Das hat zu %g3 fanatischen Hass gegen sie geführt.
+<--->
+_hunter_ musste %g3 eigenen Vater töten, nachdem der zum Vampir geworden war.
+Das nenne ich einen echten Zeloten!
+
+Message:  1020
+                       %qdt
+ 
+ Verehrter %pcn von den %vam,
+ 
+     Erlaubt mir, mich vorzustellen. Ich bin
+ _hunter_. Ihr habt vielleicht von mir gehört -
+ der berühmte Vampirjäger? Doch urteilt nicht
+ zu vorschnell über mich. Ich bin nicht Euer
+ Feind, zumindest noch nicht. Obgleich ich den
+ Vampirismus mit Leidenschaft verabscheue und
+ mein Leben der Ausrottung dieser dunklen Plage
+ in Tamriel gewidmet habe, ist mir auch bewusst,
+ dass manche bloß unschuldige Opfer sind, wie Ihr
+ selbst. Der Wille zu leben an sich ist nicht
+ böse und ich versuche immer, meiner Beute die
+ Möglichkeit zum Beweis einzuräumen, dass Ihr
+ blutiges Werk nur auf Notwendigkeit statt
+ Mordlust beruhte.
+ 
+     Ich bin sicher, dass Eure "Verwandtschaft"
+ Euch nichts davon erzählt hat, aber Vampirismus
+ 
+(weiter...)
+ 
+ kann geheilt werden. Dazu müsst Ihr Euren "Bluts-
+ vater" vernichten, jenes uralte Böse, das die
+ Linie der Vampire bis zu Euch erschaffen hat.
+ Damit werdet Ihr nicht nur Euch selbst retten,
+ sondern ganz %reg von dem Krebsgeschwür,
+ das in seinem Herzen wuchert, befreien.
+ 
+     Ich selbst weiß nicht, wo Euer "Blutsvater"
+ zu finden ist, aber meine Quellen haben den
+ Namen eines hochrangigen Mitglieds der %vam
+ offenbart: _vamp1_ in ___vamp1_.
+ %g sollte über die Informationen verfügen, die
+ Ihr benötigt.
+ 
+     Ich werde =huntstart_ Tage warten, bevor
+ ich gegen die Vampire in %reg vorgehe. Damit
+ gebe ich Euch eine Chance, Euch zu retten.
+ Bedenkt mein Angebot gut, %pcn. Ihr habt
+ =huntstart_ Tage, danach werden wir Euch und
+ den Rest der %vam wie Ungeziefer vernichten.
+ 
+ _hunter_
+
+Message:  1021
+Wollt Ihr _vamp1_
+den Brief von _hunter_ zeigen?
+
+Message:  1022
+Ihr tatet gut daran, dies zu mir zu bringen,
+%pcn. _hunter_ ist seit vielen
+Jahren ein Fluch für die %vam. Dank dieser
+vorzeitigen Warnung können wir viele der
+Unseren retten. Ihr solltet nicht die Gefahr
+unterschätzen, in der Ihr Euch befindet, %pcf.
+_hunter_ ist unbarmherzig und erfahren, %g3
+Spione sind überall. %g würde einen hervorragenden
+Zuwachs der %vam darstellen - vielleicht
+wird %g das auch noch. Sei es, wie es sei,
+%g kennt Euren Namen, und ohne jeden Zweifel
+wird %g versuchen, %g3 Drohungen wahrzumachen.
+Möge die Nacht Euch beschützen.
+
+Message:  1023
+%pcn, nicht wahr? Ich habe vom Rest der
+%vam viel Gutes über Euch gehört.
+Also, Ihr wollt Euren Blutsvater finden.
+Ein nachvollziehbares Verlangen, obwohl
+dieses Privileg jemandem von Eurer Jugend
+für gewöhnlich nicht eingeräumt wird. Doch
+ich glaube angesichts Eurer Verdienste
+für die %vam kann ich eine Ausnahme
+machen. Lasst mich überlegen; es müsste
+entweder =elder_ oder =bloodfather_ sein.
+Ersteren könnt Ihr in ___wrongdung_
+finden und Letzteren in ___fatherdung_.
+Ich würde allerdings davon abraten, die
+Ruhe eines Stammesältesten leichtfertig zu
+stören. Es wäre wohl das Beste, wenn Ihr
+_vamp2_ in ___vamp2_ aufsuchen würdet.
+%g ist der Hüter der Blutlinie und wird Euch
+mit Sicherheit sagen können, welcher der
+beiden %vam-Ältesten Euer Blutsvater ist.
+Nehmt diesen Armreif mit zu %g2, so weiß
+%g, dass ich Euch geschickt habe.
+
+Message:  1024
+Hmph. Ihr seid viel zu jung, als dass Euch
+solcherlei Informationen anvertraut werden sollten.
+Doch da Ihr das Zeichen von _vamp1_
+bei Euch tragt, werde ich Euch verraten, wo
+Euer Blutvater =bloodfather_ residiert.
+Ihr werdet ihn in seinem Unterschlupf in
+___fatherdung_ finden. Seid Euch
+bewusst, dass die Stammesältesten um
+diese Zeit des Jahres von niemandem gestört
+werden möchten. Verletzt die Abgeschiedenheit
+von =bloodfather_ auf eigene Gefahr.
+
+Message:  1025
+Blutsverräter! Wir haben von Eurem Verrat
+erfahren. Ihr werdet =bloodfather_ niemals
+finden. Wenn Eure Tage unter den %vam
+auch gezählt sind, braucht Ihr Euch doch nicht
+zu sorgen. _hunter_ wird Euch nicht
+zur Strecke bringen müssen.
+
+Message:  1030
+Jungchen, störet meine Meditationen nicht!
+Fort mit Euch, oder mein Hunger wird mich
+zwingen, Euch zu töten!
+
+Message:  1031
+Ihr habt =elder_ getötet,
+einen Stammesältesten der %vam.
+
+Message:  1032
+%pcn, Euer Blut spricht zu mir.
+Warum greift Ihr Euren eigenen Vater an?
+Die %vam bestrafen Vatermord
+mit dem Tod. Zwingt mich nicht, dieses
+Urteil selbst zu vollstrecken.
+Flieht, mein Kind!
+
+Message:  1040
+_hunter_ sagte mir, dass ich Euch
+hier finden würde. Sterbt, Nachtwandler!
+
+Message:  1045
+Ein unbekannter Gegenstand in Eurem Gepäck
+fällt Euch ins Auge. Es ist ein Brief, der
+in elegant flüssiger Handschrift an Euch
+adressiert wurde. Wie ist er dorthin gelangt?
+
+
+Message:  1050
+%qdt:
+ Der Vampirjäger _hunter_
+ hat mir einen Brief geschickt, in dem
+ %g schwört, mich zur Strecke zu bringen,
+ wenn ich mich nicht vom Vampirismus heile,
+ indem ich meinen Blutsvater töte.
+ _hunter_ weiß nicht, wer oder wo
+ mein Blutsvater ist, aber %g deutete an,
+ dass _vamp1_ in ___vamp1_
+ es wissen könnte. Ich habe =huntstart_ Tage
+ bevor die Vampirjagd beginnt.
+
+Message:  1051
+%qdt:
+ _vamp1_ denkt, dass mein Blutsvater
+ entweder in ___wrongdung_ oder
+ in ___fatherdung_ lebt, schlug
+ aber vor, dass ich %g3 Armreif zu _vamp2_
+ in __vamp2_, ___vamp2_, bringe,
+ der mit Sicherheit weiß, wo ich
+ ihn finden kann.
+
+Message:  1052
+%qdt:
+ _vamp2_ sagte mir, dass der Name
+ meines Blutsvaters =bloodfather_ lautet
+ und er in ___fatherdung_ lebt.
+
