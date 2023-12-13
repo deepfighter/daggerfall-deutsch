@@ -1,0 +1,231 @@
+Quest: _BRISIEN
+DisplayName: Befehle vom Kaiserreich
+QRC:
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 called on BRISIEN.Q
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 called on BRISIEN.Q
+
+QuestFail:  [1003]
+Error: Questtext 1003 called on BRISIEN.Q
+
+RumorsDuringQuest:  [1005]
+Die Propheten sagen, dass bald beansprucht wird, was unbeansprucht war.
+<--->
+Fürstin Brisienna erwartet jemanden im _dirtypit_ in __dirtypit_.
+<--->
+War das ein Sturm! Viele sagen, dass er magischen Ursprungs war.
+<--->
+Fürstin Brisienna hat sich im _dirtypit_ in __dirtypit_ einquartiert.
+
+RumorsPostfailure:  [1006]
+Fürstin Brisienna hat _dirtypit_ verlassen. Sie murmelte etwas über Verräter am Kaiserreich.
+
+RumorsPostsuccess:  [1007]
+Fürstin Brisienna hat _dirtypit_ verlassen. Sie muss gefunden haben, wen sie dort suchte.
+
+QuestorPostsuccess:  [1008]
+Ich hoffe, Eure Ermittlungen schreiten gut voran, %pcf.
+ 
+- Fürstin B.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich bin im Auftrag des Kaisers unterwegs, um
+ wegen König Lysandus' Totengeist zu ermitteln,
+ der die Stadt Dolchsturz heimgesucht hat.
+ Der Kaiser betraute mich persönlich mit der
+ Aufgabe, seiner wütenden Seele Frieden zu
+ verschaffen.
+ 
+ Außerdem ist da noch die weniger wichtige
+ Angelegenheit eines Briefes, den er der
+ Königin von Dolchsturz geschickt hat.
+ Er wäre höchst erfreut, wenn herausfände,
+ was mit dem Brief geschehen ist.
+ 
+ Bevor wir in Dolchsturz anlegen konnten, wurde
+ das Schiff von einem plötzlichen Sturm erfasst
+ und zum Kentern gebracht. Ich habe es gerade
+ noch in diese Höhle geschafft.
+
+Message:  1011
+%qdt:
+ Ich traf Fürstin Brisienna in der Gaststube einer
+ Taverne. Sie erklärte mir, dass Dolchsturz, Wegesruh
+ und Schildwacht die drei Hauptmächte an der Iliac-Bucht
+ sind. Wenn ich das Mysterium um Lysandus' Geist
+ ergründen will, sollte ich zuerst mit den Königs-
+ familien dieser Lehen sprechen.
+
+Message:  1012
+Fürstin Magnessen? Sie ist die Abgesandte der Klingen in Dolchsturz.
+<--->
+Fürstin Magnessen ist bei Hofe von Dolchsturz wohlbekannt.
+<--->
+Fürstin Magnessen stand früher in Diensten Myniseras, als diese Königin war.
+
+Message:  1013
+Fürstin Magnessen arbeitete einst für die Königinmutter, aber immer für den Kaiser.
+<--->
+Fürstin Magnessen ist die Schwester des Großritters, des Anführers der Klingen.
+<--->
+Ich habe gehört, dass Fürstin Magnessen der Spionage bezichtigt wurde. Niemand weiß, wo sie jetzt ist.
+
+Message:  1015
+<ce> Ah, danke, dass Ihr meiner Einladung gefolgt seid,
+<ce> %pcf. Ich bin Fürstin Brisienna. Erlaubt
+<ce> mir, Euch auf den neuesten Stand zu bringen.
+<ce> König Lysandus' Geist sucht nachts die Straßen
+<ce> von Dolchsturz heim. Jeder Versuch, mit ihm
+<ce> zu kommunizieren, ist zwecklos. Manchmal stöhnt
+<ce> er das Wort "Rache", aber das ist auch das einzige
+<ce> verständliche Wort, das ich je von ihm gehört habe.
+<ce> Wenn Ihr in Dolchsturz seid, solltet Ihr die Stadt
+<ce> nicht bei Nacht durchstreifen. Ihr würdet sicher
+<ce> von seinen Geisterhorden angegriffen.
+ 
+<ce> Um seine rastlosen Qualen zu ergründen wäre
+<ce> es wohl zielführender, über jene Erkundigungen
+<ce> anzustellen, die Lysandus Unrecht getan haben
+<ce> könnten. Ich weiß nicht, ob die Königsfamilie von
+<ce> Dolchsturz oder jemand anderes verdächtiger ist.
+ 
+<ce> Die Hauptmächte der Bucht, Schildwacht, Wegesruh und
+<ce> Dolchsturz, wären Orte, an denen man beginnen könnte.
+ 
+<ce> (weiter...)
+
+Message:  1016
+<ce> Was den Brief betrifft - der Agent des Kaisers sagt,
+<ce> dass es ihm aufgrund des Krieges unmöglich gewesen
+<ce> sei, ihn der Königin persönlich zu übergeben. Er
+<ce> heuerte einen Kurier an, der den Brief wohl an
+<ce> seiner statt überbringen sollte. Wir kennen nicht
+<ce> einmal den Namen dieses Kuriers. Es gibt kaum
+<ce> nützliche Informationen, also wäre es zunächst
+<ce> einmal interessant, ob der Brief überhaupt Burg
+<ce> Dolchsturz erreicht hat. Wie Ihr das herausfindet
+<ce> bleibt ganz Euch überlassen. Ich werde Euch
+<ce> kontaktieren, falls wir etwas Neues erfahren.
+ 
+<ce> Ich verlasse Dolchsturz bald. Meine Tarnung hier
+<ce> wurde aufgedeckt und mein Leben ist in Gefahr.
+<ce> Erwähnt bei Hofe nicht meinen Namen. Das würde
+<ce> Euch vermutlich mehr schaden als nützen.
+ 
+<ce> Viel Glück, und gebt auf Euch Acht, %pcf.
+
+Message:  1020
+%pcn,
+ 
+     ich habe von Eurem Schiffsunglück erfahren und befürchtete
+ das Schlimmste. Jetzt, da ich weiß, dass Ihr lebt und wohlauf
+ seid, würde ich Euch gerne treffen und die Einzelheiten der
+ Mission besprechen, für die Euch unser innig geliebter
+ Kaiser an die Iliac-Bucht entsandt hat.
+ 
+     Erlaubt mir, mich vorzustellen. Ich bin Fürstin Magnessen,
+ Agentin des Kaisers am Hof von Dolchsturz. Meine Stellung
+ ist nicht so offiziell wie die eines Botschafters. Außer den
+ anderen Agenten des Kaisers weiß niemand, wem meine wahre
+ Treue gilt. An der Iliac-Bucht wimmelt es von Aufständischen
+ gegen den Kaiserthron, weshalb Eurerseits Diskretion geboten
+ ist.
+ 
+     Zum Zweck unseres Treffens werde ich für einen Monat
+ ein Zimmer in einer Taverne namens _dirtypit_
+ in __dirtypit_ in der Region Dolchsturz mieten.
+ Danach werde ich Euch nicht mehr zur Verfügung stehen.
+ Ich erwarte Euch so bald wie möglich.
+ 
+ 
+                            Hochachtungsvoll,
+ 
+                        Brisienna, Fürstin Magnessen
+
+Message:  1021
+%pcn,
+ 
+     ich habe Euch vor einigen Wochen einen Brief gesandt.
+ Ich kann nur hoffen, dass er Euch erreicht hat. Sollte
+ dieser Brief hier bei Euch eintreffen, nachdem Ihr mich
+ in __dirtypit_ getroffen habt, so vergebt mir bitte
+ meine Ungeduld. Wie in meinem vorigen Brief bereits
+ erwähnt, bin ich die Agentin des Kaisers in Dolchsturz
+ und es ist von äußerster Wichtigkeit, dass ich mit Euch
+ spreche. Ich habe zu diesem Zweck meinen Aufenthalt in
+ _dirtypit_ in __dirtypit_ um zwei weitere
+ Wochen verlängert.
+ 
+     Es besteht natürlich auch die Möglichkeit, dass Ihr
+ mich bewusst ignoriert und Euch Eurer Pflicht gegenüber
+ dem Kaiser entzieht. Ich hoffe, dass dies nicht der Fall
+ ist. Wenn Ihr nicht eintrefft, sehe ich mich gezwungen,
+ Euch als Verräter an Seiner Kaiserlichen Majestät Uriel
+ Septim VII. zu betrachten.
+ 
+                            Hochachtungsvoll,
+ 
+                        Brisienna, Fürstin Magnessen
+
+Message:  1022
+%pcn,
+ 
+     ich habe auf Euch gewartet, aber Ihr seid nie
+ erschienen. Ich werde den Kaiser hiervon unterrichten.
+ Wenn es nach mir geht seid Ihr hiermit aus dem
+ kaiserlichen Dienst entlassen.
+ 
+                             Fürstin Magnessen
+
+Message:  1026
+<ce> Ein junger Page, der lächelt, als er Euch erkennt,
+<ce> tritt an Euch heran und fragt gar nicht erst nach
+<ce> Eurem Namen, als er den an Euch adressierten
+<ce> Brief aushändigt. Auf all Eure Fragen antwortet er
+<ce> nur mit einem nichtssagenden Blick und einem Lächeln.
+<--->
+<ce> Ein Brief wird Euch in die Hand gedrückt. Ihr
+<ce> dreht Euch herum, um zu sehen, wer ihn Euch
+<ce> gegeben hat. Ihr könnt nur noch flüchtig eine
+<ce> Livree erkennen, die in der Menge verschwindet.
+<--->
+<ce> Ein Page tritt heran, sagt: "Brief für Euch,
+<ce> %pcn", und übergibt Euch eine Nachricht.
+<--->
+<ce> Ein Kurier mit einem Brief in der Hand tritt
+<ce> an Euch heran. "Mir wurde befohlen, diesen
+<ce> Brief jemandem zu übergeben, auf den Eure
+<ce> Beschreibung passt", sagt der Kurier. Als Ihr
+<ce> den Brief an Euch nehmt, dreht sich der Kurier
+<ce> um und entfernt sich schnellen Schrittes.
+<--->
+<ce> Ihr greift nach etwas Wegzehrung in Eurem Gepäck und
+<ce> entdeckt eine Nachricht. Sie war vorher noch nicht da.
+<--->
+<ce> Ein Kurier mit rotem Kopf schreckt Euch mit seinen
+<ce> Rufen auf: "Brief für %pcn! Hey, das müsst Ihr
+<ce> sein. Hier, nehmt das. Muss gehen. Hab noch
+<ce> andere Lieferungen."
+
+Message:  1025
+<ce> Ihr erwacht und seht Euch in dem Raum um. Noch vor
+<ce> ein paar Stunden wart Ihr auf einem Schiff nach
+<ce> Dolchsturz unterwegs, als plötzlich ein Sturm von
+<ce> übernatürlicher Stärke wie ein bösartiges Ungeheuer
+<ce> über die Iliac-Bucht hereinbrach. Euer Schiff wurde
+<ce> zerstört, doch gelang es Euch, durch die tosenden
+<ce> Fluten zu einem Felsvorsprung zu schwimmen. Dort
+<ce> habt Ihr eine Höhle entdeckt und seid dem Wüten des
+<ce> Sturms entkommen. Gerade habt Ihr ein kleines Feuer
+<ce> entzündet, als eine Schlammlawine den Eingang
+<ce> verschüttet und Euch einschließt. Die Angst, lebendig
+<ce> begraben zu sein, schwindet aber als Ihr einen Gang
+<ce> seht, der aus der Höhle hinausführt. Vielleicht
+<ce> gibt es ja doch noch einen Weg nach draußen.
+<ce> Seid Ihr erstmal aus dem Höhlenkomplex entkommen,
+<ce> könnt Ihr Euch um den Auftrag des Kaisers kümmern.
+
