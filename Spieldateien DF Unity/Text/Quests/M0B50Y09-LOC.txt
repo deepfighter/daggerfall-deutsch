@@ -1,0 +1,73 @@
+Quest: M0B50Y09
+DisplayName: Gargoylejagd 
+QRC:
+
+QuestorOffer:  [1000]
+Ein gewisser Kaufmann möchte ein Monster erledigt
+haben - einen Gargoyle, um genau zu sein. Die
+Bezahlung wären bescheidene _gold_ Goldstücke.
+Könnt Ihr bei der Sache helfen?
+
+RefuseQuest:  [1001]
+Hmmm. Also eher nicht der
+tapfere, heldenhafte Typ.
+
+AcceptQuest:  [1002]
+Es scheint, als habe der Kaufmann einen Zauberer
+angeheuert, um ihm ein großes Anwesen zu erbauen.
+Dann hat der arme Narr versucht, den Magier um
+seinen Lohn zu bringen. Der Zauberer wurde wütend
+und hat einem der Steingargoyles auf dem neuen
+Anwesen Leben eingehaucht. Der Gargoyle hat den
+Kaufmann seither unablässig angegriffen. Geht nach
+___dungeon_ und tötet das Ding.
+Ihr habt =2dung_ Tage, um die Aufgabe abzuschließen.
+
+QuestComplete:  [1004]
+Hoch lebe %pcn!
+Das war heldenhaft, gut gemacht.
+Dieser armselige Lohn von  _gold_ Gold
+ist einer solchen Tat kaum angemessen.
+
+RumorsDuringQuest:  [1005]
+Die Magiergilde hat sich geweigert,
+diesen wütenden Gargoyle zu töten.
+Sie sagen, dass es nicht ihre Schuld
+wäre. Faule Säcke.
+
+RumorsPostfailure:  [1006]
+Vor kurzem wurde irgendein Kaufmann getötet.
+Ich habe gehört, dass man einen Gargoyle
+über seiner Leiche schweben sah.
+
+RumorsPostsuccess:  [1007]
+Die Kriegergilde hat einen Gargoyle ausgeschaltet.
+Es ist gut, diese Jungs in der Nähe zu haben.
+
+QuestorPostsuccess:  [1008]
+Gut, dass Ihr diesen Gargoyle erledigt habt, %pcn.
+
+QuestorPostfailure:  [1009]
+Dieser Gargoyle hat den Kaufmann getötet.
+Ihr hättet den Auftrag besser nie angenommen.
+Jetzt steht Ihr mitsamt der Gilde schlecht da.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Die Kriegergilde von ___qgiver_
+ hat mich damit beauftragt, einen Gargoyle
+ zu töten, der sich in ___dungeon_
+ aufhält. Ich habe =2dung_ Tage, um die Aufgabe
+ abzuschließen.
+
+Message:  1011
+Der _monster_ ist tot.
+Hoffentlich lernt dieser
+törichte Händler daraus,
+nie wieder einen Magier
+zu betrügen.
+
+Message:  1080
+Vielleicht versüßt Euch diese Karte nach
+___newdung_ das Ganze ein wenig.
+

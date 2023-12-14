@@ -1,0 +1,78 @@
+Quest: M0B00Y07
+DisplayName: Unwillkommener Gast
+QRC:
+
+QuestorOffer:  [1000]
+Ab und zu haben wir es mit Idioten
+wie diesem Klienten zu tun. Der Trottel
+hat seine Hintertür aufgelassen und ein
+wildes Tier ist reingekommen. Er scheint
+so durcheinander, dass er nicht einmal
+sagen kann, ob es ein Bär oder ein Tiger
+war. Auf jeden Fall wollte es ihn fressen.
+Ihr sollt hingehen und das Tier erschlagen.
+Die Standardbezahlung beträgt _gold_ Goldstücke.
+Wollt Ihr das übernehmen, %pcn?
+
+RefuseQuest:  [1001]
+Alles klar. Soll der Tiger ihn holen.
+So ein Idiot, ihn überhaupt erst reinzulassen!
+
+AcceptQuest:  [1002]
+Großartig. Euer Ziel ist ein Haus
+[_house_] in __house_.
+Ich gebe Euch =2dung_ Tage Zeit, ihn
+zu töten und wieder hier zu sein.
+
+QuestComplete:  [1004]
+Keine großen Schwierigkeiten,
+nehme ich an? Dachte ich mir.
+Hier sind Eure _gold_ Goldstücke.
+
+RumorsDuringQuest:  [1005]
+Ich hörte, in einem Gebäude
+[_house_] ein Tiger
+eingesperrt. Jemand wird
+bezahlen müssen, damit
+er erschlagen wird.
+
+RumorsPostfailure:  [1006]
+Habt Ihr nicht den rasenden Tiger
+getötet, der in ein Haus geraten war?
+
+RumorsPostsuccess:  [1007]
+Ein Tiger hat so einen armen Tropf
+in seinem eigenen Haus getötet.
+Was für eine schreckliche Tragödie!
+
+QuestorPostsuccess:  [1008]
+Gut gemacht mit diesem Tiger.
+
+QuestorPostfailure:  [1009]
+Tiger sind zäh. Vielleicht sollten wir
+Euch erstmal auf Streifenhörnchen
+ansetzen. Was für ein Trottel ...
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ in ___qgiver_ gab
+ mir den Auftrag, einen Tiger oder
+ Bären zu töten, der in ein Haus
+ [_house_] in __house_
+ geraten ist. Wenn ich in =2dung_ Tagen
+ wieder bei ihm bin, bekomme ich
+ _gold_ Goldstücke.
+
+Message:  1011
+Der _monster_ ist tot.
+
+Message:  1012
+Der _bear_ ist tot.
+
+Message:  1080
+Hey, mir ist gerade eingefallen,
+dass eines der Mitglieder diese
+Karte nach ___newdung_
+gefunden hat. Nur tötet nicht
+alles an einem Tag.
+

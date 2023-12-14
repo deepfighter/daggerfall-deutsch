@@ -1,0 +1,306 @@
+Quest: M0B11Y18
+DisplayName: K'avars Komplott, Teil 1
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, ich habe einen wichtigen Auftrag,
+der höchste Geheimhaltung erfordert.
+Ich kann Euch erst dann mehr sagen,
+wenn Ihr zustimmt, mir zu helfen.
+Was sagt Ihr?
+
+RefuseQuest:  [1001]
+%oth, ich hätte mehr von Euch erwartet.
+
+AcceptQuest:  [1002]
+Eine alte Bekanntschaft von mir ist in ernster
+Gefahr und braucht jemanden, der erstens
+mit einem Schwert umgehen und zweitens
+ein Geheimnis für sich behalten kann.
+Natürlich habe ich dabei an Euch gedacht.
+_target_ wird Euch heute Nacht
+um 10 Uhr an einem bestimmten Ort
+[_targethouse_] treffen.
+Wenn Ihr dort seid, wird %g Euch mehr
+verraten. Ich würde Euch ja begleiten,
+aber da ich als %g3 Freund bekannt bin,
+würde ich am Ende nur die Feinde zu
+%g2 führen. Seht Euch vor!
+
+QuestFail:  [1003]
+Wir haben nichts mehr zu besprechen, %pcn.
+
+QuestComplete:  [1004]
+Ihr habt mich auf ein Bedrohung aufmerksam
+gemacht, die das Königreich hätte vernichten
+können. Bitte nehmt meinen aufrichtigen Dank
+und diese _reward_ Goldstücke entgegen.
+
+RumorsDuringQuest:  [1005]
+_enemy_ hat in ___stronghold_ Söldner rekrutiert.
+Wofür wohl, frage ich mich?
+
+RumorsPostfailure:  [1006]
+Habt Ihr von dem Hinterhalt in __targethouse_ gehört?
+Ein Agent der Königin von Schildwacht wurde getötet.
+
+RumorsPostsuccess:  [1007]
+Es scheint, dass einer Hofadligen von Schildwacht gegen den
+Thron konspiriert hat, aber die Königin hat es herausbekommen
+und seine Festung ___stronghold_ geschleift.
+<--->
+Königin Akorithis Streitmacht hat __stronghold_ angegriffen,
+aber ich hörte, dass das Ziel des ganzen Angriffs, ein
+gewisser Fürst K'avar, entkommen ist.
+
+QuestorPostsuccess:  [1008]
+Ich hörte, Ihr seid bis zu Königin Akorithi vorgedrungen,
+obwohl _target_ das Zeitliche gesegnet hat.
+
+QuestorPostfailure:  [1009]
+Was ist aus den Auftrag geworden, _target_
+zu Königin Akorithi zu bringen?
+
+Message:  1020
+%qdt:
+ _questgiver_ hat mich gebeten
+  _target_ um 10 Uhr heute Abend an
+ einem bestimmten Ort [_targethouse_]
+ zu treffen. Mehr weiß ich nicht,
+ außer dass  _target_von mächtigen
+ Feinden bedroht wird.
+
+Message:  1021
+%qdt:
+ Ich habe _target_ getroffen und wir
+ sind nun auf dem Weg nach Schildwacht.
+
+Message:  1022
+%qdt:
+ Bei Verlassen des Hauses [_targethouse_]
+ gerieten wir in eine Hinterhalt und _target_
+ wurde getötet. Bevor %g starb, konnte %g
+ mir aber noch einen Brief zustecken, der
+ Fürst K'avar, ein Mitglied des Hofes von
+ Königin Akorithi in Schildwacht, des Verrates
+ überführt. Der letzte Wunsch von_target_
+ war, dass ich ihr diesen Brief überbringe.
+
+Message:  1023
+%qdt:
+ Ich habe Königin Akorithi den verräterischen
+ Brief gezeigt, aber Fürst K'avar war bereits
+ in seine Festung ___stronghold_
+ geflohen. Die Königin bat mich, in die Festung
+ einzudringen und den Verräter gefangenzunehmen
+ oder zu töten. Sie gab mir =gettraitor_ Tage Zeit, um
+ diese Mission abzuschließen und nach Schildwacht
+ zurückzukehren.
+
+Message:  1030
+%pcn,
+ 
+ Planänderung. _questgiver_ musste die
+ Stadt schnellstmöglich verlassen und
+ bat mich, Euch in der Taverne [ _tavern_]
+ zu treffen. Kommt bitte sofort.
+ Die Angelegenheit ist extrem dringlich.
+ 
+_enemy_
+
+Message:  1031
+Mein guter Freund _enemy_,
+ 
+ Es freut mich, von Eurem Fortschritt bei der
+ Ausbildung meiner Streitmacht in ___stronghold_
+ zu hören. Ich werde mehr Geld schicken, sobald
+ ich es aufbringen kann, denn wenn Ihr darauf
+ hoffen wollt, Königin Akorithi zu stürzen, werdet
+ Ihr noch mehr Truppen brauchen. Ihr habt sicherlich
+ Recht, dass eine offene Feldschlacht mit ihr aussichtslos
+ wäre, aber ich glaube, dass wir sogar für einen
+ Handstreich gegen den Palast selbst mehr Männer
+ brauchen werden.
+ 
+ Wir können diese Sache genauer besprechen, sobald
+ ich in ein paar Tagen wieder in ___stronghold_
+ bin. Wenn Ihr mich in der Zwischenzeit erreichen
+ müsst, so bin ich im Palast von __palace_.
+ Geht alles gut, haben wir vielleicht bald einen
+ neuen Verbündeten. Wenn die Sache hier wieder
+ reibungslos läuft, muss ich nach Schildwacht
+ zurückkehren, um der Königin die Ehre zu erweisen
+ (vielleicht ihre "letzte Ehre"!). Ihre Agenten
+ sind mir in letzter Zeit auf die Schliche gekommen,
+ also werde ich ihren Verdacht durch eine Demonstration
+ genau der kriecherischen Unterwürfigkeit zerstreuen,
+ die sie so sehr schätzt.
+ 
+ Berichtet mir weiter über Euren Fortschritt.
+ 
+ Aufrichtig,
+ 
+_traitor_,
+__palace_
+
+Message:  1032
+Ein kleines Kind, ob Junge oder Mädchen,
+gibt Euch eine Notiz und läuft davon,
+bevor Ihr reagieren könnt.
+
+Message:  1040
+%pcn, richtig? Ich bin froh,
+dass ich Euch kontaktieren konnte.
+Hat Euch _questgiver_ erzählt,
+was hier eigentlich vor sich geht?
+Ich glaube nicht. Es genügt, wenn ich
+Euch sage, dass die Totenbeschwörer
+involviert sind. Sehr gefährlich, denen
+über den Weg zu laufen. Aber ich habe
+ein Amulett für Euch, dass Euch warnt,
+wenn Handlanger der Totenbeschwörer in
+der Nähe sind. Könnte sich als nützlich
+erweisen. Haltet die Augen offen, mein Freund.
+
+Message:  1041
+Ihr seid %pcn? _questgiver_
+hat Euch gut beschrieben. Ich bin
+_target_. Wir müssen sofort
+nach Schildwacht aufbrechen. Ich
+kann Euch nicht mehr sagen, nur
+dass die Feinde von Königin Akorithi
+viel dafür geben würden, uns aufzuhalten.
+
+Message:  1042
+_target_ schnappt nach Luft, und
+als Ihr Euch umdreht, ragt %g2 ein befiederter
+Pfeilschaft aus der Brust. Als %g auf die Knie
+fällt, drückt %g Euch einen Brief in die Hand
+und murmelt:
+ 
+ "Fürst K'avar hat Schildwacht verraten.
+ Ihr müsst das zu Königin Akorithi bringen!"
+ 
+_target_ ist tot.
+
+Message:  1043
+Plötzlich umgibt Euch ein helles Leuchten.
+Als Ihr nach unten seht, stellt Ihr fest,
+dass das Licht von dem Amulett ausstrahlt,
+das _enemy_ Euch gab. Der Boden scheint
+sich unter Euren Füßen zu öffnen und Dunkelheit
+umfängt Euch.
+
+Message:  1050
+Übergebt Ihr den verräterischen
+Brief an Königin Akorithi?
+
+Message:  1051
+ "Ja? Was ist das für ein Brief? Bei
+ %god, K'avar schmiedet Ränke gegen
+ mich!? Wachen! Durchsucht den Palast
+ nach Fürst K'avar und bringt ihn
+ unverzüglich zu mir."
+ 
+Einige Wachen verlassen den Raum.
+Ein paar Minuten später kehrt einer
+zurück, salutiert, und meldet, dass
+Fürst K'avar nirgendwo zu finden ist.
+ 
+Königin Akorithi wendet sich an Euch:
+ 
+"Er muss gewarnt worden sein, dass sein
+Verrat aufgedeckt werden würde. Warscheinlich
+hat er sich in diese Festung ___stronghold_
+zurückgezogen, die er in seinem Brief erwähnt.
+Unter diesen Umständen würde ich einen direkten
+Angriff gerne vermeiden. Ihr kennt Euch in dieser
+Gegend aus? Werdet Ihr mir noch einen Dienst
+erweisen und den Verräter der Gerechtigkeit
+zuführen?
+
+Message:  1052
+%pcn, Ihr beweist Eure Treue zum Thron
+von Schildwacht. Ich werde =gettraitor_ Tage warten,
+bis ich die Festung von Fürst K'avar angreife.
+Hiermit erkläre ich Fürst K'avar für geächtet.
+Ergreift ihn, wenn Ihr könnt, aber tötet ihn,
+wenn Ihr müsst.
+
+Message:  1053
+Auch gut. Ich werde mich selbst um ihn kümmern.
+
+Message:  1054
+Königin Akorithi öffnet den Brief und liest
+ihn. Ihr Gesicht verdunkelt sich vor Zorn.
+ 
+ "Es besteht kein Zweifel. Das ist sein
+ persönliches Siegel und Signum. Wachen!
+ Eilt sofort in die Große Halle, ergreift
+ Fürst K'avar und werft ihn in den Kerker."
+ 
+Sie wendet sich Euch zu.
+
+Message:  1055
+So soll es sein. Fürst K'avar hat seinen Weg
+gewählt und dank Euch auch dafür bezahlt.
+Hier ist ein verzauberter Gegenstand
+[_queenreward_] für Euren Dienst
+an Schildwacht.
+
+Message:  1056
+%oth! Fürst K'avar ist in der Tat
+ein aalglatter Kerl. Gut, wir werden
+ihn früher oder später noch bekommen,
+keine Sorge. Schildwachts Gerechtigkeit
+wird ihn einholen, ganz gleich wo er
+sich versteckt. Seine Verbündeten sind
+alle gefangen oder aus dem Königreich
+geflohen, er ist also keine Gefahr mehr.
+%pcn, bitte nehmt diesen verzauberten
+Gegenstand [_queenreward_] für
+Eure Dienste an Schildwacht entgegen.
+
+Message:  1060
+Übergebt Ihr den verräterischen
+Brief an Fürst K'avar?
+
+Message:  1061
+Ich scheine Euch falsch eingeschätzt zu haben,
+%pcn. Vielleicht können wir doch noch
+Freunde werden. Hier, nehmt diesen verzauberten
+Gegenstand [_traitorreward_] als
+Entschädigung für Euren Ärger.
+
+Message:  1062
+Fürst K'avar sieht Euch konzentriert an.
+Als er erkennt, wer Ihr seid, weicht alle Farbe
+aus seinem Gesicht. Bevor ihn jemand aufhalten
+kann, dreht er sich um und flüchtet zur Tür.
+
+Message:  1070
+Ihr %ra seid ein Hund! Ihr werdet
+dafür bezahlen, dass Ihr Euch in
+die Angelegenheiten von Fürst K'avar
+eingemischt habt.
+
+Message:  1071
+Aufgeben, um dann als öffentliches
+Spektakel durch die Straßen von
+Schildwacht geschleift zu werden?
+Niemals!
+
+Message:  1072
+Fürst K'avar ist tot.
+
+Message:  1073
+Fürst K'avar wirft seine Waffe zu Boden.
+Ihr glaubt, dass er aufgibt und haltet
+kurz mit Eurem Angriff inne. Aber statt
+aufzugeben dreht er einen Ring an seinem
+Finger. Als er in einem Lichtschleier
+verschwindet, hört Ihr ihn noch rufen:
+ 
+"Sagt dieser Schlange, dass sie mich
+nicht zum letzten Mal gesehen hat!"
+

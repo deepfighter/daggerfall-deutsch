@@ -1,0 +1,137 @@
+Quest: M0B40Y05
+DisplayName: Zweiglingsjagd
+QRC:
+
+QuestorOffer:  [1000]
+Ein paar Holzfäller haben die
+Gilde angeheuert, um einen 
+Zweigling zu töten. Das Monster
+greift sie wohl immer an, wenn
+sie draußen im Wald Holz hauen
+gehen. Wollt Ihr den Zweigling
+kleinhacken, %pcf?
+
+RefuseQuest:  [1001]
+Na gut. Lauft nur davon.
+Dann muss ich eben jemand
+anderen für den Auftrag finden.
+
+AcceptQuest:  [1002]
+Zwei Angriffe sind bereits gescheitert.
+Der Zweigling ist einfach zu schlau.
+Ihr müsst ihn in seinem Versteck in
+___dungeon_ suchen. Kommt in
+den nächsten =2dung_ Tagen zu mir zurück,
+dann warten _gold_ Goldstücke auf Euch.
+
+QuestFail:  [1003]
+Der Zweigling ist Kleinholz?
+Ihr erweist Euch als sehr
+zuverlässig, %pcf.
+
+QuestComplete:  [1004]
+Hier habt Ihr wie versprochen
+die _gold_ Goldstücke.
+
+RumorsDuringQuest:  [1005]
+Ich habe gehört, dass _woodsman_
+die Holzfäller gegen die Zweiglinge
+aufwiegelt. Sehr witzig. Ich habe
+noch nie gehört, dass die Zweiglinge
+Probleme machen.
+
+RumorsPostfailure:  [1006]
+Noch ein Verlust bei den Holzfällern.
+Es soll _woodsman_ gewesen sein.
+Die Übrigen haben sich entschieden,
+anderswo zu fällen.
+
+RumorsPostsuccess:  [1007]
+Ich habe in letzter Zeit nichts mehr
+von dem Zweigling gehört. Er muss
+die Gegend verlassen haben.
+
+QuestorPostsuccess:  [1008]
+Gute Arbeit mit dem Zweigling.
+
+QuestorPostfailure:  [1009]
+So hart sind Zweiglinge nun auch
+wieder nicht. Was ist passiert?
+Habt Ihr Angst bekommen und
+Euch versteckt?
+
+QuestLogEntry:  [1010]
+%qdt:
+ Die Kriegergilde von ___qgiver_
+ hat mich angeheuert, um einen Zweigling
+ zu töten, der Holzfäller belästigt. Er
+ versteckt sich in ___dungeon_.
+ Man hat mir dafür =2dung_ Tage Zeit gegeben.
+
+Message:  1011
+Der Zweigling ist tot.
+Die Holzfäller können
+wieder sicher arbeiten.
+
+Message:  1020
+Ihr greift mich ohne Grund an,
+%ra. Ja, ich habe an den
+Waldmördern Rache genommen.
+Ihr sollt wissen, dass sie meine
+Setzlinge getötet haben. Würdet
+Ihr wie angewurzelt stehenbleiben,
+wenn jemand Eure Setzlinge niedermacht?
+Ich hege keinen Hass auf Euch.
+Überzeugt die Holzfäller, mit Vorsicht
+zu Werke zu gehen, und ich lasse sie
+in Frieden. Werdet Ihr das tun?
+
+Message:  1021
+Hauptschuldig ist _woodsman_.
+Hakt einfach nur sorglos Bäume
+nieder. Geht nach ___house_
+und nehmt _woodsman_ ein Versprechen
+ab. Und sucht mich nicht wieder auf.
+An der Art und Weise, wie die
+Holzfäller arbeiten, werde ich Euren
+Erfolg oder Misserfolg erkennen.
+
+Message:  1022
+Ich hätte es besser wissen sollen als
+einer Kreatur aus Fleisch und Blut zu
+vertrauen. Jetzt werde ich keine
+Rücksicht mehr nehmen.
+
+Message:  1023
+Die Baumkreatur will also verhandeln, ja?
+Gut, ich glaube, ich kann die Jungs davon
+überzeugen, nur die großen Bäume zu fällen.
+Aber wenn dieses Ding uns nochmal angreift,
+werden wir jeden Setzling niederbrennen,
+den wir finden können! Das ist ein Handel,
+%pcn.
+
+Message:  1025
+Ihr habt erreicht, dass die Holzfäller
+und der Zweigling nicht mehr kämpfen?
+Sehr schlau, %pcn. Mit diesem
+Scharfsinn werdet Ihr es weit bringen.
+
+Message:  1030
+%qdt:
+ Der Zweigling hat mich davon überzeugt,
+ dass er nicht der Böse ist. Offenbar hat
+ jemand namens _woodsman_ aus
+  ___house_ seine Bäume gefällt.
+ Wenn ich _woodsman_ davon überzeugen
+ kann, mit mehr Vorsicht zu Werke zu gehen,
+ kann die ganze Sache ohne Blutvergießen
+ beendet werden.
+
+Message:  1080
+Ich fühle mich übrigens gerade so spendabel.
+Hier habt Ihr eine Karte zu einem Loch
+namens ___newdung_. Voll mit Monstern
+zum erschlagen und Schätzen zum plündern.
+Habt Spaß!
+

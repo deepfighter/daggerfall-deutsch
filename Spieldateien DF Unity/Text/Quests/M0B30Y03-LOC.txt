@@ -1,0 +1,84 @@
+Quest: M0B30Y03
+DisplayName: Daedrothjagd
+QRC:
+
+QuestorOffer:  [1000]
+Es hat sich etwas ergeben. Ich kenne
+außer Euch niemanden, der mächtig
+genug wäre, sich dem zu stellen, %pcf.
+In ___mondung_ gibt es dieses
+bösartige Viech, einen Daedroth.
+Ungelogen - es weiß keiner, wie er da
+hingekommen ist, aber alle wünschen
+sich, dass er wieder verschwindet.
+Könnt Ihr das für _reward_ Goldstücke
+bewerkstelligen, %pcf?
+
+RefuseQuest:  [1001]
+Ich mache Euch keine Vorwürfe, %pcf.
+Ich würde mich auch nicht mit einem
+Daedroth anlegen wollen.
+
+AcceptQuest:  [1002]
+Na gut, ist ja Eure Beisetzung, %pcf.
+Hört zu, Ihr erschlagt den Daedroth und
+seid in den nächsten =1stparton_ Tagen wieder
+hier, um Eure Belohnung einzustreichen.
+Ich weiß nicht, wie lange das Ding noch
+hier sein wird, Ihr solltet also Euren
+Hintern bewegen. Und eines noch, %pcf - 
+bereitet Euch auf einen höllischen Kampf vor.
+
+QuestFail:  [1003]
+Wartet Ihr darauf, dass der Daedroth
+an Altersschwäche stirbt, %pcf?
+
+QuestComplete:  [1004]
+Hey, Ihr seid ein besserer %ra
+als ich, %pcf. Daedrothschlächter!
+So gefällt mir das. Hier ist Euer Gold.
+
+RumorsDuringQuest:  [1005]
+Keine Ahnung, was dieses riesige Echsending in ___mondung_ ist, aber es gefällt mir nicht.
+<--->
+Alle reden über dieses große, hässliche Ding drüben in ___mondung_.
+
+RumorsPostfailure:  [1006]
+Keine Ahnung, was mit diesem Daedroth passiert ist, aber er ist hier noch irgendwo.
+<--->
+Es gefiel mir besser, als ich noch wusste wo der Daedroth steckte. Jetzt weiß nicht mehr, wo es noch sicher ist.
+
+RumorsPostsuccess:  [1007]
+Dankt %god, dass die Kriegergilde da ist, um sich um Daedroths zu kümmern.
+<--->
+Ich frage mich sowieso, was dieses große, hässliche Echsending war.
+
+QuestorPostsuccess:  [1008]
+Ihr seid der %ra, der den Daedroth in
+___mondung_ für mich erschlug.
+Lasst mich Eure Hand schütteln.
+
+QuestorPostfailure:  [1009]
+Versagen wird in der Kriegergilde nicht
+auf die leichte Schulter genommen. Wenn
+Ihr nicht mit einem Daedroth fertigwerden
+könnt, hättet Ihr den Auftrag nicht annehmen
+sollen. Ich habe Besseres vor, als meine
+Zeit mit Euch zu verschwenden.
+
+Message:  1020
+Der Daedroth ist tot.
+
+Message:  1030
+%qdt:
+ Die Kriegergilde in ___questgiver_ wird
+ mir _reward_ Goldstücke zahlen, wenn ich einen
+ Daedroth in ___mondung_ in =1stparton_ oder weniger
+ Tagen töte.
+
+Message:  1080
+Da Ihr bei einem Daedroth nicht einmal
+mit der Wimper gezuckt habt, nehmt diese
+Karte nach ___newdung_. Da gibt es
+jede Menge Spaß für einen %pct wie Euch.
+

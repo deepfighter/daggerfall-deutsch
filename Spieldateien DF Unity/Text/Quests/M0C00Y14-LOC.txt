@@ -1,0 +1,79 @@
+Quest: M0C00Y14
+DisplayName: Rattenplage
+QRC:
+
+QuestorOffer:  [1000]
+Mein Name ist _qgiver_.
+Wir vergeben unsere Aufträge
+eigentlich nur an Gildenmitglieder.
+Es gibt aber hin und wieder Aufträge,
+die so einfach sind, dass sie kein
+Krieger der Gilde annehmen würde.
+So etwas hätte ich hier. Wenn Ihr
+annehmt, zeigt Ihr damit, dass Ihr
+wirklich auf unserer guten Seite
+stehen wollt. Was sagt Ihr?
+
+RefuseQuest:  [1001]
+Offensichtlich habt Ihr nichts für
+die Kriegergilde übrig. Ich werde
+dafür sorgen, dass alle erfahren,
+was Ihr wirklich denkt.
+
+AcceptQuest:  [1002]
+Riesenratten haben dieses Gebäude
+[_house_] hier befallen.
+Es könnte ein gutes halbes Dutzend von
+ihnen sein. Geht hin, tötet alle und
+ich werde sehen, welche Fäden ich zu
+Eurem Vorteil ziehen kann. Aber ich kann
+Euch dafür nur einen Tag Zeit geben.
+
+QuestComplete:  [1004]
+Ratten zu töten, selbst wenn
+es Riesenratten sind, ist
+zwar nicht sehr schwierig
+- aber es steigert Euer
+Ansehen bei uns. Gute Arbeit.
+
+RumorsDuringQuest:  [1005]
+Irgendein Idiot hat vier Fässer
+Käse gekauft. Jetzt hat er
+Riesenratten im Haus.
+
+RumorsPostfailure:  [1006]
+Habt Ihr von der Frau gehört,
+die ihr Haus verlassen musste?
+Riesenratten hatten es besetzt
+und Ihr fehlte das Geld, um die
+Kriegergilde zu bezahlen.
+
+RumorsPostsuccess:  [1007]
+Ein %ra wurde von der Kriegergilde
+losgeschickt, um die Ratten im Haus
+dieser Frau zu töten. Sie haben Ihr
+das nicht einmal in Rechnung gestellt.
+
+QuestorPostsuccess:  [1008]
+Ihr habt also die Ratten getötet.
+Bildet Euch nur nicht zu viel darauf ein.
+Das waren nur Ratten.
+
+QuestorPostfailure:  [1009]
+Ihr konntet Euch nicht einmal um
+Riesenratten kümmern. Ihr seid ein
+hoffnungsloser Fall, %pcn.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Die Kriegergilde von ___qgiver_
+ hat mir vorgeschlagen, ein Gebäude
+ [_house_] von einer
+ Riesenrattenplage zu befreien.
+ Ich habe dafür einen Tag Zeit.
+
+Message:  1020
+Das waren die allermeisten. Die
+Kriegergilde wird wegen dem
+Rest nicht kleinlich sein.
+

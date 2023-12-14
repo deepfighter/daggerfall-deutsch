@@ -1,0 +1,93 @@
+Quest: M0B20Y02
+DisplayName: Riesenhorde
+QRC:
+
+QuestorOffer:  [1000]
+Ja, ich habe da einen kleinen Auftrag für
+Euch. Ich würde ihn jedermann geben, aber
+ich weiß, dass Ihr gute Arbeit leistet.
+Es gibt da eine Riesenbande, die getötet
+werden will. Die Bezahlung ist ziemlich
+durchschnittlich, _reward_ Goldstücke.
+Seid Ihr dabei?
+
+RefuseQuest:  [1001]
+Na gut, dann eben nicht.
+Hörte sich so an, als ob
+das was für Euch wäre.
+
+AcceptQuest:  [1002]
+Gutes Geschäft, %pcf. Laut
+unserem Klienten sind die Riesen in
+ihrer Festung  ___mondung_.
+Er sagt, dass es sechs sind, und das
+er nicht zahlen wird, wenn nicht alle
+sechs in den nächsten =1stparton_ Tagen
+erledigt sind. Habt Ihr verstanden,
+%pcf? Gut.
+
+QuestFail:  [1003]
+Ihr habt keine Zeit für Geschwätz,
+solange diese sechs Riesen noch atmen.
+
+QuestComplete:  [1004]
+%oth, diese Riesen wussten
+gar nicht, wie ihnen geschah,
+nicht wahr, %pcf? Hier sind
+Eure _reward_ Goldstücke, wie versprochen.
+
+RumorsDuringQuest:  [1005]
+In ___mondung_ gibt es einen Haufen Riesen, aber sie machen keinen Ärger.
+<--->
+Ich habe gehört, dass der %t die Riesen in ___mondung_ ein für alle Mal loswerden will.
+
+RumorsPostfailure:  [1006]
+Irgendetwas hat die Riesen verscheucht. Was das wohl gewesen sein mag?
+<--->
+Wenn ich einer dieser Riesen gewesen wäre, ich wäre auch davongerannt. Da war viel zu viel los.
+
+RumorsPostsuccess:  [1007]
+Ich frage mich, wie lange es wohl dauert, bis eine neue Schar Riesen in ___mondung_ einzieht?
+<--->
+Irgendwie tun mir die Riesen leid. Sie haben nie wirklich jemanden gestört.
+
+QuestorPostsuccess:  [1008]
+Riesen sind zäh. Das habt Ihr gut
+gemacht, %pcf. Ihr werdet
+es in der Gilde weit bringen.
+
+QuestorPostfailure:  [1009]
+Die Riesen waren zu viel für Euch, hm?
+Vielleicht sollte Euch die Gilde lieber
+auf Pygmäen ansetzen.
+
+QuestLogEntry:  [1010]
+Alle Riesen sind tot.
+
+Message:  1020
+Das ist RIESENGEBIET!
+Ab in Euer Winzingsland,
+%ra!
+<--->
+Ich hatte gestern %ra.
+War echt lecker.
+<--->
+Hau Euch! Hau Euch platt!
+
+Message:  1030
+%qdt:
+ Die Kriegergilde von ___questgiver_
+ hat mich angeheuert, um einen Stamm
+ von sechs Riesen in ihrem Versteck in
+ ___mondung_ zu töten. Ich habe
+ =1stparton_ Tage Zeit, das zu erledigen und
+ wieder zurück bei der Kriegergilde
+ einzutreffen, um meine Bezahlung zu
+ erhalten.
+
+Message:  1080
+He, %pct, wenn Ihr auf's
+Töten aus seid, nehmt diese
+Karte nach ___newdung_.
+Da gibt es viel zu tun.
+

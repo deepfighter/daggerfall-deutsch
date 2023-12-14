@@ -1,0 +1,72 @@
+Quest: M0C00Y13
+DisplayName: Barbarenkampf
+QRC:
+
+QuestorOffer:  [1000]
+Ich bin _qgiver_.
+Die Kriegergilde vergibt eigentlich
+keine Freiwilligenarbeit. Wenn ich
+nicht gerade jetzt zu wenige
+Krieger hätte, würde ich Euch
+wegschicken, %pcn.
+Ich brauche aber jemanden, der
+ein paar wildgewordene Barbaren
+zur Strecke bringt. Erledigt
+das für mich und jeder wird von
+mir erfahren, dass ein %ra
+für sich einstehen kann.
+Abgemacht?
+
+RefuseQuest:  [1001]
+Ihr habt gerade einen schweren
+Fehler gemacht, %pcn.
+Ihr braucht in nächster Zeit bei
+mir nicht nach Arbeit zu suchen.
+
+AcceptQuest:  [1002]
+Bewegt Eure bedauernswerten Knochen
+zu diesem Gebäude [_house_].
+Beseitigt die Barbaren bis morgen
+um diese Zeit und alles ist gut.
+
+QuestComplete:  [1004]
+Wurdet Ihr schlimm getroffen?
+Noch ein paar Aufträge wie
+dieser und Ihr könnt mit
+Pauken und Trompeten in die
+Kriegergilde einziehen.
+
+RumorsDuringQuest:  [1005]
+Barbaren überfallen wieder die Höfe.
+
+RumorsPostfailure:  [1006]
+Die Barbaren hatten schon vier Gehöfte
+überfallen, bis die Kriegergilde
+endlich eingeschritten ist.
+
+RumorsPostsuccess:  [1007]
+Seid Ihr nicht der %ra,
+der die Barbaren vertrieben hat?
+
+QuestorPostsuccess:  [1008]
+Ihr habt Euch ganz gut um diese
+Barbaren gekümmert, %pcf.
+Gar nicht mal so übel.
+
+QuestorPostfailure:  [1009]
+Ich habe darauf vertraut, dass Ihr
+Euch um diese Barbaren kümmern würdet.
+Aber Ihr seid gescheitert, darum habe
+ich nun jemand anderen damit beauftragt.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Die Kriegergilde von ___qgiver_
+ hat mir angeboten, mich um ein paar
+ Barbaren zu kümmern, die ein Gebäude
+ [_house_] ausplündern.
+ Ich habe dafür einen ganzen Tag Zeit.
+
+Message:  1011
+Der _monster_ ist tot.
+

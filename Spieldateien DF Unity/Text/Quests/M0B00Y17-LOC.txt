@@ -1,0 +1,173 @@
+Quest: M0B00Y17
+DisplayName: Haustiger
+QRC:
+
+QuestorOffer:  [1000]
+%pcn, nicht wahr?
+Nach Euch habe ich gesucht.
+Wir hätten da einen ziemlich
+interessanten Auftrag, für den
+es ein bisschen mehr Hirn als
+Muskelkraft braucht. Seid Ihr interessiert?
+
+RefuseQuest:  [1001]
+Ja, Ihr habt recht. Ich habe schließlich gesagt,
+dass man für diesen Auftrag Verstand braucht.
+
+AcceptQuest:  [1002]
+Die Situation ist die: _dummy_
+hält sich einen Säbelzahntiger als
+Haustier - fragt nicht - der vor ein
+paar Tagen davongelaufen ist. Nun hat
+%g ihn bis nach  ___mondung_
+verfolgt, wir brauchen aber jemanden,
+der da rein geht und ihn rausholt.
+Lebendig! Der Trick ist, dass er darauf
+dressiert wurde, auf diese Glocke zu
+reagieren. Der Tiger sollte zur Schmusekatze
+werden, wenn Ihr ihm mit damit vor der
+Fratze klingelt. Natürlich hat _dummy_
+auch erwähnt, dass er noch nicht zu gut
+gezähmt ist - wundert Euch das noch? - so
+dass Ihr ihm wohl erst ein, zwei Schläge
+auf den Schädel verpassen müsst, um seine
+Aufmerksamkeit zu erringen. Nur bringt
+ihn nicht um, ja? Schafft ihn in den
+nächsten =qtime_ Tagen in einem Stück zu
+_dummy_ in __dummy_, dann wird %g
+Euch mit _gold_ Gold bezahlen. Viel Glück!
+
+QuestFail:  [1003]
+Sieht nicht mich an. Der Tiger ist
+ist in ___mondung_.
+Nehmt Euer Glöckchen und bewegt Euch.
+
+QuestComplete:  [1004]
+Oh, =tiger_, Schätzchen, du
+bist in Sicherheit! Vielen Dank,
+dass Ihr meinen Liebling zurück
+nach Hause gebracht habt. Ich bin
+mir sicher, es gab keine Probleme
+mit ihm, oder? Im Herzen ist er nur
+eine große Miezekatze, er würde keiner
+Fliege etwas zuleide tun. Hier sind
+Eure _gold_ Goldstücke, genau wie ich
+es diesem netten _questgiver_
+in der Kriegergilde versprochen habe.
+
+RumorsDuringQuest:  [1005]
+Habt Ihr gehört, dass der Tiger von _dummy_
+schon wieder ausgerissen ist? Diesmal hat er drei
+Menschen getötet und gefressen.
+
+RumorsPostfailure:  [1006]
+Der Tiger von _dummy_ scheint endgültig verschwunden zu sein.
+%god sei Dank!
+
+RumorsPostsuccess:  [1007]
+_dummy_ hat tatsächlich jemanden von der Kriegergilde angeheuert,
+um %g3 den Haustiger wieder einzufangen. Was für ein Trottel
+würde denn so einen lächerlichen Auftrag annehmen?
+
+QuestorPostsuccess:  [1008]
+Hallo, wie geht's, %pcf, Ihr alter Tigerfreund!
+
+QuestorPostfailure:  [1009]
+Ich kann mir wirklich nichts leichteres vorstellen,
+als einen Haustiger aufzuspüren, aber Ihr habt es
+geschafft, das in den Sand zu setzen.
+Was wollt Ihr jetzt noch?
+
+Message:  1020
+%qdt:
+ Die Kriegergilde von ___dummy_
+ hat mich angeheuert, einen als Haustier
+ gehaltenen Säbelzahntiger aufzuspüren,
+ der in Richtung ___mondung_ verschwunden
+ ist. Angeblich ist er darauf dressiert,
+ auf eine Glocke zu reagieren, die ich
+ bekommen habe, aber _questgiver_
+ hat mich gewarnt, dass er wohl nicht sehr
+ gut erzogen sein dürfte. Ich muss den
+ Tiger in den nächsten =qtime_ Tagen wieder zu
+ _dummy_ in __dummy_ in
+ ___dummy_ bringen, dann wird %g mir
+ _gold_ Gold zahlen.
+
+Message:  1021
+%qdt:
+ Ich habe den Tiger in ___mondung_
+ gefunden. Er scheint mich nun zu mögen.
+ Schlussendlich habe ich es geschafft,
+ dass er mir folgt. Nun muss ich ihn nur
+ noch zu _dummy_ in  ___dummy_ bringen.
+
+Message:  1030
+Hoppla! Ihr habt den Tiger getötet.
+Was wird wohl _dummy_ dazu sagen?
+
+Message:  1040
+Ihr schlagt die Glocke laut, aber das 
+scheint keinerlei Effekt zu haben.
+
+Message:  1041
+Beim Klang der Glocke spitzt der
+Tiger die Ohren. Er bewegt seinen
+Kopf von rechts nach links und stößt
+ein tiefes, knurrendes Geräusch aus.
+Ist das ein Schnurren? Der Tiger
+tappt auf Euch zu und beginnt, sich
+an Euren Beinen zu reiben, wobei er
+Euch fast umwirft.
+ 
+Der Tiger wird Euch nun folgen.
+
+Message:  1050
+Ihr schrecklicher, schrecklicher
+%ra! Ich kann nicht glauben,
+dass Ihr meinen armen unschuldigen
+=tiger_ umgebracht habt. Er war
+nur eine süße verlorene Miezekatze,
+und Ihr musstet ihn abschlachten!
+Verschwindet auf der Stelle oder
+ich lasse Euch wegen Mordes verhaften!
+VERSCHWINDET!
+
+Message:  1060
+_love_,
+ 
+ Es tut mir unendlich leid, dass ich heute
+ nicht bei Euch in _lovehouse_
+ sein kann, aber ich wollte Euch wenigstens
+ wissen lassen, dass ich immerzu nur an Euch
+ denke, mein Schatz. Ich sitze hier unter
+ einem Baum, an einem Nachmittag, der so schön
+ ist, dass er mich an Euch erinnert. Das Licht
+ der Sonne am Himmel, der Gesang der Vögel in
+ den Bäumen, sogar der schöne Haustiger, der
+ dort mit seinem Besitzer entlangschreitet.
+ Ha ha! Der Tiger hat sich losgerissen, der
+ Schlingel. Er kommt zu mir herüber. Wie sein
+ Fell in der Sonne glänzt, gleicht es Eurem
+ Haar im Feuerschein. Sein Besitzer ruft etwas
+ und läutet ein Glöckchen, aber er hört nicht.
+ Was für ein temperamentvolles Tier. Er scheint
+ ganz lieb zu sein, kommt zu mir, um "Hallo"
+ zu sagen ...
+
+Message:  1061
+Ja, was möchtet Ihr? Oh meine Güte,
+ein Brief von _victim_!
+Warum ist er voller Blut? Was, %g ist
+tot? Meine Güte, %g war immer so süß
+zu mir, ich fürchte, %g hatte sich
+eingebildet, wir wären ein Liebespaar.
+Die arme Seele, was für ein tragisches
+Ende. Ich bin Euch sehr dankbar, dass
+Ihr mir erzählt habt, was passiert ist.
+Ich werde mich darum kümmern, dass die
+Familie es auch erfährt. Warum nehmt Ihr
+nicht dieses Geschenk [_magic_],
+dass %g mir gegeben hat. Ich habe sowieso
+keine Verwendung dafür.
+

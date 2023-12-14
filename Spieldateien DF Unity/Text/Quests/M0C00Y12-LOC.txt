@@ -1,0 +1,72 @@
+Quest: M0C00Y12
+DisplayName: Spinnenjagd
+QRC:
+
+QuestorOffer:  [1000]
+Mein Name ist _qgiver_.
+Ich gebe eigentlich nicht gerne Aufträge an
+Nichtmitglieder, aber Ihr scheint vertrauenswürdig
+zu sein. Irgendeine arme Seele hat ein Riesenspinnenei
+mit nach Hause genommen, das ausgeschlüpft ist.
+Er hat es wohl für den Kokon eines Seidenwurms
+gehalten. Der arme Tölpel kann sich unsere Dienste
+zur Beseitigung nicht leisten. Aber wenn Ihr Euch
+umsonst darum kümmert, steht die Gilde gut da, und
+ich sorge im Gegenzug dafür, dass Ihr gut dasteht.
+Seid Ihr interessiert?
+
+RefuseQuest:  [1001]
+Ich hätte wissen müssen, dass es
+Euch mit der Arbeit nicht ernst war.
+
+AcceptQuest:  [1002]
+Das ist Eure große Chance.
+Die Spinne ist in diesem Haus
+[_house_] gefangen.
+Tötet sie noch heute und ich
+werde ein gutes Wort für Euch
+einlegen.
+
+QuestComplete:  [1004]
+Ihr habt Mumm, %pcf.
+Macht weiter so mit Eurer guten
+Arbeit und Ihr seid schon bald
+für die Kriegergilde gerüstet.
+
+RumorsDuringQuest:  [1005]
+Habt Ihr von diesem Idioten gehöhrt, der ein
+Riesenspinnenei mit nach Hause genommen hat?
+Jetzt hat er ein achtbeiniges Haustier, das
+versucht, ihn zu verspeisen!
+
+RumorsPostfailure:  [1006]
+Irgendein armer Tropf wurde von einer
+Riesenspinne gebissen, und beinahe
+getötet. In seinem eigenen Haus!
+
+RumorsPostsuccess:  [1007]
+Ihr habt also die Riesenspinne getötet.
+Ihr solltet der Kriegergilde beitreten
+oder sowas.
+
+QuestorPostsuccess:  [1008]
+Gut gemacht mit der Riesenspinne.
+
+QuestorPostfailure:  [1009]
+Wenn Ihr nicht einmal mit Spinnen
+fertigwerdet, wie erwartet Ihr dann mit
+den anderen Aufträgen fertigzuwerden,
+die Euch die Gilde geben könnte?
+
+QuestLogEntry:  [1010]
+%qdt:
+ Die Kriegergilde von ___qgiver_
+ hat mir angeboten, mich um eine
+ Riesenspinne zu kümmern, die in
+ einem Haus [_house_]
+ geschlüpft ist. Das muss heute
+ noch erledigt werden.
+
+Message:  1011
+Die _monster_ ist tot.
+

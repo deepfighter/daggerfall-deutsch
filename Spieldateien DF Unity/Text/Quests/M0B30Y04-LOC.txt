@@ -1,0 +1,96 @@
+Quest: M0B30Y04
+DisplayName: Lichtöter
+QRC:
+
+QuestorOffer:  [1000]
+Hört zu, %pcf. wenn Ihr nicht
+schon eine Menge Aufträge für uns
+erledigt hättet, würde ich das nicht
+einmal in Erwägung ziehen. Ich habe
+hier einen Auftrag, von dem ich Euch
+eigentlich gar nicht erzählen möchte.
+Es klingt so gut wie unmöglich und ist
+noch viel gefährlicher. In ___mondung_
+soll ein Lich beseitigt werden. Und es
+gibt dafür gerade mal _reward_ Goldstücke.
+Ihr habt kein Interesse, oder?
+
+RefuseQuest:  [1001]
+%god sei Dank habt Ihr
+noch etwas Verstand. Lassen
+wir den Lich doch einfach tun,
+was zur Hölle er tun will.
+Ich habe kein Problem damit.
+
+AcceptQuest:  [1002]
+Autsch, ich wusste, ich hätte es
+besser nicht erwähnt. Hört zu, wenn
+Ihr das wirklich tun wollt, besorgt
+Euch die beste Ausrüstung, die Ihr
+bekommen könnt. Magisches Zeug,
+Ebenerzklingen und so weiter. Der
+Lich muss in den nächsten =1stparton_ Tagen
+ins Reich des Vergessens eingehen und
+Ihr müsst bis dahin wieder hier sein,
+um die Belohnung zu bekommen. Ihr seid
+unglaublich, %pcf. Viel Glück!
+Ihr werdet es brauchen.
+
+QuestFail:  [1003]
+Eine kurze Pause vor der großen Lichjagd,
+%pcf? Wartet nur nicht zu lange.
+
+QuestComplete:  [1004]
+Ganz ehrlich, ich hätte nicht gedacht,
+Euch noch einmal wiederzusehen, %pcf.
+%god muss es wirklich gut mit Euch meinen.
+Hier sind Eure _reward_ Goldstücke.
+Viel Spaß damit.
+
+RumorsDuringQuest:  [1005]
+Ich hörte, irgendein dummer %ra will es mit dem Lich in ___mondung_ aufnehmen.
+<--->
+Alle schließen gerade Wetten ab, ob es der %ra schafft, gegen den Lich in ___mondung_ zu bestehen.
+
+RumorsPostfailure:  [1006]
+Der Lich ist immer noch irgendwo da draußen. Und er ist nicht glücklich mit uns.
+<--->
+Hätten sie den Lich doch nur in Ruhe gelassen. Jetzt ist er erst recht wütend.
+
+RumorsPostsuccess:  [1007]
+Jemand hat wirklich den Lich erschlagen! Ich dachte, die sind unsterblich.
+<--->
+Ich habe Geld gesetzt, dass es der %ra, der gegen den Lich ausgezogen ist, nicht schafft. Ich habe verloren.
+
+QuestorPostsuccess:  [1008]
+Der Lichtöter ist wieder da!
+Was kommt als nächstes?
+Drachen? Daedra?
+
+QuestorPostfailure:  [1009]
+Ich hätte nie den Auftrag angenommen,
+einen Lich zu töten! Ich verstehe immer
+noch nicht, warum ihr das gemacht habt.
+Jetzt steht ihr dumm da, weil Ihr es
+nicht geschafft habt.
+
+Message:  1020
+Unwürdiges sterbliches Wesen!
+Ihr hättet Euch nicht in die Belange
+der Untoten einmischen sollen.
+Ein weiterer toter %ra wird
+meine Sammlung hervorragend ergänzen.
+
+Message:  1030
+%qdt:
+ Die  Kriegergilde von ___questgiver_
+ hat mich angeheuert, um in den nächsten
+ =1stparton_ oder weniger Tagen einen Lich zu
+ töten. Ein Ort namens ___mondung_ ist
+ seine Zuflucht.
+
+Message:  1080
+Hier, nehmt diese Karte nach ___newdung_.
+Das sollte die Art von Arbeit sein, die ein
+Lichtöter wie Ihr noch vor dem Frühstück erledigt.
+
