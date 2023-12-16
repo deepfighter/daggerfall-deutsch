@@ -1,0 +1,95 @@
+Quest: N0B20Y05
+DisplayName: Der wahnsinnige Zauberer
+QRC:
+
+QuestorOffer:  [1000]
+Ihr habt sicherlich von dem irren Magier
+_wizard_ gehört. Wegen der enormen
+Macht, über die %g verfügt, hat es %rt
+%rn bisher hinausgezögert, offensiv
+gegen _wizard_ vorzugehen, aber mit
+dieser Strategie ist es nun vorbei.
+Die Hoheit hat uns gebeten, jemanden
+zu schicken, um diesen psychopathischen
+Magier auszuschalten. Würdet Ihr das im
+Austausch für einen magischen Gegenstand
+[_reward_] erledigen?
+<--->
+Die Bewohner von %reg verlangen,
+dass die Magiergilde etwas gegen den
+wahnsinnigen Zauberer unternimmt, der
+das Land schon seit geraumer Zeit
+terrorisiert. Nun, auf Befehl des
+Erzmagisters persönlich werden wir
+genau das tun. Ich weiß, das ist kaum
+die Aufgabe, die eine akademische
+Institution vergeben sollte, aber wärt
+Ihr gewillt und in der Lage, dem irren
+Zauberer einen Besuch abzustatten und
+dann Hackfleisch aus ihm zu machen?
+
+RefuseQuest:  [1001]
+Verflucht. Ich hatte gehofft, dass wir
+in dieser Sache auf Euch zählen könnten.
+
+AcceptQuest:  [1002]
+Ausgezeichnet. Ich wusste, dass Ihr uns
+nicht im Stich lassen würdet, %pcf.
+Nun denn, _wizard_ wird höchstens noch
+=1stparton_ Tage im Laboratorium ___mondung_
+verweilen, bevor %g in einem anderen Unterschlupf
+weiterzieht. Die Hoheit besteht darauf, dass wir
+binnen =1stparton_ Tagen vom Tod dieses Magiers
+berichten, säumt also nicht, nachdem es vollbracht
+ist. Ich sehe Euch in =1stparton_ Tagen.
+Habt Dank und viel Glück, %pcf.
+
+QuestFail:  [1003]
+Ich denke, Ihr solltet diese Sache vorantreiben,
+von der wir gesprochen hatten, nicht wahr?
+
+QuestComplete:  [1004]
+Einmal mehr erstaunt Ihr mich mit Eurem
+Können und Eurer Kompetenz, %pcf.
+Hervorragende Arbeit - die Hoheit
+wird ebenso zufrieden sein wie ich.
+Hier ist die Belohnung [_reward_],
+die ich versprochen habe. Viel Vergnügen damit.
+
+RumorsDuringQuest:  [1005]
+Die Magiergilde hat jemanden geschickt, der sich dieses verrückten Zauberers in ___mondung_ annehmen wird.
+<--->
+Jeder hält den Atem an und wartet auf den nächsten Zug des Zauberers.
+
+RumorsPostfailure:  [1006]
+Nicht einmal die Magiergilde konnte etwas gegen diesen wildgewordenen Hexenmeister unternehmen.
+<--->
+Niemand weiß, wo _wizard_ jetzt ist, aber es ist nirgendwo sicher, bis %g fort ist.
+
+RumorsPostsuccess:  [1007]
+Das war hoffentlich das letzte Mal, dass wir von dem wahnsinnigen Zauberer aus ___mondung_ gehört haben.
+<--->
+Es scheint ziemlich ruhig zu sein, da wir uns nicht mehr um einen wahnsinnigen Zauberer sorgen müssen.
+
+QuestorPostsuccess:  [1008]
+Hallo, %pcf. Ich hoffe, dieser irre Zauberer hat Euch nicht allzu schwer verletzt.
+
+QuestorPostfailure:  [1009]
+So, Ihr seid zurück, habt aber
+den wahnsinnigen Zauberer von
+___mondung_ nicht getötet? Es
+ist hoffnungslos, %pcf,
+hoffnungslos.
+
+Message:  1030
+%qdt:
+ Die Magiergilde von ___questgiver_
+ hat mich aufgefordert, den Zauberer von
+ ___mondung_ zu töten. Ich muss die
+ Tat innerhalb von =1stparton_ Tagen vollbringen,
+ um meine Belohnung zu erhalten.
+
+Message:  1040
+Ihr habt _wizard_ getötet,
+den verrückten Magierg von ___mondung_.
+

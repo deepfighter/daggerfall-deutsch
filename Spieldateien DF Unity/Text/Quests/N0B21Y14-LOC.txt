@@ -1,0 +1,221 @@
+Quest: N0B21Y14
+DisplayName: Das Orakel
+QRC:
+
+QuestorOffer:  [1000]
+Ihr seid %pcn? %pct?
+
+RefuseQuest:  [1001]
+Nun, dann entschuldigt die Verwechslung.
+
+AcceptQuest:  [1002]
+Ah, gut. Ich habe einen Brief für
+Euch. Offenbar hat Euch mehr als
+bloßer Zufall hergeführt.
+
+QuestComplete:  [1004]
+Ihr macht der Gilde alle Ehre, %pcf.
+
+RumorsDuringQuest:  [1005]
+_noble_ ist sicher einer der größten Adligen in %reg.
+<--->
+Wenn _noble_ etwas zustoßen würde ... ich schaudere bei dem Gedanken.
+
+RumorsPostfailure:  [1006]
+Die Sterne der letzten Nacht kündeten von Unglück und Tod.
+
+RumorsPostsuccess:  [1007]
+Die Sterne der letzten Nacht kündeten von einer knapp abgewendeten Katastrophe.
+<--->
+Der Akolyth ist vor kurzem durch die Stadt gekommen. Ich frage mich, was er wollte.
+
+Message:  1011
+                     _temple_
+                      __temple_
+ 
+ 
+ Seid gegrüßt, %pcn,
+ 
+     Ich bin weit gereist, um im Namen des
+ Orakels, der weisen Frau von Hammerfall,
+ mit Euch zu sprechen. Der Erzmagister der
+ Magiergilde hat Euch in höchsten Tönen als
+ ehrenhaften und talentierten Zauberwirker
+ gelobt. Bitte trefft mich so schnell wie
+ möglich; unsere Zeit ist knapp.
+ 
+     Ohne Eure Hilfe wird sich die dunkle
+ Prophezeiung des Orakels in =queston1_ Tagen
+ erfüllen und ganz %reg wird trauern.
+ 
+     Ich muss Euch alsbald sehen.
+ 
+                 Herzlich,
+ 
+                         Der Akolyth
+
+Message:  1012
+Es heißt, der Akolyth sei ein Adliger gewesen, bevor er zum Schüler des Orakels wurde.
+<--->
+Der Akolyth erledigt die ganze Fußarbeit für das Orakel. Bei ihrem Alter verständlich.
+<--->
+Der Akolyth war ein Adliger, aber jetzt hat er sich dem Dienst am Orakel verschrieben.
+<--->
+Der Akolyth ist dieser =acolyte_ unten im _temple_.
+<--->
+Der Akolyth steht seit Jahren im Dienst des Orakels, schon seit er ganz jung war.
+<--->
+Wenn das Orakel dem Akolythen seine Prophezeiung gibt, wird er sie eines Tages verlassen.
+
+Message:  1013
+Das Orakel hat keine Augen, aber sie gilt als die weiseste Frau Tamriels.
+<--->
+Das Orakel ist seit alters her Ratgeber der Monarchen von Schildwacht.
+<--->
+Das Orakel riet König Camaron von dem Krieg mit Dolchsturz ab.
+<--->
+König Camaron hat den Rat des Orakels, nicht gegen Dolchsturz zu ziehen, ignoriert.
+<--->
+Das Orakel wusste, dass Schildwacht den Krieg gegen Dolchsturz verlieren würde.
+<--->
+Wenn Camaron von Schildwacht auf das Orakel gehört hätte, wäre er heute noch am Leben.
+
+Message:  1014
+%qdt:
+ Ich habe einen Brief des Akolythen erhalten, in
+ dem er mich um ein Treffen bittet. Er erwartet
+ mich im _temple_ von __temple_.
+
+Message:  1015
+Danke für Euer Kommen, %pcf.
+Das Orakel hat den Tod von _noble_
+aus dem Hochadel von __temple_
+vorausgesehen. Wie ein Kiesel in einem
+stillen Weiher wird %g3 Tod ein großes
+Unglück für %reg auslösen. Ich habe
+versucht, mit %g2 zu sprechen, aber es
+ist mir nicht gestattet, _noble_ in
+_noblehouse_ aufzusuchen. Meine Herrin,
+das Orakel, beabsichtigt, nach __temple_
+zu kommen, um mit  _noble_ zu sprechen,
+und ich hörte zuletzt, sie sei in __oracletemple_.
+Ich bin mit diesem Landstrich nicht vertraut,
+also weiß ich nicht, wie weit entfernt dieser
+Ort ist. Ihr müsst mir helfen, indem Ihr entweder
+_noble_ überzeugt, sich vor dem, was da kommen
+mag, zu schützen oder das Orakel irgendwo bei
+__oracletemple_ ausfindig macht und zu %g2 geleitet.
+Ihr habt keine Zeit zu verlieren. Bitte, ich flehe
+Euch an, beeilt Euch. 
+
+Message:  1016
+%qdt:
+ Der Akolyth erzählte mir von seinem Versuch,
+ _noble_ zu überzeugen, _noblehouse_
+ zu verlassen, damit %g nicht stirbt und damit
+ Unheil über ganz %reg bringt. Mir wurde
+ aufgetragen, entweder selbst mit _noble_
+ zu reden oder nach __oracletemple_
+ zu gehen, um das Orakel, die Herrin des
+ Akolythen, dorthin zu eskortieren. Sie
+ könnte in der Lage sein, _noble_ zu
+ überzeugen, ich andererseits vielleicht auch.
+
+Message:  1017
+Ihr seid %pcn, der %ra.
+Mein Akolyth hat Euch zu mir gesandt,
+um mich zu _noble_ zu eskortieren.
+Ich habe meine Augen den Göttern gegeben,
+wie Ihr seht, und habe Euer Kommen durch
+ihre Augen gesehen. Nun lasst uns zur
+_noblehouse_ in __noblehouse_
+aufbrechen, solange das Schicksal von
+_noble_ noch nicht besiegelt ist.
+
+Message:  1018
+Das Orakel spricht mit _noble_
+und ihre ruhige, überzeugende Stimme
+entfaltet ihre Magie. Es dauert nur
+wenige Augenblicke, bis %g die Weisheit
+ihres Rats erkennt und zustimmt, sich
+zum Wohl von %reg einige Tage zu
+verstecken. Das Orakel dankt Euch für die
+Eskorte und versichert, dass sie Euch für
+Eure Tapferkeit und Euren Einfallsreichtum
+am Hof zu Schildwacht empfehlen wird.
+
+Message:  1019
+_noble_ und _love_ fallen
+sich in die Arme, dann bittet %g
+_noble_, sich zum Wohl von ganz
+%reg mit den vertrauenswürdigsten
+Wachen zu verstecken. _noble_
+willigt sofort ein, doch nicht,
+bevor %g Euch _gold_ Goldstücke
+zum Dank für die Rettung von
+_love_ gegeben hat.
+
+Message:  1020
+Wie ich schon diesem verdammten Akolyten
+sagte werde ich sicher nicht den Kopf einziehen,
+bloß weil irgendein verrücktes altes Weib einen
+schlechten Traum über mich hatte. Aber wie es sich
+trifft warte ich gerade  auf ein Lebenszeichen
+meiner Liebe _love_. Vor kurzem wurde %g
+entführt. Ich werde dem Rat von _love_
+in dieser Sache folgen, mich aber nicht verstecken,
+solange %g weiterhin in Gefahr schwebt. Ich
+hätte %g2 nie auch nur hundert Fuß ohne richtige
+Eskorte an ___mondung_ herankommen lassen
+sollen, aber ich werde meine Liebe jetzt ganz
+bestimmt nicht im Stich lassen. Da habt Ihr
+Eure Antwort, %pct.
+
+Message:  1021
+%dat:
+ _noble_ weigert sich unterzutauchen,
+ bis %g sicher ist, dass _love_ aus
+ den Händen %g3er Entführer befreit worden
+ ist. Wenn ich die geliebte Person aus
+ __mondung_ rette, würde _noble_
+ vielleicht auf die Stimme der Vernunft
+ zu hören.
+
+Message:  1022
+_noble_ hat Euch geschickt,
+um mich zu retten? %oth,
+dann lasst uns besser keine Zeit
+verlieren. Ich fürchte, %g stand
+im Mittelpunkt meines schrecklichen
+- und prophetischen - Traumes.
+
+Message:  1023
+Es ist zu spät. Die Stunde ist gekommen,
+in der Schicksal über den menschlichen
+Willen triumphiert hat. Der Wind selbst
+flüstert, dass _noble_ tot ist.
+%reg wird erzittern.
+
+Message:  1024
+                    _temple_
+                     __temple_
+ 
+ 
+ Seid gegrüßt, %pcn,
+ 
+     es ist unbedingt erforderlich, dass
+ ich Euch so bald wie möglich spreche. Ich
+ repräsentiere das Orakel von Hammerfall
+ und werde mich die nächsten Tage im
+ _temple_ aufhalten. Es sind aber
+ nur noch =queston2_ Tage, bis die Zukunft
+ unwiederbringlich gefügt ist, also muss
+ ich Euch sehr bald treffen.
+ 
+     Diese Angelegenheit ist wirklich ernst.
+ Bitte versäumt nicht, mich aufzusuchen.
+ 
+ 
+ 
+                   Der Akolyth
+

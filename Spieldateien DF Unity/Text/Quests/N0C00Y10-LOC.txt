@@ -1,0 +1,149 @@
+Quest: N0C00Y10
+DisplayName: Verschwundenes Buch
+QRC:
+
+QuestorOffer:  [1000]
+Mein Name ist _giver_.
+Ihr wollt Arbeit, seid aber kein Mitglied
+der Magiergilde? Ihr versteht sicher, dass
+wir nur unseren Mitgliedern anspruchsvollere
+Arbeit bieten können. Allerdings hätte ich
+da doch noch eine kleine Sache, die erledigt
+werden muss. Eines unserer Bücher ist
+verschwunden. Wenn Ihr es finden und
+zurückbringen könntet, würde ich das als
+persönlichen Gefallen ansehen, der Euch in
+der ganzen Gilde gut dastehen lassen würde.
+
+RefuseQuest:  [1001]
+Offenbar habt Ihr kein Interesse daran,
+Euch mit der Magiergilde gut zu stellen.
+
+AcceptQuest:  [1002]
+Wir haben momentan keine Anhaltspunkte.
+Der Name des Buches ist '_book_'.
+Ihr werdet wohl ein wenig herumstöbern und
+Euch bei den Leuten erkundigen müssen, ob
+sie etwas gehört haben. Bringt mir das Buch,
+wenn Ihr es findet.
+
+QuestFail:  [1003]
+%qdt:
+ Ich habe mich bereiterklärt, das Buch
+ '_book_' für die Magiergilde
+ von ___giver_ zu finden.
+ Wenn ich es finde, muss ich es zu
+ _giver_ zurückbringen und
+ %g wird für mich ein gutes Wort
+ bei der Gilde einlegen.
+
+QuestComplete:  [1004]
+Ah, '_book_'.
+Gut gemacht, %pcf.
+Die Gilde ist Euch nun
+sicher eher zugeneigt.
+
+RumorsDuringQuest:  [1005]
+Die Magiergilde hat eine äußerst seltene Ausgabe von '_book_'. Oder zumindest hatten sie eine.
+<--->
+'_book_' ist ein seltenes Buch, aber die Ausgabe, die die Magiergilde hatte, war noch erheblich seltener.
+
+RumorsPostfailure:  [1006]
+Der Verlust dieser besonderen Ausgabe von '_book_' trifft die Magiergilde schwer.
+<--->
+Die Bibliothek der Magiergilde ist nicht mehr so beeindruckend, wie sie früher einmal war, da '_book_' abhandengekommen ist.
+
+RumorsPostsuccess:  [1007]
+Die Bibliothek der Magiergilde ist wirklich dadurch bereichert, dass '_book_' nun wieder im Regal steht.
+
+QuestorPostsuccess:  [1008]
+Seid Ihr dazu gekommen, '_book_' zu lesen, als Ihr die Gelegenheit hattet? Es ist wirklich faszinierend.
+
+QuestorPostfailure:  [1009]
+Ich habe Euch eine Chance gegeben,
+%pcf. Erinnert Ihr Euch?
+Hättet Ihr '_book_'
+gefunden, würde ich mich gerne
+mit Euch unterhalten. Aber wie
+die Dinge nun liegen könnt Ihr
+auch gleich verschwinden.
+
+QuestLogEntry:  [1010]
+Vielleicht versucht Ihr es erstmal bei
+_informant_ in der Taverne -
+_informant1_, um genau zu sein.
+_informant_ scheint über alles
+Bescheid zu wissen, was hier so
+sich geht.
+<--->
+Ihr solltet in den örtlichen Tavernen
+fragen. Die sind voller Gerüchte.
+<--->
+Versucht es in der Taverne - _informant1_.
+Dort wird immer über alles und jeden geredet.
+<--->
+Es wurde _giver_ gestohlen.
+<--->
+_giver_ hat sich ebenfalls danach erkundigt.
+<--->
+Es hat mir wirklich gefallen, als ich es gelesen habe.
+<--->
+Ihr solltet wahrscheinlich eine Bibliothek aufsuchen.
+
+Message:  1011
+Das muss dieses Buch sein, das man
+__giver_ gestohlen hat.
+
+Message:  1025
+Hallo %pcn.
+Es heißt, dass Ihr Euch nach nach
+mir erkundigt. Ich sollte es wissen,
+denn alle Neuigkeiten von __informant1_
+finden diese Ohren. Aber genug von mir.
+Ich habe etwas über die missliche Lage
+von _giver_ gehört. Die Person,
+nach der Ihr sucht, ist _thief_.
+Angeblich hat %g schon eine ganze Weile
+nach einem Erstdruck von '_book_'
+gesucht. Und %g ist auch der Typ, der
+sich Dinge nimmt, ohne vorher zu fragen,
+wenn Ihr versteht, was ich meine.
+
+RumorsPostfailure:  [1006]
+Ihr habt bewiesen, dass man Euch
+Arbeit anvertrauen kann, %pcn.
+Damit habt Ihr Euch ein wenig neuen
+Respekt bei der Magiergilde verdient.
+
+Message:  1027
+_thief_ lebt in _house_ in __house_.
+<--->
+_thief_ wohnt in _house_.
+<--->
+_thief_ verbringt die Nächte in _house_.
+<--->
+Ihr solltet versuchen, _thief_ zuhause aufzusuchen, %g lebt in _house_.
+<--->
+_thief_ wickelt viele Geschäfte in einem Laden ab - _store_.
+<--->
+Ihr wollt vielleicht einmal in einem bestimmten Laden einkaufen - _store_. _thief_ tut es jedenfalls.
+<--->
+Dieser Laden [_store_] ist ein beliebter Ort, um mit gestohlenen Waren zu handeln, von denen _thief_ jede Menge hat.
+<--->
+_thief_ wurde in einem gewissen Laden [_store_] gesehen.
+<--->
+In dieser Taverne [_inn_] hängen viele Diebe herum.
+<--->
+_thief_ betrinkt sich gerne in der Taverne [_inn_].
+<--->
+Die Lieblingstaverne von _thief_ ... _inn_.
+<--->
+Die Lieblingsspeisen von _thief_werden im Gasthaus [_inn_] aufgetragen.
+
+Message:  1040
+Mir kam zu Ohren, dass Ihr auf der
+Suche nach _thief_ seid.
+Nun, herzlichen Glückwunsch.
+Jetzt verschwindet, bevor Ihr mich
+dazu bringt, Euch wirklich wehzutun.
+

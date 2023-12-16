@@ -1,0 +1,171 @@
+Quest: N0B11Y18
+DisplayName: Der rebellische Magier, Teil 1
+QRC:
+
+QuestorOffer:  [1000]
+Ihr seid ein loyales Mitglied der
+Magiergilde, nicht wahr, %pct?
+Ich habe da eine Gildenangelegenheit
+von äußerster Wichtigkeit und hätte
+gerne, dass Ihr sie übernehmt.
+
+RefuseQuest:  [1001]
+Vielleicht seid Ihr doch nicht so loyal, wie ich dachte.
+
+AcceptQuest:  [1002]
+Sehr gut. Es gibt da einen rebellischen
+Magier namens Baltham Graumann, den wir
+ausschalten müssen. Ein früherer Schüler
+von mir, der vielversprechend erschien,
+dem es aber an Folgsamkeit gegenüber den
+altehrwürdigen Prinzipien der Gilde mangelte,
+die für ihr Fortbestehen so wichtig sind.
+Wir fanden heraus, dass er momentan
+ungenehmigte Forschungen in __rebelhouse_
+betreibt, offenbar ohne sich der Gefahr
+bewusst zu sein. Ihr habt =qtime_ Tage, diese
+Bedrohung aus der Welt zu schaffen und zu
+mir zurückzukehren.
+
+QuestFail:  [1003]
+Hinfort, %pcn.
+
+QuestComplete:  [1004]
+Ich habe diesen magischen Gegenstand
+[_reward_] selbst als ein Zeichen
+meiner Anerkennung Eures Dienstes
+an der Magiergilde angefertigt.
+
+Message:  1020
+%qdt:
+ Ich habe mich verpflichtet, einen
+ rebellischen Magier, der momentan
+ in __rebelhouse_ residiert,
+ zu finden und zu vernichten. Sobald
+ ich diesen Magier namens Baltham
+ Graumann unschädlich gemacht habe,
+ muss ich _questgiver_ in der
+ Magiergilde von ___questgiver_
+ Bericht erstatten. Ich habe =qtime_ Tage.
+
+Message:  1021
+%qdt:
+ Ich habe zugestimmt, Baltham Graumanns
+ Leben zu verschonen. Ich soll _questgiver_
+ einfach sagen, dass ich außer einem Brief,
+ den Baltham mir gegeben hat, keine Anzeichen
+ von ihm in __rebelhouse_ gefunden hätte.
+
+Message:  1030
+So, _questgiver_ hat einen weiteren
+Lakaien geschickt, um in die Knie zu
+zwingen. Die alten Weiber, die der
+Magiergilde vorstehen, haben keinen
+Sinn für Abenteuer, gehen keine Risiken
+ein, wagen nichts und lernen nichts.
+Ich habe nie auch nur einen Finger gegen
+sie erhoben außer, um mich ihrer Kontrolle
+zu entziehen. Und doch will mich die
+Magiergilde tot sehen, nur weil ich mich
+weigere, ihren Regeln zu folgen! Warum
+schenkt Ihr ihnen blinden Gehorsam und
+mordet wie ein Auftragsmörder auf Befehl?
+Schließt Euch mir an und wir werden ihnen
+allen trotzen!
+
+Message:  1031
+Wunderbar! Sagt _questgiver_ einfach,
+dass ich nicht hier war, aber diesen
+Brief hinterlassen habe. Ich muss hier
+verschwinden, aber ich werde Euch
+kontaktieren, sobald ich ein wirklich
+grandioses Abenteuer für uns beide
+aushecken kann. Ta ta!
+
+Message:  1032
+Nun denn, dann muss ich Euch eben auf die
+harte Tour überzeugen. Verteidigt Euch,
+Magierleinchen!
+
+Message:  1040
+_questgiver_,
+ 
+      tut mir Leid Euch erpasst zu haben.
+ Wie gerne hätte ich mit Euch über die alten
+ Zeiten geplaudert. Erinnert Ihr Euch noch,
+ wie ich artig auf Euren Knien gelernt habe,
+ ganz so, als hättet Ihr mir je mehr als einen
+ faden Abglanz vergangener Größe beibringen können?
+ =mage1_, Erzmagister =mage3_ - ja,
+ in ihren Tagen war die Magiergilde eine Institution,
+ die Respekt verdiente. Aber heute nicht mehr.
+ Ich kann mich keiner Gilde verpflichten, deren
+ einziges Ziel darin besteht, jeden eigenen
+ Gedanken zu unterdrücken.
+  
+      Wenn Ihr noch mehr Eurer Vollstrecker
+ auf mich hetzt, werde ich gezwungen sein,
+ mich zu verteidigen. Ihr seid hiermit gewarnt.
+ 
+ Euer bescheidener Schüler
+ 
+<ce>Baltham Graumann
+
+Message:  1041
+Was ... diese Unverschämtheit!
+Ich bin sprachlos! Nun könnt
+Ihr sehen, warum Baltham Graumann
+um jeden Preis aufgehalten werden
+muss, bevor er alles untergräbt,
+wofür die Gilde steht. Es ist
+schade, dass Ihr diesen erbärmlichen
+kleinen Tropf verpasst habt, aber
+ich habe keinen Zweifel, dass wir
+ihn bald wieder aufstöbern werden.
+
+Message:  1042
+Sehr gut, %pct. Die Magiergilde
+kann nicht überleben, wenn wir nicht
+unsere eigenen Regeln durchsetzen, so
+streng sie auch manchmal wirken mögen.
+
+Message:  1050
+Stellt diese sinnlosen Angriffe ein
+und schließt Euch mir lieber an!
+
+Message:  1051
+Da werdet Ihr meinen Standpunkt verstehen.
+Wir könnten einen solchen Spaß zusammen haben!
+
+Message:  1052
+_questgiver_ hat Euch Zähigkeit gelehrt,
+das muss ich Euch lassen. Aber warum ein
+Sklave engstirniger Regeln und Vorschriften
+bleiben? Schließt Euch meiner fröhlichen
+Bande der Gildenrebellen an!
+
+Message:  1053
+Ihr beginnt, meine Geduld auf die Probe
+zu stellen, aber ich gebe Euch eine
+letzte Chance. Stellt Eure Angriffe
+ein und ich werde die Vergangenheit
+ruhen lassen.
+
+Message:  1060
+Vielleicht sollten wir das draußen regeln.
+
+Message:  1061
+Juhuu, hier bin ich!
+
+Message:  1062
+Hat _questgiver_ vergessen, Euch von
+meinen magischen Fähigkeiten zu erzählen,
+als %g über meine Untreue und Aufsässigkeit
+schwadronierte?
+ 
+
+Message:  1063
+Und wieder daneben, mein lieber Gildenesel.
+Warum haben Euch Eure Gildenmeister nicht
+ein paar von diesen Tricks gelehrt?
+

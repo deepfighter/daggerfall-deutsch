@@ -1,0 +1,75 @@
+Quest: N0B30Y15
+DisplayName: Boshafter Kobold
+QRC:
+
+QuestorOffer:  [1000]
+Mein Name ist _questgiver_.
+Wir brauchen jemanden, der für
+uns einen boshaften Kobold zur
+Strecke bringt. Habt Ihr Interesse?
+Es würden _gold_ Goldstücke dabei
+herausspringen.
+
+RefuseQuest:  [1001]
+Zu schade.
+<--->
+Wie schade.
+<--->
+Ich verstehe.
+Dann trollt Euch, %pcn.
+
+AcceptQuest:  [1002]
+Gute Einstellung, %pcn.
+Es gibt da eine Sache, die ich
+Euch nicht erzählt habe. Dieser
+Kobold war der Vertraute eines
+sehr hochrangigen Magiers. Wie
+es scheint, wurde der Kobold mit
+einem experimentellen Spruch belegt
+und dadurch von allerlei zauberischen
+Kräften durchdrungen. Ihr solltet die
+Kreatur in _palace_ in
+__palace_ finden. Offenbar
+hält sie sich für herrschaftstauglich.
+Seid bloß vorsichtig, %pcn.
+Wenn Ihr nicht innerhalb der nächsten
+=traveltime_ Tage zurückkehrt, werden wir annehmen,
+dass Ihr tot seid.
+
+QuestComplete:  [1004]
+Zäher kleiner Kerl, was? Nun, Ihr habt
+ Euch Eure Bezahlung zweifellos verdient.
+
+RumorsDuringQuest:  [1005]
+Irgendwas geht in _palace_ zu __palace_ vor sich. Etwas Seltsames.
+<--->
+Jeder in __palace_ wundert sich, was dort in _palace_ vorgeht.
+
+RumorsPostfailure:  [1006]
+Irgendeine Kreatur ist aus _palace_ in __palace_ hinausgeflogen und dann weiter gen Süden.
+
+RumorsPostsuccess:  [1007]
+%god sei Dank, dass dieser Söldner - ein %ra - in __palace_ war und den Kobold zur Strecke gebracht hat.
+<--->
+Dieser Kobold hätte einigen Schaden in __palace_ anrichten können, wenn dieser %ra nicht geholfen hätte.
+
+QuestorPostsuccess:  [1008]
+Ich habe Euch nicht vergessen, %pcf. Ihr seid der %ra, der diesem lästigen Kobold den Hals umgedreht hat.
+
+QuestorPostfailure:  [1009]
+__palace_ wurde von diesem
+ Kobold beinahe zerstört und Ihr habt
+ nichts getan, um zu helfen. Für mich
+ ist das ziemlich verachtenswert,
+ %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ von der Magiergilde
+ von ___questgiver_ gab mir den
+ Auftrag, einen boshaften Kobold zu
+ töten. Das Biest lauert in _palace_
+ in __palace_. Ich habe =traveltime_ Tage,
+ um mit Erfolg zurückzukehren.
+<--->
+

@@ -1,0 +1,108 @@
+Quest: N0B10Y01
+DisplayName: Golemausbruch
+QRC:
+
+QuestorOffer:  [1000]
+Ziemlich peinlich, aber eines unserer Experimente
+hat das Laboratorium verlassen, bevor es an der
+Zeit war. Zu allem Übel ist es vor der
+Fütterungszeit geflohen, hat also ganz sicher
+schlechte Laune. Glücklicherweise ist es eine
+entbehrliche Kreatur, nur ein gemeiner Golem.
+Aber wir müssen auch nicht unbedingt durch
+das Wüten eines rasenden Golems unseren Ruf
+verlieren. Wenn Ihr bereit wärt, das arme Biest
+zu verfolgen und es aus seiner und unserer
+misslichen Lage zu befreien, könnten wir Euch,
+sagen wir, _reward_ Goldstücke als Gegenleistung
+anbieten. Interessiert?
+<--->
+Wir hatten vor kurzem ein bisschen Aufregung in
+diesen langweiligen alten Hallen. In einer ganz
+routinemäßigen Golemachieklasse hat es eines der
+Subjekte geschafft ... nun ja, die Einzelheiten
+sind unwichtig. Wichtig ist, dass ein Golem
+ungebunden in %reg herumläuft, was sich
+leicht auf diese Gilde und unsere Missverwaltung
+zurückführen lässt. Aber Ihr seid jemand, der
+diese Angelegenheit so unauffällig wie möglich
+aus der Welt schaffen kann, ja?
+
+RefuseQuest:  [1001]
+Wirklich schade. Tja, ich schätze,
+irgendein anderer eifriger Abenteurer
+wird uns schon helfen.
+
+AcceptQuest:  [1002]
+Ihr macht es? %oth, was für eine
+Erleichterung. Diese elende Kreatur hat
+sich offenbar in einem dreckigen, kleinen
+Loch niedergelassen, das ___mondung_
+genannt wird. Um unseres guten Rufes willen
+ist es unerlässlich, dass diese Sache schnell
+und leise erledigt wird. Wenn Ihr es also
+nicht schafft, den Golem in den nächsten
+=1stparton_ Tagen loszuwerden, braucht Ihr nicht
+mehr für Eure Belohnung zurückzukommen.
+Guten Tag.
+
+QuestFail:  [1003]
+Trage ich einen dummen Hut und grinse
+wie irre? Nein? Warum haltet Ihr mich
+dann zum Narren? Ich weiß ganz genau,
+dass der Golem immer noch lebt. Fragt
+in Zukunft gar nicht erst nach Aufträgen,
+die Ihr nicht erfüllen könnt oder wollt.
+
+QuestComplete:  [1004]
+Der Jäger kehrt zurück! Ihr habt uns
+durch Eure unverzügliche Abhilfe in
+der Golemkrise einige Unannehmlichkeiten
+erspart. Rundum erstklassige Arbeit.
+Nehmt Euer Gold und meine Dankbarkeit
+entgegen.
+
+RumorsDuringQuest:  [1005]
+Ich hörte, dass neulich nachts irgendetwas aus dem Laboratorium der Magiergilde entkommen ist.
+<--->
+%oth, gerade sah ich eine Gestalt in den Schatten schleichen.
+
+RumorsPostfailure:  [1006]
+Nun ja, es gibt da einen kleinen Skandal wegen der Laborsicherheit der Magiergilde.
+<--->
+Offenbar ist der Magiergilde wieder eines ihrer Experimente abhanden gekommen.
+
+RumorsPostsuccess:  [1007]
+Der Herrscher hatte einen Bruder. Man hat herausgefunden, dass der Golem mit seiner Seele erschaffen wurde!
+<--->
+Eine Menge Leute fühlen sich sicherer, nun da sie wissen, dass der Golem tot ist.
+<--->
+Spricht jeder über den Golem, den dieser %ra zur Strecke gebracht hat?
+
+QuestorPostsuccess:  [1008]
+Ich habe die Golemkrise nicht vergessen, falls Euch das beunruhigt.
+
+QuestorPostfailure:  [1009]
+Ich habe Euch losgeschickt, um diesen
+Golem aufzuhalten und Ihr habt versagt.
+Keine Ausreden, %pcf.
+Lasst mich mit meiner Trübsal allein.
+
+QuestLogEntry:  [1010]
+ "Ich würde lieber sterben als
+ ins Laboratorium der Magiergilde
+ zurückzukehren."
+ 
+Das Leben schwindet aus den
+Augen des Golems.
+ 
+
+Message:  1020
+%qdt:
+ Die Magiergilde von ___questgiver_ hat
+ mich angeheuert, einen Golem aufzuspüren,
+ der aus ihrem Laboratorium entkommen ist.
+ Er hat in  ___mondung_ Unterschlupf gefunden.
+ Ich muss die Kreatur töten und innerhalb von
+ =1stparton_ Tagen wieder in ___questgiver_ sein.
+

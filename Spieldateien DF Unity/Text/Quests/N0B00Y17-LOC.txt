@@ -1,0 +1,319 @@
+Quest: N0B00Y17
+DisplayName: Azimutwinkel
+QRC:
+
+QuestorOffer:  [1000]
+%pct, ich bin verwirrt. Vielleicht
+könnt Ihr mir bei meinen Nachforschungen
+behilflich sein.
+<--->
+Hmm, ja, wenn sich die inneren Azimutwinkel
+wirklich am vorderen Pol kreuzen, sollte
+es möglich sein ... was? Oh, %pct,
+ich habe Euch gar nicht dastehen sehen.
+Was für ein Zufall! Ich brauche jemanden,
+der mir bei meiner Forschung hilft.
+Wärt Ihr dafür abkömmlich?
+
+RefuseQuest:  [1001]
+Oh, das ist schade. Nun, wo war ich?
+Mmm, richtig, die Azimutwinkel. Mal sehen ...
+
+AcceptQuest:  [1002]
+Vortrefflich! Ich arbeite, wie Ihr seht, an einem
+besonders heiklen Problem in theoretischer
+angewandter Magie und brauche einen besonderen
+magischen Gegenstsand [_item_], den
+_maker_ höchstselbst hergestellt hat!
+Allen Berichten zufolge eine meisterhafte
+kleine Arbeit, aber meinen Forschungen zufolge
+unmöglich. Die internen Azimutwinkel sind so
+beschaffen, dass ich die extern manifestierten
+lateralen Flusslinien nicht damit übereinbringen
+kann ... Nun, es wäre unschätzbar, das Stück
+für Studienzwecke in meinem Besitz zu wissen,
+aber ich hatte bislang kein Glück dabei, es
+aufzustöbern. Die einzige Referenz, auf die
+ich gestoßen bin, erwähnte einen Katalog in
+der Bibliothek von ... oh ja, heute ist der
+Ort als  ___hintdung_ bekannt.
+Ihr könntet es auch bei  _scholar_
+versuchen, einem meiner Kollegen. _scholar_
+kennt sich mit _maker_ sehr gut aus.
+Hat die definitive Biographie geschrieben,
+obwohl meiner Meinung nach ... ah, nun ja,
+keine Zeit für diese alte Debatte. Ihr findet
+_scholar_ in einem dunklen Loch namens
+___scholardung_. Ich verstehe nicht, wie
+%g es ertragen kann, an einem solchen Ort zu
+arbeiten. Hmm, ja, kommt in, sagen wir, =time1_ Tagen
+zu mir zurück und berichtet mir von Euren Funden.
+Ja? Vortrefflich.
+
+QuestFail:  [1003]
+Was denkt Ihr über diese Vektorlinien?
+Ich habe versucht, Menciphas Theorem zum
+Koeffizientenabgleich anzuwenden, aber
+damit bekomme ich nur Durcheinander.
+Wenn ich vielleicht ...
+
+QuestComplete:  [1004]
+Wer seid Ihr? Oh, beim Himmel, jetzt
+erinnere ich mich. Der magische Gegenstand
+von _maker_, natürlich! Und da ist er.
+Nun, wie es sich so trifft habe ich in
+Eurer Abwesenheit einen Forschungsdurchbruch
+erzielt. Es waren überhaupt nicht die
+Azimutwinkel, der Schlüssel zu dem ganzen
+Problem ist eigentlich ... also, der Punkt ist,
+ich brauche diesen Gegenstand [_item_]
+nicht mehr. Obwohl es ein schönes Stück ist,
+oder? Warum behaltet Ihr es nicht, da Ihr Euch
+schon die Mühe gemacht habt, es für mich zu
+finden. Wenn Ihr mich nun entschuldigen
+würdet, ich muss zurück an die Arbeit.
+ 
+
+RumorsDuringQuest:  [1005]
+Habt Ihr gesehen, wie _questgiver_ letzte Nacht
+die Straßen durchstreift und irgendwas vor sich
+hingemurmelt hat? Verrückter alter Kauz!
+
+RumorsPostfailure:  [1006]
+_questgiver_ ist alt und verrückt, scheint aber noch verzagter als sonst zu sein.
+
+RumorsPostsuccess:  [1007]
+Ein  %ra hat die gesamte Forschung gerettet,
+hat _questgiver_  erzählt.
+Hey, das wart Ihr, stimmt's?
+
+QuestorPostsuccess:  [1008]
+Hm? Oh, mein guter Freund %pcf.
+Ihr habt überall nach diesem Gegenstand
+[_item_] gesucht, den ich wollte.
+
+QuestorPostfailure:  [1009]
+Hm? Sind wir uns schon einmal begegnet?
+
+Message:  1020
+%qdt:
+ _questgiver_ von der Magiergilde
+ in ___questgiver_ hat mich auf die
+ Suche nach einem bestimmten magischen
+ Objekt [_item_] geschickt, das von
+ jemandem namens _maker_ hergestellt
+ wurde. _questgiver_ schlug vor,
+ entweder in ___hintdung_  nach
+ einem alten Katalog zu suchen oder
+ _scholar_, einen Experten in
+ Sachen  _maker_, in ___scholardung_
+ zu Rate zu ziehen. Ich soll _questgiver_
+ innerhalb von =time1_ Tagen über meine
+ Funde berichten.
+
+Message:  1021
+%qdt:
+ Ich habe _scholar_ in ___scholardung_
+ gefunden, %g konnte mir bei der Suche nach
+ dem Relikt [_item_] von _maker_
+ aber nicht weiterhelfen.
+
+Message:  1022
+%qdt:
+ _scholar_ deutete an, dass ich das
+ Objekt [_item_] von _maker_
+  möglicherweise irgendwo an einem Ort
+ namens ___itemdung_ finden könnte.
+
+Message:  1023
+%qdt:
+ Ich glaube, dass ich eine vielversprechende
+ Spur zu dem gesuchten Gegenstand [_item_]
+ gefunden habe. Der alte Katalog aus ___hintdung_
+ besagt, dass er einst an einem Ort namens
+ ___itemdung_ aufbewahrt wurde.
+
+Message:  1024
+%qdt:
+ Ich habe einen Teil des alten Katalogs
+ in ___hintdung_ gefunden, doch er
+ enthielt keinen Hinweis darauf, wo sich
+ das Objekt [_item_] von_maker_
+ befindet.
+
+Message:  1025
+%qdt:
+ Ich habe mit _scholar_ in ___scholardung_
+ gesprochen; %g konnte mir bei meiner Suche
+ nach dem Gegenstand [_item_] zwar nicht
+ weiterhelfen, aber ich habe eingewilligt,
+ %g2 einige Alchemiezutaten von _contact_,
+ __contact_ in  ___contact_,
+ zu besorgen und in =time2_ Tagen zurückzukehren.
+
+Message:  1030
+Objekt Nr. 476-A-LCX-08
+ 
+ Art:        _item_
+ Erschaffer: _maker_ von ___maker_
+ 
+ Beschreibung:
+ Dieser Gegenstand ist eine der geringeren
+ Arbeiten von _maker_, in der
+ Qualität der Handwerkskunst unter dem famosen
+ Stab der Redseligkeit anzusetzen und nicht
+ ansatzweise ein solches Meisterwerk schierer
+ Unverfrorenheit wie die Scheren der Formgebung.
+ Gleichwohl zeigt auch dieses Objekt jenen
+ markanten Stil, den _maker_ durch
+ viele kleine Details in sämtlichen Werken
+ aufscheinen lässt: Die geprägten Messingbeschläge
+ mit Signaturstempel, die ungewöhnliche Wahl
+ der emaillierten Oberfläche und besonders das
+ weiche Gedanit, das entlang der äußeren
+ Flusslinien funkelt.
+ 
+ (Leihgabe aus ___itemdung_)
+
+Message:  1031
+Objekt Nr. 476-A-LCX-08
+ 
+ Art:        _item_
+ Erschaffer: _maker_ of ___maker_
+ 
+ Beschreibung:
+ Dieser Gegenstand ist eine der geringeren
+ Arbeiten von _maker_, in der Qualität
+ der Handwerkskunst unter dem famosen Stab
+ der Redseligkeit anzusetzen und nicht
+ ansatzweise ein solches Meisterwerk schierer
+ Unverfrorenheit wie die Scheren der Formgebung.
+ In den Jahren nach dem Tod von _maker_
+ verschwand dieses Stück aus der Öffentlichkeit
+ und befindet sich nun vielleicht im Besitz
+ eines Privatsammlers. Den erhaltenen Berichten
+ zufolge zeigte auch dieses Objekt jenen markanten
+ Stil, den _maker_ durch viele kleine
+ Details in sämtlichen Werken aufscheinen lässt:
+ Die geprägten Messingbeschläge mit Signaturstempel,
+ die ungewöhnliche Wahl der emaillierten Oberfläche
+ und besonders das weiche Gedanit, das entlang der
+ äußeren Flusslinien funkelt.
+ 
+ (Objekt nicht ausgestellt)
+
+Message:  1032
+_contact_ --
+ 
+ Bitte liefert mir:
+   3 Dtzd. Molchzungen (getrocknet)
+   4.25 Unzen gemahlenes Horn des Einhorns (NUR aus dem Norden!)
+   1 _ingredient_ (bei %god, dieses Mal FRISCH!)
+   Ein Glas Basiliskenauge
+ 
+ Setzt es auf meine Rechnung.
+ 
+ -- _scholar_
+
+Message:  1040
+Hallöchen. Das Objekt [_item_] von _maker_,
+sagt Ihr? Ja, ich glaube, ich bin erst letzte
+Woche auf eine Referenz zu genau diesem Ding
+gestoßen. Wo habe ich nur die Notizen hingelegt ...
+da sind sie, mmm - hmm, "besonders das weiche
+Gedanit, das entlang der äußeren Flusslinien
+funkelt" - ein klassischer _maker_, gar
+kein Zweifel. Sieht aus, als hätte es sich in
+___itemdung_ befunden. Zumindest,
+als das hier geschrieben wurde. Viel Glück!
+
+Message:  1041
+Guten Morgen! Hat Euch _contact_ mit
+der Lieferung geschickt, die ich geordert
+hatte? Oh, _questgiver_ sagte, ich
+wüsste vielleicht, wo der magische Gegenstand
+[_item_] von _maker_ zu finden sei?
+Es tut mir Leid, aber dieses Objekt scheint
+kurz nach dem Tod von _maker_ verschwunden
+zu sein und niemand hat seither etwas davon
+gehört. Wirklich schade. Aber könnt Ihr mir
+einen Gefallen tun, wenn Ihr schon einmal hier
+seid? Ich brauche einige Dinge für meine Arbeit
+hier und wäre sehr dankbar, wenn Ihr mir sie
+beschaffen könntet.
+
+Message:  1042
+Ausgezeichnet. Lasst mich nur schnell notieren,
+was ich brauche ... hier. Bringt diese Liste zu
+_contact_, __contact_ in
+___contact_. Ich traue keinem anderen zu
+mir genau die Zutaten zu beschaffen, die ich
+benötige. Ich erwarte Euch in  =time2_ Tagen
+zurück. Seid bitte pünktlich.
+
+Message:  1043
+Zu beschäftigt, was? Nun, es war schön,
+mit Euch zu sprechen. Ich werde Euch nicht
+zur Tür zeigen, wenn es Euch nichts ausmacht.
+ 
+ Guten Tag!
+
+Message:  1044
+Noch eine Einkaufsliste von _scholar_, hm?
+Ich schwöre, wenn ich %g2 noch eine Lieferung
+schicke, ohne bezahlt zu werden ... "Setzt es
+auf meine Rechnung", ha! Das reicht. Hört zu,
+ich werde Euch die Probe _ingredient_ geben,
+die %g verlangt, aber der Rest wird extra bestellt
+werden müssen, was ich nicht tun werde, bis %g
+mich für alles andere bezahlt, das ich %g2 geschickt
+habe. Es tut mir Leid, aber mehr geht nicht.
+
+Message:  1045
+Oh, Ihr seid es. Habt Ihr mir die Vorräte
+mitgebracht, um die ich gebeten hatte?
+Was, _contact_ wollte Euch nur _ingredient_
+geben? So was von starrköpfig! Ich werde %g2
+meine Meinung sagen, wenn ich hier rauskomme.
+Aber naja, besser als nichts, nehme ich an.
+Sucht Ihr immer noch nach diesem Gegenstand
+[_item_]? Ich habe einen Verweis auf
+einen alten Ausstellungskatalog der Arbeiten
+von _maker_ gefunden. Dieser Katalog
+befindet sich in ___hintdung_.
+Tatsächlich kann ich Euch sogar gleich dorthin
+teleportieren, wenn Ihr wollt. Den Weg hinaus
+müsst Ihr dann natürlich selbst finden.
+ 
+Soll ich Euch nach ___hintdung_
+teleportieren?
+
+Message:  1046
+Dann haltet Euch fest! Und nehmt auch noch
+das hier [_scholarreward_] mit!
+Ich weiß es sehr zu schätzen, dass Ihr
+mir diese Portion _ingredient_
+beschafft habt. Und jetzt ab mit Euch
+nach ___hintdung_.
+
+Message:  1047
+Wie Ihr wünscht. Nehmt auch noch das
+hier [_scholarreward_] mit, bevor
+ihr geht. Ich weiß es sehr zu schätzen,
+dass Ihr mir diese Portion _ingredient_
+beschafft habt. Ich hoffe, Ihr findet
+Euer Objekt [_item_].
+
+Message:  1050
+Das ist ohne jeden Zweifel das Objekt
+[_item_] von _maker_.
+
+Message:  1060
+Hallo %pcn. Konntet Ihr das Objekt
+[_item_] von _maker_ aufzustöbern?
+Ach je, das ist zu schade, aber ich
+bin sicher, dass ich das Problem auch
+irgendwie umgehen kann. Ich weiß, Ihr
+habt Euer Bestes gegeben. Hier sind
+_gold_ Goldstücke für Eure Mühen.
+ 

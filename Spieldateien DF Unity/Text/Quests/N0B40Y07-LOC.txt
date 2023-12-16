@@ -1,0 +1,124 @@
+Quest: N0B40Y07
+DisplayName: Daedrabannung
+QRC:
+
+QuestorOffer:  [1000]
+Ich bin mir nicht sicher, ob Ihr mir
+überhaupt helfen könnt, %pcf.
+Ich suche nach einem Magier, der
+erfahren genug ist, mit großer Sicherheit
+den Zauberspruch "Daedra bannen" zu wirken.
+Könnt Ihr das?
+<--->
+"Daedra bannen" ist einer der komplexesten
+Sprüche unter den üblichen Zirkulierzaubern.
+Nur wenige Zauber setzen ein so hohes Maß an
+inhärenter Magie und solches Können voraus.
+Ihr seid nicht zufällig in der Lage, den Zauber
+"Daedra bannen" zu wirken, oder?
+<--->
+Was für eine Ironie, dass es relativ einfach ist,
+Daedra zu beschwören, nicht aber, sie wieder zu
+verbannen. Ihr verfügt nicht zufällig über die
+Fähigkeit, den üblichen Zirkulierzauber "Daedra
+bannen" zu wirken, oder?
+
+RefuseQuest:  [1001]
+Ach, nun denn, die Suche geht weiter.
+
+AcceptQuest:  [1002]
+Ich hoffe ehrlich, dass Ihr die Wahrheit
+sagt. Ich möchte nicht, dass dieser
+besondere Daedra getötet wird, weil ich
+in der Zukunft möglicherweise noch auf
+seine Dienste angewiesen sein werde, aber
+im Augenblick ist seine Gegenwart lästig.
+Und dass Ihr mir nicht selbst am Zauberspruchaltar
+einen Spruch zum "Daedra bannen" erstellt!
+Es muss der übliche, standardmäßige Zirkulierzauber
+aus den Lehrbüchern sein. Da ich es war, der diesen
+Daedra beschworen hat, kann ich Euch die Aufgabe
+etwas erleichtern, aber Ihr müsst meinen Anweisungen
+genau Folge leisten. Nehmt diese Schriftrolle. Sie
+enthält einen Zauber, der den wahren Namen des Daedra
+benutzt, um ihn kurzzeitig gefangenzusetzen. Bevor
+Ihr die Schriftrolle benutzt, müsst Ihr jedoch
+sichergehen, dass Euer Ziel verwundet wurde,
+ansonsten könnte der Zauber mit unvorhersehbaren
+Nebeneffekten scheitern. Wenn der Daedra einmal
+gefangen wurde, ist die Wahrscheinlichkeit, dass
+"Daedra bannen" misslingt, ziemlich gering. Der
+besagte Daedra befindet sich in  ___mondung_.
+Ich erwarte Euch in den nächsten =queston_ Tage zurück.
+Viel Glück, %pct.
+
+QuestComplete:  [1004]
+Gut gemacht, %pct.
+Ich kann Euch zwar kein Gold
+anbieten, aber hier ist ein Buch,
+das mir besonders gefallen hat.
+
+RumorsDuringQuest:  [1005]
+Daedra scheinen von ___mondung_ angezogen zu werden. Muss irgendetwas Spirituelles sein.
+<--->
+Immer wieder beschwört _qgiver_ Dinge, die %g2 dann selbst Probleme machen.
+
+RumorsPostfailure:  [1006]
+Die daedrischen Sterne schienen letzte Nacht besonders hell.
+
+RumorsPostsuccess:  [1007]
+Der Daedra von _qgiver_ ist vorerst vertrieben. Aber Daedra haben die Angewohnheit, wiederzukommen.
+<--->
+___mondung_ ist größtenteils von daedrischen Einflüssen gereinigt, jedenfalls fürs Erste.
+
+QuestorPostsuccess:  [1008]
+Gefällt Euch das Buch, %pcf? Ich selbst fand es sehr aufschlussreich.
+
+QuestorPostfailure:  [1009]
+Wenn Ihr den Zauberspruch "Daedra
+bannen" nicht beherrscht, hättet
+Ihr den Auftrag nicht annehmen
+sollen. Nun geht.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von der Magiergilde in
+ ___qgiver_ hat mich nach
+ ___mondung_ entsandt, wo ich den Spruch
+ "Daedra bannen" auf einen Daedra anwenden
+ soll. _qgiver_ gab mir eine
+ Schriftrolle mit einem Zauber, um den
+ Daedra für kurze Zeit gefangenzusetzen und
+ seine Verbannung zu erleichtern, jedoch
+ wirkt dieser nur, wenn ich die Kreatur
+ zuerst verwunde. Ich soll innerhalb von
+ =queston_ Tagen mit der Erfolgsmeldung zurückkehren.
+
+Message:  1030
+Zanoth na' =daedra_.
+Zanoth na' ==dummydaedra_.
+Senet seneth mor.
+
+Message:  1040
+Ihr ungeschickter Narr, ich habe
+Euch doch klar und deutlich instruiert,
+=daedra_ zu bannen und nicht zu töten.
+Jetzt werde ich mir die Mühe machen müssen,
+den wahren Namen eines anderen Daedra zu
+erlernen. Eure Anwesenheit hier ist mir
+unangenehm, %pcf. Verschwindet unverzüglich.
+
+Message:  1050
+Die Schriftrolle geht in Flammen auf,
+als Ihr das letzte Wort lest.
+
+Message:  1051
+Ich bin =firedaedra_.
+Wer hat mich aus meiner Heimat
+im Reich des Vergessens gerufen?
+
+Message:  1060
+Der Daedra =daedra_
+wurde wieder gebührend zurück
+ins Reich des Vergessens gebannt.
+

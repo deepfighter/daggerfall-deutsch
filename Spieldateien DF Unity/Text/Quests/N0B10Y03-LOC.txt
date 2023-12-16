@@ -1,0 +1,91 @@
+Quest: N0B10Y03
+DisplayName: Nachtwächter der Gilde
+QRC:
+
+QuestorOffer:  [1000]
+Die Magiergilde braucht jemanden,
+der heute Nacht unsere magischen
+Relikte beschützt. Wäre es möglich,
+dass Ihr dieser Jemand seid? Es
+würde auch für Euch etwas dabei
+herausspringen [_potion_].
+<--->
+Die Gildenhalle - wie soll man sagen?
+Ihr werdet mir zustimmen, dass es im
+Leben immer ein paar Leute gibt, die
+einfach nur ... nun, die Gilde stand
+immer für, oder, sagen wir, hatte immer
+schon Probleme mit ... hört zu,
+%pct, wir brauchen eine Wache.
+Würdet Ihr das übernehmen?
+
+RefuseQuest:  [1001]
+Kein Problem. Es gibt immer
+andere Gildenmitglieder,
+die nach Arbeit suchen.
+
+AcceptQuest:  [1002]
+Seid um Mitternacht
+hier in der Magiergilde.
+Eure Schicht als Wachposten
+endet um 3 Uhr morgens.
+
+QuestComplete:  [1004]
+Gut gemacht, %pcf.
+Diese Diebe hatten keine
+Chance gegen Euch. Hier,
+nehmt das hier [_potion_].
+Das ist wirklich das Mindeste.
+
+RumorsDuringQuest:  [1005]
+Die Diebe müssen diesen Schatz [_treasure_] in der Magiergilde für sehr wertvoll halten.
+<--->
+Die Diebe haben angedroht, etwas sehr wertvolles [_treasure_] aus der Magiergilde zu stehlen.
+
+RumorsPostfailure:  [1006]
+Die Diebe haben sich ihre Beute [_treasure_] letztendlich doch noch geholt.
+<--->
+Die Magiergilde hätte richtige Wachen anheuern sollen. Deshalb haben sie ihre Kostbarkeit [_treasure_] verloren.
+
+RumorsPostsuccess:  [1007]
+Ich wette, diese Diebe werden nicht noch einmal versuchen, diesen magischen Gegenstand [_treasure_] zu stehlen.
+<--->
+Die Diebe, die versucht haben, den Gegenstand [_treasure_] zu stehlen, haben nicht mit einer richtigen Wache gerechnet, darauf wette ich.
+
+QuestorPostsuccess:  [1008]
+Wie geht es Euch, %pcf? Schon eine Verwendung für Eure Belohnung gefunden?
+
+QuestorPostfailure:  [1009]
+Der magische Gegenstand [_treasure_]
+ist weg, aber Ihr seid noch hier? Das
+ist wohl kaum ein gleichwertiger Tausch.
+Verlasst mich auf der Stelle, %pcn.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich habe eingewilligt, einen magischen
+ Gegenstand [_treasure_] in der
+ Magiergilde von ___qgiver_ zu bewachen.
+ Ich muss zwischen Mitternacht und 3 Uhr
+ dort sein.
+
+Message:  1011
+%qdt:
+ Ich konnte nicht widerstehen. Ich habe den
+ magischen Gegenstand [_treasure_] an
+ mich genommen, den ich eigentlich bewachen
+ sollte. Sie werden mich bestimmt verfolgen.
+
+Message:  1012
+Schaut mal her, Jungs. Ein Wachposten!
+Oh Mann, ich zittere vor Angst. Lasst
+uns seine Zunge als Warnung an die Tür
+nageln, sich nicht mit der Diebesgilde
+anzulegen. Angriff!
+
+Message:  1013
+Ich bin hier, um das Kopfgeld
+einzustreichen, dass auf den
+Dieb und Verräter an der
+Magiergilde ausgesetzt wurde.
+

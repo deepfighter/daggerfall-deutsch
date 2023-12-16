@@ -1,0 +1,90 @@
+Quest: N0C00Y12
+DisplayName: Koboldjagd
+QRC:
+
+QuestorOffer:  [1000]
+Ihr könnt mich _qgiver_ nennen.
+Normalerweise kann ich nur Gildenmitgliedern
+Arbeit geben. Aber einer meiner Schüler hat
+da ein kleines Problem, das sehr peinlich
+wäre, wenn es herauskäme. Ich kann Euch
+nicht bezahlen, aber wenn Ihr bereit wäret,
+bei etwas Risiko für Euch selbst ein entflohenes
+Experiment aufzuspüren, wäre ich Euch dankbar
+und würde bei anderen Gildenmitgliedern ein
+gutes Wort für Euch einzulegen.
+
+RefuseQuest:  [1001]
+Warum habt Ihr dann um Arbeit gebeten?
+Manchmal kann ich euch gewöhnliche
+Abenteurer einfach nicht verstehen.
+
+AcceptQuest:  [1002]
+Gut. Mein Schüler hält einen Hauskobold.
+Diese magischen Kreaturen sind nicht
+sonderlich gefährlich, aber es könnte
+möglicherweise peinlich für ihn werden.
+Unsere Kristallkugeln sagen, dass der
+Kobold nach ___mondung_ geflohen ist.
+Tötet das Ding und meldet Euch innerhalb
+von =1stparton_ Tagen bei mir zurück.
+
+QuestFail:  [1003]
+Ich habe heute morgen in die Zukunft geschaut.
+Der Kobold ist noch am Leben.
+ 
+Warum seid Ihr noch hier?
+
+QuestComplete:  [1004]
+Bin ich erleichtert! Ich schulde Euch
+einen kleinen Gefallen, %pcn.
+Ihr habt Euer Ansehen bei der
+Magiergilde verbessert.
+
+RumorsDuringQuest:  [1005]
+Ich hörte, dass neulich nachts irgendetwas aus dem Laboratorium der Magiergilde entkommen ist.
+<--->
+%oth, gerade sah ich eine kleine Gestalt in den Schatten schleichen.
+
+RumorsPostfailure:  [1006]
+Nun ja, es gibt da einen kleinen Skandal wegen der Laborsicherheit der Magiergilde.
+<--->
+Offenbar ist der Magiergilde wieder eines ihrer Experimente abhanden gekommen.
+
+RumorsPostsuccess:  [1007]
+Ich habe gehört, dass sie in den Laboren der Magiergilde Kobolde foltern!
+<--->
+Diese Kobolde haben einen unangenehmen
+Charakter. Das Haus von %nam wurde
+von Mäusen überschwemmt, nur weil er
+einen mit einem Besen verscheuchen wollte.
+<--->
+Ich hörte, ein Koboldfamiliar sei aus der
+Magiergilde ausgebrochen. Man sagt, dass
+ein Zauberer, der seinen Familiar verliert,
+für die Sprüche seiner Feinde verwundbar ist.
+
+QuestorPostsuccess:  [1008]
+Wie geht es Euch, %pcf? Keine Koboldprobleme mehr, hä?
+
+QuestorPostfailure:  [1009]
+Ich hatte Euch auf diesen Kobold angesetzt,
+wenn Ihr Euch erinnert. Ich sehe keinen
+Grund, noch einmal in den Wind zu reden.
+
+QuestLogEntry:  [1010]
+"Ich würde lieber sterben
+als ins Laboratorium der
+Magiergilde zurückzukehren!"
+
+Message:  1020
+%qdt:
+ Die Magiergilde von ___qgiver_
+ hat mich beauftragt, einen Kobold zu
+ finden, der aus ihrem Laboratorium
+ entkommen ist. Offenbar versteckt
+ er sich in ___mondung_.
+ Ich muss die Kreatur töten und
+ spätestens in =1stparton_ Tagen wieder
+ in ___qgiver_ sein.
+

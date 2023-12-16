@@ -1,0 +1,141 @@
+Quest: N0C00Y11
+DisplayName: Eine Zutat beschaffen
+QRC:
+
+QuestorOffer:  [1000]
+Ich bin _qgiver_.
+In der Regel werden nur Gildenmitglieder
+für Arbeit bezahlt werden. Ich habe hier
+trotzdem einen kleinen Auftrag, der
+erledigt werden muss. Wenn Ihr Euch der
+Sache unentgeltlich annehmen würdet,
+könnte ich bei der Gilde ein gutes Wort
+für Euch einlegen. Seid Ihr dazu bereit?
+<--->
+Ich bin _qgiver_.
+Gildenarbeit nur für Mitglieder.
+Ich hätte aber eine kleine Aufgabe,
+die sonst niemand erledigen will.
+Eine unserer eher exzentrischen
+Meisterinnen beharrt vehement darauf,
+dass wir ihr eine Probe _ingredient_
+bereitstellen. _ingredient_ ist uns
+aber gerade ausgegangen. Wenn Ihr mir
+ein wenig davon herbeischaffen könntet,
+wäre ich Euch sehr dankbar. Und Euer
+Ruf in der Gilde würde sich bestimmt
+verbessern.
+
+RefuseQuest:  [1001]
+Ich hätte es wissen müssen. Ich bin
+diese Unterhaltung leid,,%pcn.
+Guten Tag.
+
+AcceptQuest:  [1002]
+Hervorragende Einstellung, %pcf.
+Ich brauche eine kleine Menge _ingredient_.
+Das einzige Exemplar, von dem ich derzeit weiß,
+findet sich in ___dungeon_.
+Ihr habt =traveltime_ Tage, um es mir zu bringen.
+
+QuestComplete:  [1004]
+Ich habe schon bessere Proben gesehen.
+Habt ihr auf dem Rückweg die ganze Zeit
+darauf gesessen? Wie dem auch sei, es
+wird seinen Zweck erfüllen. Ich werde
+dafür sorgen, dass in den Gildenhallen
+nur gut von Euch gesprochen wird.
+
+RumorsDuringQuest:  [1005]
+Diese verrückte Magierin von der Gilde besteht darauf, dass es die besten Proben _ingredient_ in ___dungeon_ gibt.
+
+RumorsPostfailure:  [1006]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostsuccess:  [1007]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+QuestorPostsuccess:  [1008]
+Ich habe Euch nicht vergessen, %pcf. Ihr seid der %ra, der die Probe _ingredient_ beschafft hat.
+
+QuestorPostfailure:  [1009]
+Es war keine besonders schwierige Aufgabe,
+mit der ich Euch betreut hatte, %pcf.
+Einfach nur eine kleine Probe _ingredient_
+besorgen. Und Ihr habt es nicht geschafft.
+Warum sollte ich weiter in den Wind reden?
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich wurde damit beauftragt, eine Probe
+ _ingredient_ zu beschaffen, die
+ angeblich in ___dungeon_
+ verborgen sein soll. _qgiver_
+ von der Magiergilde von ___qgiver_
+ gab mir =traveltime_ Tage, um die Probe
+ zu beschaffen.
+
+Message:  1040
+Das muss die Probe _ingredient_ sein,
+die _qgiver_ Euch zu finden bat.
+
+Message:  1080
+Erlaubt mir, Euch als besonderen
+Dank der Magiergilde diese Karte
+nach ___newdung_ zu überreichen.
+Ich vermute, dass Leuten wie Euch
+über solchen Dingen das Wasser im
+Mund zusammenläuft.
+

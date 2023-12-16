@@ -1,0 +1,121 @@
+Quest: N0B20Y02
+DisplayName: Leibwache für eine Trance
+QRC:
+
+QuestorOffer:  [1000]
+Ich bin _qgiver_ und diene
+_sleepingmage_. Ich wurde
+beauftragt, Gildenmitglieder zu
+finden, die _sleepingmage_ beschützen,
+während %g sich in einer machtvollen
+Zaubertrance befindet. _sleepingmage_
+vermutet, dass ein Rivale Auftragsmörder
+entsenden könnte, die %g2 das Leben
+nehmen sollen, während %g hilflos ist.
+Wenn die Auftragsmörder aufgehalten wurden,
+wird %g Euch einen verzauberten Gegenstand
+[ _magicitem_] schenken. Werdet Ihr
+diese Aufgabe übernehmen?
+<--->
+Es ist eine große Ehre, %pcf,
+als Gehilfe von _sleepingmage_
+auserkoren zu werden, einer Berühmtheit,
+von der Ihr gewiss schon gehört habt.
+Ja, %g hat sich speziell nach Euch
+erkundigt, um %g2 Schutz zu bieten,
+während %g schläft. Offenkundig hat ein
+Magier von solchem Ansehen Feinde, die
+%g2 die Macht neiden. Sicherlich werdet
+Ihr diese Ehrung wahrnehmen?
+
+RefuseQuest:  [1001]
+Hmmm. Gildenmitglieder sind
+für gewöhnlich hilfsbereiter.
+Ich bin mir sicher, dass sich
+_sleepingmage_ daran
+erinnern wird.
+
+AcceptQuest:  [1002]
+Wie ich erwartet habe. _sleepingmage_
+beginnt gerade seine dreistündige Trance.
+Ihr müsst die Magiergilde in dieser Zeit
+bewachen und ihn beschützen, während er
+verwundbar ist. Am Ende seiner Meditation
+wird er in den Aetherius versetzt. Sobald
+er in Sicherheit ist, wird die Gilde jemanden
+mit Eurer Belohnung schicken.
+
+QuestComplete:  [1004]
+Eine junge Frau in tiefblauem
+Gewand verbeugt sich tief vor Euch.
+ 
+ "Die Gilde beglückwünscht Euch zu Eurer
+ erfolgreichen Arbeit. _sleepingmage_
+ ist sehr dankbar. Hier ist der magische
+ Gegenstand [_magicitem_], den %g
+ Euch versprochen hat."
+
+RumorsDuringQuest:  [1005]
+Irgendetwas ist _sleepingmage_ zugestoßen während %g geschlafen hat. Ich denke, dass %g tot sein könnte.
+<--->
+_sleepingmage_ ist verschwunden. Niemand weiß, ob %g tot oder noch am Leben ist.
+
+RumorsPostfailure:  [1006]
+_sleepingmage_ ist in ___sleepingmage_ eine Legende.
+<--->
+_sleepingmage_ ruht sich aus, seit er einen mächtigen Zauberspruch gewirkt hatte.
+
+RumorsPostsuccess:  [1007]
+_sleepingmage_ erwachte nach langem Schlaf und war wie neu geboren.
+<--->
+_sleepingmage_ wurde angegriffen, während %g schlief, wurde aber von einer Wache verteidigt.
+
+QuestorPostsuccess:  [1008]
+Bei dem, was Ihr für _sleepingmage_ getan habt, werde ich Euch natürlich mit Freuden helfen.
+
+QuestorPostfailure:  [1009]
+_sleepingmage_ ist verschwunden.
+Ihr hättet %g2 beistehen sollen, %pcf.
+Ich habe Euch nichts mehr zu sagen.
+Jedenfalls nichts Freundliches.
+
+QuestLogEntry:  [1010]
+%qdt
+ Ich habe mich bereiterklärt, _sleepingmage_
+ in der Magiergilde zu beschützen, während
+ %g sich in einer Trance befindet und wehrlos
+ ist. Ich muss _sleepingmage_ von jetzt an
+ 3 Stunden lang bewachen.
+
+Message:  1011
+Zur Seite, kleiner Lehrling!
+Wir sind hier, um _sleepingmage_
+zu erledigen, bevor %g aufwacht.
+Verschwindet oder Euch passiert
+dasselbe.
+
+Message:  1012
+Narr! Ihr hättet es besser wissen
+sollen als einen Magier in seiner
+Zaubertrance zu unterbrechen. Dafür
+werdet Ihr bezahlen! Verlasst diese
+Gildenhalle auf der Stelle! Ich werde
+diese Angelegenheit vor den Zirkel bringen.
+
+Message:  1013
+Wenn Ihr mich tötet, wird Euch die
+Magiergilde verstoßen! Verschwindet oder
+Ihr werdet die Konsequenzen tragen.
+
+Message:  1014
+Ich bin hier, um das Kopfgeld einzufordern,
+das wegen des Todes von _sleepingmage_
+auf diesen Eidbrecher an der Magiergilde
+ausgesetzt wurde.
+
+Message:  1030
+Alarmiert den Erzmagister! Dieser
+%ra hat _sleepingmage_ getötet!
+Verriegelt die Türen! Zu den Waffen,
+zu den Waffen!
+

@@ -1,0 +1,118 @@
+Quest: N0B00Y06
+DisplayName: Mumienbinden
+QRC:
+
+QuestorOffer:  [1000]
+%oth, gibt es etwas ärgerlicheres
+als festzustellen, dass die Mumienbandagen,
+die man für einen Trank nutzen wollte, allesamt
+diverse Grüntöne angenommen haben? Ich könnte
+natürlich die Gildenbandagen verwenden, aber die
+Rezeptur verlangt ausdrücklich nach "unübertrefflich
+frischen Mumienbandagen", was auch immer das heißt.
+Ich nehme ja nicht an, dass Ihr gewillt wäret, mir
+etwas Leinen von einer Mumie zu besorgen, die mehr
+Bandagen hat als sie gebrauchen kann?
+<--->
+Rezepturen sind eine dumme Sache, %pct.
+Ich arbeite an einer Formel, die nach einem
+"ansehnlichen Stück =mummy_" verlangt. Was ist
+ein =mummy_? Ein Kraut? Ein Mineral? Nun, ich
+habe Nachforschungen angestellt und herausgefunden,
+dass =mummy_ eine Mumie ist. Stellt Euch das vor!
+Und diese besondere Mumie ist genau hier in %reg
+zu finden. Ob ich Euch wohl bitten könnte, in dieses
+Grab einzudringen und mir für, sagen wir, _gold_ Goldstücke
+ein Stück von =mummy_ mitzubringen?
+
+RefuseQuest:  [1001]
+Oh, %oth. Ich weiß ja, dass
+es kein Abstecher zum hiesigen
+Handelshaus ist, aber ich hatte
+mir schon etwas mehr Enthusiasmus
+und Abenteuerlust erhofft.
+
+AcceptQuest:  [1002]
+Sehr schön, %pct. Ihr werdet Euch
+damit _gold_ Goldstücke verdienen.
+Die Grabstätte dieser Mumie ist nicht
+allzu weit entfernt, es sollte also
+nicht länger als =queston_ Tage brauchen,
+dorthin zu gelangen, zu holen, wofür Ihr
+gekommen seid und wieder zurückzukehren.
+Denkt daran, es muss frisch sein - am
+Besten direkt vom Leichnam. Der Name des
+Ortes ist ___mondung_ oder so
+ähnlich. Es wird dort ganz sicher schaurig
+sein. Ihr tätet vielleicht gut daran, ein
+Schwert oder etwas in der Art mitzunehmen.
+Nun, dann viel Glück, junger %ra.
+
+QuestComplete:  [1004]
+Das ist wirklich ein schönes Stück
+Mumienbinde. Besten Dank. Ich glaube,
+wir hatten uns auf _gold_ Goldstücke geeinigt?
+
+RumorsDuringQuest:  [1005]
+=mummy_ in ___mondung_ soll alles sein, was von einer alten Hoheit aus %reg noch übrig ist.
+<--->
+=mummy_ war angeblich %t im antiken %reg und zu bösartig, um zu sterben.
+
+RumorsPostfailure:  [1006]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostsuccess:  [1007]
+=mummy_s Herrschaft in %reg begann vor der Ersten Ära und endete mit Euch.
+<--->
+_qgiver_ kann nun dank =mummy_s Beitrag endlich den Trank vollenden.
+
+QuestorPostsuccess:  [1008]
+Wie geht es Euch, %pcf? Ich hoffe, dass Ihr nicht an Mumienfäule oder so erkrankt seid.
+
+QuestorPostfailure:  [1009]
+Ich hätte diese Bandagen gebraucht, %pcf.
+Es ist wirklich ärgerlich, etwas zu brauchen
+und nicht zu haben.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von der Magiergilde in
+ ___qgiver_ hat mich nach
+ _mondung_ geschickt, um einer
+ Mumie mit dem Namen =mummy_
+ ein paar Bandagen abzunehmen.
+ Ich habe =queston_ Tage, um diese
+ Aufgabe zu vollenden.
+
+Message:  1011
+Ihr nehmt die Bandagen
+die _qgiver_
+von =mummy_ wollte.
+
+

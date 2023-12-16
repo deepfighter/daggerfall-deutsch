@@ -1,0 +1,163 @@
+Quest: S0000503
+DisplayName: Der rebellische Magier, Teil 3
+QRC:
+
+Message:  1020
+%qdt:
+ Ich habe eine mysteriöse Einladung in
+ die Taverne [_tavern_] in __tavern_,
+ ____tavern_ erhalten, ich glaube
+ von meinem Freund Baltham Graumann.
+
+Message:  1021
+%qdt:
+ Ich habe zugestimmt, Baltham Graumann
+ dabei zu helfen, eine Karte nach
+ ___itemdung_ aus der
+ Magiergilde von __magesguild_
+ "sicherzustellen".
+
+Message:  1022
+%qdt:
+ Wir haben die Karte. Baltham Graumann
+ muss sich noch um eine andere Angelegenheit
+ kümmern, also werde ich ihn in =keytime_ Tagen
+ wieder in der Taverne [_tavern_] treffen.
+
+Message:  1023
+%qdt:
+ Wir haben die Karte. Ich habe angeboten,
+ nach ___keydung_  zu gehen, um
+ einen speziellen Schlüssel [_key_]
+ zu finden, den wir brauchen, um ___itemdung_
+ betreten zu können. Ich werde mich in
+ =keytime_ Tagen erneut in der Taverne
+ [_tavern_] mit Baltham treffen.
+
+Message:  1030
+Eine zerschlissene Karte nach ___itemdung_.
+
+Message:  1040
+Es ist gut, dass Ihr hergekommen seid.
+Ich habe ein neues Projekt, das Euch
+glaube ich interessieren wird. Es
+würde allerdings einen kleinen Überfall
+auf unsere Freunde von der Magiergilde
+einschließen. Was sagt Ihr?
+
+Message:  1041
+Wie Ihr wollt. Ich dachte nur,
+Ihr und ich wären Freunde.
+
+Message:  1042
+Ich wusste, Ihr würdet nicht widerstehen können!
+ 
+Hier ist der Plan: Ich suche nun schon seit
+geraumer Zeit nach der Lage von ___itemdung_,
+angeblich die letzte Bleibe für einen ganzen
+Hort magischer Gegenstände. Darunter ist
+auch ein Gegenstand, den ich für meine eigenen
+Zwecke benötige [_item_] - eine Geschichte
+für ein andermal. Der Punkt: Ich habe
+herausgefunden, dass die Magiergilde von
+__magesguild_ in den Besitz einer
+Karte gelangt ist, die uns nach ___itemdung_
+führen kann. Trotz meiner offiziellen
+Verbannung habe ich immer noch ein paar
+Freunde in der Gilde ... Die Gilde hat
+keine Ahnung, auf was sie da eigentlich
+sitzen, also liegt es an uns, die Karte zu
+befreien und zu ihrem vollen Potential
+einzusetzen.
+
+Message:  1043
+Ja, das ist die Karte!
+
+Message:  1044
+Baltham Graumann hebt seinen Stab.
+ 
+ "Hochgeschätzte Damen und Herren, leider
+ leider müssen wir Euch nun wirklich verlassen!"
+ 
+Eine Lichtkugel explodiert aus dem Stab heraus
+und blendet Euch für einen Augenblick.
+
+Message:  1045
+Ich denke, es wäre das Beste, wenn wir uns
+erstmal trennen und dieses Wespennest ein
+bisschen zur Ruhe kommen lassen. Ich muss
+mich noch um eine andere Sache kümmern,
+bevor wir ___itemdung_ betreten
+können ... es sei denn, Ihr wollt das
+für mich erledigen?
+
+Message:  1046
+Sehr schön. ___itemdung_ kann nicht ohne
+den Schlüssel [_key_] betreten werden,
+der sich, wie ich herausgefunden habe, irgendwo
+in ___keydung_ befindet.  Wenn Ihr den Schlüssel
+[_key_] gefunden habt, trefft mich in der Taverne
+[_tavern_] in __tavern_,
+sagen wir, in =keytime_ Tagen.
+
+Message:  1047
+Kein Problem. Ich brauche, sagen wir,
+=keytime_ Tage, um mich um diese Sache
+zu kümmern. Ich treffe Euch in __tavern_
+in der Taverne [_tavern_] wieder,
+sobald ich den Schlüssel zu ___itemdung_
+beschafft habe. Viel Glück!
+
+Message:  1050
+Das muss der magische Schlüssel [_key_]
+zu ___itemdung_ sein.
+
+Message:  1051
+Mit diesem magischen Schlüssel [_key_]
+in unserem Besitz sind wir endlich
+bereit, ___itemdung_ zu trotzen.
+ 
+Nach Euch!
+
+Message:  1052
+Eine dumpfe Stimme dröhnt:
+ 
+ "Eindringlinge sind hier nicht willkommen!"
+
+Message:  1053
+Ihr kommt zu spät, Baltham Graumann!
+Es war ein Leichtes, Euch hierher nach
+___itemdung_ zu folgen, nachdem
+Ihr den Schlüssel für mich gefunden hattet.
+Euer magischer Gegenstand [_item_]
+gehört jetzt mir, und nur mir!
+
+Message:  1054
+"Nun denn, %pcf, ein vergnüglicher kleiner Ausflug,
+nicht wahr? Ich werde den Gegenstand [ _item_]
+nehmen und mich auf den Weg machen."
+ 
+Gebt Ihr Baltham Graumann das Objekt [ _item_]?
+
+Message:  1055
+Bis zum nächsten Mal!
+
+Message:  1056
+Dann zeigt Ihr also Euer wahres Gesicht.
+Ich habe nur um ein kleines Ding gebeten,
+doch Eure Gier kennt scheinbar keine Grenzen. 
+
+Message:  1070
+Ein Schatten huscht über Euch hinweg.
+Über Euch kreist ein Rabe. Bevor er gen
+Westen verschwindet, krächzt er unfreundlich:
+  
+ "Keine Zeit! Keine Zeit!
+ _tavern_,
+ __tavern_,
+ ____tavern_!"
+
+Message:  1071
+%pcf, habt Ihr Euch verlaufen?
+Ich fürchte, ich muss Euch nun verlassen.
+
