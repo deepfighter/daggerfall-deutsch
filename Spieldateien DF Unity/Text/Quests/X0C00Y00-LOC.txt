@@ -1,0 +1,120 @@
+Quest: X0C00Y00
+DisplayName: Gnadenstoß
+QRC:
+
+QuestorOffer:  [1000]
+Wenn es Euch nichts ausmacht, mir eine
+kleinen Gefallen zu erweisen, könnte
+ich Eurem Besitz mit Hircines Ring
+eine ganz ausgezeichnete Belohnung
+hinzufügen. Ich habe ein Kind, das
+offensichtlich mit all meinen Segnungen
+unglücklich ist. Es braucht ... wie
+lautet der Euphemismus? ... eine Lektion!
+Eine sehr ernste Lektion. Klingt das
+für Euch nach einem annehmbaren Pakt,
+%pct?
+
+RefuseQuest:  [1001]
+Ich bin schwer enttäuscht %pct.
+<--->
+Selten werde ich beschworen und
+noch seltener bin ich in der Lage,
+eine Beschwörung auch zu beantworten.
+Das war, um es frei heraus zu sagen,
+eine Verschwendung meiner sehr
+kostbaren Zeit.
+
+AcceptQuest:  [1002]
+Ah, gut. Dieses mein Kind ist ein
+Wereber, der sein Lager an einem
+Ort, der ___mondung_ genannt
+wird, aufgeschlagen hat. Ihr solltet
+keine Schwierigkeiten haben, es
+zu finden. Nachdem Ihr ihn von
+seinem offensichtlichen Elend erlöst
+habt, was nicht länger als =1stparton_ Tage
+einnehmen sollte, geht Ihr nach einem
+__contact_ genannten Ort in
+___contact_ und sucht eine
+Person namens _contact_ auf.
+Wenn Ihr dort innerhalb der nächsten
+=1stparton_ Tage eintrefft, und vorher den
+Wereber erschlagen habt, wird %g Euch
+den Ring von Hircine aushändigen. Es ist
+wahrlich eine Freude, mit Euch Geschäfte
+zu machen, %pct.
+Viel Glück und lebt wohl.
+
+QuestFail:  [1003]
+Hört zu, %pcf,
+Ihr und ich, wir beide wissen, dass
+der Wereber noch atmet. Pakt ist Pakt!
+
+QuestComplete:  [1004]
+Willkommen, %pcf.
+Ihr habt es geschafft. Hircine
+ist von Euch beeindruckt, was
+keine geringe Leistung ist.
+Hier ist Hircines Ring, der
+Euch versprochen wurde.
+Achtet wohl darauf!
+
+RumorsDuringQuest:  [1005]
+Aus ___mondung_ %di von hier ertönt ein echt scheußliches Quieken und Grunzen.
+<--->
+Ich habe gehört, in ___mondung_ im %di würde sich irgendein verrücktes Halbschwein aufhalten.
+
+RumorsPostfailure:  [1006]
+Dieses Schweinsvieh, das hier war, ist in den Norden gerannt, als ob etwas hinter ihm her wäre.
+<--->
+Ich frage mich, was einen Wereber so erschrecken kann, dass er so wegläuft.
+
+RumorsPostsuccess:  [1007]
+In letzter Zeit ist es um ___mondung_ herum wirklich still.
+<--->
+Ich frage mich, was mit dem Schweinsvieh passiert ist, dass sich hier immer herumgetrieben hat.
+
+QuestorPostsuccess:  [1008]
+Error: x0c00y00.q tried to display text
+
+QuestorPostsuccess:  [1008]
+.
+
+QuestorPostfailure:  [1009]
+Error: x0c00y00.q tried to display text
+
+QuestorPostfailure:  [1009]
+.
+
+Message:  1011
+Der niederste der Daedrafürsten. Er ist ihr Meister der Jagd.
+<--->
+Es wird gesagt, Hircine sei der Schöpfer aller Lykanthropen.
+
+Message:  1012
+So ein sich seltsam aufführender =contact_ in __contact_ %di von hier.
+<--->
+Ein =contact_ mit diesem Namen war unlängst in  __contact_ %di von hier.
+
+Message:  1013
+Ich habe keine Ahnung, was Hircines Ring bewirkt.
+
+Message:  1020
+%qdt:
+ Als Gegenleistung für seinen Ring
+ hat mich der Daedrafürst Hircine
+ darum ersucht, einen Wereber in
+ ___mondung_ zu erlegen.
+ Der Wereber muss in =1stparton_ Tagen tot
+ und ich in in =1stparton_ Tagen zu
+ __contact_ in ___contact_
+ sein, um mich mit  _contact_,
+ eine, =contact_ zu treffen
+ und Hircines Ring zu erhalten.
+
+Message:  1030
+Der Wereber ist tot
+wie Ihr dem Daedrafürsten
+Hircine versprochen habt.
+

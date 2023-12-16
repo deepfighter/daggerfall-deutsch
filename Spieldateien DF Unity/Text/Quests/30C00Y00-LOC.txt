@@ -1,0 +1,111 @@
+Quest: 30C00Y00
+DisplayName: Hunger nach Macht
+QRC:
+
+QuestorOffer:  [1000]
+Machtgier frisst an Euren Eingeweiden. Ist es nicht
+so, %pcf? Ich kann es sehen. Verzeiht meine
+Direktheit, aber ich glaube Euch zu kennen. Ich
+spüre Eure Begierde als wäre es meine eigene. Ihr
+wollt herrschen - schon der Gedanke daran lässt
+Euch geifern wie ein hungriger Wolf. Ich kann
+Euch den Bauch füllen, aber zuerst muss ich etwas
+wissen: Würdet Ihr töten, um diese Leere zu füllen?
+
+RefuseQuest:  [1001]
+Nein?! Verspottet mich nicht, %pcf.
+Ihr lockt mich aus meinem finsteren Palast und
+meidet dann meine Gesellschaft. Wenn ich glauben
+könnte, Ihr wäret einfach nur grausam, so würde
+ich es respektieren. Aber ich hege den Verdacht,
+dass Ihr einfach nur töricht seid. Darum entbiete
+ich Euch einen zutiefst angewiderten Abschiedsgruß.
+
+AcceptQuest:  [1002]
+Wunderbar. Ihr solltet den Blick in Euren Augen
+sehen, %pcf. Ihr werdet mächtig sein, ich
+kann es in ihnen lesen. Nun, Euer Weg zur Macht
+führt über einen vampirischen Ältesten, namens
+=monster_, %g hat mein Missfallen erregt.
+Ihr sollt wissen, dass %g ein mächtiger Gegner
+ist und %g3 Zuflucht, ___mondung_, gut
+bewacht wird. Aber Ihr könnt und werdet %g2 töten.
+Wenn Ihr das getan habt, solltet Ihr zu meinem
+geschätzten Freund, _qgfriend_ drüben
+in  __qgfriend_ in ___qgfriend_ gehen.
+_qgfriend_ ist eine vielbeschäftigte Person.
+Lasst %g2 also nicht länger als =1stparton_ Tage warten.
+_qgfriend_ wird ein Geschenk für Euch haben,
+von dem ich glaube, dass es Euch sehr glücklich
+machen wird. Lebt wohl, %pcf.
+Wir werden uns wiedersehen. Ich weiß es.
+
+QuestFail:  [1003]
+Solange der Vampir-Älteste noch nicht tot ist,
+haben wir nichts zu bereden, %pcf.
+
+QuestComplete:  [1004]
+Hallo, %pcn. Ich bin _qgfriend_.
+Ihr seht ... gesättigt aus. Ich denke, der Mord
+hat dafür gesorgt. Gut, Ich hoffe, dies wird euch
+ebenso gefallen. Namira befahl mir, Euch ihren
+Ring zu geben. Legt ihn an und Ihr werdet die
+wahre Bedeutung von Hunger und Sättigung erfahren.
+Wenn Ihr darum wisst, dann kennt Ihr wahre Macht.
+Guten Tag, %pcf.
+
+RumorsDuringQuest:  [1005]
+Es gibt einen Vampir in ___mondung_, der so alt ist, dass er nicht einmal mehr Blut trinkt.
+<--->
+Man sagt, der Vampir in  ___mondung_ habe gelernt, seinen Blutdurst zu kontrollieren.
+
+RumorsPostfailure:  [1006]
+Der Vampir in ___mondung_ hat offenbar entschieden, dass es an der Zeit war, weiterzuziehen.
+<--->
+Ich schätze, der Vampir brauchte letzten Endes doch Blut. Aus irgendeinem Grund ist er davongezogen.
+
+RumorsPostsuccess:  [1007]
+Mir egal, ob der Vampir seinen Blutdurst bezwungen hat. Ich bin froh, dass er tot ist.
+<--->
+Der Stern von Namira schien letzte Nacht besonders hell. Immer hungrig, nie gesättigt.
+
+QuestorPostsuccess:  [1008]
+Error: Quest 30c00y00.q tried to display text
+
+QuestorPostsuccess:  [1008]
+
+
+QuestorPostfailure:  [1009]
+Error: Quest 30c00y00.q tried to display text
+
+QuestorPostfailure:  [1009]
+
+
+Message:  1011
+_qgfriend_ ist dieser =qgfriend_ drüben in  __qgfriend_, glaube ich. Ja, %di von hier.
+<--->
+_qgfriend_ ist der Name des =qgfriend_ in __qgfriend_. Schaut %di!
+
+Message:  1012
+_qgfriend_ ist ein Feinschmecker im Dienste Namiras, der Daedrafürstin des Hungers.
+<--->
+_qgfriend_ ist der Name eines der Gourmands im Dienste Namiras.
+
+Message:  1013
+Dem Träger des Ringes zugefügter Schmerz wird auf den Angreifer zurückgeworfen.
+
+Message:  1020
+%qdt:
+ Die Daedrafürstin Namira versprach mir ihren Ring,
+ wenn ich für sie in den nächsten =1stparton_ Tagen
+ den Vampir =monster_ töte.
+ Ihr Kontakt _qgfriend_ wird nicht länger
+ in __qgfriend_ zu ___qgfriend_
+ auf mich warten, ich darf mich also nicht verspäten.
+ Der Vampir hält sich vermutlich in ___mondung_ auf.
+
+Message:  1030
+=monster_ ist tot. Namiras Hunger
+wurde gestillt; nun befriedigt Euer eigenes
+Verlangen und berichtet _qgfriend_.
+

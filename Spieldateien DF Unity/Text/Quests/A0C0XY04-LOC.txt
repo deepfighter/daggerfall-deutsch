@@ -1,0 +1,142 @@
+Quest: A0C0XY04
+DisplayName: 
+QRC:
+
+QuestorOffer:  [1000]
+My name is _agent_. I
+ represent a someone that needs
+ to ... acquire something. Whoever
+ delivers it will be rewarded
+ with _artifact_. I
+ don't know what that is, but I
+ am told it is an item of power.
+ Are you willing?
+
+RefuseQuest:  [1001]
+Forget you ever saw me. I have
+ powerful friends. If you cause
+ me any trouble, they will hunt
+ you down like a rogue thief.
+
+AcceptQuest:  [1002]
+You must get the daedric
+ _ingredient_ from ___dungeon_.
+ I don't know where that is, but
+ I'm sure you can find it.
+ When you have the daedric
+ _ingredient_ bring it to
+ _meetingplace_ here in town.
+ There you will meet _qgiver_,
+ and %g will give you the _artifact_.
+
+RumorsDuringQuest:  [1005]
+I hear the king is making an
+ important announcement next week.
+
+RumorsPostfailure:  [1006]
+Some poor fool went into ___dungeon_.
+ I hear the place is full of demons.
+
+RumorsPostsuccess:  [1007]
+Stay away from _qgiver_. I
+ hear %g is a liar and a cheat.
+
+QuestorPostsuccess:  [1008]
+Sorry about the incident with _qgiver_.
+ I suppose I ought to help you just to
+ make up for it.
+
+QuestorPostfailure:  [1009]
+That business with _qgiver_ wasn't
+ my fault. I'm not about to get mixed
+ up with you now, so just leave me alone.
+
+QuestLogEntry:  [1010]
+On %qdt,
+ I met with _agent_ of ___agent_.
+ %g told me that a mysterious client of
+ %g3 was looking for daedric _ingredient_.
+ If I can find it, I will get the _artifact_.
+ The daedric _ingredient_ is somewhere
+ in ___dungeon_.  When I find it, I am
+ to meet a _qgiver_ at
+ _meetingplace_ here in __meetingplace_.
+
+Message:  1011
+On %qdt,
+ the guardian of the daedric _ingredient_
+ told me that _agent_'s mysterious
+ client doesn't even have the _artifact_.
+ If I hand over the daedric _ingredient_,
+ death will be my only reward. The guardian
+ gave me a magical token that will render
+ _qgiver_ helpless.
+
+Message:  1012
+I will fight you to the death to protect
+ the daedric _ingredient_. You should
+ know that _qgiver_ is not what %g
+ seems. The _artifact_ is a long lost
+ item of great power that %g has never
+ owned. %g means to kill you once %g
+ has possession of the daedric
+ _ingredient_. Cease this futile
+ attack and I will give you a magical
+ token that can render _qgiver_
+ helpless. If you kill %g2, I can see
+ to it that the Mages Guild looks
+ favorably upon you for quite some
+ time. Do you accept my offer?
+
+Message:  1013
+Fool! Did you really think
+ that I would give you the
+ _artifact_ for this
+ daedric _ingredient_? The only
+ reward I have for you is
+ death! See me as I really
+ am and tremble in fear. I
+ am =orc_. Kill him!
+
+Message:  1014
+Wha ... I have been betrayed!
+ You have broken the illusion
+ and cast a spell of silence
+ on me. That cursed _guardian_
+ =guardian_ put you up to this,
+ didn't %g? To arms!  Help me!
+ To arms!
+
+Message:  1015
+In your mind, you hear the
+ soft whisper of an alien
+ voice, "Well done,
+ %pcn. Slaying
+ _qgiver_, or =monster_
+ as %g is known to %g3 own
+ people, has earned you a
+ reward. Members of the
+ Mage's Guild now trust you
+ far more than before."
+
+Message:  1020
+You have a truly devious
+ mind. I admire that. But
+ you should know that I am
+ not to be trifled with.
+ I take back my token and
+ curse you to be mistrusted
+ by my closest allies.
+
+Message:  1025
+The Chrysamere is an ancient artifact of great power.
+<--->
+It is a legendary magical artifact.
+
+Message:  1030
+Take this token then.
+
+Message:  1035
+Prepare to die!
+<--->
+

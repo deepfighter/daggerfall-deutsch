@@ -1,0 +1,154 @@
+Quest: U0C00Y00
+DisplayName: Wohltätiger Esel
+QRC:
+
+QuestorOffer:  [1000]
+Macht, ha! Würde denn ein durch Mundus kriechender
+%ra etwas mit wahrer Macht anzufangen
+wissen? Ihr meint, dass Ihr noch ein paar andere
+Sterbliche herumstoßen möchtet, nicht wahr? Nun,
+das lässt sich bewerkstelligen. Beweist mir, dass
+ihr den Mut habt, auch wirklich zu gebrauchen
+was ich Euch gewähre.
+ 
+Werdet Ihr jemanden für mich töten?
+
+RefuseQuest:  [1001]
+Pah, Ihr macht mich krank. Beschwört mich
+nicht wieder, %pcf, bis
+Ihr erwachsen seid oder einen Kampf sucht.
+
+AcceptQuest:  [1002]
+Gut, das ist zumindest ein Schritt in die
+richtige Richtung. Der Magierkrieger, den ich
+im Sinn habe, damit Ihr ihn um der Macht willen
+töten könnt ist =monster_, ein wirklich
+bezaubernder und barmherziger Arsch, der mich
+seit Jahren zur Hölle ärgert. Ihr werdet %g2
+in %g3 Festung finden, einem ___mondung_
+genannten Ort. Aber glaubt nicht, dass
+=monster_ nicht kämpfen kann, nur weil %g
+so feine Manieren hat. Ich möchte Euch schon
+in bisschen für mein Geschenk arbeiten lassen.
+Nach dem Mord solltet Ihr _qgfriend_
+treffen, meinen Agenten, der sich in __qgfriend_
+in ___qgfriend_ herumtreibt. Sucht dort
+einfach nach einem =qgfriend_. Und lasst %g2
+nicht warten. Ich werde %g2 sagen, dass Ihr in =1stparton_ Tagen
+eintrefft. Das ist mehr als genug Zeit. Ich beobachte Euch.
+
+QuestFail:  [1003]
+Geht weiter, %ra. Wir
+haben nichts zu bereden.
+
+QuestComplete:  [1004]
+Ihr seid also %pcn. Hmm,
+Ihr seid gar nicht so kümmerlich wie
+Boethiah meinte. Nehmt das als
+Anerkennung. Und nehmt auch das hier.
+Boethiah hat die Ebenerzrüstung selbst
+erschaffen. Sie glaubt, das Artefakt würde
+Euch bei Eurer Suche nach Macht helfen.
+Sie hat Interesse an Euch, soviel ist sicher.
+Ich habe es an ihrem Lächeln gesehen,
+als sie Euch ''kümmerlich'' nannte.
+
+RumorsDuringQuest:  [1005]
+Bei der nächsten Bürgermeisterwahl werde ich für =monster_ abstimmen.
+<--->
+Was für eine liebenswürdige, freundliche und großzügige Person =monster_ doch ist. Eine echte Bereicherung für %reg.
+
+RumorsPostfailure:  [1006]
+Wer in Tamriel würde =monster_ ermorden lassen wollen? Dankt %god, dass %g überlebt hat.
+<--->
+=monster_ hatte einen Zusammenstoß mit einem Assassinen. Zum Glück war dieser Assassine unfähig.
+
+RumorsPostsuccess:  [1007]
+Es ist eine Tragödie für ganz %reg. Welches Monster würde =monster_ töten?
+<--->
+%oth, ich kann nicht glauben, dass =monster_ tot ist. Was für ein tragischer, entsetzlicher Verlust.
+
+QuestorPostsuccess:  [1008]
+Error: u0c00y00.q tried to display text
+
+QuestorPostsuccess:  [1008]
+.
+
+QuestorPostfailure:  [1009]
+Error: u0c00y00.q tried to display text
+
+QuestorPostfailure:  [1009]
+.
+
+Message:  1011
+_qgfriend_ ist der Name dieses grobschlächtigen =qgfriend_ drüben in __qgfriend_.
+<--->
+So heißt dieser Schläger %di in __qgfriend_.
+
+Message:  1012
+_qgfriend_ ist ein Agent der Daedrafürstin Boethiah in Tamriel.
+<--->
+_qgfriend_ ist ein gemeiner Schläger, und arbeitet für die Daedrafürstin Boethiah.
+
+Message:  1013
+Boethiah ist die Daedrafürstin der Grausamkeit und Folter. Keine nette Dame.
+<--->
+Sie ist eine Fürstin im Reich des Vergessens, gehört zu den daedrischen Regenten und ist wirklich tödlich.
+
+Message:  1014
+Die Ebenerzrüstung schützt den Träger vor vielen Arten von Gefahr,
+Feuer und Lebensentzug sind dabei die bekanntesten.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich habe einen Pakt mit Boethiah geschlossen,
+ einen Magierkrieger namens =monster_ in
+ %g3 Festung ___mondung_ zu töten.
+ Dafür werde ich ihr Artefakt, die Ebenerzrüstung,
+ erhalten. Ich habe =1stparton_ Tage Zeit, um den
+ Magierkrieger zu beseitigen und Boethiahs Kontakt
+ _qgfriend_ zu __qgfriend_ in ___qgfriend_ zu treffen.
+
+Message:  1030
+Ihr habt Euren Teil der Abmachung mit
+Boethiah eingehalten. =monster_ ist tot.
+
+Message:  1040
+=monster_:
+ 
+     verlasst ___mondung_ sofort!
+ Ich habe erfahren, dass es Boethiah eingefädelt
+ hat, Euch töten zu lassen. Wir können uns bei
+ anderer Gelegenheiten über Euer leichtsinniges
+ Verhalten unterreden, aber vorerst solltet Ihr
+ zu unserem üblichen Treffpunkt begeben. Wenn
+ ich alle Vorbereitungen abgeschlossen habe, aus
+ %reg zu verschwinden, werde ich Euch
+ selbst dort aufsuchen.
+ 
+ Passt auf Euch auf,
+ 
+<ce>_mfriend_
+<ce>___mfriend_
+
+Message:  1041
+Wie seid Ihr hier hereingekommen?
+%oth! Ich wusste, dass
+=monster_ mich eines Tages
+töten würde. Hört zu, da %g mein
+Leben offenbar kaum genug schätzt,
+um nicht meinen Brief herumliegen
+zu lassen, ist %g es auch nicht
+wert, länger von mir beschützt zu werden.
+Ihr könnt %g2 in ___hideout_
+finden. %g geht mich nichts mehr an.
+
+Message:  1042
+%qdt:
+ =monster_ ist mir in
+ ___mondung_ entwischt,
+ aber ich weiß jetzt, dass
+ %g sich in ___hideout_
+ versteckt. %g wird mir kein
+ zweites Mal davonkommen.
+

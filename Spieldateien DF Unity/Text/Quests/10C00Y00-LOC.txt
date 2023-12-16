@@ -1,0 +1,103 @@
+Quest: 10C00Y00
+DisplayName: Unhöfliches Benehmen
+QRC:
+
+QuestorOffer:  [1000]
+Oh ja, Schätzchen, ich glaube, ich kann Euren Ehrgeiz
+zufriedenstellen. Würdet Ihr wohl etwas für mich tun,
+wenn ich Euch dafür etwas sehr Wertvolles gebe?
+
+RefuseQuest:  [1001]
+Oh, das ist aber schade. Eine freundliche Warnung:
+%ra-Abenteurern, die immer gern nehmen,
+aber nie geben, passieren schlimme Dinge.
+ 
+
+AcceptQuest:  [1002]
+Das würdet Ihr? Oh, wie reizend! Viel reizender als eine
+bestimmte Bekanntschaft von mir ... =monster_
+hat zuerst ein gewisses Arrangement mit mir getroffen und
+es sich dann anders überlegt! Wenn Ihr so freundlich seid,
+=monster_ einen Besuch abzustatten und daran zu
+erinnern, dass ein so unhöfliches Benehmen tödlich ist?
+Sucht anschließend _qgfriend_ auf.
+Man wird =1stparton_ Tage an einem Ort [__qgfriend_]
+in ___qgfriend_ auf Euch warten und Euch bei Eurer
+Ankunft meinen Ring der Khajiiti überreichen.
+Genau das, was Ihr haben wollt. Und jetzt geht.
+Seid vorsichtig!
+
+QuestFail:  [1003]
+Ihr wollt Euch doch nicht für Meridias Freundschaft
+revanchieren, indem Ihr mir erzählt, Ihr hättet
+=monster_ erschlagen? Wo wir doch beide wissen,
+dass dem nicht so ist? Das will ich nicht hoffen.
+
+QuestComplete:  [1004]
+%pcn? Ich bin _qgfriend_. Ich glaube,
+Ihr sucht nach mir. Ich habe hier wie von Meridia
+versprochen den Ring der Khajiiti. Meridia ist sehr
+beindruckt, weil Ihr Euren Teil des Vertrages erfüllt habt.
+
+RumorsDuringQuest:  [1005]
+Der Zauberer in ___mondung_ ist ein berüchtigter Sammler von seltsamen Artefakten.
+<--->
+Ich hörte, dass =monster_ mit Geistern paktiert, um die Sammlung zu erweitern.
+
+RumorsPostfailure:  [1006]
+Dieser sammelwütige Zauberer hat ___mondung_ verlassen. Vermutlich, um noch mehr Zeug zu sammeln.
+<--->
+Dieser =qgfriend_ _qgfriend_ hat seine Sammlung verlassen und murmelte noch etwas über verlogene Abenteurer.
+
+RumorsPostsuccess:  [1007]
+Es heißt, ein Monster aus der Sammlung von =monster_ habe sich erhoben und =monster_ getötet.
+<--->
+=monster_ wurde wohl von jemandem getötet, der ein Auge auf die ausgedehnte Sammlung geworfen hatte.
+
+QuestorPostsuccess:  [1008]
+Error: Tried to call questtext 1008. Whoopsy!
+
+QuestorPostfailure:  [1009]
+Error: Tried to call questtext 1009. Ye Gods!
+
+Message:  1011
+_qgfriend_? Könnte man als sich als =qgfriend_ beschreiben. In dem Komplex [__qgfriend_] gleich %di'lich von hier.
+<--->
+_qgfriend_ lässt sich als =qgfriend_ beschreiben. In dem Gebäude [__qgfriend_] %di'lich von hier.
+
+Message:  1012
+_qgfriend_ gehört zu Meridias Sammlern in %reg. Ganz bezaubernd, wie %g sein soll.
+<--->
+_qgfriend_ dient Meridia, der Daedrafürstin der Gier.
+
+Message:  1013
+Meridia ist eine daedrische Regentin und Sammlerin menschlicher Exemplare.
+<--->
+Meridia ist so etwas wie eine aktive Daedrafürstin und unerbittlich in ihrer Habsucht.
+
+Message:  1014
+Der Ring ist uralt und mächtig. Angeblich kann er
+seinen Träger unsichtbar, lautlos und schnell wie
+der Wind machen.
+
+Message:  1020
+%qdt:
+ Ich habe =1stparton_ Tage, um einen _monster_
+ namens =monster_ zu finden und zu töten.
+ Dann soll ich mich in ___qgfriend_ einfinden,
+ um jemanden namens _qgfriend_ (mir als =qgfriend_
+ beschrieben) zu treffen und den Ring der Khajiiti
+ zu empfangen, das von Meridia versprochene Artefakt.
+ Ich weiß, dass sich =monster_ in ___mondung_
+ und _qgfriend_ in ___qgfriend_ aufhält.
+
+Message:  1030
+=monster_ liegt tot zu Euren Füßen.
+Fürstin Meridia schuldet Euch nun etwas.
+
+Message:  1040
+Meridia schickt also ihre Lakaien gegen mich aus.
+Aber auch ich habe meine Verbündeten! Zeigt Euch,
+Kinder des Vergessens! Dient =monster_
+in dieser Stunde der Not!
+

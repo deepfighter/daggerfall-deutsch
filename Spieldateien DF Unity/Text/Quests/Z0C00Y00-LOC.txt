@@ -1,0 +1,138 @@
+Quest: Z0C00Y00
+DisplayName: Lästiger Würdenträger
+QRC:
+
+QuestorOffer:  [1000]
+Ich hätte wissen müssen, dass Ihr es seid.
+Ich sollte auf diese Beschwörungen gar nicht
+antworten. Nun, vielleicht ist es für eine
+Larve nur natürlich, wenn er sich zu einer
+Wespe entwickeln will. Sehr gut, %pcf,
+ich werde Euch Macht gewähren, aber zuerst
+müsst Ihr etwas für mich tun. Ich brauche
+jemanden, der ein Attentat auf einen
+gewissen lästigen niederen Adligen verübt.
+Kann ich dabei auf Euch setzen?
+
+RefuseQuest:  [1001]
+Das ist auch gut. Ich habe besseres mit
+meiner Zeit anzufangen als undankbaren,
+faulen Straßenkindern eine Machtbasis
+zu errichten.
+
+AcceptQuest:  [1002]
+Nun, das ist doch in jedem Fall schon etwas.
+Ihr könnt diesen lästigen Würdenträger
+_enemy_ in __palace_
+vorfinden, sicher und behaglich in seiner
+Residenz, wie er glaubt. Ich weiß nicht,
+wie Ihr Euch Einlass verschaffen werdet,
+aber vielleicht fällt Euch ja etwas ein.
+Vielleicht. Wenn es Euch gelingt, Euch
+nicht selbst zu töten, so geht nach
+___qgfriend_ und ich werde
+es einzurichten wissen, dass ein Diener
+Euch Eure neue Quelle der Macht, die
+Ebenerzklinge, überbringt. Ich werde
+meinen Diener _qgfriend_
+bitten =1stparton_ Tage in __qgfriend_
+zu warten. Verspätet Euch bitte nicht.
+Das ist alles.
+
+QuestFail:  [1003]
+Nein, nein, nein, nein! Ihr tötet
+erst den Ritter in __palace_,
+und dann kommt Ihr zu mir.
+%oth, Mephala hatte recht.
+
+QuestComplete:  [1004]
+Guten Tag, %pcf,
+Ich bin _qgfriend_.
+<--->
+Mephala hat mir gesagt, dass Ihr kommen könnt,
+aber sie äußerte gewisse Zweifel daran, ob
+Ihr die Begegnung mit _enemy_
+überleben würdet. Nun, dann ist es ja eine
+feine Sache, dass ich die Klinge mitgebracht
+habe, meint Ihr nicht? Entschuldigt, wenn
+Mephala etwas weniger freundlich zu Euch
+gesprochen hat. Da _enemy_ jetzt
+tot ist, sollte sie viel besserer Stimmung
+sein. Und schon allein dafür danke ich Euch.
+
+RumorsDuringQuest:  [1005]
+_enemy_ sagt, %g könne %g3 Weg zum Hauptquartier der Dunklen Bruderschaft finden.
+<--->
+Die Dunkle Bruderschaft muss doch zittern, da _enemy_ nun gegen sie vorgeht.
+
+RumorsPostfailure:  [1006]
+Die Dunkle Bruderschaft hat jemanden geschickt, um _enemy_ zu töten, aber %g ist noch am Leben!
+<--->
+Nach dem fehlgeschlagenen Attentat auf %g ist _enemy_ aus __palace_ ausgezogen.
+
+RumorsPostsuccess:  [1007]
+_enemy_ muss zu nahe dran gewesen sein, die Nachtseitenzuflucht der Dunklen Bruderschaft zu finden.
+<--->
+Ich vermute, die Dunkle Bruderschaft hat von _enemy_ und %g3 Absichten gehört.
+
+QuestorPostsuccess:  [1008]
+Error z0c00y00.q tried to display text
+
+QuestorPostsuccess:  [1008]
+.
+
+QuestorPostfailure:  [1009]
+Error z0c00y00.q tried to display text
+
+QuestorPostfailure:  [1009]
+.
+
+Message:  1011
+_qgfriend_ ist dieser selbstherrliche =qgfriend_ , %g in __qgfriend_ verkommt, %di von hier.
+<--->
+_qgfriend_ ist der Name dieses =qgfriend_ %di von hier in __qgfriend_.
+
+Message:  1012
+_qgfriend_ ist einer von Mephalas Agenten in %reg und agiert von __qgfriend_ aus.
+<--->
+_qgfriend_  ist eine Schachfigur von Mephala: %g ist ein =qgfriend_ in __qgfriend_.
+
+Message:  1013
+Mephala ist die daedrische Regentin des Mordes und Schutzherrin der Dunklen Bruderschaft.
+<--->
+Mephala gehört zu den Fürsten im Reich des Vergessens; ihre Sphäre ist der Mord.
+
+Message:  1014
+Die Ebenerzklinge ist ein Artefakt mit vampirischer Macht; sie entzieht
+dem Opfer Lebenskraft und überträgt sie auf ihren Besitzer.
+
+Message:  1020
+%qdt:
+ Ich habe einen Pakt mit Mephala geschlossen,
+ einer der Daedrafürsten. Ich werde einen
+ Würdenträger namens _enemy_
+ töten, wofür sie mir ihr Artefakt, die
+ Ebenerzklinge, gewährt. Ihre Kontaktperson
+ _qgfriend_ wird =1stparton_ Tage lang in
+ __qgfriend_ in ___qgfriend_
+ auf mich warten. Die einzige weitere
+ Erschwernis besteht darin, dass sich
+ _enemy_, wie Mephala verriet,
+ hinter den Mauern von __palace_
+ versteckt. Es könnte schwierig werden,
+ %g2 zu erreichen.
+
+Message:  1030
+Mephala wäre stolz;
+_enemy_ ist tot.
+Zeit, dass Ihr verschwindet.
+
+Message:  1040
+Wer seid Ihr, und was macht Ihr hier drin?
+
+Message:  1041
+Ihr herumschleichenden Assassinen seid doch alle
+gleich. Darum habe ich mir einen wirksamen Schutz
+besorgt. =bodyguard_! Aufwachen, Schweinebacke,
+und bringt ihn um!
+

@@ -1,0 +1,112 @@
+Quest: Y0C00Y00
+DisplayName: Frostatronachenfleisch
+QRC:
+
+QuestorOffer:  [1000]
+Ihr wollt also Macht? Ja, viele
+begehren Macht, ja, aber so wenige
+wissen warum. Wollt Ihr Mehrunes' Klinge?
+Ist was ganz besonderes, diese Klinge.
+Sehr schön, ja, ja. Macht nur eine Sache
+für mich und Ihr habt sie, mmmmh.
+Ein Kind hab' ich, dass bestraft gehört,
+ja. Ihr werdet das für die hübsche,
+hübsche Klinge des Mehrunes tun, ja?
+
+RefuseQuest:  [1001]
+Dreck! %g Sterblichwesen sagt nein zu Mehrunes
+Dagon! %g Sterblichwesen soll wissen, dass Zeit
+für Dagon keine Rolle spielt, er denkt an
+Beleidigungen, ja. Dunkel ist zu schwarz für
+das Sterblichwesen, nein, ich ... werde ... das
+nicht ... vergessen, %pcn.
+
+AcceptQuest:  [1002]
+Mmm, Sterblichwesen ist tapfer, gut, gut.
+Jetzt auf nach ___mondung_,
+tötet den Frostatronach da, er hält sich
+für sicher, ha, wir schlachten das
+Frostfleisch immer und überall! Tötet
+es und geht nach _contact_
+zu einem =contact_ in
+__tavern_. Hat Mehrunes' gute,
+gute Klinge für Euch. Tötet den Frostatronach
+und besucht _contact_ vor
+=1stparton_ Mundalnächten. zur Neige gehen. Geht
+jetzt, %pcn. Dagon wartet.
+
+QuestFail:  [1003]
+Hallo, %pcn, will ich hoffen?
+Ich bin _contact_. Ein kurzer
+Ratschlag, wenn Ihr erlaubt: Mehrunes Dagon
+mag wie eine geistlose Kröte wirken, er ist
+aber keine. Er weiß, dass der Frostatronach
+noch nicht tot ist, und Ihr tätet gut daran,
+Euren Pakt mit ihm zu erfüllen.
+
+QuestComplete:  [1004]
+Ah, Ihr seid %pcn, ja?
+Ich bin _contact_. Ich weiß,
+dass Ihr erfolgreich eines von Mehrunes
+Dagons entlaufenen Kindern zurechtgewiesen
+habt. Ausgezeichnet. Nun, hier ist wie
+versprochen Mehrunes' Klinge. Genießt
+diese Waffe. Ich glaube nicht, dass wir
+uns noch einmal begegnen. Lebt wohl.
+
+RumorsDuringQuest:  [1005]
+Kalte Winde wehen aus Richtung ___mondung_ herüber.
+<--->
+Es ist in letzter Zeit kälter geworden.
+
+RumorsPostfailure:  [1006]
+=contact_ ist hier durchgekommen und hat wie verrückt irgendwas über einen %ra-Abenteurer herumgeschrien.
+<--->
+Die Sterne von Mehrunes Dagon funkeln heute Nacht.
+
+RumorsPostsuccess:  [1007]
+Es ist spürbar wärmer als in den letzten Tagen.
+<--->
+Das Wetter ist nicht mehr so beißend kalt wie es letztens war.
+
+QuestorPostsuccess:  [1008]
+Error: y0c00y00.q tried to display text
+
+QuestorPostsuccess:  [1008]
+.
+
+QuestorPostfailure:  [1009]
+Error: y0c00y00.q tried to display text
+
+QuestorPostfailure:  [1009]
+.
+
+Message:  1011
+Mehrunes Dagon ist der Fürst der Zerstörung, der gewalttätigste aller Daedra.
+<--->
+Dagon erscheint wie ein tumber Wüstling, aber er ist wirklich ziemlich gerissen.
+
+Message:  1012
+_contact_ ist ein echt gruseliger =contact_. Ich sah %g2 in _tavern_.
+<--->
+%di von hier ist ein Ort, der _tavern_ genannt wird. Schaut mal dort.
+
+Message:  1013
+Ich habe keine Ahnung, was Mehrunes' Klinge bewirkt.
+
+Message:  1020
+%qdt:
+ Der daedrische Fürst Mehrunes Dagon
+ wünscht, dass ich einen Frostatronach
+ in ___mondung_ töte.
+ Nach seiner Vernichtung habe ich =1stparton_ Tage,
+ um _contact_ zu treffen
+ und Mehrunes' Klinge als Belohnung für
+ die Zerstörung des Frostatronachen in
+ seinem Namen zu erhalten. %g wird in
+ _tavern_ in __tavern_
+ auf mich warten.
+
+Message:  1030
+Dagons Beute kehrt ins Reich des Vergessens zurück.
+

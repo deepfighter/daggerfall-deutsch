@@ -1,0 +1,116 @@
+Quest: 70C00Y00
+DisplayName: Mönchischer Frömmler
+QRC:
+
+QuestorOffer:  [1000]
+Macht ist so ein schönes Wort, nicht wahr?
+Es fließt wie Honig von der Zunge. Wenn
+Macht Euer Aphrodisiakum ist, wäre ich
+ganz entzückt, Euch Sanguines Rose zu schenken.
+Ihr müsst für mich nur einen ganz furchtbaren
+Priester bestrafen, der es gewagt hat, mich
+herauszufordern. Klingt das gut für Euch?
+ 
+
+RefuseQuest:  [1001]
+Die Pocken über Euch, %pcn!
+Wie könnt Ihr es wagen, mich heraufzubeschwören
+und dann mein großzügiges Angebot auszuschlagen?
+Betet, dass ich Euch vergeben werde,
+%pcf. Sanguine ist
+niemand, den man zum Feind haben sollte.
+
+AcceptQuest:  [1002]
+Ihr werdet es nicht bereuen, %pcf,
+vorausgesetzt, Ihr erfüllt Euren Teil
+der Abmachung. Dieser frömmlerische
+Mönch ist nicht harmlos; %g3 Name ist
+=monster_ und %g hat meine
+geliebten Anhänger in Asche verwandelt.
+Geht zu dem verlassenen Tempel  ___mondung_,
+wo %g herumlungert und reißt %g2 das Herz
+aus %g3 Brust. Mein Agent _contact_
+wird Euch in ___contact_ erwarten.
+_contact_ verweilt aber nur ungern, also
+begeht den Mord in =1stparton_ oder weniger
+Tagen. Ich habe das köstliche Gefühl, dass
+wir uns wiedersehen werden, %pcf.
+Ich hoffe es.
+ 
+
+QuestFail:  [1003]
+Dieser frömmelnde Reaktionär ist
+noch am Leben und Ihr wisst das,
+%pcf. Spielt mit Sanguine
+keine Spielchen, %pct.
+Die Regeln würden Euch nicht gefallen.
+
+QuestComplete:  [1004]
+Freut mich, Eure Bekanntschaft zu machen,
+%pcn. Ich bin _contact_.
+Sanguine muss von Euch wirklich hingerissen
+sein. Er hat die Rose für seine
+Lieblingsschüler zurückgelegt.
+Und nun ist sie Euer. Ich hoffe,
+Ihr werdet sie ausgiebig genießen.
+
+RumorsDuringQuest:  [1005]
+All die Orgien, die hier stattzufinden pflegten, wurden von =monster_ unterdrückt.
+<--->
+Es gibt nicht viel zu tun, seit =monster_ seine Fackel an die Orgien gehalten hat.
+
+RumorsPostfailure:  [1006]
+=monster_ ist weitergezogen - %g sucht nach Schlupfwinkeln der Dekadenz im Norden.
+<--->
+Jeder hat Angst davor, überhaupt noch etwas Vergnügliches zu tun, wenn Leute wie =monster_ in der Nähe sind.
+
+RumorsPostsuccess:  [1007]
+Viele Leute freuen sich über den Tod von =monster_. Genau das, was %g3 Sorte verdient.
+<--->
+Die Orgien haben wieder eingesetzt, nun da =monster_ von der Bildfläche verschwunden ist.
+
+QuestorPostsuccess:  [1008]
+Error: Quest 70c00y00.q tried to display text
+
+QuestorPostsuccess:  [1008]
+
+
+QuestorPostfailure:  [1009]
+Error: Quest 70c00y00.q tried to display text
+
+QuestorPostfailure:  [1009]
+
+
+Message:  1011
+Sanguine ist der Daedrafürst der Lust. "Stets im Exzess" ist sein Motto.
+<--->
+Der Daedrafürst der Perversion und unnatürlichen sexuellen Verbindungen, natürlich.
+
+Message:  1012
+Nur ein schielender =contact_ %di von hier in __contact_.
+<--->
+_contact_ ist der Name eines nichtsnutzigen =contact_ in __contact_.
+
+Message:  1014
+Sanguines Rose beschwört einen Daedra, der für Euch kämpft. Im besten Fall ist das noch ein riskantes Unterfangen.
+<--->
+Der Besitzer von Sanguines Rose soll die Macht haben, Hilfe aus dem Reich des Vergessens zu beschwören.
+
+Message:  1015
+=monster_ ist tot.
+Ihr hofft, dass sich
+Sanguine darüber
+ekstatisch freut.
+
+Message:  1020
+%qdt:
+ Sanguine will, dass ich einen Mönch
+ namens =monster_  als
+ Gegenleistung für seine Rose töte.
+ Der Mönch ist in ___mondung_
+ und muss in =1stparton_ oder weniger Tagen
+ tot sein. Ich habe dann =1stparton_ Tage,
+ mich mit _contact_ in
+ ___contact_ an einem Ort namens
+ __contact_ zu treffen.
+

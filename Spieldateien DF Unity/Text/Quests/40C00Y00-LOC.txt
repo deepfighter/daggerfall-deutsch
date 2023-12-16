@@ -1,0 +1,314 @@
+Quest: 40C00Y00
+DisplayName: Mein Anästhetikum
+QRC:
+
+QuestorOffer:  [1000]
+Ihr strebt nach Macht, %pcn.
+Damit könntet Ihr auf Schatten einschlagen
+und Hoffnung haben. Was würdet Ihr mir bringen,
+wenn ich Euch diese Hoffnung gebe?
+ 
+Würdet Ihr jemanden töten der mir Schmerz bereitet?
+
+RefuseQuest:  [1001]
+Wie ich vermutet habe, überhaupt kein Herz.
+Wir werden also keinen Pakt schließen,
+Ihr und ich. Und enttäuscht kehre ich in
+meinen kalten Palast zurück. Die Seelen
+dort sind zwar auch nicht freundlicher
+als hier, aber zumindest folgen sie mir.
+
+AcceptQuest:  [1002]
+Würdet Ihr? Ihr würdet meine nächtliche
+Beruhigung sein? Ihr werdet zum Lager des
+_monster_ =monster_ in ___mondung_
+gehen, und %g2 töten? Ah, %pcf, dafür
+würde ich Euch meinen Skelettschlüssel geben,
+den ich meinem Sklaven _qgfriend_
+anvertraut habe. Wenn =monster_
+tot ist, geht nach ___qgfriend_ und
+trefft meinen Sklaven in __qgfriend_.
+Ihr werdet %g2 gleich erkennen; ein
+=qgfriend_. Dort erhaltet Ihr den
+Skelettschlüssel. Und nun muss ich in
+meinen kalten Palast im Reich des Vergessens
+zurück. Ich werde auf Neuigkeiten warten.
+
+QuestFail:  [1003]
+Nein. Ihr müsst einen anderen
+=qgfriend_ suchen.
+Mein Name ist nicht _qgfriend_.
+
+QuestComplete:  [1004]
+So, Ihr seid also %pcn, stimmts?
+Ich bin  _qgfriend_.
+Ich habe mich schon gefragt, was für einen
+%ra es brauchen würde, um in die Burg
+eines _monster_ einzudringen,
+den Besitzer zu erschlagen und dann wieder
+herauszumarschieren. Wirklich sehr beeindruckend.
+Nocturnal ist gleichfalls von Euch fasziniert,
+daher ihr Geschenk, der Skelettschlüssel.
+Seid vorsichtig damit, %pcf.
+
+RumorsDuringQuest:  [1005]
+=monster_ ist ziemlich heimtückisch; %g bringt die ganze Magiergilde in Verruf.
+<--->
+Da ich weiß, dass =monster_ ein Mitglied der Magiergilde ist, kann ich keinem von denen mehr vertrauen.
+<--->
+Die Magier sagen, =monster_ verstecke sich in ___fakedung_ vor dem Zorn der Daedra.
+<--->
+Die Magier versammeln sich, um  ___fakedung_ von dem Schurken =monster_ zu befreien.
+<--->
+Ich sah, wie eine Gruppe Magier Richtung ___fakedung_ zog.
+<--->
+Ich habe gehört, der Verräter =monster_ würde sich jetzt in ___fakedung_ verstecken.
+
+RumorsPostfailure:  [1006]
+Ich wusste doch, dass =monster_ in Schwierigkeiten war. Warum sonst hätte %g so schnell verschwinden sollen?
+<--->
+Die Magiergilde muss entschieden haben, dass =monster_ eine Gefahr für ihr Ansehen darstellte.
+
+RumorsPostsuccess:  [1007]
+Nun, ich kann wirklich nicht sagen dass ich überrascht wäre, was =monster_ angeht; %g3 Vergangenheit hat %g2 eingeholt.
+<--->
+Ich glaube nicht einmal, dass es den Erzmagister sehr betrübt, von =monster_s Tod zu hören.
+
+QuestorPostsuccess:  [1008]
+Error: Quest 40c00y00.q tried to display text
+
+QuestorPostsuccess:  [1008]
+ 
+
+QuestorPostfailure:  [1009]
+Error: Quest 40c00y00.q tried to display text
+
+QuestorPostfailure:  [1009]
+ 
+
+Message:  1011
+_qgfriend_ ist einer der Stammgäste in __qgfriend_,  %di von hier.
+<--->
+_qgfriend_ist ein =qgfriend_, der häufig __qgfriend_ aufsucht. Das ist %di.
+
+Message:  1012
+_qgfriend_ ist ein Agent von Nocturnal und operiert von __qgfriend_ aus, %di von hier.
+<--->
+_qgfriend_ ist einer der Sklaven Nocturnals, der Daedrafürstin der Nacht.
+
+Message:  1013
+Nocturnal ist die mysteriöse Herrin der Nacht, eine der daedrichen Regenten.
+<--->
+Nocturnal ist eine Regentin im Reich des Vergessens. Ihre Sphäre sind Geheimnis und Dunkelheit.
+
+Message:  1014
+Der Skelettschlüssel kann jedes Schloss öffnen.
+
+Message:  1015
+Die Magier sagen, dass sich =monster_  in ___fakedung_ vor dem Zorn des Reichs des Vergessens versteckt.
+<--->
+Die Magier sammeln sich, um ___fakedung_ von diesem schurkischen =monster_ zu geißeln.
+<--->
+Ich habe eine Menge Magier gesehen, die sich nach ___fakedung_ aufgemacht haben.
+<--->
+Ich hörte, dass sich =monster_ nun als Verräter in ___fakedung_ verbirgt.
+
+Message:  1016
+%oth!  =monster_,
+Der Agent des Reichs des Vergessens ist unter uns!
+Ich habe die wertvollsten Reagenzien nach
+___fakedung_ verschafft und beabsichtige
+Euch dort zu treffen, nachdem Ihr mit
+diesem lästigen %ra fertig geworden seid.
+ 
+<ce>N.
+
+Message:  1017
+Eine Stimme scheint in Eurem
+Ohr widerzuhallen: =monster_
+... sicher ... besonderer Ort ...
+Neuigkeiten...
+
+Message:  1018
+%qdt:
+ Als ich in ___mondung_ eintraf,
+ nannte mir ein Echo einen
+ "besonderen Ort" im Inneren.
+
+Message:  1019
+%qdt:
+ Ich habe eine Notiz von =monster_ gefunden, die
+ besagt, dass %g in ___fakedung_ erwartet
+ wird, nachdem er versucht hatte, mich zu bestechen.
+
+Message:  1020
+%qdt:
+ Nun habe ich einen Pakt mit Nocturnal, einer
+ Daedrafürstin aus dem Reich des Vergessens.
+ Ich habe zugestimmt, den _monster_
+ =monster_ in %g3 Burg ___mondung_
+ zu töten. Dafür werde ich Nocturnals Artefakt,
+ den Skelettschlüssel, erhalten. Ich habe =1stparton_ Tage
+ Zeit um die Tat zu vollbringen und ihren Agenten
+ _qgfriend_ in __qgfriend_ in
+ ___qgfriend_ zu treffen oder ich werde den
+ Pakt nicht eingehalten haben. Das könnte schlimmere
+ Folgen nach sich ziehen als nur den Skelettschlüssel
+ nicht bekommen zu haben.
+
+Message:  1021
+%qdt:
+ =monster_ hat mir Auriels Bogen im Austausch
+ gegen %g3 Leben angeboten und ich konnte nicht
+ widerstehen. %g sagte, dass er sich irgendwo in
+ ___bowdung_ befindet. Da ich Nocturnal
+ ohnehin schon betrogen habe, kann ich nun auch
+ versuchen, ihn zu finden.
+ 
+
+Message:  1022
+%qdt:
+ =monster_ hat mir den Ring des Hexenmeisters
+ im Austausch gegen %g3 Leben angeboten und
+ ich konnte nicht widerstehen. %g sagte,
+ dass er sich irgendwo in ___ringdung_
+ befindet. Da ich Nocturnal ohnehin schon
+ betrogen habe, kann ich nun auch versuchen,
+ ihn zu finden.
+
+Message:  1023
+%qdt:
+ =monster_ hat mir den Stab des Magnus
+ im Austausch gegen %g3 Leben angeboten und
+ ich konnte nicht widerstehen. %g sagte,
+ dass er sich irgendwo in __staffdung_
+ befindet. Da ich Nocturnal ohnehin schon
+ betrogen habe, kann ich nun auch versuchen,
+ ihn zu finden.
+
+Message:  1030
+Wartet! Ich weiß, dass Nocturnal Euch
+geschickt hat, und dass sie Euch den
+Skelettschlüssel versprochen hat. Aber
+wenn Ihr wahre Macht sucht, kann ich ihr
+Angebot überbieten - wenn Ihr Euren Angriff
+einstellt, werde ich Euch verraten, wo
+Ihr Auriels Bogen finden könnt.
+Seid Ihr damit einverstanden?
+
+Message:  1031
+Wartet! Ich weiß, dass Nocturnal Euch
+geschickt hat, und dass sie Euch den
+Skelettschlüssel versprochen hat. Aber
+wenn Ihr wahre Macht sucht, kann ich ihr
+Angebot überbieten - wenn Ihr Euren Angriff
+einstellt, werde ich Euch verraten, wo
+Ihr den Ring des Hexenmeisters finden könnt.
+Seid Ihr damit einverstanden?
+
+Message:  1032
+Wartet! Ich weiß, dass Nocturnal Euch
+geschickt hat, und dass sie Euch den
+Skelettschlüssel versprochen hat. Aber
+wenn Ihr wahre Macht sucht, kann ich ihr
+Angebot überbieten - wenn Ihr Euren Angriff
+einstellt, werde ich Euch verraten, wo
+Ihr den Stab des Magnus finden könnt.
+Seid Ihr damit einverstanden?
+
+Message:  1035
+Ihr habt =monster_ getötet.
+Fürstin Nocturnal wird nun
+ruhiger schlafen.
+
+Message:  1040
+Ausgezeichnet. Ich wusste, dass
+Ihr eine Söldnerseele habt.
+Auriels Bogen liegt versteckt
+in ___bowdung_.
+Wenn Ihr ihn findet werdet Ihr
+tatsächlich eine Macht sein, mit
+der man rechnen muss. Jetzt
+entbiete ich Euch einen guten Tag,
+bevor Ihr auf die Idee kommt, Euch
+den Bogen und den Schlüssel zu
+sichern, indem Ihr mich umbringt.
+Einer Söldnerseele wie Euch sollte
+man nicht zu sehr vertrauen!
+
+Message:  1041
+Ausgezeichnet. Ich wusste, dass
+Ihr eine Söldnerseele habt.
+Der Ring des Hexenmeisters liegt versteckt
+in ___ringdung_.
+Wenn Ihr ihn findet werdet Ihr
+tatsächlich eine Macht sein, mit
+der man rechnen muss. Jetzt
+entbiete ich Euch einen guten Tag,
+bevor Ihr auf die Idee kommt, Euch
+den Ring und den Schlüssel zu
+sichern, indem Ihr mich umbringt.
+Einer Söldnerseele wie Euch sollte
+man nicht zu sehr vertrauen!
+
+Message:  1042
+Ausgezeichnet. Ich wusste, dass
+Ihr eine Söldnerseele habt.
+Der Stab des Magnus liegt versteckt
+in ___staffdung_.
+Wenn Ihr ihn findet werdet Ihr
+tatsächlich eine Macht sein, mit
+der man rechnen muss. Jetzt
+entbiete ich Euch einen guten Tag,
+bevor Ihr auf die Idee kommt, Euch
+den Stab und den Schlüssel zu
+sichern, indem Ihr mich umbringt.
+Einer Söldnerseele wie Euch sollte
+man nicht zu sehr vertrauen!
+
+Message:  1045
+Spöttisches Gelächter hallt in Eurem Kopf wider:
+ 
+ "Ihr hättet es besser wissen sollen als
+ mir zu vertrauen, %pcn. Vielleicht kann
+ dieser Schatten der Macht Euer Verlangen
+ für eine Weile stillen, während Ihr vergebens
+ gegen jene wütet, die sie tatsächlich besitzen.
+ Mich zum Beispiel. Ich hoffe, die gute Nocturnal
+ wird von Eurem Verrat nicht zu enttäuscht sein."
+ 
+Auriels Bogen zerfällt in Euren Händen zu Staub.
+
+Message:  1046
+Spöttisches Gelächter hallt in Eurem Kopf wider:
+ 
+ "Ihr hättet es besser wissen sollen als
+ mir zu vertrauen, %pcn. Vielleicht kann
+ dieser Schatten der Macht Euer Verlangen
+ für eine Weile stillen, während Ihr vergebens
+ gegen jene wütet, die sie tatsächlich besitzen.
+ Mich zum Beispiel. Ich hoffe, die gute Nocturnal
+ wird von Eurem Verrat nicht zu enttäuscht sein."
+ 
+Der Ring des Hexenmeisters zerfällt in Euren Händen
+zu Staub.
+
+Message:  1047
+Spöttisches Gelächter hallt in Eurem Kopf wider:
+ 
+ "Ihr hättet es besser wissen sollen als
+ mir zu vertrauen, %pcn. Vielleicht kann
+ dieser Schatten der Macht Euer Verlangen
+ für eine Weile stillen, während Ihr vergebens
+ gegen jene wütet, die sie tatsächlich besitzen.
+ Mich zum Beispiel. Ich hoffe, die gute Nocturnal
+ wird von Eurem Verrat nicht zu enttäuscht sein."
+ 
+Der Stab des Magnus zerfällt in Euren Händen zu Staub.
+
+Message:  1050
+Nocturnal war von Eurem Wagemut
+höchst beeindruckt, %pcn.
+Sie hat mich gebeten, Euch zur Belohnung
+solch kühnes Verrats schnell zu töten.
+

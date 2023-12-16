@@ -1,0 +1,177 @@
+Quest: 80C0XY00
+DisplayName: Dunkle Dame
+QRC:
+
+QuestorOffer:  [1000]
+Ja, ich kenne noch jemanden, der an Macht
+interessiert war. Eine kleine Panikosa aus
+dem Reich des Vergessens, die von Macht
+träumte und mich bat, sie mit der Schönheit
+und Anmut auszustatten, die sie schon immer
+begehrt hatte. Und als ich ihr Schönheit
+gewährte, bekämpfte sie mich, widersetzte
+sich meinen Willen, als ob ich sie nicht
+geschaffen hätte. Vielleicht seid Ihr nicht
+anders. Wenn ich Euch stark und schön mache,
+würdet Ihr doch das Geschenk respektieren,
+das ich Euch gebe, oder nicht?
+
+RefuseQuest:  [1001]
+Einfältiger %ra, kennt Ihr
+nicht einmal eine gute Lüge?
+Verschwendet mit Eurem
+erbärmlichen Verlangen
+nicht meine Zeit.
+
+AcceptQuest:  [1002]
+Ich glaube Euch, %pcn.
+Im Gegenzug für den Tod dieser verräterischen
+Verführerin, der ich einst vertraute,
+werde ich Euch Volendrung geben, meinen
+wertvollsten Besitz in Eurer Welt. Er wird
+Euch in der Tat sehr mächtig werden lassen.
+Ihr findet diese verabscheute Kreatur in
+___mondung_. Tötet sie und trefft meinen
+teuren und vertrauten _qgfriend_
+in ___qgfriend_. Ich werde %g2
+anweisen, Euch der Einfachheit halber am
+dortigen Anwesen zu treffen. Ich denke nicht,
+dass die ganze Sache mehr als =1stparton_ Tage
+dauern sollte, wenn mit der erforderlichen
+Effizienz erledigt wird.
+ 
+Nun geht in die Welt hinaus und handelt auf
+mein Geheiß, %pcn.
+
+QuestFail:  [1003]
+Verschwindet, Ihr sabbernder %ra.
+Ich suche nach einem wirklich sterblichen Wesen.
+
+QuestComplete:  [1004]
+Ihr seid also %pcn.
+Malacath hat Euch perfekt beschrieben.
+Gute Arbeit mit der alten =monster_.
+Sie hat einfach nicht den Mund gehalten,
+wisst Ihr? Egal, hier ist Volendrung.
+Kein ganz so schlechter Knochenbrecher.
+Und wer weiß, vielleicht müsst Ihr ihn
+eines Tages gegen Malacath selbst einsetzen.
+Ein Witz ... selbstverständlich.
+
+RumorsDuringQuest:  [1005]
+_murder_ wurde tot in %g3 Palast in ___ruler_ gefunden.
+<--->
+Die meisten daedrischen Verführerinnen haben eine Mission. Die in ___mondung_ wartet einfach nur.
+
+RumorsPostfailure:  [1006]
+Ich muss immer noch an dieses Frauengelächter denken, dass ich am Himmel hörte.
+<--->
+Keine Ahnung wo, aber viele Leute haben sie vor ein paar Nächten herumfliegen sehen.
+
+RumorsPostsuccess:  [1007]
+Ich hörte, diese Verführerin sei von den Agenten ihres Meisters getötet worden, weil sie sich verliebt hat.
+<--->
+Hat mich nervös gemacht - diese Verführerin saß nur in ihrem Loch und wartete auf irgendetwas.
+
+QuestorPostsuccess:  [1008]
+Error: Quest 80c00y00.q tried to display text
+
+QuestorPostsuccess:  [1008]
+
+
+QuestorPostfailure:  [1009]
+Error: Quest 80c00y00.q tried to display text
+
+QuestorPostfailure:  [1009]
+
+
+Message:  1011
+_qgfriend_ ist ein Adliger. Er soll angeblich eine geheime Romanze mit einer dunklen Gespielin gehabt haben.
+<--->
+_qgfriend_ ist ein Adliger mit einer Menge geheimer Treueschwüre.
+
+Message:  1012
+Malacath ist der Daedrafürst der Lügen, Täuschung und Heuchelei.
+<--->
+Malacath zieht Lügen an, wie ein toter Hund Maden.
+
+Message:  1013
+Volendrung ist ein Kriegshammer von großer Macht und in der Lage, seinen Opfern Gesundheit zu entziehen.
+
+Message:  1015
+=monster_ ist tot.
+
+Message:  1020
+%qdt:
+ Ich habe den Daedrafürsten Malacath beschworen,
+ der mir Volendrung im Gegenzug Gegenzug für
+ den Tod von =monster_ angeboten
+ hat. Diese daedrische Verführerin war einmal
+ in seinem Gefolge. Sie hat an einem Ort namens
+ ___mondung_ Zuflucht gesucht.
+ Wenn ich =monster_ innerhalb
+ von =1stparton_ Tagen töten und in den Palast von
+ ___qgfriend_ gelangen kann,
+ wird mir ein =qgfriend_ namens
+ _qgfriend_ den Volendrung geben.
+
+Message:  1030
+=monster_,
+ 
+     Malacath will _murder_ tot sehen.
+ %g3 Agenten haben eine Verschwörung
+ zu viel aufgedeckt. %g muss aufgehalten
+ werden, bevor unsere gesamten Pläne
+ für %reg vereitelt sind. Ihr findet
+ %g2 im Palast von ___ruler_.
+ Stellt sicher, dass %g3 Tod nicht bis
+ zu uns zurückverfolgt werden kann.
+ Wartet in ___mondung_ auf mich,
+ nachdem Ihr den Anschlag ausgeführt habt.
+ Ich werde Eure Belohnung und den
+ nächsten Auftrag von Malacath mitbringen.
+ 
+<ce>_qgfriend_
+
+Message:  1040
+%oth! _qgfriend_ steckte
+hinter dem Tod von _murder_?
+Und auch noch in eine Daedraverschwörung
+verwickelt? Ohne Euch hätten wir den
+Mordfall wohl nie gelöst, %pcn.
+Eure Loyalität zu %rt wird nicht
+vergessen werden.
+
+Message:  1041
+Gebt Ihr _ruler_ den
+Brief von _qgfriend_?
+
+Message:  1050
+Der Tod von _murder_ ist noch immer ein Rätsel.
+_ruler_ leitet die Ermittlungen, aber bis jetzt ohne Erfolg.
+<--->
+Ich bin sicher, dass _murder_ wegen %g3 Korruptionsermittlungen in %reg sterben musste.
+
+Message:  1051
+_murder_ untersuchte eine Verschwörung zum Sturz von
+%rt %rn, als %g auf "mysteriöse Weise" verstarb.
+_ruler_ versucht herauszufinden, wer für den Tod von
+_murder_ verantwortlich ist, wird dabei aber nie bis zum Grund vordringen.
+<--->
+_murder_ wurde tot im Palast von ___ruler_
+gefunden, all %g3 Ermittlungsnotizen über den Verrat in höchsten
+Kreisen wurden gestohlen. _ruler_ wurde beauftragt,
+den Mörder von _murder_ zu finden, hat aber nichts,  womit man anfangen könnte.
+
+Message:  1052
+_ruler_ leitet die Ermittlungen, aber bis jetzt ohne Erfolg.
+<--->
+_ruler_ versucht, den Tod von _murder_ im Palast von ___ruler_ aufzuklären.
+
+Message:  1053
+_ruler_ versucht herauszufinden, wer für den Tod von _murder_
+verantwortlich ist, wird dabei aber nie bis zum Grund vordringen.
+<--->
+_ruler_ wurde beauftragt, den Mörder von _murder_ zu finden,
+hat aber nichts, womit man anfangen könnte.
+

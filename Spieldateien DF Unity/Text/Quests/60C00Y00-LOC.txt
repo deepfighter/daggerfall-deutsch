@@ -1,0 +1,128 @@
+Quest: 60C00Y00
+DisplayName: Einladung zum Tee
+QRC:
+
+QuestorOffer:  [1000]
+Ach, bei meiner Treu! Ich wette mit
+mir, dass Ihr mich nicht erwartet habet!
+Meine Unbrüder und Nichtschwestern sint
+bisweylen ein bisschen langsam, also
+springe ich für sie ein. Pech und Schwefel
+für Euch. Ihr werdet Euren Handel mit
+mir verhandeln müssen. Andernorts sie mich
+vermissen eh' die fahle Stund verstrichen!
+Also los! Ein %ra will Macht, um
+sich damit den Körper einzureiben und die
+vierhundert Wunden des sterblichen Lebens
+zu lindern? Ja, Sheogorath hat Macht,
+genug Macht, um die Zweige vor die Augen
+der Monde zu zerren und Blut auf Tamriel
+regnen zu lassen! Würdet Ihr dafür jemandem
+eine höfliche Einladung zum Tee mit mir
+überbringen?
+
+RefuseQuest:  [1001]
+La, zurückgewiesen von einem dreckigen
+%ra mit Läusen im Haar.
+Wie weit ist Sheogorath emporgestiegen!
+Ich sollte um eine Erweiterung meiner
+Befugnisse ersuchen. Tirrah, %pct.
+
+AcceptQuest:  [1002]
+Zum Tee, zu einer Teegesellschaft mit mir!
+Fort, fort zum ___mondung_ geheißenen Ort,
+wo das Objekt meiner bitteren Begierde steht
+und geht und Brombeerkronen trägt. Wartet ...
+bittet diesen Kampfmagier nicht zum Tee bei mir.
+Jetzt erinnere ich mich! =monster_ ist der Name!
+Tötet %g2 zu Tode, ermordet %g2 mordsicher, das
+wünsche ich. Dann geht von ___mondung_
+in ein Tollhaus, das ___contactdung_ genannt
+wird, und besucht meinen Freund =qgfriend_,
+_qgfriend_. Wabbajack wird %g Euch geben.
+Wird auf Euch =1stparton_ Tage warten und dann
+den unbekannten Erben von Rowanda heiraten.
+Nun ziehe ich meinen Hut vor Euch und auf bald!
+
+QuestFail:  [1003]
+Entschuldigt, Ihr werdet es nicht wissen,
+aber ich bin vollkommen wahnsinnig.
+Und wenn Ihr nicht abschiebt, werde ich
+mich auf Euch erbrechen.
+
+QuestComplete:  [1004]
+Ah, nett von Euch, dass Ihr mich in Eure
+Zelle lasst, Madam Kerkermeisterin.
+Sheogorath hat seine Meinung geändert
+und wollte =monster_ nun doch zum
+Tee einladen. Aber als er erfuhr, dass
+%g tot ist, entschied er, dass es so
+das beste wäre. So kann =monster_
+nicht all die kleinen Küchlein wegessen.
+Bevor ich es vergesse, hier der Wabbajack.
+Zeigt damit nicht auf mich!
+
+RumorsDuringQuest:  [1005]
+Ein verrückter Kampfmagier terrorisiert das Land um ___mondung_.
+
+RumorsPostfailure:  [1006]
+___mondung_ ist ruhig, jetzt da =monster_ fort ist, aber %g wird wiederkommen, das wette ich.
+
+RumorsPostsuccess:  [1007]
+Auf Nimmerwiedersehen zu diesem Kampfmagier =monster_ in ___mondung_. Ich hörte, %g sei verrückt wie ein Magister gewesen.
+<--->
+Also hat endlich jemand diesen verrückten Kampfmagier in ___mondung_ getötet. %god sei Dank.
+
+QuestorPostsuccess:  [1008]
+Error: Quest 60c00y00.q tried to display text
+
+QuestorPostsuccess:  [1008]
+
+
+QuestorPostfailure:  [1009]
+Error: Quest 60c00y00.q tried to display text
+
+QuestorPostfailure:  [1009]
+
+
+Message:  1011
+_qgfriend_ ist dieser verrückte, sabbernde =qgfriend_, der in ___contactdung_ lebt.
+<--->
+_qgfriend_ ist dieser irre =qgfriend_, der vor einer Weile in die Stadt kam.
+Man sagt, %g würde zur Zeit in ___contactdung_ leben.
+
+Message:  1012
+Sheogorath ist der Daedrafürst des Wahnsinns. Nicht gerade jemand, auf den man zählen kann.
+<--->
+Sheogorath ist der Verrückte, der Daedra, der in Chaos und Wahnsinn schwelgt.
+
+Message:  1013
+Wabbajack ist ein sehr altes Artefakt mit verrückten Zufallszaubern.
+<--->
+Wabbajack kann seine Ziele in andere Kreaturen verwandeln.
+
+Message:  1014
+_qgfriend_ ist einer der treuesten Diener des Daedrafürsten Sheogorath.
+<--->
+_qgfriend_ ist der Name dieses =qgfriend_, ein Sklave von Sheogorath.
+
+Message:  1020
+%qdt:
+ Der Daedrafürst Sheogorath hat mir ein
+ Artefakt namens Wabbajack im Austauch
+ für den Tod eines Kampfmaigers namens
+ =monster_ versprochen. Wenn dieser
+ Kampfmagier, der an einem Ort namens
+ ___mondung_ residiert, tot ist und ich
+ Sheogoraths Kontaktperson in ___contactdung_
+ treffe, wird mir _qgfriend_ den
+ Wabbajack geben. Allerdings muss ich
+ das alles in =1stparton_ Tagen erledigen.
+
+Message:  1030
+Ich habe =monster_ aus der
+sterblichen Ebene getilgt.
+Nun sehen wir einmal, ob sich
+Sheogorath noch an den Vertrag
+erinnert.
+

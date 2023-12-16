@@ -1,0 +1,130 @@
+Quest: 90C00Y00
+DisplayName: Unschuldiger Lich
+QRC:
+
+QuestorOffer:  [1000]
+Ein sehr weiser %ra sagte einmal,
+das Macht korrumpiert und absolute
+Macht absolut großartig ist. Darum
+werde ich Euch helfen. Nun, ich bin
+mir sicher, dass Ihr einige moralische
+Probleme damit haben würdet, Unschuldige
+zu ermorden, die Euch nie in irgendeiner
+Weise geschadet haben. Aber Ihr würdet
+es tun um meinen Schädel der Korrumpierung
+zu erlangen, nicht wahr?
+
+RefuseQuest:  [1001]
+Nein? Warum ... Ihr ...
+verachtenswertes, schluchzendes
+tugendhaftes, glänzendes Stück
+Goblinrotze! Ich werde meine
+Zeit nicht mit jemandem von
+so giftiger Moral verschwenden.
+
+AcceptQuest:  [1002]
+Großartig. Dieser bestimmte Unschuldige,
+an den ich denke, ist ein _monster_.
+Ein unschuldiger Lich, werdet Ihr denken.
+Nun, unschuldig Euch gegenüber. Für mich
+ist er ein betrügerischer ehemaliger Diener,
+der alle Macht nahm, die ich ihm bot, aber
+dann meine Befehle missachtete.
+ 
+Ihr findet seine leichenhafte Gestalt in
+___mondung_. Er ist nervös,
+seid also für einen Kampf bereit. Begebt
+Euch auf Euren Sieg nach ___qgfriend_
+und sucht in __qgfriend_
+meinen Diener _qgfriend_,
+einen =qgfriend_.
+
+QuestFail:  [1003]
+Warum, Ihr betrügerischer %ra?
+Gebt Ihr vor, den Lich getötet zu
+haben, um den Schädel in Eure
+raffgierigen Hände zu bekommen?
+Vaernima wäre belustigt, leider
+habe ich aber strikte Anweisungen.
+Kommt wieder wenn Ihr den Vertrag
+erfüllt habt.
+
+QuestComplete:  [1004]
+Hat der Lich eine Wolke Staub ausgehustet,
+als er starb? _qgfriend_,
+zu Diensten, %pcf. Vaernima
+wird sich über diese Neuigkeiten sehr
+freuen. Ich hoffe, Ihr seid nicht böse,
+wenn ich die furchtbar abscheulichen
+Sünden, die Ihr auf Eurer Reise begangen
+habt, etwas ausschmücke. Hier ist der
+Schädel. Benutzt ihn, wann immer Ihr
+wünscht, dass ein Gegner seiner dunklen
+Seite gegenübertritt. Lebt wohl, %pcf,
+aber tut Böses.
+
+RumorsDuringQuest:  [1005]
+Solange sich dieser Lich in ___mondung_ aufhält liegt ein Fluch auf diesem Land.
+<--->
+Wenn nur ein großer Held kommen und den uralten Lich in ___mondung_ töten würde ...
+
+RumorsPostfailure:  [1006]
+Der Lich hat ___mondung_ verlassen, ist aber nicht wirklich tot. Er wird zurückkehren, wenn es für ihn an der Zeit ist.
+<--->
+Ich bin nur froh, dass der Lich weg ist, auch wenn er nicht wirklich tot sein mag.
+
+RumorsPostsuccess:  [1007]
+Ich hörte, %god habe uns einen Engel geschickt, um ___mondung_ von diesem verfluchten Lich zu befreien.
+<--->
+Wir werden vielleicht nie erfahren, wer den Lich in ___mondung_ vernichtet hat, aber wir schließen ihn in unsere Gebete ein.
+
+QuestorPostsuccess:  [1008]
+Error: Quest 90c00y00.q tried to display text
+
+QuestorPostsuccess:  [1008]
+
+
+QuestorPostfailure:  [1009]
+Error: Quest 90c00y00.q tried to display text
+
+QuestorPostfailure:  [1009]
+
+
+Message:  1011
+_qgfriend_ ist dieser gruselige =qgfriend_ drüben in __qgfriend_ in %di Richtung.
+<--->
+_qgfriend_ ist der übelriechende =qgfriend_, den ich in _qgfriend_ sah.
+
+Message:  1012
+_qgfriend_ ist einer von Vaernimas Agenten des Verderbens in %reg.
+<--->
+_qgfriend_ ist einer von Vaernimas dreckigen kleinen Verderbnisverbreitern.
+
+Message:  1013
+Vaernima ist die Daedrafürstin der Korrumpierung und des Verfalls. Wirklich nicht schön anzusehen.
+<--->
+Vaernima ist eine Regentin im Reich des Vergessens. Ihre Sphäre ist Korrumpierung und Verfall.
+
+Message:  1014
+Der Schädel der Korrumpierung erschafft dunkle und feindselige Doppelgänger seines Ziels.
+<--->
+Der Schädel bringt die dunkle Seite eines Gegners aus Vaernimas Ebene im Reich des Vergessens hervor.
+
+Message:  1015
+Ihr habt _monster_ getötet,
+und somit Euren Teil des Handels
+mit Fürstin Vaernima erfüllt. 
+
+Message:  1020
+%qdt:
+ Ich habe einen Pakt mit der Daedrafürstin
+ Vaernima geschlossen. Sie wird ihren
+ Agenten in ___qgfriend_ anweisen,
+ mir ihr Artefakt, den Schädel der Korrumpierung,
+ zu übergeben, wenn es mir gelingt, %g2
+ in =1stparton_ oder weniger Tagen mit dem Staub
+ eines gewissen _monster_ an
+ meinen Händen in __qgfriend_
+ zu treffen. Alles was ich über _monster_
+ weiß ist, dass er in ___mondung_ lebt.
+

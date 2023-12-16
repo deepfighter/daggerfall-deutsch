@@ -1,0 +1,126 @@
+Quest: 50C00Y00
+DisplayName: Unangenehmes Geschäft
+QRC:
+
+QuestorOffer:  [1000]
+Man kann gar nicht genug Macht haben,
+nicht wahr, %pcf? Ihr ähnelt
+stark jemandem, den ich einst kannte.
+Aber das war damals in Eurer Ersten Ära,
+also könnt Ihr das wohl nicht sein, oder?
+Nun denn, wenn Ihr mögt, kann ich Euch
+einen kleinen Schild geben, den Zauber-
+brecher. Es wird Euch sicher die Macht
+gewähren, nach der Ihr sucht. Aber erst
+müsst Ihr beweisen, dass Ihr es ernst
+meint. Ihr meint es doch ernst?
+
+RefuseQuest:  [1001]
+Habt Eure Meinung geändert, ja?
+Fühlt Euch deswegen nicht schlecht.
+Es zeugt von Reife, auch einmal
+Nein sagen zu können. Beschwört
+mich nur herauf, wenn Ihr Eure
+Meinung ändert. Ich weiß, dass
+Ihr das noch werdet.
+
+AcceptQuest:  [1002]
+Ausgezeichnet. Es ist wunderbar, einen
+%ra mit klaren Zielen zu sehen.
+Sehr selten dieser Tage und dieser Ära.
+Nun denn, es gibt da diesen _monster_,
+offen gesagt ein Vampir, den Ihr hassen
+würdet. Durch und durch töricht, hässlich
+und engstirnig. Er muss auf eine Reise
+ohne Wiederkehr geschickt werden. Wenn
+Ihr Euch um dieses unangenehme Geschäft
+gekümmert habt, solltet Ihr meinen Freund
+_qgfriend_ aufsuchen, einen charmanten
+=qgfriend_ in __qgfriend_
+in ___qgfriend_. Ich möchte Euch
+nicht drängen, aber ich kann nicht
+länger als =1stparton_ Tage auf Euch warten.
+Und allein nach ___mondung_ zu
+gelangen wird eine Weile dauern, also
+säumt besser nicht auf Eurem Weg.
+Es wird _qgfriend_ eine Freude
+sein, Euch den Zauberbrecher zu über-
+reichen. Jetzt habe ich aber lang genug
+geplappert. Es war mir eine Freude.
+
+QuestFail:  [1003]
+Ihr müsst nach einem anderen
+=qgfriend_ suchen.
+
+QuestComplete:  [1004]
+Da seid Ihr ja, %pct.
+Ich bin _qgfriend_,
+Ich glaube, der Meister schickte Euch zu mir?
+Der Meister ist sehr zufrieden, wie Ihr die
+Arbeit mit diesem fürchterlichen _monster_
+erledigt habt, wenn ich das so sagen darf.
+Der Meister scheint ohnehin ziemlich vernarrt
+in Euch zu sein. Hier ist der Schild, den
+Ihr wolltet, der Zauberbrecher.
+Magier werden Euch damit fürchten.
+Ich hoffe er gefällt Euch, %pct.
+
+RumorsDuringQuest:  [1005]
+=monster_ aus ___mondung_, hat sich, wie es heißt, sowohl mächtige Feinde als auch Freunde gesucht.
+<--->
+In __qgfriend_ habe ich einen sehr netten =qgfriend_ getroffen. Ich frage mich, warum ich %g2 vorher nie begegnet bin.
+
+RumorsPostfailure:  [1006]
+Der alte  =monster_ ist in den Norden gegangen. Wir wissen also vermutlich, wohin die Plage als nächstes ziehen wird.
+<--->
+Ich hörte, selbst die Daedra würden die Macht von =monster_ fürchten.
+
+RumorsPostsuccess:  [1007]
+Man sagt, =monster_ würde sich mächtiger als die Daedra selbst fühlen.
+<--->
+=monster_ hat den Lohn dafür erhalten, dass %g sich der Macht über Leben und Tod rühmte.
+
+QuestorPostsuccess:  [1008]
+Error: Quest 50c00y00.q tried to display text
+
+QuestorPostsuccess:  [1008]
+
+
+QuestorPostfailure:  [1009]
+Error: Quest 50c00y00.q tried to display text
+
+QuestorPostfailure:  [1009]
+
+
+Message:  1011
+Man sagt, _qgfriend_ sei ein sehr freundlicher und charmanter =qgfriend_, der außerdem die Daedra anbetet.
+<--->
+Von _qgfriend_ wird behauptet, Peryites Sklave in %reg zu sein.
+
+Message:  1012
+Peryite ist der Daedra der Pestilenz und Plagen.
+<--->
+Peryite ist der umgänglichste aller Daedrafürsten, aber auch der mit dem schlechtesten Ruf.
+
+Message:  1013
+Der Zauberbrecher ist die ultimative Verteidigung gegen Zauber.
+<--->
+Zauberbrecher kann Zauber auflösen oder sogar auf den Angreifer zurückwerfen.
+
+Message:  1014
+Ihr habt =monster_ getötet.
+Peryites Rache ist vollbracht.
+
+Message:  1015
+%qdt:
+ Der Daedrafürst Peryite wünscht,
+ dass ich nach ___mondung_
+ gehe und innerhalb von =1stparton_ Tagen
+ einen Vampir namens =monster_
+ töte. Danach soll ich _qgfriend_
+ an einem Ort namens __qgfriend_
+ in ___qgfriend_ treffen, um
+ den berühmten Schild Zauberbrecher zu
+ erhalten. Ich habe weitere =2ndparton_ Tage
+ für die ganze Reise.
+

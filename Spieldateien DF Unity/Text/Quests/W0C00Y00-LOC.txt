@@ -1,0 +1,123 @@
+Quest: W0C00Y00
+DisplayName: Skrofulöser Patrizier
+QRC:
+
+QuestorOffer:  [1000]
+Ja, Macht ist ein anspielungsreiches, doch
+eloquentes Ansinnen. Einer meiner Günstlinge
+besitzt ein sehr altes Buch, Oghma Infinium
+genannt, das dem Leser seiner Seiten große
+Macht verleiht. Wenn Ihr einen gewissen
+verkommenen Patrizier beseitigt, der mein
+Missfallen erregt hat, werde ich eine Begegnung
+zwischen Euch und dem Buch in die Wege leiten.
+Könntet Ihr dem zustimmen?
+
+RefuseQuest:  [1001]
+Ihr antwortet ablehnend. Soll ich Euch so
+verstehen, dass Ihr nach Macht verlangt
+habt, sie aber umsonst erhalten möchtet?
+Ihr hättet wohl besser nach Weisheit
+streben sollen, denn sie käme Euch mehr
+zustatten. Ich entbiete Euch einen
+enttäuschten Abschiedsgruß.
+
+AcceptQuest:  [1002]
+Sehr gut. Die illustre Person, auf die ich
+mich bezog, residiert in __palace_.
+Für die Aufzeichnungen ist _enemy_
+der Name Eures Opfers. Tötet %g2 und reist
+nach ___contact_ weiter. Dort wird
+Euch mein Diener _contact_ in einer
+Bibliothek erwarten. Ich denke nicht, dass
+es noch etwas bringen würde, diese
+Unterhaltung fortzusetzen. Enttäuscht
+mich nicht, %pcf, und die
+Macht, nach der Ihr giert, soll Euch gehören.
+
+QuestFail:  [1003]
+Hört zu, wenn Ihr %pcf seid,
+dann geht zurück und tötet _enemy_
+noch einmal. Hermaeus Mora sagt mir,
+dass ich Euch das Buch nicht geben soll,
+weil %g noch am Leben ist.
+Tut mir leid, aber so ist es nun einmal.
+ 
+
+QuestComplete:  [1004]
+Ich habe Euch unterschätzt, %pcf.
+Ich hatte Mora gesagt, Ihr würdet es nicht
+schaffen, aber hier steht Ihr nun und ganz
+%reg befindet sich wegen dem Tod
+von _enemy_ in Aufruhr. Hier ist
+wie versprochen das Buch. Denkt daran,
+Ihr könnt es nur ein einziges Mal lesen.
+Ich sehe Euch später, vielleicht.
+
+RumorsDuringQuest:  [1005]
+Man sagt, _enemy_ hätte all %g3 Macht unmittelbar von den Daedra selbst.
+<--->
+_enemy_ muss eine Vereinbarung mit den Daedra eingegangen sein. Niemand kann so viel Glück haben.
+
+RumorsPostfailure:  [1006]
+_enemy_ hat %reg sehr schnell verlassen. Ich schätze ,%g wurde von %g2 Vergangenheit eingeholt.
+<--->
+Man kann die Daedra betrügen. _enemy_ hat das getan, %g musste zwar fliehen, ist aber noch am Leben.
+
+RumorsPostsuccess:  [1007]
+Man erntet was man sät. _enemy_ soll versucht haben, das Schicksal zu betrügen.
+<--->
+Ich kann _enemy_ noch immer damit prahlen hören, wie %g die Daedra betrogen habe. Was für ein Narr!
+
+Message:  1011
+Nur ein =contact_, der Umgang mit den Daedra pflegt.
+<--->
+So ein =contact_, der eigentlich in __contact_ lebt.
+
+Message:  1012
+Der Daedrafürst verbotenen Wissens und weisester aller Höllenbewohner.
+<--->
+Hermaeus Mora hat einen Verstand, der so alt ist wie Tamriel. Und eine Körper aus Schleim.
+
+Message:  1013
+Das Oghma Infinium ist das Buch des Wissens. Aber Wissen kann in Vergessenheit geraten.
+<--->
+Es ist dieses Buch, das seinem Leser einen stärkeren Körper und fähigeren Verstand schenkt.
+
+Message:  1020
+%qdt:
+ Der Daedrafürst Hermaeus Mora wünscht,
+ dass ich einen Magierkrieger töte, der
+ ihn betrogen hat. _enemy_ lebt
+ in __palace_. Sollte es mir
+ gelingen, in =1stparton_ oder weniger Tagen
+ in ___contact_ in __contact_
+ zu sein, werde ich für den Mord das Oghma
+ Infinium, das Buch des Wissens, erhalten.
+ _contact_ wird dort in
+ einer Bibliothek auf mich warten.
+
+Message:  1030
+Hermaeus Mora wird zufrieden sein -
+Ihr habt _enemy_ getötet.
+
+Message:  1035
+Nein! Wartet! Ich schwöre, ich wollte Fürst
+Mora bezahlen. Tötet mich nicht, ich flehe
+Euch an! Hier, verschont mein Leben, und
+bringt ihm diesen _magic_ zurück.
+Als Zeichen meines guten Willens und Anzahlung
+dessen, was ich schulde.
+Ich bitte Euch, nehmt es!
+
+Message:  1040
+Hmm, gut, danke für den _magic_,
+nehme ich an ... Nun aber zurück zum Geschäft.
+
+Message:  1045
+Ihr erzählt mir, dass Ihr diesen kleinen Wurm
+habt leben lassen und bringt mir dieses erbärmliche
+_magic_ statt _enemy_s
+Blut an Euren Händen? Hermaeus Mora wird über
+diese Neuigkeit sehr unerfreut sein.
+
