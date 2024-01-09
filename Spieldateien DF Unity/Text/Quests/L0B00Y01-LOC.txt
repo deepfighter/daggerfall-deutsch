@@ -1,0 +1,99 @@
+Quest: L0B00Y01
+DisplayName: Kein Entkommen
+QRC:
+
+QuestorOffer:  [1000]
+Wie Ihr wisst, %pct,
+gibt es in der Dunklen Bruderschaft
+keinen Spielraum für Fehler. Brüder,
+die uns enttäuschen, werden das Ziel
+einer Abrechnung. Ihr werdet so ein
+verirrtes früheres Mitglied finden
+und korrigieren.
+<--->
+Es ist eine feierliche und nicht einmal
+ganz unangenehme Pflicht, mit Vertretern
+der Dunklen Bruderschaft abzurechnen,
+die uns bei einem Auftrag enttäuscht
+haben. Ihr seid hoffentlich gerade frei,
+einen solchen Auftrag anzunehmen?
+
+RefuseQuest:  [1001]
+Habe ich Euch richtig verstanden?
+%pct, Eure mangelnde
+Kooperationsbereitschaft mit
+Euren Brüdern betrübt mich.
+
+AcceptQuest:  [1002]
+Sehr gut, %pct.
+Da =target_ in der Bruderschaft
+durchaus etwas gelernt hat, brauchen
+wir unseren Kontakt - hält sich hier
+auf [__snitch_], ein widerlicher
+=snitch_, ein Spitzel namens _snitch_.
+Redet mit %g2 und bringt den Aufenthalt
+von =target_ in Erfahrung. Ich erwarte,
+dass die Abrechnung erledigt wird und
+Ihr in  =queston_ Tagen zurück seid.
+
+QuestComplete:  [1004]
+Gut gemacht, %pct.
+Eine lehrreiche Lektion für
+all jene, die die Dunkle
+Bruderschaft enttäuschen.
+
+RumorsDuringQuest:  [1005]
+Ich vermute, =target_ ist irgendwo in %reg und zittert wie Espenlaub.
+<--->
+=target_ war ein ganz ordentlicher Assassine. Aber offenbar nicht gut genug.
+
+RumorsPostfailure:  [1006]
+Anscheinend kann man die Bruderschaft schlagen. Nehmt =target_ zum Beispiel.
+<--->
+=target_ tanzt der Dunklen Bruderschaft wirklich auf der Nase herum.
+
+RumorsPostsuccess:  [1007]
+=target_, heißt es, habe die Bruderschaft einmal enttäuscht. Und wie hat sie =target_ dafür belohnt?
+<--->
+Die Dunkle Bruderschaft toleriert kein Versagen. Seht nur, was mit =target_ geschehen ist.
+
+QuestorPostsuccess:  [1008]
+Hallo %pcn. Wie kann ich Euch helfen, wo Ihr
+doch unseren verirrten Bruder erschlagen habt?
+
+QuestorPostfailure:  [1009]
+Damit ich das richtig verstehe.
+Ich habe Euch ausgesandt, um mit
+_target_ abzurechnen, der die
+Bruderschaft im Stich gelassen hat,
+und Ihr ... habt uns im Stich gelassen.
+Und jetzt wollt Ihr reden. Unglaublich.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Die Dunkle Bruderschaft in ___qgiver_
+ hat mich auf einen Bruder angesetzt, der
+ bei einem Auftrag gescheitert ist. Ich soll
+ mit einem Spitzel namens _snitch_ an einem
+ Ort [__snitch_] in ___snitch_
+ reden. Von _snitch_ werde ich
+ erfahren, wohin =target_ geflohen ist.
+
+Message:  1011
+%pcn? Ich bin _snitch_.
+Der Fisch, hinter dem Ihr her seid,
+ist vom Haken gesprungen und lebt
+jetzt ein hübsches Leben drunten
+in ___mondung_. Aber seht Euch
+vor, %ra. =target_ weiß,
+wie man kämpft und hat Angst.
+
+Message:  1012
+%qdt:
+ _snitch_ erzählte mir, dass
+ =target_ in ___mondung_ sei.
+
+Message:  1013
+Ihr habt =target_ getötet.
+Die Bruderschaft wird zufrieden sein.
+

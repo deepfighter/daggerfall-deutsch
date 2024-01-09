@@ -1,0 +1,103 @@
+Quest: L0B10Y03
+DisplayName: Unentschuldigt
+QRC:
+
+QuestorOffer:  [1000]
+Die Dunkle Bruderschaft ist stolz darauf,
+immer zu wissen, wo sich jeder Bruder gerade
+befindet. Ich könnte Euch bis auf den Fußbreit
+genau sagen, wo Ihr letzten Tirdas gewesen
+seid. Aber nun ist einer unserer Brüder während
+eines Auftrags verschwunden. Ihr sollt versuchen,
+=target_  zu finden und falls %g keine
+passende Entschuldigung für %g3 Fehlen hat, mit
+=target_  abrechnen. Ich hoffe, dass Ihr
+Zeit dafür habt?
+<--->
+Wie Ihr wisst, verlässt niemand je die Dunkle
+Bruderschaft. Nun ist ein Bruder während eines
+Auftrages verschwunden und wir müssen erfahren,
+ob =target_ tot oder am Leben ist.
+Für diesen Auftrag wurdet Ihr ausgesucht.
+
+RefuseQuest:  [1001]
+Wirklich? Nun gut, ich schätze Ihr habt das Recht,
+einen gelegentlichen Auftrag abzulehnen.
+
+AcceptQuest:  [1002]
+Gut. =target_ hat Verwandschaft in
+___contact_ - eine Gestalt namens
+_contact_, die sich als =contact_
+beschreiben lässt -  zu finden für gewöhnlich in
+diesem Gebäude [__contact_].
+Sprecht mit %g2 - mit Nachdruck - und findet heraus,
+wo %g3 Cousin ist. Ich gebe Euch =queston_ Tage Zeit dafür,
+dass Ihr Euch um diese Sache kümmert und zurückkehrt.
+
+QuestComplete:  [1004]
+=target_ war ein Vampir? Gut, das erklärt
+so einiges. Falls Ihr nicht schon dort wart, wollt Ihr
+Euch vermutlich im Tempel heilen lassen, damit Ihr
+nicht in der blutsaugenden Familie von  =target_ endet.
+
+RumorsDuringQuest:  [1005]
+Niemand, wirklich niemand, legt die Dunkle Bruderschaft herein.
+<--->
+=target_ war angeblich hinter irgendeinem Baron in %reg her, bevor %g verschwand.
+
+RumorsPostfailure:  [1006]
+Einige behaupten =target_ sei tot. Aber andere behaupten, =target_ gesehen zu haben ... und nur bei Nacht.
+
+RumorsPostsuccess:  [1007]
+Komisch, dass die Bruderschaft diesen Blutsauger umgelegt hat. Man sollte meinen, dass sie gut miteinander auskommen.
+<--->
+Offensichtlich war das letzte Ziel von =target_mehr, als %g erwartet hat.
+
+QuestorPostsuccess:  [1008]
+Hallo %pcf. Ich hoffe, Ihr habt Euch nach diesem Vampirkampf von einem Priester anschauen lassen.
+
+QuestorPostfailure:  [1009]
+Ich habe nichts als Verachtung für jene übrig,
+die bei ihren Aufträgen versagen. Angefangen
+mit Euch, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von der Dunklen Bruderschaft in
+ ihrer Gildehalle [__qgiver_] in
+ ___qgiver_ hat mir aufgetragen,
+ einen verschwundenen Bruder aufzuspüren. Falls keine
+ vernünftige Erklärung vorgebracht werden kann, soll
+ ich mit ihm abrechnen. Diese Person heißt =target_
+ und hat einen Cousin in ___contact_, eine Gestalt,
+ die sich als =contact_ beschreiben lässt, namens
+ _contact_. Ich habe =queston_ Tage um
+ herauszufinden, was diese Person weiß, =target_
+ zu finden und zur Bruderschaft zurückzukehren.
+
+Message:  1011
+Ich habe nichts von =target_ gehört, seit %g
+ausgezogen ist, um nach dem Baron in ___mondung_
+zu suchen. Seltsamer Kauz, dieser Baron. Kommt nie
+tagsüber raus und lebt an diesem schaurigen Ort.
+Kein Wunder, dass ihn jemand tot sehen will.
+Trotzdem, wenn schon jemand die Karriere meines Cousin
+in der Bruderschaft beenden sollte, hätte ich nicht
+erwartet, dass es dieser ausgemergelte, bleiche Baron ist. 
+
+Message:  1012
+%qdt:
+ _contact_ berichtete mir, dass sich =target_
+ nach ___mondung_ begeben hat, wo er nach einem
+ geheimnisvollen Baron suchte, mit dem er abrechnen
+ wollte.  ___mondung_ wird meine nächste Station sein.
+
+Message:  1013
+"Lasst mich mit Euch die Unsterblichkeit
+ teilen, die mir der Baron gewährte",
+ zischt =target_.
+
+Message:  1014
+Der Vampir =target_ 
+wurde endlich zur Ruhe gebracht.
+

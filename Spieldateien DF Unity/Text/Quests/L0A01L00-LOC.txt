@@ -1,0 +1,112 @@
+Quest: L0A01L00
+DisplayName: Aufnahmeprüfung
+QRC:
+
+QuestComplete:  [1004]
+Gut gemacht, %pcn.
+_npc_ erlag einem plötzlichen
+Herzversagen. Armer Bastard. Ihr habt bewiesen,
+dass Ihr nicht nur mit der blanken Klinge,
+sondern auch mit Vorsicht töten könnt. Ihr
+seid nun ein vollwertiges Mitglied der Dunklen
+Bruderschaft. Wenn Ihr eine Stadt betretet,
+werdet Ihr immer wissen, ob es dort Gildehallen
+gibt. Es ist üblich, dass der Novize für
+seinen ersten sanktionierten Tod eine einzige
+Goldmünze als Bezahlung erhält. Hier ist Eure.
+
+RumorsDuringQuest:  [1005]
+_npc_ sollte sich auf Schritt und Tritt vorsehen, %g hat eine Menge Feinde.
+
+RumorsPostfailure:  [1006]
+Es ist unklug, die Dunkle Bruderschaft zu missachten. Unklug und tödlich.
+
+RumorsPostsuccess:  [1007]
+Armer _npc_. Ich schätze, %g hat sich viele Feinde gemacht. Einen zu viel.
+<--->
+Der Wein muss in der Karaffe von _npc_ schlecht geworden sein. Passiert manchmal mit Wein.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich hatte in ___apothecary_ ein
+ geheimes Treffen mit _apothecary_,
+ einem Mitglied der Dunklen Bruderschaft,
+ der Gilde der Assassinen. Mir wurde
+ eine Phiole Schlangengift gegeben,
+ um es heimlich in den Wein von
+ _npc_ in seinem Anwesen [_mansion_]
+ in __mansion_ zu träufeln. Wenn ich
+ dann laut _apothecary_ _darkbmember_
+ in ___darkbmember_ treffe, werde ich
+ zum Mitglied der Dunklen Bruderschaft.
+ Ich habe =traveltime_ Tage Zeit, ihn zu erreichen.
+ Ansonsten wird die Bruderschaft glauben,
+ dass ich an meiner Aufgabe gescheitert bin.
+
+Message:  1011
+Ein junges Straßenkind drückt
+Euch einen Brief in die Hand.
+Als Ihr es danach fragen wollt,
+wird deutlich, dass das Kind
+taub und stumm ist. Mit einem
+frustrierten Wink schickt Ihr
+es fort.
+<--->
+Ihr merkt, wie Euch ein Brief in die
+Hand gedrückt wird und hört das
+Geräusch davoneilender Schritte.
+Es gibt kein weiteres Zeichen von
+dem geheimnisvollen Kurier.
+
+Message:  1012
+%qdt:
+ Ein Straßenkind hat mir einen
+ mysteriösen Brief überreicht.
+ Ich wage nicht, den Inhalt in
+ dieses Tagebuch zu übertragen.
+
+Message:  1014
+Ihr habt versagt, %pcn.
+_npc_ ist noch am Leben.
+Es ist Gildenregel, dass
+jemand sterben muss, sobald
+ein Kontrakt angenommen wurde.
+Ihr müsst den Platz von
+_npc_ einnehmen.
+
+Message:  1015
+Ah, Ihr müsst %pcn sein.
+Die Dunkle Bruderschaft hat Euch beobachtet.
+Ihr habt bewiesen, dass Ihr mit einer Klinge
+töten könnt. Aber die Dunkle Bruderschaft
+toleriert keine Freischärler-Assassinen.
+Ihr müsst Euch uns anschließen oder werdet
+für den Tod gezeichnet. Die Bruderschaft
+wird Euch als vollwertiges Mitglied aufnehmen,
+wenn Ihr dieses Schlangengift nehmt und es
+in die Weinkaraffe von _npc_ in
+seinem Anwesen [_mansion_] in
+__mansion_ träufelt. Ihr habt
+=traveltime_ Tage Zeit, um das zu erledigen und
+_darkbmember_ in ___darkbmember_
+zu berichten. Möge Mephala Euch segnen,
+%pcn.
+
+Message:  1019
+Das Schlangengift trübt den Wein,
+aber nur kurz. In wenigen Sekunden
+sieht das Getränk wieder normal aus.
+Jetzt müsst Ihr es nur noch zurückstellen.
+
+Message:  1020
+%pcn
+ 
+     die Dunkle Bruderschaft hat Euch beobachtet.
+ Ihr habt mehrfach ohne Sanktion gemordet. Ihr
+ müsst Euch uns nun anschließen oder Ihr werdet
+ als unser Feind gezählt. Reist nach ___apothecary_
+ in %reg und trefft Euch für weitere Anweisungen
+ mit _apothecary_.
+ 
+ Ein Bruder
+

@@ -1,0 +1,123 @@
+Quest: L0B50Y11
+DisplayName: Ein Kopf der Diebesgilde
+QRC:
+
+QuestorOffer:  [1000]
+Wir haben da einen interessanten
+Auftrag, %pcn. Ein
+hochrangiges Mitglied der Diebesgilde.
+Das wird ein harter Brocken.
+Wollt Ihr den Job?
+
+RefuseQuest:  [1001]
+Das ist nichts für schwache Herzen.
+<--->
+Verstehe. Kommt wieder, wenn Ihr an
+echter Arbeit interessiert seid.
+
+AcceptQuest:  [1002]
+Sehr scharfsinnig. Der Name des Ziels
+lautet _marknpc_, zu finden
+hier in ___questgiver_. Aber
+%g zieht oft herum und wird gewöhnlich
+von Leibwächtern bewacht. Seid vorsichtig.
+Ihr habt sieben Tage. Kehrt zurück,
+wenn es vollbracht ist und ich zahle
+Euch  _gold_ Goldstücke. Wenn Ihr ihn nicht
+findet, fragt mich später nochmal.
+
+QuestComplete:  [1004]
+Ausgezeichnete Arbeit %pcn.
+Ich hoffe, das war nicht zu hart für Euch.
+Hier ist Eure Gildenvergütung.
+
+RumorsDuringQuest:  [1005]
+Bei all den Feinden, die sich _marknpc_  eingehandelt hat, könnte %g wirklich Ärger bekommen.
+<--->
+_marknpc_ wird ein blutiges Ende finden. Denkt an meine Worte. 
+
+RumorsPostfailure:  [1006]
+_marknpc_ hat %reg verlassen, aber %g wird wiederkommen.
+
+RumorsPostsuccess:  [1007]
+_marknpc_ hat zu viele Fehler gemacht - %g war schon lange dem Tod geweiht.
+<--->
+Niemand ist überrascht, dass _marknpc_ nun tot ist - %g hat wirklich Unruhe gestiftet.
+
+QuestorPostsuccess:  [1008]
+Ich habe nicht vergessen, was Ihr mit  _marknpc_ angestellt habt, %pcf. Keine Sorge deswegen.
+
+QuestorPostfailure:  [1009]
+_marknpc_ ist noch am Leben, %pcf.
+Das ist keine angenehme Situation, nicht im
+geringsten, und ich bin kein bisschen amüsiert.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich habe den Auftrag angenommen, _marknpc_
+ aus ___questgiver_ für die Dunkle Bruderschaft
+ zu ermorden. Mein Kontakt _questgiver_
+ wusste zu berichten, dass %g viel herumzieht.
+ Ich habe sieben Tage Zeit, den Auftrag abzuschließen.
+
+Message:  1015
+_marknpc_ ist noch am Leben. Keine Spielchen
+mit mir, %pcn. Die Dunkle Bruderschaft hat
+keinen Sinn für Humor. Ich hörte, das ein
+gewisser Ort [_fakeplace_] die falsche Adresse
+sei. Haltet Euch nicht damit auf. Seht zu,
+dass Ihr andere Hinweise findet, wo %g seine
+Zeit verbringt.
+
+Message:  1020
+_marknpc_ genießt manchmal ein Rendevous mit
+mir. Aber %g bleibt niemals lange. Und %g
+benutzt mich nur für %g3 Vergnügen. Für
+50 Goldstücke bin ich bereit, _marknpc_
+zu verraten.
+
+Message:  1021
+Hilfe! _marknpc_!
+Hier ist ein Assassine im Haus!
+
+Message:  1022
+Ihr habt _marknpc_ umgebracht!
+Lasst mich am Leben und ich schwöre
+niemandem zu verraten, wer es getan hat.
+
+Message:  1023
+_marknpc_ kommt jeden Tag gegen 6 Uhr
+hierher. Dann schickt %g die Leibwächter
+fort. Aber %g ist nur für eine Stunde hier.
+
+Message:  1030
+_marknpc_ ist ein Dieb und Schurke.
+<--->
+Jeder glaubt, dass _marknpc_ hier herumhängt [_fakeplace_], aber das tut %g nicht.
+<--->
+_marknpc_ verbringt die Abende normalerweise in dieser Taverne [_inn_].
+<--->
+_marknpc_ verbringt den Morgen schlafend zuhause.
+<--->
+_marknpc_ hat hier ein Haus [_house_], aber %g verbringt nicht viel Zeit dort.
+<--->
+Nachmittags kann _marknpc_ in der Gildehalle [_guildhall_] gefunden werden.
+<--->
+Ich hörte, dass es hier ein Diebesversteck gibt [_guildhall_]. Versucht es dort.
+<--->
+_marknpc_ hat eine Geliebte.
+<--->
+Die Geliebte von _marknpc_ hat ein Haus hier [_mistresshome_].
+<--->
+_marknpc_ hat so einige Leibwächter.
+<--->
+Wenn _marknpc_ die Geliebte besucht, schickt %g die Leibwächter fort.
+<--->
+Ich würde mich nicht mit den Leibwächtern von  _marknpc_ anlegen.
+<--->
+Sie sagen, _marknpc_ sei durch Zauber beschützt."
+
+Message:  1031
+_marknpc_ stürzt tot zu Boden.
+Die Bruderschaft wird stolz sein.
+

@@ -1,0 +1,72 @@
+Quest: L0B00Y00
+DisplayName: Abtrünniger Assassine
+QRC:
+
+QuestorOffer:  [1000]
+Es gibt einen Verräter in der Bruderschaft.
+Ihr werdet die fällige Schuldabrechnung
+übernehmen. Nicht wahr?
+<--->
+Von Zeit zu Zeit ist die Bruderschaft
+gezwungen, in ihren eigenen Büchern
+abzurechnen. In unserem Orden wurde ein
+Verräter gefunden, der bezahlen muss.
+Die Ehre soll Euch zuteil werden.
+
+RefuseQuest:  [1001]
+Eine unwürdige Antwort. Ich erwarte Besseres.
+
+AcceptQuest:  [1002]
+Sehr gut. Der Verräter hat in
+___mondun_ %di'lich
+von hier Zuflucht gesucht. Wenn
+Ihr in =queston_ Tagen nicht zurück
+seid, ist Eure Ehre verwirkt und ein
+anderer wird Euren Platz einnehmen.
+Enttäuscht uns nicht, %pcf.
+
+QuestFail:  [1003]
+Der Verräter ist nicht tot. Versucht
+nicht, mir etwas anderes weiszumachen.
+
+QuestComplete:  [1004]
+Gut gemacht. Ihr habt allen Grund, stolz zu sein.
+
+RumorsDuringQuest:  [1005]
+Dieser Assassine rannte nach ___mondun_, als wären alle Hunde der Hölle hinter ihm her.
+<--->
+Nach dem, was der Verräter der Bruderschaft angetan hat, kann _qgiver_ ihn nicht einfach gehen lassen.
+
+RumorsPostfailure:  [1006]
+Der Verräter ist offenbar zäher als _qgiver_ dachte. Was für eine Flucht!
+<--->
+Die Nachtklinge ist nach Norden gezogen, wie ich hörte, aber die bloße Erinnerung daran quält den Orden noch immer.
+
+RumorsPostsuccess:  [1007]
+Die Geschichte dieses Verräters beweist es wieder einmal. Mit der Bruderschaft ist nicht zu spaßen.
+<--->
+Ich habe keinen Moment gedacht, dass die Bruderschaft mit einem Tölpel wie diesem Assassinenverräter barmherzig sein würde.
+
+QuestorPostsuccess:  [1008]
+Was braucht Ihr, oh Mörder des Verräters? 
+
+QuestorPostfailure:  [1009]
+Es ist mir unangenehm, mit Euch zu reden.
+Ich hatte Euch schließlich betraut, mit
+diesem Verräter abzurechnen, nicht wahr?
+
+QuestLogEntry:  [1010]
+%qdt:
+ Die Dunkle Bruderschaft in ___qgiver_
+ hat mich entsandt, einen Verräter an der Gilde
+ aufzuspüren und zu töten. Der abtrünnige
+ Assassine versteckt sich in ___mondun_.
+ Ich habe =queston_ Tage Zeit, das zu erledigen.
+
+Message:  1021
+"Ich bin nicht ... der Verräter ...
+für den Ihr ... mich haltet. Der ...
+wahre Verräter ist ..."
+ 
+Der Kontrakt wurde erfüllt.
+

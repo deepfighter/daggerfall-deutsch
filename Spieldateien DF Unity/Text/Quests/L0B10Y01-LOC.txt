@@ -1,0 +1,86 @@
+Quest: L0B10Y01
+DisplayName: Ein allzu derbes Lied
+QRC:
+
+QuestorOffer:  [1000]
+Hier ist ein ganz amüsanter Auftrag,
+der Eurem morbiden Sinn für Humor
+entsprechen könnte. Es gibt da wohl
+einen untalentierten Barden mit einer
+Schwäche für derbe Reime über frühere
+Gönner. Wie sich herausstellte, war
+%g3 genealogisches Wissen aber lückenhaft,
+%g hat nämlich ein Lied über einen
+inzestuösen Herzog ausgerechnet vor
+seiner neuen Gönnerin, der Tochter dieses
+Herzogs, gesungen. Interessiert, für
+_reward_ Goldstücke mit diesem kruden Artisten
+abzurechnen?
+
+RefuseQuest:  [1001]
+Habe ich Euch missverstanden oder sagtet
+Ihr wirklich nein? Wie wollt Ihr das
+reiche Gesamtbild der Menschheit wertschätzen,
+wenn Ihr nicht einmal Zeit habt, einen
+lausigen Musiker zu erschlagen?
+
+AcceptQuest:  [1002]
+Ich wusste, dass das gefallen würde.
+Offenbar ist sich der Barde unseres
+Kontrakts bewusst und versteckt sich in
+dem dreckigen Loch namens ___mondung_.
+Sollte nicht mehr als ein kleines Handgemenge
+werden, aber lasst Eure Deckung oben.
+Ein verzweifelter Sänger kann ein
+unberechenbarer Gegner sein. Seid dann
+in =1stparton_ Tagen zurück, um Eure Belohnung
+einzustreichen. Viel Glück.
+
+QuestFail:  [1003]
+Ich würde darauf wetten, dass der Barde
+noch nicht ins Reich des Vergessens
+abgeschossen wurde. Und doch seid Ihr hier.
+Das erscheint mir merkwürdig. Euch ebenfalls?
+
+QuestComplete:  [1004]
+Ah, Ihr seid geblieben, um noch der letzten
+Note dieses ungehobelten Instrumentenspieler
+zu lauschen? Hier ist Euer Lohn dafür, dass
+Ihr bei der Totenmesse des Barden das Instrument
+gespielt habt: _reward_ Goldstücke. Viel Spaß damit. 
+
+RumorsDuringQuest:  [1005]
+Ich frage mich, ob der Herzog wirklich Inzest mit seiner Tochter beging. 
+<--->
+Dieser arme _monster_ konnte nicht mal einen Ton richtig treffen.
+
+RumorsPostfailure:  [1006]
+=monster_ mag zwar weitergereist sein, aber wir werden uns immer an %g3 Lied erinnern.
+<--->
+Ich hörte, dass die Herzogin wie ein Magister darüber tobt, dass der Barde davongekommen ist.
+
+RumorsPostsuccess:  [1007]
+Sie sagen das man den Spottgesang von =monster_ noch im Nachtwind hören kann.
+<--->
+Ich für meinen Teil bin froh, dass =monster_ tot ist; %g war ein schrecklicher Langweiler.
+
+QuestorPostsuccess:  [1008]
+Ah, hallo, %pcf. Es ist Musik in meinen Ohren, wieder von Euch zu hören.
+
+QuestorPostfailure:  [1009]
+Wie könnte ich Euch begrüßen, %pcf?
+Ihr seid daran gescheitert, den Barden zu erschlagen.
+Wirklich ein schräger Ton in Eurer Aufzeichnung.
+
+QuestLogEntry:  [1010]
+Ihr habt =monster_ erschlagen.
+
+Message:  1020
+%qdt:
+ Die Dunkle Bruderschaft hat mich ausgesandt,
+ einen Barden namens  =monster_ zu ermorden
+ und in =1stparton_ Tagen zurück in der Gildehalle
+ [_questgiver_] in ___questgiver_
+ zu sein. Der Barde versteckt sich offenbar in
+ einem Verlies namens ___mondung_.
+

@@ -1,0 +1,76 @@
+Quest: L0B60Y10
+DisplayName: Der Kriegsveteran
+QRC:
+
+QuestorOffer:  [1000]
+Das könnte selbst für Euch ein harter
+Brocken sein, %pcf. Es handelt
+sich um einen der besten Kämpfer in
+ganz %reg. Seid Ihr sicher,
+dass Ihr den Auftrag wollt?
+
+RefuseQuest:  [1001]
+Ich mache Euch keine Vorwürfe.
+Das wäre wirklich ein bisschen
+zu gefährlich gewesen.
+
+AcceptQuest:  [1002]
+Irgendwie wusste ich, dass Ihr es versuchen
+würdet. Das ist Eure Beisetzung. Dieses
+Ziel ist kein Arena-Gladiator. Wir reden
+hier über einen Veteranen des Betonienkrieges.
+Hat neun Männer getötet, wenn die Geschichten
+wahr sind. Sucht die Waffenschmiede [_mondung_]
+in __mondung_ auf. Ihr werdet Euer Ziel
+leicht an seinem Hinken erkennen. Ein Speer
+ins Knie hat im Krieg dafür gesorgt. Kehrt
+dann binnen =1stparton_ Tagen hierher zurück.
+
+QuestFail:  [1003]
+Ich weiß nicht, wen Ihr geglaubt habt zu
+töten, aber es war nicht das Ziel. Kehrt
+nach  __mondung_ zurück und schließt
+Euren Kontrakt ab.
+
+QuestComplete:  [1004]
+Was für ein Kampf! Ich habe schon davon
+gehört. Straßenklatsch ist schneller als
+ein Rennpferd. Hier sind die _reward_ Goldstücke
+für den Auftrag, %pcf.
+
+RumorsDuringQuest:  [1005]
+So eine Schande was da in Dolchsturz vor sich geht.
+
+RumorsPostfailure:  [1006]
+Ich hörte, die Königin ist schwanger. Das sagen zumindest alle.
+
+RumorsPostsuccess:  [1007]
+Habt Ihr von diesem Kriegshelden gehört? In einem Duell getötet. So eine Schande.
+
+QuestorPostsuccess:  [1008]
+Man erzählt immer noch von Eurem Kampf mit diesem Kriegshelden, %pcn.
+
+QuestorPostfailure:  [1009]
+Ihr habt bei Eurem Kontrakt, den Kriegshelden zu töten, versagt. Die Bruderschaft vergisst Versagen niemals.
+
+Message:  1020
+%qdt:
+ Mein Kontrakt für die Bruderschaft in ___questgiver_
+ ist ein Kriegsheld in einer Schmiede [_mondung_]
+ in __mondung_. Die Tat muss in =1stparton_ Tagen
+ vollbracht sein.
+
+Message:  1021
+"Ihr habt darin Erfolg ... wo alle ... Soldaten
+im Betonienkrieg ... gescheitert sind."
+ 
+Der Kontrakt wurde erfüllt.
+
+Message:  1022
+"Haltet mich nicht für einen Krüppel nur
+ weil ich hinke. Ich werde Euch trotzdem
+ in Stücke reißen!"
+
+Message:  1023
+Das ist kein Mensch! Es ist ein Vampir!
+

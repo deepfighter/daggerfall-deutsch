@@ -1,0 +1,78 @@
+Quest: L0B30Y03
+DisplayName: Magiermord
+QRC:
+
+QuestorOffer:  [1000]
+Ich kenne diesen Gesichtsausdruck, %pcf.
+Ihr werdet arrogant, egoistisch und eingebildet.
+Wunderbar mitanzusehen. Trotzdem müsst Ihr Euch
+in Bescheidenheit üben und einen Auftrag mit
+gefährlich politischem Beigeschmack annehmen.
+Wir haben einen Kontrakt auf ein hochrangiges
+Mitglied der Magiergilde. Seid Ihr bereit? 
+
+RefuseQuest:  [1001]
+Dann wischt Euch das fette Grinsen aus dem
+Gesicht, bis Ihr etwas Schneid entwickelt habt.
+
+AcceptQuest:  [1002]
+Ihr enttäuscht mich nicht, %pcf. Ja,
+wir wurden beauftragt, mit diesem Zauberer
+abzurechnen, der übrigens kein Funkensprüher
+ist. Um die Sache etwas interessanter zu
+gestalten, verlässt dieser Zauberer nie die
+Magiergilde - Ihr lauft also Gefahr, ein
+paar Dutzend der zerstörerischsten Hexenmeister
+im Reich aufzustören. Ihr werdet den Zauberer
+in der Magiergilde von __mondung_
+finden. Der Kontrakt gilt für =1stparton_ Tage, dann
+müsst Ihr zurück und der Zauberer tot sein.
+Viel Glück dabei und möge Ihre fürchterliche
+Hoheit Mephala Eure Hände und Fuße lenken.
+
+QuestFail:  [1003]
+Der Hexer lebt noch, %pcf. 
+Scheitert nicht an diesem Auftrag.
+
+QuestComplete:  [1004]
+Der stolze Abrechner kehrt zurück, die Hände
+rot vom Blut des verhassten Zauberers. Jetzt
+habt Ihr etwas erreicht, %pcf. Ihr
+habt nun allen Grund stolz zu sein. Genießt
+Eure _reward_ Goldstücke, %pcf.
+Und grinst ruhig weiter so fett. 
+
+RumorsDuringQuest:  [1005]
+Nun, der Magier hat die Magiergilde verlassen, aber ich bin sicher, dass wir diesen Schurkel wiedersehen. 
+<--->
+Der Fortgang dieses Zauberers bedeutet viel mehr Aufmerksamkeit, als die Magiergilde sonst bekommt.
+
+RumorsPostfailure:  [1006]
+Ich glaube, die Magiergilde ist über den Tod des Magiers so erleichtert wie jeder andere. 
+<--->
+Wenn Ihr mich fragt, hatte dieser Zauberer sowieso einen schlechten Einfluss auf die Magiergilde.
+
+RumorsPostsuccess:  [1007]
+Ich glaube, die Magiergilde ist über den Tod des Magiers so erleichtert wie jeder andere. 
+<--->
+Wenn Ihr mich fragt, hatte dieser Zauberer sowieso einen schlechten Einfluss auf die Magiergilde.
+
+QuestorPostsuccess:  [1008]
+Dieses __mondung_ muss ein elender Ort gewesen sein, %pcf. Wie reizend.
+
+QuestorPostfailure:  [1009]
+Ihr habt diesen Magier am Leben gelassen und glaubt
+immer noch, dass Ihr meine Zeit verdient. Ihr seid
+wirklich egoistisch, %pcf.
+
+Message:  1020
+%qdt:
+ Mein nächstes Opfer für die Bruderschaft ist ein
+ Zauberer der Magiergilde von __mondung_.
+ In =1stparton_ Tagen muss der Magier tot und ich wieder
+ bei der Bruderschaft in ___questgiver_ sein.
+
+Message:  1011
+Ihr habt den Magier getötet.
+Die Bruderschaft wird stolz sein.
+

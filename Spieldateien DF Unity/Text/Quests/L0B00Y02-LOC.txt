@@ -1,0 +1,118 @@
+Quest: L0B00Y02
+DisplayName: Ungesunde Konkurrenz
+QRC:
+
+QuestorOffer:  [1000]
+Eine weitere Assassinengruppe treibt
+in %reg Knospen und muss ausgemerzt
+werden, bevor sie voll erblühen kann.
+Ich möchte, dass Ihr loszieht, mit dem
+Assassinen abrechnet und dazu mit dem
+Mann oder der Frau, die den Meuchelmord
+befohlen hat. Ihr habt doch Zeit für
+dieses Anliegen, oder?
+<--->
+Die Dunkle Bruderschaft ist seit der
+Zweiten Ära die einzige Assassinengilde
+in Tamriel. Wir beabsichtigen, dieses
+Monopol zu halten. Es gibt da einen
+Freischärler-Assassinen, der uns nun
+schon seit einiger Zeit bloßstellt.
+Aber jetzt ist die Glückssträhne für
+=assassin_ gerissen. Ich möchte,
+dass Ihr %g2 eine bleibende Lektion
+erteilt. Dann wiederholt Ihr die
+Lektion für den törichten Auftraggeber. 
+
+RefuseQuest:  [1001]
+Nein? Wie befremdlich und beunruhigend.
+
+AcceptQuest:  [1002]
+Gut. Nun denn, wir wissen, dass Assassine
+=assassin_ %g3 Opfer bis zu einem
+Verlies namens ___mondung_
+verfolgt hat. Falls Ihr keine Hinweise
+auf den Aufenthalt des Auftraggebers
+finden konntet, kehrt Ihr anschließend
+hierher zurück. Ich würde es natürlich
+bevorzugen, wenn Ihr sowohl mit
+=assassin_ als auch dem Auftraggeber
+abrechnet, wäre aber auch schon mit dem
+Tod des Freischärlers leidlich zufrieden.
+Verwendet nicht mehr als =queston_ Tage
+auf beide Abrechnungen.
+
+QuestComplete:  [1004]
+Exzellent, %pct. Wir wären schon mit der
+Terminierung von =assassin_ zufrieden
+gewesen, aber jetzt wissen auch die
+Bekannten von =boss_, dass die Dunkle
+Bruderschaft keine Amateurkonkurrenz duldet.
+
+RumorsDuringQuest:  [1005]
+Dieser =assassin_ ist nun schon seit Jahren als Freischärler-Assassine in %reg aktiv.
+<--->
+=assassin_ ist zwar nicht der Beste im Geschäft, aber %g legt große Begeisterung an den Tag.
+
+RumorsPostfailure:  [1006]
+=assassin_ hat einfach bewiesen, dass man auch außerhalb der Bruderschaft arbeiten kann.
+<--->
+Offensichtlich kann die Bruderschaft nicht alle Freischärler Tamriels aufhalten.
+
+RumorsPostsuccess:  [1007]
+=boss_ dachte, %g könnte ein paar Goldstücke sparen, wenn er =assassin_ anheuerte ... Idiot.
+<--->
+Es zahlt sich einfach nicht aus, andere Assassinen als die Bruderschaft zu nutzen. Fragt =boss_.
+
+QuestorPostsuccess:  [1008]
+Und wie geht es Euch, Mörder des abtrünnigen Assassinen?
+
+QuestorPostfailure:  [1009]
+Ihr seid dieser wertlose Schläger,
+der nichtmal mit einem Stümper von
+einem Freischärler wie =assassin_
+abrechnen kann. Warum sollte ich
+meinen Atem an Euch verschwenden?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von der Dunklen Bruderschaft
+ in ihrer Gildehalle [__qgiver_] in
+ ___qgiver_ möchte, dass ich =assassin_
+ einen Besuch abstatte, einem konkurrierenden
+ Assassinnen, der in___mondung_
+ einem Kontrakt nachgeht. Falls ich Hinweise
+ über den Auftraggeber von =assassin_
+ finde, soll ich mit ihm oder ihr ebenfalls
+ abrechnen. So oder so muss das blutige
+ Geschäft in =queston_ Tagen erledigt sein.
+
+Message:  1011
+Begebt Euch, nachdem Ihr %n getötet habt,
+wegen Eurer Belohnung nach ___stronghold_
+in der Wildnis von %reg.
+ 
+ - =boss_
+
+Message:  1012
+%qdt:
+ Ich fand bei der Leiche von =assassin_
+ eine Nachricht - %g3 Auftraggeber ist
+ =boss_ in einer Festung namens
+ ___stronghold_.
+
+Message:  1013
+Ihr habt =assassin_ getötet.
+Die Bruderschaft wird zufrieden sein.
+
+Message:  1014
+=boss_ hat sich =assassin_ beigesellt.
+Die Bruderschaft wird sehr zufrieden sein.
+
+Message:  1015
+Wir hätten es vorgezogen, wenn Ihr mit
+dem Auftraggeber von =assassin_
+ebenfalls abgerechnet hättet. Aber es
+genügt zu wissen, das =assassin_
+nicht länger im Wettbewerb ist.
+

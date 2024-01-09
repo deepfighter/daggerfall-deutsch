@@ -1,0 +1,71 @@
+Quest: L0B30Y09
+DisplayName: Anonymer Auftragsmord
+QRC:
+
+QuestorOffer:  [1000]
+Wir haben einen anonymen Auftrag für Euch.
+Es kommt manchmal vor, dass jemand uns bezahlt,
+um jemanden verschwinden zu lassen, aber nie
+den Grund verrät oder sogar durch einen
+Vermittler arbeitet, um seine Identität
+geheimzuhalten. In jedem Fall gehört dieser
+Auftrag Euch, wenn Ihr ihn haben wollt. 
+
+RefuseQuest:  [1001]
+Ich kann Euch nicht verübeln, da
+nicht reingezogen werden zu wollen.
+
+AcceptQuest:  [1002]
+Geht zum _mondung_ in __mondung_.
+Euer Ziel hat eine Narbe auf der linken Wange.
+Das ist alles, was wir wissen. Kommt in =1stparton_ Tagen
+wieder, um Eure Belohnung zu erhalten. Mephala
+segne Eure Klinge, %pcn.
+
+QuestFail:  [1003]
+Ich weiß nicht, wen Ihr geglaubt habt zu
+töten, aber es war nicht das richtige Ziel.
+Bewegt Euren Hintern zum _mondung_
+und erledigt, was unser Kontrakt verlangt.
+
+QuestComplete:  [1004]
+Wirklich wunderschön, %pcf.
+Ich habe Tränen in meinen müden Augen.
+Die schönste Abrechnung, die ich je
+gesehen habe. Versetzt einen in die
+Stimmung, ein Gedicht zu schreiben.
+Warum nehmt Ihr nicht Eure _reward_ Goldstücke
+Belohnung und verschwindet endlich,
+damit ich eine Ballade darüber schreiben
+kann? Ernsthaft, ich bin sehr stolz
+auf Euch, %pcf.
+
+RumorsDuringQuest:  [1005]
+Herrliches Wetter.
+
+RumorsPostfailure:  [1006]
+Sie sagen, der König hatte eine Affäre.
+
+RumorsPostsuccess:  [1007]
+Unsere Steuern sind zu hoch, wenn Ihr mich fragt.
+
+QuestorPostsuccess:  [1008]
+Gute Arbeit bei diesem anonymen Auftrag.
+
+QuestorPostfailure:  [1009]
+Zu schade, dass Ihr den anonymen Auftrag nicht
+erledigen konntet. Das ist auf jeden Fall ein
+Schandfleck in Euer Akte.
+
+Message:  1020
+%qdt:
+ Mein neuer Auftrag für die Dunkle Bruderschaft
+ in ___questgiver_ ist ein unbekanntes
+ Ziel in dem _mondung_ in __mondung_.
+ Ich werde das Opfer nur anhand einer Narbe auf
+ der linken Wange erkennen  können. Der Auftrag
+ muss in =1stparton_ Tagen erledigt werden.
+
+Message:  1021
+Eine frische Narbe verunziert die linke Wange des Ziels.
+
