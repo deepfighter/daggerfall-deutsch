@@ -1,0 +1,192 @@
+Quest: B0B81Y02
+DisplayName: Das verlorene Artefakt
+QRC:
+
+QuestorOffer:  [1000]
+Ich bin _qgiver_ aus
+diesem Ritterorden. Ich habe
+eine sehr gefährliche Quest
+für Euch, %pcn. Ihr
+gehört zu den wenigen, die
+es vielleicht schaffen könnten.
+Ein Lich hebt eine Armee der
+Untoten aus. Wir brauchen
+jemanden, der loszieht und
+dem ein Ende setzt.
+
+RefuseQuest:  [1001]
+Ich verstehe, %pcn.
+Das ist sogar für Euch zu gefährlich.
+Es gibt da noch ein oder zwei andere
+Helden, die das durchziehen könnten.
+Ich werde sie fragen gehen. 
+
+AcceptQuest:  [1002]
+Ihr seid wirklich mutig. Der Lich
+hat ___dungeon_ zu seiner
+Zuflucht gemacht. Geht dorthin und
+vernichtet dieses verfaulte Etwas.
+Wir werden erst jemand anderen
+senden, wenn Ihr in  =2dung_ Tagen nicht
+zurückgekehrt seid. 
+
+QuestComplete:  [1004]
+Hoch lebe der Held %pcn!
+Gut gemacht! Euer Name wird
+in die Geschichte eingehen.
+
+RumorsDuringQuest:  [1005]
+%reg rüstet sich gegen den Angriff des Lichs. 
+<--->
+Ganz %reg betet, dass die ==qgiver_ den Lich töten können.
+
+RumorsPostfailure:  [1006]
+Der Lich hat ___dungeon_ vorübergehend verlassen. Vorübergehend.
+<--->
+Der Lich wird nach ___dungeon_ zurückkehren. Das ist sicher.
+
+RumorsPostsuccess:  [1007]
+%reg ist dank der ==qgiver_ gerettet.
+<--->
+Ein %ra der ==qgiver_ hat den Erz-Lich besiegt!
+
+QuestorPostsuccess:  [1008]
+Es wäre unhöflich von mir, dem Retter von %reg nicht zu helfen, he?
+
+QuestorPostfailure:  [1009]
+Ihr könnt froh sein, dass der Lich nicht ganz %reg ausgelöscht hat, %pcf.
+<--->
+%reg war durch diesen Lich in ernster Gefahr. Euch war das egal.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, ==qgiver_
+ in ___qgiver_, gab
+ mir den Auftrag, den Lich
+ von ___dungeon_ zu
+ vernichten. Ich habe =2dung_ Tage,
+ um die Aufgabe zu erfüllen.
+
+Message:  1011
+Der Lich ist tot. Ohne seine
+magischen Kräfte wird die Armee
+der Untoten ins Grab zurückkehren.
+
+Message:  1020
+... habe ich doch noch einen Hinweis
+gefunden! Ich wage nicht einmal, den
+Namen dieses verlorenen Artefaktes
+von uralter Macht  zu nennen. Es ist
+für mich zu spät. Ich werde hier unten
+in ___dungeon2_ sterben,
+verloren in diesen dunklen Gängen.
+Aber zuerst werde ich meinen Hinweis
+verstecken. Wenn ich nicht ...
+
+Message:  1028
+Verzeiht mir, %pcn. Ihr seid
+so lange nicht zurückgekehrt, dass
+wir Euch für tot hielten. Ein anderer
+Ritter hat die Aufgabe übernommen.
+
+Message:  1030
+Ihr seid den ganzen weiten Weg hier
+runter gekommen, nur um mich zu sprechen,
+und dann wollt Ihr nicht weitermachen?
+Unfassbar! Geht mir aus den Augen!
+
+Message:  1031
+Die Pest soll Euch holen, weil Ihr mich
+stört, %pcn. %oth, natürlich
+kenne ich Euren Namen, und nein, ich
+werde Euch meinen nicht verraten. Was
+ist der Sinn des Zaubererdaseins, wenn
+man nicht Dinge weiß, die normale Leute
+nicht wissen. Ich weiß auch, warum Ihr
+hier seid. Ihr wollt Chrysamere, es sei
+denn, dass Euch dieser Name nichts sagt?
+Ihr werdet es nur bekommen, wenn Ihr mir
+zuerst einen Gefallen tut.
+
+Message:  1032
+Die Pest soll Euch holen, weil Ihr mich
+stört, %pcn. %oth, natürlich
+kenne ich Euren Namen, und nein, ich
+werde Euch meinen nicht verraten. Was
+ist der Sinn des Zaubererdaseins, wenn
+man nicht Dinge weiß, die normale Leute
+nicht wissen. Ich weiß auch, warum Ihr
+hier seid. Ihr wollt das Amulett des
+Totenbeschwörers, es sei denn, dass Euch
+dieser Name nichts sagt? Ihr werdet es
+nur bekommen, wenn Ihr mir zuerst einen
+Gefallen tut.
+
+Message:  1033
+Die Pest soll Euch holen, weil Ihr mich
+stört, %pcn. %oth, natürlich
+kenne ich Euren Namen, und nein, ich
+werde Euch meinen nicht verraten. Was
+ist der Sinn des Zaubererdaseins, wenn
+man nicht Dinge weiß, die normale Leute
+nicht wissen. Ich weiß auch, warum Ihr
+hier seid. Ihr wollt den Stab des Magnus,
+es sei denn, dass Euch dieser Name nichts
+sagt? Ihr werdet ihn nur bekommen, wenn
+Ihr mir zuerst einen Gefallen tut.
+
+Message:  1034
+Die Pest soll Euch holen, weil Ihr mich
+stört, %pcn. %oth, natürlich
+kenne ich Euren Namen, und nein, ich
+werde Euch meinen nicht verraten. Was
+ist der Sinn des Zaubererdaseins, wenn
+man nicht Dinge weiß, die normale Leute
+nicht wissen. Ich weiß auch, warum Ihr
+hier seid. Ihr wollt den Ring des
+Hexenmeisters, es sei denn, dass Euch
+dieser Name nichts sagt? Ihr werdet ihn
+nur bekommen, wenn Ihr mir zuerst einen
+Gefallen tut.
+
+Message:  1035
+Nun, ich weiß eigentlich nicht wirklich,
+wo Euer Artefakt ist. Mein Ururgroßvater
+suchte einst danach. Der Familiengeschichte
+zufolge nahm es ihm die Magiergilde ab,
+als er es gefunden hatte und versteckte
+es irgendwo. Seitdem ist sein Geist nicht
+mehr zur Ruhe gekommen. Wenn Ihr diese
+Locke meines Haares bei Euch tragt,
+während Ihr seinen Geist zur letzten
+Ruhe schickt, wird er Euch vielleicht
+sagen, wo Ihr finden könnt, wonach Ihr
+sucht. Er spukt in ___dungeon3_.
+
+Message:  1040
+Ihr tragt ein Zeichen meines Geschlechts
+bei Euch, ein wenig Haar von einem meiner
+Nachfahren. So wisset denn, dass ich seit
+langen Dekaden durch diese Hallen streife
+und auf dieses Zeichen warte. Geht zur
+_mageguild_ in __mageguild_.
+Dort werdet Ihr finden, was ich einst verlor.
+
+Message:  1041
+%qdt:
+ Ich habe _wizard_ in
+ ___dungeon2_ getroffen.
+ Nun muss ich den Urgroßvater von
+ _wizard_ in ___dungeon3_
+ suchen, der mir vielleicht den Ort des
+ Artefakts nennen kann. _wizard_
+ hat mir eine Haarlocke gegeben, so dass
+ ich ihn zur letzten Ruhe bringen kann.
+
+Message:  1042
+%qdt:
+ Der Urgroßvater von  _wizard_
+ sagte mir, dass ich das Artefakt in der
+ _mageguild_  von __mageguild_
+ finden kann.
+

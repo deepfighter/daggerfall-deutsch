@@ -1,0 +1,67 @@
+Quest: B0B40Y09
+DisplayName: Riesenquest
+QRC:
+
+QuestorOffer:  [1000]
+Ich habe gerade Nachricht
+über einen Riesen erhalten,
+der die Höfe überfällt und
+das Vieh frisst. Mein Name?
+Entschuldigt meine Manieren,
+%pcf. Ich bin _qgiver_.
+Werdet Ihr losziehen und den
+Riesen töten?
+
+RefuseQuest:  [1001]
+Wo sind die edlen Ritter?
+Haben denn alle %reg
+verlassen? Verschwindet,
+%pcn!
+
+AcceptQuest:  [1002]
+Der _monster_ hat sich in
+___dungeon_ einquartiert.
+Geht hin und tötet ihn. Ihr findet
+dort vielleicht noch andere seiner
+Art. Tötet auch sie, wenn es sein
+muss, aber sorgt vor allem dafür,
+dass Ihr denjenigen erwischt, der
+auf dem Arm eine Bärenklaue eingebrannt
+hat. Ich kann Euch dafür nur =2dung_ Tage
+Zeit geben.
+
+QuestComplete:  [1004]
+Ihr seid jetzt ein echter Riesentöter,
+%pcf! Daran zu denken, dass ich
+Eure Hand schütteln durfte ...
+
+RumorsDuringQuest:  [1005]
+Riesen sind eigentlich nicht so aggressiv. Aber der in ___dungeon_ ist es mit Sicherheit.
+
+RumorsPostfailure:  [1006]
+Ich hörte, dass der Riese aus ___dungeon_ nach Süden gezogen ist. Dort verfluchen sie uns bestimmt.
+
+RumorsPostsuccess:  [1007]
+Ein Ritterorden namens %kno hat %reg gerettet. Der Riesentöter von  ___dungeon_ war ein %ra aus ihren Reihen.
+
+QuestorPostsuccess:  [1008]
+Hallo, %pcf Riesentöter. Was kann ich für Euch tun?
+
+QuestorPostfailure:  [1009]
+Kommt wieder, wenn Ihr wisst, wie man einen lausigen Riesen tötet, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, __qgiver_
+ in ___qgiver_, hat mir von
+ einem  Riesen in ___dungeon_
+ berichtet, der getötet werden muss.
+ Ich habe nur =2dung_ Tage dafür Zeit.
+
+Message:  1011
+Auf dem Oberarm des Riesen ist
+deutlich ein Brandmal in Form
+einer Bärenklaue zu erkennen.
+Das muss der sein, von dem
+_qgiver_ gesprochen hat.
+

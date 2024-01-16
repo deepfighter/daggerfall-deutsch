@@ -1,0 +1,70 @@
+Quest: B0B80Y17
+DisplayName: Armee der Untoten
+QRC:
+
+QuestorOffer:  [1000]
+Ich bin _qgiver_, ==qgiver_.
+Ich habe eine sehr gefährliche Quest
+für Euch, %pcn. Ihr gehört zu
+den wenigen, die es vielleicht schaffen
+könnten. Ein Lich hebt eine Armee der
+Untoten aus. Wir brauchen jemanden,
+der loszieht und dem ein Ende setzt.
+
+RefuseQuest:  [1001]
+Ich verstehe, %pcn.
+Das ist sogar für Euch zu
+gefährlich. Es gibt da noch
+ein oder zwei andere Helden,
+die das durchziehen könnten.
+Ich werde sie fragen gehen. 
+
+AcceptQuest:  [1002]
+Ihr seid wirklich mutig.
+Der Lich hat ___dungeon_
+zu seiner Zuflucht gemacht.
+Geht dorthin und vernichtet
+dieses verfaulte Etwas. Wir
+werden erst jemand anderen
+senden, wenn Ihr in  =2dung_ Tagen
+nicht zurückgekehrt sein. 
+
+QuestComplete:  [1004]
+Hoch lebe der Held %pcn!
+Gut gemacht! Euer Name wird
+in die Geschichte eingehen.
+
+RumorsDuringQuest:  [1005]
+Der Große Lich von ___dungeon_ ist wieder erwacht.
+
+RumorsPostfailure:  [1006]
+Der Lich von ___dungeon_ ist über die Bucht gegangen, wie ich höre.
+<--->
+Der Lich sammelt seine Kräfte jenseits von %reg.
+
+RumorsPostsuccess:  [1007]
+Dank %god für die ==qgiver_. Sie haben uns alle gerettet.
+<--->
+Ein %ra und ==qgiver_ hat den Lich von ___dungeon_ vernichtet.
+
+QuestorPostsuccess:  [1008]
+Es wäre mir eine Ehre, einem Helden behilflich zu sein.
+
+QuestorPostfailure:  [1009]
+Nach dem Debakel von ___dungeon_ müsst Ihr echt Nerven haben, hier wieder aufzukreuzen.
+<--->
+Ich habe darauf vertraut, dass Ihr den Lich tötet. Denkt doch einmal an meine Lage!
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, ==qgiver_ in
+ ___qgiver_, gab mir den Auftrag,
+ den Lich von ___dungeon_ zu
+ vernichten. Ich habe =2dung_ Tage,
+ um die Aufgabe zu erfüllen.
+
+Message:  1011
+Der Lich ist tot. Ohne seine
+magischen Kräfte wird die Armee
+der Untoten ins Grab zurückkehren.
+

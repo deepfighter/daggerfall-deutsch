@@ -1,0 +1,71 @@
+Quest: B0C00Y06
+DisplayName: Riesenjagd
+QRC:
+
+QuestorOffer:  [1000]
+Ich traue Euch nicht, %pcn.
+Ihr seid kein Mitglied des Ordens.
+Wenn Ihr mein Vertrauen, vielleicht
+sogar ein wenig Respekt gewinnen
+wollt, dann macht Euch auf und tötet
+den Riesen, der die Höfe überfällt.
+Seid Ihr dem gewachsen?
+
+RefuseQuest:  [1001]
+Das dachte ich mir. In Eurer Brust
+schlägt das Herz eines Feiglings.
+Euer Anblick widert mich an.
+
+AcceptQuest:  [1002]
+Der Riese hat sein Quartier in
+___dungeon_ aufgeschlagen.
+Geht hin und tötet ihn. Es wird
+dort wohl noch andere geben, aber
+die sind mir egal. Ich bin nur an
+dem mit der Brandnarbe auf dem
+Rücken interessiert. Er war es,
+der die Bauern überfallen hat.
+Ihr habt =2dung_ Tage Zeit.
+
+QuestComplete:  [1004]
+Hmm. Ihr schlugt Euch besser als
+erwartet, %pcn. Vielleicht werdet
+Ihr eines Tages doch noch würdig
+sein, diesem Ritterorden anzugehören.
+
+RumorsDuringQuest:  [1005]
+Dieser Riese ist für %cn ein echtes Ärgernis.
+<--->
+Viele wünschen sich, dass die Ritter etwas wegen des Riesen unternehmen.
+
+RumorsPostfailure:  [1006]
+Dank %god, nicht dem Ritterorden, ist der Riese weitergezogen.
+<--->
+Es ist nur natürlich, dass der Riese weitergezogen ist. Aber er wird zurückkehren.
+
+RumorsPostsuccess:  [1007]
+Alle danken den Rittern dafür, den Riesen getötet zu haben.
+<--->
+Niemand hat erwartet, dass der Ritterorden etwas gegen den Riesen unternimmt.
+
+QuestorPostsuccess:  [1008]
+Alles klar, Jungchen. Nach dem, was Ihr getan habt, kann ich schon freundlich zu Euch sein.
+
+QuestorPostfailure:  [1009]
+Verschwindet von hier, Riesenfreund.
+<--->
+Ihr widert mich an, Riesenfreund.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ vom Ritterorden
+ in ___qgiver_ hat mir von
+ einem Riesen in ___dungeon_
+ berichtet, der getötet werden muss.
+ Ich habe nur =2dung_ Tage Zeit.
+
+Message:  1011
+Auf seinem Rücken ist eine große,
+verbrannte Stelle. Das muss der sein,
+von dem _qgiver_ gesprochen hat.
+

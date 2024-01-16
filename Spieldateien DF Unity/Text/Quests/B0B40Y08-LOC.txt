@@ -1,0 +1,56 @@
+Quest: B0B40Y08
+DisplayName: Noch mehr Orkprobleme
+QRC:
+
+QuestorOffer:  [1000]
+Man nennt mich _qgiver_.
+Ich habe eine Aufgabe für Euch,
+wenn Ihr Euch dem gewachsen fühlt.
+Eine mächtige Orkbande überfällt
+in %reg Karawanen. Jemand
+muss den Ork-Kriegsherrn töten,
+der sie anführt.
+
+RefuseQuest:  [1001]
+Schwächling.
+
+AcceptQuest:  [1002]
+Die Orks nutzen ___dungeon_
+als Operationsbasis. Tötet so viele
+wie Ihr wollt, aber sorgt vor allem
+dafür, dass =monster_ die
+Kehle durchgeschnitten wird. Das
+ist ihr Kriegsherr. Wenn ich dann
+innerhalb von =2dung_ Tagen wieder von Euch
+höre, wird Eure Ehre fleckenlos sein.
+
+QuestComplete:  [1004]
+Die Orkbedrohung in %reg
+wurde bezwungen. Rühmt %pcn!
+
+RumorsDuringQuest:  [1005]
+Die Orks von ___dungeon_  machen den Händlern von %cn das Leben schwer.
+
+RumorsPostfailure:  [1006]
+Die Orks von ___dungeon_ sind ausgezogen, um jemand anderen auszuplündern. Aber für wie lange?
+
+RumorsPostsuccess:  [1007]
+Ein tapferer %ra hat ___dungeon_ von Orks gesäubert.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, ==qgiver_
+ in ___qgiver_,
+ gab mir die Gelegenheit,
+ =monster_, den
+ Kriegsherrn einer mächtigen
+ Orkbande in ___dungeon_,
+ zu töten. Ich habe =2dung_ Tage
+ dafür zu sorgen, dass %reg
+ nicht überrannt wird.
+
+Message:  1011
+=monster_ ist tot.
+Die Orks werden für %reg
+keine Gefahr mehr darstellen.
+

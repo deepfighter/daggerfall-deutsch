@@ -1,0 +1,113 @@
+Quest: B0B10Y04
+DisplayName: Der irre Orksöldner
+QRC:
+
+QuestorOffer:  [1000]
+Willkommen, %pcn.
+Mein Name ist _qgiver_.
+Der Orden hat gerade von einem
+irren Orksöldner erfahren, den
+es aufzuhalten gilt. Seid Ihr
+gewillt, diese Quest anzunehmen?
+
+RefuseQuest:  [1001]
+Eure Bescheidenheit wird Euch
+gerecht, %pcf. Kommt 
+wieder, wenn Ihr nicht so zaghaft seid.
+
+AcceptQuest:  [1002]
+Nun gut. In einem dunklen Abgrund nicht weit
+von hier, an einem Ort namens ___mondung_,
+hat sich ein _soldier_ namens =soldier_
+mit einer Gruppe abtrünniger Magier,
+schlimmer als die Totenbeschwörer, verschworen,
+um %reg auszulöschen. Vielleicht glaubt
+er, dass die Herrschaft von %reg ihm Unrecht
+getan hat, vielleicht ist es aber auch der
+grundlose Hass, den Orks oft gegen Menschen
+hegen. Entscheidend ist, dass er aufgehalten
+wird, bevor seine blinde Wut und die Zauberei
+dieser Magier zur Katastrophe führen. Haltet
+ihn auf, %pcf, egal wie. Wenn Ihr in
+=2mondung_ Tagen nicht zurück seid und die Lage noch
+nicht geklärt ist, werden wir Ritter uns selbst
+der Sache annehmen. Betet, dass es nicht soweit kommt.
+
+QuestFail:  [1003]
+Solltet ihr nicht schon in
+__mondung_ sein, %pcf?
+
+QuestComplete:  [1004]
+Gut gemacht, %pcf. Die Orks verschwinden
+aus __mondung_, also muss Eure Mission
+von Erfolg gekrönt gewesen sein. Ihr seid
+wahrlich ein würdiges Mitglied unseres Ordens
+
+RumorsDuringQuest:  [1005]
+__mondung_ ist für die Orks der perfekte Ort, um sich zu sammeln - so abgeschieden ist es.
+<--->
+Die Orks und abtrünnigen Magier planen etwas Schreckliches für %reg.
+
+RumorsPostfailure:  [1006]
+Das Land wurde von den Magiern verflucht. Es könnte Krieg, die Pest, Hungersnot oder gleich alles zusammen geben.
+<--->
+Niemand konnte etwas gegen das unheilige Bündnis von Orks und Magiern ausrichten.
+
+RumorsPostsuccess:  [1007]
+Die Orks haben __mondung_ plötzlich verlassen. Ihr Anführer war krank oder schon tot.
+<--->
+%reg wurde durch die Aufopferung eines tapferen und unerschrockenen Söldners gerettet. Ein %ra, wie man sagt.
+
+QuestorPostsuccess:  [1008]
+Seid gegrüßt, %pct. Wie läuft es bei Euch, Orktöter?
+
+QuestorPostfailure:  [1009]
+Zu schade, dass diese Orks und Magier davongekommen sind. Nun ja, so etwas kommt vor.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, __qgiver_
+ in ___qgiver_, verlangt,
+ dass ich einen Ork-Kriegsherrn
+ aufhalte, der entschlossen ist,
+ %reg zu zerstören. Der Ork
+ haust mit seinem Gefolge in einem
+ Loch namens ___mondung.
+ Ich habe =2mondung_ Tage Zeit, mich um
+ diese Bedrohung zu kümmern und zurückzukehren.
+
+Message:  1013
+Ein schmutziger Zettel wird Euch
+von einem sogar noch schmutzigeren
+kleinen Jungen überreicht. Er ist
+offensichtlich kein Berufskurier,
+aber fast genauso schnell, als er
+davonläuft.
+
+Message:  1014
+Der _soldier_ wurde von Euch getötet.
+
+Message:  1015
+Ah, dieses Haar. Sie lebt also noch ...
+ich muss Schädelspalter berichten, dass
+sein Liebe %reg nicht verlassen hat.
+Danke, dass Ihr mir das mitgeteilt habt.
+Wenn mein Meister mit seinen Magierverbündeten
+den Tod nach %reg gebracht hätte,
+dann hätte er womöglich die Frau ermordet,
+die ihm mehr bedeutet als selbst die
+blutigste Rache an der Hoheit. Nochmals
+vielen Dank!
+
+Message:  1017
+Ich hörte schon, dass Ihr ein Geschenk
+der Götter seid, %pct. %god segne und
+schütze Euch. Ich wünschte, ich könnte
+Euch etwas geben, um meiner Dankbarkeit
+Ausdruck zu verleihen. Hier, das habe
+ich von einer Dame, die Mitleid mit mir
+hatte. Es ist so schön und liebreizend,
+ich konnte es selbst dann nicht verkaufen,
+als ich vor Hunger fast gestorben wäre.
+Bitte nehmt es als Zeichen meiner Dankbarkeit.
+

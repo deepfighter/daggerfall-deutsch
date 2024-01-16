@@ -1,0 +1,89 @@
+Quest: B0B60Y12
+DisplayName: Letzte Ruhe
+QRC:
+
+QuestorOffer:  [1000]
+Da habe ich etwas Gutes für Euch.
+_nobleman_ hat vor
+kurzem offenbar etwas von einem alten
+Familienfluch gelesen. Jetzt hat %g
+schreckliche Angst und möchte, dass
+jemand loszieht und die Überbleibsel
+einer Ur-Ur-Urgroßmutter vernichtet,
+von der %g fürchtet, dass sie als
+untotes Monster wieder über die Erde
+wandeln könnte. Seid Ihr interessiert,
+%pct?
+<--->
+Am Ende läuft es vielleicht nur darauf
+hinaus, sich mal ein bisschen in einer
+Gruft umzuschauen. _nobleman_
+hat uns gebeten, uns die Ruhestätte
+einer gewissen Ur-Ur-Urgrossmuter anzusehen.
+Scheinbar hat %g geträumt, das ihr
+Leichnahm in =2dung_ Tagen der Familiengruft
+entsteigt. Vielleicht ist dort schon alles
+verwest, vielleicht auch nicht. Würdet
+Ihr dort einmal nachforschen, %pct?
+
+RefuseQuest:  [1001]
+Wenn Ihr zufällig Ritter trefft, die
+dieser Aufgabe gewachsen wären, dann
+schickt sie zu mir.
+
+AcceptQuest:  [1002]
+Diese uralte Vorfahrin von _nobleman_
+liegt an einem Ort namens ___dungeon_,
+der entworfen wurde, um Grabräuberei zu verhindern.
+Es gibt keinen Beweis, dass sie überhaupt untot ist.
+Gut möglich, dass Ihr nur eine Leiche findet. In
+dem Fall verbrennt Ihr was von ihr übrig ist auf
+einem ordentlichen Scheiterhaufen. Und kehrt in
+=2dung_ Tagen zurück. _nobleman_ sagt, dass
+sonst der Fluch über uns kommt.
+
+QuestComplete:  [1004]
+Ich soll verdammt sein. Nie hätte ich geglaubt,
+dass die Vorfahrin von _nobleman_ wirklich
+eine der lebenden Toten sein könnte! Ihr habt
+den Leuten hier viel Leid und Elend erspart.
+
+RumorsDuringQuest:  [1005]
+_nobleman_ folgt abergläubischem Unfug, aber diese Ur-Ur-Urgroßmutter war schon seltsam.
+<--->
+_nobleman_ kommt aus einer seltsamen Familie. Vielleicht ist die Ur-Ur-Urgroßmutter wirklich ein Zombie.
+
+RumorsPostfailure:  [1006]
+Ein Ritterorden namens %kno hat sich die Geschichte von _nobleman_ näher angesehen und ist wohl zu dem Schluss gekommen, dass es nur ein Scherz war.
+
+RumorsPostsuccess:  [1007]
+Die Ur-Ur-Urgrossmutter von _nobleman_ war übrigens untot! Was sagt man dazu.
+
+QuestorPostsuccess:  [1008]
+Was kann ich für Euch tun, nachdem Ihr %reg vor einer untoten Bedrohung gerettet habt, derer wir uns nicht einmal bewusst waren?
+
+QuestorPostfailure:  [1009]
+Mir war tatsächlich schon von vornherein klar, dass die Geschichte von _nobleman_ kein Scherz war, Ihr Nichtsnutz! 
+<--->
+Ihr seid ein Siebenschläfer! Ich wusste, dass wirklich etwas in ___dungeon_  sein Unwesen treibt!
+<--->
+%kno steht jetzt dank Eures Versagens bei _nobleman_ für eine herbe Enttäuschung, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, ==qgiver_
+ in ___qgiver_, hat mich
+ damit beauftragt, die  Leiche
+ der Urahnin von _nobleman_
+ in ___dungeon_ zu verbrennen.
+ Möglicherweise handelt es sich um
+ ein untotes Gräuel, dem ich dann
+ ein Ende setzen muss. Ich habe
+ =2dung_ Tage, um die Quest abzuschließen.
+
+Message:  1011
+Die _monster_ wurde zur letzten
+Ruhe gebracht. _nobleman_
+braucht sich wegen dem Fluch
+nicht mehr zu sorgen.
+

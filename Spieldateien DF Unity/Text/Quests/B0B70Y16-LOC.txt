@@ -1,0 +1,101 @@
+Quest: B0B70Y16
+DisplayName: Drachentöter
+QRC:
+
+QuestorOffer:  [1000]
+Schhh! Niemand soll hiervon erfahren,
+%pct. Ich habe gerade erfahren,
+dass ein Drache entdeckt wurde! Gut,
+kein voll ausgewachsenes Exemplar,
+nur ein kleiner Drachling. Es gibt
+keine heldenhaftere Aufgabe für einen
+unserer Ritter, als einen Drachen zu
+töten. Ich weiß, wo er sich befindet,
+Ihr zieht los und bringt ihn um! Den
+Ruhm können wir uns teilen. Ist das
+ein Angebot?
+<--->
+Es ist für Euch an der Zeit zu beweisen,
+dass Ihr wirklich diesem Ritterorden
+angehört. Zeit für Euch, einen Drachen
+zu töten.
+
+RefuseQuest:  [1001]
+Erzählt jemandem davon und der Orden
+wird Euch mit Schimpf und Schande
+davonjagen.
+
+AcceptQuest:  [1002]
+Der Drachling ist gerade in ___dungeon_
+aus seinem Ei geschlüpft. Keine Ahnung,
+ob es dort noch andere Drachen gibt.
+Ich kann das alles noch =2dung_ Tage geheimhalten.
+
+QuestComplete:  [1004]
+Hoch lebe %pcn, von nun an und für immerdar als Drachentöter bekannt! Hoch lebe _qgiver_, starker Schwertarm und teurer Vertrauter!
+
+RumorsDuringQuest:  [1005]
+Heute gab es nichts interessantes.
+<--->
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostfailure:  [1006]
+Dieser Ritterorden namens %kno ist völlig grundlos in ___dungeon herumgestapft.
+
+RumorsPostsuccess:  [1007]
+Der Drache in ___dungeon_ war fünfzig Fuß lang!
+<--->
+Der Drache von ___dungeon_ war hundert Fuß lang!
+<--->
+Der Drache, den dieser %ra tötete, hat vierzig Kühe zum Frühstück gefressen!
+
+QuestorPostsuccess:  [1008]
+Was kann ich für den Drachentöter tun?
+
+QuestorPostfailure:  [1009]
+Ihr habt mich mit diesem Drachen im Stich gelassen. Lasst mich in Ruhe.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver, ==qgiver
+ in ___qgiver_,
+ erzählte mir, dass
+ in ___dungeon ein
+ Drache aus seinem Ei
+ geschlüpft sei. Ich
+ habe =2dung Tage, um das
+ Ungeheuer zu töten und
+ mich im Glanz der Heldentat
+ zu sonnen.
+
+Message:  1011
+Der Drachling ist tot.
+Darüber werden die Ritter
+noch Jahre reden!
+

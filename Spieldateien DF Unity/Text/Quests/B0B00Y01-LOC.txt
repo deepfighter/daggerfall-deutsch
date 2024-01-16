@@ -1,0 +1,66 @@
+Quest: B0B00Y01
+DisplayName: Verrat einer Nachtklinge
+QRC:
+
+QuestorOffer:  [1000]
+Wir hatten einen Verräter in __qgiver_,
+eine bösartige _monster_, die sich gegen
+unsere Brüder gewandt hat. %pct, unsere
+Ehre steht auf dem Spiel. Seid das Werkzeug
+unseres rechtschaffenen Zorns!
+<--->
+Der Ritterorden wurden von einer perfiden
+_monster_ betrogen. Könnt Ihr uns
+helfen, diesen feigen Schurken aufzuspüren
+und zu vernichten?
+
+RefuseQuest:  [1001]
+Eine unwürdige  Antwort. Ich erwarte Besseres.
+
+AcceptQuest:  [1002]
+Sehr gut. Der Verräter ist eine _monster_
+namens =monster_. Versteckt sich in
+___mondun_ %di'lich von hier. Wenn Ihr
+in =queston_ Tagen nicht zurück seid, ist Eure Ehre
+verwirkt und ein anderer wird Euren Platz einnehmen.
+Enttäuscht uns nicht, %pcf.
+
+QuestFail:  [1003]
+Der Verräter ist nicht tot. Versucht nicht, mir etwas anderes weiszumachen.
+
+QuestComplete:  [1004]
+Gut gemacht. Ihr habt allen Grund, stolz zu sein.
+
+RumorsDuringQuest:  [1005]
+Diese _monster_ rannte nach ___mondun_, als wären alle Hunde der Hölle hinter ihr her.
+<--->
+Nach dem, was =monster_ diesem Ritterorden namens %kno angetan hat, kann _qgiver_ =monster_ nicht einfach gehen lassen.
+
+RumorsPostfailure:  [1006]
+=monster_ ist offenbar zäher als _qgiver_ dachte. Was für eine Flucht!
+<--->
+=monster_ ist nach Norden gezogen, wie ich hörte, aber die bloße Erinnerung quält den Orden noch immer."
+
+RumorsPostsuccess:  [1007]
+"%kno bedeutet, dass sie nicht mit sich spaßen lassen. Das zeigt die Geschichte von =monster_ einmal mehr.
+<--->
+Ich hätte gedacht, dass der Orden bei der Tölpelei von =monster_ gnädiger sein würde."
+
+QuestorPostsuccess:  [1008]
+Ihr habt Euch in der Sache mit =monster_  bewiesen. Wie kann ich Euch helfen?
+
+QuestorPostfailure:  [1009]
+__qgiver_ wurde durch die Affäre um =monster_ beschämt. Was wollt Ihr noch?
+
+QuestLogEntry:  [1010]
+%qdt:
+Der Ritterorden aus___qgiver_, als
+%kno bekannt, hat mich ausgeschickt,
+eine _monster_ namens =monster_
+in ___mondun_ aufzuspüren und
+zu töten. Ich habe =queston_ Tage Zeit,
+die Tat zu vollbringen.
+
+Message:  1011
+Ihr habt =monster_ die _monster_ getötet.
+

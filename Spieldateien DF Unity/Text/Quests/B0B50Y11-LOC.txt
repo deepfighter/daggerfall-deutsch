@@ -1,0 +1,62 @@
+Quest: B0B50Y11
+DisplayName: Exorzismus
+QRC:
+
+QuestorOffer:  [1000]
+Ich bin _qgiver_.
+Einer der hier ansässigen
+Adligen, _nobleman_,
+hat soeben die Besitzurkunde
+für ein herrenloses Grundstück
+erhalten. Leider hat %g zu spät
+gemerkt, dass es dort spukt.
+Jemand muss hingehen und den
+Geist austreiben. Wollt Ihr
+diese Quest übernehmen?
+
+RefuseQuest:  [1001]
+Geister sind normalerweise
+auch ein Tempelproblem.
+Vielleicht sollte ich die
+Sache denen überlassen.
+
+AcceptQuest:  [1002]
+_nobleman_ will in =2dung_ Tagen
+mit dem Wiederaufbau beginnen.
+Der Ort heißt ___dungeon_,
+dort findet Ihr den Geist.
+
+QuestComplete:  [1004]
+_nobleman_ wird erfreut
+sein und hat sogar angeboten,
+Euch einen Brunnen zu widmen.
+
+RumorsDuringQuest:  [1005]
+_nobleman_ muss verrückt gewesen sein, einen Kaufvertrag über ___dungeon_ abzuschließen.Verrückt oder dumm.
+
+RumorsPostfailure:  [1006]
+_nobleman_ hat sich in der Not an den als %kno bekannten Ritteroden gewandt, um ___dungeon_ zu exorzieren, aber die Ritter haben versagt.
+
+RumorsPostsuccess:  [1007]
+Ein Orden namens %kno hat dafür gesorgt, dass___dungeon_ jetzt in ein Lagerhaus oder ein Sommerhäuschen verwandelt werden kann.
+
+QuestorPostsuccess:  [1008]
+Seid gegrüßt, %pcf. Was kann ich für Euch tun, nachdem Ihr uns mit _nobleman_ geholfen habt?
+
+QuestorPostfailure:  [1009]
+%kno steht jetzt dank Eures Versagens bei _nobleman_ für eine herbe Enttäuschung, %pcf. 
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, ==qgiver_
+ in  ___qgiver_,  hat mich
+ gebeten,  mich um einen Geist
+ zu kümmern, der ___dungeon_
+ heimsucht. In =2dung_ Tagen müssen
+ sie mit dem Wiederaufbau beginnen.
+
+Message:  1011
+Der Geist wurde zur letzten Ruhe 
+gebracht. _nobleman _ kann
+___dungeon_ nun wiederaufbauen.
+

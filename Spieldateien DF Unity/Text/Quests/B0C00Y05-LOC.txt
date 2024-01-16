@@ -1,0 +1,83 @@
+Quest: B0C00Y05
+DisplayName: Verratene Ritter
+QRC:
+
+QuestorOffer:  [1000]
+Ihr seid noch kein vertrauenswürdiges
+Ordensmitglied, %pcn. Ich
+glaube aber einen Weg zu kennen, wie Ihr
+Euch unser Vertrauen verdienen könnt. Es
+gibt einen Verräter an unserem Orden von
+___qgiver_, eine hinterhältige
+_monster_, die uns an unsere Feinde
+verraten hat. Der Tod ist die gerechte
+Strafe für Verrat,  meint Ihr nicht auch,
+%pcn? Werdet Ihr das für den
+Orden erledigen?
+
+RefuseQuest:  [1001]
+Erwartet in Zukunft keine Gefallen
+mehr von diesem Ritterorden.
+
+AcceptQuest:  [1002]
+Der Verräter ist eine _monster_
+namens =monster_. Versteckt sich
+wie eine feige Memme in ___mondun_.
+Wenn Ihr in =queston_ Tagen nicht zurück
+seid, ist unser Vertrauen verspielt und
+ein anderer wird Euren Platz einnehmen.
+
+QuestFail:  [1003]
+Der Verräter ist nicht tot.
+Versucht nicht, mir etwas
+anderes weiszumachen.
+
+QuestComplete:  [1004]
+Vielleicht seid Ihr doch
+nicht so übel wie alle sagen,
+%pcn. Ihr habt Euch in
+diesem Ritterorden ein bisschen
+Respekt verdient.
+
+RumorsDuringQuest:  [1005]
+Diese _monster_ rannte nach ___mondun_, als wären alle Hunde der Hölle hinter ihr her.
+<--->
+Nach dem, was =monster_ dem Ritterorden angetan hat, kann _qgiver_ =monster_ nicht einfach gehen lassen.
+
+RumorsPostfailure:  [1006]
+=monster_ ist offenbar zäher als _qgiver_ dachte. Was für eine Flucht!
+<--->
+=monster_ ist nach Norden gezogen, wie ich hörte, aber die bloße Erinnerung daran quält den Orden noch immer.
+
+RumorsPostsuccess:  [1007]
+Die Geschichte von  =monster_ beweist es wieder einmal. Mit dem Ritterorden ist nicht zu spaßen. 
+<--->
+Ich hätte gedacht, dass der Orden mit einem Tölpel wie =monster_ gnädiger sein würde.
+
+QuestorPostsuccess:  [1008]
+Ich helfe Euch gerne wo ich nur kann, Nachtklingentöter.
+
+QuestorPostfailure:  [1009]
+Euer Herz ist zu weich, %pcf. Verschwendet nicht meine Zeit.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver aus ___qgiver_
+ befahl mir, eine _monster_
+ namens =monster_ zu töten,
+ die in ___mondun_ herumschleicht.
+ Ich habe =queston_ Tage Zeit, die
+ Tat zu vollbringen.
+
+Message:  1011
+Ihr habt =monster_ getötet,
+die _monster_. Der Ritterorden
+ird stolz sein.
+
+Message:  1080
+Nehmt zum Zeichen unserer Anerkennung noch
+diese Karte nach  ___newdung_,
+einem stinkenden, ungeziefergeplagten Loch.
+Das ist genau die Art von Verlies, wie es
+ein angehender Ritter gerne aufräumt. 
+

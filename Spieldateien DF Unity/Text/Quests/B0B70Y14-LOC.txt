@@ -1,0 +1,98 @@
+Quest: B0B70Y14
+DisplayName: Daedrische Invasion
+QRC:
+
+QuestorOffer:  [1000]
+"%pcf, wir haben einen Notfall.
+Die Magiergilde hat einen Riss in der Wand
+zwischen dem Reich des Vergessens und unserer
+Dimension Mundus entdeckt. Ich will nicht so
+tun als wüsste ich, was das bedeutet, aber
+sicher nichts Gutes. Es kommen jetzt alle
+möglichen daedrischen Wesen in unsere Welt.
+Die Magiergilde sagt, dass sie die Bresche
+versiegeln können, aber uns fällt es zu, die
+Daedra zu töten, die schon durchgekommen sind.
+Wollt Ihr diese Quest annehmen - nicht für
+Gold, sondern für die Ehre?
+<--->
+Vielleicht ist das Ende gekommen, %pct.
+Seit Jahrhunderten sprechen Propheten von dem
+Tag, an dem die aetherischen Wände, die unsere
+Dimension Mundus vom Reich des Vergessens, dem
+Land der Daedra, trennen, zusammenbrechen werden.
+Die Magiergilde wird versuchen, die Bresche zu
+schließen, aber sie brauchen uns, um die
+Höllengeschöpfe zu töten, die schon durchgebrochen
+sind. Können wir uns auf Euch verlassen,
+%pct?"
+
+RefuseQuest:  [1001]
+Unsere Welt hängt an einem seidenen Pfaden
+und Ihr könnt nur an Euch selbst denken.
+Ich schäme mich dafür, dass Ihr ein
+==qgiver_ seid.
+
+AcceptQuest:  [1002]
+Dann eilt nach __dungeon_.
+Wir wissen nicht, wie viele Daedra
+dort schon die Hallen durchstreifen.
+Die Magiergilde sagt, dass wir alle
+Daedrawesen töten sollen, denen wir
+begegnen. Wenn sie erkennen, dass
+der letzte Eindringling gefallen ist,
+werden sie Euch durch Zauber kontaktieren.
+Beeilt Euch, in =2dung_ Tagen ist es zu spät. 
+
+QuestComplete:  [1004]
+Ihr habt die Daedra getötet, hm? Es
+ist schmachvoll, aber es hat sich
+herausgestellt, dass wir von einer
+abtrünnigen Magierin an der Nase
+herumgeführt wurden. Sie hatte einen
+Daedra beschworen, den sie nicht
+kontrolieren konnte und wollte, dass
+wir ihn töten, bevor die Magiergilde
+Wind davon bekommt. Sie hat sich
+gedacht, dass wir das bei der Geschichte
+umsonst machen würden, so dass sie
+nicht die Kriegergilde bezahlen musste.
+Eigentlich entschädigt unser Orden
+seine Mitglieder nicht für ihren Aufwand,
+aber diese Situation ist ungewöhnlich.
+Nehmt diese _gold_ Goldstücke.
+
+RumorsDuringQuest:  [1005]
+Wenn die Leute von %reg wüssten, was die Magiergilde weiß, gäbe es einen Aufstand.
+
+RumorsPostfailure:  [1006]
+Das Ende Tamriels wurde gerade noch abgewendet, aber nicht dank dieser Ritter, die sich sich %kno nennen. 
+
+RumorsPostsuccess:  [1007]
+Nach dem Fiasko in ___dungeon_ steht die Magiergilde in der Schuld dieser Ritter, die sich %kno nennen. 
+
+QuestorPostsuccess:  [1008]
+Nun, %pcf, da Ihr die Welt gerettet habt - was kann ich für Euch tun?
+
+QuestorPostfailure:  [1009]
+Ganz Tamriel wäre beinahe vernichtet worden, %pcf. Ich ärgere mich schon ein wenig über Euch.
+<--->
+Ihr nehmt es mir wohl nicht übel, wenn ich Euch nach dem letzten Debakel nicht mehr über den Weg traue.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, ==qgiver_
+ in ___qgiver_, sprach davon,
+ dass Daedra durch einen dimensionalen
+ Spalt strömen. Ich muss nach ___dungeon_
+ und alle töten. Man wird mich per Zauberspruch
+ kontaktieren, wenn ich den letzten erledigt
+ habe. Ich habe =2dung_ Tage Zeit, bevor es zu spät ist.
+
+Message:  1011
+Eine Stimme aus dem Jenseits hallt in Eurem Kopf wieder und sagt: 
+ 
+"Der letzte Daedra ist gefallen. Durch seinen
+Tod ist Tamriel wieder sicher. He, was tut Ihr
+da? Lasst meine Arme los! Ich bin eine Gildenmagierin!
+Nein, löscht nicht das ..."

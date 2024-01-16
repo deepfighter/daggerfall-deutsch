@@ -1,0 +1,72 @@
+Quest: B0C00Y10
+DisplayName: Orkprobleme
+QRC:
+
+QuestorOffer:  [1000]
+Ich bin _qgiver_. Ihr
+gehört diesem Ritterorden nicht
+an. Wir sind uns nicht sicher,
+ob wir Euch schon vertrauen können.
+Aber vielleicht würden wir unsere
+Meinung ändern, wenn Ihr den Anführer
+einer Orkbanditenbande töten könnt,
+die unsere Gegend plagt. Habt Ihr
+den Schneid für solche Arbeit?
+
+RefuseQuest:  [1001]
+Warum überrascht mich das nicht?
+Kommt wieder, wenn Ihr bereit seid,
+Euch unseren Respekt zu verdienen.
+
+AcceptQuest:  [1002]
+Tötet so viele Orks wie Ihr könnt,
+aber stellt vor allem sicher, dass
+Ihr den Anführer =monster_
+erwischt. Die üble Bande versteckt
+sich in ___dungeon_. Wenn
+Ihr nicht in =2dung_ Tagen zurück seid,
+werde ich wissen, dass Ihr wie jeder
+sagt Feigling seid.
+
+QuestComplete:  [1004]
+Hmmm. Vielleicht sollten wir Euch
+für die Mitgliedschaft in Betracht
+ziehen. Das war keine schlechte
+Arbeit, %pcn.
+
+RumorsDuringQuest:  [1005]
+Dieser Orkstamm ist den Rittern bis jetzt ausgewichen.
+<--->
+Dieser Orkstamm wäre ohne seinen Anführer verloren.
+
+RumorsPostfailure:  [1006]
+Die Orks werden zurückkehren. Ihr Anführer lebt noch.
+
+RumorsPostsuccess:  [1007]
+Dieser %ra kam aus dem Nichts, tötete den Anführer der Orks und verschwand.
+
+QuestorPostsuccess:  [1008]
+Was kann ich für Euch tun, Orktöter?
+
+QuestorPostfailure:  [1009]
+Ihr seid meine Zeit nicht wert,  Orkfreund.
+<--->
+Warum sollte ich mit einem lausigen Orkliebchen reden?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ vom Ritterorden
+ in ___qgiver_ gab mir die
+ Aufgabe, eine Orkbande auszulöschen,
+ die in ___dungeon_ Stellung
+ bezogen hat. Ich muss den Anführer
+ erwischen, einen gewissen =monster_.
+ Ich sollte in =2dung_ Tagen wieder zurück
+ sein, sonst wird %g mich für einen
+ Feigling halten.
+
+Message:  1011
+=monster_ ist tot.
+Ohne Anführer werden diese Orks
+kaum mehr als ein Ärgernis sein.
+

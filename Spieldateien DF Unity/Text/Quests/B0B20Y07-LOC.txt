@@ -1,0 +1,69 @@
+Quest: B0B20Y07
+DisplayName: Mehr Orkprobleme
+QRC:
+
+QuestorOffer:  [1000]
+Erlaubt mir, mich vorzustellen. Ich bin
+_qgiver_, ==qgiver_.
+Es sieht so aus, dass sich hier eine Bande
+von Orkbanditen versteckt hält. Wer sie
+auslöschen kann, der erntet den Ruhm von
+%reg. Kann ich auf Euch zählen,
+%pcf? 
+<--->
+Die Orks ziehen in unser schönes %reg
+und besudeln das Land. Werdet Ihr uns
+bei der Säuberung helfen?
+
+RefuseQuest:  [1001]
+Ihr seid heute schon meine vierte Absage.
+Als ob niemand mehr Orks bekämpfen will.
+
+AcceptQuest:  [1002]
+Ihr braucht nicht jeden einzenen Ork der
+Bande zu töten. Einfach eine ordentliche
+Zahl und auf jeden Fall ihren Anführer
+=monster_. Sie sollen in ___dungeon_
+hausen. Wenn Ihr nicht in =2dung_ days zurück seid,
+werde ich Euren Lobpreis auf der Trauerfeier
+anstimmen.
+
+QuestComplete:  [1004]
+Gute Vorstellung! Die Händler erzählen mir bereits,
+wie froh sie über das Verschwinden der Orks sind.
+Ihr seid ein Gewinn für den Orden.
+
+RumorsDuringQuest:  [1005]
+Die Orks von ___dungeon_ stören die regulären Karawanenrouten.
+<--->
+Die Orks von ___dungeon_ waren mal ganz friedlich. Das sind sie aber nicht mehr.
+
+RumorsPostfailure:  [1006]
+Die Orks sind von sich aus weitergezogen. Aber ich wette, dass sie wiederkommen.
+
+RumorsPostsuccess:  [1007]
+Ein Ritterorden namens %kno hat %reg vor den Orks von ___dungeon_ gerettet. Der Held war ein %ra aus ihren Reihen.
+
+QuestorPostsuccess:  [1008]
+Ich wäre erfreut, Euch zu Diensten zu sein, o Orkvernichter!
+
+QuestorPostfailure:  [1009]
+Oh, hallo, %pct. Ich würde mich mehr freuen Euch zu sehen, wenn diese Orksache erfolgreich geween wäre.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, ==qgiver_ in
+ ___qgiver_, gab mir die
+ Aufgabe, eine Orkbande auszulöschen,
+ die in ___dungeon_
+ Stellung bezogen hat. Ich muss den
+ Anführer erwischen, einen gewissen
+ _monster_. Ich sollte in =2dung_ Tagen
+ wieder  zurück sein, sonst wird %g
+ mich für tot halten.
+
+Message:  1011
+Ihr habt =monster_ getötet.
+Ohne Anführer werden diese Orks
+kaum mehr als ein Ärgernis sein.
+

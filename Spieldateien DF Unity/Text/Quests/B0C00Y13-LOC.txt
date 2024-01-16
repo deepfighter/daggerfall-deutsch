@@ -1,0 +1,65 @@
+Quest: B0C00Y13
+DisplayName: Befallenes Haus
+QRC:
+
+QuestorOffer:  [1000]
+Warum sollte ich Euch trauen, %pcn?
+Ich nehme an, eine kleine Waffenprobe geht
+in Ordnung. Ich sehe, dass Ihr nicht dem
+Ritterorden angehört, also werde ich Euch
+auch nichts wichtiges geben. Aber ich besitze
+da ein Gebäude, das von Ungeziefer befallen
+ist. Tötet es für mich, dann werde ich
+womöglich ein gutes Wort für Euch einlegen.
+
+RefuseQuest:  [1001]
+Ich schätze, ich werde es wohl selbst machen müssen.
+Ihr seid sogar noch nutzloser als ich dachte.
+
+AcceptQuest:  [1002]
+Ich gebe Euch nur einen Tag, um das Gebäude
+[_house_] zu säubern. Sonst werde
+ich es selbst erledigen und allen sagen, was
+für ein Feigling Ihr wirklich seid.
+
+QuestComplete:  [1004]
+Recht annehmbar, %pcn.
+Ich werde für Euch ein gutes Wort
+bei meinem Ritterorden einlegen.
+
+RumorsDuringQuest:  [1005]
+Sehr seltsame Geräusche dringen aus diesem Haus [_house_].
+<--->
+Das Haus von _qgiver_  grenzt wirklich an das Reich des Vergessens.
+
+RumorsPostfailure:  [1006]
+Der arme _qgiver_ muss einen Kammerjäger anstellen.
+<--->
+Es wird _qgiver_ einiges kosten, dieses Haus wieder zu säubern.
+
+RumorsPostsuccess:  [1007]
+Endlich herrscht wieder Frieden in diesem Haus [_house_].
+<--->
+Diese Viecher sind endlich aus dem Gebäude [_house_] verschwunden.
+
+QuestorPostsuccess:  [1008]
+Nun, Ihr habt mein Haus gesäubert. Was braucht Ihr?
+
+QuestorPostfailure:  [1009]
+Ihr könnt nicht einmal ein bisschen Kleinvieh töten. Verschwendet nicht meine Zeit.
+<--->
+Ich sollte kein Wort an einen Speichellecker verschwenden.
+
+QuestLogEntry:  [1010]
+%qdt:
+ In ___qgiver_ traf
+ ich _qgiver_ vom Ritterorden.
+ Ich könnte bei den Rittern an
+ Sympathie gewinnen, indem ich
+ ein bestimmtes Gebäude [_house_]
+ in __house_ von Ungeziefer
+ befreie.
+
+Message:  1011
+Ihr habt das Haus von _qgiver_ gesäubert.
+

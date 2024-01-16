@@ -1,0 +1,291 @@
+Quest: B0B71Y03
+DisplayName: Das Artefakt
+QRC:
+
+QuestorOffer:  [1000]
+Es gibt ein Gerücht darüber,
+wo sich ein uraltes Artefakt
+der Macht befinden soll. Das
+ist eine Gelegenheit, wie man
+sie nur einmal im Leben erhält.
+Seid Ihr dabei, %pct?
+
+RefuseQuest:  [1001]
+Nicht der ehrgeizige Typ, hm?
+Bestimmt wird es sich ein anderer
+glücklicher Ritter schnappen.
+
+AcceptQuest:  [1002]
+Dachte ich mir doch, dass da
+Ehrgeiz in Euren Augen funkelt,
+%pcf. Angeblich hat eine
+Hexe, die in den Tiefen von
+___dungeon1_ lebt, einen
+Hinweis darauf gefunden, wo
+sich dieses Ding befindet. Ich
+würde bei ihr mit der Suche beginnen.
+
+QuestComplete:  [1004]
+Eure Quest ist erfüllt.
+
+RumorsDuringQuest:  [1005]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostfailure:  [1006]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostsuccess:  [1007]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+QuestorPostsuccess:  [1008]
+So, Ihr habt also gewonnen, wofür Ihr auf die Quest gegangen seid. Was habt Ihr nun vor?
+
+QuestorPostfailure:  [1009]
+Ich habe Euch nichts mehr zu sagen, %pcf.
+<--->
+Ich habe schon meine Worte verschwendet, als ich mit Euch geredet habe.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich bin auf eine Quest aufgebrochen, um ein
+ legendäres Artefakt der Macht zu finden.
+ Der einzige Hinweis, den _questgiver_,
+ __questgiver_, mir geben konnte, war,
+ dass eine Hexe, die als Einsiedlerin in
+ ___dungeon1_ lebt, womöglich etwas darüber
+ weiß. 
+
+Message:  1011
+%qdt:
+ Die Hexe _witch_ in ___dungeon1_
+ trug mir auf, ihre Urgroßnichte _child_
+ aus dem Anwesen [_palace_] in __palace_
+ zu entführen und zu ihr zu bringen, wenn
+ ich jemals _aurielsbow_ finden will.
+
+Message:  1012
+%qdt:
+ Die Hexe _witch_ in ___dungeon1_
+ trug mir auf, ihre Urgroßnichte _child_
+ aus dem Anwesen [_palace_] in __palace_
+ zu entführen und zu ihr zu bringen, wenn
+ ich jemals _aurielshield_ finden will.
+
+Message:  1013
+%qdt:
+ Die Hexe _witch_ in ___dungeon1_
+ trug mir auf, ihre Urgroßnichte _child_
+ aus dem Anwesen [_palace_] in __palace_
+ zu entführen und zu ihr zu bringen, wenn
+ ich jemals _lordsmail_ finden will.
+
+Message:  1021
+Ich bin _witch_. Ihr wollt also
+_aurielshield_. Es ist wahr, ich
+weiß etwas darüber. Aber wenn Ihr
+mein Geheimnis erfahren wollt, müsst
+Ihr zunächst etwas für mich tun. Vor
+langer Zeit, als ich jung und Euer
+Großvater noch nicht einmal ein Glanz
+in den Augen Eurer Ur-Urgroßmutter war,
+habe ich einer Tochter das Leben geschenkt.
+Ich ließ das Kind bei anderen, um es
+aufzuziehen, aber nun schwinden meine
+Kräfte und ich brauche eine Erbin. Meine
+Tochter ist schon lange tot, aber ich
+habe eine Ur-Urenkelin namens _child_,
+die genau das richtige Alter hat. Bringt
+sie mir binnen =finddaughter_ Tagen und ich
+werde Euch sagen, was ich über _aurielshield_
+weiß. Die Eltern von _child_ wissen nichts
+von ihrem Geburtsrecht und werden sich jeden
+Versuch widersetzen, sie mitzunehmen. Ihr
+findet sie in ihrem Anwesen [_palace_]
+in __palace_.
+
+Message:  1020
+Ich bin _witch_. Ihr wollt also
+_aurielsbow_. Es ist wahr, ich
+weiß etwas darüber. Aber wenn Ihr
+mein Geheimnis erfahren wollt, müsst
+Ihr zunächst etwas für mich tun. Vor
+langer Zeit, als ich jung und Euer
+Großvater noch nicht einmal ein Glanz
+in den Augen Eurer Ur-Urgroßmutter war,
+habe ich einer Tochter das Leben geschenkt.
+Ich ließ das Kind bei anderen, um es
+aufzuziehen, aber nun schwinden meine
+Kräfte und ich brauche eine Erbin. Meine
+Tochter ist schon lange tot, aber ich
+habe eine Ur-Urenkelin namens _child_,
+die genau das richtige Alter hat. Bringt
+sie mir binnen =finddaughter_ Tagen und ich
+werde Euch sagen, was ich über _aurielsbow_
+weiß. Die Eltern von _child_ wissen nichts
+von ihrem Geburtsrecht und werden sich jeden
+Versuch widersetzen, sie mitzunehmen. Ihr
+findet sie in ihrem Anwesen [_palace_]
+in __palace_.
+
+Message:  1022
+Ich bin _witch_. Ihr wollt also
+_lordsmail_. Es ist wahr, ich
+weiß etwas darüber. Aber wenn Ihr
+mein Geheimnis erfahren wollt, müsst
+Ihr zunächst etwas für mich tun. Vor
+langer Zeit, als ich jung und Euer
+Großvater noch nicht einmal ein Glanz
+in den Augen Eurer Ur-Urgroßmutter war,
+habe ich einer Tochter das Leben geschenkt.
+Ich ließ das Kind bei anderen, um es
+aufzuziehen, aber nun schwinden meine
+Kräfte und ich brauche eine Erbin. Meine
+Tochter ist schon lange tot, aber ich
+habe eine Ur-Urenkelin namens _child_,
+die genau das richtige Alter hat. Bringt
+sie mir binnen =finddaughter_ Tagen und ich
+werde Euch sagen, was ich über _lordsmail_
+weiß. Die Eltern von _child_ wissen nichts
+von ihrem Geburtsrecht und werden sich jeden
+Versuch widersetzen, sie mitzunehmen. Ihr
+findet sie in ihrem Anwesen [_palace_]
+in __palace_.
+
+Message:  1025
+Was habt Ihr vor! Ich will
+nicht mit Euch gehen. Hilfe!
+Mama, Papa, hilfe!!
+
+Message:  1026
+Eindringling! Eindringling!
+
+Message:  1027
+Lasst _child_ runter oder
+ich bin gezwungen, Euch zu töten.
+
+Message:  1032
+Ah ja, meine Erbin. Wie sagtet
+Ihr war ihr Name? _child_?
+Ja, sie wird ausreichen. %pcn,
+Ihr habt Euch das Recht verdient,
+nach _aurielshield_ zu suchen.
+Die Sterne haben mir gesagt, dass
+der Pfad zu _aurielshield_ über
+___dungeon2_ führt. Das ist alles.
+
+Message:  1031
+Ah ja, meine Erbin. Wie sagtet
+Ihr war ihr Name? _child_?
+Ja, sie wird ausreichen. %pcn,
+Ihr habt Euch das Recht verdient,
+nach _aurielsbow_ zu suchen.
+Die Sterne haben mir gesagt, dass
+der Pfad zu _aurielsbow_ über
+___dungeon2_ führt. Das ist alles.
+
+Message:  1033
+Ah ja, meine Erbin. Wie sagtet
+Ihr war ihr Name? _child_?
+Ja, sie wird ausreichen. %pcn,
+Ihr habt Euch das Recht verdient,
+nach _lordsmail_ zu suchen.
+Die Sterne haben mir gesagt, dass
+der Pfad zu _lordsmail_ über
+___dungeon2_ führt. Das ist alles.
+
+Message:  1051
+%qdt:
+ _witch_ sagte mir, dass
+ der Pfad zu _aurielshield_
+ über ___dungeon2_ führt.
+
+Message:  1050
+%qdt:
+ _witch_ sagte mir, dass
+ der Pfad zu _aurielsbow_
+ über ___dungeon2_ führt.
+
+Message:  1052
+%qdt:
+ _witch_ sagte mir, dass
+ der Pfad zu _lordsmail_
+ über ___dungeon2_ führt.
+
