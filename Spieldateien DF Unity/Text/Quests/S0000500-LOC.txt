@@ -1,0 +1,135 @@
+Quest: S0000500
+DisplayName: S0000500
+QRC:
+
+QuestComplete:  [1004]
+%pcf, Ihr habt mir das Leben gerettet,
+als mich die meisten meiner angeblichen
+Freunde bereits aufgegeben hatten. Ich
+stehe tief in Eurer Schuld. Mein Vermögen
+ist nicht mehr das, was es einmal war, aber
+nehmt diese _gold_ Goldstücke als kleines
+Zeichen meiner Dankbarkeit.
+
+RumorsDuringQuest:  [1005]
+Einer von Königin Akorithis Granden wurde
+wegen Hochverrats festgenommen. Seine Freunde
+flehen um Gnade, aber die Königin hat den
+Zeitpunkt seiner Hinrichtung bereits angeordnet.
+
+RumorsPostsuccess:  [1007]
+Sie sagen, dass Fürst K'avar aus dem Kerker des Palastes
+von Schildwacht geflohen ist, und das direkt unter der
+Nase von Königin Akorithis Wachen. Sie muss rasen vor Wut!
+
+Message:  1020
+%qdt:
+ Ich habe einen Brief von jemandem namens
+ _contact1_ erhalten, in dem ich um ein
+ Treffen in der Taverne _tavern_ in
+ __tavern_, ____tavern_
+ gebeten werde. Es geht um eine Angelegenheit,
+ die mit Fürst K'avar von Schildwacht zu tun hat.
+
+Message:  1021
+%qdt:
+ Ich traf mich mit _contact1_,
+ der mir erzählte, dass Fürst K'avar
+ in den Kerkern des Palastes von
+ Schildwacht schmachtet und auf seine
+ Hinrichtung wartet, die in =executiondelay_ Tagen
+ angesetzt ist. _contact1_
+ flehte mich an, Fürst K'avar zu
+ befreien, bevor es zu spät ist.
+
+Message:  1022
+%qdt:
+ Ich habe Fürst K'avar aus dem Kerker
+ des Palastes von Schildwacht befreit
+ und bringe ihn zu einem bestimmten Ort
+ [_safehouse_] in __safehouse_,
+ ____safehouse_, wo wir einen
+ Verbündeten von ihm treffen werden.
+
+Message:  1030
+Seid gegrüßt %pcn,
+ 
+ wenn Ihr Fürst K'avar wohlgesonnen
+ seid, trefft mich bitte so schnell
+ es Euch möglich ist in der Taverne
+ _tavern_ in __tavern_,
+ ____tavern_.
+ 
+ Es geht um Leben und Tod!
+ 
+_contact1_
+ 
+
+Message:  1040
+%pcn? Ihr seid meine letzte Hoffnung!
+Fürst K'avars Freunde und Verbündete
+haben sich allesamt als treulos erwiesen,
+nachdem er von der Tyrannenkönigin
+Akorithi wegen erfundener Vorwürfe des
+Hochverrats festgenommen wurde.
+ 
+Er ist nun im Kerker des Palastes von
+Schildwacht eingesperrt, wo er auf seine
+Hinrichtung wartet. Bitte, wenn Ihr auch
+nur ein wenig Achtung vor dem Mann habt,
+rettet ihn vor dem sicheren Tode. Er
+sprach oft von Euren Fertigkeiten und Eurem
+Mut. Ich weiß, dass Ihr uns helfen werdet.
+
+Message:  1041
+%oth, bin ich froh, Euch zu sehen.
+Wir müssen hier rauskommen, bevor Alarm
+geschlagen wird. Ich plante gerade meine
+Flucht, als Ihr aufgetaucht seid, aber
+das ist wohl jetzt nicht mehr nötig, was?
+ 
+Meinen starken rechten Arm, so habe ich
+Euch immer genannt. Ich verspreche Euch,
+wenn ich erst König von Schildwacht bin,
+werdet Ihr als reichster aller Fürsten
+des Königreichs an meiner Seite stehen!
+Klingt gut, was? Sobald wir unsere
+Verfolger abgehängt haben, bringt Ihr
+mich nach __safehouse_
+in ____safehouse_.
+ 
+Ich habe dort einen Freund mit einem
+sicheren Haus [_safehouse_],
+der mir helfen wird, meine Eroberung
+von Schildwacht neu zu organisieren.
+Geht voran, Freund %pcn, lasst
+uns von hier verschwinden! 
+
+Message:  1050
+Schlagt Alarm! Fürst K'avar entkommt!
+=guards_, kommt schnell!
+
+Message:  1051
+Fürst K'avar ergreift Eure Hand
+und sagt aufrichtig:
+  
+ "Ich danke Euch dafür, dass Ihr mich aus
+ dieser schwarzen Grube der Verzweiflung
+ gerettet habt, aber hier werde ich mich
+ von Euch trennen müssen." 
+
+Message:  1060
+Habt Ihr gehört, dass Fürst K'avar von Schildwacht wegen
+Verrats hingerichtet wurde? Das war wohl ein ganz
+schönes Spektakel - sie haben ihn auf dem öffentlichen
+Platz vor Königin Akorithis Palast gehängt.
+<--->
+Fürst K'avar von Schildwacht wurde wegen Verrats gehängt.
+Sie sagen, er habe vor seinem Tod ziemlich schmachvoll
+um sein Leben gefleht.
+
+Message:  1070
+Ein Kurier ruft, dass Ihr auf Ihn warten sollt.
+"%pcn, richtig? Dieser Brief ist für Euch.
+Ich muss los!"
+

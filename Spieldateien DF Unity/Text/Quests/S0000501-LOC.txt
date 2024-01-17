@@ -1,0 +1,143 @@
+Quest: S0000501
+DisplayName: K'avars Komplott, Teil 3 
+QRC:
+
+QuestComplete:  [1004]
+%pcn, ich wusste, dass ich mich
+auf Euch verlassen kann. Die Freundschaft
+der Königin von Schildwacht ist zwar
+Belohnung genug, aber ich habe auch noch
+ein paar greifbare Geschenke vorbereitet.
+
+RumorsDuringQuest:  [1005]
+Ich habe gehört, dass Fürst K'avar aus dem Kerker
+des Palastes von Schildwacht entkommen ist. Er sollte
+wegen Verrats hingerichtet werden.
+
+RumorsPostsuccess:  [1007]
+Fürst K'avar hat versucht, den Hof von Wegesruh dazu zu
+bewegen, seinen Anspruch auf den Thron von Schildwacht
+zu unterstützen, aber Königin Akorithis Agenten haben
+ihn vorher aufgespürt. Niemand weiß, was mit ihm passiert
+ist, aber ich vermute, er ist tot.
+
+Message:  1020
+%qdt:
+ Ich habe einen Brief der Königin Akorithi
+ von Schildwacht erhalten. Sie schreibt,
+ dass Fürst K'avar entkommen ist. Sie
+ würde es begrüßen, wenn ich sie wegen
+ seiner Verfolgung aufsuchen könnte.
+
+Message:  1021
+%qdt:
+ Königin Akorithis Spione haben erfahren,
+ dass Fürst K'avar in Wegesruh ist und
+ dort gegen Schildwacht aufwiegelt.
+ Er versteckt sich irgendwo in den
+ Verliesen des königlichen Schlosses.
+ Ich soll ihn finden und für seine
+ Hinrichtung zurück nach Schildwacht
+ bringen.
+
+Message:  1022
+%qdt:
+ Fürst K'avar ist jetzt mein Gefangener.
+ Ich bin auf dem Weg zurück nach Schildwacht,
+ um ihn an Königin Akorithi auszuliefern.
+
+Message:  1030
+%pcn,
+ 
+     ich bedaure Euch mitteilen zu müssen,
+ dass der noble Dienst, den Ihr Schildwacht
+ erwiesen habt, wieder ungeschehen gemacht
+ wurde. Fürst K'avar hat offenbar noch immer
+ einige Freunde. Wenige Tage bevor er gehängt
+ werden sollte ist er aus dem Kerker entkommen.
+ 
+     Ich wäre Euch sehr dankbar, wenn Ihr
+ mir helfen würdet, diese Angelegenheit ein
+ für alle Mal aus der Welt zu schaffen.
+ Bitte sucht mich sobald wie möglich auf.
+ 
+ Eure Freundin,
+ 
+<ce>Königin Akorithi von Schildwacht
+
+Message:  1031
+Ein stämmiger Ritter im Wappenrock von Schildwacht
+bleibt vor Euch stehen und grüßt.
+ 
+ "%pcn? Brief für Euch - eine persönliche
+  Botschaft von Königin Akorithi höchselbst."
+
+Message:  1040
+Ah, %pcn, ich hatte gehofft, dass Ihr kommen
+würdet. Meine Spione haben den flüchtigen Fürst
+K'avar ausfindig gemacht. Von allen Orten ist er
+ausgerechnet am Hof von Wegesruh aufgetaucht,
+wo er anscheinend versucht, Unterstützung für
+seinen lächerlichen Anspruch auf meinen Thron
+zu finden. Wegesruh würde es nicht wagen,
+einem verurteilten Hochverräter an Schildwacht
+offen Zuflucht zu gewähren, aber er versteckt
+sich irgendwo in Schloss Wegesruh. Ich will,
+dass Ihr ihn findet und zurückbringt. Wenn
+möglich lebend, aber tötet ihn, wenn es
+notwendig ist. Lasst ihn nicht ein weiteres
+Mal entkommen.
+
+Message:  1041
+Ihr schon wieder! %oth,
+werdet Ihr mich nie in Frieden lassen?
+Diesmal werde ich Euch erledigen!
+
+Message:  1042
+"Halt! Tötet mich nicht! Ich ergebe mich!"
+ 
+Nehmt Ihr Fürst K'avars Kapitulation an?
+
+Message:  1043
+Der Verräter Fürst K'avar ist tot.
+
+Message:  1044
+Fürst K'avar lässt seine Waffe
+fallen. Ihr fesselt schnell seine
+Hände und verbindet ihm die Augen,
+um weitere Tricksereien zu verhindern.
+Nun zu Eurer Flucht aus Wegesruh ...
+
+Message:  1045
+Dann, bei %god, sollen wir zusammen sterben!
+
+Message:  1050
+Sieh an, wenn das nicht mein treuer Fürst
+K'avar ist, endlich zu mir zurückgekehrt.
+Habt Ihr wirklich geglaubt, Ihr könntet
+meinem Zorn entkommen?
+ 
+Wachen, bringt ihn nach unten! Er soll
+unverzüglich exekutiert werden.
+
+Message:  1051
+Fürst K'avar hat den Tod verdient.
+Ich hätte es vorgezogen, ihn als
+Exempel für seinesgleichen öffentlich
+hinrichten zu lassen, aber es freut mich,
+dass diese schmutzige Angelegenheit
+endlich beendet ist.
+
+Message:  1060
+Habt Ihr wirklich geglaubt, Ihr könntet
+Fürst K'avar so einfach loswerden?
+Einen Fürst von Schildwacht macht
+man sich besser nicht zum Feind!
+
+Message:  1061
+Ein Ritter im Wappenrock von
+Schildwacht tritt auf Euch zu.
+ 
+ "Ich werde Euch diesen verräterischen
+  Schweinehund K'avar jetzt abnehmen."
+ 
