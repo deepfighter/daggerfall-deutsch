@@ -40,7 +40,7 @@ Key,Value
 40253489,Syro-Kom
 41303972,Stendarrs Blutendes Licht
 42353413,Ruinen von Alt-Lerkfas Hütte
-43402098,Ruinen des Krofylen-Gerichtshofs
+43402098,Ruinen des Krofylen-Hofs
 44450710,Turm von Caect'kern
 45499404,Stendarrs Blutender Seher
 46548913,Ruinen von Alt-Mhorcistatt
@@ -69,7 +69,7 @@ Key,Value
 70673223,Dasenturm
 71722522,Alte Mught-si-Hütte
 72771108,Stendarrs Feuriges Götterbild
-73819798,Khurtin-Gerichtshof
+73819798,Khurtin-Hof
 74868381,Osopaisa
 75917092,Flor-Grube
 76966430,Maelinxullah-Einsiedelei
@@ -101,7 +101,7 @@ Key,Value
 104235398,Stendarrs Sanfter Stern
 105283981,Kildir-Gräberfeld
 106332587,Ruinen des Maarp-Turms
-107381381,Sairer-Gerichtshof
+107381381,Sairer-Hof
 108429959,Schloss Vorg
 109479287,Ruinen des Vluctten-Gehöfts
 110527893,Sahuagex-Höhle
@@ -147,7 +147,7 @@ Key,Value
 152480861,Baalateusessa-Kaverne
 153529477,Slugir-Gräberfeld
 154578056,Taverne Zum Roten Riesen
-155627572,Ruinen des Rlictt-Gerichtshofs
+155627572,Ruinen des Rlictt-Hofs
 156676394,Gasthaus Zum Dürstenden Schloss
 157725708,Ruinen von Fherkins Wacht
 158774290,Schenke Zum Toten Dschinn
@@ -196,7 +196,7 @@ Key,Value
 203879193,Glorks Feste
 204928583,Schuppen der Alten Cughtca
 205977264,Taverne Zu Zwerg und Wache
-207025856,Ruinen des Therhtta-Gerichtshofs
+207025856,Ruinen des Therhtta-Hofs
 208074444,Faofylars Wacht
 209123897,Stendarrs Ewiger Erlöser
 210173448,Schrein von Ephen
@@ -220,7 +220,7 @@ Key,Value
 229053016,Gripbith-Netz
 230101594,Mesopada
 231152074,Togem-Anwesen
-232200795,Ruinen des C'orc-Gerichtshofs
+232200795,Ruinen des C'orc-Hofs
 233250323,Ruinen des Baerd'kern-Anwesens
 234299737,Stendarrs Gesegnete Seele
 235348344,Blithhall
@@ -263,7 +263,7 @@ Key,Value
 274158713,Hütte der Alten Stachum
 275207373,Stendarrs Heiliges Omen
 276256713,Bi-Korom
-277305359,Ruinen des Bluchin-Gerichtshofs
+277305359,Ruinen des Bluchin-Hofs
 278353957,Troglobith-Netz
 279402560,Schenke Zum Tänzelnden Schädel
 280451157,Ruinen von Alt-Curpunstatt
@@ -383,7 +383,7 @@ Key,Value
 39104906,Taverne Zu Maulwurf und Greifen
 40153505,Wirtshaus Zum Roten Dschinn
 41202086,Atrandarea
-42250688,Gheghte-Gerichtshof
+42250688,Gheghte-Hof
 43300230,Ruinen von Alt-Nhornkis Hütte
 44349839,Taverne Zum Güldnen Jägersmann
 45398435,Herberge Zum Schwarzen Schloss
@@ -449,7 +449,7 @@ Key,Value
 108339922,Vaghtampfalz
 109388506,Dhart-Anwesen
 110437084,Atretturana
-111485666,Ruinen des Fectan-Gerichtshofs
+111485666,Ruinen des Fectan-Hofs
 112534275,Schloss Flarcke
 113583869,Arkays Sanftes Licht
 114632454,Sekithoth-Horst
@@ -469,7 +469,7 @@ Key,Value
 129318524,Schenke Zu Fuchs und Barbaren
 130368048,Vlorte-Tunnel
 131416636,Friedhof Bluct
-132465238,Ruinen des Flillon-Gerichtshofs
+132465238,Ruinen des Flillon-Hofs
 133513843,Krypten von Rlertim
 134563343,Saistta-Stollen
 135611974,Arkays Steter Seher
@@ -524,7 +524,7 @@ Key,Value
 187009243,Doj-Anwesen
 188058712,Reliquiar von Sai
 189107315,Rishke-Gräberfeld
-190155935,M'izt-Gerichtshof
+190155935,M'izt-Hof
 191204528,B'ug-Ausgrabung
 192253106,Choldams Wacht
 193301694,Gutshof Vofyler
@@ -549,7 +549,7 @@ Key,Value
 213230643,Arkays Feurige Wiedergeburt
 214279228,Arkays Ewiges Orakel
 215328727,Pheonewan
-216377313,Tloctar-Gerichtshof
+216377313,Tloctar-Hof
 217425940,Arkays Gesegnetes Licht
 218474536,Pheoniritor
 219524037,Grabstätten von V'othe
@@ -561,7 +561,7 @@ Key,Value
 225816546,Taverne Zu Des Teufels Wolf
 226866112,Arkays Endlose Seele
 227914703,Stafylan-Obstgarten
-228963299,Maustta-Gerichtshof
+228963299,Maustta-Hof
 230012756,Syriidisu
 231061403,Alter Glorch-Schuppen
 232110005,Ruinen des Circh-Gehöfts
@@ -610,7 +610,7 @@ Key,Value
 277207872,Rlorin-Stollen
 278256620,Friedhof Shrirchen
 279305835,Agunnuton
-280354454,Ruinen des Cerk-Gerichtshofs
+280354454,Ruinen des Cerk-Hofs
 281403107,Boirdthall
 282451687,Shirt-Plantage
 283500290,Wirtshaus Zum Glücklosen Jägersmann
@@ -690,7 +690,7 @@ Key,Value
 361109009,C'uze-Blockhütte
 362157694,Ruinen von Rerkans Wacht
 363207017,Grube des Gerasena
-364255625,Maurk-Gerichtshof
+364255625,Maurk-Hof
 365304319,Ruinen des Vleght-Gehöfts
 366352900,Loch des Jubateus
 367401481,Wirtshaus Zum Wilden Gauner
@@ -713,7 +713,7 @@ Key,Value
 385229376,Ghorhtumhall
 386278617,Taverne Zu Des Teufels Stachelschwein
 387327293,Schenke Zu Knappen und Dachs
-388375874,Ruinen des Dhorchur-Gerichtshofs
+388375874,Ruinen des Dhorchur-Hofs
 389424474,Wirtshaus Zu Biber und Schädel
 390473067,Wirtshaus Zu Maus und Skorpion
 391521701,Karmar-Anwesen
@@ -725,10 +725,10 @@ Key,Value
 397814096,Friedhof Thectur
 398862681,Rhogillirea
 399911306,D'ith-Gräberfeld
-400960003,Klarpom-Gerichtshof
+400960003,Klarpom-Hof
 402008582,Ramohabu
 403057878,Gasthaus Zu Des Königs Bisam
-404106556,Ruinen des Vlesh'kern-Gerichtshofs
+404106556,Ruinen des Vlesh'kern-Hofs
 405155141,Gravten-Gräberfeld
 406203744,Wirtshaus Zum Heulenden Dachs
 407252359,Herberge Zu Knappen und Katze
@@ -822,7 +822,7 @@ Key,Value
 499538966,Taverne Zum Fliegenden Riesen
 500587544,Fegenpfalz
 501636224,Bourtenhall
-502684832,Ruinen des Grirun-Gerichtshofs
+502684832,Ruinen des Grirun-Hofs
 503733446,Bubobia
 504782726,Ruinen des Alte-B'aldja-Bauernhofs
 505831379,Arkays Furchtsamer Stern
@@ -847,7 +847,7 @@ Key,Value
 525756304,Steingrab des Balthimeon
 526804889,Ruinen des Alte-Morntha-Bauernhofs
 527853505,Ruinen des F'uth-Gehöfts
-528902110,Ghildir-Gerichtshof
+528902110,Ghildir-Hof
 529950725,Diver-Gehöft
 530999355,Vlirg-Gehöft
 532047934,Schenke Zum Fliegenden Skorpion
@@ -915,7 +915,7 @@ Key,Value
 597066710,Arkays Blutender Aufstieg
 598116045,Vert-Gehöft
 599164838,D'urdems Feste
-600213419,Certen-Gerichtshof
+600213419,Certen-Hof
 601262816,F'urdin-Gutshof
 602311429,Alt-Blarttastatt
 603360154,Ruinen von Alt-Faorchthas Schuppen
@@ -924,7 +924,7 @@ Key,Value
 606505916,Arkays Klagendes Omen
 607555179,Arkays Ewiger Seher
 608603803,Schenke Zum Wilden Krug
-609652458,Shrargin-Gerichtshof
+609652458,Shrargin-Hof
 610701047,Taverne Zum Rostroten Schwert
 611749757,Ruinen des Turms von Saurt
 612798348,Arkays Singender Erlöser
@@ -1007,7 +1007,7 @@ Key,Value
 693557708,Baghahator
 694607065,Alt-Muldanstatt
 695655820,Arkays Endloser Stern
-696704415,Vartom-Gerichtshof
+696704415,Vartom-Hof
 697753005,Ruinen des Gutshofs von Fhurkan
 698802314,Arkays Furchtsames Licht
 699850927,Friedhof Nazam
@@ -1189,7 +1189,7 @@ Key,Value
 884433535,Hexenzirkel der Gipfel
 885482974,B'ig-Anwesen
 886531601,Ruinen des Krarpen-Gehöfts
-887580190,Caoghtun-Gerichtshof
+887580190,Caoghtun-Hof
 888628769,Cyujrn-Ausgrabung
 889677355,Alt-Raeldstatt
 890725940,Alt-Klictimstatt
@@ -1269,7 +1269,7 @@ Key,Value
 11551845,Reliquiar von Raen
 12600425,Tonnhaupt
 13649009,Aschfelden-Friedhof
-14697587,Königsschwing-Gerichtshof
+14697587,Königsschwing-Hof
 15746167,Königsfurt-Gehöft
 16794750,Reliquiar von Sai
 17843330,Schrein von Q'Olwen
@@ -1347,7 +1347,7 @@ Key,Value
 93350776,Gaerheim-Gehöft
 94399358,Krypten von Bockenschmied
 95447936,Yromstein-Anwesen
-96496520,Herdhart-Gerichtshof
+96496520,Herdhart-Hof
 97545105,Lembürg
 98593693,Königsheim-Anwesen
 99642276,Grotte des Gerebon
@@ -1371,7 +1371,7 @@ Key,Value
 118518662,Rittersanger
 119568169,Strenners Zuflucht
 120616748,Kernmarkt
-121665336,Meisteranger-Gerichtshof
+121665336,Meisteranger-Hof
 122713915,Kernbrügge
 123762511,Krummwies
 124811089,Moorfeldenpfalz
@@ -1406,7 +1406,7 @@ Key,Value
 155223763,Herberge Zu Feder und Schloss
 156272344,Schrein für Mai
 157320925,Alt-Barbyssastatt
-158369513,Urighart-Gerichtshof
+158369513,Urighart-Hof
 159418121,Agrynaks Wacht
 160466700,Moorheim-Gehöft
 161515287,Moorangerpfalz
@@ -1454,7 +1454,7 @@ Key,Value
 205561396,Schloss Balthelulon
 206609974,Mooranger-Anwesen
 207658581,Stockfelden
-208707200,Wehrtürm
+208707200,Wehrturm
 209755779,Grünfelden-Anwesen
 210804360,Meisterfelden-Gräberfeld
 211853856,Urighaus-Turm
@@ -1482,7 +1482,7 @@ Key,Value
 234923610,Urigfeld-Anwesen
 235973089,Quellstadt
 237021668,Ypswald
-238070297,Yromstein-Gerichtshof
+238070297,Yromstein-Hof
 239118883,Yromhart-Anwesen
 240167461,Herberge Zu Fuchs und Greifen
 241216042,Herdlisthall
@@ -1533,7 +1533,7 @@ Key,Value
 288407903,Aschli-Gehöft
 289456481,Wilderfelden
 290505062,Mai-Schrein
-291553648,Wildertürm
+291553648,Wilderturm
 292602243,Weisen-Monument
 293650828,Langmüh
 294699417,Hochhauptmoor
@@ -1567,7 +1567,7 @@ Key,Value
 324062553,Ypskamm
 325111152,Gasthaus Zum Schmutzigen Vogel
 326160634,Herberge Zu Zwerg und Schwert
-327209212,Ruinen des Königsschmied-Gerichtshofs
+327209212,Ruinen des Königsschmied-Hofs
 328257794,Julianos' Blutende Seele
 329306373,Aschstein-Friedhof
 330354960,Aschheim-Gehöft
@@ -1661,7 +1661,7 @@ Key,Value
 422643669,Gutshof Herdli
 423693192,Taverne Zu Knappen und Hund
 424741785,Kupfanger-Friedhof
-425790366,Gaeranger-Gerichtshof
+425790366,Gaeranger-Hof
 426838944,Gaerfeld-Gehöft
 427887523,Burkhaupt
 428936102,Divad-Monument
@@ -1786,7 +1786,7 @@ Key,Value
 553735638,Mitttal
 554784223,Nest von Grolnotor
 555832801,Gothbergen
-556881382,Ruinen des GutshofsGrünfeld
+556881382,Ruinen des Gutshofs von Grünfeld
 557929967,Sais Reliquienhaus
 558978548,Gothtal
 560027126,Verovanhall
@@ -1817,7 +1817,7 @@ Key,Value
 586247529,Schwarzanger
 587296108,Schwarzfalter
 588344688,Aschlipfalz
-589393266,Ruinen des Grünstein-Gerichtshofs
+589393266,Ruinen des Grünstein-Hofs
 590442789,Wildertreu
 591491382,Tannbergen
 592539962,Taverne Zum Wilden Oger
@@ -1836,7 +1836,7 @@ Key,Value
 606173475,Gaerhart-Plantage
 607222059,Waldfelden-Gehöft
 608271575,Wirtshaus Zum Roten Helm
-609320168,Westtürm
+609320168,Westturm
 610368764,Skulgoth-Netz
 611417357,Kastelfelden
 612465935,Kastelhaupt
@@ -1865,7 +1865,7 @@ Key,Value
 636587130,Julianos' Furchtsamer Aufstieg
 637635710,Bedyn-Korrektorium
 638684305,Falklist-Ruinen
-639732883,Yromtreu-Gerichtshof
+639732883,Yromtreu-Hof
 640781490,Herberge Zum Heulenden Riesen
 641830073,Grüntreu-Grabanlage
 642879598,Rissauheide
@@ -1955,12 +1955,12 @@ Key,Value
 730973998,Herberge Zum Dürstenden Dachs
 732022579,Strenner-Zuflucht
 733071170,Taverne Zu Des Teufels Gauner
-734120713,Grünheim-Gerichtshof
+734120713,Grünheim-Hof
 735169297,Grünanger-Schuppen
 736218876,Langbronn
 737267460,Langfelden
 738316045,Kreuzbruch
-739364625,Ruinen des GutshofsBockenli
+739364625,Ruinen des Gutshofs von Bockenli
 740414174,Yromanger-Gehöft
 741462775,Gutshof Kupfschwing
 742512330,Wirtshaus Zum Purpurnen Drachen
@@ -1992,7 +1992,7 @@ Key,Value
 769787326,Aschstein-Gehöft
 770836874,Bockenhaus-Anwesen
 771885456,Aschschwing-Obstgarten
-772934043,Aschtreu-Gerichtshof
+772934043,Aschtreu-Hof
 773982625,Jodes Schrein
 775031204,Kreuzbet
 776079785,Ruinen von Aschtreuhall
@@ -2005,7 +2005,7 @@ Key,Value
 783422786,Herdfeld-Hütte
 784471376,Ephen-Schrein
 785519965,Julianos' Gesegneter Märtyrer
-786569518,Gaerheim-Gerichtshof
+786569518,Gaerheim-Hof
 787618097,Arkenweg
 788666676,Taverne Zu Des Teufels Schlund
 789715272,Herberge Zum Rostroten Goblin
@@ -2049,7 +2049,7 @@ Key,Value
 13801128,Königslist-Obstgarten
 14850712,Ruinen der alten Grüntreu-Hütte
 15899294,Moorhaus-Gehöft
-16955879,Ruinen des GutshofsMeisterli
+16955879,Ruinen des Gutshofs von Meisterli
 18008477,Ruinen der Feste Grünschwing
 19063095,Ruinen von Alt-Evelannas Schuppen
 20115597,Singbruch
@@ -2095,7 +2095,7 @@ Key,Value
 62088691,Aschlist-Friedhof
 63139260,Vojrahoth-Nest
 64187869,Meistertreu-Friedhof
-65237397,Ruinen des Kupffelden-Gerichtshofs
+65237397,Ruinen des Kupffelden-Hofs
 66289023,Ruinen des alten Königsfurt-Schuppens
 67338571,Ruinen der Waldfeldenpfalz
 68391165,Krypten von Königsheim
@@ -2131,7 +2131,7 @@ Key,Value
 29814665,Rilpte-Minen
 30863270,Ruinen der Zitadelle von Tlernrn
 31911898,Friedhof Tishan
-32961436,Ruinen des Saollin-Gerichtshofs
+32961436,Ruinen des Saollin-Hofs
 34010017,Lurchirturm
 35058602,Taz-Obstgarten
 36107196,Alt-Naghtemstatt
@@ -2221,7 +2221,7 @@ Key,Value
 124211637,Alter Merpin-Schuppen
 125260254,Sahodon-Priorei
 126309731,Chalp-Plantage
-127359300,Ruinen des Faell-Gerichtshofs
+127359300,Ruinen des Faell-Hofs
 128407941,Nirp-Gräberfeld
 129456566,Ruinen des alten D'urnam-Schuppens
 130505957,Schenke Zum Heulenden Helm
@@ -2248,7 +2248,7 @@ Key,Value
 152530204,Ruinen von Krorcimhall
 153578823,Grube des Dispinx
 154627401,Ruinen des B'urder-Turms
-155676749,Ruinen des Nujt-Gerichtshofs
+155676749,Ruinen des Nujt-Hofs
 156725374,Netz von Grumthor
 157773967,Ruinen des Lerd-Anwesens
 158822559,Ruinen von Alt-Krazbas Schuppen
@@ -2259,7 +2259,7 @@ Key,Value
 164067428,Cosam-Gehöft
 165116053,Alter T'orhtun-Schuppen
 166164723,Nest von Anhoth
-167214070,Ruinen des Goghten-Gerichtshofs
+167214070,Ruinen des Goghten-Hofs
 168262662,Ruinen des Gutshofs von Buz'kern
 169311276,Jubitherulla-Loch
 170359865,Challur-Stollen
@@ -2334,7 +2334,7 @@ Key,Value
 35655395,Rodyn-Tunnel
 36704011,Waldschmied-Grabstätten
 37752631,Kupfschmied-Schuppen
-38801209,Ruinen des Gaerschmied-Gerichtshofs
+38801209,Ruinen des Gaerschmied-Hofs
 39849797,Schenke Zum Silbernen Dschinn
 40898431,Aschfurt-Schuppen
 41947686,Wannfeldenhall
@@ -2356,11 +2356,11 @@ Key,Value
 58725972,Ruinen von Schloss Urighaus
 59774562,Steinbruch des Rodyctor
 60823183,Möhrleck
-61871781,Ruinen des GutshofsKönigsheim
+61871781,Ruinen des Gutshofs von Königsheim
 62920368,Bockenheim-Gehöft
 63968949,Ruinen des Grünheim-Anwesens
 65017553,Kupfschwing-Grabstätten
-66066147,Gaerhart-Gerichtshof
+66066147,Gaerhart-Hof
 67114744,Kynareths Feuriger Stern
 68163339,Meisterschmied-Gehöft
 69211989,Gutshof Mooranger
@@ -2388,7 +2388,7 @@ Key,Value
 92282534,Kynareths Sanfte Dämmerung
 93331134,Kynareths Inneres Götterbild
 94379718,Kupffurt-Obstgarten
-95428310,Grünhart-Gerichtshof
+95428310,Grünhart-Hof
 96477633,Urigschwing-Anwesen
 97526214,Falktreu-Anwesen
 98574845,Ruinen des Kupfsteinturms
@@ -2410,7 +2410,7 @@ Key,Value
 115353015,Gothburg
 116401689,Gothwerk
 117450301,Kynareths Heiliger Seher
-118498889,Ruinen des Aschheim-Gerichtshofs
+118498889,Ruinen des Aschheim-Hofs
 119547483,Feste von Aschlist
 120596066,Herdanger-Schuppen
 121644647,Schrein von Q'Olwen
@@ -2481,7 +2481,7 @@ Key,Value
 189806134,Kreuzfurt
 190854723,Alt-Belladoryastatt
 191903306,Sahilitherullah-Höhle
-192951896,Ruinen des GutshofsGrünschwing
+192951896,Ruinen des Gutshofs von Grünschwing
 194000478,Schenke Zu Zwerg und Kitz
 195049067,Loch des Homunebrotha
 196097657,Dispogul-Grotte
@@ -2508,8 +2508,8 @@ Key,Value
 218119435,Dispul-Loch
 219168019,Gutshof Meisterli
 220216600,Moortreu-Schuppen
-221265198,Ruinen des Grünschwing-Gerichtshofs
-222313857,Beltürm
+221265198,Ruinen des Grünschwing-Hofs
+222313857,Belturm
 223362447,Festung von Waldheim
 224411033,Bockenli-Gehöft
 225459674,Höhle des Balorgon
@@ -2613,7 +2613,7 @@ Key,Value
 328228031,Ruinen der alten Yromfurt-Hütte
 329276668,Yromfelden-Hütte
 330325274,Gasthaus Zum Güldnen Hirsch
-331373876,Ruinen des Bockentreu-Gerichtshofs
+331373876,Ruinen des Bockentreu-Hofs
 332422496,Herberge Zu Zwerg und Dachs
 333471090,Rittersmüh
 334519687,Uriglist-Obstgarten
@@ -2886,7 +2886,7 @@ Key,Value
 614508280,Raens Reliquiar
 615556858,Königsschmied-Friedhof
 616605521,Grünfeldenhall
-617654124,Ruinen des Bockenschmied-Gerichtshofs
+617654124,Ruinen des Bockenschmied-Hofs
 618702705,Alt-Lamwellstatt
 619751314,Herberge Zum Dürstenden Gauner
 620799900,Meisterlistatt
@@ -2917,13 +2917,13 @@ Key,Value
 647017131,Agristyr-Steinbruch
 648065713,Kynareths Heiliger Aufstieg
 649114294,Tricerridon
-650162887,Ruinen des GutshofsBockenfelden
+650162887,Ruinen des Gutshofs von Bockenfelden
 651211473,Wirtshaus Zum Kreischenden Murmeltier
 652260127,Ruinen des Meisterstein-Anwesens
 653308718,Kynareths Singender Aufstieg
 654357299,Krummtreu
 655405899,Ruinen von Gaerschmiedhall
-656454522,Ruinen des Yromli-Gerichtshofs
+656454522,Ruinen des Yromli-Hofs
 657503108,Turm von Urigschmied
 658551692,Langbrunn
 659600289,Meisterhaus-Gräberfeld
@@ -2940,7 +2940,7 @@ Key,Value
 671135577,Andore-Steinbruch
 672184183,Ruinen der Moorheim-Plantage
 673232779,Gutshof Meisterfelden
-674282062,Ruinen des Waldfurt-Gerichtshofs
+674282062,Ruinen des Waldfurt-Hofs
 675330640,Tonnfort
 676379243,Tonntal
 677427824,Kynareths Singender Märtyrer
@@ -3042,7 +3042,7 @@ Key,Value
 778099146,Ruinen von Alt-Vannynas Schuppen
 779147739,Wirtshaus Zum Heulenden Hirsch
 780196348,Schlupfwinkel des Correhor
-781245023,Ruinen des Moorfelden-Gerichtshofs
+781245023,Ruinen des Moorfelden-Hofs
 782293601,Meisterlists Wacht
 783342188,Ruinen der Feste Yromfeld
 784391577,Kynareths Gesegnetes Orakel
@@ -3067,7 +3067,7 @@ Key,Value
 804315709,Gutshof Waldli
 805364290,Gasthaus Zur Wilden Grube
 806412870,Alte Carolyvyra-Hütte
-807462219,Schenke Zum Rastloen Murmeltier
+807462219,Schenke Zum Rastlosen Murmeltier
 808510798,Zitadelle von Herdstein
 809559408,Herberge Zum Roten Schloss
 810607996,Wirtshaus Zum Heulenden Humpen
@@ -3107,8 +3107,8 @@ Key,Value
 846261754,Herdschwing-Gehöft
 847310332,Burg von Königsschwing
 848358913,Meisterhart-Friedhof
-849407505,Kupfhart-Gerichtshof
-850456083,Ruinen des Waldfelden-Gerichtshofs
+849407505,Kupfhart-Hof
+850456083,Ruinen des Waldfelden-Hofs
 851505497,Falkfelden-Blockhütte
 852554075,Urigfelden-Gräberfeld
 853602667,Chrystorya-Tradition
@@ -3142,7 +3142,7 @@ Key,Value
 882965937,Ruinen von Alt-Elyzoryastatt
 884014525,Schloss Urigheim
 885063104,Schrein für Ephen
-886112463,Ruinen des GutshofsBockentreu
+886112463,Ruinen des Gutshofs von Bockentreu
 887161089,Schloss Yromschwing
 888209690,Schwarzdorf
 889258271,Kynareths Ewige Wiedergeburt
@@ -3169,10 +3169,10 @@ Key,Value
 911279528,Wirtshaus Zu Unke und Schloss
 912328106,Grünli-Gehöft
 913377519,Hezardon
-914426097,Aschhaus-Gerichtshof
+914426097,Aschhaus-Hof
 915474699,Schrein für Dugrod
 916523296,Urigtreu-Gehöft
-917571880,Tannwichen-Gerichtshof
+917571880,Tannwichen-Hof
 918620472,Falklist-Gehöft
 919669060,Kupfschwing-Gehöft
 920717642,Hochmüh
@@ -3208,7 +3208,7 @@ Key,Value
 952178807,Ruinen des Aschli-Turms
 953227386,Aldingwald
 954275965,Ruinen des Grünheimturms
-955324597,Mooranger-Gerichtshof
+955324597,Mooranger-Hof
 956373178,Versteck von Asmululullah
 957421801,Ruinen des Aschschmied-Anwesens
 958470411,Steingrab des Inveroghion
@@ -3243,7 +3243,7 @@ Key,Value
 988882064,Kirchkester
 989930645,Ruinen der Falkhart-Blockhütte
 990979223,Uriglistturm
-992027823,Ruinen des GutshofsBockenhaus
+992027823,Ruinen des Gutshofs von Bockenhaus
 993076422,Ruinen der Bockentreupfalz
 994125848,Schenke Zu Luchs und Ziege
 995174436,Wirtshaus Zum Rastlosen Drachen
@@ -3274,7 +3274,7 @@ Key,Value
 1021391740,Morirrugoth
 1022440336,Gaerstein-Obstgarten
 1023488920,Geruchitheria-Grotte
-1024537506,Ruinen des Urighart-Gerichtshofs
+1024537506,Ruinen des Urighart-Hofs
 1025586137,Wehrburg
 1026634743,Bauernhof der Alten Vannausa
 1027683347,Gutshof Moorfelden
@@ -3304,7 +3304,7 @@ Key,Value
 1052851157,Alt-Barbannastatt
 1053899747,Urigfeldstatt
 1054948354,Arkenwies
-1055996932,Ruinen des Meisterstein-Gerichtshofs
+1055996932,Ruinen des Meisterstein-Hofs
 1057045535,Königsschmied-Gewölbe
 1058094128,Wirtshaus Zur Toten Fee
 1059142717,Schloss Yromtreu
@@ -3361,9 +3361,9 @@ Key,Value
 1112623938,Waldschwing-Schuppen
 1113672532,Jodes Schrein
 1114721127,Wirtshaus Zu Zwerg und Wache
-1115769719,Ruinen des GutshofsMoorlist
+1115769719,Ruinen des Gutshofs von Moorlist
 1116818297,Herdhaus-Obstgarten
-1117866914,Ruinen des GutshofsFalkfeld
+1117866914,Ruinen des Gutshofs von Falkfeld
 1118915512,Königslist-Friedhof
 1119964113,Bauernhof der Alten Belladabyth
 1121012717,Dunoryan-Steinbruch
@@ -3379,7 +3379,7 @@ Key,Value
 1131500230,Kynareths Furchtsame Seele
 1132548809,Kynareths Ewiges Licht
 1133597461,Moorfurt-Krypten
-1134646138,Moorschmied-Gerichtshof
+1134646138,Moorschmied-Hof
 1135694746,Kupfanger-Schuppen
 1136743328,Bockenlis Wacht
 1137791940,Alt-Vyctabythstatt
@@ -3411,7 +3411,7 @@ Key,Value
 1165057842,Gaerfeld-Turm
 1166106445,Gräber von Bockenli
 1167155023,Grabstätte des Lithehulon
-1168203606,Herberge Zum Rastloen Stachelschwein
+1168203606,Herberge Zum Rastlosen Stachelschwein
 1169252189,Grube des Maron
 1170300768,Königsschmied-Gehöft
 1171349380,Aschschwing-Gräberfeld
@@ -3485,7 +3485,7 @@ Key,Value
 1242660388,Langhaupt
 1243708968,Königsstein-Friedhof
 1244757552,Ruinen des Waldli-Anwesens
-1245806148,Ruinen des Moorhart-Gerichtshofs
+1245806148,Ruinen des Moorhart-Hofs
 1246854755,Ruinen von Alt-Carolyrryas Schuppen
 1247903358,Gaerfurt-Gehöft
 1248951950,Steinbruch des Tristastyr
@@ -3577,7 +3577,7 @@ Key,Value
 1339138290,Falklist-Plantage
 1340186878,Falkstein-Gehöft
 1341235466,Gaerfelden-Gehöft
-1342284067,Ruinen des GutshofsKönigsstein
+1342284067,Ruinen des Gutshofs von Königsstein
 1343332645,Möhrgrat
 1344381227,Oxenkamm
 1345429816,Kirchwall
@@ -3762,7 +3762,7 @@ Key,Value
 1533142100,Bauernhof der Alten Elyzyvyra
 1534191447,Kynareths Ewiger Prophet
 1535240057,Ruinen von Gaerharthall
-1536288656,Ruinen des GutshofsHerdheim
+1536288656,Ruinen des Gutshofs von Herdheim
 1537337244,Grünhart-Gräberfeld
 1538385872,Grabstätten von Moorlist
 1539434493,Schloss Aschstein
@@ -3886,7 +3886,7 @@ Key,Value
 1663180344,Moorfeldhall
 1664228959,Moorhart-Plantage
 1665277543,Schuppen der Alten Marelle
-1666326160,Ruinen des GutshofsGrünschmied
+1666326160,Ruinen des Gutshofs von Grünschmied
 1667374784,Schloss Herdhaus
 1668423368,Kynareths Feuriger Aufstieg
 1669471963,Gaerlist-Schuppen
@@ -3912,7 +3912,7 @@ Key,Value
 1690445488,Graubergen-Münster
 1691494067,Kupfschwing-Friedhof
 1692542650,Gasthaus Zu Fuchs und Vogel
-1693592043,Ruinen des Kupfhart-Gerichtshofs
+1693592043,Ruinen des Kupfhart-Hofs
 1694640667,Ruinen des Waldfurt-Gehöfts
 1695689323,Ruinen des Alte-Evelara-Bauernhofs
 1696737907,Belhaupt
@@ -3922,7 +3922,7 @@ Key,Value
 1700933082,Schuppen der Alten Chrystanna
 1701981753,Kynareths Blutender Seher
 1703030342,Aldingmor
-1704078953,Gasthaus Zum Rastloen Schloss
+1704078953,Gasthaus Zum Rastlosen Schloss
 1705127541,Singanger
 1706176128,Ruinen des Alte-Belladara-Bauernhofs
 1707225553,Höhle des Demerena
@@ -3937,7 +3937,7 @@ Key,Value
 1716663869,Königslist-Gehöft
 1717712461,Gaerli-Plantage
 1718761856,Turm von Bockenfurt
-1719810472,Singborn-Gerichtshof
+1719810472,Singborn-Hof
 1720859122,Kynareths Innere Wiedergeburt
 1721907776,Ruinen von Schloss Kupfli
 1722957195,Ruinen von Alt-Vannoldas Schuppen
@@ -4010,7 +4010,7 @@ Key,Value
 1793230903,Theodistair-Stollen
 1794279499,Gaerschmieds Wacht
 1795329065,Kynareths Weinender Erlöser
-1796377668,Lemfelden-Gerichtshof
+1796377668,Lemfelden-Hof
 1797426249,Edwyrick-Tunnel
 1798475784,Herdheim-Friedhof
 1799524367,Morlas
@@ -4036,7 +4036,7 @@ Key,Value
 1820500908,Kirchwichen
 1821550434,Gutshof Urigfelden
 1822599014,Langwerkfels
-1823647596,Ruinen des Meisterfeld-Gerichtshofs
+1823647596,Ruinen des Meisterfeld-Hofs
 1824696178,Gutshof Aschfelden
 1825744762,Kupfhart-Plantage
 1826793360,Bockenfelden-Schuppen
@@ -4074,7 +4074,7 @@ Key,Value
 1860357782,Yromtreu-Blockhütte
 1861406384,Yromangerturm
 1862454964,Aschanger-Anwesen
-1863504476,Ruinen des Moortreu-Gerichtshofs
+1863504476,Ruinen des Moortreu-Hofs
 1864553054,Kynareths Endloser Seher
 1865601634,Königshart-Schuppen
 1866651215,Kupfhaus-Plantage
@@ -4116,7 +4116,7 @@ Key,Value
 1904412958,Hohlbergen
 1905461543,Kynareths Seliger Stern
 1906510136,Ruinen von Alt-Gaerlistatt
-1907559692,Panntürm
+1907559692,Pannturm
 1908608273,Burkburgfels
 1909656878,Hütte der Alten Longcastle
 1910706402,Ruinen der Kupflistpfalz
@@ -4175,7 +4175,7 @@ Key,Value
 44182460,Kynareths Singende Wiedergeburt
 45232008,Westleig
 46280586,Wannwallberg
-47329165,Möhrfelden-Gerichtshof
+47329165,Möhrfelden-Hof
 48377753,Langmühfeld
 49427320,Kirchbrunn
 50475913,Meistertreu-Gehöft
@@ -4215,7 +4215,7 @@ Key,Value
 86133397,Schuppen der Alten Ysolda
 87181980,Schloss Waldfelden
 88230562,Mittmor
-89279143,Falkfeld-Gerichtshof
+89279143,Falkfeld-Hof
 90327726,Schenke Zu Der Königin Riesen
 91376364,Kathwies
 92424948,Burkhopen
@@ -4227,7 +4227,7 @@ Key,Value
 98717325,Kynareths Steter Altar
 99765934,Königsfeld-Gehöft
 100815425,Falkfurthall
-101864009,Waldheim-Gerichtshof
+101864009,Waldheim-Hof
 102912587,Festung von Gaerschmied
 103961172,Kynareths Heiliger Altar
 105009761,Schenke Zum Lachenden Dachs
@@ -4247,7 +4247,7 @@ Key,Value
 119690844,Wilderstadt
 120739444,Yromfeld-Grabanlage
 121788033,Gaerli-Anwesen
-122836627,Grüntreu-Gerichtshof
+122836627,Grüntreu-Hof
 123885227,Zitadelle von Yromfelden
 124934670,Taverne Zum Güldnen Kitz
 125983278,Kreuzbürg
@@ -4315,7 +4315,7 @@ Key,Value
 190998955,Schuppen der Alten Gwynyssa
 192047536,Yromhart-Obstgarten
 193096135,Risspfadheide
-194144722,Tieftürm
+194144722,Tiefturm
 195193307,Bedard-Laboratorium
 196241888,Gasthaus Zum Schmutzigen Krug
 197290479,Tiefkester
@@ -4329,7 +4329,7 @@ Key,Value
 205680001,Alte Joslin-Hütte
 206728581,Gothweggarten
 207777159,Burkwid
-208825740,Herdfeld-Gerichtshof
+208825740,Herdfeld-Hof
 209874333,Königsfurt-Hütte
 210922913,Kerker des Peristair
 211971525,Yagrugoth
@@ -4364,7 +4364,7 @@ Key,Value
 242381333,Grünlis Wacht
 243429918,Wannmor
 244479300,Falkheims Feste
-245527879,Ruinen des Urigschmied-Gerichtshofs
+245527879,Ruinen des Urigschmied-Hofs
 246576461,Weisen-Monument
 247625046,Moorhart-Obstgarten
 248673627,Rittersau
@@ -4374,7 +4374,7 @@ Key,Value
 252867956,Krypta des Garomaus
 253916539,Neuheim
 254965120,Gaerhaushall
-256013702,Meisterfurt-Gerichtshof
+256013702,Meisterfurt-Hof
 257062280,Belwerthweiler
 258110861,Ruinen von Aschfurts Feste
 259159439,Gondyrick-Laboratorium
@@ -4388,7 +4388,7 @@ Key,Value
 267548100,Galgbrunn
 268596696,Möhrtor
 269645275,Gasthaus Zum Glücklosen Bisam
-270693858,Königsfurt-Gerichtshof
+270693858,Königsfurt-Hof
 271742456,Taverne Zum Weißen Dachs
 272791039,Singbrunn
 273839617,Singbruchwald
@@ -4431,7 +4431,7 @@ Key,Value
 312638885,Langbergen
 313687467,Schuppen der Alten Belladyn
 314736051,Uriganger-Schuppen
-315784636,Ruinen des GutshofsKupfschmied
+315784636,Ruinen des Gutshofs von Kupfschmied
 316833219,Schrein von Mai
 317881806,Taverne Zu Knappen und Ziege
 318930388,Ypstal
@@ -4462,10 +4462,10 @@ Key,Value
 345145773,Waldfelds Wacht
 346194356,Saheusah-Höhle
 347242942,Grabstätten von Kupfhaus
-348292327,Kathtürmberg
+348292327,Kathturmberg
 349340907,Perynak-Laboratorium
 350389486,Neufelden
-351438067,Neutürm
+351438067,Neuturm
 352486645,Zusammenkunft der Elona
 353535223,Gasthaus Zu Biber und Helm
 354583805,Arkenhopen
@@ -4556,7 +4556,7 @@ Key,Value
 443716877,Königsharts Feste
 444765473,Gaerstein-Anwesen
 445814071,Schwarztor
-446862659,Grünschwing-Gerichtshof
+446862659,Grünschwing-Hof
 447911246,Grüntreu-Gehöft
 448960626,Gasthaus Zu Des Teufels Igel
 450009205,Sai-Reliquiar
@@ -4609,7 +4609,7 @@ Key,Value
 499294305,Schenke Zu Maus und Hirsch
 500342883,Aschhart-Hütte
 501391471,Kynareths Stille Dämmerung
-502440091,Uriglist-Gerichtshof
+502440091,Uriglist-Hof
 503488683,Zitadelle von Kupfli
 504537273,Moortreu-Anwesen
 505585925,Breitfort
@@ -4620,7 +4620,7 @@ Key,Value
 510829688,Kynareths Weinender Stern
 511878271,Kastelbronn
 512926861,Kynareths Innerer Altar
-513975447,Wanntürm-Gerichtshof
+513975447,Wannturm-Hof
 515024030,Gasthaus Zum Dürstenden Gnom
 516072613,Rissleck
 517121192,Bauernhof der Alten Elyzabyth
@@ -4638,7 +4638,7 @@ Key,Value
 529705017,Lemwidhain
 530753605,Riesbronn
 531802200,Grimmhopen
-532850781,Moorhaus-Gerichtshof
+532850781,Moorhaus-Hof
 533899363,Kynareths Feurige Dämmerung
 534947955,Aldingwall
 535996546,Kupfangerstatt
@@ -4664,7 +4664,7 @@ Key,Value
 556969079,Waldschwing-Gehöft
 558017665,Monument für Divad
 559066249,Yromschmied-Obstgarten
-560114829,Yromanger-Gerichtshof
+560114829,Yromanger-Hof
 561163410,Herdfeldenhall
 562211989,Aschli-Anwesen
 563260583,Aschstein-Anwesen
@@ -4765,7 +4765,7 @@ Key,Value
 662880276,Herberge Zur Wilden Fee
 663928854,Gaertreu-Anwesen
 664977433,Schuppen der Alten Lysabyth
-666026022,Ruinen des GutshofsKönigslist
+666026022,Ruinen des Gutshofs von Königslist
 667074613,Stockfalter-Senke
 668123197,Kynareths Gesegneter Prophet
 669171775,Moorheim-Schuppen
@@ -4799,11 +4799,11 @@ Key,Value
 698534759,Burkmüh
 699583341,Königsschmied-Anwesen
 700631921,Gothweghall
-701680499,Grimmtürm-Senke
+701680499,Grimmturm-Senke
 702729081,Aldkraten
 703777669,Gaerheim-Obstgarten
 704826255,Herberge Zu Löwen und Riesen
-705874834,Singtürm
+705874834,Singturm
 706923415,Herdhart-Anwesen
 707972003,Oxenwald
 709020595,Königslist-Gehöft
@@ -4821,7 +4821,7 @@ Key,Value
 721604483,Wannheimwald
 722653063,Kupfhart-Plantage
 723701649,Kupfli-Gehöft
-724750227,Grimmtürmhall
+724750227,Grimmturmhall
 725798806,Schuppen der Alten Carolyrrya
 726847384,Aschfeldhall
 727895979,Bockenhaushall
@@ -4850,7 +4850,7 @@ Key,Value
 752015090,Moorfeld-Gräberfeld
 753063697,Bockenlistatt
 754112279,Aschfeldenstatt
-755160860,Ritterstürmberg
+755160860,Rittersturmberg
 756209442,Schloss Königsfurt
 757258024,Urigheim-Plantage
 758306603,Moorli-Blockhütte
@@ -4946,16 +4946,16 @@ Key,Value
 852683385,Hexenzirkel auf der Klippe
 853731992,Tonnfelden
 854780570,Kynareths Furchtsames Licht
-855829158,Herdschwing-Gerichtshof
+855829158,Herdschwing-Hof
 856877738,Bauernhof der Alten Barbabyth
-857926321,Herdfurt-Gerichtshof
+857926321,Herdfurt-Hof
 858974899,Kynareths Sanfte Seele
 860023478,Gaerheim-Friedhof
 861072057,Mittforthain
 862120636,Tannwald
 863169234,Waldlist-Gehöft
 864217831,Arkenfurt
-865266411,Bockentreu-Gerichtshof
+865266411,Bockentreu-Hof
 866315046,Aschschmied-Blockhütte
 867363642,Langbrunn
 868412223,Gwynoryas Hexenzirkel
@@ -4966,7 +4966,7 @@ Key,Value
 873655943,Rieswichen
 874704550,Ruinen des Moorfurt-Anwesens
 875753136,Oxenmuld
-876801715,Waldschwing-Gerichtshof
+876801715,Waldschwing-Hof
 877850294,Loch des Balul
 878898884,Königsfeldenpfalz
 879947481,Aldingwichen
@@ -4990,7 +4990,7 @@ Key,Value
 898822783,Wirtshaus Zu Maus und Stachelschwein
 899871367,Kernstadt
 900919953,Moorharthall
-901968534,Kupffelden-Gerichtshof
+901968534,Kupffelden-Hof
 903017121,Kupfschmied-Anwesen
 904065704,Bockenanger-Anwesen
 905114287,Tiefwall
@@ -4998,7 +4998,7 @@ Key,Value
 907211447,Kathbürg
 908260026,Pannforthain
 909308653,Anrarugoth
-910357235,Neudorf-Gerichtshof
+910357235,Neudorf-Hof
 911405813,Kynareths Heiliges Götterbild
 912454391,Kernbrüggefeld
 913502969,Kynareths Furchtsamer Seher
@@ -5040,7 +5040,7 @@ Key,Value
 951253640,Schloss von Urigheim
 952302230,Mittheim
 953350818,Königsfeld-Blockhütte
-954399413,Ruinen des GutshofsKönigshaus
+954399413,Ruinen des Gutshofs von Königshaus
 955447996,Langkamm
 956496579,Kynareths Feuriger Erlöser
 957545158,Tannhaupt
@@ -5105,7 +5105,7 @@ Key,Value
 1019415024,Alte Pierlette-Hütte
 1020463604,Oxenweg
 1021512191,Nest von Vojgon
-1022560783,Tonntürm
+1022560783,Tonnturm
 1023609366,Waldfurt-Anwesen
 1024657948,Weißtreu
 1025706541,Gothpfad
@@ -5113,7 +5113,7 @@ Key,Value
 1027803707,Riesanger
 1028852288,Westfeldenweiler
 1029900873,Gasthaus Zu Luchs und Bisam
-1030949454,Yromfurt-Gerichtshof
+1030949454,Yromfurt-Hof
 1031998043,Kynareths Seliger Altar
 1033046634,Kynareths Furchtsame Dämmerung
 1034095220,Uriganger-Gehöft
@@ -5195,10 +5195,10 @@ Key,Value
 1113790917,Gasthaus Zur Lachenden Wache
 1114839499,Kupffelden-Gehöft
 1115888078,Aldinghopengarten
-1116936664,Bockenschwing-Gerichtshof
+1116936664,Bockenschwing-Hof
 1117985245,Kynareths Feuriges Omen
 1119033839,Zitadelle von Urighart
-1120082422,Hochtürmmoor
+1120082422,Hochturmmoor
 1121131020,Wirtshaus Zu Fledermaus und Bisam
 1122179606,Königshart-Gräberfeld
 1123228203,Schenke Zu Der Königin Goblin
@@ -5221,7 +5221,7 @@ Key,Value
 1141055836,Herberge Zu Biber und Skorpion
 1142104415,Schloss Königshaus
 1143153002,Ruinen des Aschschwing-Anwesens
-1144201590,Kupfstein-Gerichtshof
+1144201590,Kupfstein-Hof
 1145250178,Alter Blackcester-Schuppen
 1146298768,Andane-Laboratorium
 1147347366,Mittbet
@@ -5248,13 +5248,13 @@ Key,Value
 1169368485,Kreuzmarkt
 1170417075,Ypshaupt
 1171465660,Ruinen des Aschhaus-Gehöfts
-1172514245,Yromheim-Gerichtshof
+1172514245,Yromheim-Hof
 1173563675,Kupffeldenstatt
 1174612259,Kupfhaus-Anwesen
 1175660844,Herberge Zum Glücklichen Hirsch
 1176709424,Rissgrat
 1177758003,Aschli-Gehöft
-1178806585,Langheide-Gerichtshof
+1178806585,Langheide-Hof
 1179855167,Alte Vannyvyra-Hütte
 1180903755,Kastelau
 1181952338,Moorheim-Anwesen
@@ -5269,9 +5269,9 @@ Key,Value
 1191389617,Monument der Weisen
 1192439045,Krypten von Urigfeld
 1193487624,Herdhart-Ruinen
-1194536207,Rissbürg-Gerichtshof
-1195584797,Moorfeld-Gerichtshof
-1196633375,Ruinen des GutshofsMeistertreu
+1194536207,Rissbürg-Hof
+1195584797,Moorfeld-Hof
+1196633375,Ruinen des Gutshofs von Meistertreu
 1197681956,Wehrwald
 1198730545,Gutshof Waldheim
 1199779128,Kerker des Tristane
@@ -5308,7 +5308,7 @@ Key,Value
 1232286103,Gasthaus Zu Des Teufels Gauner
 1233335508,Wirtshaus Zu Knappen und Drachen
 1234384087,Falkharthall
-1235432669,Waldli-Gerichtshof
+1235432669,Waldli-Hof
 1236481261,Kreuzmüh
 1237529839,Quellheide
 1238578417,Dyrwichen
@@ -5337,7 +5337,7 @@ Key,Value
 1262696721,Druigod
 1263745309,Gasthaus Zum Heulenden Dolch
 1264793903,Gaerangerhall
-1265842509,Ruinen des GutshofsBockenstein
+1265842509,Ruinen des Gutshofs von Bockenstein
 1266891087,Kynareths Blutender Seher
 1267939670,Kernfurt
 1268988249,Schwarzwidgmünd
@@ -5397,7 +5397,7 @@ Key,Value
 1325616282,Hochmuldstädt
 1326664861,Lemfurtweiler
 1327714387,Falklistatt
-1328762965,Aldtürmberg
+1328762965,Aldturmberg
 1329811553,Alt-Tunmoldstatt
 1330860135,Taverne Zu Fuchs und Katze
 1331908718,Mittbruch
@@ -5446,21 +5446,21 @@ Key,Value
 1377004474,Vannonas Hexenzirkel
 1378053055,Grünheim-Gehöft
 1379101633,Gaerfelden-Anwesen
-1380150225,Möhrtürm
+1380150225,Möhrturm
 1381198804,Singfelden
 1382248327,Homunuchexa-Loch
 1383296906,Falktreus Wacht
 1384345489,Langwichenend
 1385394085,Meisterheims Wacht
 1386443677,Aschlisthall
-1387494257,Königsanger-Gerichtshof
+1387494257,Königsanger-Hof
 1388549770,Quellhopenend
 1389599343,Grimmtreu
 1390649917,Pannheide
 1391699491,Kabale der Morgyrrya
 1392748072,Aldpfadhall
 1393796650,Waldhaus-Gehöft
-1394847220,Meisterstein-Gerichtshof
+1394847220,Meisterstein-Hof
 67150,Arkenmor
 1116757,Divad-Monument
 2166310,Singmuld
@@ -5478,7 +5478,7 @@ Key,Value
 14752250,Schwarzburg
 15801799,Aschlist-Obstgarten
 16850396,Quellfort
-17899942,Ruinen des GutshofsKönigshaus
+17899942,Ruinen des Gutshofs von Königshaus
 18948530,Turm von Mordyctor
 19997130,Alte Belladolda-Hütte
 21046686,Bockenfeld-Plantage
@@ -5488,7 +5488,7 @@ Key,Value
 25241983,Waldfeld-Obstgarten
 26290563,Quellmüh
 27339154,Mittkraten
-28387740,Riestürm
+28387740,Riesturm
 29437289,Gräber von Aschstein
 30485878,Zenithars Feuriges Relikt
 31535433,Kupffelden-Hütte
@@ -5602,7 +5602,7 @@ Key,Value
 144806670,Königshaushall
 145856204,Laboratorium des Mordore
 146904798,Gasthaus Zu Löwen und Hirsch
-147953384,Ritterstürm
+147953384,Rittersturm
 149001963,Gefängnis des Tristynak
 150050542,Stockanger
 151099147,Langau
@@ -5613,7 +5613,7 @@ Key,Value
 156343017,Königsschwingpfalz
 157391605,Feste von Herdli
 158441111,Tonnwaldheide
-159489708,Ruinen des Königsanger-Gerichtshofs
+159489708,Ruinen des Königsanger-Hofs
 160538290,Tonnstadt
 161586869,Schloss Herdheim
 162635452,Zenithars Innere Dämmerung
@@ -5632,7 +5632,7 @@ Key,Value
 176268910,Grabstätte des Balthezyth
 177317490,Krypten von Kupfhaus
 178366070,Meisterfeldenhall
-179414675,Meisterlist-Gerichtshof
+179414675,Meisterlist-Hof
 180463265,Herdfeld-Gräberfeld
 181511853,Ruinen des Gaerschwing-Obstgartens
 182560434,Kupflipfalz
@@ -5652,7 +5652,7 @@ Key,Value
 197242471,Ruinen von Urigharthall
 198291087,Schloss Herdanger
 199339665,Yromtreu-Blockhütte
-200389158,Tieftürmhain
+200389158,Tiefturmhain
 201437746,Ruinen des Grünlist-Gehöfts
 202486329,Tannstadt
 203534910,Tannwall
@@ -5687,7 +5687,7 @@ Key,Value
 233947634,Waldfelden-Obstgarten
 234996237,Gasthaus Zur Fliegenden Grube
 236044827,Rittersfelden
-237094333,Singtürmweiler
+237094333,Singturmweiler
 238142957,Singfort
 239191537,Grünstein-Anwesen
 240240119,Grünhart-Anwesen
@@ -5695,7 +5695,7 @@ Key,Value
 242338201,Aschlist-Gehöft
 243386786,Schloss Inverobor
 244435367,Meisterstein-Blockhütte
-245483959,Moorhart-Gerichtshof
+245483959,Moorhart-Hof
 246532558,Rissfelden
 247581137,Gaerfelden-Friedhof
 248629732,Kupfschwingpfalz
@@ -5709,7 +5709,7 @@ Key,Value
 257020282,Meisterstein-Anwesen
 258068866,Ysyn-Tradition
 259117445,Krypta des Balthoboth
-260166029,Herdlist-Gerichtshof
+260166029,Herdlist-Hof
 261214607,Königshaus-Gehöft
 262263203,Wehrkraten
 263311791,Zenithars Steter Erlöser
@@ -5771,7 +5771,7 @@ Key,Value
 322040966,Alt-Vannabythstatt
 323089564,Schrein von Dugrod
 324138147,Ruinen des Gaerlist-Gehöfts
-325186725,Burktürm-Gerichtshof
+325186725,Burkturm-Hof
 326235304,Arkenfelden
 327283897,Herberge Zum Dürstenden Hirsch
 328332478,Königsheims Feste
@@ -5870,7 +5870,7 @@ Key,Value
 425865991,Kupfli-Anwesen
 426914598,Taverne Zum Schmutzigen Gnom
 427963178,Ruinen des Bockenfurtturms
-429011757,Ruinen des Königsheim-Gerichtshofs
+429011757,Ruinen des Königsheim-Hofs
 430060351,Rissfort
 431108931,Zenithars Stiller Stern
 432157516,Königsfeld-Friedhof
@@ -5894,10 +5894,10 @@ Key,Value
 451035820,Herdstein-Gehöft
 452084447,Kloster des Homunogon
 453133036,Yromfurthall
-454181620,Herdheim-Gerichtshof
+454181620,Herdheim-Hof
 455231119,Schuppen der Alten Belladolda
 456279697,Grab des Verobor
-457328281,Falkfurt-Gerichtshof
+457328281,Falkfurt-Hof
 458376905,Sai-Reliquiar
 459425485,Aschheim-Obstgarten
 460475059,Waldfelden-Schuppen
@@ -5944,7 +5944,7 @@ Key,Value
 10831143,M'erg-Gehöft
 11880734,Klolponturm
 12930287,Jalonia
-13978869,Lajke-Gerichtshof
+13978869,Lajke-Hof
 15027455,Linisa
 16077012,Bosam-Gehöft
 17125612,Mesiton
@@ -5990,11 +5990,11 @@ Key,Value
 59082633,Apputhuwan
 60132186,Issaquthuda
 61180773,Makorana
-62229351,Sist'kern-Gerichtshof
+62229351,Sist'kern-Hof
 63278911,Mogaret
 64327493,Mogallaja
 65376071,Taverne Zum Tänzelnden Priester
-66424659,Ruinen des Ghurhtir-Gerichtshofs
+66424659,Ruinen des Ghurhtir-Hofs
 67473237,Wirtshaus Zum Dürstenden Kitz
 68521817,Kerctehall
 69570397,Kaverne des Homunateusia
@@ -6116,7 +6116,7 @@ Key,Value
 191220255,Ruinen des alten Fauch-Schuppens
 192268840,Schenke Zum Glücklosen Riesen
 193317420,Cordur-Gehöft
-194366886,Cyillen-Gerichtshof
+194366886,Cyillen-Hof
 195415468,Kaloton
 196464054,Rech-Anwesen
 197512674,Baghastarana
@@ -6154,7 +6154,7 @@ Key,Value
 231070111,Horia
 232118692,Alt-Bactfastatt
 233167272,Slornumhall
-234215850,Bloth-Gerichtshof
+234215850,Bloth-Hof
 235264428,Maelotha-Einsiedelei
 236313008,Mogakaa
 237361590,Gutshof Gruldan
@@ -6275,7 +6275,7 @@ Key,Value
 357957829,Cudirius
 359006411,Krypten von Klirdar
 360055004,Bubandanis
-361103586,B'urdte-Gerichtshof
+361103586,B'urdte-Hof
 362152164,Alte Tuldta-Hütte
 363201614,Taverne Zum Glücklichen Greifen
 364250193,Churmta-Anwesen
@@ -6361,7 +6361,7 @@ Key,Value
 448143268,B'irt'kern-Gehöft
 449191848,Shrirkt-Gehöft
 450240428,Novhall
-451289007,Tlorgir-Gerichtshof
+451289007,Tlorgir-Hof
 452337589,Tsetotuus
 453386186,Gasthaus Zum Glücklichen Helm
 454434771,Tsetallanis
@@ -6379,14 +6379,14 @@ Key,Value
 467018739,Hügelgrab des Darkulus
 468067325,Vlichehall
 469116791,Schenke Zum Fliegenden Gnom
-470165371,Mharm-Gerichtshof
+470165371,Mharm-Hof
 471213968,Zenahajet
 472262556,Zenotuza
 473311152,Gasthaus Zum Purpurnen Kitz
 474359736,Skulgarock-Netz
 475408322,Festung von Chogke
 476456907,Herberge Zum Glücklosen Kitz
-477505490,Lavar-Gerichtshof
+477505490,Lavar-Hof
 478554079,Kloster des Homunyothiah
 479603558,Schlafplatz Azdon
 480652143,Ramillio
@@ -6531,7 +6531,7 @@ Key,Value
 50459061,Grauheidehain
 51507639,Wirtshaus Zu Knappen und Dolch
 52556217,Yerathrac
-53604804,Kreuztor-Gerichtshof
+53604804,Kreuztor-Hof
 54653383,Höhle des Homunuchoth
 55701961,Kloster des Dispanxivah
 56751485,Maras Fröhlicher Märtyrer
@@ -6541,7 +6541,7 @@ Key,Value
 60946771,Gasthaus Zu Fledermaus und Krug
 61995363,Urigfelden-Gehöft
 63043962,Wirtshaus Zum Glücklosen Skorpion
-64092541,Falkschwing-Gerichtshof
+64092541,Falkschwing-Hof
 65141130,Falktreu-Gewölbe
 66189712,Langstadt
 67238298,Tiefbronn
@@ -6597,7 +6597,7 @@ Key,Value
 119672165,Kernbruch
 120721599,Waldfurt-Gehöft
 121770182,Kastelfort
-122818776,Yromli-Gerichtshof
+122818776,Yromli-Hof
 123867366,Yromlist-Anwesen
 124915966,Maras Heiliger Aufstieg
 125964565,Herdfurt-Hütte
@@ -6663,7 +6663,7 @@ Key,Value
 188883071,Kernwerk
 189931677,Krummkamm
 190980265,Falkhaus-Gehöft
-192028849,Ruinen des GutshofsFalkli
+192028849,Ruinen des Gutshofs von Falkli
 193077427,Gondistyr-Tunnel
 194126010,Krummwerk
 195174590,Maras Ewiger Baum
@@ -6679,7 +6679,7 @@ Key,Value
 205661268,Ypswies
 206709849,Balex-Senke
 207758443,Herdfeldenhall
-208807026,Königsheim-Gerichtshof
+208807026,Königsheim-Hof
 209855607,Riesbrügge
 210904185,Falkfeld-Anwesen
 211952763,Zitadelle von Perard
@@ -6740,8 +6740,8 @@ Key,Value
 269627517,Wehrfelden
 270676099,Aldwall
 271724679,Aschhaus-Plantage
-272773265,Ruinen des GutshofsGaerlist
-273822681,Breitmuld-Gerichtshof
+272773265,Ruinen des Gutshofs von Gaerlist
+273822681,Breitmuld-Hof
 274871260,Tonnleig
 275919865,Langpfad
 276968447,Gaerstein-Anwesen
@@ -6757,7 +6757,7 @@ Key,Value
 287455167,Lemwaldmoor
 288503751,Kupfli-Grabstätten
 289552333,Bockenli-Gehöft
-290600912,Kreuzhopen-Gerichtshof
+290600912,Kreuzhopen-Hof
 291649492,Zitadelle von Bockentreu
 292698076,Waldschwingturm
 293746659,Ruinen des Meisterlist-Anwesens
@@ -6780,7 +6780,7 @@ Key,Value
 311573534,Galggrat
 312622126,Graukraten
 313670709,Grünschmied-Obstgarten
-314719291,Falklist-Gerichtshof
+314719291,Falklist-Hof
 315767871,Waldtreu-Friedhof
 316816456,Krypten von Urigfeld
 317865034,Wilderfalter
@@ -6797,7 +6797,7 @@ Key,Value
 329400336,Grüntreuturm
 330448915,Meisterhart-Gehöft
 331498351,Vyctolda-Kultstätte
-332546932,Sengtürm
+332546932,Sengturm
 333595515,Maras Feuriger Baum
 334644108,Krummbergen
 335692760,Langtreu
@@ -6849,7 +6849,7 @@ Key,Value
 383930315,Westfalter
 384978898,Falklist-Anwesen
 386028313,Kupffeld-Gräberfeld
-387076892,Aschlist-Gerichtshof
+387076892,Aschlist-Hof
 388125482,Ruinen des Falktreu-Anwesens
 389174070,Gräber von Falkschmied
 390222652,Netz von Heznoker
@@ -6903,7 +6903,7 @@ Key,Value
 440557358,Bockenlist-Gehöft
 441605936,Maras Inneres Licht
 442654517,Gaerfurthall
-443703117,Meisterheim-Gerichtshof
+443703117,Meisterheim-Hof
 444751702,Weißfeldenmoor
 445800291,Schloss Urigfurt
 446848880,Moorschwingpfalz
@@ -6920,7 +6920,7 @@ Key,Value
 458384125,Dyrborn
 459432709,Altar von I'ric
 460481306,Herberge Zum Schwarzen Dolch
-461529895,Waldli-Gerichtshof
+461529895,Waldli-Hof
 462578475,Gondistair-Korrektorium
 463627068,Yromschmied-Grabanlage
 464675667,Schrein von Jode
@@ -6931,14 +6931,14 @@ Key,Value
 469919424,Turm von Aschhaus
 470968010,Kirchwichengarten
 472016618,Schwarzmüh
-473065199,Yromlist-Gerichtshof
+473065199,Yromlist-Hof
 474113780,Tannfortgarten
 475162360,Morimanhall
 476210950,Abtei des Asmeusunah
 477259566,Herberge Zum Dürstenden Drachen
 478308992,Alte Vannyrrya-Hütte
 479357576,Rittersmühberg
-480406160,Singkester-Gerichtshof
+480406160,Singkester-Hof
 481454739,Breitpfad
 482503329,Breitfelden
 483551914,Yromfurtpfalz
@@ -6987,7 +6987,7 @@ Key,Value
 528643667,Gaerheim-Gräberfeld
 529692249,Darkenaushall
 530740837,Kloster des Demorgon
-531789425,Königshaus-Gerichtshof
+531789425,Königshaus-Hof
 532838014,Wildermor
 533886600,Aldingstadt
 534935181,Taverne Zur Kreischenden Wache
@@ -7011,7 +7011,7 @@ Key,Value
 553810613,Grube des Maelebex
 554860041,Falkfeld-Gewölbe
 555908620,Herdstein-Anwesen
-556957205,Falkschmied-Gerichtshof
+556957205,Falkschmied-Hof
 558005786,Gutshof Meisterheim
 559054380,Demitherena-Kaverne
 560102966,Maras Innerer Erlöser
@@ -7101,7 +7101,7 @@ Key,Value
 648189416,Gutshof Herdanger
 649237994,Herdfeldhall
 650286576,Belthal
-651336029,Kupfstein-Gerichtshof
+651336029,Kupfstein-Hof
 652384614,Kupfhart-Anwesen
 653433219,Krypten von Urigli
 654481830,Tannkester
@@ -7119,7 +7119,7 @@ Key,Value
 667065766,Falkstein-Gehöft
 668114373,Trogghu-Genist
 669162954,Waldtreuturm
-670212410,Bockentreu-Gerichtshof
+670212410,Bockentreu-Hof
 671260989,Meisteranger-Anwesen
 672309583,Breitwichen-Münster
 673358161,Gutshof Meisterschwing
@@ -7152,7 +7152,7 @@ Key,Value
 701674748,Falkli-Gehöft
 702723336,Bockenhaus-Gehöft
 703772842,Singhaupt
-704821474,Gaerschwing-Gerichtshof
+704821474,Gaerschwing-Hof
 705870055,Ostbrunn
 706918634,Kasteltreu
 707968154,Lemtreuweiler
@@ -7169,7 +7169,7 @@ Key,Value
 719504475,Waldheim-Plantage
 720553061,Yromli-Gehöft
 721601707,Bauernhof der Alten Elayne
-722651205,Tanntürm
+722651205,Tannturm
 723699843,Lembergen
 724748432,Kernmuld
 725797941,Herdli-Gehöft
@@ -7458,7 +7458,7 @@ Key,Value
 268741179,Eluthubi
 269789757,Raecher-Anwesen
 270838340,Schutzort von Phen
-271886920,Dhij-Gerichtshof
+271886920,Dhij-Hof
 272935503,Birm-Gehöft
 273984082,Umbenaria
 275032660,Gutshof Blelpin
@@ -7532,7 +7532,7 @@ Key,Value
 346342818,Schenke Zu Ratte und Wolf
 347391402,Feste von Nirkem
 348439985,Wadijeliza
-349488571,Klard-Gerichtshof
+349488571,Klard-Hof
 350537152,Rlartrn-Gehöft
 351586657,Surdom-Anwesen
 352635237,Lhustir-Anwesen
@@ -7610,7 +7610,7 @@ Key,Value
 42131956,Gutshof Waldheim
 43181490,Dyrkester
 44230072,Rissfurt
-45278664,Kastelwerk-Gerichtshof
+45278664,Kastelwerk-Hof
 46328191,Herdschmieds Feste
 47376774,Breitbruchheide
 48425355,Waldfeld-Anwesen
@@ -7621,7 +7621,7 @@ Key,Value
 53668274,Kieran-Theater
 54716864,Amboss von Ebenarm
 55766395,Breithopen
-56814978,Panntürmmoor
+56814978,Pannturmmoor
 57863568,Aschstein-Gehöft
 58912152,Gaerschwings Wacht
 59960734,Schuppen der Alten Vannolda
@@ -7634,7 +7634,7 @@ Key,Value
 67301770,Meisterschwing-Turm
 68350348,Weißweg
 69399877,Gutshof Gaerstein
-70448465,Wannleck-Gerichtshof
+70448465,Wannleck-Hof
 71497043,Alt-Vannonastatt
 72545625,Bockenfelden-Friedhof
 73594203,Schloss Necromeham
@@ -7738,7 +7738,7 @@ Key,Value
 176367698,Kirchmüh
 177416280,Grabstätten von Meisterhart
 178465785,Krypten von Moortreu
-179514382,Arkenheide-Gerichtshof
+179514382,Arkenheide-Hof
 180562965,Bauernhof der Alten Vyctyrrya
 181611547,Langheimgarten
 182660130,Burg von Bockentreu
@@ -7755,7 +7755,7 @@ Key,Value
 194195496,Herberge Zur Heulenden Wache
 195244080,Meisteranger-Gehöft
 196293570,Grube des Asmerah
-197342157,Aldinggrat-Gerichtshof
+197342157,Aldinggrat-Hof
 198390740,Kernkamm-Senke
 199439318,Lemwerk
 200487896,Königsheim-Gehöft
@@ -7775,7 +7775,7 @@ Key,Value
 215169004,Kupffelden-Obstgarten
 216217590,Kreuzmuld
 217266176,Arkenheide
-218315667,Hohlbet-Gerichtshof
+218315667,Hohlbet-Hof
 219364250,Bedastyrs Verlies
 220412830,Kreuzbergen
 221461408,Festung von Herdschmied
@@ -7892,7 +7892,7 @@ Key,Value
 337861431,Schuppen der Alten Carolona
 338910884,Strenners Zuflucht
 339959465,Osttal
-341008044,Kernbergen-Gerichtshof
+341008044,Kernbergen-Hof
 342056641,Akatoshs Gesegneter Stern
 343105222,Vermdred
 344153808,Kabale der Chrystara
@@ -7925,7 +7925,7 @@ Key,Value
 372467381,Zitadelle von Königsstein
 373515960,Aschhaus-Gehöft
 374564541,Urigfurt-Schuppen
-375613132,Urigfeld-Gerichtshof
+375613132,Urigfeld-Hof
 376661710,Hochfort
 377710295,Schlupfwinkel des Nebuchivor
 378758878,Ritterstal
@@ -7952,7 +7952,7 @@ Key,Value
 400780931,Singhaupt-Münster
 401829509,Weißpfad
 402878089,Quellbronn
-403926677,Belhaupt-Gerichtshof
+403926677,Belhaupt-Hof
 404975261,Aschfeld-Schuppen
 406023862,Strenner-Zuflucht
 407072444,Gräber von Yromli
@@ -7995,7 +7995,7 @@ Key,Value
 445873656,Risskratenmoor
 446922237,Herrenhaus von Kupfhart
 447970848,Waldschmiedhall
-449019429,Hohlhaupt-Gerichtshof
+449019429,Hohlhaupt-Hof
 450068008,Ypsburg
 451116586,Wirtshaus Zu Ratte und Gauner
 452165164,Oxenwerthberg
@@ -8026,7 +8026,7 @@ Key,Value
 478381570,Ruinen des Herdhaus-Anwesens
 479430151,Weißwid
 480478730,Meisterheim-Blockhütte
-481527317,Quellburg-Gerichtshof
+481527317,Quellburg-Hof
 482575897,Taverne Zum Glücklichen Schwert
 483625391,Alte Evelyvyra-Hütte
 484673990,Burg von Waldfeld
@@ -8042,7 +8042,7 @@ Key,Value
 495160730,Kabale der Elabyth
 496209331,Dyrmuld
 497257920,Risswiesgarten
-498306521,Ruinen des Urigfurt-Gerichtshofs
+498306521,Ruinen des Urigfurt-Hofs
 499355102,Herberge Zum Silbernen Gnom
 500403688,Breitleck
 501452279,Akatoshs Heiliges Götterbild
@@ -8083,7 +8083,7 @@ Key,Value
 538155462,Burkbet
 539204041,Gutshof Gaerhaus
 540252619,Gaerfeld-Hütte
-541302070,Kasteltürm
+541302070,Kastelturm
 542350676,Schrein für Jone
 543399256,Breitdorf
 544447856,Ritterswegfeld
@@ -8115,7 +8115,7 @@ Key,Value
 571713864,Bauernhof der Alten Morgolda
 572762443,Alt-Morgyvyrastatt
 573811028,Grimmmor
-574859617,Kasteltürmfeld
+574859617,Kastelturmfeld
 575908195,Yromschmiedstatt
 576956780,Akatoshs Singendes Orakel
 578006207,Urigfelden-Plantage
@@ -8169,7 +8169,7 @@ Key,Value
 628341006,Tanntalmoor
 629390437,Waldhartstatt
 630439035,Wegesruh
-631487617,Yromhaus-Gerichtshof
+631487617,Yromhaus-Hof
 632536201,Herberge Zu Luchs und Dachs
 633584780,Reliquiar von Raen
 634633369,Panntreu
@@ -8257,7 +8257,7 @@ Key,Value
 720621694,Turm von Moortreu
 721670272,Kernheideberg
 722719727,Aschfelden-Anwesen
-723768315,Möhrtal-Gerichtshof
+723768315,Möhrtal-Hof
 724816895,Schuppen der Alten Vannona
 725865476,Weißtal-Münster
 726914076,Hochhauptberg
@@ -8294,7 +8294,7 @@ Key,Value
 759422902,Sengkammhall
 760471482,Alt-Elyzannastatt
 761520065,Hexenzirkel der Belladyn
-762568653,Osttürm
+762568653,Ostturm
 763617232,Wehrdorfhall
 764665820,Herrenhaus von Moorschwing
 765714402,Akatoshs Klagendes Götterbild
@@ -8367,7 +8367,7 @@ Key,Value
 835975054,Akatoshs Weinendes Orakel
 837024560,Moorstein-Blockhütte
 838073153,Krummfeldenstädt
-839121742,Singtürmgmünd
+839121742,Singturmgmünd
 840170324,Tristyrick-Laboratorium
 841218915,Ypstor
 842267498,Aschfeldhall
@@ -8382,7 +8382,7 @@ Key,Value
 851705658,Turm von Moorhaus
 852754249,Akatoshs Feuriger Stern
 853802845,Meisterlist-Schuppen
-854852347,Graudorf-Gerichtshof
+854852347,Graudorf-Hof
 855900929,Tannwallwald
 856949523,Langmorfeld
 857998122,Akatoshs Feurige Wiedergeburt
@@ -8450,7 +8450,7 @@ Key,Value
 30563573,Gromgaus
 31612158,Skodon
 32662733,Homunebas-Schrein
-33712320,Ruinen des GutshofsMooranger
+33712320,Ruinen des Gutshofs von Mooranger
 34761870,Ruinen der Meisterhart-Blockhütte
 35811451,Grotte des Balebras
 36860045,Ruinen von Moorschmieds Feste
@@ -8479,7 +8479,7 @@ Key,Value
 60987287,Gromotten
 62036850,Ruinen des Herdschmied-Anwesens
 63085435,Ruinen des Yromfelden-Turms
-64135027,Ruinen des GutshofsKupffelden
+64135027,Ruinen des Gutshofs von Kupffelden
 65184571,Gaeranger-Blockhütte
 66233154,Gaerfeld-Blockhütte
 67281744,Meisterli-Blockhütte
@@ -8545,7 +8545,7 @@ Key,Value
 43002897,Gaertreustatt
 44052415,Urigschwingstatt
 45101001,Urigtreu-Obstgarten
-46149584,Falkheim-Gerichtshof
+46149584,Falkheim-Hof
 47198189,Rieskammgarten
 48247738,Schrein von Jone
 49296318,Kupfangerhall
@@ -8563,13 +8563,13 @@ Key,Value
 61882194,Belmor
 62930778,Gasthaus Zu Maulwurf und Goblin
 63979370,Bauernhof der Alten Evelorya
-65027951,Risstürm
+65027951,Rissturm
 66076537,Grünfelden-Gehöft
-67125123,Ruinen des Yromli-Gerichtshofs
+67125123,Ruinen des Yromli-Hofs
 68173712,Gasthaus Zum Tänzelnden Schloss
 69223223,Morloten-Horst
 70271806,Schrein von Jode
-71320397,Langtürm
+71320397,Langturm
 72368990,Alt-Belladyrryastatt
 73417571,Ypsfelden
 74466164,Mitthaupt
@@ -8650,7 +8650,7 @@ Key,Value
 153125330,Lemmor
 154173923,Wirtshaus Zu Der Königin Oger
 155222502,Vyctara-Kultstätte
-156271096,Kupfheim-Gerichtshof
+156271096,Kupfheim-Hof
 157320556,Königsfurt-Gehöft
 158369138,Wannpfad
 159417716,Bockenfeld-Friedhof
@@ -8730,7 +8730,7 @@ Key,Value
 237023362,Schenke Zu Fledermaus und Stachelschwein
 238071993,Zusammenkunft der Gwynona
 239120597,Dagirrock-Netz
-240170119,Gaerlist-Gerichtshof
+240170119,Gaerlist-Hof
 241218698,Divad-Monument
 242267288,Herberge Zu Maulwurf und Murmeltier
 243315894,Gaerfelden-Friedhof
@@ -8749,7 +8749,7 @@ Key,Value
 256949323,Schenke Zu Knappen und Jägersmann
 257997901,Krummtal
 259046512,Kupfli-Schuppen
-260095119,Quelltürm
+260095119,Quellturm
 261144543,Meisterfurt-Gräberfeld
 262193136,Waldtreuhall
 263241753,Yromheim-Gehöft
@@ -8810,7 +8810,7 @@ Key,Value
 320919511,Alte Barbyn-Hütte
 321968978,Yromhaus-Gehöft
 323017605,Kerngrat
-324066231,Herdheim-Gerichtshof
+324066231,Herdheim-Hof
 325114813,Hohlkester
 326164303,Maras Stille Dämmerung
 327212890,Herberge Zu Maulwurf und Vogel
@@ -8820,13 +8820,13 @@ Key,Value
 331407285,Grabstätten von Falkhaus
 332456740,Wirtshaus Zur Glücklichen Katze
 333505348,Urigschwinghall
-334553928,Breittürm
+334553928,Breitturm
 335602530,Wirtshaus Zum Purpurnen Dachs
 336651114,Ruinen des Uriganger-Obstgartens
 337699692,Langmor
 338748274,Schenke Zu Ratte und Katze
 339796852,Herberge Zum Roten Gnom
-340845450,Kirchtürm
+340845450,Kirchturm
 341894032,Mittfort
 342942619,Burg von Moorfelden
 343992106,Feste von Meisterli
@@ -8867,7 +8867,7 @@ Key,Value
 380697240,Moorheimhall
 381745889,Taverne Zu Feder und Katze
 382794477,Ostanger
-383843060,Grünschwing-Gerichtshof
+383843060,Grünschwing-Hof
 384891638,Maras Sanfter Prophet
 385941117,Ruinen von Alt-Belladoryastatt
 386989732,Maras Innere Wiedergeburt
@@ -8893,7 +8893,7 @@ Key,Value
 9587006,Bockenhaus-Anwesen
 10635589,Schloss Aschli
 11684169,Gaerschwing-Plantage
-12732749,Ypstürm
+12732749,Ypsturm
 13781339,Yromheimstatt
 14832862,Moorlistpfalz
 15881480,Herberge Zum Weißen Jägersmann
@@ -8924,7 +8924,7 @@ Key,Value
 42102844,Kupfhart-Gehöft
 43151425,Dibellas Inneres Götterbild
 44200008,Graufelden
-45248586,Aschanger-Gerichtshof
+45248586,Aschanger-Hof
 46297169,Königsschmied-Friedhof
 47345748,Meisterhart-Anwesen
 48394341,Schwarzheim
@@ -8947,13 +8947,13 @@ Key,Value
 66227106,Taverne Zu Feder und Hund
 67275685,Königsfurt-Gehöft
 68325269,Gaerschwing-Gehöft
-69374825,Urigtreu-Gerichtshof
+69374825,Urigtreu-Hof
 70423410,Falkschmied-Blockhütte
 71472005,Falkstein-Anwesen
 72520590,Tonnanger
 73571137,Bauernhof der Alten Chrystona
 74620716,Arkenhopen-Münster
-75669308,Hochtürm
+75669308,Hochturm
 76717889,Schenke Zum Fliegenden Wolf
 77767427,Krypta des Morivulon
 78816047,Kupflist-Krypten
@@ -9013,13 +9013,13 @@ Key,Value
 135458128,Gaeranger-Gräberfeld
 136506712,Belbruch
 137556264,Alt-Morgabythstatt
-138604845,Kathtor-Gerichtshof
+138604845,Kathtor-Hof
 139653430,Waldhaus-Anwesen
 140702024,Wirtshaus Zu Des Teufels Helm
 141750602,Herberge Zum Weißen Schwert
 142800129,Ruinen von Alt-Vannoryastatt
 143848730,Bauernhof der Alten Elyzyvyra
-144897317,Königsfurt-Gerichtshof
+144897317,Königsfurt-Hof
 145945898,Grünheim-Gehöft
 146994484,Grünschmied-Gehöft
 148044021,Gasthaus Zu Knappen und Drachen
@@ -9080,8 +9080,8 @@ Key,Value
 205731682,Tamarilyner Hexenzirkel
 206780263,Gemeinschaft der Elyzona
 207828842,Lysandus' Grab
-208877459,Weißtürmgarten
-209926989,Falktreu-Gerichtshof
+208877459,Weißturmgarten
+209926989,Falktreu-Hof
 210975581,Ruinen des Turms von Urigheim
 212024159,Waldstein-Anwesen
 213072779,Krummdorfgmünd
@@ -9098,7 +9098,7 @@ Key,Value
 3237442,Herdfurts Feste
 4288014,Kynareths Sanfter Seher
 5337586,Kupfharthall
-6387167,Falkstein-Gerichtshof
+6387167,Falkstein-Hof
 7435746,Königsheimturm
 8486321,Gaerlist-Blockhütte
 9534903,Gaerschwing-Gehöft
@@ -9157,7 +9157,7 @@ Key,Value
 65125438,Bauernhof der Alten Morgolda
 66174993,Gutshof Gaerstein
 67223579,Jhim Seis Schrein
-68272172,Ruinen des GutshofsFalkhart
+68272172,Ruinen des Gutshofs von Falkhart
 69321718,Kynareths Fröhliche Wiedergeburt
 70370313,Wannbruch-Münster
 71418891,Dunywyr-Laboratorium
@@ -9182,7 +9182,7 @@ Key,Value
 91350823,Bockenstein-Gehöft
 92399406,Wirtshaus Zum Glücklichen Riesen
 93448003,Westgrat
-94497543,Herdli-Gerichtshof
+94497543,Herdli-Hof
 95546129,Feste von Bockenschmied
 96594713,Kynareths Blutender Seher
 97643309,Gutshof Grünstein
@@ -9212,7 +9212,7 @@ Key,Value
 122817093,Moorli-Gehöft
 123865675,Kupfheim-Gehöft
 124914262,Kathborn
-125962845,Bockenstein-Gerichtshof
+125962845,Bockenstein-Hof
 127011424,Schloss Urigfeld
 128060013,Kynareths Heiliges Omen
 129108593,Gaerlistpfalz
@@ -9311,7 +9311,7 @@ Key,Value
 59847507,Dibellas Weinender Erlöser
 60897107,Aschschwingstatt
 61946658,Wirtshaus Zur Roten Grube
-62995246,Kirchbergen-Gerichtshof
+62995246,Kirchbergen-Hof
 64044794,Aschhart-Plantage
 65093380,Aschli-Gehöft
 66141972,Grimmbruch
@@ -9320,7 +9320,7 @@ Key,Value
 69288702,Waldangerpfalz
 70338253,Urigschwing-Gehöft
 71386836,Koegrien
-72435414,Falkli-Gerichtshof
+72435414,Falkli-Hof
 73484024,Waldfelden-Gehöft
 74533559,Alte Lysyn-Hütte
 75582159,Wannburggarten
@@ -9333,7 +9333,7 @@ Key,Value
 82925192,Langbrügge
 83973771,Schrein von Bandi
 85023352,Waldfeld-Gehöft
-86071939,Yromheim-Gerichtshof
+86071939,Yromheim-Hof
 87122472,Krummpfad
 88173056,Hexenzirkel der Elyzona
 89221635,Königslist-Gräberfeld
@@ -9360,7 +9360,7 @@ Key,Value
 111253719,Bockenanger-Gehöft
 112302298,Wirtshaus Zu Luchs und Barbaren
 113350878,Dibellas Klagender Stern
-114399464,Krummtürm
+114399464,Krummturm
 115450023,Elausa-Kultstätte
 116498619,Aschfurt-Gehöft
 117548182,Grimmfurt
@@ -9388,7 +9388,7 @@ Key,Value
 6381081,Schrein von Jode
 7429677,Gasthaus Zu Fledermaus und Jägersmann
 8479247,Meisterheimpfalz
-9527834,Ruinen des GutshofsMoorfelden
+9527834,Ruinen des Gutshofs von Moorfelden
 10577382,Yromhaus-Blockhütte
 11625967,Herdheim-Gewölbe
 12675530,Langbet
@@ -9404,9 +9404,9 @@ Key,Value
 23163301,Moorlist-Anwesen
 24212882,Singgrat
 25262434,Marquis Magnenus' Steingrab
-26311032,Königshaus-Gerichtshof
+26311032,Königshaus-Hof
 27359612,Grünfurt-Gehöft
-28409150,Wirtshaus Zum Rastloen Stachelschwein
+28409150,Wirtshaus Zum Rastlosen Stachelschwein
 29457743,Falklist-Gräberfeld
 30506359,Festung von Grüntreu
 31555875,Grolraphang
@@ -9431,7 +9431,7 @@ Key,Value
 51484810,Urigtreupfalz
 52533402,Meisterschmiedhall
 53581980,Moorlist-Gehöft
-54630592,Kerntürm
+54630592,Kernturm
 55679173,Kernfelden
 56727755,Ruinen des Alte-Vannyrrya-Bauernhofs
 57777264,Aschfelden-Gehöft
@@ -9503,7 +9503,7 @@ Key,Value
 126997265,Gräber von Meisterschwing
 128045847,Riesleig
 129095393,Kathau
-130144023,Meisterschmied-Gerichtshof
+130144023,Meisterschmied-Hof
 131192601,Moorstein-Gehöft
 132241183,Moorfelden-Grabanlage
 133290702,Moorhaus-Obstgarten
@@ -9530,12 +9530,12 @@ Key,Value
 155317797,Burg von Moorfelden
 156366377,Mordane-Minen
 157414960,Königsanger-Gehöft
-158463562,Hochmüh-Gerichtshof
-159513114,Ruinen des GutshofsWaldli
+158463562,Hochmüh-Hof
+159513114,Ruinen des Gutshofs von Waldli
 160561708,Stendarrs Endloser Märtyrer
 161611257,Ruinen der Kupfanger-Blockhütte
 162660846,Neubürg
-163709425,Gaerhaus-Gerichtshof
+163709425,Gaerhaus-Hof
 164758009,Hohlwald
 165806593,Bauernhof der Alten Elyna
 166855171,Neupfad
@@ -9556,7 +9556,7 @@ Key,Value
 182588780,Tristane-Grube
 183637388,Schuppen der Alten Vyctona
 184686934,Wilderleig
-185735513,Moorfelden-Gerichtshof
+185735513,Moorfelden-Hof
 186784096,Wilderbürg
 187832697,Grab des Lithogheon
 188882250,Stendarrs Fröhlicher Märtyrer
@@ -9572,7 +9572,7 @@ Key,Value
 40639,Schloss Waldtreu
 1089220,Meisterli-Anwesen
 2137801,Gutshof Yromfelden
-3187356,Grünstein-Gerichtshof
+3187356,Grünstein-Hof
 4235938,Turm von Herdheim
 5284535,Schloss Königsfurt
 6334049,Urigschwingpfalz
@@ -9601,12 +9601,12 @@ Key,Value
 30455303,Aschlihall
 31503886,Taverne Zu Knappen und Bisam
 32552469,Grünfurts Feste
-33601069,Falkstein-Gerichtshof
+33601069,Falkstein-Hof
 34650610,Ypsborn
 35699194,Kupfhaus-Friedhof
 36747803,Herdfeldenpfalz
 37796382,Urigfeldenturm
-38845911,Moorli-Gerichtshof
+38845911,Moorli-Hof
 39894496,Moorheim-Anwesen
 40944074,Ruinen von Kupfhaushall
 41992655,Aschfeldenturm
@@ -9690,7 +9690,7 @@ Key,Value
 123798597,Herdschmied-Krypten
 124847190,Kathmor
 125895771,Feste von Bockenschmied
-126944350,Schenke Zum Rastloen Stachelschwein
+126944350,Schenke Zum Rastlosen Stachelschwein
 127993843,Festung von Grünschwing
 129042429,Uriganger-Anwesen
 130091012,Herberge Zum Purpurnen Schloss
@@ -9723,7 +9723,7 @@ Key,Value
 158406578,Ruinen von Falksteinhall
 159455161,Gasthaus Zu Fledermaus und Gauner
 160503747,Schuppen der Alten Evelorya
-161552346,Bockenfurt-Gerichtshof
+161552346,Bockenfurt-Hof
 162600934,Feste von Edwistair
 163650415,Möhrheide
 164699010,Aschfurt-Gehöft
@@ -9731,7 +9731,7 @@ Key,Value
 166796208,Uriganger-Schuppen
 167844792,Taverne Zu Maus und Hirsch
 168893386,Möhrfurt
-169942882,Yromhaus-Gerichtshof
+169942882,Yromhaus-Hof
 170991480,Belfurt
 172040062,Krypten von Bockenlist
 173088654,Ruinen des Grünschmied-Anwesens
@@ -9777,7 +9777,7 @@ Key,Value
 215036730,Edwistyr-Sanatorium
 216085309,Stockfalter
 217133888,Falkfelden-Anwesen
-218183376,Ruinen des GutshofsUrigfelden
+218183376,Ruinen des Gutshofs von Urigfelden
 219231966,Lembrunn
 220280564,Zitadelle von Urigtreu
 221329150,Yromheimpfalz
@@ -9835,7 +9835,7 @@ Key,Value
 275861145,Bockenheims Feste
 276910629,Bauernhof der Alten Vannyvyra
 277959218,Taverne Zu Maulwurf und Fee
-279007805,Ruinen des GutshofsGaerli
+279007805,Ruinen des Gutshofs von Gaerli
 280056391,Aldbergen
 281104976,Zenithars Stilles Götterbild
 282153597,Bockenschwing-Plantage
@@ -9846,7 +9846,7 @@ Key,Value
 287397479,Ebenarms Amboss
 288446960,Moorhart-Gräberfeld
 289495540,Zenithars Feurige Dämmerung
-290544126,Königsfurt-Gerichtshof
+290544126,Königsfurt-Hof
 291592723,Herberge Zu Schwein und Kitz
 292641309,Königshaus-Plantage
 293689887,Zenithars Gesegneter Altar
@@ -9897,7 +9897,7 @@ Key,Value
 15733122,Stendarrs Stille Seele
 16781738,Alte Vannorya-Hütte
 17830381,Stendarrs Sanfter Märtyrer
-18878969,Wanntürm
+18878969,Wannturm
 19928388,Arkenpfad
 20976993,Bockenschwing-Plantage
 22025627,Skeffingtener Hexenzirkel
@@ -9916,7 +9916,7 @@ Key,Value
 35659041,Festung von Herdli
 36707631,Belbürg
 37756318,Stendarrs Singender Erlöser
-38805781,Ruinen des Kupfschmied-Gerichtshofs
+38805781,Ruinen des Kupfschmied-Hofs
 39854365,Waldli-Anwesen
 40902944,Alt-Gwynaynestatt
 41951533,Wirtshaus Zum Glücklichen Riesen
@@ -9970,7 +9970,7 @@ Key,Value
 92289267,Singtal
 93337860,Grabstätten von Mooranger
 94387320,Langkester
-95435975,Weißbruch-Gerichtshof
+95435975,Weißbruch-Hof
 96484559,Stendarrs Fröhliche Wiedergeburt
 97534020,Bauernhof der Alten Ysabyth
 98582607,Ostthal
@@ -10016,12 +10016,12 @@ Key,Value
 140533642,Tannfort
 141582225,Wirtshaus Zu Des Königs Goblin
 142630804,Grünlihall
-143679390,Grünlist-Gerichtshof
+143679390,Grünlist-Hof
 144727974,Gaerhaus-Gehöft
 145776658,Zitadelle von Aschstein
 146825241,Kernleckhall
 147874677,Stendarrs Heiliger Seher
-148923264,Aschfelden-Gerichtshof
+148923264,Aschfelden-Hof
 149971958,Urigli-Gehöft
 151020536,Bauernhof der Alten Vannyna
 152069968,Schrein von Ephen
@@ -10042,7 +10042,7 @@ Key,Value
 167802633,Grünhart-Gehöft
 168852201,Westbruch
 169900783,Andistair-Laboratorium
-170950357,Herdanger-Gerichtshof
+170950357,Herdanger-Hof
 172000921,Wilderweg
 173049503,Falkschmied-Plantage
 174098086,Falkli-Friedhof
@@ -10051,7 +10051,7 @@ Key,Value
 177244821,Waldhart-Gehöft
 178294380,Anotlas
 179342980,Rissfalter
-180392522,Moorschwing-Gerichtshof
+180392522,Moorschwing-Hof
 181441128,Grabstätten von Waldfeld
 182490678,Grautreu
 183539258,Graugrat
@@ -10064,7 +10064,7 @@ Key,Value
 190881289,Meisterfeldstatt
 191929882,Meisterli-Gehöft
 192979447,Bockenli-Gehöft
-194028025,Ruinen des GutshofsMeisterstein
+194028025,Ruinen des Gutshofs von Meisterstein
 195076613,Aschhaus-Plantage
 196125191,Stendarrs Feuriger Seher
 197173771,Schloss Urighart
@@ -10103,7 +10103,7 @@ Key,Value
 31508740,Meisterhartpfalz
 32557332,Burg von Gaerheim
 33606869,Stendarrs Singender Baum
-34655450,Ruinen des Bockentreu-Gerichtshofs
+34655450,Ruinen des Bockentreu-Hofs
 35704029,Bauernhof der Alten Barborya
 36752622,Gaerlipfalz
 37801201,Herdschwing-Turm
@@ -10158,7 +10158,7 @@ Key,Value
 89201443,Yromfelds Wacht
 90250957,Gaerfeld-Gehöft
 91299575,Gaerli-Anwesen
-92349115,Moorfurt-Gerichtshof
+92349115,Moorfurt-Hof
 93397699,Moorheim-Gehöft
 94446283,Ostborn
 95494863,Ostdorf
@@ -10205,7 +10205,7 @@ Key,Value
 138499485,Krypten von Königsfeld
 139548076,Kirchdorf
 140596665,Mittborn
-141646185,Grautürm
+141646185,Grauturm
 142694800,Feste von Aschschwing
 143744352,Burkfelden
 144792954,Waldlist-Gräberfeld
@@ -10251,7 +10251,7 @@ Key,Value
 186748949,Gasthaus Zu Fledermaus und Schloss
 187797531,Gaerstein-Gehöft
 188846154,Moorlist-Obstgarten
-189895666,Ruinen des GutshofsUrighart
+189895666,Ruinen des Gutshofs von Urighart
 190944250,Gutshof Bockenstein
 191992848,Aschhart-Gehöft
 193041474,Herberge Zu Zwerg und Jägersmann
@@ -10272,7 +10272,7 @@ Key,Value
 208773094,Stendarrs Ewiger Baum
 209822609,Wirtshaus Zum Tänzelnden Schloss
 210871197,Kupffurt-Gräberfeld
-211919791,Grünanger-Gerichtshof
+211919791,Grünanger-Hof
 212968376,Schenke Zum Silbernen Vogel
 214017910,Königshart-Obstgarten
 215066509,Rissdorf
@@ -10306,7 +10306,7 @@ Key,Value
 244435695,Wehrhopen
 245484283,Yromschmied-Grabstätten
 246533809,Kernthalhain
-247582390,Waldanger-Gerichtshof
+247582390,Waldanger-Hof
 248630973,Waldstein-Gehöft
 249679560,Stendarrs Blutende Wiedergeburt
 250728157,Bockenfeldenpfalz
@@ -10347,12 +10347,12 @@ Key,Value
 287441318,Langheim
 288489909,Alte Elyzanna-Hütte
 289539439,Zitadelle von Kupffeld
-290588018,Quellbrunn-Gerichtshof
+290588018,Quellbrunn-Hof
 291640611,Stendarrs Fröhlicher Seher
-1297,Ruinen des Königshart-Gerichtshofs
+1297,Ruinen des Königshart-Hofs
 1049876,Urigtreus Feste
 2098464,Schenke Zu Unke und Oger
-3147047,Ruinen des Königsfeld-Gerichtshofs
+3147047,Ruinen des Königsfeld-Hofs
 4195626,Yromhart-Gehöft
 5244205,Wirtshaus Zum Weißen Humpen
 6292797,Gaerfeld-Gewölbe
@@ -10573,7 +10573,7 @@ Key,Value
 231754636,Arkenstadt
 232803218,Schloss Urighaus
 233851803,Wilderburg
-234900399,Wilderheim-Gerichtshof
+234900399,Wilderheim-Hof
 235948977,Zitadelle von Yromheim
 236997583,Tannburg
 238046163,Feste von Moortreu
@@ -10595,7 +10595,7 @@ Key,Value
 254824386,Gaerfeld-Obstgarten
 255872964,Schrein von Bandi
 256921546,Maras Feuriger Märtyrer
-257970135,Yromfelden-Gerichtshof
+257970135,Yromfelden-Hof
 259019547,Falkschmied-Plantage
 260068141,Schuppen der Alten Gwynyrrya
 261116726,Taverne Zur Rastlosen Katze
@@ -10627,7 +10627,7 @@ Key,Value
 288380839,Ruinen des Moorlist-Obstgartens
 289430263,Ruinen von Alt-Vyctyvyras Hütte
 290478848,Tonnfurtwald
-291527426,Meisterheim-Gerichtshof
+291527426,Meisterheim-Hof
 292576006,Meisterschmied-Gehöft
 293624598,Versteck von Maelorgon
 294673182,Divad-Monument
@@ -10646,11 +10646,11 @@ Key,Value
 308304787,Maras Ewiges Orakel
 309354224,Maras Sanfter Aufstieg
 310402836,Altar von I'ric
-311451425,Arkentürm
+311451425,Arkenturm
 312500009,Moorheimhall
 313548587,Möhrfort
 314597170,Wirtshaus Zu Der Königin Barbaren
-315645750,Bockenhart-Gerichtshof
+315645750,Bockenhart-Hof
 316694329,Djen-Einkehr
 317742921,Morkoth-Senke
 318791515,Gaeranger-Obstgarten
@@ -10666,7 +10666,7 @@ Key,Value
 329278280,Schloss Waldtreu
 330326864,Ruinen von Uriglisthall
 331375456,Bockenlist-Plantage
-332424037,Langtürm
+332424037,Langturm
 333473446,Belhopen
 334522044,Grimmwall
 335570645,Schrein von Vigryl
@@ -10713,7 +10713,7 @@ Key,Value
 378565319,Dyrheide
 379613939,Yromhaus-Plantage
 380663385,Schrein von Jephre
-381711988,Falkfurt-Gerichtshof
+381711988,Falkfurt-Hof
 382760566,Schloss von Kupfstein
 383809146,Königsfurtturm
 384857729,Agrastyr-Gefängnis
@@ -10756,7 +10756,7 @@ Key,Value
 423657134,Mittmüh
 424705723,Yromtreu-Gehöft
 425754303,Tonnbruchmoor
-426803717,Lemtürm
+426803717,Lemturm
 427852297,Schwarzhopen
 428900891,Kupffeldens Wacht
 429949477,Zitadelle von Kupftreu
@@ -10783,7 +10783,7 @@ Key,Value
 451971538,Gräber von Grünhaus
 453020126,Gaerheimpfalz
 454068707,Mausoleum des Morivus
-455117306,Herberge Zum Rastloen Stachelschwein
+455117306,Herberge Zum Rastlosen Stachelschwein
 456165886,Grabstätten von Kupfanger
 457214479,Taverne Zu Fuchs und Katze
 458263059,Herdschmied-Anwesen
@@ -10852,7 +10852,7 @@ Key,Value
 524329338,Breitwichen
 525377921,Zusammenkunft der Carolayne
 526426503,Falkfelden-Anwesen
-527475104,Ruinen des GutshofsGaertreu
+527475104,Ruinen des Gutshofs von Gaertreu
 528524598,Aschli-Anwesen
 529573197,Maras Stiller Märtyrer
 530621780,Gothbronnhall
@@ -10902,7 +10902,7 @@ Key,Value
 576766130,Neuthal
 577815678,Aschfeld-Krypten
 578864261,Velothracs Netz
-579912850,Ruinen des GutshofsHerdli
+579912850,Ruinen des Gutshofs von Herdli
 580961442,Ruinen der alten Urigfurt-Hütte
 582011008,Krummleig
 583060575,Aschfeld-Gehöft
@@ -10957,7 +10957,7 @@ Key,Value
 47239307,Julianos' Furchtsamer Stern
 48287891,Schwarzkraten
 49336491,Aschschmied-Anwesen
-50386007,Ruinen des Aschhaus-Gerichtshofs
+50386007,Ruinen des Aschhaus-Hofs
 51434594,Falkli-Anwesen
 52483202,Waldlist-Gehöft
 53532730,Gutshof Kupfstein
@@ -10971,14 +10971,14 @@ Key,Value
 61922379,Tiefwies
 62970962,Gewölbe des Necromaneon
 64020540,Grünhart-Anwesen
-65069133,Ruinen des Königsschmied-Gerichtshofs
+65069133,Ruinen des Königsschmied-Hofs
 66118661,Moorstein-Gewölbe
 67167250,Gutshof Gaerfeld
 68215840,Turm von Herdstein
 69264418,Meisterfelden-Anwesen
 70313006,Moorschmied-Obstgarten
 71362580,Pannfelden
-72412100,Graubronn-Gerichtshof
+72412100,Graubronn-Hof
 73460692,Schuppen der Alten Elyrrya
 74509275,Schloss Andistyr
 75557860,Julianos' Fröhlicher Seher
@@ -11015,7 +11015,7 @@ Key,Value
 108073675,Aschfurt-Gehöft
 109122256,Urigtreu-Obstgarten
 110170837,Waldli-Gräberfeld
-111220475,Falkfurt-Gerichtshof
+111220475,Falkfurt-Hof
 112269981,Julianos' Klagender Erlöser
 113318605,Wannfalter
 114367199,Riesfalter
@@ -11096,7 +11096,7 @@ Key,Value
 193033388,Julianos' Stiller Prophet
 194082912,Kupfhart-Plantage
 195131507,Langwald
-196180085,Kupfanger-Gerichtshof
+196180085,Kupfanger-Hof
 197228666,Schrein für Jode
 198277279,Julianos' Klagender Stern
 199326807,Fraternität von Morkexa
@@ -11188,7 +11188,7 @@ Key,Value
 289522345,Alte Evelyssa-Hütte
 290570940,Gutshof Bockenhart
 291619528,Schloss Edwistair
-292669064,Königsstein-Gerichtshof
+292669064,Königsstein-Hof
 293717643,Königsfeld-Gehöft
 294766233,Kernthal
 295814815,Falklisthall
@@ -11241,7 +11241,7 @@ Key,Value
 39962191,Herdli-Gehöft
 41010791,Herdfelden-Schuppen
 42059381,Kernhaupt
-43108908,Gaerhaus-Gerichtshof
+43108908,Gaerhaus-Hof
 44157501,Risshaupt
 45207103,Feste von Gaerfeld
 46256626,Waldschwinghall
@@ -11252,7 +11252,7 @@ Key,Value
 51502553,Moorli-Anwesen
 52551131,Alt-Chrystaynestatt
 53601704,Herdhaus-Gehöft
-54651219,Gaerfurt-Gerichtshof
+54651219,Gaerfurt-Hof
 55699804,Kastelborn
 56748398,Panndorf
 57796983,Zitadelle von Urighaus
@@ -11288,7 +11288,7 @@ Key,Value
 89264263,Schutzort von Phen
 90312841,Ostmor
 91361435,Königsfeld-Anwesen
-92410014,Osttürm-Senke
+92410014,Ostturm-Senke
 93458595,Gutshof Grünfelden
 94507181,Königsschwingturm
 95556726,Herberge Zur Fliegenden Wache
@@ -11332,7 +11332,7 @@ Key,Value
 135415589,Stockdorf
 136464168,Wilderwegfels
 137512746,Kult der Morgausa
-138561350,Bockenli-Gerichtshof
+138561350,Bockenli-Hof
 139610902,Gasthaus Zur Wilden Grube
 140659500,Falkheimpfalz
 141709035,Ruinen von Alt-Vannyvyras Schuppen
@@ -11391,7 +11391,7 @@ Key,Value
 197308606,Moorstein-Gehöft
 198360173,Aschli-Obstgarten
 199408754,Ruinen des Königsfurt-Gehöfts
-200458340,Königsanger-Gerichtshof
+200458340,Königsanger-Hof
 201507911,Festung von Kupfschmied
 202560477,Schloss Grünfeld
 203611055,Arkays Stille Dämmerung
@@ -11424,13 +11424,13 @@ Key,Value
 231936622,Gutshof Moorfelden
 232986202,Kupflis Wacht
 234034781,Aldbruch
-235084334,Moorschmied-Gerichtshof
+235084334,Moorschmied-Hof
 236132915,Taverne Zu Feder und Schädel
 237182500,Waldstein-Gehöft
 238232067,Neufortend
 239283638,Waldanger-Blockhütte
 240332220,Taverne Zum Grünen Jägersmann
-241380799,Bockenhart-Gerichtshof
+241380799,Bockenhart-Hof
 242431370,Herrenhaus von Barelion
 243481940,Ruinen von Yromschmieds Wacht
 451180,Damu-Ij
@@ -11450,7 +11450,7 @@ Key,Value
 15140240,Ruinen des Darhtinturms
 16188823,Herberge Zu Schwein und Goblin
 17237401,Schloss Glar
-18285987,Fairgt-Gerichtshof
+18285987,Fairgt-Hof
 19334569,Schenke Zu Biber und Schlund
 20384117,Kieran-Theater
 21432700,Feste von Lellten
@@ -11464,7 +11464,7 @@ Key,Value
 29823311,Feste von Raerhter
 30871891,Glaj-Anwesen
 31920477,Ruinen von Alt-Nhurdtis Schuppen
-32969056,Kozta-Gerichtshof
+32969056,Kozta-Hof
 34017636,Feste von Faerd
 35067198,Lhir'kerns Feste
 36116757,Zitadelle von Caiske
@@ -11489,7 +11489,7 @@ Key,Value
 56043707,Schloss Dirkom
 57092310,Taverne Zu Löwen und Oger
 58141864,Festung von Fhorcur
-59190442,T'us-Gerichtshof
+59190442,T'us-Hof
 60239020,Makeliria
 61287598,Schloss Garomyth
 62336179,Grube des Homunasuna
@@ -11552,7 +11552,7 @@ Key,Value
 122116976,Sarm-Gehöft
 123165567,Schuppen der Alten Lhag-i
 124214152,Schrein von Q'Olwen
-125262730,B'uch-Gerichtshof
+125262730,B'uch-Hof
 126311314,Shrush-Anwesen
 127359894,Alter Caujur-Schuppen
 128408473,Schloss V'urkir
@@ -11718,7 +11718,7 @@ Key,Value
 52873035,Vloston-Anwesen
 53921619,Nest von Norlotor
 54971181,Zenascuja
-56019767,Dirn-Gerichtshof
+56019767,Dirn-Hof
 57069315,Ramissi-Thar
 58117895,M'eghall
 59166478,Glirt-Anwesen
@@ -11780,9 +11780,9 @@ Key,Value
 117910729,Schuppen der Alten Lhuski
 118959318,Ruinen des Turms von M'irkam
 120008890,Pheonotuwan
-121057472,Rhostan-Gerichtshof
+121057472,Rhostan-Hof
 122108043,Herberge Zu Der Königin Riesen
-123156623,Tlircem-Gerichtshof
+123156623,Tlircem-Hof
 124206189,Dagradred
 125256767,Ruinen des alten Caermim-Schuppens
 126306337,Grabstätte des Lithimon
@@ -11830,7 +11830,7 @@ Key,Value
 41315693,Mesiijet
 42364284,Glethar-Anwesen
 43413851,Herberge Zum Dürstenden Dolch
-44463418,Kast-Gerichtshof
+44463418,Kast-Hof
 45512014,Dallir-Anwesen
 46560592,Wirtshaus Zum Purpurnen Goblin
 47610161,Shughall
@@ -11972,9 +11972,9 @@ Key,Value
 134663002,Schloss F'ergin
 135711582,Mhujta-Anwesen
 136760163,Kynareths Stiller Erlöser
-137808746,Caizar-Gerichtshof
+137808746,Caizar-Hof
 138858312,Javotubia
-139907877,Gresh-Gerichtshof
+139907877,Gresh-Hof
 140957431,Locconis
 142006025,Lelidai
 143054615,Taverne Zum Tänzelnden Gauner
@@ -12041,7 +12041,7 @@ Key,Value
 55950057,Cyirkke-Plantage
 56999564,Moccolah
 58048143,Maras Stiller Märtyrer
-59096747,Klergta-Gerichtshof
+59096747,Klergta-Hof
 60145329,Meli-Hassi
 61193915,Friedhof Vlostin
 62242547,Tsetoccosa
@@ -12123,7 +12123,7 @@ Key,Value
 141968209,Wirtshaus Zur Weißen Fee
 143017788,Tulaastania
 144066370,Tulaenajet
-145116934,Thirht-Gerichtshof
+145116934,Thirht-Hof
 146165513,Mogirijer
 147215099,Herberge Zum Purpurnen Drachen
 148264661,Furpon-Grabstätten
@@ -12167,7 +12167,7 @@ Key,Value
 38059272,Schenke Zu Des Teufels Goblin
 39107855,Blirdtahall
 40156445,Gasthaus Zum Fliegenden Krug
-41205985,Schenke Zum Rastloen Kitz
+41205985,Schenke Zum Rastlosen Kitz
 42254566,Pissibi
 43304134,Millitor
 44352724,Schlupfwinkel des Verezezzar
@@ -12218,7 +12218,7 @@ Key,Value
 91549659,Gasthaus Zum Grünen Dschinn
 92598244,M'irmerhall
 93646836,Schenke Zum Glücklichen Dachs
-94696360,Fach-Gerichtshof
+94696360,Fach-Hof
 95744982,Schlafplatz Hezotlath
 96793560,Stejir-Gehöft
 97843083,Lherchen-Anwesen
@@ -12236,7 +12236,7 @@ Key,Value
 110427984,Schloss Lhefyl'kern
 111476611,Taverne Zur Schmutzigen Ziege
 112525195,Gasthaus Zum Glücklosen Skorpion
-113573788,Ruinen des Bourcem-Gerichtshofs
+113573788,Ruinen des Bourcem-Hofs
 114622367,Ghoghtta-Obstgarten
 115671872,Kalallaa
 116720458,Saithur-Gehöft
@@ -12420,7 +12420,7 @@ Key,Value
 303404055,Dibellas Steter Stern
 304452639,Ruinen des Thircrn-Anwesens
 305502171,Atrji-Ij
-306550760,F'ovon-Gerichtshof
+306550760,F'ovon-Hof
 307599364,Jalahao
 308647948,Taverne Zu Der Königin Priester
 309697493,Dibellas Gesegneter Stern
@@ -12463,7 +12463,7 @@ Key,Value
 348509833,Dibellas Feuriger Baum
 349561405,Wirtshaus Zu Maus und Katze
 315721,Bubehda
-1364299,Mauch-Gerichtshof
+1364299,Mauch-Hof
 2413853,Jalosa
 3462441,Schloss Dhilpt
 4512049,Sede-Korom
@@ -12476,9 +12476,9 @@ Key,Value
 11859038,Alt-Gillkistatt
 12907620,Caormja-Treffpunkt
 13956227,Schloss Grirtin
-15007756,Dorcam-Gerichtshof
+15007756,Dorcam-Hof
 16056348,Shucten-Turm
-17105910,Thethon-Gerichtshof
+17105910,Thethon-Hof
 18154488,Herberge Zum Schmutzigen Drachen
 19203098,Alt-Krirdimstatt
 20251676,Berarea
@@ -12487,7 +12487,7 @@ Key,Value
 23400362,Slurtten-Obstgarten
 24448963,Schloss Vlarun
 25498518,Gysuhan
-26547100,Slurht-Gerichtshof
+26547100,Slurht-Hof
 27595679,Gasthaus Zum Roten Wolf
 28646272,Baighall
 29694862,Alter Slolpen-Schuppen
@@ -12499,7 +12499,7 @@ Key,Value
 35990300,Baghakaga
 37038887,Most-Blockhütte
 38088433,Ruinen des Alte-Fichca-Bauernhofs
-39138011,Flastar-Gerichtshof
+39138011,Flastar-Hof
 40186613,Issaqeisa
 41236169,Punnuzar
 42285754,Wirtshaus Zu Des Königs Priester
@@ -12517,7 +12517,7 @@ Key,Value
 3415577,Turm von Ghorkke
 4471139,Taverne Zum Rostroten Vogel
 5520678,Lopadai
-6570273,Shrald-Gerichtshof
+6570273,Shrald-Hof
 7618875,M'arkam-Anwesen
 8668423,Alter Turder-Schuppen
 9717019,Nhalden-Anwesen
@@ -12528,7 +12528,7 @@ Key,Value
 14961880,Turtke-Grabanlage
 16010476,Damohazar
 17059081,Doll-Gehöft
-18108619,Grirtke-Gerichtshof
+18108619,Grirtke-Hof
 19158147,Tulajidax
 20206726,Schenke Zu Des Königs Kerker
 21255335,Netz von Trogerghu
@@ -12605,7 +12605,7 @@ Key,Value
 95723272,Suthar-Laboratorium
 96771859,Pireg
 97821348,Djen-Einkehr
-98869944,Krorg-Gerichtshof
+98869944,Krorg-Hof
 99918557,Alte Foch-si-Hütte
 100967161,Morkasuna-Grotte
 102016646,Pheonirila
@@ -12815,7 +12815,7 @@ Key,Value
 152377259,Sheshes Wacht
 153425843,Blisim-Akademie
 154474424,Schrein von Dugrod
-155523024,Raoj-Gerichtshof
+155523024,Raoj-Hof
 156571624,Schrein von Mai
 157620213,Tsetadara
 158668820,Tsetunu
@@ -12939,7 +12939,7 @@ Key,Value
 282408743,Alte Cyuzka-Hütte
 283457322,Alte T'archta-Hütte
 284505906,Schenke Zum Rastlosen Oger
-285554502,Vafylam-Gerichtshof
+285554502,Vafylam-Hof
 286603126,Grab des Necromoghezzar
 287651719,Ruinen des Blurcar-Anwesens
 288700299,Wirtshaus Zu Maus und Oger
@@ -13059,7 +13059,7 @@ Key,Value
 408245970,Gysilah
 409294548,Gizimpfalz
 410343131,Wirtshaus Zu Des Teufels Skorpion
-411391721,Ruinen des Boestt-Gerichtshofs
+411391721,Ruinen des Boestt-Hofs
 412440304,Raefylt-Obstgarten
 413489672,Rleshans Feste
 414538255,Schloss Vlag
@@ -13093,7 +13093,7 @@ Key,Value
 443900431,Sernar-Laboratorium
 444949018,Wirtshaus Zu Feder und Jägersmann
 445997603,Taverne Zum Lachenden Schwert
-447046190,Targan-Gerichtshof
+447046190,Targan-Hof
 448094769,Alter Caos-Schuppen
 449143347,Schloss Cyazam
 450191925,Javakaplex
@@ -13126,7 +13126,7 @@ Key,Value
 478505383,Zenithars Feuriges Relikt
 479553972,Osoturet
 480602562,V'orner-Turm
-481651155,Ruinen des Nogem-Gerichtshofs
+481651155,Ruinen des Nogem-Hofs
 482699734,Osallaja
 483748321,Syrotula
 484796904,Gutshof Thirchrn
@@ -13151,12 +13151,12 @@ Key,Value
 504720900,Zenithars Furchtsamer Erlöser
 505769496,Alt-Dalparstatt
 506818094,Vlechinhall
-507866692,Sefylan-Gerichtshof
+507866692,Sefylan-Hof
 508915289,Ruinen des Boijim-Anwesens
 509964659,Flulpt-Anwesen
 511013253,Schrein des Asmas
 512061837,Gashirhall
-513110417,Caajer-Gerichtshof
+513110417,Caajer-Hof
 514159008,Pythoccowan
 515207591,Cyeths Feste
 516256178,Gyselibu
@@ -13170,7 +13170,7 @@ Key,Value
 524644891,Taverne Zu Maulwurf und Schloss
 525693473,Narjiza
 526742052,Minzar
-527790630,Bagen-Gerichtshof
+527790630,Bagen-Hof
 528839224,Bauranturm
 529887818,Morc-Anwesen
 530937182,Papehzar
@@ -13380,7 +13380,7 @@ Key,Value
 744858787,Herberge Zum Silbernen Gauner
 745907383,T'ash-Gehöft
 746955967,Zitadelle von Lhofyl
-748004571,Kuctam-Gerichtshof
+748004571,Kuctam-Hof
 749053185,Alt-Rlugsastatt
 750102580,Zenithars Stete Wiedergeburt
 751151170,Burcur-Gehöft
@@ -13413,7 +13413,7 @@ Key,Value
 779463890,Ruinen von Boirdhall
 780513291,Wirtshaus Zum Wilden Schloss
 781561872,M'ell-Obstgarten
-782610461,Grirp'kern-Gerichtshof
+782610461,Grirp'kern-Hof
 783659058,Zenithars Feuriger Prophet
 784707664,Klaste-Anwesen
 785756245,Ruinen von Kusthall
@@ -13489,7 +13489,7 @@ Key,Value
 859161625,Antelilabia
 860210220,Bauchtturm
 861258808,Schloss Tlozur
-862307406,Caoldun-Gerichtshof
+862307406,Caoldun-Hof
 863355985,Ruinen des Terkam-Anwesens
 864405467,Gasthaus Zum Glücklichen Schädel
 865454052,Grabstätte des Darkivaraus
@@ -13526,7 +13526,7 @@ Key,Value
 897965945,Ker-Anwesen
 899014523,Bandis Schrein
 900063111,V'irtirhall
-901111689,Sirkin-Gerichtshof
+901111689,Sirkin-Hof
 902160268,Lhorp-Gehöft
 903208846,Elekat
 904257431,B'eram-Gutshof
@@ -13656,7 +13656,7 @@ Key,Value
 88381372,Osilawan
 89430835,Gasthaus Zur Toten Ziege
 90479431,Kurdten-Obstgarten
-91528015,D'urt-Gerichtshof
+91528015,D'urt-Hof
 92576608,Taverne Zu Schwein und Ziege
 93625213,Ceradbu
 94673798,Boargpfalz
@@ -13717,7 +13717,7 @@ Key,Value
 152358395,Elila-Ij
 153407002,Eluhkat
 154455594,Krypta des Balthivaror
-155504218,Nurchen-Gerichtshof
+155504218,Nurchen-Hof
 156553697,Khajusia
 157602282,Dispiamithivah-Schrein
 158650893,Binno
@@ -13810,7 +13810,7 @@ Key,Value
 249893005,Taverne Zum Schmutzigen Hund
 250941592,Taverne Zum Schwarzen Igel
 251990184,Pjiga
-253038778,Tuchum-Gerichtshof
+253038778,Tuchum-Hof
 254087377,Gysinla
 255137914,Laboratorium des Rhughte
 256186496,Antelettuisa
@@ -13896,7 +13896,7 @@ Key,Value
 340102577,Alt-Rlezamstatt
 341151161,Herberge Zum Heulenden Schloss
 342199760,Wirtshaus Zu Des Königs Bisam
-343249326,C'ergun-Gerichtshof
+343249326,C'ergun-Hof
 344297915,Blordar-Gewölbe
 345347457,Rhogascuplex
 346396052,Schenke Zum Tänzelnden Stachelschwein
@@ -13922,7 +13922,7 @@ Key,Value
 367380549,Friedhof Gurchur
 368431118,Fhest'kern-Obstgarten
 369481696,Huthudisu
-370531277,Gold-Gerichtshof
+370531277,Gold-Hof
 371580850,Grolgod
 372631428,Schenke Zu Des Teufels Schädel
 373680997,Schenke Zu Des Königs Schwert
@@ -13976,7 +13976,7 @@ Key,Value
 43426444,Maras Furchtsames Relikt
 44475023,Turm von Cichin
 45523609,Sactemhall
-46572200,Leg-Gerichtshof
+46572200,Leg-Hof
 47620780,Herberge Zum Grünen Schlund
 48669364,Höhle des Balothiah
 49718890,D'uctempfalz
@@ -14010,7 +14010,7 @@ Key,Value
 79086066,Schenke Zu Feder und Greifen
 80134644,Isfibu-Gora
 81183227,Isfakat
-82232753,Fhostim-Gerichtshof
+82232753,Fhostim-Hof
 83281339,B'urmar-Anwesen
 84329933,Tuzrn-Gehöft
 85378515,Antelopada
@@ -14057,7 +14057,7 @@ Key,Value
 128379110,Wirtshaus Zum Silbernen Drachen
 129427701,Tisen-Anwesen
 130476289,Alter Nhijim-Schuppen
-131524885,Ghistam-Gerichtshof
+131524885,Ghistam-Hof
 132573476,Alt-Rhollthastatt
 133622966,Gysosa
 134671569,Zitadelle von C'orkke
@@ -14120,7 +14120,7 @@ Key,Value
 194451465,F'eth-Laboratorium
 195500046,Rhanascuja
 196549596,Appascu-Thar
-197599157,V'ig-Gerichtshof
+197599157,V'ig-Hof
 198647740,Rarc-Turm
 199696322,Taverne Zu Knappen und Ziege
 200744927,Pythotula
@@ -14168,7 +14168,7 @@ Key,Value
 20356592,Ratttor
 21405181,Kalyryda
 22453760,Balah
-23504324,Glaghton-Gerichtshof
+23504324,Glaghton-Hof
 24552908,C'usht-Gehöft
 25602474,Moriribia
 26651057,Slildums Feste
@@ -14211,11 +14211,11 @@ Key,Value
 27695420,Alter B'ojin-Schuppen
 28744028,Maras Innerer Altar
 29793591,Herberge Zum Schwarzen Hund
-30842183,Raej-Gerichtshof
+30842183,Raej-Hof
 31893752,Sedemian
 32944318,Alt-Luldrnstatt
 33992901,Schrein von Dugrod
-35041490,Mairpte-Gerichtshof
+35041490,Mairpte-Hof
 36092040,Mogopaa
 37140646,Krerdurhall
 38191201,Hütte der Alten Saz
@@ -14293,7 +14293,7 @@ Key,Value
 1252547,Herberge Zu Des Teufels Humpen
 2302116,Aschtreu-Gehöft
 3350694,Ruinen des Urigtreu-Gehöfts
-4400263,Ruinen des GutshofsKupfhaus
+4400263,Ruinen des Gutshofs von Kupfhaus
 5448856,Herberge Zu Biber und Helm
 6498418,Aldmuld
 7547006,Gemeinschaft der Vannorya
@@ -14324,7 +14324,7 @@ Key,Value
 33778416,Zirkel der Carololda
 34828989,Zenithars Sanfte Seele
 35878561,Meisterlihall
-36929134,Hochwall-Gerichtshof
+36929134,Hochwall-Hof
 37977715,Ruinen von Alt-Ysynstatt
 39027283,Urigschmied-Schuppen
 40076870,Gaerschwing-Gräberfeld
@@ -14370,7 +14370,7 @@ Key,Value
 28422632,Grabstätten von Kupfhaus
 29471210,Kupffeldturm
 30520779,Julianos' Heiliges Omen
-31569384,Yromschwing-Gerichtshof
+31569384,Yromschwing-Hof
 32617965,Yromfurt-Gehöft
 33667511,Taverne Zum Silbernen Dolch
 34716100,Meisterli-Gehöft
@@ -14390,14 +14390,14 @@ Key,Value
 49401192,Bauernhof der Alten Morganna
 50450715,Kupfheimstatt
 51499297,Krummfurt
-52547880,Grünfeld-Gerichtshof
+52547880,Grünfeld-Hof
 53596482,Grünhart-Gehöft
 54646065,Urigschwing-Gehöft
 55694643,Wirtshaus Zu Der Königin Jägersmann
 56743221,Herberge Zum Rostroten Priester
 57792747,Lysyna-Kabale
 58841377,Gasthaus Zum Silbernen Wolf
-59890923,Meisteranger-Gerichtshof
+59890923,Meisteranger-Hof
 60939532,Turm von Meisterschmied
 61989057,Tulune
 63038647,Zitadelle von Herdhaus
@@ -14410,7 +14410,7 @@ Key,Value
 70380662,Dagkers Nest
 71429270,Gasthaus Zu Des Teufels Hirsch
 72477867,Ritterspfad
-73527394,Schwarztürm
+73527394,Schwarzturm
 74576007,Grünfurtstatt
 75625542,Moorli-Friedhof
 76674120,Herrenhaus von Gaerheim
@@ -14462,7 +14462,7 @@ Key,Value
 124928606,Zitadelle von Herdheim
 125979209,Herdfeld-Gräberfeld
 127027796,Falkfeld-Gehöft
-128077397,Grünfurt-Gerichtshof
+128077397,Grünfurt-Hof
 129126925,Uriglist-Gehöft
 130175515,Langhauptend
 131227082,Falkangers Feste
@@ -14479,7 +14479,7 @@ Key,Value
 142768407,Schloss Kupfanger
 143817986,Julianos' Stilles Omen
 144867560,Lembruch
-145917142,Gaerheim-Gerichtshof
+145917142,Gaerheim-Hof
 50109,Meisterschwing-Gräberfeld
 1099687,Bockenfurt-Gehöft
 2149258,Zusammenkunft der Vyctyna
@@ -14531,7 +14531,7 @@ Key,Value
 50401769,Maras Gesegnetes Orakel
 51450358,Falkhart-Anwesen
 52499892,Alte Lysorya-Hütte
-53549465,Meisterli-Gerichtshof
+53549465,Meisterli-Hof
 54598070,Meisterlist-Gehöft
 55646657,Neuburg
 56696183,Tannbrügge
@@ -14569,7 +14569,7 @@ Key,Value
 90258668,Maras Gesegneter Baum
 91307249,Falkfeld-Friedhof
 92356766,Schrein von Vigryl
-93405366,Stocktürm
+93405366,Stockturm
 94454913,Rissbronn
 95503523,Ruinen von Bockenfeldens Feste
 96552121,Gothhopen
@@ -14581,7 +14581,7 @@ Key,Value
 102845521,Falkschwingstatt
 103894126,Netz von Skoiker
 104942735,Meisterheim-Friedhof
-105992245,Waldlist-Gerichtshof
+105992245,Waldlist-Hof
 107040828,Yromhaus-Gehöft
 108089439,Yromfurt-Gehöft
 109138024,Yromheimpfalz
@@ -14666,7 +14666,7 @@ Key,Value
 10541058,Turm von Herdheim
 11589642,Waldhaus-Friedhof
 12638232,Bockenhaus-Gräberfeld
-13687768,Ruinen des Waldfelden-Gerichtshofs
+13687768,Ruinen des Waldfelden-Hofs
 14736352,Gutshof Falkhart
 15784951,Ruinen von Alt-Aschliststatt
 16833553,Langgratgmünd
@@ -14753,7 +14753,7 @@ Key,Value
 101780067,Burg von Kupfstein
 102828681,Kupfheim-Anwesen
 103877261,Carolanna-Kabale
-104925840,Hohltürm
+104925840,Hohlturm
 105974425,Ruinen des Bockenschwing-Anwesens
 107023011,Helerthrac
 108071591,Kult der Ysanna
@@ -14762,7 +14762,7 @@ Key,Value
 111217345,Moorharthall
 112265925,Ruinen von Uriglisthall
 113314511,Ruinen des Urigfurt-Gehöfts
-114363111,Kreuztürm
+114363111,Kreuzturm
 115411698,Tiefhopen
 116461123,Falktreu-Anwesen
 117509705,Moorschmied-Gehöft
@@ -14783,7 +14783,7 @@ Key,Value
 133239396,Königsheim-Gräberfeld
 134287980,Kathfurtmoor
 135336587,Ruinen von Alt-Ysynastatt
-136385166,Waldschwing-Gerichtshof
+136385166,Waldschwing-Hof
 137433744,Kupfanger-Grabstätten
 138482323,Bockenheim-Anwesen
 139530903,Gothwald
@@ -14854,7 +14854,7 @@ Key,Value
 207693282,Yromstein-Gewölbe
 208741861,Wirtshaus Zum Rostroten Gauner
 209790439,Alabane-Laboratorium
-210839022,Gothtürm
+210839022,Gothturm
 211887609,Lemmorgmünd
 212936238,Urigfurthall
 213984828,Urigtreustatt
@@ -14874,7 +14874,7 @@ Key,Value
 228665869,Ruinen von Schloss Urigli
 229714448,Urigfelden-Anwesen
 230763039,Riesfelden
-231811627,Oxentürm
+231811627,Oxenturm
 232860210,Taverne Zu Fuchs und Schädel
 233909641,Hochbronn
 234958220,Grünschwingturm
@@ -14888,7 +14888,7 @@ Key,Value
 243346891,Waldhaus-Gehöft
 244395473,Yromstein-Gehöft
 245444064,Kreuzheim
-246492694,Herdli-Gerichtshof
+246492694,Herdli-Hof
 247541280,Aschlist-Gehöft
 248589858,Versteck von Morertor
 249639298,Königshaus-Anwesen
@@ -14911,7 +14911,7 @@ Key,Value
 267466070,Grabstätten von Grünschmied
 268514648,Ruinen von Urigangers Feste
 269563228,Königsstein-Friedhof
-270611814,Ruinen des Falkschmied-Gerichtshofs
+270611814,Ruinen des Falkschmied-Hofs
 271660409,Kastelkraten
 272708995,Meisteranger-Anwesen
 273757583,Yromfeld-Blockhütte
@@ -14940,7 +14940,7 @@ Key,Value
 297875913,Moortreu-Gewölbe
 298924496,Arkays Endloser Altar
 299973075,Moorfelden-Krypten
-301021653,Königsli-Gerichtshof
+301021653,Königsli-Hof
 302070231,Grünfelden-Hütte
 303119657,Hochdorf
 304168276,Hohlfort
@@ -14969,15 +14969,15 @@ Key,Value
 328287540,Arkays Furchtsamer Erlöser
 329336132,Feste von Andistair
 330384715,Westweg
-331433307,Grünfeld-Gerichtshof
+331433307,Grünfeld-Hof
 332481886,Inverananhall
 333530466,Ruinen des Herdfeld-Anwesens
 334579047,Ostleck
 335627628,Meisterschwinghall
 336676215,Schuppen der Alten Vannara
 337724806,Taverne Zu Maus und Dschinn
-338773385,Moorlist-Gerichtshof
-339822846,Kupfhart-Gerichtshof
+338773385,Moorlist-Hof
+339822846,Kupfhart-Hof
 340871428,Kupfli-Anwesen
 341920035,Schwarzwid
 342968638,Festung von Herdtreu
@@ -15011,7 +15011,7 @@ Key,Value
 372331701,Ruinen des Gaerlist-Anwesens
 373380285,Herdfeldens Feste
 374428867,Schloss Meisterschwing
-375477453,Grünhaus-Gerichtshof
+375477453,Grünhaus-Hof
 376526035,Gaerschwing-Gehöft
 377574645,Herrenhaus von Darkezor
 378623233,Gutshof Yromli
@@ -15051,7 +15051,7 @@ Key,Value
 414278821,Belwall
 415327405,Bockentreu-Gräberfeld
 416375986,Belheim
-417424568,Ruinen des Herdfeld-Gerichtshofs
+417424568,Ruinen des Herdfeld-Hofs
 418474049,Disporgon-Schrein
 419522629,Wehrwid
 420571215,Westaufeld
@@ -15087,7 +15087,7 @@ Key,Value
 452031588,Ruinen der Feste Falklist
 453080166,Gutshof Gaerhaus
 454129627,Kupfhaus-Gehöft
-455178217,Weißtürm
+455178217,Weißturm
 456226797,Kirchfort
 457275376,Arkays Fröhlicher Märtyrer
 458323959,Gaerstein-Gehöft
@@ -15146,7 +15146,7 @@ Key,Value
 513905476,Gräber von Kupftreu
 514954060,Vermetor
 516002668,Gasthaus Zum Tänzelnden Vogel
-517051248,Bockenanger-Gerichtshof
+517051248,Bockenanger-Hof
 518100782,Ruinen des Waldfelden-Anwesens
 519149362,Königsfurt-Grabstätten
 520197946,Yromschwing-Anwesen
@@ -15208,7 +15208,7 @@ Key,Value
 578926202,Weißbronnweiler
 579974791,Nest von Verog
 581025358,Kirchbronn
-582073936,Meisterstein-Gerichtshof
+582073936,Meisterstein-Hof
 583123490,Gothbronn
 584172092,Rittersbergen
 585220670,Wirtshaus Zum Lachenden Kitz
@@ -15216,7 +15216,7 @@ Key,Value
 587318806,Schuppen der Alten Lysyna
 588367387,Schuppen der Alten Elyrrya
 589415966,Yromfeldhall
-590465525,Ruinen des Falkhart-Gerichtshofs
+590465525,Ruinen des Falkhart-Hofs
 591515103,Schuppen der Alten Elyvyra
 592563685,Ostwichen
 593612272,Kastelpfad
@@ -15241,7 +15241,7 @@ Key,Value
 613542213,Grünfelden-Anwesen
 614590796,Kastelwieshain
 615640369,Wirtshaus Zu Fledermaus und Fee
-616689929,Galgtürm
+616689929,Galgturm
 617738508,Wirtshaus Zum Weißen Gauner
 618788092,Bauernhof der Alten Chrystyssa
 619837670,Hohlbürgstädt
