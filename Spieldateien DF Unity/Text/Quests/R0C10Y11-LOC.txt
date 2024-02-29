@@ -1,0 +1,89 @@
+Quest: R0C10Y11
+DisplayName: Konterbandewaren
+QRC:
+
+QuestorOffer:  [1000]
+You are not by any chance free to
+ run a little errand for me? It's
+ very simple, I would do it myself
+ or have one of my runners take
+ care of it, but we are all so very
+ busy. It would mean an extra _reward_
+ gold pieces. That's not too bad.
+ Are you available?
+
+RefuseQuest:  [1001]
+No? %god save me from
+ idle %ra hands.
+
+AcceptQuest:  [1002]
+What luck. Now, take this _item_
+ and go to ___qgfriend_
+ to a place called __qgfriend_.
+ There's an odd =qgfriend_
+ there named _qgfriend_.
+ Give %g2 the _item_ and %g
+ will give you the _reward_ gold.
+ Oh, and you need to be there in
+ =queston_ days, but that should not
+ be a problem. You have sturdy young
+ legs. Off with you, what.
+
+QuestFail:  [1003]
+You look like %pcf,
+ but you can't be.  %pcn
+ is on the way to ___qgfriend_.
+
+QuestComplete:  [1004]
+_questgiver_ hired you as a runner?
+ Ah, the _item_ I've been expecting.
+ Very good. Here's your gold. Thank you.
+
+RumorsDuringQuest:  [1005]
+_questgiver_ is still in the smuggling business, I hear.
+<--->
+There's been an extraordinary increase in smuggling lately.
+
+RumorsPostfailure:  [1006]
+I heard someone came across a _item_ out in the middle of nowhere.
+<--->
+_questgiver_ is mad as hell at some incompetent %ra courier.
+
+RumorsPostsuccess:  [1007]
+Some =qgfriend_ was just here, waving around some _item_.
+<--->
+I guess _questgiver_ didn't steal that _item_
+ after all or else %g ate it.
+
+QuestorPostsuccess:  [1008]
+I recognize those sturdy young legs. How are you, my old courier?
+<--->
+Come back to visit your old employer, have you, %pcf?
+
+QuestorPostfailure:  [1009]
+I remember you. You're the
+ %ra who failed that simple
+ delivery assignment.  %oth, I
+ have no time for you.
+
+Message:  1011
+%g's a thoroughly respectable ruler, with kleptomanic tendencies.
+<--->
+A big-time jewelry smuggler, from what I hear.
+
+Message:  1012
+One of _questgiver_'s fences. _qgfriend_ practically lives at __qgfriend_.
+<--->
+That =qgfriend_? _qgfriend_ is a fence for a den of smugglers at __qgfriend_.
+
+Message:  1015
+%qdt: _questgiver_ of
+ __questgiver_ has asked me
+ to deliver a certain _item_ to
+ an associate named _qgfriend_.
+ _qgfriend_'s current haunt is
+ __qgfriend_ in ___qgfriend_,
+ a journey of about =queston_ days.
+ That's how long I have, anyway.
+<--->
+
