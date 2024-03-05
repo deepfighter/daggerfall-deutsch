@@ -1,0 +1,81 @@
+Quest: R0C10Y10
+DisplayName: Waffennachschub
+QRC:
+
+QuestorOffer:  [1000]
+Wenn Ihr daran interessiert seid, _reward_ Goldstücke
+für nichts weiter als die Lieferung eines kleinen
+Pakets an einen Agenten von mir zu verdienen, dann
+sprecht jetzt.
+<--->
+Ich könnte die Dienste einer Person mit
+angemessenen Talent, überdurchschnittlicher
+Diskretion und der Bereitschaft für
+_reward_ Goldstücke die Position eines niederen
+Kuriers anzunehmen. Seid Ihr diese Person?
+
+RefuseQuest:  [1001]
+Wirklich? Zu Beschäftigt? Euer Pech.
+
+AcceptQuest:  [1002]
+Ausgezeichnet. Hier ist _weapon_.
+Nun, _contact_ muss sie
+___contact_ in =queston_ Tagen
+haben. Das sollte gerade genug Zeit
+sein, hoffe ich. Ihr werdet __contact_
+erkennen - sucht einfach nach einem
+=contact_. Viel Glück und danke.
+
+QuestFail:  [1003]
+Konntet Ihr nicht einmal eine einfache
+kleine Lieferung bewältigen, %pcf?
+Ich hoffe eindringlichst, dass Ihr nicht
+gekommen seid und eine Belohnung erwartet.
+
+QuestComplete:  [1004]
+Ah, gut Euch zu sehen, %pcf.
+Und die _weapon_ ebenfalls.
+Ausgezeichnet. Hier sind die
+_reward_ Goldstücke, die Euch,
+glaube ich, von _questgiver_
+versprochen wurden.
+
+RumorsDuringQuest:  [1005]
+_questgiver_ ist immer noch im Schmugglergewerbe, sagt man sich.
+<--->
+In letzter Zeit ist die Schmuggelei hier in der Gegend wirklich schlimm geworden.
+
+RumorsPostfailure:  [1006]
+Jemand hat hier kürzlich eine sehr schöne _weapon_ gefunden.
+<--->
+Ich höre, _questgiver_ ist stinksauer auf einen %ra-Abenteurer.
+
+RumorsPostsuccess:  [1007]
+Jemand namens _contact_ hat mit irgendeiner _weapon_ herumgewedelt.
+<--->
+Der Schmuggel religiöser Artefakte ist anscheinend das große neue Verbrechen.
+
+QuestorPostsuccess:  [1008]
+Oh, mein alter Kurier. Wie charmant. Wie kann ich Euch helfen?
+<--->
+Ihr kommt mir bekannt vor. Ihr habt unkängst eine kleine Lieferung für mich getätigt, nicht wahr?
+
+QuestorPostfailure:  [1009]
+Ihr seht fast genau aus wie ein
+%ra, der eine Lieferung
+für mich vermasselt hat.
+Merkwürdig. Geht jetzt.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ aus
+ __questgiver_, ___questgiver_
+ hat mich beauftragt eine  _weapon_
+ an einen Verbündeten namens _contact_
+ zu liefern. Ich muss _weapon_
+ in =queston_ Tagen in _contact_s
+ Hände gegeben haben. Der =contact_
+ kann anscheinend an einem Ort namens
+ __contact_ in ___contact_
+ gefunden werden.
+

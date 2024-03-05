@@ -3,87 +3,92 @@ DisplayName: Konterbandewaren
 QRC:
 
 QuestorOffer:  [1000]
-You are not by any chance free to
- run a little errand for me? It's
- very simple, I would do it myself
- or have one of my runners take
- care of it, but we are all so very
- busy. It would mean an extra _reward_
- gold pieces. That's not too bad.
- Are you available?
+Seid Ihr zufällig frei, um für mich
+eine kleine Besorgung zu erledigen?
+Es ist sehr einfach, ich würde es
+selbst tun oder einen meiner Boten
+damit beauftragen, aber wir sind alle
+so sehr beschäftigt. Es würde Euch
+zusätzliche _reward_ Goldstücke einbringen.
+Das ist nicht zu schlecht. Seid Ihr
+verfügbar?
 
 RefuseQuest:  [1001]
-No? %god save me from
- idle %ra hands.
+Nein? %god bewahre mich vor
+untätigen %ra-Händen.
 
 AcceptQuest:  [1002]
-What luck. Now, take this _item_
- and go to ___qgfriend_
- to a place called __qgfriend_.
- There's an odd =qgfriend_
- there named _qgfriend_.
- Give %g2 the _item_ and %g
- will give you the _reward_ gold.
- Oh, and you need to be there in
- =queston_ days, but that should not
- be a problem. You have sturdy young
- legs. Off with you, what.
+Welch ein Glück. Nun, nehmt _item_
+und geht nach ___qgfriend_
+an einen Ort namens __qgfriend_.
+Dort gibt es einen eigenartigen
+=qgfriend_ der _qgfriend_
+genannt wird. Gebt %g2  _item_
+und %g wird Euch die _reward_ Goldstücke
+geben. Oh, und Ihr müsst dort in =queston_ Tagen
+sein, aber das sollte kein Problem
+darstellen. Ihr habt kräftige junge
+Beine. Nun los mit Euch, okay?
 
 QuestFail:  [1003]
-You look like %pcf,
- but you can't be.  %pcn
- is on the way to ___qgfriend_.
+Ihr seht aus wie %pcf,
+aber Ihr könnt es nicht sein.
+%pcn ist auf dem Weg nach
+__qgfriend.
 
 QuestComplete:  [1004]
-_questgiver_ hired you as a runner?
- Ah, the _item_ I've been expecting.
- Very good. Here's your gold. Thank you.
+_questgiver_ hat Euch als Bote
+angeheuert? Ah, _item_,
+wie ich erwartet habe. Sehr gut.
+Hier ist Euer Gold. Ich danke Euch.
 
 RumorsDuringQuest:  [1005]
-_questgiver_ is still in the smuggling business, I hear.
+_questgiver_ ist immer noch im Schmugglergewerbe, sagt man sich.
 <--->
-There's been an extraordinary increase in smuggling lately.
+In letzter Zeit ist die Schmuggelei hier in der Gegend wirklich schlimm geworden.
 
 RumorsPostfailure:  [1006]
-I heard someone came across a _item_ out in the middle of nowhere.
+Ich habe gehört, jemand ist mitten im Nirgendwo auf _item_ gestoßen.
 <--->
-_questgiver_ is mad as hell at some incompetent %ra courier.
+_questgiver_ ist stinksauer auf einen unfähigen %ra-Kurier.
 
 RumorsPostsuccess:  [1007]
-Some =qgfriend_ was just here, waving around some _item_.
+Ein =qgfriend_ war gerade hier und hat mit _item_ herumgewedelt.
 <--->
-I guess _questgiver_ didn't steal that _item_
- after all or else %g ate it.
+Ich nehme an, _questgiver_ hat _item_ doch nicht gestohlen, sonst müsste %g es schon gegessen haben.
 
 QuestorPostsuccess:  [1008]
-I recognize those sturdy young legs. How are you, my old courier?
+Ich erkenne diese kräftigen jungen Beine. Wie geht es Euch, mein ehemaliger Kurier?
 <--->
-Come back to visit your old employer, have you, %pcf?
+Ihr seid zurückgekommen, um Euren ehemaligen Arbeitgeber zu besuchen, nicht wahr, %pcf?
 
 QuestorPostfailure:  [1009]
-I remember you. You're the
- %ra who failed that simple
- delivery assignment.  %oth, I
- have no time for you.
+Ich erinnere mich an Euch. Ihr
+seid der %ra, welcher bei
+dieser einfachen Lieferaufgabe
+versagt hat. %oth, ich
+habe keine Zeit für euresgleichen.
 
 Message:  1011
-%g's a thoroughly respectable ruler, with kleptomanic tendencies.
+%g ist ein durch und durch respektabler Herrscher, jedoch mit kleptomanischen Neigungen.
 <--->
-A big-time jewelry smuggler, from what I hear.
+Ein Großschmuggler von Schmuck, soweit ich gehört habe.
 
 Message:  1012
-One of _questgiver_'s fences. _qgfriend_ practically lives at __qgfriend_.
+Einer von _questgiver_s Hehlern. _qgfriend_ ist praktisch ständig in __qgfriend_ anzutreffen.
 <--->
-That =qgfriend_? _qgfriend_ is a fence for a den of smugglers at __qgfriend_.
+Dieser =qgfriend_? _qgfriend_ ist ein Hehler für eine Bande von Schmugglern in _qgfriend_.
 
 Message:  1015
-%qdt: _questgiver_ of
- __questgiver_ has asked me
- to deliver a certain _item_ to
- an associate named _qgfriend_.
- _qgfriend_'s current haunt is
- __qgfriend_ in ___qgfriend_,
- a journey of about =queston_ days.
- That's how long I have, anyway.
-<--->
+%qdt:
+ _questgiver_ aus
+ __questgiver_ hat mich
+ gebeten, ein gewisses
+ _item_ zu einem Verbündeten
+ namens _gfriend_ zu liefern.
+ _qgfriend_s aktueller
+ Aufenthaltsort ist __qgfriend_
+ in ___qgfriend_, was eine Reise
+ von ungefähr =queston_ Tagen bedeutet.
+ So lange habe ich jedenfalls Zeit.
 

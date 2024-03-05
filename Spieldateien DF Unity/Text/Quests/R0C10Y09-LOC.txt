@@ -1,0 +1,117 @@
+Quest: R0C10Y09
+DisplayName: Der Kuppler
+QRC:
+
+QuestorOffer:  [1000]
+Ja, ich habe durchaus eine Aufgabe
+für einen rüstigen jungen %ra.
+Es ist nichts Besonderes – lediglich
+ein einfacher Botengang, doch er wird
+Euch zusätzliche _reward_ Goldstücke
+einbringen. Interessiert?
+
+RefuseQuest:  [1001]
+%oth, ich vermute, Ihr wolltet
+von mir _reward_ Goldstücke für nichts
+erhalten. Oder vielleicht hofftet Ihr
+auf etwas wirklich Interessantes?
+Nun, darauf müsst Ihr wohl warten,
+%pcf.
+
+AcceptQuest:  [1002]
+Gut. ich habe einen ... Vermittler in
+meinem Dienst. Unverkennbar aussehend,
+=spy_ mit dem Namen _spy_.
+Nun, _spy_ hat einen besonderen
+_item_ von Interesse für mich gefunden,
+aber die vormaligen Besitzer halten %g2
+irgendwo in __hidingplace_ gefangen.
+Offiziell sind mir die Hände gebunden,
+doch Ihr könntet freundlicherweise
+nach __hidingplace_ gehen, _spy_
+finden, und mir mein _item_ bringen.
+Natürlich, wenn Ihr nicht in =1stparton_ Tagen
+zurück seid, behalte ich Eure Belohnung von
+_reward_ Goldstücken ein. Ich bin sicher,
+Ihr versteht. Nun, Ihr solltet Euch auf
+den Weg machen. Auf Wiedersehen.
+
+QuestFail:  [1003]
+%pcf, Ihr seid zurück, was
+erfreulich ist, aber ohne _item_,
+was wiederum nicht so erfreulich
+ist. Ist die Aufgabe zu schwer für
+Euch, um sie zu verstehen? Holt mein
+_item_ und bringt es her.
+
+QuestComplete:  [1004]
+Ah, wunderbar. Mein _item_
+wurde prompt mit einem Minimum an
+Zwischenfällen zurückgebracht.
+Sehr gut. Hier sind Eure _reward_ Goldstücke
+als Belohnung.
+
+RumorsDuringQuest:  [1005]
+Sie durchkämmen __hidingplace_, auf der Suche nach einem seltenen, gestohlenen _item_.
+<--->
+Ein seltenes _item_ wurde kürzlich aus einer Privatsammlung gestohlen.
+
+RumorsPostfailure:  [1006]
+Sie haben die Juwelen wiedergefunden und die Schuldigen wurden umgehend hingerichtet.
+<--->
+Die Juwelen, nach denen gesucht wurde, sind schließlich doch wieder aufgetaucht.
+
+RumorsPostsuccess:  [1007]
+Man hat die Edelsteine nie gefunden. Die Wachen haben aufgegeben.
+<--->
+Man vermutete irgendeine Art von seltenem Edelstein, der in dem gestohlenen Schmuck versteckt gewesen sein soll.
+
+QuestorPostsuccess:  [1008]
+Ah, mein junger Champion. Noch immer im Söldnergeschäft, wie ich sehe? Das ist gut.
+<--->
+Was kann ich für Euch tun, %pcf? Ich habe nicht vergessen, was Ihr für mich getan habt.
+
+QuestorPostfailure:  [1009]
+Ich sehe nicht ein, warum ich für jemandem, der mich so enttäuscht hat, etwas tun sollte, aber fahrt fort.
+<--->
+Recht mutig von Euch zurückzukehren, nachdem Ihr es versäumt habt, mein Eigentum wieder zu beschaffen. Ich hasse Mut.
+
+QuestLogEntry:  [1010]
+_questgiver_ hat Euch geschickt?
+%oth, als ich Euch kommen hörte,
+fürchtete ich, sie hätten mich schon
+aufgespürt. Ich bin froh, dass Ihr mich
+zuerst gefunden habt, %pcf!
+Hier ist es [_ item_]. Bringt
+es sofort zurück zu _questgiver_
+– %g benötigt ihn in nur wenigen
+Tagen. Und seid vorsichtig – die Agenten
+des ehemaligen Besitzers durchsuchen
+_hidingplace_ nach diesem kleinen Schmuckstück.
+
+Message:  1011
+Ich hörte, dass =spy_ %di von hier ist – in der Nähe von _hidingplace_.
+<--->
+Ein nervöser =spy_? Ich habe %g2 in der Nähe von _hidingplace_ gesehen.
+
+Message:  1015
+%qdt:
+ _questgiver_ aus
+ __questgiver_, ___questgiver_,
+ hat mich entsandt, um einen besonderes
+ _item_ von jemanden namens
+ _spy_ zu holen, der sich
+ irgendwo in __hidingplace_ versteckt.
+ Die wahren Besitzer des _item_
+ könnten versuchen mich zu stoppen, aber
+ ich muss _item_ in =1stparton_ Tagen
+ zurück in _questgiver_s Hände geben,
+ sonst bekomme ich meine Belohnung,
+ _reward_ Goldstücke nicht.
+
+Message:  1020
+Danke für Eure Hilfe, %ra.
+Wir wussten, Ihr würdet uns
+direkt zu _item_ führen.
+Hier ist Eure Bezahlung – der Tod!
+

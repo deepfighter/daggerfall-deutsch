@@ -1,0 +1,88 @@
+Quest: R0C10Y14
+DisplayName: Vergessene Ausrüstung
+QRC:
+
+QuestorOffer:  [1000]
+Seid Ihr zufällig für eine kleine
+Aufgabe verfügbar, die Euch keine
+Zeit kosten sollte und Euch um
+_reward_ Goldstücke reicher machen wird?
+
+RefuseQuest:  [1001]
+Nein? Schade.
+
+AcceptQuest:  [1002]
+%oth, das ist großartig.
+Einer meiner Untergebenen, ein recht
+einfältiger Zeitgenosse, ist zu einem
+Auftrag aufgebrochen, ohne %g3 _item_
+mitzunehmen. Es muss unverzüglich zu
+___contact_ gebracht werden. Dort gibt
+es einen kleinen Ort namens __contact_,
+wo Ihr einen =contact_ namens
+_contact_ finden könnt. Gebt %g2
+den _item_ und %g wird Euch die
+_reward_ Goldstücke geben. Eine letzte
+Anmerkung, %g wird __contact_ in
+=queston_ Tagen verlassen, mit oder ohne
+den _item_, also solltet Ihr Euch besser auf
+den Weg machen.
+
+QuestFail:  [1003]
+Ich habe Euch den _item_ gegeben
+und Euch gesagt, wohin er geliefert
+werden soll. Was gibt es noch zu besprechen?
+
+QuestComplete:  [1004]
+Seid Ihr von _questgiver_?
+%oth, mein _item_! Endlich!
+Ich dachte schon, ich müsste
+ohne ihn aufbrechen. Was hat
+das überhaupt so lange gedauert?
+ 
+Was, ich muss Euch für meinen eigenen
+_item_ auch noch bezahlen? Nun gut,
+wenn das _questgiver_ Euch so
+gesagt hat. So, jetzt habe ich genug
+Zeit verschwendet. Ich muss mich auf
+den Weg machen.
+
+RumorsDuringQuest:  [1005]
+Hätte ich einen _item_, würde ich ihn an diesen =contact_ in __contact_ verkaufen. Scheint verzweifelt zu sein.
+<--->
+Dieser =contact_ lungert schon seit Tagen trübselig in __contact_ herum.
+
+RumorsPostfailure:  [1006]
+Armer _contact_ - die Lieferung, auf die %g gewartet hatte, ist nie eingetroffen und %g musste ohne sie aufbrechen.
+<--->
+Ich frage mich, worauf _contact_ überhaupt gewartet hat. Auf ein Wunder?
+
+RumorsPostsuccess:  [1007]
+_contact_ hat __contact_ glücklich wie eine Harpyie verlassen. Scheint, %g hat bekommen, was %g brauchte.
+<--->
+_questgiver_ hat Loblieder auf einen %ra-Söldner gesungen, den %g angeheuert hat.
+
+QuestorPostsuccess:  [1008]
+Ah, mein treuer Freund. Wie gut Euch wiederzusehen. Wie steht es um Euch?
+<--->
+Mir wurde berichtet, dass Eure Mission erfolgreich verlaufen ist. Ich danke Euch inständig.
+
+QuestorPostfailure:  [1009]
+Ihr habt es nicht geschafft, meinen Kontakt
+zu erreichen, aber dennoch kehrt Ihr zu mir
+zurück. Ein recht sonderbares Verhalten.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich wurde von _questgiver_
+ nach ___contact_
+ gesandt, wo ein =contact_
+ namens _contact_ auf einen
+ besonderen _item_ an einem
+ Ort namens __contact_ wartet.
+ Dieser _contact_ plant,
+ __contact_ in =queston_ Tagen
+ zu verlassen, mit oder ohne
+ den _item_, also muss
+ ich mich beeilen.
+

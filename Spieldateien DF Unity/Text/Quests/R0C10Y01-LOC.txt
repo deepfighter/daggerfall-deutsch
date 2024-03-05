@@ -1,0 +1,82 @@
+Quest: R0C10Y01
+DisplayName: Rubinschmuggel
+QRC:
+
+QuestorOffer:  [1000]
+Wenn Ihr Arbeit sucht, brauche ich
+jemanden, der einer Bekanntschaften
+von mir diesen Rubin bringt. Die
+Belohnung wird sehr großzügig sein.
+Interessiert?
+
+RefuseQuest:  [1001]
+Wirklich? Ihr seid wohl zu beschäftigt. Das ist schade.
+
+AcceptQuest:  [1002]
+Ausgezeichnet. Da habt Ihr den Rubin.
+Nun, _contact_ möchte ihn in
+=queston_  Tagen in  ___contact_ sehen.
+Das sollte gerade genug Zeit sein. Ihr
+werdet _contact_  sofort erkennen
+=contact_ an einem Ort namens
+__contact_. Viel Glück und meinen Dank. 
+
+QuestFail:  [1003]
+Ihr solltet Euch besser um unsere kleine
+Vereinbarung kümmern, %pcf.
+
+QuestComplete:  [1004]
+Ah, schön Euch zu sehen, %pcf.
+Und der Rubin ebenfalls. Ausgezeichnet.
+Hier ist ein kleines Trinkgeld für Eure
+Mühen. Ich hoffe Ihr mögt rot. Passt
+auf Euch auf.
+
+RumorsDuringQuest:  [1005]
+_questgiver_ soll immer noch im Schmugglergeschäft sein.
+<--->
+Der Schmuggel ist in letzter Zeit extrem angestiegen.
+
+RumorsPostfailure:  [1006]
+Jemand hat vor kurzem in dieser Gegend einen sehr schönen Edelstein gefunden.
+<--->
+Ich hörte, dass _questgiver_ wegen eines Abenteurers ganz außer sich sein soll. Irgend so ein %ra.
+
+RumorsPostsuccess:  [1007]
+So jemand [=contact_] war gerade hier. Hat mit einem Edelstein herumgespielt.
+<--->
+Ein Juwelier hat den Diebstahl eines sehr großen Rubins gemeldet.
+
+QuestorPostsuccess:  [1008]
+Ah, %pcf. Ich hoffe, Ihr passt gut auf den Rubin auf.
+<--->
+Nochmal hallo, %pcf!
+
+QuestorPostfailure:  [1009]
+Ihr seid wohl gekommen, um Euch für das
+geplatzte Schmuggelgeschäft zu entschuldigen.
+Entschuldigung abgelehnt! 
+<--->
+Ihr seid ein %ra, der nichtmal eine
+einfache Lieferung erledigen konnte. Warum
+sollte ich weitere Worte an Euch verschwenden?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ bat mich, einen Smaragd
+ bei einem Kontakt in ___contact_ namens
+ _contact_ abzuliefern. Ich muss %g2 das
+ Juwel in =queston_ Tagen an einen Ort namens
+ __contact_ geliefert haben, sonst
+ verliere ich meine Belohnung.
+
+Message:  1020
+Her mit dem Klunker! Ich weiß, was Ihr da
+habt. Die Gilde weiß Bescheid. Ich muss
+Euch töten, wenn Ihr ihn nicht rausrückt.
+Schön langsam.
+
+Message:  1021
+Sehr hübsch. Und jetzt haut ab, 
+bevor ich es mir anders überlege.
+

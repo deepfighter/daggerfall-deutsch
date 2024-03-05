@@ -1,0 +1,105 @@
+Quest: R0C10Y00
+DisplayName: Smaragdschmuggel
+QRC:
+
+QuestorOffer:  [1000]
+Falls Ihr Euch anheuern lasst: Ich suche
+jemand Zuverlässiges, um eine bestimmte
+verdeckte Mission durchzuführen. Es könnte
+sehr zeitraubend sein, doch ich versichere
+Euch, dass Ihr angemessen entschädigt werdet.
+Interesse?
+
+RefuseQuest:  [1001]
+Wirklich? Ihr seid wohl zu beschäftigt. Das ist schade.
+
+AcceptQuest:  [1002]
+Sehr gut. Ich gebe Euch nun einen Smaragd, den
+Ihr meinem Kontakt, _npc1_ von ___npc1_
+überbringen sollt. _npc1_  wird in einem
+Gebäude [__npc1_] dort auf Euch warten. Der
+Edelstein muss in =1stparton_ Tagen dort sein. Das
+ist sehr wichtig. Solltet Ihr so weit kommen,
+wird _npc1_ weitere Instruktionen für Euch
+haben. Ich zähle auf Eure Diskretion, %pcf.
+Man wird Euch beobachten. Viel Glück und meinen Dank!
+
+QuestFail:  [1003]
+Ich glaube nicht, dass wir gerade jetzt etwas zu
+besprechen haben.
+<--->
+Kenne ich Euch?
+
+QuestComplete:  [1004]
+Ah, gut Euch zu sehen, %pcf.
+Und den Edelstein auch. Ausgezeichnet.
+Und hier sind _reward_ Gold für Eure
+Anstrengungen und, möchte ich hinzufügen,
+Eure Diskretion. Man wird Euren Namen
+nicht vergessen.
+
+RumorsDuringQuest:  [1005]
+_questgiver_ soll immer noch im Schmugglergeschäft sein.
+<--->
+Der Schmuggel ist in letzter Zeit extrem angestiegen.
+
+RumorsPostfailure:  [1006]
+Ich hörte, dass _questgiver_ wegen eines Abenteurers ganz außer sich sein soll. Irgend so ein %ra.
+
+RumorsPostsuccess:  [1007]
+Niemand weiß, wer der Kopf hinter dem Juwelenschmuggel ist.
+
+QuestorPostsuccess:  [1008]
+Ah, mein Gelegenheitsschmuggler. Wie kann ich Euch helfen?
+<--->
+Nochmal hallo! Ich fürchte, dass ich gerade keine weiteren Lieferungen habe.
+
+QuestorPostfailure:  [1009]
+Kommt Ihr angekrochen, um Euch für Euer Versagen bei dieser Mission zu entschuldigen? Tja, dafür ist es jetzt zu spät!
+<--->
+Ihr seid der %ra, der diese Lieferung nicht geschafft hat, stimmt's? Fahrt ins Reich des Vergessens!
+
+QuestLogEntry:  [1010]
+Oh, gut. Der letzte Auslieferer, den
+_questgiver_ angeheuert hat,
+ist nie bei mir angekommen und wir
+mussten ihn zur Strecke bringen.
+Sehr unerfreulich. Hier ist der Smaragd.
+Geht damit zu _npc2_ - =npc2_
+aus ___npc2_. Ihr müsst binnen =2ndparton_ Tagen
+ankommen. Viel Glück, %pcf.
+
+Message:  1011
+%qdt:
+ _questgiver_, __questgiver_
+ in ___questgiver_, hat mich nach
+ ___npc1_ [__npc1_]
+ geschickt, um einen Smaragd an _npc1_
+ abzuliefern. Ich habe =1stparton_ Tage,
+ um das zu bewerkstelligen. Wenn ich
+ dort angekommen bin, wird man mir weitere
+ Instruktionen geben.
+
+Message:  1012
+%qdt:
+ _npc1_ entsandte mich mit einem
+ Juwel [_item2_] nach ___npc2_,
+ um ihn _npc2_ an einem Ort
+ auszuhändigen, der  __npc2_
+ genannt  wird. _npc1_  beschreibt
+ _npc2_ so: =npc2_.
+ _npc2_ wird mir meine Belohnung
+ geben, wenn ich es in =2ndparton_ Tagen
+ zu %g2 schaffe.
+
+Message:  1020
+Die Diebesgilde hat erfahren, dass
+Ihr einen Edelstein von hohem Wert
+bei Euch tragt. Übergebt ihn mir
+und ich werde Euch davonkommen lassen.
+
+Message:  1021
+Das ist, als würde man einem Kind
+eine Münze klauen. Und jetzt geht
+mir aus den Augen, Ihr feige Kurierseele.
+

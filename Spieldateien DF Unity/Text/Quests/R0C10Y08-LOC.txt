@@ -1,0 +1,110 @@
+Quest: R0C10Y08
+DisplayName: Tempeldiebstahl
+QRC:
+
+QuestorOffer:  [1000]
+Solltet ihr es können, %pcf,
+ich brauche die Unterstützung von
+jemandem der kein kompletter Vollidiot
+ist. Ich habe einen anderen Söldner
+ausgesandt, um ein kleines Paket zu
+einem Tempel zu liefern, nichts von
+großem Wert, aber verdammt, es wurde
+gestohlen. Nun, zumindest hat dieser
+Idiot darauf geachtet, wohin die Banditen
+gingen. Glaubt Ihr, Ihr könntet mir
+helfen und mein Päckchen zurückbringen?
+
+RefuseQuest:  [1001]
+%oth, ich befürchtete, Ihr würdet
+dies sagen. Nun gut, ich nehme an, das
+ist immer noch besser als ja zu sagen
+und zu scheitern.
+
+AcceptQuest:  [1002]
+Besten Dank im Voraus, %pcf.
+Nun zu den Komplikationen. Die Banditen
+verkauften das _item_ an einen Tempel,
+_itemplace_ in __itemplace_.
+Es hat scheinbar eine religiöse Bedeutung
+für sie. Um Unnannehmlichkeiten zu vermeiden,
+brauche  ich Euch um das _item_ aus dem
+Tempel zu stehlen und es zu _transporter_
+zu bringen. Ihr findet %g2 in _inn_
+in __inn_. Das _item_ muss sich
+innerhalb von  =1stparton_ Tagen in den törichten
+Händen von _transporter_ befinden
+und ihr müsst innerhalb von =2ndparton_ Tagen von
+__inn_ hierher zurückgekehrt, sein, verstanden?
+Nicht viel Zeit, nicht wahr? Doch ich zähle auf
+Euch, %pcf. Viel Glück und auf Wiedersehen.
+
+QuestFail:  [1003]
+Ja? Ihr habt doch nicht etwa eine Belohnung erwartet,
+bevor ihr überhaupt irgendetwas geleistet habt, oder,
+%pcf?
+
+QuestComplete:  [1004]
+%oth, wilkommen zurück, %pcf.
+Ich weiß nicht warum ich überhaupt zuerst diesen geistig
+Zurückgebliebenen angeheuert habe. Gut, hier sind nun
+Eure _reward_ Goldstücke. Ihr habt sie Euch redlich verdient.
+
+RumorsDuringQuest:  [1005]
+_itemplace_ verschärften aus irgendeinem Grund ihre Sicherheitsvorkehrungen.
+<--->
+Aus irgendeinem Grund ist _itemplace_ besorgter wegen Dieben als gewöhnlich.
+
+RumorsPostfailure:  [1006]
+_itemplace_ haben ihr gestohlenes _item_ wiedererlangt.
+<--->
+_itemplace_ haben ihr gestohlenes _item_ zurückbekommen und an einen sicheren Ort gebracht.
+
+RumorsPostsuccess:  [1007]
+Irgendein wertvolles _item_ wurde aus _itemplace_ gestohlen.
+<--->
+Es ist schon so schlimm geworden, dass selbst in Tempel eingebrochen wird. Erschreckend.
+
+QuestorPostsuccess:  [1008]
+Es ist wahrlich gut, Euch wiederzusehen. Wie kann ich Euch dienlich sein?
+<--->
+Ihr seid der %ra, der mir bei jener unerfreulichen Angelegenheit mit dem Tempel geholft hat, nicht wahr?
+
+QuestorPostfailure:  [1009]
+%oth, ihr seid es.
+Ihr kommt um Euch für Eure schlampige
+Arbeit zu entschuldigen, nehme ich an.
+Nun bemüht Euch nicht. Ich habe keine Zeit.
+
+QuestLogEntry:  [1010]
+%god sei dank, dass Ihr gekommen seid, %pcf.
+Hört zu, eilt zurück zu _questgiver_ -- %g
+wird so tun als hättet ihr nie existiert und
+ihr werdet kein Kupferstück sehen, wenn Ihr
+nicht innerhalb von =2ndparton_ Tagen zurück seid.
+Glaubt mir, ich kenne %g3 Methoden.
+
+Message:  1011
+_transporter_ ist ein nervös aussehender =transporter_ mit Verbindungen zu _questgiver_.
+<--->
+Ein =transporter_ -- %g's %di von hier __transporter_.
+
+Message:  1012
+Ihr hebt _item_ auf.
+Nun bringt es zu _transporter_.
+
+Message:  1015
+%qdt:
+ _questgiver_ entsandte mich nach  _itemplace_
+ in __itemplace_ um ein bestimmtes _item_
+ zu stehlen, und es dann _transporter_ in
+ __inn_ an einen Ort namens _inn_ zu liefern.
+ Ich habe =1stparton_ Tage für die Lieferung Zeit.
+ Danach sollte ich für meine Belohnung zurückkehren.
+ Ich habe =2ndparton_ Tage um von __inn_
+ nach __questgiver_, zu _questgiver_'s Haus
+ in ___questgiver_ zu reisen.
+
+Message:  1020
+Haltet den Dieb! Schändlicher Entweiher unseres heiligen _item_!
+

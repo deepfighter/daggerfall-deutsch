@@ -1,0 +1,92 @@
+Quest: R0C10Y06
+DisplayName: Das Erbstück
+QRC:
+
+QuestorOffer:  [1000]
+Ich bin im Besitz eines _item_
+welches mir sehr wichtig ist. Es wurde
+in meiner Familie von Generation zu
+Generation weitergereicht. Ich weiß dass
+eine kleine Bande orkischer Räuber es
+gestohlen hat, damit ich es mir freikaufe.
+Ich habe keine Intention sie für diese
+Frechheit auch noch zu belohnen. Andererseits
+werde ich die volle Summe des Lösegelds,
+mithin _reward_ Goldstücke an Euch auszahlen
+wenn ihr zu Ihrem Versteck geht und _item_
+zurückstehlt. Werdet ihr das tun?
+
+RefuseQuest:  [1001]
+%oth! Ihr werdet dies
+nicht für mich tun? Dann werde ich
+das Lösegeld wohl zahlen müssen.
+Ihr enttäuscht mich, %pcf.
+
+AcceptQuest:  [1002]
+Gut. Mir wurde zugetragen, dass sich das
+Versteck der Orks in ___itemdung_
+befindet. Dort, vermute ich, bewahren sie
+auch mein _item_ auf. Solltet Ihr
+in =1stparton_ Tagen nicht zurück seid, gehe
+ich davon aus, dass Ihr _item_
+nicht gefunden habt, und werde Eure
+Entlohnung den Orks als Lösegeld geben.
+Lasst mich nicht hängen, %pcf.
+Viel Glück.
+
+QuestFail:  [1003]
+Ich möchte nicht reden, %pcf.
+Ich möchte mein _item_.
+Geht es holen.
+
+QuestComplete:  [1004]
+Irgendwie habe ich gewusst ihr würdet
+_item_, finden, %pcf. Ich
+werde euch das Gold geben, welches
+ich zum Freikaufen gespart habe. Ich
+kann euch nicht genug danken.
+
+RumorsDuringQuest:  [1005]
+Es gibt ein Pack Orks welches sich bei ___itemdung_ aufhält.
+<--->
+Diese Orks bei ___itemdung_ denken sie werden an _questgiver_ viel Gold verdienen.
+
+RumorsPostfailure:  [1006]
+Die Orks bei ___itemdung_ haben den Platz geräumt nachdem _questgiver_ sie bezahlt hat.
+<--->
+_questgiver_ ist scheinbar sehr wütend auf irgendeinen %ra-Abenteurer.
+
+RumorsPostsuccess:  [1007]
+Eine Horde Orks beschweren sich darüber, dass
+_questgiver_ eines ihrer Relikte gestohlen haben soll.
+<--->
+___itemdung_ ist scheinbar kein so sicheres
+Versteck als man allgemein glaubt.
+
+QuestorPostsuccess:  [1008]
+Hallo zurück, mein junger Freund. Ich habe diese ganze
+Affäre mit den Orks nicht vergessen.
+<--->
+Ich hoffe ihr habt all Euer Gold von der Belohnung noch
+nicht ausgegeben, junger Freund.
+
+QuestorPostfailure:  [1009]
+Fahrt doch ins Reich des Vergessen, %pcf.
+Ich habe noch nicht vergessen dass ihr
+meinen Auftrag nicht erfüllt habt.
+
+QuestLogEntry:  [1010]
+%qdt:
+_questgiver_ von
+__questgiver_ aus ___questgiver_
+hat mich nach  ___itemdung_
+entsandt um ein altes Familienerbstück zu
+finden, ein _item_ welches von einer Gruppe Orks
+gestohlen wurde. Sollte es sich nicht innerhalb
+von =1stparton_ Tagen in den Händen von _questgiver_
+befinden, wird %g es freikaufen und meine
+Entlohnung wird somit hinfällig.
+
+Message:  1011
+Ihr habt _item_ gefunden.
+
