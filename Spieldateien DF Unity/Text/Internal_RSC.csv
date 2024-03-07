@@ -581,7 +581,7 @@ Nach langem Gefeilsche ...[/center]
 263,"""Genug von diesem ewigen Gefeilsche. Offenbar[/center]
 leidet Ihr große Not. Normalerweise würde ich[/center]
 weitaus weniger bezahlen, aber ich biete Euch[/center]
-dafür %a Goldstücke .""[/center]
+dafür %a Goldstücke.""[/center]
 [/record]
 ""Hört zu, ich biete Euch das absolute Höchstgebot,[/center]
 das ich auf mich nehmen kann, ohne mein Hemd zu verlieren.[/center]
@@ -594,7 +594,7 @@ Der Marktwert davon ist weitaus geringer, aber ich[/center]
 denke, dass ich Euch %a Goldstücke geben könnte.""[/record]
 ""Nicht schlecht, nicht schlecht. Ich würde den meisten[/center]
 Leuten weniger geben, aber Euch biete ich %a Goldstücke.[/center]
-Das ist mein absolut bestes Angebot.[/center]
+Das ist mein absolut bestes Angebot.""[/center]
 [/end]"
 264,"""Es kann sein, dass Ihr woanders mehr als[/center]
 %a Goldstücke für das hier bekommt, aber es[/center]
@@ -1535,7 +1535,7 @@ Die Priester und Priesterinnen der Luftgöttin versammeln sich, um ihre Schutzpa
 886,Die Ritter der Rose sind als Beschützer und Krieger der Königsfamilie und des Königreichs Wegesruh geweiht.[/end]
 887,Die Ritter der Flamme sind schon seit Jahrhunderten mit der herrschaftlichen Familie Fleyt verbunden und wurden nun zu den Beschützern des Landes Anticlere.[/end]
 888,"Die Heerschar des Horns besteht aus den besten Rittern von Lainlyn, durch Eide dem Schutz und Dienst an der Baronie Lainlyn und ihrer Herrscherfamilie verpflichtet.[/end]"
-889,Die Ritter der Eule sind die traditionellen Wachen und Milizen von Felsschlucht
+889,Die Ritter der Eule sind die traditionellen Wachen und Milizen von Felsschlucht.[/end]
 890,Die Ritter des Raben sind seit Jahrhunderten die geweihten Beschützer der Baronie Dwynnen.[/end]
 891,Die Ritter vom Rade schützen und dienen dem Volk und der Herrscherfamilie von Abibon-Gora. Sie gehören zu den besten Rittern in Hammerfall.[/end]
 892,Die Ritter des Skarabäus sind dem Schutz der Herrscherfamilie und des Landes von Totambu durch heilige Eide verpflichtet.[/end]
@@ -1927,24 +1927,30 @@ vermutlich nicht überleben.[/center]
 [/center]
 Wollt Ihr Eure Schnellreise immer noch fortsetzen?[/center]
 [/end]"
-1011,"%wep
-Gewicht: %kg Kilogramm"
-1012,"%wep 
-%wdm Schadenspunkte
-Zustand: %qua
-Gewicht: %kg Kilogramm"
-1013,"%wep 
-Zustand: %qua
-Gewicht: %kg Kilogramm"
-1014,"%arm 
-%mod zum Rüstungsfaktor
-Zustand: %qua
-Gewicht: %kg Kilogramm"
-1015,"Oghma Infinium
-Wert: 50000 Goldstücke
-Gewicht: %kg Kilogramm"
-1016,"Gegenstandskräfte:
-%mpw"
+1011,"%wep[/center]
+Gewicht: %kg Kilogramm[/center]
+[/end]"
+1012,"%wep[/center]
+%wdm Schadenspunkte[/center]
+Zustand: %qua[/center]
+Gewicht: %kg Kilogramm[/center]
+[/end]"
+1013,"%wep[/center]
+Zustand: %qua[/center]
+Gewicht: %kg Kilogramm[/center]
+[/end]"
+1014,"%arm[/center]
+%mod zum Rüstungsfaktor[/center]
+Zustand: %qua[/center]
+Gewicht: %kg Kilogramm[/center]
+[/end]"
+1015,"Oghma Infinium[/center]
+Wert: 50000 Goldstücke[/center]
+Gewicht: %kg Kilogramm[/center]
+[/end]"
+1016,"Gegenstandskräfte:[/center]
+%mpw[/center]
+[/end]"
 1068,"Eurer Klasse ist es nicht möglich, dies anzulegen.[/record]
 Eure Klasse hält Euch davon ab, dies anzulegen.[/record]
 Aufgrund Eurer Klasse könnt Ihr diesen Gegenstand nicht anlegen.
@@ -2054,7 +2060,7 @@ plus %1am bis %2am Punkte für alle[/center]
 [/center]
 ""Erschafft einen nützlichen Gegenstand nach Wahl des[/center]
 Zaubernden. Der Gegenstand hält für %bdr Runde(n), plus[/center]
-%adr Runde(n) für alle %cld Stufe(n) des Zaubernden.[/center]
+%adr Runde(n) für alle %cld Stufe(n) des Zaubernden.""[/center]
 [/end]"
 1209,"Krankheit heilen[/center]
 [/center]
@@ -2795,7 +2801,7 @@ Falls das Ziel etwas angreift, verschwindet der Schattenzauber.""[/center]
 ""Lässt das Ziel mit normalen Schatten verschmelzen.[/center]
 Das Ziel bleibt für %bdr Runde(n) in diesem Zustand,[/center]
 plus %adr Runde(n) alle %cld Stufe(n) des Zaubernden.[/center]
-Falls das Ziel etwas angreift, bleibt es versteckt.[/center]
+Falls das Ziel etwas angreift, bleibt es versteckt.""[/center]
 [/end]"
 1275,"Langsamer Fall (Normal, Ausgelöst)[/center]
 [/center]
@@ -2978,7 +2984,7 @@ plus %1am - %2am Punkte alle %clm Stufe(n) des[/center]
 Zaubernden. Wenn der Schild seinen Maximalschaden[/center]
 eingesteckt hat oder %bdr Runde(n), plus %adr Runde(n)[/center]
 alle %cld Stufe(n) des Zaubernden, vergangen sind,[/center]
-löst er sich wieder auf"".""[/center]
+löst er sich wieder auf.""[/center]
 [/end]"
 1291,"Schild[/center]
 [/center]
@@ -2992,7 +2998,7 @@ plus %1am - %2am Punkte alle %clm Stufe(n) des[/center]
 Zaubernden. Wenn der Schild seinen Maximalschaden[/center]
 eingesteckt hat oder %bdr Runde(n), plus %adr Runde(n)[/center]
 alle %cld Stufe(n) des Zaubernden, vergangen sind,[/center]
-löst er sich wieder auf"".""[/center]
+löst er sich wieder auf.""[/center]
 [/end]"
 1292,"Schild[/center]
 [/center]
@@ -3006,7 +3012,7 @@ plus %1am - %2am Punkte alle %clm Stufe(n) des[/center]
 Zaubernden. Wenn der Schild seinen Maximalschaden[/center]
 eingesteckt hat oder %bdr Runde(n), plus %adr Runde(n)[/center]
 alle %cld Stufe(n) des Zaubernden, vergangen sind,[/center]
-löst er sich wieder auf"".""[/center]
+löst er sich wieder auf.""[/center]
 [/end]"
 1293,"Schild[/center]
 [/center]
@@ -3020,7 +3026,7 @@ plus %1am - %2am Punkte alle %clm Stufe(n) des[/center]
 Zaubernden. Wenn der Schild seinen Maximalschaden[/center]
 eingesteckt hat oder %bdr Runde(n), plus %adr Runde(n)[/center]
 alle %cld Stufe(n) des Zaubernden, vergangen sind,[/center]
-löst er sich wieder auf"".""[/center]
+löst er sich wieder auf.""[/center]
 [/end]"
 1294,"Astrale Reise[/center]
 [/center]
@@ -3136,14 +3142,14 @@ auf Erfolg beträgt %bch, plus %ach alle %cld Stufe(n) des Zaubernden.""[/center
 [/pos:x=20,y=0]Chance:[/pos:x=50,y=0]%bch + %ach pro %clc Stufe(n)[/left]
 [/pos:x=20,y=0]Wirkung:[/pos:x=50,y=0]N/A + N/A pro N/A Stufe(n)[/left]
 [/center]
-„Nach dem Tod wird die Seele des Ziels unbegrenzt [/center]
+""Nach dem Tod wird die Seele des Ziels unbegrenzt [/center]
 in einem Seelenstein des Zaubernden festgehalten.[/center]
 Das Ziel muss innerhalb von %bdr Runde(n) sterben, plus[/center]
 %adr Runde(n) alle %cld Stufe(n), nachdem es vom Zauber[/center]
 erfasst wurde. Die Grundchance auf eine erfolgreiche[/center]
 Seelenfalle beträgt %bch, plus %ach pro %cld Stufe(n) des[/center]
 Zaubernden.""[/center]
-<0xFE"
+[/end]"
 1304,"Telekinese[/center]
 [/center]
 [/pos:x=20,y=0]Dauer:[/pos:x=50,y=0]%bdr + %adr pro %cld Stufe(n)[/left]
@@ -3287,7 +3293,7 @@ Giftwolke möglichst effektiv Schaden zuzufügen.[/center]
 1370,"Tarnung ist die Fertigkeit, eine feindliche Umgebung[/center]
 zu infiltrieren oder Gegenstände vor neugierigen Augen[/center]
 zu verbergen.[/center]
-<0xFE"
+[/end]"
 1371,"Ausweichen ist die Fertigkeit, feindlichen Angriffen[/center]
 oder Zaubern auszuweichen, bevor man getroffen wird.[/center]
 [/end]"
@@ -6342,8 +6348,8 @@ sie Euch zu Eurer äußerst erfolgreichen Mission. Obwohl Ihr nie herausfandet, 
 Dienstmädchen oder die Dokumente von großer Wichtigkeit waren, wart Ihr nicht[/left]
 überrascht, als Ihr ein wenig später einen höchst interessanten Brief aus dem[/left]
 Kaiserpalast erhieltet, der Euch aufgrund dringender Angelegenheiten dorthin einlud. Ihr[/left]
-verließt den Tempel unverzüglich in Richtung Kaiserstadt.
-[/left]"
+verließt den Tempel unverzüglich in Richtung Kaiserstadt.[/left]
+[/end]"
 4129,"Als Ihr drei oder vier Jahre alt wart, veriirtet Ihr Euch für mehrere Tage in der Wildnis.[/left]
 Ihr erinnert Euch nicht mehr an vieles, während ihr in %hpw verloren wart, außer dass[/left]
 eine Gruppe seltsamer Kreaturen Euch vor einer Bande %q5[/left]
@@ -6376,8 +6382,7 @@ Euch hatte, eine, die ein Höchstmaß an Dezenz und unerschütterlicher Treue ve
 Als Ihr in jener Nacht in den Palast kamt, wart ihr überrascht, dass der Kaiser nicht wie[/left]
 üblich von seiner großen Gefolgschaft umgeben, sondern nur der Kaiserliche Kampfmagier[/left]
 Ocato bei ihm war. Dort wurdet ihr in die Angelegenheiten in Dolchsturz eingeweiht.[/left]
-[/end]
-"
+[/end]"
 4130,"Ihr verbrachtet den Großteil Eurer Kindheit damit, in %hpw zusammen mit[/left]
 Eurer Mutter herumzustreifen, und sie war diejenige, die Eure Faszination an[/left]
 %q9 durch ihre Geschichten und Legenden über[/left]
@@ -6464,8 +6469,7 @@ Fesseln zu lösen, und halfen, die restlichen Banditen zu überwältigen.
 Eure Gruppe kehrte daraufhin zur Kaiserstadt zurück, wo Ihr viele Glückwünsche auch[/left]
 von der Kaiserlichen Wache erhieltet. Und kurz darauf erreichte Euch auch ein Gesuch[/left]
 des Kaisers höchstpersönlich.
-[/end]
-"
+[/end]"
 4132,"Eure frühesten Erinnerungen sind von Hunger, Kälte und Einsamkeit geprägt. Ihr[/left]
 konntet nie herausfinden, wer Eure Eltern waren oder wieso Ihr ganz auf Euch gestellt[/left]
 in den Straßen zurückgelassen wurdet und ums Überleben kämpfen musstet. Nur an[/left]
@@ -6515,9 +6519,8 @@ seine Dankbarkeit.""[/left]
 [/left]
 Er überreichte Euch auch einen Gesuch vom Kaisers persönlich, der offensichtlich auf[/left]
 der Suche nach jemandem wie Euch war. Vieleicht begann sich Euer Glück nun endlich[/left]
-zu wenden.""
-[/end]
-"
+zu wenden.
+[/end]"
 4133,"Eure frühesten Erinnerungen handeln von einem lodernden Feuer im Schmelzofen und[/left]
 dem Geruch von glühendem Metall. Euer Vater war ein angesehenr Schmied und Menschen[/left]
 aus der ganzen Provinz %hpn kamen herbei, um seine Dienste in Anspruch zu nehmen.[/left]
@@ -6661,9 +6664,9 @@ Schwertkampf[/end]"
 4206,"Zerstörung[/record]
 Verwüstung[/record]
 Vernichtung[/end]"
-4207,"Heilung
-Verjüngung
-Wiederherstellung"
+4207,"Heilung[/record]
+Verjüngung[/record]
+Wiederherstellung[/end]"
 4208,"Illusion[/record]
 Fingerfertigkeit[/record]
 Täuschung[/end]"
@@ -6684,11 +6687,10 @@ fanatische Hexenmeister[/end]"
 4214,"getäuschte Bauern[/record]
 schwachsinnige Bauern[/record]
 minderbemittelte Bauern[/end]"
-4215,"korrupte Ritter
-unterdrückende Krieger
-Berserker-Soldaten"
-4216,"
-etwas zusätzliches Gold[/record]
+4215,"korrupte Ritter[/record]
+unterdrückende Krieger[/record]
+Berserker-Soldaten[/end]"
+4216,"etwas zusätzliches Gold[/record]
 einhundert Goldmünzen[/end]"
 4217,"ein faszinierendes Buch[/record]
 ein interessantes Buch[/end]"
@@ -7032,7 +7034,7 @@ das Weben eines Kataklysmus[/end]"
 die Zerstörung von Allianzen[/record]
 eine Revolte der Leibeigenen des Kreigsherrn[/end]"
 4714,"eine verheerende wirtschaftliche Kriegsführung[/record]
-zusätzliche politische Machenschaften0xFE>"
+zusätzliche politische Machenschaften[/end]"
 4750,Schwimmen[/end]
 4751,"einfache Wunden heilen[/record]
 sich selbst heilen[/record]
@@ -8180,7 +8182,7 @@ komplizierte, aber auch schrecklich nützliche[/center]
 Vorrichtung. Wenn Ihr sie bisher nicht bei,[/center]
 sagen wir, der Magiergilde, verwendet habt,[/center]
 solltet Ihr das wirklich tun. Jetzt, da Ihr ein[/center]
-%lev seid und fähig.""[/center]
+%lev seid und fähig.[/center]
 [/end]"
 6608,"Erlaubt mir, Euch meine aufrichtigsten und[/center]
 herzlichsten Glückwünsche auszusprechen.[/center]
@@ -8839,7 +8841,7 @@ und vertrauenswürdige Gäste erlaubt.""[/center]
 ""Hinter dieser Tür sind nur das Schlosspersonal[/center]
 und vertrauenswürdige Gäste erlaubt.""[/center]
 [/end]"
-7717,"Eine kräftige Orkstimme im Hintergrund der Halle knurrt: ""Jeder, der eintreten will, muss sich der Kampfprüfung stellen:“[/end]"
+7717,"Eine kräftige Orkstimme im Hintergrund der Halle knurrt: ""Jeder, der eintreten will, muss sich der Kampfprüfung stellen:""[/end]"
 7764,"Unter der Tür dringen Singsang und seltsame, fremdartige[/left]
 Geräusche hindurch. Euch steigt der Gestank von Schwefel[/left]
 und giftigen Tränken in die Nase.[/left]
@@ -9593,21 +9595,21 @@ ein erinnerungswürdiger Tag, weil Ihr gar nichts einkaufen könnt.[/record]
 wenn jeder den Verstand verliert, weil kein Laden in in %cn geöffnet hat.[/record]
 wenn die Leute eine Landpartie machen müssen, wenn sie etwas kaufen wollen.[/record]
 Der Tag, an dem das Händlerviertel von %cn vollkommen verödet ist.[/end]"
-8534,"wenn ein jeder in %cn, selbst Leute ohne Geld, die Tavernen für wahre Speise-Orgien aufsuchen.
-der Tag, an dem in ganz Tamriel Völlerei getrieben wird.
-eine vorzügliche Gelegenheit, in jeder Taverne von %cn umsonst die Getränke zu probieren!
-wenn Speis und Trank in so gut wie jedem Gasthaus umsonst sind.
-das Speisefest, dass eine erfolgreiche Ernte feiert, selbst wenn sie gar nicht erfolgreich war. "
-8535,"wenn magische Gegenstände in der Magiergilde nur halb so viel kosten.
-der Tag, an dem die Tempel in %cn für die Öffentlichkeit geschlossen bleiben, damit die Geistlichen für die Toten beten können.
-wenn die Untoten in den Straßen von %cn wandeln.
-der beste Tag, um drüben in der Magiergilde einen billigen magischen Gegenstand mitzunehmen. 
-eine schlechte Zeit um krank zu werden, denn die Tempel in ganz Tamriel schließen für Gebete."
-8536,"der Tag, an dem die Tempel und die Magiergilde um Aufmerksamkeit ringen. Ratet mal, auf wessen Seite ich stehe.
-wenn Ihr in der Magiergilde jeden Gegenstand umsonst auf mystisches Potential untersuchen lassen könnt.
-wenn dieser Ort nur so von Magiern, Nachtklingen und Magierkriegern überquillt. 
-ein guter Tag, um in der Magiergilde einen billigen Zauber zu erstehen, wenn Ihr früh dorthin kommt. 
-wenn alle Tempel Tamriels die Nacht über geöffnet sind, um das Böse zu bekämpfen."
+8534,"wenn ein jeder in %cn, selbst Leute ohne Geld, die Tavernen für wahre Speise-Orgien aufsuchen.[/record]
+der Tag, an dem in ganz Tamriel Völlerei getrieben wird.[/record]
+eine vorzügliche Gelegenheit, in jeder Taverne von %cn umsonst die Getränke zu probieren![/record]
+wenn Speis und Trank in so gut wie jedem Gasthaus umsonst sind.[/record]
+das Speisefest, dass eine erfolgreiche Ernte feiert, selbst wenn sie gar nicht erfolgreich war.[/end]"
+8535,"wenn magische Gegenstände in der Magiergilde nur halb so viel kosten.[/record]
+der Tag, an dem die Tempel in %cn für die Öffentlichkeit geschlossen bleiben, damit die Geistlichen für die Toten beten können.[/record]
+wenn die Untoten in den Straßen von %cn wandeln.[/record]
+der beste Tag, um drüben in der Magiergilde einen billigen magischen Gegenstand mitzunehmen.[/record]
+eine schlechte Zeit um krank zu werden, denn die Tempel in ganz Tamriel schließen für Gebete.[/end]"
+8536,"der Tag, an dem die Tempel und die Magiergilde um Aufmerksamkeit ringen. Ratet mal, auf wessen Seite ich stehe.[/record]
+wenn Ihr in der Magiergilde jeden Gegenstand umsonst auf mystisches Potential untersuchen lassen könnt.[/record]
+wenn dieser Ort nur so von Magiern, Nachtklingen und Magierkriegern überquillt.[/record]
+ein guter Tag, um in der Magiergilde einen billigen Zauber zu erstehen, wenn Ihr früh dorthin kommt.[/record]
+wenn alle Tempel Tamriels die Nacht über geöffnet sind, um das Böse zu bekämpfen.[/end]"
 8537,"wenn wir in der guten alten Zeit immer Paraden und Jagden abgehalten haben ...[/record]
 der Tag, an dem die Aristokraten in  %cn damals immer auf Goblinjagd zu Pferde gegangen sind.[/record]
 nicht der echte Geburtstag des Kaisers - das ist alles symbolisch.[/record]
@@ -9719,7 +9721,7 @@ und Eure närrischen Fragen zu beantworten.[/center]
 Dafür schuldet Ihr mir was. Ich kann Eure Organisation nicht ausstehen, aber Ich werde helfen.[/center]
 [/record]
 Ich helfe immer gerne.[/center]
-[/end]"""
+[/end]"
 8560,"Ihr habt mich überzeugt. Ich werde Euch helfen, selbst wenn ich Eure Gilde nicht mag.[/center]
 [/record]
 %fnpc gegen %fpc, natürlich sind wir[/center]
