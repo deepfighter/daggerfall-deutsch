@@ -1,0 +1,89 @@
+Quest: R0C10Y21
+DisplayName: Der Tempel der Orks
+QRC:
+
+QuestorOffer:  [1000]
+Mein Cousin, _qgfriend_,
+hat mich um Hilfe in einer ziemlich
+unangenehmen Angelegenheit gebeten.
+Scheinbar gibt es da ... so etwas wie
+einen Tempel, der eingeweiht wird,
+falls das der richtige Ausdruck für diese
+abscheulichen orkischen Machenschaften
+ist. Nun, selbstredend müssen wir das im
+Keim ersticken. Ich bin bereit, bis zu
+_reward_ Goldstücke zu zahlen. Kann ich auf
+Eure Hilfe zählen, %pcf?
+
+RefuseQuest:  [1001]
+Seid Ihr etwa so eine Art Ork-Freund?
+%oth, geht mir aus den Augen!
+
+AcceptQuest:  [1002]
+Vielen Dank im Voraus dafür, %pcf.
+Ich denke, Eure Fähigkeiten wären bestmöglich
+genutzt, wenn Ihr ___mondung_ infiltrieren
+und den sogenannten Schamanen des Tempels
+eliminieren würdet. Wenn wir ihn vor unserem
+Angriff in =1stparton_ Tagen töten können,
+würde das unsere Aufgabe erheblich erleichtern.
+Sobald die Tat vollbracht ist, meldet Euch im
+Palast meines Cousins in ___qgfriend_.
+%g ist es, der Euch für all das bezahlt.
+
+QuestFail:  [1003]
+Auf nach ___mondung_, beeilt Euch,
+%pcf. Der Plan ist bereits in Gang
+gesetzt und wir zählen auf Euch.
+
+QuestComplete:  [1004]
+Ich grüße Euch, %pcf. Erstklassige Arbeit
+mit diesem stinkenden, fauligen Schamanen.
+Wie können sie es wagen, einen ihrer
+kannibalischen Tempel auf meinem Land zu
+errichten! Die jetzt führerlose Meute
+sollte nun leichter zu bewältigen sein.
+Hier sind Eure _reward_ Goldstücke.
+Lasst es Euch gutgehen.
+
+RumorsDuringQuest:  [1005]
+Es gibt eine Orkgemeinschaft in ___mondung_, die _qgfriend_ stört.
+<--->
+___mondung_ war, glaube ich, vor Jahren ein Ork-Tempel. Jetzt bauen Sie ihn wieder auf.
+
+RumorsPostfailure:  [1006]
+Die Orkgemeinschaft hat Wind von _qgfriend_ bekommen und ist weitergezogen.
+<--->
+_qgfriend_ hatte keine Gelegenheit, Rache an den Orks in ___mondung_ zu nehmen.
+
+RumorsPostsuccess:  [1007]
+Das wird diesen schweinegesichtigen degenerierten Kannibalen eine Lehre sein, nach %reg zu kommen.
+<--->
+%god segne _qgfriend_ und _questgiver_ sowie diesen unbekannten %ra-Soldaten.
+
+QuestorPostsuccess:  [1008]
+Habt Ihr in letzter Zeit gute Ork-Witze gehört? Mein Cousin hat mir erzählt, was für eine gute Arbeit Ihr geleistet habt.
+<--->
+Mein Cousin war äußerst beeindruckt von Eurer Arbeit an diesem Ork-Schamanen, mein Freund.
+
+QuestorPostfailure:  [1009]
+Mein Cousin sagte, Ihr habt den Ork-Schamanen
+letztlich doch nicht getötet. Ich habe kein
+Interesse mehr, darüber zu sprechen.
+
+Message:  1011
+=qgfriend_, ja? Ein möglicher Verbündeter von _questgiver_ mit einem Ork-Problem.
+<--->
+_qgfriend_ ist ein gewalttätiger Fanatiker, wenn es um Orks geht.
+
+Message:  1012
+Ihr habt den Ork-Schamanen getötet.
+
+Message:  1015
+%qdt:
+ Ich habe =1stparton_ Tage Zeit, einen Ork-Schamanen
+ in __mondung zu töten und dann zum Palast
+ von _qgfriend_ in ___qgfriend_ zu gelangen.
+ %g wird mir meine _reward_ Goldstücke für den Tod des
+ Schamanen zahlen.
+

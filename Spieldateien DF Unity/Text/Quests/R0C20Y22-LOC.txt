@@ -1,0 +1,141 @@
+Quest: R0C20Y22
+DisplayName: Orkgeschäfte
+QRC:
+
+QuestorOffer:  [1000]
+Ah, %pcf, ich bin froh, dass Ihr
+hier seid. Wenn Ihr Eure Dienste anbieten
+wollt - ich suche noch jemanden, der
+eine besondere _item_ an einen
+Bekannten von mir überbringt. Die Belohnung,
+werdet Ihr, so denke ich, für ausgesprochen
+großzügig befinden; sie wiegt die Gefahren
+auf, die diese Mission mit sich bringt.
+Seid Ihr interessiert?
+
+RefuseQuest:  [1001]
+Wirklich? Zu beschäftigt, vielleicht.
+Das ist schade.
+
+AcceptQuest:  [1002]
+Ausgezeichnet. Hier ist das _item_.
+Nun, _contact_ benötigt es in
+___contact_ in =queston_ Tagen.
+Das sollte reichlich Zeit sein, hoffe
+ich. _contact_ wird leicht zu
+finden sein -- sucht einfach nach
+einem =contact_ in __contact_.
+Übrigens könntet Ihr auf einige Orks
+treffen, die nicht wollen, dass diese
+Lieferung erfolgt. Ich vertraue darauf,
+dass Ihr wisst, wie man mit ihresgleichen
+zu verfahren hat. Viel Glück.
+
+QuestFail:  [1003]
+Eile ist geboten %pcf. Orks
+wurden nachts in der Nähe von
+___questgiver_ gesichtet. Ihr
+solltet Euch besser auf den Weg machen,
+bevor sie sich trauen, frecher zu werden.
+
+QuestComplete:  [1004]
+Ah, gut Euch zu sehen, %pcf.
+Und das _item_ auch. Ausgezeichnet.
+Hier ist ein kleines Schmuckstück
+für Eure Mühen. Ich hoffe, Ihr mögt
+Rot. Passt auf Euch auf.
+
+RumorsDuringQuest:  [1005]
+_questgiver_ ist immer noch im Schmuggelgewerbe, wie ich höre.
+<--->
+Ich habe gehört, dass die Wachen letzte Nacht ein paar Orks verjagt
+haben. Ich frage mich, was sie in die Stadt getrieben hat?
+
+RumorsPostfailure:  [1006]
+Jemand hat kürzlich ein sehr schönes _item_ hier gefunden.
+<--->
+Ich höre, _questgiver_ ist stinksauer auf einen %ra-Abenteurer.
+
+RumorsPostsuccess:  [1007]
+So ein =contact_ war gerade hier und habt mit einem _item_ herumgewedelt.
+<--->
+Ein Juwelierladen hat den Diebstahl eines großen Rubins gemeldet, wie ich hörte.
+
+QuestorPostsuccess:  [1008]
+Ich hörte, dass Eure Mission erfolgreich war, %pcf. Das ist gut. Sehr gut.
+<--->
+Ich war erfreut, vom Erfolg der Lieferung zu hören. Was kann ich für Euch tun?
+
+QuestorPostfailure:  [1009]
+Ihr seid also der Kurier, der die Lieferung nicht
+ausführen konnte, ja? Wäre ich nicht ein Narr,
+wenn ich erneut meine Zeit mit Euch vergeudete?
+Das ist übrigens eine rhetorische Frage.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ hat mich angeworben,
+ ein _item_ an jemanden in ___contact_
+ namens _contact_ zu liefern. %g wird
+ mich in __contact_ in =queston_ Tagen
+ treffen, um mich zu entlohnen, falls ich
+ nicht bereits von den Orks, die ebenfalls
+ hinter dem _item_ her sind, zerstückelt wurde.
+
+Message:  1012
+Ihr wollt mit diesem Ork-Freund aus ___orsinium_ nichts zu tun haben.
+<--->
+_orsinium_ aus ___orsinium_? Man sagt, %g spreche tatsächlich mit Orks.
+
+Message:  1013
+_orsinium_ ist in ___orsinium_ als Ork-Sympathisant bekannt.
+<--->
+Ich weiß aus sicherer Quelle, dass _orsinium_ ein schmutziger Ork-Liebhaber ist.
+Ich habe %g2 selbst gesehen, wie er sich mit diesen Tieren außerhalb von ___orsinium_
+getroffen hat. %g sollte aus der Stadt vertrieben werden, wenn Ihr mich fragt.
+
+Message:  1015
+_questgiver_ wird es abstreiten, aber man sagt, %g sei im Schmuggelgeschäft.
+<--->
+_questgiver_ wird nachgesagt, er sei in einem Schmugglerring
+verwickelt, der mit geplündeter Ware aus dem alten Orsinium handelt.
+
+Message:  1016
+_questgiver_ wird noch den Zorn der Orks auf uns alle ziehen,
+wenn er weiterhin mit Plündergut aus Orsinium handelt. _orsinium_
+hat _questgiver_ öffentlich beschuldigt, aber natürlich ist nichts
+dagegen unternommen worden.
+<--->
+Ich weiß nicht, woher _questgiver_ ihn aufgetrieben hat,
+aber ich habe %g2 kürzlich mit einigen richtig exquisiten
+antiken Schmuckstücken gesehen. Uralte orkische
+Handwerkskunst, wenn ich mich nicht irre.
+
+Message:  1020
+Ich bin froh, dass Ihr mich aufgesucht habt, %pcn.
+Ihr solltet wissen, dass das _item_, das Ihr tragt,
+aus Orsinium, der alten Hauptstadt der Orks, gestohlen
+wurde. _questgiver_, wie die meisten Menschen, betrachten
+Orks als minderwertig, daher sind sie gezwungen, Gewalt
+anzuwenden, um ihre gestohlene Besitztümer wiederzubeschaffen.
+Ich hoffe jedoch, dass Ihr aufgeklärter seid als Euer
+Arbeitgeber. Wenn Ihr mir das _item_ gebt, werde ich
+dafür sorgen, dass es an seine rechtmäßigen Besitzer
+zurückgegeben wird.
+
+Message:  1021
+Gebt Ihr das _item_?
+
+Message:  1022
+Ich bin froh, dass ich mich in Euch nicht getäuscht habe.
+Danke, %pcf. Wir werden dies nicht vergessen.
+
+Message:  1023
+Das ist höchst bedauerlich. Nun, wir alle haben unsere Gründe.
+Ich hoffe, Ihr könnt mit dieser Entscheidung leben.
+
+Message:  1030
+Als der Ork zu Boden sinkt, keucht er in einem kaum
+verständlichen Akzent:
+"_orsinium_ ... geht ... _orsinium_ ..."
+

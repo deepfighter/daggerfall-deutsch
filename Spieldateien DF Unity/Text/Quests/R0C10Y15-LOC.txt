@@ -1,0 +1,99 @@
+Quest: R0C10Y15
+DisplayName: Die vierte Person
+QRC:
+
+QuestorOffer:  [1000]
+Ich habe eine ziemlich komplizierte Mission,
+die eine vierte Person erfordert. Es könnte
+ein paar Tage dauern, sie zu erfüllen, aber es
+bedeutet auch zusätzliche _reward_ Goldstücke
+in Eurer Tasche. Klingt das interessant?
+
+RefuseQuest:  [1001]
+Das ist enttäuschend.
+Nun gut.
+
+AcceptQuest:  [1002]
+Ich habe einen Kontakt in ___npc1_,
+der einen bestimmten Gegenstand besitzt,
+den ein anderer Geschäftspartner von mir
+in __npc2 benötigt. Natürlich muss
+_npc1_, mein Kontakt in ___npc1_,
+für %g3 Gegenstand bezahlt werden.
+Deshalb brauche ich Euch, um diesen
+Diamanten als Bezahlung an _npc1_
+zu überbringen. Der Diamant muss innerhalb
+von =1stparton Tagen in %g3 Besitz sein.
+Sobald Ihr in __npc1_ angekommen
+seid, wird _npc1_ Euch weitere
+Anweisungen geben. Ich danke Euch,
+%pcf, und %god sei mit Euch.
+
+QuestFail:  [1003]
+Ich weiß, es war kompliziert, %pcf,
+aber ich hatte gehofft, dass dieses
+kleine Gehirn, welches in Eurem dicken
+Schädel steckt, irgendetwas taugt.
+Ich hoffe, Ihr habt mitgeschrieben,
+denn ich pflege mich nicht zu wiederholen.
+
+QuestComplete:  [1004]
+Ah, der _item2_.
+Ich fürchtete schon, er würde nie ankommen.
+Nun, hier sind Eure _reward_ Goldstücke, wie
+versprochen. Sagt __npc2_, ich
+stehe in %g3 Schuld. Und auch Euch danke ich.
+
+RumorsDuringQuest:  [1005]
+_npc2_ in __npc2_ schreit immer noch wegen %g3 _item2_ herum.
+<--->
+%oth, dieser _npc1_ ist gierig. Würde seiner eigenen Mutter nicht helfen, ohne Bezahlung.
+
+RumorsPostfailure:  [1006]
+Ich hörte, _questgiver_ ist stinksauer auf einen %ra Abenteurer.
+<--->
+_npc2_ verließ __npc2_ wütend über irgendeinen verlorenen Gegenstand von %g3.
+
+RumorsPostsuccess:  [1007]
+Ich frage mich, was die Verbindung zwischen _questgiver_ und _npc2_ ist.
+<--->
+Ich hörte, _npc1_ hat %g3 _item2_ verkauft. Was in Tamriel könnte wohl der Preis dafür gewesen sein?
+
+QuestorPostsuccess:  [1008]
+Nun, wenn das nicht %pcn, der ultimative Kurier, ist. Wie geht es Euch, mein Freund?
+<--->
+Ihr habt mir geholfen, als ich in Not war, %pcf. Was kann ich für Euch tun?
+
+QuestorPostfailure:  [1009]
+Ich nehme an, Ihr seid gekommen,
+um Euch für Eure unvollständige
+Kurierarbeit zu entschuldigen,
+%pcf? Entschuldigung nicht
+akzeptiert. Verschwindet jetzt.
+
+QuestLogEntry:  [1010]
+Dank sei %god, dass Ihr angekommen
+seid, %pcf. Gebt mir schnell den Diamanten.
+Nehmt nun _item2_ und bringt ihn zu
+_npc2_ nach __npc2_ --
+das liegt in __npc2.
+Einmal dort, wird %g Euch bezahlen.
+
+Message:  1015
+%qdt:
+ _questgiver_ aus ___questgiver_
+ hat mich zu einem Kontakt von %g3 in
+ _npc1_, einem =npc1_ namens
+ ___npc1_, nach _npc1_ gesandt.
+ Ich soll einen _item1_ zu %g2
+ bringen und dann weitere Anweisungen
+ erhalten. Ich habe =1stparton Tage, um
+ nach ___npc1_ zu gelangen.
+
+Message:  1016
+%qdt:
+ _npc1_ hat mich weitergeschickt
+ zu _npc2_ in __npc2_ von
+ ___npc2_. Ich soll %g2 _item2_
+ innerhalb von =2ndparton_ Tagen bringen.
+

@@ -1,0 +1,95 @@
+Quest: R0C10Y20
+DisplayName: Eine seltene Zutat
+QRC:
+
+QuestorOffer:  [1000]
+Wie wäre es mit einer feinen _reward_
+aus meiner Schatzkammer, %pcf?
+Mein Alchemist hat nach einer sehr
+seltenen Zutat verlangt, die er für
+ein wichtiges Experiment benötigt,
+und wir brauchen jemanden, der sie
+abholt. Denkt Ihr, Ihr könntet Euch
+darum kümmern, %pcf?
+
+RefuseQuest:  [1001]
+Nun, das war unerwartet. Ihr solltet versuchen,
+etwas weniger auf Euer Söldnerherz zu hören,
+%pcf.
+
+AcceptQuest:  [1002]
+Ausgezeichnet, %pcf, ich wusste, Ihr wärt
+dafür zu haben. Nehmt dieses _item1_ und bringt
+es nach __contact_ in ___contact_.
+Dort gibt es einen =contact_ namens
+_contact_. Bittet %g2, Euch das _item2_
+zu geben, das %g aus dem Süden gebracht hat.
+Sorgt dafür, dass Ihr rechtzeitig zurück seid,
+in =1stparton_ Tagen. Nun denn, %pcf,
+ich verlasse mich auf Euch. Enttäuscht mich nicht.
+
+QuestFail:  [1003]
+Das _item2_, %pcf?
+Erinnert Ihr Euch? Und trödelt nicht.
+
+QuestComplete:  [1004]
+Gutes Timing, %pcf.
+Mein Alchemist wird sehr erfreut
+sein – es ist ein ausgezeichnetes
+_item2_. Wie versprochen,
+hier ist Eure _reward_.
+Hübsch, nicht wahr?
+
+RumorsDuringQuest:  [1005]
+_questgiver_'s Alchemist hat einmal einen Splitter Ebonium zurückgewiesen – er war nicht "frisch".
+<--->
+_questgiver_'s Alchemist besteht immer auf sehr frische Komponenten. Ich weiß auch nicht, warum.
+
+RumorsPostfailure:  [1006]
+_questgiver_ hat Probleme mit %g3 Alchemisten. Sehr launisch, wie ich höre.
+<--->
+Ein ganzes Bündel von _questgiver_'s Alchemisten-Tränken musste weggeworfen werden.
+
+RumorsPostsuccess:  [1007]
+In letzter Zeit kommen wirklich seltsame Gerüche aus dem Palast von _questgiver_, habt Ihr das bemerkt?
+<--->
+Ich sah eine rote Rauchwolke aus dem Palast von _questgiver_ aufsteigen, wie ein Vogel.
+
+QuestorPostsuccess:  [1008]
+Denkt nicht, dass ich Euch vergessen habe, %pcf. Wie geht es Euch, mein Freund?
+<--->
+Mein Alchemist wollte Euch persönlich danken, %pcf, aber er ist beschäftigt. Wie geht es Euch?
+
+QuestorPostfailure:  [1009]
+Wenn mein Alchemist hier wäre, würde
+er das _item2_ verlangen,
+das Ihr holen solltet, und Euch dann
+damit erschlagen. Aber so, wie es ist,
+betrachtet dies als Warnung. Enttäuscht
+mich zukünftig nicht mehr, sollte ich
+Eure Dienste benötigen. Das ist alles.
+
+QuestLogEntry:  [1010]
+Und Ihr müsst %pcf sein, geschickt
+von _questgiver_, richtig?
+Nun, hier ist das _item2_,
+das %g wollte. Ihr solltet besser
+schnell damit zurückkehren – %g3
+Alchemist legt großen Wert auf die
+Frische seiner Zutaten. Natürlich zu
+Unrecht. _item2_ verderben nicht.
+Dennoch, Ihr wisst, was man über
+des einen Mannes Gift sagt...
+Jetzt los, beeilt Euch.
+
+Message:  1015
+%qdt:
+ Ich werde eine _reward_ von
+ _questgiver_ aus __questgiver_,
+ ___questgiver_ erhalten, wenn
+ ich ein frisches _item2_ für
+ %g2 von _contact_ in =1stparton Tagen
+ oder weniger besorge. _contact_
+ befindet sich in __contact_
+ in ___contact_.
+

@@ -1,0 +1,113 @@
+Quest: R0C10Y17
+DisplayName: Die Spezialzutat
+QRC:
+
+QuestorOffer:  [1000]
+Ich habe mich gefragt, ob Ihr mir
+wohl eine kleine Gefälligkeit erweisen
+würdet. Seht, ich habe einen Freund,
+der eine bestimmte Lieferung einer
+gewissen Substanz benötigt, die zu
+einem bestimmten Zeitpunkt bei ihm
+eintrifft. Ich vertraue darauf,
+dass ich mich deutlich genug 
+ausgedrückt habe. Seid Ihr für diese
+Art von Beschäftigung verfügbar,
+gegen eine Bezahlung von, sagen
+wir, _reward_ Goldstücke?
+
+RefuseQuest:  [1001]
+Nun, ich bin sichtlich enttäuscht.
+Ich hätte mehr Enthusiasmus erwartet.
+Ach, es sind diese Zeiten, die zu
+Faulheit und Indolenz animiert,
+nehme ich an.
+
+AcceptQuest:  [1002]
+Ihr werdet mir also helfen? Nun, das ist
+großartig, muss ich sagen. Also denn,
+hier ist ein Wieheisstesdenngleich, ein
+_item1_. Es muss zu einem Alchemisten
+gebracht werden, den ich kenne, namens
+_npc1_. Ihr findet %g2 in __npc1_
+in ___npc1_. Mit etwas Glück
+wird %g etwas für Euch haben, das Ihr
+meinem Freund, _npc2_, bringen könnt.
+Gut, Jetzt maht Euch aber besser auf den
+Weg. _npc1_ hat mir gesagt, %g benötige
+das _item1_ in =1stparton_ Tagen oder früher.
+Ich danke Euch und wünsche eine gute Reise.
+
+QuestFail:  [1003]
+Wir werden reichlich Zeit haben, weiter zu
+plaudern, sobald Ihr Eure Aufgabe erfüllt habt.
+
+QuestComplete:  [1004]
+%oth, ich fragte mich schon, wann Ihr
+hier ankommen würdet. Ihr seid %pcf?
+Ich bin _npc2_, und das, glaube
+ich, ist mein _item2_. Falls
+Ihr es noch nicht ausprobiert habt,
+solltet Ihr es wirklich tun. Die Wirkung
+ist himmlisch. Wie auch immer, hier
+sind Eure _reward_ Goldstücke.
+Vielen Dank, %pcf.
+Ihr seid mein Lebensretter.
+
+RumorsDuringQuest:  [1005]
+Ich habe gehört, dass _npc2_ süchtig nach _item2_ ist, aber ich habe noch keinen Beweis gesehen.
+<--->
+Sie sagen, es sei schwierig, eine gute Dosis von _item2_ herzustellen, erfordert jahrelanges Studium.
+
+RumorsPostfailure:  [1006]
+Es stellt sich heraus, dass _npc2_ doch süchtig nach _item2_ war. Sie haben %g2 beim Kauf erwischt.
+<--->
+Ich frage mich, wer diesem _npc1_ die Zutaten geliefert hat, die %g benötigte.
+
+RumorsPostsuccess:  [1007]
+_npc2_ hat endlich die Lieferung erhalten, auf die %g gewartet hat. Er ist glücklich wie eine Harpyie.
+<--->
+_questgiver_ scheint ziemlich zufrieden mit einem %ra-Söldner zu sein, aber will nicht sagen, warum.
+
+QuestorPostsuccess:  [1008]
+Ihr habt bei dieser Lieferung gute Arbeit geleistet, mein Freund. Was kann ich für Euch tun?
+<--->
+%oth, schön, Euch wiederzusehen, %pcf. Ihr habt gute Arbeit bei dieser ... kleinen Aufgabe geleistet.
+
+QuestorPostfailure:  [1009]
+Wenn ich mich recht entsinne, wart
+Ihr es der bei meinen letzten Aufrag,
+den ich Euch gab, versagt hat. Ich
+sehe wenig Sinn darin, jetzt mit
+Euch zu sprechen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich bringe _npc1_ aus __npc1_,
+ ___npc1_ ein _item1_ im
+ Austausch für einen Gegenstand, den
+ _questgiver_ an eine dritte Partei
+ geliefert haben möchte. Ich habe
+ =1stparton Tage, um den ersten Teil
+ dieser Lieferung zu erfüllen.
+
+Message:  1011
+%qdt:
+ _npc1_ hat mich
+ weitergeschickt zu _npc2_,
+ der dritten Partei in ___npc2_,
+ mit einem gewissen _item2_.
+ Ich werde _npc2_ als
+ =npc2_ in __npc2_ erkennen,
+ vorausgesetzt, ich übergebe es
+ %g2 innerhalb von =2ndparton_ Tagen.
+
+Message:  1012
+Wunderbar, %pcf, wunderbar.
+Nun, hier ist das _item2_,
+das _npc2_ in __npc2_ in
+___npc2_ übergeben werden muss.
+Trödelt nicht, %pct. _npc2_
+benötigt es in =2ndparton_ Tagen
+oder früher.
+

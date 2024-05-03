@@ -1,0 +1,123 @@
+Quest: R0C10Y18
+DisplayName: Entliehener Gegenstand
+QRC:
+
+QuestorOffer:  [1000]
+Habt Ihr ein paar Tage Zeit um mir
+einen kleinen Gefallen zu tun, %pcf?
+es muss nur etwas, dass ich ausgeliehen
+habem, an seinen Eigentümer zurück
+gebracht werden. Nichts allzu anstrengendes,
+und Ihr werdet um _reward_ Goldstücke
+reicher sein. Ein verlockendes Angebot,
+nicht wahr?
+
+RefuseQuest:  [1001]
+Das ist schade. Nun, dann werde ich
+eben jemand anderen dafür anheuern.
+
+AcceptQuest:  [1002]
+%oth, so ist's recht! Ich habe
+dieses _item1_, das ich von
+meinem guten Freund _npc1_,
+einem Priester in __npc1_
+in ___npc1_ geliehen habe.
+Es ist ziemlich dringend, dass
+es zurück an %g2 gelangt -- %g 
+benötigt es in =1stparton_ Tagen. Also
+bitte beeilt Euch. Danke dafür,
+%pcf.
+
+QuestFail:  [1003]
+Habe ich nicht gesagt, Ihr sollt Euch beeilen, %pcf?
+
+QuestComplete:  [1004]
+Ah, gut. Der _item2_ ist so
+exquisit, wie mir versprochen
+wurde. Gute Arbeit, %pcf.
+Hier sind Eure _reward_ Goldstücke
+für die schnelle Lieferung und Euer
+Stillschweigen.
+
+RumorsDuringQuest:  [1005]
+In letzter Zeit herrscht reger Verkehr von und nach __npc1_. Ich frage mich, was dort vor sich geht.
+<--->
+_npc1_ hat nach %g3 _item1_ gesucht, aber ich wusste nicht einmal, dass %g solche Dinge mochte.
+
+RumorsPostfailure:  [1006]
+Ich frage mich, wie lange __npc1_ schon als Station für Schmuggler genutzt wurde. Es ist ein Skandal.
+<--->
+Sie haben Edelsteine in _item1_en geschmuggelt. Jetzt erscheint es so offensichtlich, findet Ihr nicht?
+
+RumorsPostsuccess:  [1007]
+Komisch. Ich weiß, es gab eine Lieferung von _item1_en nach __npc1_, aber irgendetwas scheint da nicht zu stimmen.
+<--->
+___npc2_ soll ein Zentrum des _item2_-Schmuggels sein. Muss gut getarnt sein.
+
+QuestorPostsuccess:  [1008]
+Schaut mal, wer zurück ist. Ihr versteht, ich konnte Euch nichts von dem Edelstein erzählen, oder?
+<--->
+Nun, wenn das nicht %pcf ist. Großartige Arbeit bei diesem Schmuggelgeschäft, mein Freund.
+
+QuestorPostfailure:  [1009]
+Das war keine Lappalie, bei
+der Ihr versagt habt, %pcf.
+Vielleicht werde ich Euch mit
+der Zeit vergeben können.
+Vielleicht.
+
+QuestLogEntry:  [1010]
+Oh gut, mein _item1_ ist zurück.
+Danke, %pcf. Aber es scheint,
+etwas darin festzustecken. Oh, ich
+sehe ... dieser Stein. Wäret Ihr
+so freundlich, dieses Steinchen zu
+_questgiver_s Freund,
+_npc2_, nach
+__npc2_ in ___npc2_
+zu bringen? Ich glaube, %g hat
+Euer Gold, aber Ihr solltet Euch
+beeilen. _npc2_ wird ungeduldig,
+wenn %g länger als =2ndparton_ Tage
+warten muss.
+
+Message:  1015
+%qdt:
+ _questgiver_ aus
+ __questgiver hat
+ mich geschickt, um einen
+ _item1_ zu einem Priester
+ in ___npc1_, einem gewissen
+ =npc1_ namens _npc1_
+ zu bringen, den ich in __npc1_
+ finde, wenn ich in =1stparton_ Tagen
+ oder weniger dort ankomme.
+
+Message:  1016
+%qdt:
+ In dem _item1_ war ein
+ _item2_ versteckt. Für
+ die _reward_ Goldstücke, die
+ mir versprochen wurden, muss
+ ich das _item2_ an jemanden
+ Dritten nach ___npc2_,
+ _npc2_ in __npc2_ liefern.
+ Ich habe =2ndparton_ Tage Zeit,
+ dies zu bewerkstelligen. 
+
+Message:  1020
+Hier in %reg ist allein die
+Diebesgilde zum Schmuggeln befugt.
+Ich nehme an, _questgiver_
+dachte, %g stünde über dem Gesetz.
+%g hat sich geirrt. Ihr werdet
+mir jenes _item2_ aushändigen,
+und _questgiver_ wird lernen,
+sich nicht mit der Diebesgilde anzulegen.
+Tut es, oder ich werde Euch töten.
+
+Message:  1021
+Sagt jedem, den Ihr kennt, sie sollen
+sich nicht mit der Diebesgilde anlegen.
+Nun verschwindet.
+
