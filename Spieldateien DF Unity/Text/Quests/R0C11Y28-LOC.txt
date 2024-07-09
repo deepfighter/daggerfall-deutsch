@@ -1,0 +1,389 @@
+Quest: R0C11Y28
+DisplayName: Der Irre Mörder
+QRC:
+
+QuestorOffer:  [1000]
+Ein Alptraum treibt sich auf den Straßen
+von %cn herum. Die Leute nennen
+ihn den %cn-Mörder, und bislang
+konnte man mir noch nicht einmal bestätigen,
+ob wir es mit einem Mann oder einem Ungeheuer
+zu tun haben. Einer meiner fähigsten Weisen,
+_contact_, ist damit beauftragt,
+die Körper der Opfer zu untersuchen, bekommt
+aber seit Kurzem %g Briefe verstörenden Inhalts
+und fürchtet offen gesagt um %g3 Leben. Ich
+brauche jemanden, der die Ergebnisse %g3
+Nachforschungen untersucht, um zu sehen, ob
+%g3 Befürchtungen gerechtfertigt sind. Werdet
+Ihr mir bei dieser Sache helfen, %pcf?
+Ich biete Euch _reward_ Goldstücke an als
+Gegenleistung für den frühzeitigen Ruhestand
+des %cn-Mörders.
+
+RefuseQuest:  [1001]
+Keine ungewöhnliche Antwort. Dann
+habe ich kaum eine andere Wahl als
+ein paar meiner weniger angenehmen
+Kontake um Hilfe zu bitten -- eine Option,
+die ich hoffte, vermeiden zu können.
+
+AcceptQuest:  [1002]
+%god sei dafür gedankt.
+Die Bewohner von %reg werden langsam
+unruhig aufgrund des mangelnden
+Fortschritts in den offiziellen Untersuchungen.
+Ich befürchte, wir werden es bald mit
+einem ausgewachsenen Mob zu tun haben,
+möglicherweise bereits innerhalb der
+nächsten =total_ Tage, vielleicht sogar früher.
+_contact_ arbeitet vom _bookstore_
+aus und ich habe %g2 wissen lassen, dass
+ich bald jemanden dorthin schicken werde.
+Nehmt Euch in Acht dort draußen, %pcf.
+Bis diese Situation aufgeklärt wurde, denkt
+daran, dass die Nächte in %cn
+eine Klinge führen.
+
+QuestFail:  [1003]
+Der %cn-Mörder ist immer
+noch auf freiem Fuß. Ich habe keine Zeit
+für Geplauder und Ihr solltet das auch nicht.
+
+QuestComplete:  [1004]
+Der Frieden in %reg ist wiederhergestellt,
+%pcf, dank Euch. Hier sind die _reward_ Goldstücke,
+die ich Euch versprochen hatte -- gerne gebe
+ich sie für das Ende dieses Wahnsinnigen und
+Eure Verschwiegenheit in diesem Fall.
+%god hat uns wahrlich gesegnet, als Ihr
+nach %reg kamt.
+
+RumorsDuringQuest:  [1005]
+Auf den Straßen von %cn ist es nicht mehr sicher. Nicht mit dem Mörder von %cn.
+<--->
+Ich habe gehört, der Mörder ist kein Mensch, sondern ein Daedra, gekommen, um uns alle zu bestrafen.
+<--->
+Das letzte Opfer des Mörders von %cn wurde in kleinen Stücken über ganz %cn verstreut gefunden.
+<--->
+Manche fragen sich, ob der Mörder vielleicht ein Vampir oder Werwolf ist.
+
+RumorsPostfailure:  [1006]
+Die Morde haben aufgehört, ohne dass wir einen Mob gebraucht hätten. Schätze, der Mörder ist weitergezogen.
+<--->
+_qgiver_ kann von Glück reden, dass der Mörder von %cn entschieden hat, weiterzuziehen. Die Leute sind langsam panisch geworden.
+<--->
+_qgiver_ ist immer noch beunruhigt. Dabei sollte man meinen, %g wäre erleichtert über das Verschwinden des Mörders.
+<--->
+Der %cn-Mörder ist genauso schnell wieder verschwunden, wie er nach %cn gekommen ist.
+<--->
+Manche munkeln, der Mörder sei immer noch hier und wartet nur darauf, dass die Sterne wieder günstig stehen.
+
+RumorsPostsuccess:  [1007]
+Ich habe immer noch Angst davor, alleine auf den Straßen von %cn zu sein, auch wenn der Mörder angeblich tot ist.
+<--->
+Schätze, der %cn-Mörder war nur irgendein armer Irrer. Rein gar nichts Romantisches an ihm.
+<--->
+Das neueste Gerücht besagt, dass der %cn-Mörder kein Vampir war, aber er sich für einen gehalten hat.
+
+QuestorPostsuccess:  [1008]
+Ich erinnere mich noch an Euch, %pcf, und Euer Taktgefühl, dass Ihr mit dem %cn-Mörder bewiesen habt.
+
+QuestorPostfailure:  [1009]
+Ihr habt mich in der Aff#re um den
+%cn-Mörder enttäuscht,
+%pcf. Und ich sehe keinen Grund
+zu der Annahme, dass Ihr mich nicht
+noch ein weiteres Mal enttäuschen würdet.
+
+QuestLogEntry:  [1010]
+Ah, %pcf, mein geschätzter %ra,
+welch Freude erfüllt mich, Euch hier zu sehen.
+Man hat Euch sicherlich davon berichtet, dass
+ich mich ein wenig wie ein Eremit verhalte,
+seitdem ich diese bedrohlichen Schreiben erhalte,
+welche mir mit Mord drohen, falls ich meine
+Nachforschungen nicht aufgebe. Doch nun,
+weilt ein alter Kollege von mir in der Stadt,
+und mit seiner Unterstützung könnte es mir gelingen,
+diese Morde aufzuklären. Ich bitte Euch,
+diese Notizen zu einem gewissen _vamp_
+zu bringen, einem =vamp_, den Ihr im
+_hookerhouse_ antreffen werdet.
+Sollte mir etwas zustoßen, so wünsche ich,
+dass jemand in der Lage ist, die Untersuchungen
+weiterzuführen. Ihr und _vamp_ werdet
+diese Personen sein, %pcf. Also seid
+vorsichtig und lasst Euch nicht töten da draußen.
+
+Message:  1011
+_contact_,
+ 
+ Stellt Eure Nachforschungen über die Opfer
+ des %reg-Mörders ein, wenn Euch
+ etwas an Eurem Leben liegt. Ihr wandelt
+ blindlings in ein Inferno.
+ 
+ Solltet Ihr darauf bestehen fortzufahren,
+ werdet Ihr sterben, ehe Eure Studien
+ abgeschloßen sind. Betrachtet dies als
+ ernsthafte Warnung.
+ 
+ Ein Wohltäter
+
+Message:  1012
+Lieber _contact_,
+ 
+ Auch wenn Ihr alle Tore verschließt und alle
+ Lichter in _bookstore_ löscht,
+ werden wir wissen, dass Ihr immer noch
+ Euren verbotenen Autopsien nachgeht.
+ Fordert uns nicht heraus, unsere Macht zu
+ demonstrieren, Euch Einhalt zu gebieten, denn
+ wir werden nur einmal handeln.
+ 
+ Ein Wohltäter
+
+Message:  1013
+_contact_,
+ 
+ ich würde mich sehr gerne mit Euch über
+ Eure faszinierenden Studien der Opfer
+ des Mörders unterhalten. Wie Ihr wisst,
+ habe ich ähnliche Untersuchungen durchgeführt
+ und wäre höchst erfreut, mein Wissen und meine
+ Erkenntnisse mit einem anerkannten Kollegen
+ wie Euch zu teilen.
+ 
+ Lasst mich per Kurier wissen, wie und wo ein
+ ein Treffen am günstigsten für Euch wäre. Ich
+ verweile derzeit in _hookerhouse_,
+ doch vielleicht würdet Ihr ein Treffen im
+ _bookstore_ bevorzugen, sodass ich
+ ebenfalls die besagten Körper begutachten könnte.
+ In jedem Fall sehe ich Eurem Kurier und Eurer
+ Antwort mit großer Vorfreude entgegen.
+ 
+ In aufrichtiger Bewunderung,
+
+ _vamp_
+
+Message:  1014
+ Autopsiebericht für %fn:
+ 
+ Kehle herausgerissen, offenbar
+ unter Einsatz von Gewalt (Mörder
+ ein Verrückter? Einblick in Lobornus
+ Arbeit mit geisteskranken Straftätern
+ im Agryn Gefängnis nehmen).
+ Tod trat augenblicklich ein,
+ keine Anzeichen eines Kampfes 
+ (Mörder kannte das Opfer?
+ Erschien nicht als Bedrohung?) 
+ Halsschlagader vollständig durchtrennt,
+ erheblicher Blutverlust zum Zeitpunkt
+ der Untersuchung (daran erinnern,
+ _qgiver_ darum zu bitten,
+ die Wachen, die den Körper gefunden
+ haben, zur Befragung vorbeizuschicken).
+ 
+ Autopsiebericht für %mn:
+
+ Das Subjekt weist eine ähnliche 
+ Pathologie wie das weibliche Opfer
+ auf. Der Hals wurde gewaltsam
+ herausgerissen, Blutergüsse an den
+ Oberarmen deuten darauf hin, dass
+ das Subjekt von einem extrem starken
+ Mann gepackt wurde (Könnte die Raserei
+ des Mörders übermenschliche Kräfte
+ hervorrufen? Notiz an mich selbst: An
+ Lobornus schreiben, um Forschungsnotizen
+ von einem interessanten Fall zu erhalten,
+ den er auf dem letztjährigen Konklave
+ berichtet hat). Die Blutergüsse deuten
+ auf einen Zeitraum zwischen dem Angriff
+ und dem Tod hin (Könnten sie nicht mit
+ dem Angriff in Zusammenhang stehen?
+ Hintergrund des Opfers überprüfen).
+
+Message:  1015
+Also, _contact_ hat ganze Tage
+mit diesen von Maden zerfressenen Kadavern
+verbracht und alles, was %g vorzuweisen hat,
+ist das. %god, bei solchen Ergebnissen
+wird _contact_ Wochen brauchen,
+bis %g auch nur eine Vermutung über die
+Identität des Mörders anstellen kann.
+Hört zu, %pcf, wenn Ihr _qgiver_
+helfen wollt, bringt diese Blume hier zu
+_widow_ in __widow_ -- %g
+ist die Schwester von %mn, einem
+der Opfer des Mörders. Das mag zwar wie
+eine banale Sentimentalität erscheinen,
+aber es wird Euch der Ergreifung des
+%cn-Mörders näher bringen, als jede
+von _contact_s wissenschaftlichen
+Katalysen. Vertraut mir, %pcf.
+
+Message:  1016
+_vamp_ ist der =vamp_, den ich drüben im _hookerhouse_ getroffen habe. Scheint nett zu sein, wenn auch etwas gespenstisch.
+<--->
+_vamp_ ist der Name von diesem =vamp_, der drüben im _hookerhouse_ wohnt.
+
+Message:  1017
+_vamp_ ist einer von den %vcn. %g wurde nach %cn geschickt, um den verrückten Mörder unschädlich zu machen.
+<--->
+_vamp_ ist ein %vcn Vampir und hier, um ein Risiko für ihre Sicherheit auszuschalten, den Mörder.
+
+Message:  1018
+Die arme _widow_ wohnt im __widow_, seit der Mörder ihren Bruder erwischt hat.
+<--->
+Der %reg-Mörder hat _widow_s Bruder getötet, und jetzt verlässt %g __widow_ nicht mehr.
+
+Message:  1019
+Eine Mohnblume? Oh, Ihr müsst der Freund
+meines Bruders sein, _rippername_,
+ja? Ich bin Euch überaus dankbar für die
+tröstenden Worte, die Ihr mir nach seinem
+bedauerlichen Ableben übermittelt habt. Er
+hatte nur wenige Freunde, und ehrlich gesagt,
+hat er Euren Namen nie erwähnt. Dennoch danke
+ich Euch von Herzen für die prächtigen Blumen
+und die freundliche Einladung, Euch in
+_ripperhouse_ zu besuchen. Ich habe
+dieses Anwesen stets bewundert und würde es
+gerne von innen sehen.
+ 
+Wie bitte, Ihr seid nicht _rippername_?
+Oh, das betrübt mich sehr. Bitte verzeiht
+mir, ich bin seit dem Verlust meines Bruders
+nicht mehr ganz bei mir...  Nein, ich fürchte,
+ich habe keine Informationen, die Euch bei
+der Suche nach diesem mörderischen Teufel
+helfen könnte. Glaubt mir, ich würde Euch
+unterstützen, wenn ich könnte. Aber Ihr
+werdet doch sicher den Unmenschen finden, der
+meinen Bruder ermordet hat, oder?
+
+Message:  1020
+%qdat:
+ Ich bin auf der Spur nach dem
+ Mörder von %cn. %rt _qgiver_
+ will, dass der %cn-Mörder innerhalb
+ von =total_ Tagen gefangen ist,
+ bevor die Morde das Volk zu einem
+ Aufstand anstacheln. _qgiver_
+ beschäftigt einen Wissenschaftler, der
+ Untersuchungen an den Opfern des
+ Mörders durchführt und seit Kurzem
+ Morddrohungen erhält, anscheinend vom
+ Mörder selbst. _contact_ ist
+ der Name dieses Wissenschaftlers und %g
+ arbeitet vom _bookstore_ aus.
+
+Message:  1021
+%qdat:
+ _contact_ hat mich zum
+ _hookerhouse_ geschickt, um dort
+ einen alten Kollegen namens _vamp_
+ zu treffen, der unter Umständen in der
+ Lage ist, mich bei den Nachforschungen
+ zu unterstützen.
+
+Message:  1022
+%qdat:
+ Ich bin zu spät im _bookstore_
+ eingetroffen. Offenbar waren die
+ Morddrohungen an _contact_ ernst
+ gemeint. Unter den Briefen  war
+ einer von einem Kollegen, der sich
+ an einem Treffen mit _contact_
+ interessiert zeigte, jemandem namens
+ _vamp_, zu finden im
+ _hookerhouse_.
+
+Message:  1023
+%qdat:
+ Ich habe mich mit _vamp_ getroffen,
+ der von der Arbeit seines Kollegen
+ _contact_ über die Opfer des 
+ %reg-Mörders wenig beeindruckt
+ zu sein scheint. _vamp_ trug mir
+ auf, eine Mohnblume zu jemandem namens
+ _widow_ zu bringen, deren Bruder
+ vom Mörder getötet wurde. Ich habe
+ einen Verdacht, aber ich werde mir
+ nicht sicher sein können, bis ich
+ nicht __widow_ aufgesucht habe,
+ wo _widow_ lebt.
+
+Message:  1024
+%qdat:
+ Der Kollege des verstorbenen _contact_s
+ und sein Mörder sind ein und dieselbe Person.
+ _vamp_ ist ein Vampir, versichert mir
+ aber, nicht der Mörder zu sein. %g hat mir
+ außerdem eine Belohnung versprochen,
+ scheinbar zusätzlich zu der Belohnung, die
+ ich von _qgiver_ bekommen würde,
+ wenn ich die Person töte, von der %g behauptet,
+ der %reg-Mörder zu sein, _rippername_
+ von _ripperhouse_.
+
+Message:  1025
+%qdat:
+ _widow_, die =widow_,
+ zu der mich _vamp_ geschickt hat,
+ hielt mich für jemanden namens _rippername_.
+ Dieser _rippername_ hat _widow_
+ anscheinend ein Mohnblumen-Bouquet geschickt
+ und sie zu sich an einen Ort namens
+ _ripperhouse_ eingeladen. Klingt wie
+ eine Falle des Mörders wie sie im Buche steht.
+
+Message:  1026
+Welcher der Briefe hat Euch zu mir geführt,
+%pcn? Es ist Euch möglicherweise bewusst,
+dass ich sie alle geschrieben habe. Als
+_contact_ sich weigerte, meinen höflichen
+Warnungen über die Untersuchung von Tatbeständen,
+die über menschliches Verständnis hinausgehen,
+Gehör zu schenken, habe ich ihn als Freund
+hierher eingeladen. Ich kannte ihn, wisst Ihr,
+vor vielen Jahren, bevor ich ein Vampir wurde.
+Wir haben uns getroffen und sind gemeinsam zurück
+zum _bookstore_ gegangen, um die Körper
+zu betrachten Dort habe ich ihn getötet, völlig
+schmerzlos. Ich erkannte, dass %g seine Studien
+niemals eingestellt hätte. Mehr als das kann ich
+Euch nicht sagen, außer dass der Mörder, wie
+ich, ein Vampir ist, jedoch durch den Segen der
+Unsterblichkeit in den Wahnsinn getrieben wurde. 
+_rippername_ ist der wahre Name des Mörders
+und %g lebt im _ripperhouse_. Wenn Ihr
+dorthin geht und ihn für mich erschlagt, werde ich
+Euch reichlich belohnen. Solltet Ihr beabsichtigen,
+_contact_s Studien fortzuführen, werde
+ich keine andere Wahl haben, als Euch ebenfalls zu töten. Das ist mein simples Angebot.
+
+Message:  1027
+_contact_ ist ein durchaus gut belesener Wissenschaftler, drüben im _bookstore_, %di von hier.
+<--->
+_contact_ ist ein =contact_, der vom _bookstore_ aus arbeitet.
+
+Message:  1028
+_contact_ seziert die Opfer des Mörders und irgendjemandem missfällt das.
+<--->
+_contact_ ist ein Wissenschaftler im _bookstore_, der Drohbriefe erhalten hat.
+
+Message:  1050
+Indem Ihr _rippername_ getötet habt,
+habt Ihr sowohl %reg als auch mir
+selbst geholfen. Dafür gebe ich Euch dieses
+_reward2_. Vielleicht treffen wir
+uns eines Tages erneut, %pcn.
+Ihr habt mich wahrlich fasziniert, in
+unserer kurzen Bekanntschaft. Möge die
+Nacht Euch beschützen.
+

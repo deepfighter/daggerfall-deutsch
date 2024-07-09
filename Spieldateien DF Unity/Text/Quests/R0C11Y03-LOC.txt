@@ -1,0 +1,133 @@
+Quest: R0C11Y03
+DisplayName: Der Herzlose Daedra
+QRC:
+
+QuestorOffer:  [1000]
+Ich habe einen Bekannten, einen begabten
+Alchemisten namens _chemist_, der an
+einem wichtigen Projekt für mich arbeitet.
+%g braucht allerdings noch eine eher seltene
+Ingredienz, um es fertigzustellen -- das
+Herz eines Daedra. Ich werde Euch nicht
+belügen; die Daedra wollen dieses Herz
+zurück es könnte sein, dass Ihr auf einige
+von Ihnen stoßen werdet. Seid Ihr gewillt
+dieses Risiko für eine angemessen großzügige
+Belohnung einzugehen?
+
+RefuseQuest:  [1001]
+Ich bin enttäuscht, aber ich kann nicht sagen,
+dass ich Euch nicht verstehe. Sich freiwillig
+für einen Auftrag zu melden, der Daedra
+betrifft, verlangt sicherlich mehr Mut und
+Tapferkeit, als gemeinhin in den meisten
+%ra-Abenteurern zu finden ist.
+
+AcceptQuest:  [1002]
+Ihr macht es? Dann viel Glück. Hier ist das Herz
+des Daedra. Wenn es nicht innerhalb von =1stparton_ Tagen
+in den Händen meines Freundes _chemist_ ist, wird
+es zu alt sein, um verwendet zu werden. Nachdem
+Ihr es übergeben habt, kehrt für Eure Belohnung
+zurück. Viel Glück und gute Reise!
+
+QuestFail:  [1003]
+Glaubt Ihr wirklich, ich wüsste nicht, dass Ihr
+das Herz des Daedra nicht zu meinem Alchemisten
+gebracht habt? Ich hoffe, Ihr erwartet keine
+Belohnung für Euer offenkundiges Versagen.
+Ohne ein frisches Daedraherz verzögert sich die
+Fertigstellung des Projekts erneut. Ach, fahrt
+doch ins Reich des Vergessens!
+
+QuestComplete:  [1004]
+Herausragende Arbeit, %pcf. Ich wusste,
+dass diese Daedra Euch nicht aufhalten würden.
+Eure überragenden Fähigkeiten wurdne gebührend
+zur Kenntnis genommen. Ich danke Euch und hier
+sind _reward_ Goldstücke, die wir vereinbart hatten.
+
+RumorsDuringQuest:  [1005]
+Düstere Omen wurden am Himmel beobachtet. Die daedrischen Sterne leuchten hell.
+<--->
+Die Kabale in der Magiergilde sagen, dass die Daedra heute Nacht aktiv sind.
+
+RumorsPostfailure:  [1006]
+Die Daedra scheinen, den astrologischen Zeichen zufolge, zufriedengestellt.
+<--->
+Ich meinte fast, Schwefel in der Luft riechen zu können, aber es scheint jetzt verschwunden zu sein.
+
+RumorsPostsuccess:  [1007]
+Schein ordentlich was los zu sein im Geschäft von _chemist_. Ein großes Experiment soll dort im Gange sein, sagt man.
+<--->
+_questgiver_ ist sehr zufrieden mit einem überraschend zuverlässigen %ra-Söldner.
+
+QuestorPostsuccess:  [1008]
+Und was kann ich für meinen tapferen, jungen %ra tun?
+<--->
+Seid gegrüßt, Held. Ich hoffe, Ihr macht Euch keine Sorgen, dass die Daedra einen Groll gegen Euch hegen.
+
+QuestorPostfailure:  [1009]
+Ich war enttäuscht über Euer Scheitern, das Herz
+des Daedra zu überbringen. Ich nehme an, Ihr
+dachtet, ich hätte es vergessen. Das ist die
+einzige Erklärung für Eure Entscheidung, an
+diesen Hof zurückzukehren.
+
+QuestLogEntry:  [1010]
+Oh, fantastisch. Ein herausragendes Aortas Daedrae,
+mit minimaler Zersetzung. Macht Euch jetzt auf den
+zurück zu _questgiver_, %pcf,
+und beeilt Euch besser. %g hat für gewöhnlich den
+Kopf voll und wenn Ihr nicht innerhalb von =2ndparton_ Tagen
+zurück seid, könnte %g vergessen, dass Ihr überhaupt
+aufgebrochen seid.
+
+Message:  1011
+_chemist_? Er scheint eine Art =chemist_ zu sein? Ich glaube, %g ist %di von hier.
+<--->
+Es gibt da einen Alchemisten namens _chemist_, der für _questgiver_ arbeitet, %di von hier.
+
+Message:  1012
+_questgiver_? Nun, %g ist ein Adliger. Seit kurzem ist er in einige daedrische Aktivitäten verwickelt.
+<--->
+_questgiver_ ist ein Adliger, %di von hier.
+<--->
+Wie viele andere Adlige hat _questgiver_ etwa ein Dutzend Projekte am Laufen.
+<--->
+_questgiver_ setzt viel Vertrauen in die Alchemie, wie es viele Adlige tun.
+
+Message:  1013
+Ein Daedraherz. Es verdirbt nie, aber einige Rezepte verlangen, dass es frisch ist.
+<--->
+Das Herz eines Daedra. Nicht gerade das, was Daedra gerne in den Händen der Sterblichen sehen.
+
+Message:  1015
+%qdt: 
+ _questgiver_
+ von ___questgiver_
+ hat mich gebeten, das Herz
+ eines Daedra zu %g3 Alchemisten
+ in __chemist_ von ___chemist_
+ zu bringen. Dieser Alchemist ist
+ ein =chemist_ namens _chemist_,
+ und wenn ich es schaffe, trotz
+ aller Daedra, die mich aufhalten
+ wollen, innerhalb von =1stparton_ Tagen
+ dorthin zu gelangen, wird _questgiver_
+ mir bei meiner Rückkehr nach __questgiver_
+ meine Belohnung geben.
+
+Message:  1020
+Der Daedra zischt:
+
+   "%pcn, Ihr mischt Euch in
+   Angelegenheiten ein, die über Euer
+   Verständnis hinausgehen. Ja, Euer
+   Name ist uns nun bekannt. Und wir
+   werden nicht ruhen, bis sich das
+   Herz unseres Bruders wieder in
+   unseren Händen befindet. Bereitet
+   Euch darauf vor, Euer Schicksal
+   zu erfüllen, Sterblicher..."
+

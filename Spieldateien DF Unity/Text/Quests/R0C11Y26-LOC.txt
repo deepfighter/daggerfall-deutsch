@@ -1,0 +1,272 @@
+Quest: R0C11Y26
+DisplayName: Der Irre Schlitzer
+QRC:
+
+QuestorOffer:  [1000]
+%pcn, ein Wahnsinniger, den
+man den %reg-Schlitzer nennt,
+terrorisiert die Stadt ___qgiver_,
+und meine Wachen und die Gesetzeshüter
+sind ihm ratlos ausgeliefert. Sie
+haben keinerlei Hinweise auf seine
+Identität. Ich weiß, dass Ihr über
+nicht unbedeutente Mittel verfügt
+und so manch unüblichen Kontakt pflegt.
+Könntet Ihr versuchen, mir in dieser
+Angelegenheit zu helfen, zum Wohle
+von ganz %reg -- und für
+eine beträchtliche Summe Gold?
+
+RefuseQuest:  [1001]
+Eine nicht ungewöhnliche Reaktion.
+Dann bleibt mir wohl nichts anderes
+übrig, als einige meiner weniger
+angenehmen Kontakte um Hilfe zu
+bitten -- eine Option, die ich zu
+vermeiden hoffte.
+
+AcceptQuest:  [1002]
+Ihr seid ein wahrer Freund, %pcf.
+Die Menschen in %reg werden aufgrund
+des mangelnden Fortschritts bei den
+offiziellen Ermittlungen unruhig.
+Die Situation wird immer brisanter,
+und die Menschen haben Angst davor,
+dass der Schlitzer sie als Nächstes
+ins Visier nimmt. Ich befürchte, dass
+wir bald einen Aufstand haben werden,
+möglicherweise bereits innerhalb der
+nächsten =total_ Tage, vielleicht sogar
+früher. Die einzige andere Person, die
+ich in dieser Sache inoffiziell zu den
+Ermittlungen hinzugezogen habe, ist
+_contact_, ein örtlicher Gelehrter, der
+einige der Briefe analysiert hat, die
+mir zugeschickt wurden. Geht zuerst zu
+_bookstore_ und sprecht mit %g2, um
+den Fortschritt zu überprüfen. Wenn Ihr
+dieses Rätsel nicht lösen könnt, dann
+möge %god uns allen helfen.
+
+QuestFail:  [1003]
+Der %reg-Schlitzer ist immer
+noch auf freiem Fuß. Ich habe keine
+Zeit zum Plaudern, und Ihr solltet
+es auch nicht.
+
+QuestComplete:  [1004]
+Der Frieden in ___qgiver_ ist wiederhergestellt.
+%pcf, dank Euch. Hier sind die versprochenen
+_reward_ Goldstücke -- ich gebe sie gerne für das
+Ende dieses Wahnsinnigen. %god hat uns
+wahrlich gesegnet, als Ihr nach %reg
+gekommen seid.
+
+RumorsDuringQuest:  [1005]
+Auf den Straßen von %cn ist es nicht mehr sicher. Nicht mit dem %reg-Schlitzer.
+<--->
+Ich habe gehört, der %reg-Schlitzer sei gar kein Mensch, sondern ein Daedra, gekommen um uns alle zu bestrafen.
+<--->
+Das letzte Opfer des %reg-Schlitzers wurde in kleinen Stücken über ganz %cn verstreut.
+<--->
+Manche fragen sich, ob der %reg-Schlitzer vielleicht ein Vampir oder Werwolf ist.
+
+RumorsPostfailure:  [1006]
+Die Morde haben aufgehört, ohne dass wir einen Mob brauchten. Ich schätze, der Schlitzer ist weitergezogen.
+<--->
+_qgiver_ kann von Glück reden, dass der %reg-Schlitzer beschlossen hat weiterzuziehen. Die Leute sind langsam panisch geworden.
+
+RumorsPostsuccess:  [1007]
+Ich kann einfach nicht glauben, dass _rippername_ der %reg-Schlitzer war -- %g war so ruhig und freundlich.
+<--->
+%oth, sie sagen, sie hätten einen Berg von Schädeln unter dem Haus von _rippername_ gefunden.
+<--->
+_rippername_, soll ein Einzelgänger gewesen sein, der meist für sich allein blieb. Typisch.
+
+QuestorPostsuccess:  [1008]
+Ich habe immer Zeit für den %ra, der das Rätsel um den %reg-Schlitzer gelöst hat, %pcf.
+<--->
+Wenn Ihr nicht gewesen wärt, würde der Schlitzer von %reg uns immer noch terrorisieren. Was kann ich für Euch tun?
+
+QuestorPostfailure:  [1009]
+Ihr habt Glück, dass der %reg-Schlitzer
+weitergezogen ist. Andernfalls wäre ich
+sehr wütend auf Euch. Tatsächlich bin ich
+wütend auf Euch. Verschwindet, %pcf.
+
+QuestLogEntry:  [1010]
+Gutes Timing, %pcf. Ich war
+gerade dabei, jemanden im _hookerhouse_
+zu treffen, der vielleicht etwas Licht in
+diese Angelegenheit bringen könnte. Eine
+=hooker_ namens _hooker_. Offen gesagt, eine
+Metze, aber eine, deren Name aus der Anrede
+eines der Briefe, die _qgiver_ erhalten hat.
+Vielleicht schrieb der Schlitzer einen
+Brief an _hooker_ und hat es sich dann
+anders überlegt. Wenn dem so ist, könnte %g
+einen Verdacht über die Identität des Schlitzers
+haben. Es ist einen Versuch wert. Warum geht
+Ihr nicht mit dem Brief zum _hookerhouse_
+und seht nach?
+
+Message:  1011
+_qgiver_,
+
+ der letzte war So LECKER, 
+dass ich sogaR einen BiSSSen genommen habe.
+Eur GAnze Familie sieht auch köstlich aus
+-- vielleicht besucht Euch der Schlitzer
+als Nächstess. Schlitzen und AUFschlitzen und
+dann ein bisschen mehr AUFSCHLITZEN, um die
+reknung zu begleCHn.
+ 
+Mit freuntlichen Gürße
+Der %reg-Schlitzr
+
+Message:  1012
+_qgiver_,
+ 
+ fant mich, wenn ihr KÖNNT,
+ kann sein, das du dich um dein
+ %reg, scherst jez, wo es
+ in BLUT getränkt ist.
+ 
+ Eur Fruend,
+ Der %reg-Schlitzr
+
+Message:  1013
+_contact_,
+ 
+     ich würde mich freuen, mich
+ mit Euch zu treffen, entweder bei
+ Euch oder mir, wegen meines verrückten
+ Bewunderers. Ich habe einen Brief,
+ den mir jemand geschickt hat, der
+ hilfreich sein könnte.
+ 
+ Hochachtungsvoll
+ _hooker_
+
+Message:  1014
+_hooker_,
+ 
+ Ihr habt gesagt, Ihr würdet meine
+ Fruendin sein, aber als ich Euch auf
+ der Straße sah, habt Ihr so getan,
+ als würdet Ihr mich nicht sehen.
+
+ Ihr wollt mich doch nicht wieder
+ wütend machen, oder
+ 
+ _rippername_
+
+Message:  1015
+Ihr arbeitet mit _contact_,
+nicht wahr, %pcf? Nun, %g
+war an diesem Brief interessiert,
+den ich letzte Nacht erhielt.
+_rippername_ war ein Kunde
+von mir, mit wirklich verrückten
+Ideen von einer guten Zeit. Ein
+paar wirklich verrückte Ideen
+im Allgemeinen. Ich hatte irgendwie
+Mitleid mit %g2, aber hauptsächlich
+machte er mir jedoch Angst vor %g2,
+also habe ich ihn wohl denken lassen,
+ich würde %g2 mögen. Natürlich bekomme
+ich jetzt Briefe wie diesen. Ich denke,
+%g könnte sehr wohl der %reg-Schlitzer
+sein. %g lebt in _ripperhouse_,
+wenn Ihr %g2 ihn wirklich treffen wollt.
+
+Message:  1016
+_hooker_ ist eine gewöhnliche Prostituierte. Nur %di von hier, wenn Ihr interessiert seid.
+<--->
+_hooker_ ist nichts weiter als eine billige Metze. %di, wenn Ihr nach Ihr sucht.
+
+Message:  1017
+_hooker_ hing früher mit einem Charakter namens _rippername_ herum. Ein unheimlicher Typ.
+<--->
+_hooker_ weiß alles über den Schlitzer. Fragt %g3 nach _rippername_ -- ekelhafter Typ.
+
+Message:  1020
+%qdat:
+ Ich bin in ___qgiver_ angekommen
+ und habe mich mit _qgiver_ wegen
+ des rätselhaften %reg-Schlitzers
+ getroffen. %g möchte, dass der
+ Schlitzer in =total_ Tagen gefasst
+ wird, bevor ganz ___qgiver_ zu
+ einem wütenden Mob wird. Meine
+ einzige Spur ist ein Gelehrter
+ namens _contact_, der die Briefe
+ des Schlitzers hat. _contact_
+ arbeitet im _bookstore_.
+
+Message:  1021
+%qdat:
+ _contact_ hat mich zum 
+ _hookerhouse_ geschickt, um eine
+ Prostituierte namens _hooker_ zu
+ treffen, die möglicherweise Informationen
+ über den Schlitzer hat.
+
+Message:  1022
+%qdat:
+ Der %reg-Schlitzer hatte ein Treffen
+ mit _contact_, bevor ich dort ankam.
+ Einer der Briefe, die ich in __contact_
+ fand, war von jemandem namens _hooker_,
+ die sich mit _contact_ wegen eines
+ "verrückten Bewunderers" treffen wollte.
+ Ich muss herausfinden, wo sie sich aufhält.
+ Und diesmal werde ich früher dort sein
+ müssen.
+
+Message:  1023
+%qdat:
+ _hooker_ erzählte mir von einem Ihrer
+ Kunden, der verrückt genug war, um der
+ Schlitzer sein zu können. Sein Name
+ lautet _rippername_, und er wohnt in
+ _ripperhouse_. Ich hoffe, das wird
+ nicht der letzte Eintrag sein, den ich
+ jemals schreiben werde.
+
+Message:  1024
+%qdat:
+ _hooker_s Bewunderer hat Ihr anscheinend
+ vor mir seine Aufwartung gemacht. In Ihrem
+ Haus fand ich jedoch einen Brief von jemanden
+ namens _rippername_. Klang ungebärdig
+ genug, um unser Schlitzer zu sein. Jedenfalls
+ eine genauere Untersuchung wert.
+
+Message:  1025
+_contact_ ist ein belesener Gelehrter drüben in _bookstore_, %di von hier.
+<--->
+_qgiver_ wird gelegentlich von _contact_ über gewisse Aspekte des menschlichen Geistes unterrichtet.
+
+Message:  1026
+_contact_ ist ein alter Narr, der eines Tages bei der Verfolgung des Schlitzers noch Ärger bekommen wird.
+<--->
+_contact_ ist ein Weiser in _bookstore_, beunruhigend tief in die Angelegenheiten, um den Schlitzer verwickelt.
+
+Message:  1040
+_rippername_? Ihr findet ihn vermutlich drüben in _ripperhouse_.
+<--->
+Ich weiß nicht viel über _rippername_. Bleibt hauptsächlich für sich.
+<--->
+_rippername_ ist dieser nette junge Mann, der in _ripperhouse_ lebt.
+
+Message:  1041
+Nun, er scheint halbwegs normal zu sein, aber ich habe ein paar Geschichten über ihn gehört, die Euch vielleicht anders denken lassen.
+<--->
+Er ist nett, aber ein wenig seltsam, wisst Ihr? Manchmal fragt man sich, ob er noch ganz bei Sinnen ist.
+
+Message:  1050
+Ich habe dich mit meiner Freundin gesehen!
+Jetzt werdet Ihr beide gemeinsam aufgeschlitzt,
+weil ihr Euch so sehr habt!
+

@@ -1,0 +1,111 @@
+Quest: R0C11Y16
+DisplayName: Spionageausrüstung
+QRC:
+
+QuestorOffer:  [1000]
+Falls Ihr ein paar Tage erübrigen könnt
+und nichts dagegen habt, _reward_ Goldstücke
+reicher zu sein, habe ich eine Mission,
+für Euch, die Schnelligkeit und Feingefühl
+erfordert.
+
+RefuseQuest:  [1001]
+Nein? Ich hatte nicht erwartet,
+dass Ihr _reward_ Gold für ein paar
+Tage Arbeit ausschlagen würdet. Wie
+viele Bauern würden dafür morden?
+Nun gut. Euer Leben, Eure Entscheidung.
+
+AcceptQuest:  [1002]
+Ausgezeichnet, %pcf.
+Ich habe einen Spion, _npc1_
+in __npc1_, der ein Teleskop
+benötigt, um %g3 Überwachungstätigkeiten
+fortzusetzen. Es wurde mir mitgeteilt,
+dass %g etwas von Interesse für einen
+gemeinsamen Freund von uns gefunden hat,
+das ebenfalls geliefert werden muss.
+Hier ist also das Teleskop. Bringt
+es zu einem =npc1_ in einem Ort
+namens __npc1_ in ___npc1_,
+und dort werdet Ihr weitere Anweisungen
+erhalten. Viel Glück, %pcf.
+
+QuestFail:  [1003]
+Hier herumzulungern wird Euch nicht
+wohlhabender machen, %pcf.
+
+QuestComplete:  [1004]
+Ihr müsst %pcn sein.
+_npc1_ sagte mir, dass
+ich Euch erwarten soll. Ich bin
+_npc2_. Lasst mich einen
+Blick auf dieses Relikt werfen.
+Sehr interessant in der Tat. Nun, hier
+sind Eure _reward_ Goldstücke. Ihr habt
+mich nie gesehen, verstanden?
+
+RumorsDuringQuest:  [1005]
+Wenn _questgiver_ wirklich ein Spionagenetzwerk hat, muss es ziemlich gut versteckt sein.
+<--->
+Es wird gemunkelt, dass _npc1_ ein Spion sei, aber %g verlässt __npc1_ nie.
+
+RumorsPostfailure:  [1006]
+Es stellt sich heraus, dass sie _npc1_ erwischt und %g3 unrechtmäßig erworbene Beute beschlagnahmt haben.
+<--->
+Man sagt, _npc1_ sei ein Spion im Dienst von _questgiver_ gewesen.
+
+RumorsPostsuccess:  [1007]
+Ich habe immer das Gefühl, dass ich überall in ___npc1_ beobachtet werde.
+<--->
+Ich frage mich, ob sie jemals dieses Relikt finden werden, das aus dem Palast gestohlen wurde.
+
+QuestorPostsuccess:  [1008]
+Nun, wenn das nicht mein Lieblingsspion ist. Wie geht es Euch, junger %pcf?
+<--->
+Ich höre, dass das Vorhaben reibungslos verlief. Gut gemacht, %pcf.
+
+QuestorPostfailure:  [1009]
+Diese Aufgabe, auf die ich Euch geschickt
+habe war eher ein Fehlschlag, oder etwa
+nicht? Es gibt nicht wirklich einen
+zwingenden Grund, weshalb ich überhaupt
+mit Euch sprechen sollte, oder?
+
+QuestLogEntry:  [1010]
+Ihr kommt genau richtig, %pcf.
+Erlaubt mir, mich vorzustellen.
+Mein Name ist _npc1_ und
+ich glaube, das ist mein Teleskop,
+das Ihr da habt. _questgiver_,
+nehme ich an, hat Euch gesagt,
+dass ich eine kleine Aufgabe für
+Euch habe. Bringt dieses Relikt zu
+einem =npc2_ in ___npc2_.
+Der Name ist _npc2_ und
+Ihr werdet %g2 bei __npc2_
+finden. Euer Gold wird dort ebenfalls
+auf Euch warten. Ihr solltet Euch
+auf den Weg machen; %g erwartet
+Euch dort in =2ndparton_ Tagen.
+
+Message:  1015
+%qdt:
+ Ein Spion im Dienst von _questgiver_
+ von ___questgiver_ benötigt ein Teleskop
+ und ich wurde gebeten, es zu liefern.
+ Ich habe =1stparton_ Tage Zeit, um zu
+ _npc1_ in ___npc1_ an einem Ort namens
+ __npc1_ zu gelangen. Dort werde ich weitere
+ Anweisungen erhalten.
+
+Message:  1016
+%qdt:
+ Ich habe _npc1_ %g3 Teleskop gegeben
+ und %g hat mich weitergeschickt zu
+ jemandem namens _npc2_ von
+ ___npc2_ mit einem Relikt irgendeiner
+ Art. Ich habe =2ndparton_ Tage Zeit, um
+ zu _npc2_s Ort in ___npc2_,
+ __npc2_ zu gelangen.
+

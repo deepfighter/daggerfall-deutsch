@@ -1,0 +1,95 @@
+Quest: R0C20Y07
+DisplayName: Verschollener Saphir
+QRC:
+
+QuestorOffer:  [1000]
+Ich habe da einen Freund, einen potentiellen
+Verbündeten, der einer diskreten Hilfeleistung
+bedarf. Es handelt sich um eine relativ simple
+Operation zur Wiederbeschaffung verlorenen Guts;
+eine, die mein Freund mit Freuden höchst ansehnlich
+entlohnen würde und ich außerordentlich zu schätzen
+wüsste. Es muesste sehr bald geschehen, innerhalb
+von =1stparton_ Tagen. Ich erkläre Euch die Einzelheiten,
+wenn Ihr interessiert seid.
+
+RefuseQuest:  [1001]
+Nun gut, von Beginn an abzulehnen ist definitiv
+einer Zusage und anschließendem Versagen
+vorzuziehen. Ich bin etwas enttäuscht, aber das
+wird vorübergehen.
+
+AcceptQuest:  [1002]
+Ausgezeichnet, ich wusste, Ihr würdet helfen.
+Nun denn, mein Freund ist _qgfriend_ von
+___qgfriend_. %g hat ein Juwel verloren,
+einen Saphir, und meine Spione haben es geschafft,
+ihn aufzuspüren; in ___itemdung_,
+ausgerechnet. _qgfriend_ braucht diesen Stein,
+weil %g ihn von jemand Dritten geliehen hat.
+Wenn %g ihn nicht innerhalb von =1stparton_ Tagen in
+den Händen hält, nun, dann wird es erhebliche
+Schwierigkeiten geben. Des Weiteren werden die
+Personen, die den Stein jetzt haben, laut meines
+Spions, ___itemdung_ innerhalb
+der nächsten Tage räumen. Offensichtlich wäre es
+am besten, wenn Ihr Euch sofort auf den Weg machen
+würdet, um in =1stparton_ Tagen mit dem Saphir bei
+___qgfriend_ anzukommen. Viel Glück, %pcf.
+Macht mich stolz.
+
+QuestFail:  [1003]
+Der Saphir, %pcf? Habt Ihr
+etwas vergessen? %oth!
+
+QuestComplete:  [1004]
+Oh, %pcf, Ihr wisst ja nicht, wie erleichtert
+ich bin, dass Ihr den Saphir gefunden habt.
+Ich will nicht einmal daran denken, was
+geschehen wäre, hättet Ihr es nicht geschafft.
+Dies ist die erlesenste Belohnung, die ich Euch
+geben kann, ein _reward_. Bitte nehmt sie an,
+mit meinem aufrichtigen Dank.
+
+RumorsDuringQuest:  [1005]
+Diese Diebe in ___itemdung_ haben ein paar ziemlich kräftige Wachen.
+<--->
+_qgfriend_ ist recht nervös in letzter Zeit.
+
+RumorsPostfailure:  [1006]
+Scheinbar hat es ein mächtiger Zauberer auf _qgfriend_ abgesehen.
+<--->
+_questgiver_ hat sich über den Mangel an fähigen %ra-Söldnern beschwert.
+
+RumorsPostsuccess:  [1007]
+Es hat sich herausgestellt, dass _qgfriend_ das Juwel gar nicht gestohlen hatte. Sie haben es gefunden.
+<--->
+_qgfriend_ wurde bereits als Dieb bezeichnet, aber das Juwel, dass %g angeblich gestohlen haben sollte, wurde gefunden.
+
+QuestorPostsuccess:  [1008]
+Mein Freund berichtet, dass Ihr den Saphir zuruükholen konntet. Nun, was kann ich für
+Euch tun?
+<--->
+Ich bin froh, Euch wiederzusehen. Meinem Freund hat das kleine, blaue Geschenk gefallen.
+
+QuestorPostfailure:  [1009]
+Ich bin beeindruckt von Eurer Kühnheit,
+%pcn. Ihr seid mit Eurem Auftrag
+gescheitert und steht dennoch wieder vor
+mir ohne den Saphir.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_
+ von ___questgiver_ hat mich damit
+ beauftragt, einen Saphir zu finden, der
+ einem %g3 Freunde, _qgfriend_ von
+ __qgfriend_, ___qgfriend_,
+ gestohlen wurde. Ich habe =1stparton_ Tage, um
+ den Saphir von ___itemdung_ zu
+ __qgfriend_ zu bringen und meine
+ Belohnung zu verdienen.
+
+Message:  1011
+Ihr habt den Saphir gefunden.
+

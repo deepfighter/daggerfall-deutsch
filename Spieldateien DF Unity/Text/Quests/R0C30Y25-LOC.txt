@@ -1,0 +1,139 @@
+Quest: R0C30Y25
+DisplayName: Die Diebesbande
+QRC:
+
+QuestorOffer:  [1000]
+Ich brauche jemanden, der einen speziellen
+Gegenstand zu einem meiner Kontakte in
+___contact_ bringt. Dort werdet Ihr
+dafür einen anderen Gegenstand erhalten.
+Wenn Ihr diesen Gegenstand zu mir zurückbringt,
+werde ich Euch mit Freuden mit _reward_ Goldstücken
+belohnen. Seid Ihr einverstanden?
+
+RefuseQuest:  [1001]
+Nein? Was für ein Jammer.
+Ich war darauf vorbereitet,
+mich durchaus großzügig zu zeigen.
+
+AcceptQuest:  [1002]
+Sehr gut. Nehmt diesen Goldbarren
+und bringt ihn zu _contact_.
+%g sollte leicht zu finden sein:
+=contact_, hält sich meistens an
+einem Ort namens __contact_ in
+___contact_ auf. Ihr werdet Euch
+beeilen müssen. _contact_ hat
+die Angewohnheit, nicht allzu
+lange auf trödelnde Kuriere zu
+warten. Nun gut, viel Glück Euch,
+%pcf. Ich erwarte Euch innerhalb
+von =1stparton_ Tagen zurück.
+
+QuestFail:  [1003]
+Bitte behelligt mich nicht mehr, bis
+Ihr den Gegenstand abgeholt habt, für
+den ich Euch losgeschickt habe.
+
+QuestComplete:  [1004]
+Ausgezeichnet, %pcf, Ihr seid mit meinem
+verzauberten _item2_ zurückgekehrt,
+wie versprochen. Ich hörte, dass Ihr auf
+dem Weg in Schwierigkeiten geraten seid
+und befürchtete schon, dass wir Euch
+verloren hätten. Als Zeichen meiner
+Anerkennung für die hervorragende Arbeit,
+die Ihr geleistet habt, gebe ich Euch noch
+ein magisches _item3_ zu den _reward_ Goldstücken,
+die ich Euch ursprünglich versprochen habe.
+Ich bin sicher, wir werden Eure Dienste in
+naher Zukunft erneut in Anspruch nehmen.
+Ich danke Euch.
+
+RumorsDuringQuest:  [1005]
+Vor Kurzem war hier ein =contact_; hat mich gefragt, ob ich einen %ra gesehen hätte.
+<--->
+Irgendein =contact_ hat hier vor einer Weile nach einem %ra mit einem _item1_ Ausschau gehalten.
+
+RumorsPostfailure:  [1006]
+Nun ja, _questgiver_ ist, wie ich gehört habe, rasend vor Wut wegen irgendeines %ra-Söldner.
+<--->
+_questgiver_ verlässt sich immer noch auf Söldner und wie ich gehört habe, hat %g sich dabei die Finger verbrannt.
+
+RumorsPostsuccess:  [1007]
+Ich hörte, _questgiver_ hat endlich ein _item2_ bekommen, das %g gebraucht hatte.
+<--->
+_questgiver_ singt wahre Loblieder auf einen gewissen %ra-Söldner.
+
+QuestorPostsuccess:  [1008]
+Und was kann ich für Euch tun, mein mutiger, junger Kurier?
+<--->
+Ich wäre froh, meinem liebsten Kurier zu helfen, wie immer ich kann.
+
+QuestorPostfailure:  [1009]
+Die Lieferung war offensichtlich zu ... kompliziert,
+eh? Ah, die Schalheit der %ra-Jugend.
+Verlasst mich nun, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ von
+ ___questgiver_ hat mich losgeschickt,
+ einen Goldbaren zu einem Geschäftspartner,
+ _contact_ im __contact_,
+ in ___contact_, zu bringen. Innerhalb
+ von =1stparton_ Tagen muss sich das Gold in _contact_s
+ Händen und ich mich wieder in __questgiver_
+ befinden, um meine Belohnung, _reward_ Goldstücke,
+ von _questgiver_ zu erhalten.
+
+Message:  1011
+Fabelhaft, %pcf. Ich liebe Gold
+einfach, Ihr nicht auch? Gut gut, Ihr
+werdet Euren Anteil bekommen, sobald
+Ihr dieses spezielle _item2_
+zurück zu _questgiver_ gebracht
+habt. Ich hoffe, Ihr erinnert Euch noch
+an den Weg zurück nach ___questgiver_.
+
+Message:  1015
+_qgenemy_ ... Ich denke, %g ist von __thievesguild_.
+<--->
+_qgenemy_? Fragt in __thievesguild_ herum. Jemand sollte %g2 dort kennen.
+
+Message:  1016
+_qgenemy_ ist beteiligt an äußerst dubiosen Geschäften in __thievesguild_.
+_thievesguild_, versucht es dort -- %g verbringt die meiste Zeit dort.
+
+Message:  1020
+Während Ihr Euch gegen Euren Angreifer verteidigt,
+spürt Ihr, wie Euch etwas von hinten streift.
+Ihr könnt flüchtig eine davonlaufende Gestalt
+erkennen, bevor Eure Aufmerksamkeit wieder gewaltsam
+auf das Überleben des aktuellen Kampfes gelenkt wird.
+
+Message:  1021
+=thief_,
+ 
+ das Ziel ist ein %ra namens %pcn,
+ der ein _item2_ von __contact_
+ abholen wird. Bringt das _item2_
+ zu mir. Der Kurier ist nicht von Bedeutung,
+ tot oder lebendig.
+ 
+_qgenemy_
+
+Message:  1030
+%oth, wer seid Ihr und wie seid Ihr
+hier hereingekommen?! Ihr müsst dieser
+verdammte Kurier von _questgiver_ sein!
+Ich wusste, ich hätte =thief_ Euch
+töten lassen sollen. Mein weiches Herz,
+es bringt mich immer in Schwierigkeiten ...
+Wachen! Tötet diesen Eindringling!!
+
+Message:  1035
+Das Pergament beschreibt die Lage des
+Hexenzirkels der Gezeiten in Myrkwasa,
+was auch immer das ist.
+

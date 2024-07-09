@@ -1,0 +1,156 @@
+Quest: R0C60Y24
+DisplayName: Vampirgeschäfte
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, es ist immer eine Freude,
+Euch zu sehen, mein lieber Freund,
+ganz besonders wenn ich Eure Hilfe
+benötige. Dieses _item_ muss zu
+meinem Kontakt in ___contact_ gelangen,
+aber mir is zu Ohren gekommen, dass ein
+Vampirstamm nicht möchte, dass mein
+Kurier sein Ziel erreicht. Ihr seid die
+einzige Person, die mir einfällt, die
+dies schaffen könnte. Werdet Ihr es
+versuchen?
+
+RefuseQuest:  [1001]
+Wirklich? Ihr seid wohl zu beschäftigt.
+Das ist bedauerlich.
+
+AcceptQuest:  [1002]
+Ah, wunderbar. Hier ist das _item_.
+Nun, _contact_ muss es innerhalb von
+=queston_ Tagen in ___contact_ erhalten.
+Sucht nach einem =contact_. Ihr könnt
+%g2 nicht verfehlen. Und lasst Euch dabei
+nicht umbringen. Viel Glück und ich danke
+Euch.
+
+QuestFail:  [1003]
+%pcf, Ihr vergeudet kostbare Zeit.
+Begebt Euch sofort auf den Weg nach
+__contact_.
+
+QuestComplete:  [1004]
+Ah, gut, Euch zu sehen, %pcf.
+Und das _item_ auch.
+Hervorragend. Diese Nachtschatten
+waren klug, zu versuchenEs war klug
+von diesen Nachtwandlern, zu versuchen,
+dies nicht in meine Hände fallen zu
+lassen. Hier ist etwas Gold für Eure
+Mühen. Passt auf Euch auf.
+
+RumorsDuringQuest:  [1005]
+Es werden Nachforschungen angestellt über einige Vampirvorfälle nahe __contact_, hörte ich.
+<--->
+_contact_, einer der größten Vampirjäger, hat sich __contact_ angeschlossen.
+
+RumorsPostfailure:  [1006]
+Jemand hat hier kürzlich einen sehr schönes _item_ gefunden.
+<--->
+Ich habe gehört, _questgiver_ ist richtig wütend auf irgendeinen %ra-Abenteurer.
+
+RumorsPostsuccess:  [1007]
+Es scheint sicherer, auf den Straßen in %reg zu sein, ist mir aufgefallen.
+<--->
+Sicher, Vampirangriffe werden seltener. Aber es ist noch zu früh, um übermütig zu werden.
+
+QuestorPostsuccess:  [1008]
+Ich schätze, die Blutsauger haben ihre Lektion gelernt, oder, %pcf? Was kann ich für Euch tun?
+<--->
+Wie ich höre, war die Lieferung erfolgreich. Natürlich überrascht mich das nicht.
+
+QuestorPostfailure:  [1009]
+Waren die Vampire zu viel für Euch,
+%pcf? Grämt Euch nicht – sie
+sind mächtige Widersacher. Jetzt
+ist keine gute Zeit für Gespräche.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ möchte, dass
+ ich ein bestimmtes _item_
+ zu %g3 Kontakt in ___contact_
+ bringe, einem Schamanen namens
+ _contact_ in __contact_.
+ Die örtlichen Vampire scheinen
+ etwas dagegen zu haben, dass
+ ich die Lieferung abschließe,
+ aber ich muss _item_
+ innerhalb von =queston_ Tagen nach
+ ___contact_ bringen, sonst
+ verfällt meine Belohnung.
+
+Message:  1011
+Also, Ihr müsst der tapfere %pcn
+sein. Willkommen in meiner bescheidenen
+Behausung. Als ich erfuhr, dass der
+Angriff von =vampleader_ auf
+Euch fehlgeschlagen ist, dachte ich,
+Ihr würdet mich vielleicht aufsuchen.
+Erlaubt mir, mich Euch vorzustellen –
+ich bin _vampire_ von ==vampire_,
+der ältesten und angesehensten der
+großen Vampir-Blutlinien. Nun, ich erkenne
+an, dass Ihr eingestimmt habt, ein gewisses
+_item_ zu diesem notorischen Henker
+_contact_ zu bringen. Wir ==vampire_
+würden es wesentlich lieber sehen, würdet
+Ihr diese Lieferung stattdessen zu mir
+bringen. Eine rein semantische Differenz,
+findet Ihr nicht auch? Besonders da wir
+bereit sind, Euch mit _vampreward_ Gold plus
+einen magischen _vampitem_ als Bonus zuerst
+entlohnen. Was sagt Ihr zu diesem höchst
+großzügigen Angebot?
+
+Message:  1012
+Wunderbar. Der aufstrebende %ra-Abenteurer
+trifft eine weise Entscheidung eines Seitenwechsels.
+_questgiver_ wird nicht erfreut sein, doch %g
+sollte sich lieber daran gewöhnen Enttäuschungen
+lieben zu lernen. Es war ein Vergnügen, Geschäfte
+mit Euch zu machen. Vielleicht werden wir uns eines
+Tages wiedersehen, unter ... intimeren ... Umständen.
+
+Message:  1013
+Eure Loyalität zu _questgiver_ ist
+rührend, aber leider für uns beide unvorteilhaft.
+Ihr könnt jetzt gehen, %pcf. Ach,
+übrigens, schlaft nicht zu tief in der Nacht. Die ==vampire_ begleichen immer Ihre Schulden.
+
+Message:  1015
+_contact_ führt einen reglerechten Kreuzzug an, um die Vampire aus %reg zu vertreiben.
+<--->
+Manchmal frage ich mich, ob all die Leute, die _contact_ auf dem Scheiterhaufen verbrannt hat, wirklich Vampire waren. Es ist schwer zu glauben, dass es so viele gibt.
+
+Message:  1030
+Das Pergament zeigt den Standort des
+Kykos-Hexenzirkels in Dak'fron, was
+auch immer das sein mag. Ihr vermerkt
+die Position schnell auf Eurer Karte.
+
+Message:  1040
+=vampleader_,
+ 
+ dieser dreifach-verfluchte _questgiver_ hat
+ nun schließlich das _item_ erlangen können,
+ nach dem %g gesucht hat und lässt es zu es
+ _contact_ zu überbringen. Ihr wisst so gut
+ wie ich, dass die ==vampire_ es nicht zulassen
+ dürfen, dass dieser ankommt. _questgiver_
+ erwartet, dass wir versuchen werden, %g2
+ aufzuhalten, also sucht einen %ra namens
+ %pcn, der als Kurier fungieren soll.
+ Unterschätzt diesen Gegner nicht – %pcf
+ hat einen ziemlich guten Ruf. Bringt das _item_
+ unverzüglich zu mir – ich werde im _vamphouse_
+ in __vamphouse_ auf Euch warten.
+ 
+                       Euer im Tode,
+ 
+                            _vampire_
+
