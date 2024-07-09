@@ -90,7 +90,7 @@ QuestorPostsuccess:  [1008]
 Ich erinnere mich noch an Euch, %pcf, und Euer Taktgefühl, dass Ihr mit dem %cn-Mörder bewiesen habt.
 
 QuestorPostfailure:  [1009]
-Ihr habt mich in der Aff#re um den
+Ihr habt mich in der Affäre um den
 %cn-Mörder enttäuscht,
 %pcf. Und ich sehe keinen Grund
 zu der Annahme, dass Ihr mich nicht
@@ -365,7 +365,8 @@ und %g lebt im _ripperhouse_. Wenn Ihr
 dorthin geht und ihn für mich erschlagt, werde ich
 Euch reichlich belohnen. Solltet Ihr beabsichtigen,
 _contact_s Studien fortzuführen, werde
-ich keine andere Wahl haben, als Euch ebenfalls zu töten. Das ist mein simples Angebot.
+ich keine andere Wahl haben, als Euch ebenfalls
+zu töten. Das ist mein simples Angebot.
 
 Message:  1027
 _contact_ ist ein durchaus gut belesener Wissenschaftler, drüben im _bookstore_, %di von hier.
