@@ -1,0 +1,132 @@
+Quest: P0B10L07
+DisplayName: Einschüchterung
+QRC:
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called.
+
+QuestComplete:  [1004]
+_knight_ ist halb verrückt
+vor Angst, %pcf.
+Welch Schrecken Ihr doch verbreitet!
+Die %vam sind der Auffassung,
+dass Ihr Euch diesen _jewelry_
+in Anerkennung Eurer Treue und Eurer
+bemerkenswerten ... Selbstbeherrschung
+in dieser Sache verdient habt.
+Gut gemacht, Blutsverwandter.
+
+RumorsDuringQuest:  [1005]
+Wenn _knight_ sich nicht vorsieht, werden sich diese Vampire gegen %g2 wenden.
+<--->
+_knight_ denkt, %g versteht etwas von Vampiren. Aber %g ist ein Narr.
+
+RumorsPostfailure:  [1006]
+_knight_ ist über die Bucht gezogen, aber %g behält die Vampire im Auge.
+<--->
+_knight_ fürchtet sich nicht vor Vampiren. Hat tausende davon getötet, habe ich gehört.
+
+RumorsPostsuccess:  [1007]
+_knight_ wurde die Lektion %g3 Lebens erteilt. Es lohnt sich nicht, Vampire zu bekämpfen.
+<--->
+_knight_ war ein eingebildeter Wichtigtuer. Lasst die Vampire einfach in Ruhe, sage ich.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called.
+
+QuestLogEntry:  [1010]
+              __vamp_
+               ___vamp_
+ 
+ 
+ Grüße %pcn,
+ 
+     die %vam brauchen Euch.
+ Kommt unverzüglich.
+ 
+ 
+               Euer im Tode,
+ 
+ 
+               _vamp_
+
+Message:  1011
+Ah, guten Abend, mein Blutsverwandter.
+Wir haben Schwierigkeiten mit einem
+lokalen Kriegsherrn, der es trotz
+unserer vielen, vielen höflichen
+verbalen und schriftlichen Drohungen
+weiterhin wagt, einen Krieg gegen die
+%vam zu führen. Für gewöhnlich
+würde dieser lästige Ritter schon
+seit Wochen im Jenseits verweilen.
+Aber unsere Nachsicht rührt nicht von
+Empfindlichkeit her. Wir könnten
+_knight_ als Verbündeten
+in %reg brauchen, aber %g2 muss
+gehorsam beigebracht werden.
+ 
+Ich möchte, dass Ihr mit %g2 in
+___mondung_ sprecht, dort, wo
+%g sich am sichersten fühlt. Tötet
+%g3 nicht - mischt %g3 nur etwas auf.
+Ich erwarte Euch innerhalb von =queston_ Tagen
+zurück, nachdem Ihr _knight_ ...
+erweicht habt.
+
+Message:  1012
+%qdt:
+ Ich habe einen Brief von
+ _vamp_ von den %vam
+ erhalten. Ich werde so schnell
+ wie möglich im ___vamp_
+ in __vamp_ gebraucht.
+
+Message:  1013
+%dat:
+ _vamp_ will, dass ich zu einem
+ Ort namens ___mondung_ reise
+ und dort _knight_ zusetze,
+ einem Ritter, der sich dem Willen der
+ %vam zu beugen weigert. Mir wurde
+ befohlen, %g2 nicht zu töten, sondern
+ nur zu erschrecken und innerhalb
+ von =queston_ Tage zurück in
+ ___vamp_ zu sein.
+
+Message:  1014
+Bei %god, sagt den
+%vam, ich mache alles!
+Nur tötet mich nicht!
+<--->
+%oth, ich ergebe mich!
+Ich werde alles tun, was
+sie wollen, nur bitte, im Namen
+von %god, tötet mich nicht!
+
+Message:  1015
+_knight_ ist tot.
+_vamp_ wird nicht
+erfreut sein.
+
+Message:  1016
+Ich habe es schon gehört, %pcf.
+Ihr habt _knight_ umgebracht,
+obwohl ich Euch ausdrücklich gesagt
+gesagt habe, %g2 nur Angst einzujagen.
+%oth, Ihr seid nicht besser
+als ein Schlägertyp, stimmt's?
+Die %vam und ich sind sehr
+enttäuscht, %pcf.
+
+Message:  1017
+Ein bleicher, junger Knabe händigt Euch
+einen Brief aus, bevor er mit überraschender
+Wendigkeit davonhuscht.
+

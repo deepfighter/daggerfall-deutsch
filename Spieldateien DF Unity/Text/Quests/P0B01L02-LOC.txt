@@ -1,0 +1,108 @@
+Quest: P0B01L02
+DisplayName: Das Vampirrelikt
+QRC:
+
+QuestorOffer:  [1000]
+Seid gegrüßt %pcf,
+ 
+     Wir haben eine kleine Aufgabe für Euch, um Eure
+ Entschlossenheit, einer der unsrigen zu sein, unter
+ Beweis zu stellen. Ein _vamprelic_, das uns
+ gehört, wird in der Magiergilde von __itemdung_
+ wie ein paar trivialer Inkunabeln aufbewahrt.
+ Befreit es innerhalb von =1stparton_ Tagen aus seinem
+ Gefängnis. Sie planen, es dann an einen besser
+ gesicherten Ort zu schaffen.
+ 
+     Kommt zu mir, sobald Ihr das _vamprelic_ habt.
+ Ich werde =1stparton_ Tage lang im __vampire_
+ in ___vampire_ auf Euch warten. Ich bin leicht zu
+ erkennen, haltet nach einem =vampire_ Ausschau.
+ 
+     Ich freue mich bereits darauf, weniger förmlich
+ Eure Bekanntschaft zu machen, %pcf.
+ Versäumt nicht, mich aufzusuchen.
+ 
+ Im Tode,
+ _vampire_ der %vam
+
+RefuseQuest:  [1001]
+Error: Dagtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Dagtext 1002 Called.
+
+QuestComplete:  [1004]
+Ich bin erfreut, Euch endlich
+kennenzulernen, %pcf.
+Gewiss, ich bin _vampire_.
+Der %vam-Stamm wird
+eine angemessen Verwendung
+für diesen _vamprelic_ finden.
+Glaubt bloß nicht, dass Ihr hierfür
+bezahlt werdet. Es ist schon Ehre
+genug, den %vam auch nur dienen
+zu dürfen.
+
+RumorsDuringQuest:  [1005]
+Die Magiergilde will eine Menge alten, nutzlosen Plunder loswerden, habe ich gehört.
+<--->
+Ich hörte dass es eine Abfallgrube gibt, wohin die ganzen Magiergilden ihren alten Kram schicken.
+
+RumorsPostfailure:  [1006]
+Bei den ganzen Sicherheitsmaßnahmen muss es doch etwas in der Magiergilde geben, das sich zu stehlen lohnt.
+<--->
+Sie haben diesen alten, staubigen Plunder endlich aus der Magergilde geschafft.
+
+RumorsPostsuccess:  [1007]
+Letzte Nacht haben die drei Sterne Locandas geleuchtet. Das bedeutet unheilige Allianzen.
+<--->
+Die Magiergilde ist ratlos, was diesen Einbruch angeht. Wer würde dieses Ding schon haben wollen?
+
+QuestorPostsuccess:  [1008]
+Grüße, %pcn. Danke nochmal für das _vamprelic_.
+
+QuestorPostfailure:  [1009]
+%pcf, dies ist nicht der
+richtige Zeitpunkt, um die Grenzen
+meiner Geduld auf die Probe zu stellen.
+In meinem Brief bat ich Euch ausdrücklich,
+mir das _vamprelic_ zu bringen,
+aber wo ist es? Schwache Vorstellung,
+%pcf. Sehr schwach.
+
+QuestLogEntry:  [1010]
+Eine unheimlich aussehende Person dieses Namens ist %di von hier im __vampire_.
+<--->
+Ein seltsamer =vampire_ namens _vampire_ hält sich im __vampire_ auf, %di von hier.
+
+Message:  1011
+_vampire_ ist ein Angehöriger des %vam-Stammes und ein Mentor für dessen Jünglinge.
+<--->
+_vampire_ ist ein recht junger Angehöriger der %vam, aber stolz und stark dazu.
+
+Message:  1013
+Nur ein _vamprelic_. Kein besonders hübscher Anblick.
+<--->
+Ein seltsam aussehendes _vamprelic_.
+
+Message:  1015
+Nach dem, was ich gehört habe, ist es ein _vamprelic_ aus den älteren Kreisen der %vam.
+<--->
+Es ist ein _vamprelic_, das von den Meistern der %vam in bestimmten, geheimen Ritualen verwendet wird.
+
+Message:  1020
+%qdt:
+ Ich habe einen Brief von _vampire_ aus
+ ___vampire_ erhalten. Ich habe =1stparton_ Nächte, um
+ ein _vamprelic_ aus einer gesichterten Kammer in
+ der Magiergilde von __itemdung_ zu stehlen. Sobald
+ die Tat vollbracht ist, soll ich das _vamprelic_
+ zu _vampire_ in das __vampire_ bringen.
+
+Message:  1030
+Ein zusammengerolltes Pergament auf dem
+Boden fällt Euch ins Auge. Als Ihr es Euch
+genauer anseht, bemerkt Ihr erstaunt,
+dass es an Euch adressiert ist.
+

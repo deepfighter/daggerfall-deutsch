@@ -1,0 +1,183 @@
+Quest: P0B00L04
+DisplayName:  Ein alter Feind
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 called.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 called.
+
+QuestComplete:  [1004]
+Liegt da etwa eine Spur des Bedauerns auf
+Eurer Stirn, %pcf? Ich verstehe
+das sehr gut. Auch ich musste bereits zu
+mehr als einer Gelegenheit einen meiner
+Abkömmlinge erschlagen. Ihr müsst lernen,
+über dieser gefühlsseligen, sterbliche
+Rücksicht gegenüber der Vermehrung erhaben zu
+sein. Was Ihr tun musstet, ist bedauernswert,
+aber Ihr müsst Euer Blut beruhigen, um
+wahrhaftig zu einem der %vam zu
+werden. Ihr habt einen Schritt in die richtige
+Richtung getan, für den Ihr Gratulation verdient.
+
+RumorsDuringQuest:  [1005]
+Das Grab von =vampire_ muss ausgeraubt worden sein. Es ist ... komplett verwüstet.
+<--->
+In letzter Zeit ist nachts um ___mondung_ herum einiges los.
+
+RumorsPostfailure:  [1006]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostsuccess:  [1007]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called
+
+QuestLogEntry:  [1010]
+                     __vamp_
+                      ___vamp_
+ 
+ 
+ Blut in Ewigkeit %pcn,
+ 
+     Vielleicht erinnert Ihr Euch eines
+ Kriegers, den Ihr einst getroffen habt,
+ =vampire_? Stramm, saftig, etwas dünnes
+ Blut, aber alles in allem eine erinnerungs-
+ würdige Mahlzeit. Nun, %g ist aus dem
+ Grabe zurückgekehrt.
+ 
+     Die %vam stehen der Existenz Eures
+ Sprösslings mit gemischten Gefühlen entgegen.
+ Sucht mich auf und wir unterreden uns in
+ dieser Angelegenheit.
+ 
+ 
+                   Euer im Tode,
+ 
+                    _vamp_
+
+Message:  1011
+Ein bleicher junger Knabe drückt
+Euch einen Brief in die Hand und
+verschwindet flink wie eine Ratte.
+
+Message:  1012
+%qdt:
+ _vamp_ von den %vam hat
+ mir einen Brief geschickt, in dem
+ er um meine unverzügliche Anwesenheit
+ an einem Ort namens __vamp_
+ in ___vamp_ ersucht.
+
+Message:  1013
+Ah, einen guten Abend Euch, Blut von meinem Blut.
+Wir haben ein Problem, Ihr und ich. Eine Eurer
+früheren Mahlzeiten ist aus dem Grab zurückgekehrt.
+=vampire_? Ich weiß nicht, ob Euch der Name
+etwas sagt. Auf jeden Fall haben wir %g2 beobachtet,
+so wie wir Euch beobachtet haben, um zu sehen, ob
+%g3 Reaktion auf die Unsterblichkeit %g3 Blutlinie
+würdig ist. Sie war es nicht. Mit jedem Tropfen Blut,
+den %g trinkt, vervielfacht sich %g3 Durst um das
+Zehnfache. Ein tobender, junger Vampir, der frei in
+dieser Region umherstreift, stellt eine Bedrohung
+aller zivilisierten vampirischen Geschäfte dar.
+Geht zum ___mondung_ und entledigt Euch dieses
+lästigen Kindes von Euch. Es ist eine unangenehme
+Angelegenheit, aber es ist auch Eure Pflicht. Ich
+erwarte, Euch innerhalb von =queston_ Nächten
+nach vollbrachter Tat wiederzusehen. Lebt wohl.
+
+Message:  1014
+%dat:
+ _vamp_ hat mich nach
+ ___mondung_ geschickt,
+ wo ich =vampire_ töten soll,
+ einen Vampir, den ich erschaffen
+ habe. Ich habe =queston_ Nächte,
+ um dieser Verpflichtung nachzukommen und
+ mich im ___vamp_ zurückzumelden.
+
+Message:  1015
+Ihr spart besser nicht mit der Peitsche,
+mein Schöpfer. Sonst verderbt Ihr mich.
+<--->
+Ich kenne Euch. Ihr wart das letzte
+Gesicht, das ich sah, beschmiert mit
+dem Blut meines Körpers. Kommt,
+mein lieber Schöpfer, umarmen wir uns.
+<--->
+Euer Gesicht ist das Gesicht in meinen
+Alpträumen, %pcn. Ihr seid
+derjenige, der mich zu diesem Unleben
+verdammt hat, ist es nicht so?
+
+Message:  1016
+=vampire_ stirbt
+schließlich einen wahren
+Tod. Ihr müsst zurückkehren
+und _vamp_ berichten,
+dass die Tat vollbracht ist.
+

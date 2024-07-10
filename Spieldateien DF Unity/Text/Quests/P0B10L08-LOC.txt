@@ -1,0 +1,177 @@
+Quest: P0B10L08
+DisplayName: Der Daedrakult
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called.
+
+QuestFail:  [1003]
+Error: Questtext 1003 Called.
+
+QuestComplete:  [1004]
+Ihr habt dem Namen der %vam
+in dieser Nacht alle Ehre gemacht, %pcf.
+==daedra_ hegt uns und Euch gegenüber Respekt,
+den kein anderer Vampirstamm je verdiente. Euer
+Blutsvater hat mich geheißen, Euch _gem_
+als Symbol der Dauerhaftigkeit Eurer Stellung
+unter den %vam zu geben.
+
+RumorsDuringQuest:  [1005]
+In ___mondung_ sind seltsame Dinge im Gange. Noch seltsamer als sonst, sollte ich wohl sagen.
+
+RumorsPostfailure:  [1006]
+Es ist  um ___mondung_ wieder ruhiger geworden. Aber die Sterne der Daedra leuchten hell in der Nacht.
+
+RumorsPostsuccess:  [1007]
+___mondung_ hat sich beruhigt. Sogar die Sterne der Daedra schienen letzte Nacht sanfter.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called.
+
+QuestLogEntry:  [1010]
+              __vamp_
+               ___vamp_
+ 
+ 
+ Grüße %pcn,
+ 
+     die %vam brauchen Euch.
+ Kommt unverzüglich.
+ 
+ 
+        Euer im Tode,
+ 
+ 
+               _vamp_
+
+Message:  1011
+Ah, %pcf, Ihr habt meinen Brief erhalten.
+Der Älteste unseres Stammes, Euer Blutsvater,
+hat darum ersucht, dass Ihr Euch einer Angelegenheit
+widmet, die ihn sehr beunruhigt. Hier ist die
+Abschrift eines Briefes, den er, um ein Messer
+gewickelt, in seinem Altarraum fand. Wer auch
+immer diesen Brief hinterlassen hat verfügt
+offenbar über nicht unbeträchtliche Macht und
+wünscht die Stärke der %vam zu prüfen. Geht
+zu dem im Brief genannten Verlies, ___mondung_,
+findet diesen _daedra_, der den Brief geschrieben
+hat und beweist %g2, dass die %vam kein Haufen
+von Schwächlingen sind, die sich ungestraft bedrohen
+oder verspotten lassen. Der Stolz der %vam
+ist mit Euch, %pcf. Ich erwarte Euch
+innerhalb von =queston_ Tagen zurück, wenn diese Sache
+geregelt ist. Enttäuscht uns nicht, %pcf.
+
+Message:  1012
+%qdt:
+ _vamp_ von ___vamp_
+ hat mir einen Brief gegeben, verfasst
+ unter dem Namen von _daedra_ aus
+ ___mondung_, der unseren Stamm,
+ die %vam, beleidigt. Mir wurde
+ aufgetragen, nach ___mondung_
+ zu reisen und _daedra_ %g3
+ Worte bereuen zu lassen. Ich habe
+ =queston_ Tage, um dies zu erledigen und
+ nach __vamp_ zurückzukehren.
+
+Message:  1013
+Blutschmarotzer,
+ 
+     Mein Zirkel hat mir berichtet,
+ dass Eure Monster, diese absonderliche
+ kleine Bande blutsaugender Schreckgespenster,
+ ein Monopol auf die Geschäfte des Grauens
+ in %reg hält und meine eigenen
+ Kinder sich ob der rohen Kraft der
+ %vam fürchten, ihr Hoheitsgebiet
+ zu expandieren. Die Feiglinge wurden
+ angemessen bestraft und mein Zirkel
+ schreitet nun weiter voran.
+ 
+     Wenn die selbstgefälligen Aasgeier,
+ die sich %vam nennen, wirklich auch
+ nur über eine Unze der Macht verfügten,
+ an die mein Zirkel einst glaubte, so antwortet
+ auf meine Herausforderung. Bereitet Euch
+ anderenfalls darauf vor, dass es in %reg
+ für %vam und Eure kleinlichen Verbrechen
+ etwas weniger Freiraum geben wird.
+ 
+     Ich bin _daedra_ aus dem Kult von
+ ==daedra_. Betrachtet den Fehdehandschuh
+ als geworfen. Ich erwarte Eure Antwort in
+ ___mondung_.
+
+Message:  1014
+%qdt:
+ Ich habe einen Brief von
+ _vamp_ von den %vam,
+ erhalten, in dem er um meine
+ unverzügliche Anwesenheit an einem
+ Ort namens __vamp_ in ___vamp_ ersucht.
+
+Message:  1015
+Willkommen in ___mondung_,
+%pcn. Ihr seid vermutlich hier,
+um im Namen der %vam
+anzuerkennen, dass der Kult von
+==daedra_, Fürst des Reichs des Vergessens,
+fortan über %reg herrscht?
+
+Message:  1016
+Erbärmlicher Blutsauger.
+Ich habe nicht mehr erwartet und doch
+noch gehofft. Schert Euch zurück nach
+_vamp_, Kind.
+
+Message:  1017
+Ihr wagt es, die Überlegenheit
+von ==daedra_ vor meinem Angesicht
+herauszufordern, untoter Wurm?
+=daedroth_ wird es genießen, Eure
+Eure respektlosen Knochen zu brechen!
+ 
+Zeigt mir, dass ein Angehöriger
+der %vam wenigstens so gut
+kämpfen wie prahlen kann!
+
+Message:  1018
+Ihr hört, wie die Stimme von ==daedra_
+in Eurem Kopf spricht:
+ 
+ "Ihr habt mir bewiesen, dass die
+ %vam Respekt verdienen. Ihr
+ mögt _vamp_ sagen, dass
+ %reg Euch gehört.
+ Ein interessantes Exemplar seid Ihr,
+ %pcn. Ich bin mir sicher,
+ dass wir uns wiedersehen."
+
+Message:  1019
+Ihr habt die %vam enttäuscht,
+%pcf. Der Zirkel von ==daedra_
+hat uns herausgefordert und Ihr
+habt eine einzige Schmach abgeboten.
+Es ist eine Nacht der Schande.
+
+Message:  1020
+Error: Questtext 1020 Called.
+
+Message:  1021
+Ein erschreckend bleicher Junge
+mit wilden Augen übergibt Euch
+einen Brief und verschwindet
+in die Dunkelheit.
+

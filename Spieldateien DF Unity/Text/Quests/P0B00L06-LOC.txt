@@ -1,0 +1,242 @@
+Quest: P0B00L06
+DisplayName: Tödliches Wissen
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called
+
+QuestFail:  [1003]
+Error: Questtext 1003 Called
+
+QuestComplete:  [1004]
+Wie niedlich. Habt Ihr das gelesen?
+Aber natürlich habt Ihr das. Was für ein
+Schund. Es gab da einmal einen anderen
+Magier, der ähnliche Ansichten über die
+Vampirstämme vertrat; ich erinnere mich
+jedoch nicht an seinen Namen.
+ 
+Das habt Ihr gut gemacht, Jungchen.
+Sehr gut sogar.
+
+RumorsDuringQuest:  [1005]
+_mage_ befasst sich unten im ___mondung_ mit furchtbar wichtiger Arbeit.
+<--->
+___mondung_ ist ein düsterer Ort, aber gut für _mage_, um in Ruhe zu arbeiten.
+
+RumorsPostfailure:  [1006]
+_mage_s Arbeit über Vampire hat angeblich die Aufmerksamkeit der Magiergilde auf sich gezogen.
+<--->
+Der Erzmagister der Magiergilde selbst studiert die Arbeit von _mage_.
+
+RumorsPostsuccess:  [1007]
+Tamriel wird wahrscheinlich nie erfahren, woran der arme _mage_ so hart gearbeitet hat.
+<--->
+Man sagt, _mage_ wurde ermordet, weil %g an einem Talisman gegen Daedra gearbeitet habe.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called. Whoopsy
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called. My Bad
+
+QuestLogEntry:  [1010]
+                      __vamp_
+                       ___vamp_
+ 
+ 
+ Blut in Ewigkeit, %pcn,
+ 
+     Diese wankelmütigen, unwissenden
+ Barbaren, die sich selbst die Magiergilde
+ nennen, haben sich erneut in ein ziemlich
+ sinnloses Unterfangen gestürzt. Dieses Mal
+ haben sie jedoch möglicherweise versehentlich
+ einen Pfad eingeschlagen, der die Schatten
+ lichten und zur Enthüllung der Existenz der
+ %vam führen könnte. Auch wenn es
+ unvorstellbar erscheint, dass die Magiergilde
+ tatsächlich etwas derartiges zustande
+ brächte, müssen wir für eine solche
+ Eventualität Vorkehrungen treffen.
+  
+      Sucht mich so schnell wie möglich am
+ oben erwähnten Ort auf.
+ 
+                      Euer im Tode,
+ 
+ 
+                      _vamp_
+
+Message:  1011
+%qdt:
+ Ich habe einen Brief von
+ _vamp_ erhalten,
+ einem der %vam
+ in ___vamp_.
+ Ich soll %g2 so schnell wie
+ möglich an einem Ort namens
+ __vamp_ treffen.
+
+Message:  1012
+Guten Abend, Blutsverwandter.
+Diese Narren von der Magiergilde sind
+in ihren ziellosen Forschungen blind
+über einige offenkundige Fakten gestolpert.
+Es ist unwahrscheinlich, dass sie überhaupt
+zu so etwas wie einem Ergebnis kommen werden,
+aber der Magier, der die Untersuchungen leitet,
+ist zumindest weise genug, sich zu verstecken.
+Das alleine ist Grund genug zu unserer
+Beunruhigung. Natürlich ist es sinnlos,
+sich irgendwo in %reg vor den
+%vam zu verstecken. _mage_
+ist im ___mondung_, einer Art
+Laboratorium. Ich will, dass Ihr die Notizen
+dieser Forschung an Euch nehmt und zu mir
+bringt. Ich gehe davon aus, dass
+_mage_ die Notizen in der
+lächerlichen Annahme bei sich trägt, dass sie
+dort sicher seien. Geht und zeigt ihm seinen
+Denkfehler auf, %pcf.
+
+Message:  1013
+Seid mir gegrüßt %pcn,
+ 
+     Wann immer Ihr Euch in der Gegend von
+ ___mg_ befindet, könnte Eure
+ Anwesenheit im __mg_ der
+ Lösung unserer gegenwärtigen Probleme sehr
+ zuträglich sein. Als Gegenleistung für Eure
+ Unterstützung bei einer Forschungsangelegenheit
+ kann ich Euch eine Gratifikation zum persönlichem
+ finanziellen Wohlstand und die noch größere
+ Freude, einem Kollegen der Magiergilde geholfen
+ zu haben, anbieten.
+  
+    Ich hoffe, Euch sehr bald zu sehen.
+ 
+ 
+ 
+    Euch sehr verbunden und all das,
+ 
+ 
+      _mg_
+
+Message:  1014
+Ein Kurier in tiefblauem Gewand
+händigt Euch einen Brief aus und
+verschwindet mit einer Verbeugung.
+
+Message:  1015
+Oh, oh, %oth, seid Ihr %pcn?
+Ich, äh, sehe dass Ihr hierfür geeignet seid.
+Ihr seid mutig und kräftig, kurz gesagt stark
+genug,  _mage_  zu helfen,
+einem Hexenmeister, der fürchtet, dass %g3
+Forschungen die, äh, inquisitorische Aufmerksamkeit
+eines lokalen Vampirstammes erregt zu haben.
+ 
+Zu viel Arbeit hat den armen, alten Hexenmeister -
+wie soll ich sagen - überempfindlich werden lassen.
+Wenn Ihr einfach in %g3 Labor, ___mondung_,
+vorbeischauen und diese kostbaren Notizen holen
+könntet, wäre ich Euch äußerst äh, verbunden.
+ 
+Nehmt Euch bloß vor dem alten _mage_
+in Acht -- %g ist ein wenig, äh, aufgeregt,
+nehme ich an.
+
+Message:  1016
+%oth! Meine kostbaren Notizen!
+Hinfort, Blutsauger! Hinfort!
+
+Message:  1017
+Wartet einen Moment!
+Seid Ihr der %ra,
+dem ich die Notizen geben sollte?
+
+Message:  1018
+Ich bitte aufrichtig um Verzeihung, %pcn.
+Ich war in letzter Zeit sehr nervös.
+Hier sind die Notizen. Aber seid vorsichtig.
+Vertraut niemandem. Jeder könnte ein
+%vam-Vampir sein.
+
+Message:  1019
+%dat:
+ _mg_ im
+ __mg_ in ___mg_
+ möchte, dass ich zum ___mondung_
+ reise, dort die Arbeit von
+ _mage_ an mich nehme und
+ sicher nach ___mg_ bringe.
+ Obwohl _mage_ mich erwartet, ist
+ %g vielleicht bisschen nervös ... immerhin
+ könnte jeder ein Vampir sein ...
+
+Message:  1020
+Die %vam sind der vorherrschende
+Stamm in %reg, jedoch sind sie
+keineswegs in der ganzen Region um die
+Iliac-Bucht dominant. (hier eintragen
+über die Montalion, Vrasethi, Ghulari,
+Selenu, et cetera, blah, blah, blah)
+ 
+Unterschiedliche Kräfte, aber im Grunde
+diesselbe interne Struktur, blah, blah, blah).
+ 
+Wie wird man vom Vampirismus geheilt (das
+Buch "Vampire der Iliac-Bucht" auftreiben,
+Andeutungen auf eine Gemeinschaft von
+ehemaligen Vampiren)? Durch Erschlagen
+des Schöpfers derselben Blutlinie, dem
+zufolge, was ich aus persönlichen Gesprächen
+und dergleichen sammeln konnte. (Notiz an mich:
+dieser =vamp_ in ___vamp_ hat Interesse
+an meiner Arbeit gezeigt. Mögliche Informationsquelle
+oder Falle?) Vampire, die Königshöfe, die Dunkle
+Bruderschaft und sogar die Magiergilde in %reg
+und weitere infiltrieren. Steht der %t von %reg
+unter dem Einfluss der %vam, oder vielleicht
+mehr als nur unter dem Einfluss? Den Standardtest
+(Patent anmelden) durchführen und sehen, wie die
+Dinge stehen. Brauche Nymphenhaar, heiliges Symbol,
+et cetera, et cetera, dieses Mal frisch, in
+%gods Namen.
+ 
+Mit _mg_ über eine Erhöhung der
+Forschungsgelder reden. Laufe ins Leere.
+
+Message:  1021
+%dat:
+ Ein Zauberer namens
+ _mage_ ist einigen
+ bedeutenden Entdeckungen
+ über die %vam nahegekommen und
+ _vamp_ hat mich zu seinem
+ Laboratorium, ___mondung_,
+ geschickt, um seine Notizen zu
+ entwenden. Es ist wahrscheinlich,
+ dass _mage_ sie bei sich trägt,
+ als ob das ein Schutz gegen
+ mich sei.
+
+Message:  1022
+Ist es das, was _mage_
+schützen wollte? Das abschweifende
+Gekritzel eines Verrückten. Dennoch
+nicht Eure Schuld, nehme ich an.
+Hier sind _mggold_ Goldstücke
+für die gelungene Überführung.
+
+Message:  1023
+Ein bleicher junge Knabe händigt Euch einen
+Brief aus und huscht wie eine Ratte davon.
+

@@ -1,0 +1,115 @@
+Quest: P0B10L10
+DisplayName: Chaperone
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called.
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called.
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called.
+
+QuestComplete:  [1004]
+Reisen ist für unsere Art keine einfache
+Sache. Mit der zusätzlichen Belastung
+durch _vamp_ möchte ich mir
+Eure Beschwernisse nicht einmal vorstellen.
+Dazu kommt noch die Furcht vor diesem
+bösartigen =mage_. Jetzt verstehe
+ich, warum die %vam mit solcher
+Wertschätzung von Euch sprechen,
+%pcf.
+
+RumorsDuringQuest:  [1005]
+=mage_ ist manchen zufolge der einzige anständige Vampirjäger in %reg.
+<--->
+=mage_ könnte den meisten Vampiren einen würdigen Kampf liefern.
+
+RumorsPostfailure:  [1006]
+So ein =vamp2_ in __vamp2_ hat nach einem %ra namens %pcn gefragt.
+
+RumorsPostsuccess:  [1007]
+=mage_ ist anscheinend doch kein ein großer Vampirjäger wie %g behauptet hat.
+<--->
+=mage_ soll angeblich ein großartiger Vampirjäger gewesen sein. Schätze, %g war doch nicht so gut.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called.
+
+QuestLogEntry:  [1010]
+              __vamp_
+               ___vamp_
+ 
+ 
+ Grüße %pcn,
+ 
+     die %vam brauchen Euch.
+ Kommt unverzüglich.
+ 
+ 
+               Euer im Tode,
+ 
+ 
+               _vamp_
+
+Message:  1011
+%qdt:
+ Ich habe einen Brief von
+ _vamp_ erhalten,
+ einem Vampir der %vam, der
+ dringend um meine Anwesenheit
+ an einem Ort namens __vamp_
+ in  ___vamp_  ersucht.
+
+Message:  1012
+Danke, dass Ihr unverzüglich gekommen seid.
+Hier in %reg lebt ein gefährlicher Feind
+unseres Stammes, ein Magier namens =mage_.
+Ich selbst hatte schon eine unglückliche Begegnung
+mit %g2. Es ist dringend geboten, dass ich
+mit _vamp2_ drüben in ___vamp2_
+über diese Angelegenheit spreche, aber ich weiß,
+dass =mage_ nach mir sucht.
+ 
+Ich bin zu schwach, um diese Reise alleine
+anzutreten. Ihr müsst mich zu __vamp2_
+in ___vamp2_ eskortieren. Wir sollten
+uns beeilen, damit dieser verteufelte Magier
+nicht noch weitere Verbündete hinzuzieht.
+=queston_ Nächte, %pcf. Das ist nicht viel Zeit,
+aber wir müssen es versuchen.
+
+Message:  1013
+Ein Blutsauger, der auch noch
+einen Stachel hat. Das sollte
+die Sache interessanter machen!
+
+Message:  1014
+%dat:
+ Ich eskortiere _vamp_
+ zu _vamp2_ in ___vamp2_.
+ Ich muss es nach __vamp2_ 
+ schaffen, bevor der uns verfolgende
+ Magier die Gelegenheit erhält,
+ Verstärkung zu rufen.
+
+Message:  1015
+"%pcf!" sagt _vamp_,
+"Ihr habt =mage_ erschlagen,
+die Geißel der %vam!"
+
+Message:  1016
+"Ihr braucht zu lange",
+sagt _vamp_
+und wankt alleine davon.
+
+Message:  1017
+Ein bleicher Junge mit glühenden
+Augen händigt Euch einen Brief aus
+und verschwindet dann in den Schatten.
+

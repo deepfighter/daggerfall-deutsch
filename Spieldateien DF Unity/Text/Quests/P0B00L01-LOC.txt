@@ -1,0 +1,156 @@
+Quest: P0B00L01
+DisplayName: Brief eines Vampirs
+QRC:
+
+QuestorOffer:  [1000]
+Habt Ihr ein paar Nächte für die
+Angelegenheiten der %vam frei?
+
+RefuseQuest:  [1001]
+Ein "Nein" war nicht die Antwort,
+die ich erwartet hätte. Versucht,
+zukünftig mehr Zeit und Mühen für
+die %vam-Familie aufzubringen,
+Welpe. Ihr würdet nicht wünschen,
+dass sie Euch den Rücken kehrt.
+
+AcceptQuest:  [1002]
+%pcf, Ihr müsst einen Brief an
+einen Verbündeten der %vam
+überbringen. _pawn_ wird
+nicht länger als =1stparton_ Nächte im
+__pawn_ in ___pawn_ auf
+Euch warten. Lasst diese Frist
+nicht verstreichen! Ich erwarte Euch
+in =1stparton_ Nächten wieder hier zurück.
+Lebt wohl.
+
+QuestFail:  [1003]
+Ich bin erst wieder an einem
+Gespräch mit Euch interessiert,
+wenn sich mein Brief in den
+verschwitzten Händen von
+_pawn_ befindet,
+%pcf.
+
+QuestComplete:  [1004]
+Ich danke Euch für die umgehende
+Überbringung meines Briefes, %pcf.
+Er war ziemlich wichtig und ich
+anderweitig beschäftigt. Nehmt
+_reward_ als Geschenk für
+einen gut ausgeführten Auftrag.
+
+RumorsDuringQuest:  [1005]
+Dieser =pawn_ im __pawn_ wartet auf jemanden. Jemanden, der des Nachts eintrifft.
+<--->
+Man sagt, der %t würde endlich etwas gegen diese Vampirplage unternehmen.
+
+RumorsPostfailure:  [1006]
+Dieser nervöse =pawn_ hat __pawn_ endlich verlassen. Hat wohl %g3 nächtliches Treffen verpasst.
+<--->
+Dieser =vampire_ im __vampire_ hat irgendetwas über diesen %ra gemurmelt, mit dem %g des öfteren zusammen gesehen wird.
+
+RumorsPostsuccess:  [1007]
+Der %rt hat anscheinend seine Meinung zur Existenz von Vampiren in %reg geändert.
+<--->
+Der %rt wollte nachts eigentlich mehr Wachen aufstellen, hat sich dann aber dagegen entschieden.
+
+QuestorPostsuccess:  [1008]
+Ich grüße Euch, %pcf. 
+Ich hoffe, _pawn_ hat
+der Höflichkeit Genüge getan.
+
+QuestorPostfailure:  [1009]
+Als ich Euch zu _pawn_
+geschickt habe, erwartete ich
+bereits, dass Ihr zu %g2 geht, %pcf
+Macht mich nicht ... wütend.
+
+QuestLogEntry:  [1010]
+Ja, mein Name ist _pawn_.
+I-Ihr müsst %pcn sein.
+Sagt _vampire_, dass
+ich mich um alles kümmern werde.
+Lasst %g bitte wissen, dass
+ich loyal bin. Es hat sich nichts
+geändert. Ich danke Euch. Ich werde
+sicherstellen, dass alles gut läuft.
+
+Message:  1011
+_vampire_?  Ein charmanter =vampire_, der sich im __vampire_ aufhält, glaube ich.
+<--->
+_vampire_ ist dieser =vampire_ im __vampire_.
+
+Message:  1012
+_vampire_ ist ein Vampir der %vam.
+<--->
+_vampire_ ist ein Mentor, ein ziemlich junger Angehöriger der %vam-Blutlinie.
+
+Message:  1013
+_pawn_,
+ 
+     Wir haben erfahren, dass es der
+ %t erneut in Betracht zieht, die
+ Anzahl der nächtlichen Patrouillen in
+ %reg zu erhöhen, um den ungeklärten
+ Angriffen entgegenzuwirken. %t
+ %rt wird einen Besucher der %vam
+ empfangen, damit sich diese Situation
+ vernünftig lösen lässt.
+ 
+     Bitte sorgt dafür, dass diese Ange-
+ legenheit der ursprünglichen Vereinbarung
+ entsprechend geregelt wird. Den %vam
+ gefällt es nicht, sich fortwährend demselben
+ potentiellen Problem widmen zu müssen.
+ 
+     Die Familie des %t erfreut sich
+ übrigens bester Gesundheit. Das ist kein
+ Zufall. Und auch kein Zustand, der sich
+ nicht ändern ließe.
+ 
+ - _vampire_
+
+Message:  1014
+_pawn_ ist ein nervöser =pawn_ im __pawn_, %di von hier.
+<--->
+_pawn_ ist der Name dieses =pawn_, den ich im __pawn_ gesehen habe. Das ist %di von hier.
+
+Message:  1015
+_pawn_ ist eine Spielfigur der %vam-Vampire, der aus dem __pawn_ operiert.
+<--->
+Dieser =pawn_ ist ein Verbündeter der %vam-Vampire - %g lebt im __pawn_.
+
+Message:  1020
+%pcn,
+ 
+     die %vam rufen Euch nach
+ ___vampire_. Sucht
+ mich dort auf und zeigt diesen
+ Brief vor.
+ 
+ Mit sterbendem Atem,
+ _vampire_
+
+Message:  1021
+Ihr habt einen Brief erhalten.
+
+Message:  1025
+%qdt:
+ _vampire_ von den %vam im
+ __vampire_, ___vampire_
+ hat mich losgeschickt, um einen Brief
+ zu einem =pawn_ mit dem
+ unvorteilhaften Namen _pawn_
+ in ___pawn_ zu bringen. Es ist
+ anscheind von großer Wichtigkeit, dass
+ ich mich innerhalb von =1stparton_ Nächten
+ wieder mit %g2 im __pawn_ treffe.
+
+Message:  1026
+%qdt:
+ _vampire_ aus ___vampire_
+ hat mich in einer Angelegenheit der %vam
+ zum __vampire_ gerufen.
+ 

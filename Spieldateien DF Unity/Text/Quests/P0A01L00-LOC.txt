@@ -1,0 +1,106 @@
+Quest: P0A01L00
+DisplayName: Aufnahmeritus
+QRC:
+
+QuestorOffer:  [1000]
+Blut in Ewigkeit %pcn,
+ 
+    wir beobachten Euch nun schon seit geraumer
+ Zeit - tatsächlich schon seit der Stunde, in der
+ Ihr den unheiligen Segen des Vampirismus empfangen
+ habt. Ihr hattet wohl Eure seltsamen und ungeschickten
+ Momente, aber im Ganzen missfällt uns der Vampir
+ nicht, der aus Euch geworden ist. 
+ 
+    Es ist an der Zeit, von Eurem Erbe zu erfahren,
+ der stolzen Familie der %vam, der bedeutendsten
+ aller vampirischen Blutlinien. Zum Beweis Eurer
+ treuen Gefolgschaft verlangen wir jedoch eine
+ Opfergabe. 
+ 
+    Ganz in Eurer Nähe hält sich ein Vampir auf,
+ der einer geringeren Blutlinie angehört. Geht zu
+ dem Ort, den man ___mondung_ nennt, und
+ tötet =monster_, diese verdorbene Beleidigung
+ unseres Geschlechts. Kehrt nach __questgiver_
+ in ___questgiver_ zurück, wenn die Tat
+ vollbracht ist, und sucht mich auf. Ihr werdet
+ mich sogleich erkennen; ich erscheine als
+ =questgiver_.
+
+    Ich werde =1stparton_ Tage warten, %pcf.
+ Danach werde ich weiterziehen. Ich hoffe, dass
+ wir uns nicht verpassen.
+ 
+ _questgiver_
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called!
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called!
+
+QuestFail:  [1003]
+Seht her, ich will nicht unhöflich
+sein, aber ich erwarte noch jemanden,
+also verschwindet.
+
+QuestComplete:  [1004]
+Exzellent, %pcf. Ihr werdet einen
+ausgezeichneten Angehörigen der %vam
+abgeben. Willkommen in der Familie.
+Man kennt mich als _questgiver_.
+Die %vam werden Euren Fortschritt
+weiterhin beobachten und Euch von Zeit
+zu Zeit in Familienangelegenheiten
+kontaktieren. Hier ist ein Ring, der Euch
+als einen der unsrigen kennzeichnet.
+
+RumorsDuringQuest:  [1005]
+Man sagt, ___mondung_ werde wieder von irgendjemandem bewohnt ... oder irgendetwas.
+<--->
+Drüben bei __questgiver_ ist neuerdings ein seltsamer =questgiver_.
+
+RumorsPostfailure:  [1006]
+%god sei Dank hat dieser seltsame =questgiver_ __questgiver_ verlassen.
+<--->
+Es scheint, als wäre ___mondung_ wieder aufgegeben worden.
+
+RumorsPostsuccess:  [1007]
+Viele Leute fragen sich, was für ein Wesen es geschafft haben könnte, _monster_ zu erschlagen.
+<--->
+Ich frage mich, ob _monster_ nicht von etwas noch viel Schlimmerem getötet wurde.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called. Not sposed to be.
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called. Not sposed to be.
+
+QuestLogEntry:  [1010]
+_questgiver_? Nie von %g2 gehört. Lebt %g hier in der Gegend?
+
+Message:  1011
+Dieser =questgiver_ ist ein Mentor der vampirischen Blutlinie %vam.
+<--->
+_questgiver_ ist ein stolzer und fähiger Angehöriger der %vam-Blutlinie.
+
+Message:  1015
+%qdt:
+ Ich erhielt einen Brief von einem Angehörigen meiner
+ "Familie". Mir wurde aufgetragen, einen Abkömmling
+ aus geringerer Blutlinie, vermutlich keinen der
+ %vam, an einem Ort namens ___mondung_
+ zu töten. Danach soll ich nach ___questgiver_
+ reisen und im __questgiver_ einen
+ =questgiver_ namens _questgiver_ treffen,
+ bevor %g in =1stparton_ Tagen den Ort verlässt.
+
+Message:  1020
+Ein mageres, bleiches Kind überreicht
+Euch einen Brief und stürzt davon.
+
+Message:  1030
+Ihr habt den Vampir
+=monster_ getötet.
+

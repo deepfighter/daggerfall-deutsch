@@ -1,0 +1,111 @@
+Quest: P0B20L09
+DisplayName: Vorbereitungen
+QRC:
+
+QuestorOffer:  [1000]
+Error: Questtext 1000 Called
+
+RefuseQuest:  [1001]
+Error: Questtext 1001 Called
+
+AcceptQuest:  [1002]
+Error: Questtext 1002 Called
+
+QuestFail:  [1003]
+Error: Questtext 1003 Called
+
+QuestComplete:  [1004]
+Ich grüße Euch, Jäger der Werbestien.
+Euer Blutsvater wird erfreut sein zu hören,
+mit welcher Effizienz Ihr diese Bestien
+ausgelöscht habt. Behaltet =wereboar_s
+Stoßzahn als Ehrenzeichen unter den %vam.
+
+RumorsDuringQuest:  [1005]
+___mondung_ ist das eine Verlies, das niemand jemals betreten sollte. Niemals.
+
+RumorsPostfailure:  [1006]
+Vor ein paar Nächten konnte man ein triumphierendes Heulen aus ___mondung_ hören.
+
+RumorsPostsuccess:  [1007]
+___mondung_ ist wieder still und friedlich wie ein Grab.
+
+QuestorPostsuccess:  [1008]
+Error: Questtext 1008 Called
+
+QuestorPostfailure:  [1009]
+Error: Questtext 1009 Called
+
+QuestLogEntry:  [1010]
+              __vamp_
+               ___vamp_
+ 
+ 
+ Grüße %pcn,
+ 
+     die %vam brauchen Euch.
+ Kommt unverzüglich.
+ 
+ 
+               Euer im Tode,
+ 
+ 
+               _vamp_
+
+Message:  1011
+Ich grüße Euch in Ehre, %pcn, guten Abend.
+Die Ältesten der %vam wollen sich in
+Kürze hier in %reg treffen, doch
+eine Gruppe Lykanthropen hat sich, als wollten
+sie uns verspotten, in ___mondung_
+niedergelassen, wo die Ältesten zusammenzukommen
+gedenken. Ich bitte Euch, zeigt diesem Pack
+und anderen ihrer Art, dass ___mondung_
+den %vam gehört und wir keine Eindringlinge
+dulden werden. Tötet so viele von ihnen wie
+möglich, einschließlich ihres Anführers,
+einen Wereber. Kommt innerhalb von =queston_ Nächten
+mit einem seiner Stoßzähne zurück und die
+%vam werden Euch höchst dankbar sein.
+Nun gehabt Euch wohl.
+
+Message:  1012
+%qdt:
+ Ich habe einen Brief von
+ _vamp_ erhalten,
+ einem Vampir der %vam, der
+ dringend um meine Anwesenheit
+ an einem Ort namens __vamp_
+ in  ___vamp_  ersucht.
+
+Message:  1013
+%dat:
+ _vamp_ hat mich nach
+ ___mondung_ geschickt, wo es eine
+ Gruppe vermessener Werkreaturen gewagt hat,
+ den Boden der %vam zu betreten.
+ Ich soll den missgestalten Kreaturen
+ den Fehler solchen Verhaltens aufzeigen
+ und innerhalb von =queston_ Nächten mit dem
+ Stoßzahn ihres Anführers als Trophäe nach
+ _vamp_ zurückkehren.
+
+Message:  1017
+Ein bleicher Junge mit wilden
+Augen übergibt Euch einen
+Brief und verschwindet
+dann in die Dunkelheit.
+
+Message:  1020
+Ihr habt =wereboar_ erschlagen,
+den Anführer der Lykanthropen.
+Sie werden es fortan besser wissen als
+in eine Festung der %vam einzudringen.
+
+Message:  1021
+Zwingt mich nicht, Euch zu töten,
+Blutsauger. Geht zurück und richtet
+den %vam aus, dass =wereboar_
+Euch nach Hause geschickt hat, weil
+Ihr Euch nicht benehmen konntet.
+
