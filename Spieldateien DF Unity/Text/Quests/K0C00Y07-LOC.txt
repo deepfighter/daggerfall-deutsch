@@ -1,0 +1,208 @@
+Quest: K0C00Y07
+DisplayName: Das Lösegeld
+QRC:
+
+QuestorOffer:  [1000]
+Mein armer Liebling, _victim_,
+wurde von der Diebesgilde entführt.
+Könnt Ihr mir helfen?
+<--->
+Die Diebesgilde hat mir meine liebste
+_victim_ weggenommen und
+verlangen nun Lösegeld. Ich brauche
+jemanden, der meine Geliebte zu mir
+zurückbringt, koste es, was es wolle.
+Bitte, werdet Ihr mir helfen?
+
+RefuseQuest:  [1001]
+Ihr habt ein Herz aus Stein,
+%pcf. Dann werde ich wohl
+selbst mit diesen Entführern
+verhandeln müssen.
+<--->
+Dann werde ich jemand anderen
+finden, %pcn.
+
+AcceptQuest:  [1002]
+Ich habe leider nicht mehr viel, mit dem ich
+Euch bezahlen könnte, %pcf.
+Ich habe den Großteil meines Golds dazu
+gebraucht, diesen Edelstein zu kaufen, den
+die Entführer als Lösegeld bekommen wollen,
+doch Ihr bekommt den Rest meiner Ersparnisse,
+_gold_ Goldstücke, wenn meine geliebte
+_victim_ wieder bei mir ist.
+Die Entführer wollen, dass ich ihnen den _gem_
+an einem ruhigen Ort namens __kidnapper_
+in ___kidnapper_ übergebe und zwar innerhalb
+der nächsten =2ransom_ Tage. Ich soll dort nach
+einem =kidnapper_ mit dem Namen
+_kidnapper_ suchen.
+Für mich ist nur von Bedeutung, dass _victim_
+in Sicherheit ist, doch wenn Ihr dies erreichen könnt,
+ohne das Lösegeld zu bezahlen, wäre ich Euch
+sehr dankbar. Wie gesagt ist es beinahe alles, was
+ich habe. Viel Glück und möge %god Euch segnen.
+<--->
+%god sei Dank. Hier ist der _gem_,
+den die Entführer als Lösegeld wollen.
+Ich wäre sehr denkbar, wenn Ihr einen
+Weg finden könntet, _victim_ zu retten,
+ohne das Lösegeld zu bezahlen. Nach dem
+Kauf des Edelsteins habe ich kaum noch Gold
+übrig. Dennoch werde ich Euch natürlich
+gerne mit den restlichen _gold_ Goldstücken
+bezahlen, die ich noch habe, sobald _victim_
+wieder bei mir ist -- es ist eine lohnende Investition.
+Wenn Ihr das Lösegeld bezahlen müsst, wartet
+nicht länger als =2ransom_ Tage, um es zu tun. Die
+Entführer haben einen Kontaktmann im
+__kidnapper_ in ___kidnapper_,
+einen =kidnapper_ namens
+_kidnapper_. In =2ransom_ Tagen
+wird %g %g3 Freunden, die _victim_
+bewachen, Bescheid geben und sie werden %g2
+töten. Bitte lasst nicht zu, dass das passiert.
+Viel Glück, Freund.
+
+Message:  1099
+_victim_! Oh, %god sei Dank,
+du lebst. Und Ihr, mein guter %pcf,
+habt nicht einmal den _gem_ gebraucht.
+Ich kann Euch nicht genug danken. Hier sind
+die _gold_ Goldstücke, die ich Euch versprochen
+habe, auch wenn sie kaum genug sind, für das,
+was Ihr für mich getan habt. Ich danke Euch von
+ganzem Herzen, mein Freund.
+
+QuestComplete:  [1004]
+Nehmt sie. Sie gehören Euch, mein Freund.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ kann das Lösegeld für _victim_ kaum aufbringen.
+<--->
+Die Entführung von _victim_ hat die Einwohner von ___qgiver_ ganz erschreckt.
+
+RumorsPostfailure:  [1006]
+Die Diebe, die _victim_ entführt haben, werden wohl nie Gerechtigkeit erfahren.
+
+RumorsPostsuccess:  [1007]
+_victim_ wurde von einem wunderbaren %ra-Söldner  aus den Händen dieser Entführer befreit.
+
+QuestorPostsuccess:  [1008]
+Ihr habt _victim_ gerettet, %pcf. Natürlich helfe ich Euch, wo ich nur kann.
+
+QuestorPostfailure:  [1009]
+Hört zu, ich will momentan weder mit
+Euch, noch mit sonst jemandem sprechen.
+Warum haut Ihr nicht ab?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von
+ __qgiver_, ___qgiver_
+ hat mich mit einem _gem_ losgeschickt,
+ um %g3 Geliebte, _victim_, freizukaufen,
+ die von der Diebesgilde entführt wurde.
+ Das Lösegeld muss innerhalb von =2ransom_ Tagen
+ bezahlt werden, ansonsten wird _victim_ sterben.
+ _kidnapper_ ist der Kontakt der Entführer,
+ der mich im __kidnapper_ in ___kidnapper_
+ erwarten wird. Natürlich will _qgiver_,
+ dass ich %g3 Geliebte, wenn möglich, rette,
+ ohne das Lösegeld zu bezahlen.
+
+Message:  1011
+Gebt Ihr _kidnapper_
+den _gem_?
+
+Message:  1012
+Ihr seid %pcf, nicht wahr? Die Diebesgilde
+ist Euch wohlgesinnt, Kindchen. Oh, %oth,
+ich sehe schon, Ihr arbeitet für _qgiver_,
+um sicherzugehen, dass %g nicht versucht,
+uns mit billigem Tand abzuspeisen, richtig?
+
+Message:  1013
+_victim_ wird für Eure
+Dummheit den Preis zahlen! %oth,
+schon in =queston_ Tagen wird %g tot sein!
+=thug_! Nehmt diesen %ra auseinander!
+<--->
+=thug_! Tötet diesen außerordentlich
+dummen %ra, während ich dasselbe
+mit _victim_ mache.
+
+Message:  1014
+_qgiver_ hat Euch geschickt?
+%oth, %god sei Dank! Schnell,
+lasst uns hier verschwinden!
+
+Message:  1015
+=thug_,
+ 
+      Die Gilde könnte Eure Muskeln bei einer
+ der üblichen Entführungen gebrauchen. Der
+ Name des Opfers ist _victim_ und der Ort,
+ an den %g gebracht werden soll, nachdem Ihr %g2
+ aus %g3 Zuhause im __qgiver_
+ in ___qgiver_ geholt habt, heißt
+ ___mondung_.
+
+      Die Wegbeschreibung nach ___mondung_
+ liegt bei. Ich hoffe, dieser Plan ist nicht zu
+ kompliziert für Euch.
+ 
+ _kidnapper_
+
+Message:  1016
+%pcf, ich hoffe nur, Ihr wisst,
+was Ihr tut. Ich bin froh, dass ich
+meinen _gem_ wiederhabe, aber
+nicht auf Kosten von _victim_.
+Erwartet keine Dankbarkeit von mir,
+wenn %g getötet wird.
+
+Message:  1017
+_victim_! %god sei Dank,
+es geht dir gut! Ich danke Euch,
+mein Freund. Ich wünschte zwar,
+Ihr hättet das Lösegeld nicht zahlen
+muessen, %pcf, aber das Wichtigste ist,
+dass meine liebste _victim_
+zurück ist. Hier sind die _gold_Goldstücke,
+die ich Euch versprochen habe.
+
+Message:  1018
+Kein Wunder, dass die Gilde Euch gern hat.
+Ich werde sicherstellen, dass sie auch hiervon
+hört, %pcf. Jetzt, kehrt zu _qgiver_ zurück
+und sagt %g2, dass _victim_ auch bald
+da sein wird. War nett, Geschäfte mit Euch
+zu machen.
+
+Message:  1019
+Ah, gut. Lass _qgiver_ wissen,
+dass %g3 _victim_ sehr bald in
+___qgiver_ sicher sein wird.
+Lebe wohl.
+
+Message:  1020
+Ja, _victim_ wurde
+gerade geliefert, bevor Ihr ankamt,
+%pcf. Vielen Dank, dass Ihr
+Euch diesem schrecklichen Entführer
+für mich gestellt habt. Hier sind
+die _gold_ Goldstücke, die ich Ihnen
+versprochen habe.
+
+Message:  1021
+_victim_ teilt Euch mit, dass
+%g den Weg zu %g3 geliebten
+_qgiver_ von hier aus alleine
+fände, dankt Euch und hastet los.
+
+Message:  1022
+Inzwischen ist _victim_
+bestimmt tot.
+

@@ -1,0 +1,96 @@
+Quest: K0C00Y02
+DisplayName: Gefälschtes Gold
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, es könnte sein, dass ich in wahrlich
+großen Schwierigkeiten bin. Es scheint so,
+als hätte mir ein früherer Geschäftspartner,
+in einem Versuch, mir das Leben noch mehr zur
+Hölle zu machen, einige falsche Goldbarren
+untergeschoben. Ahnungslos gab ich sie weiter
+an vier meiner meist geschätzten Partner,
+für die Dienste, die sie mir geleistet haben. Ich
+denke, es ist offensichtlich, dass ich diese Barren
+zurückholen muss, bevor sie herausfinden, dass
+das Gold Foscarium ist, was bereits innerhalb der
+nächsten =2mondung_ oder noch weniger Tagen
+der Fall sein könnte. Ich bezahle Euch um die
+_reward1_ Goldstücke für jeden Barren falsches Gold,
+den Ihr wiederbeschaffen koennt. Klingt das annehmbar?
+
+RefuseQuest:  [1001]
+Nein? Wirklich? Nun gut. Jemand anderes
+wird sich mit diesem Angebot zufrieden geben,
+da bin ich sicher.
+
+AcceptQuest:  [1002]
+%oth, das ist gut. Also, einer der Barren ist
+in einer Bank namens _depository_ in
+__depository_; einer ist in einer Festung
+mit dem Namen ___mondung_;
+einer ist im Palast von __palace_ ;
+der letzte ist in der _mansion_
+in __mansion_. Nun bedenkt, dass Ihr
+nur =2mondung_ Tage Zeit hierfür habt und
+ich hätte lieber einen Barren rechtzeitig, als alle
+vier, nachdem es zu spät ist. Viel Glück, %pcf.
+%god segne Eure Reise.
+
+QuestFail:  [1003]
+%god, würdet Ihr Euch bitte beeilen?
+
+QuestComplete:  [1004]
+%oth, gut gemacht, %pcf. Ich
+hatte schon befürchtet, ich hätte Euch
+nicht genug Zeit gegeben. Hier ist Euer
+echtes Gold im Austausch für dieses
+falsche Gold.
+
+RumorsDuringQuest:  [1005]
+So ein Kerl hat nach dem Weg zur _depository_ gefragt. Er sah nich aus wie ein Bankier.
+<--->
+Anscheinend rekrutieren sie neue Leute in ___mondung_.
+ Zumindest ist dort einiges los.
+<--->
+_palace_ verbessert seine Verteidigung, wegen der Gerüchte über Diebe in der Gegend.
+<--->
+Die Magd in _mansion_ hat gesagt, sie hat ein paar unerwuenschte Personen gesehen, die das Gebäude beobachten.
+
+RumorsPostfailure:  [1006]
+%t %rn scheint zu denken, der Kopf der Schmuggeloperationen sei _qgiver_.
+<--->
+_qgiver_ hat anscheinend Foscarium geschmuggelt und behauptet, es wäre Gold.
+<--->
+_palace_ hat alle Geschäftsbeziehungen mit _qgiver_ beendet, nach dem was ich gehört habe.
+<--->
+___mondung_ arbeitet daran, jeden Aspekt von _qgiver_s Geschäft zu zerschlagen.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ hat freundlicherweise all das Gold ersetzt, das %g3 unbeholfenen Geschäftspartner an Einbrecher verloren haben.
+<--->
+_qgiver_ wird immer bekannter bei den großen Geschäftsleuten in %reg.
+
+QuestorPostsuccess:  [1008]
+Seid gegrüßt und hallo, Ihr Überbringer von falschem Gold.
+
+QuestorPostfailure:  [1009]
+Ich habe Euch einmal meine finanzielle Zukunft anvertraut, erinnert Ihr Euch, %pcf?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von ___qgiver_ hat
+ mich gebeten, zumindest einen von vier
+ falschen Goldbarren zurückzuholen, die
+ %g %g3 Partnern gegeben hat, bevor
+ sie die Wahrheit über das Gold herausfinden.
+ Ich habe =2mondung_ Tage, oder weniger.
+ An jedem der folgenden Orte befindet sich
+ einer der vier Goldbarren:
+ Der _palace_ in __palace_,
+ ___mondung_,
+ Die _mansion_ in __mansion_,
+ und die _depository_ in __depository_.
+ Ich bekomme um die _reward1_ Goldstücke
+ für jeden Goldbarren, den ich auftreiben kann.
+

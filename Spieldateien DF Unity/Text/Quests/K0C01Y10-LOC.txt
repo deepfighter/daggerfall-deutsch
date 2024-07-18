@@ -1,0 +1,161 @@
+Quest: K0C01Y10
+DisplayName: Hintergrundinformationen
+QRC:
+
+QuestorOffer:  [1000]
+Seid Ihr nicht %pcn, jener wackere %ra,
+welcher Schiffbruch erlitten hat, oder?
+
+RefuseQuest:  [1001]
+Das ist seltsam. Ihr seht genau wie
+%pcn aus. Nun ja, sei's drum.
+
+AcceptQuest:  [1002]
+Wie ich es mir dachte. Dieser Sturm, der Euer Schiff
+zerstörte, war keineswegs natürlichen Ursprungs, doch
+ich vermute, dies habt Ihr bereits geahnt. Ich bin
+bereit, Euch alles zu erzählen, was ich darüber weiß,
+sofern Ihr im Gegenzug eine äußerst seltene
+Schriftrolle für mich beschafft. Dies ist keine
+Aufgabe, die ich der Kriegergilde überlassen würde,
+da die Schriftrolle von mächtigen Daedra bewacht wird
+und die Fähigkeit besitzt, Kreaturen aus den Ebenen
+des Reichs des Vergessens heraufzubeschwören. Begebt
+Euch nach ___mondung_, findet die
+Schriftrolle und bringt sie mir, bevor =queston_ Tage
+verstrichen sind. Dann werde ich Euch alles erzählen,
+was ich über den Sturm weiß, der Euch beinahe das
+Leben gekostet hätte.
+
+QuestComplete:  [1004]
+Ah, die Bothdorji-Schriftrolle. Sehr gut. Nun, lasst
+mich erzählen, was ich über diesen Sturm weiß. Ihr
+habt die Kaiserstadt auf einem nicht gekennzeichneten
+Schiff verlassen, doch Eure Identität, Eure Mission
+und Euer Schutzherr bleiben jenen mit aufmerksamen
+Augen und Ohren nicht lange verborgen. Ein
+unbekannter Agent überzeugte die verrückte Hexe der
+Wrothgarischen Berge, die Großmutter des derzeitigen
+Königs von Dolchsturz, dass der Mörder ihres Sohnes,
+des kürzlich verstorbenen Königs Lysandus, sich auf
+Eurem Schiff befinde. Mehr kann ich Euch nicht sagen.
+
+RumorsDuringQuest:  [1005]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostfailure:  [1006]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostsuccess:  [1007]
+Die daedrischen Sterne erstrahlten hell und kalt in der vergangenen Nacht.
+<--->
+Grausige Omen der Daedra habe ich im Reich des Mundus erblickt.
+
+QuestorPostsuccess:  [1008]
+Wie könnte ich jemals vergessen, dass Ihr mir die Bothdorji-Schriftrolle gebracht habt, %pcf?
+
+QuestorPostfailure:  [1009]
+Ich sehe keinen Grund, weshalb ich überhaupt
+mit Euch  sprechen sollte, %pcf. Ihr habt
+mir die Bothdorji-Schriftrolle nicht gebracht.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ vom
+ __qgiver_, ___qgiver_,
+ hat mir angeboten, die Wahrheit über den
+ Sturm zu erzählen, der mich mein Boot
+ gekostet hat, als ich in der Iliac-Bucht
+ ankam. Im Gegenzug verlangt %g, dass ich
+ eine Schriftrolle finde, die in ___mondung_
+ verborgen liegt und sie innerhalb von =queston_ Tagen
+ zu %g2 bringe. Die Schriftrolle wird vermutlich
+ von einer Art Daedra bewacht.
+
+Message:  1011
+Bothdorji Schriftrolle
+ 
+ Weißglühender Dunst weht vom Schleier des Vergessens
+ Und durchbrochen ist die Linie, die trennte
+ Erwacht sind die schlaflosen, untätigen Prinzen
+ Und gebieten ihren beständigen Dienern sich zu  erheben
+ In dieser Nacht, wenn Frost zu brennen beginnt
+ Eine Flamme den beleuchteten See gefrieren lässt
+ Wenn Wolken von Fledermäusen die Wolken von Vögeln  verschlingen
+ Wenn Geschwüre und Schmerzen die Reichen peinigen
+ Wenn ein geflügelter Knabe das Land verflucht
+ Und altbekannte Lügen mir im Halse stecken bleiben
+ Wenn dies geschieht, hört man ein Flüstern in der Nacht
+ Und diese Worte sind ein Urteil des Todes
+ Doch wenn der Tag des Vergessens kommt
+ Werdet ihr mir folgen, ihr Diener der Dunkelheit 
+
+Message:  1012
+Ihr habt die gesuchte Schriftrolle gefunden,
+die _qgiver_ begehrt.
+
+Message:  1013
+Ihr nehmt einen leichten Hauch ranzigen Rauchs wahr
+und bemerkt sogleich, dass die Schriftrolle, welche
+_qgiver_ wollte, verschwunden ist.
+
+Message:  1014
+Ihr habt mich gerufen, %pcf.
+Und verweigert Ihr meine Umarmung?
+
+Message:  1015
+Ein Feuerstoß entströmt der Schriftrolle
+und formt eine lodernde Kreatur.
+

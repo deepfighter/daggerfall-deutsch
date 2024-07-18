@@ -1,0 +1,148 @@
+Quest: K0C00Y09
+DisplayName: Wiedergutmachung
+QRC:
+
+QuestorOffer:  [1000]
+Mein ehemaliger Geschäftspartner hier im
+__qgiver_, ein _enemy_, hat
+sich einen größeren Teil unserer Einnahmen,
+als %g2 zusteht, unter den Nagel gerissen und
+___qgiver_ überstürzt verlassen.
+Wie dem auch sei, ich bin kein rachsüchtiger
+Mensch, aber ich würde es zu schätzen wissen,
+wenn Ihr den _enemy_ zu mir bringen könntet,
+damit %g mir eine Erklärung für %g3 Verhalten
+liefern kann. Ich bezahle Euch _gold_ Goldstücke,
+wenn Ihr %g2 mir lebend bringt und _lessgold_ Goldstücke,
+solltet Ihr %g2 versehentlich umbringen.
+<--->
+Dieser abscheuliche _enemy_ hat sich mein
+Vertrauen erschlichen, mich fröhlich an der
+Nase herumgeführt und ist dann ohne ein Wort
+abgehauen, mit einem ansehnlichen Teil meines
+Vermögens. Der Diebstahl des Geldes stört mich
+zwar, doch nicht so sehr wie der Verrat. Ich will,
+dass Ihr %g2 aufspürt und zu mir bringt und
+bin bereit, Euch dafür _gold_ Goldstücke
+zu bezahlen. Seid Ihr fähig und bereit dazu?
+<--->
+Ich benötige die Dienste eines Menschenjägers,
+oder, um genau zu sein, eines _enemy_-Jägers.
+Seht, %g hat die Stadt verlassen, ohne %g3 Schulden
+bei mir zu begleichen. Hier geht es ums Prinzip.
+Es würde mir nichts ausmachen, Euch _gold_ Goldstücke
+für %g3 Gefangennahme zu bezahlen, aber mein
+Ruf wäre ruiniert, wuerde ich zulassen, dass meine
+Schuldner ___qgiver_ verlassen, solange sie mir
+noch Geld schulden. Werdet Ihr diesen Versager
+für mich jagen?
+
+RefuseQuest:  [1001]
+Nein? Gut, dann werde ich einfach
+zur Kriegergilde gehen und jemand
+anderen anheuern.
+<--->
+Zu schade. Lasst es mich wissen,
+wenn Ihr Eure Meinung ändert.
+
+AcceptQuest:  [1002]
+Gut. Der _enemy_ trägt den Namen
+=enemy_ und Gerüchten zufolge hat
+%g sich in ___mondung_ verkrochen,
+allerdings nur für höchstens =queston_ Tage.
+Ich will, dass Ihr Euch bis dahin wieder bei mir
+gemeldet habt. Denkt daran, =enemy_ ist
+ein zäher _enemy_, also erwartet einen Kampf,
+doch versucht, %g2 nicht zu töten. Ich will %g2
+lebend, nicht tot. Viel Glück, %pcf.
+<--->
+Das ist gut. Meine Quellen berichten mir,
+dass der _enemy_ Zuflucht in
+___mondung_ gesucht hat und
+vermutlich für ungefähr =queston_ Tage dort verweilen
+wird. Ich bin mir sicher, dass =enemy_,
+so heißt dieser verfluchte _enemy_, nicht
+ohne Kampf mit Euch kommen wird, aber versucht,
+%g2 nicht umzubringen. Ich erwarte Euch innerhalb von
+=queston_ Tagen zurück. Viel Glück.
+<--->
+Das ist erschreckend hilfsbereit von Euch, %pcf.
+Ich habe selbst ein paar Nachforschungen
+angestellt und es scheint, als würde unser
+_enemy_-Freund sich in der Nähe von
+___mondung_ herumtreiben, ohne Schutz
+und alleine, abgesehen von den üblichen,
+anäessigen Rohlingen. %g3 Name ist
+=enemy_  und ich erwarte %g2 hier
+innerhalb von =queston_ Tage, vorzugsweise
+lebend. Enttäuscht mich nicht.
+
+QuestComplete:  [1004]
+Ah, guten Tag, =enemy_.
+Mir scheint, wir müssen uns ber
+Geschaeftliches unterhalten, nicht wahr?
+%pcf, ich danke Euch, dass Ihr diesem
+_enemy_ die Reise so gemütlich wie
+möglich gemacht habt. Hier sind die
+_gold_ Goldstücke, die ich Euch
+versprochen habe.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ war ein Narr, Geschäfte mit jemandem wie =enemy_ zu machen.
+<--->
+_qgiver_ hätte =enemy_ nie vertrauen sollen -- %g ist ein notorischer Dieb.
+
+RumorsPostfailure:  [1006]
+=enemy_ ist anscheinend damit davongekommen. Und _qgiver_ ist so wütend wie das Reich des Vergessens.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ probiert uralte %ra-Foltertechniken an =enemy_ aus.
+<--->
+Ich würde jetzt nicht dieser _enemy_ sein wollen -- in den Händen von _qgiver_.
+
+QuestorPostsuccess:  [1008]
+Oh hallo, %pcf. =enemy_ würde auch hallo sagen ... wenn %g noch eine Zunge hätte.
+
+QuestorPostfailure:  [1009]
+Ihr denkt doch nicht wirklich, dass ich Euch etwas zu sagen hätte, oder, %pcf?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ vom
+ __qgiver_, ___qgiver_
+ hat mich nach ___mondung_
+ geschickt, um einen flüchtigen _enemy_
+ namens =enemy_ zu finden und %g2
+ zurück zum __qgiver_ zu bringen. Ich
+ habe =queston_ Tage, um das zu bewerkstelligen,
+ und _qgiver_ schärfte mir ein, dass
+ %g =enemy_ lebend will.
+
+Message:  1011
+_qgiver_ wollte =enemy_
+lebend, aber Ihr habt %g2 erschlagen.
+
+Message:  1012
+Au! %oth,
+ich ergebe mich!
+<--->
+Ich gebe auf!
+Ich gebe auf!
+<--->
+Tötet mich nicht!
+Ich  ergebe mich!
+
+Message:  1013
+=enemy_ schleicht davon,
+als Ihr nicht hinseht.  Wie dem auch
+sei, es ist ohnehin zu spät, um
+die Belohnung abzuholen.
+
+Message:  1014
+Nun gut, ich hätte =enemy_
+gerne lebendig gehabt, aber vermutlich
+hätte ich %g2 letzten Endes selbst
+umgebracht. Hier sind _lessgold_ Goldstücke.
+Nicht der volle Betrag, aber ich bin nicht
+undankbar.
+

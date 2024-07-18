@@ -1,0 +1,128 @@
+Quest: K0C00Y00
+DisplayName: Das Schicksal unterstützen
+QRC:
+
+QuestorOffer:  [1000]
+Vielleicht wärt Ihr die richtige Wahl für ein
+kleines Unterfangen, dass ich im Sinn habe.
+Einer meiner Mitbewerber hat sich einen meiner
+Aufträge erschlichen und einer illegalen, oder
+zumindest unmoralischen, Geschäftsbeziehung
+eingewilligt. Ich will die Situation richtigstellen und
+eine Botschaft schicken, die _competitor_
+davon abschrecken soll, sich weiter in meine Geschäfte
+einzumischen. Dies könnte es nötig machen, dass
+jemand ein paar Schädel einschlägt. Klingen
+_reward_ Goldstücke verlockend genug
+für dieses Unterfangen?
+
+RefuseQuest:  [1001]
+%oth, Skrupel machen mich unwirsch.
+
+AcceptQuest:  [1002]
+Großartig. _competitor_ hat einen Laden
+in __storehouse_, genannt "_storehouse_"
+und dort drinnen befindet sich das _mitem_,
+das Ihr für mich entwenden sollt. Und auf
+dem Weg nach draußen, lasst bitte diese Nachricht
+irgendwo im Laden liegen. Ich kann einfach
+nicht widerstehen. _competitor_ wird
+das _mitem_ in =2storehouse_ Tagen an einen
+sichereren Ort schaffen lassen, also werdet Ihr
+Euch beeilen müssen. Wenn Ihr nicht rechtzeitig
+zurück seid, ist Eure Belohnung verwirkt. Und muss
+ich überhaupt erwähnen, dass "_storehouse_"
+bewacht sein wird? Vermutlich nicht. Viel Glück.
+
+QuestFail:  [1003]
+Dies ist kein Spiel, %pcf.
+Dieser Auftrag muss erledigt werden.
+
+QuestComplete:  [1004]
+Das habt Ihr wahrlich gut gemacht,
+%pcf. Ah ja, ein hübsches,
+kleines _mitem_. Es besteht
+kein Zweifel daran, dass dies dasselbe
+_mitem_ ist, welches _competitor_
+für seinen Partner bewachen sollte.
+Ihr habt Euch Eure _reward_ Goldstücke
+zweifellos verdient.
+
+RumorsDuringQuest:  [1005]
+Die Tage sind gekommen, in denen der Konkurrenzkampf zwischen den Geschäften besonders blutrünstig wird.
+<--->
+_qgiver_ und _competitor_ sind härtere Rivalen als Gothryd und Akorithi.
+
+RumorsPostfailure:  [1006]
+_competitor_ reibt _qgiver_ %g3 neuestes Geschäft ja förmlich unter die Nase.
+<--->
+Hat sich herausgestellt, dass _competitor_ ein härterer Händler ist, als _qgiver_ es sich jemals erträumen hätte können.
+
+RumorsPostsuccess:  [1007]
+_competitor_ hat den Vertrag verloren, den %g mit so harter Arbeit _qgiver_ abspenstig gemacht hat.
+<--->
+_qgiver_ hat %g3 alten Vertrag zurück und ist glücklich wie eine gut gefütterte Harpyie.
+
+QuestorPostsuccess:  [1008]
+Nun, Ihr habt mir das _mitem_ beschafft, also was kann ich für Euch tun?
+
+QuestorPostfailure:  [1009]
+Ich habe einem Lakaien von _competitor_ nichts zu sagen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ aus ___qgiver_ hat
+ mich zum "_storehouse_" in __storehouse_
+ geschickt, um ein _mitem_ zu "befreien",
+ das dort gelagert wird und eine Nachricht abzulegen.
+ Wenn ich das schaffe und innerhalb von =2storehouse_ Tagen
+ zurück im __qgiver_ bin,
+ verdiene ich mir _reward_ Goldstücke.
+
+Message:  1011
+
+ _competitor_,
+ 
+ 
+ Nette Sicherheit für Eure Versicherung.
+ 
+  
+ Euer lieber Freund
+
+ _competitor_,
+
+Message:  1012
+                                 __competitor_
+                                  ___competitor_
+ 
+ 
+ Verehrter %pcn,
+ 
+      Ich habe Eure Nachricht erhalten. Sehr amuesant.
+ Ich mache Euch ein Angebot, bitte ueberdenkt es.
+ Bringt mir das gestohlene _mitem_ zurueck und ich
+ werde Euch mit einem _gem_ entschaedigen. Wenn
+ Ihr das _mitem_ zu Eurem Arbeitgeber bringt, werdet
+ Ihr Euch einen Feind gemacht haben.
+ 
+ 
+ _competitor_
+
+Message:  1013
+Ein junger Bursche übergibt Euch einen Brief und
+läuft davon, bevor Ihr ihm eine Frage stellen könnt.
+
+Message:  1014
+Wollt Ihr _competitor_ das _mitem_
+im Austausch für einen _gem_ geben?
+
+Message:  1015
+Eine weise Entscheidung, %pcf. Dies könnte
+der Beginn einer profitablen Geschäftsbeziehung
+sein. Auf der anderen Seite werden die profitablen
+Tage von _qgiver_ bald gezählt sein.
+
+Message:  1016
+Ich weiß nicht, warum Ihr dann gekommen
+seid. Verlasst diesen Ort jetzt, %pcf.
+

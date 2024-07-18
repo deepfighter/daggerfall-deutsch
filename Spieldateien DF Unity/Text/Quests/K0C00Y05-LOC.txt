@@ -1,0 +1,170 @@
+Quest: K0C00Y05
+DisplayName: Das verlorene Kind
+QRC:
+
+QuestorOffer:  [1000]
+Ich habe mich schon an die Kriegergilde
+gewendet, aber dort haben sie anscheinend
+alle Hände voll damit zu tun, vornehme
+Jungfrauen und Knaben in Not zu retten,
+als dass das Verschwinden eines Kindes
+niedriger Geburt sie kümmern würde.
+Aber _child_ ist alles, was ich habe.
+Bitte, Ihr werdet %g2 für mich finden,
+das werdet Ihr doch. Oder, mein Freund?
+<--->
+Diese teuflischen Orks haben mir meinen
+kleinen Cousin geraubt und unsere sogenannten
+Beschützer, die Kriegergilde, weigern sich, mich
+ernst zu nehmen. _child_ ist doch nur ein
+=child_, ihre Aufmerksamkeit nicht wert,
+aber %g ist alles, was ich habe. Bitte,
+werter %ra, werdet Ihr mir helfen?
+
+RefuseQuest:  [1001]
+Ein Herz aus Stein, genau wie
+die Kriegergilde. Was ist das
+Leben eines unschuldigen Kindes
+schon wert?
+
+AcceptQuest:  [1002]
+Ich danke Euch, Ich danke Euch. Ich
+gebe Euch _gold_ Goldstücke, wenn
+Ihr _child_ findet -- das ist alles,
+was ich habe. Also, die Orks, die
+%g2 mitgenommen haben, haben ihr
+Lager im stinkenden ___mondung_ aufgeschlagen.
+Ich muss innerhalb von =queston_ Tagen
+wissen, ob es _child_ gut geht,
+ansonsten schicke ich jemand anderen. Bitte
+lasst mich nicht so tief sinken. %god sei
+mit Euch, werter %pcn.
+
+QuestComplete:  [1004]
+_child_, oh %god sei Dank!
+%oth, mein guter, guter %pcn,
+Ihr seid mein Retter. Hier, nehmt
+Eure _gold_ Goldstücke.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ ist ziemlich verzweifelt, seit _child_ verschwunden ist.
+
+RumorsPostfailure:  [1006]
+_qgiver_ hat  es aufgegeben, _child_ jemals wiederzufinden.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ und _child_ sind wieder vereint, dank diesem %ra-Söldner.
+
+QuestorPostsuccess:  [1008]
+Ihr habt _child_ zu mir zurückgebracht, %pcf. Wie kann ich Euch im Gegenzug helfen?
+
+QuestorPostfailure:  [1009]
+Erinnert Ihr Euch nicht an mich, %pcf?
+_qgiver_? Ihr sagtet, Ihr würdet
+_child_ für mich zurückholen,
+aber Ihr habt versagt. Ich habe Euch
+nichts zu sagen. Fahrt ins Reich
+des Vergessens.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_
+ vom __qgiver_, ___qgiver_
+ hat mich ausgesannt, %g3
+ kleinen Cousin, _child_,
+ zu retten. Anscheinend wird %g
+ von einer Gruppe Orks in ___mondung_
+ gefangen gehalten. Ich habe =queston_ Tage,
+ um das Kind zu retten.
+
+Message:  1011
+                             __knight_
+                              ___knight_
+ 
+ %pcn,
+ 
+      _child_ wurde nicht von
+ einem Stamm wilder Orks oder dergleichem
+ entführt. Tatsächlich ist %g bei uns, zum
+ eigenen Schutz vor _qgiver_, der
+ ein notorischer Trinker ist. Wenn Ihr es mit
+ Euren eigenen Augen sehen wollt, kommt
+ nach __knight_.
+ 
+                 Hochachtungsvoll, Euer
+ 
+                            _knight_
+
+Message:  1012
+Ein Kurier, der das Wappen der
+Kriegergilde trägt, erscheint an
+Eurer Seite. Er übergibt Euch
+einen Brief und eilt davon.
+
+Message:  1013
+%qdt:
+ Ich habe einen Brief von _knight_,
+ einem Ritter von der Kriegergilde, erhalten,
+ in dem steht, dass %g das Kind, dass ich
+ aus ___mondung_ retten soll, hat.  _knight_
+ zufolge wurde _child_ aus der Gewahrsam
+ von _qgiver_ genommen, weil dieser =qgiver_
+ ein Trinker ist. Wenn ich mich davon überzeugen
+ will,  _knight_ ist im __knight_
+ in ___knight_.
+
+Message:  1014
+Ich nehme an, Ihr habt meinen Brief
+erhalten, %pcf. Das ist gut. Es
+wäre nicht gut, wenn Ihr, wenn auch
+nur aus den besten Beweggründen,
+in eine unschöne Angelegenheit verwickelt
+werden würdet. _child_ ist der Cousin
+von _qgiver_, aber viel wichtiger, dieses
+=child_ ist der Erbe des Vermögens
+seines Großvaters. Zu %g3 eigenen
+Sicherheit haben wir %g2 an einen sicheren
+Ort in __childlocale_ gebracht. Ich denke,
+ich kann Euch den Namen verraten -- _childlocale_.
+Es würde Euer ohnehin schon gutes Ansehen in der
+Kriegergilde noch weiter verbessern, wenn Ihr
+_child_ einfach in Frieden lasst.
+
+Message:  1015
+Hi, ich bin _child_.
+Ich bin sieben Jahre alt.
+<--->
+Hi. Mein Name ist _child_.
+Willst du einen Witz hören?
+Okay, hier kommt er.
+%jok.
+<--->
+Mein Großpfater ist reicher als du.
+<--->
+Hallo, ich soll nicht mit Fremden reden.
+Aber wenn ich nicht mit Fremden rede,
+dann kann ich mit gar keinem reden.
+Mein Name ist _child_.
+<--->
+Hallo, bist du ein %ra? Ich bin auch
+einer, und mein Name ist _child_.
+
+Message:  1016
+_child_ läuft davon,
+als Ihr Euch von %g2 abwendet.
+
+Message:  1017
+Nehmt Ihr _child_ mit?
+
+Message:  1018
+Der Krieger trägt das
+Wappen der Kriegergilde.
+
+Message:  1019
+%qdt:
+ Ich habe mich mit _knight_ von
+ der Kriegergilde getroffen. %g verriet mir,
+ dass _child_  sicher im
+ _childlocale_ in __childlocale_
+ untergebracht ist.
+

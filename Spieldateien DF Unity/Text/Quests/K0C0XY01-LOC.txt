@@ -1,0 +1,168 @@
+Quest: K0C0XY01
+DisplayName: Harpyiennest
+QRC:Das 
+
+QuestorOffer:  [1000]
+Ich befinde mich in einer nicht ungewöhnlichen
+Lage. Ein Nest von Harpyien hat sich in einem
+meiner alten Besitztumer niedergelassen und
+obgleich mir dies persönlich gleichgültig ist,
+hat unser weiser und gütiger %rt verfügt,
+dass der Eigentümer jeglicher von Harpyien
+befallenen Baulichkeit für deren Ausrottung
+verantwortlich ist. Es scheint, dass bei
+Nichtbefolgung eine Strafe droht. Offen gesagt,
+habe ich keine Zeit für derlei; doch wenn es
+Euch genehm wäre, Euer Schwert etwas zu besudeln,
+könnte ich Eure Hilfe gut gebrauchen. Der letzte
+Söldner, den ich anheuerte, vermochte es nicht,
+diese Aufgabe zu erfüllen, daher würde ich verstehen,
+wenn Ihr zögert. Ich wäre bereit, Euch für Eure
+Mühen, sagen wir, _reward_ Goldstücke zu zahlen.
+
+RefuseQuest:  [1001]
+%oth. Nun gut, ich kann Euch keinen
+Vorwurf machen. Ich könnte den Gestank von
+Harpyien selbst nicht ertragen.
+
+AcceptQuest:  [1002]
+Würdet Ihr? Wunderbar. Nun, der Haken ist, dass
+ich einen Beweis benötige, dass ein ernsthafter
+Versuch unternommen wurde, ___mondung_
+in =2mondung Tagen zu säubern. Wie Ihr seht,
+bleibt dafür nicht mehr viel Zeit. Ich hatte gehofft,
+dass _contact_, der Söldner, den ich zuvor von
+der Kriegergilde angeworben hatte, fähiger wäre.
+Und, hört, %pcf, Ihr müsst nicht alle
+___mondung_ töten. Tötet nur vier oder fünf
+dieser Viecher und kommt zurück. Ah, jetzt weiß
+ich! Die Clanführer tragen speziell gefärbte
+Greifenfedern. Bringt eine davon zurück, und
+ich habe den Beweis, den ich benötige. Stellt
+nur sicher, dass Ihr in =2mondung Tagen nicht
+versäumt zurückzukehren, %pcf.
+
+QuestFail:  [1003]
+%oth. Ihr habt Euch nicht besonders angestrengt.
+
+QuestComplete:  [1004]
+Gut gemacht, %pcf. Nun kann ich dem
+%rt beweisen, dass ich meine bürgerliche
+Pflicht erfüllt habe, oder es zumindest
+versucht habe. Ihr habt Euch Eure
+_reward_ Goldstücke wahrlich verdient. Danke.
+
+RumorsDuringQuest:  [1005]
+Der %rt verlangt einen physischen Beweis für die Ausrottung der Harpyien von einigen Söldnern.
+<--->
+_qgiver_ hat ___mondung_ wirklich verkommen lassen. Es ist kaum noch ein Lagerhaus.
+<--->
+_qgiver_ sollte __mondung_ zerstören lassen, wenn es nicht genutzt wird.
+
+RumorsPostfailure:  [1006]
+Der %rt hat _qgiver_ so viele Goldstrafen aufgehalst, dass ich mich frage, ob %g sich davon erholen wird.
+<--->
+_qgiver_ hat, wie ich das sehe, wirklich Pech mit seinen Harpyienjägern gehabt.
+
+RumorsPostsuccess:  [1007]
+Der %rt scheint mit den Bemühungen von _qgiver_, ___mondung_ zu säubern, zufrieden zu sein.
+<--->
+_qgiver_ hat erste Anstrengungen unternommen, dieses schmutzige ___mondung_ zu säubern.
+
+QuestorPostsuccess:  [1008]
+Ihr habt mir mit diesen Harpyien geholfen, %pcf. Womit kann ich Euch helfen?
+
+QuestorPostfailure:  [1009]
+Ich habe einem %ra, der nicht einmal ein paar Federn aufheben kann, nichts zu sagen.
+
+Message:  1030
+Eine große, weiße Feder, in einem abstoßenden Rotton gefärbt.
+
+Message:  1031
+Eine graue Feder, in einem ekelerregendem Grünton gefärbt.
+
+Message:  1032
+Eine große, weiße Feder, tiefschwarz gefärbt.
+
+Message:  1033
+Eine graue Feder, mattblau gefärbt.
+
+Message:  1011
+Danke, %pcf. Ich kenne
+meinen Weg von hier aus.
+
+Message:  1012
+__qgiver_, ___qgiver_
+ Grüßt Euch, %pcn,
+
+       Es tut mir leid, Euch zu stören, während Ihr 
+sicherlich beschäftigt seid, aber ich erhielt einen Besucher von der Kriegergilde wegen _contact_,
+jenem Söldner, den ich zuerst angeheuert hatte, um
+___mondung_ zu säubern.
+
+       Ohne Euch mit den Details des Gesprächs zu
+langweilen, lasst mich Euch sagen, dass ich dem
+Gildenmeister versprochen habe, Euch zu bitten,
+nach _contact_ zu suchen, während Ihr in
+___mondung_ seid. _contact_ sieht
+aus wie ein =contact_, also sollte %g in
+___mondung_ auffallen.
+
+       Nun, ich habe mein Versprechen an den
+Gildenmeister erfüllt. Persönlich ist es mir egal,
+ob Ihr diesen Brief wegwerft und _contact_ in __mondung verrotten lasst.
+
+       Ich erwarte Eure Rückkehr mit Spannung.
+ 
+ Hochachtungsvoll,
+ _qgiver_
+
+Message:  1013
+Ihr seid von _qgiver_?
+Dank %god, dass Ihr gekommen
+seid, %pcf. Ich hoffe,
+es macht Euch nichts aus,
+wenn ich Euch begleite.
+Nehmt diesen Schmuck
+[_jewelry_] als Zeichen
+meiner Dankbarkeit.
+
+Message:  1014
+Ein junger Bote erscheint an Eurer
+Seite, überreicht Euch einen Brief
+und verschwindet ohne ein Wort.
+
+Message:  1020
+%qdt:
+ _qgiver_, ein
+ Händler in ___qgiver_, hat mich
+ beauftragt, ___mondung_, sein
+ verlassenes Eigentum, welches von
+ Harpyien befallen ist, zu säubern.
+ Anscheinend muss der Ort nicht komplett
+ gesäubert werden, aber irgendeine Art
+ von Anstrengung ist nötig, oder zumindest
+ der Anschein einer solchen. Ich muss
+ innerhalb von =2mondung_ Tagen mit einer
+ Clanfeder von einem der Anführer
+ zurückkehren, um eine Belohnung von
+ _reward_ Goldstücken zu erhalten.
+
+Message:  1030
+1 Harpyie tot
+
+Message:  1031
+2 Harpyie tot
+
+Message:  1032
+3 Harpyie tot
+
+Message:  1033
+4 Harpyie tot
+
+Message:  1040
+Ich benötige einen Beweis, bevor ich Euch bezahlen kann.
+
+Message:  1099
+Ihr habt eine Clanfeder gefunden.
+

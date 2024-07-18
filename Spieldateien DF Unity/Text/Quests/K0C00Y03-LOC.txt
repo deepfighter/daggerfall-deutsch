@@ -1,0 +1,146 @@
+Quest: K0C00Y03
+DisplayName: Schmuggel
+QRC:
+
+QuestorOffer:  [1000]
+Ihr hättet doch sicherlich kein Problem damit,
+ein wenig Schmuggel für mich zu betreiben, oder,
+%pcf? Es besteht die Möglichkeit eines
+gewissen Risikos, doch es wird mit Sicherheit
+einen beachtlichen Gewinn für uns beide abwerfen.
+Euer Anteil würde _gold_ Goldstücke betragen.
+Was sagt Ihr dazu?
+<--->
+Schmuggeln ist ein anstößiges Wort, findet Ihr nicht?
+Ich bevorzuge zu sagen, dass ich jemanden brauche,
+der juristisch fragwürdige Waren an einen Ort bringt,
+an dem manche Parteien diese willkommen heißen
+würden, während andere - insbesondere das Gesetz -
+dies nicht tun würden. Seid Ihr interessiert?
+
+RefuseQuest:  [1001]
+Dann haben wir uns niemals getroffen.
+Denkt daran, %pcf.
+<--->
+In diesem Fall werde ich bestreiten,
+Euch jemals begegnet zu sein.
+
+AcceptQuest:  [1002]
+Ausgezeichnet. Hier ist der Plan, %pcf.
+Ich betreibe ein kleines Nebengeschäft, indem ich
+_item_ nach __conhouse_ exportiere,
+jedoch lässt der %t meine übrigen Boten beschatten.
+Wenn Ihr das _item_ nach __conhouse_
+zu einem Ort namens _conhouse_ bringen
+könnt, wird mein Kunde, _contact_,
+Euch die _gold_ Goldstücke zahlen, die ich erwähnt
+hatte. Sprecht nicht mit den Wachen, solange Ihr das
+_item_ bei Euch tragt, und liefert es spätestens
+in =queston Tagen in _conhouse_ ab,
+oder ich werde es zu meiner Lebensaufgabe machen,
+Euer Ansehen in den Augen des Gesetzes, der Unterwelt
+und aller anderen, die mir sonst noch einfallen, zu
+ruinieren. Doch ich bin sicher, dass Ihr mich nicht
+enttäuschen werdet. Viel Glück, mein Kind. Macht _qgiver_ stolz.
+
+QuestComplete:  [1004]
+Vor Euch sitzt ein aufgeregtes,
+nervliches Wrack, das nur auf
+Eure Ankunft wartet, %pcf.
+Ah, das _item_. Ein wahrhaft
+wertvolles Stück. Hier nehmt
+Eure _gold_ Goldstücke. War
+nett, Geschäfte mit Euch und
+_qgiver_ zu machen.
+
+RumorsDuringQuest:  [1005]
+Der _item_-Schmuggel zwischen ___qgiver_ und __conhouse_ ist eine Schande für ganz %reg.
+<--->
+Der %t hat geschworen, den florierenden _item_-Schmuggel zu unterbinden.
+
+RumorsPostsuccess:  [1007]
+Sie werden es niemals schaffen, den _item_-Schmuggel in %reg zu beenden. Die Nachfrage ist einfach zu groß.
+<--->
+%rt %rn hat _qgiver_ zu sich gerufen, um den Kampf gegen den Schmuggel zu verstärken.
+
+QuestorPostsuccess:  [1008]
+_contact_ ließ mich wissen, dass Ihr wohlbehalten angekommen seid. Dafür schulde ich Euch Dank.
+
+QuestorPostfailure:  [1009]
+Vielleicht habt Ihr mich betrogen, vielleicht
+seid Ihr aber auch nur ein schlechter Schmuggler.
+Wie dem auch sei, verzieht Euch.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ aus ___qgiver_
+ hat mir _item_ übergeben, welches
+ ich nach __conhouse_ schmuggeln soll.
+ Der Name seines Kontakts dort lautet
+ _contact_ und %g wird mich in der
+ _conhouse_ erwarten. Natürlich muss ich,
+ solange ich die Lieferung bei mir habe,
+ aufpassen, dass ich nicht den Stadtwachen
+ in die Arme laufe. Ich habe =queston_ Tage für
+ diesen Botengang.
+
+Message:  1011
+Seid gegrüßt %pcf,
+ 
+       Ihr lauft in eine Falle.
+ _contact_ ist nicht in der _conhouse_.
+ Ein Ritter namens =guard_ lauert dort
+ bereits auf Euch. Wenn Ihr dieses _item_
+ sicher loswerden wollt, bringt es zu mir ins
+ "__contact2_" in ___contact2_.
+ 
+ 
+ _contact2_
+
+Message:  1012
+Ein Brief gleitet
+in Eure Hände.
+
+Message:  1013
+%qdt:
+ Ich habe einen Brief von jemandem namens
+ _contact2_ erhalten, in dem steht, dass
+ mich in _conhouse_ eine Falle erwartet.
+ Mir wird angeboten, das _item_ zu _contact2_
+ in %g3 Zimmer im "__contact2_" in___contact2_ zu bringen.
+
+Message:  1014
+Ah, Ihr habt meinen Brief erhalten. Gut
+für Euch. Es hat sich hier eine unschöne
+Situation entwickelt und ich würde es ungern
+sehen, dass Ihr darin verwickelt werdet. Ich
+nehme dann mal dieses _item_ an mich,
+als Gegenleistung dafür, dass ich Eure
+Beteiligung an diesem pfuscherhaften
+Schmuggelplan unter den Teppich kehre.
+Kein Grund mir zu danken.
+
+Message:  1015
+Wartet einen Moment, Kleiner.
+Wir wollen nicht Euch, nur _qgiver_
+und das _item_. Übergebt es uns
+und Ihr könnt hier unversehrt verschwinden,
+okay?
+<--->
+Hört zu, Kleiner, es ist nichts Persönliches.
+Gebt mir einfach das _item_ und
+ich werde meinem Auftraggeber sagen, Ihr wärt
+entkommen. Einverstanden?
+
+Message:  1016
+Ihr seid ein kluges Kerlchen.
+Jetzt verschwindet von hier.
+
+Message:  1017
+_qgiver_ wird nicht erfreut
+darüber sein, dass Ihr das _item_
+behaltet, aber es wäre ohnehin zu spät,
+es irgendwo abzuliefern. Ihr könntet
+immer noch versuchen, es irgendwo
+zu verkaufen ...
+

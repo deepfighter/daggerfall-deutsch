@@ -1,0 +1,159 @@
+Quest: K0C01Y00
+DisplayName: Eine Lehre
+QRC:
+
+QuestorOffer:  [1000]
+Stellt Euch nur vor, wie vollkommen mein Glück war,
+als meine heulende, betrügerische Geliebte der
+letzten zwei Jahre entführt wurde und man sie
+schließlich sogar tot glaubte. Dann stellt Euch
+meine Enttäuschung vor, als ich herausfand, dass
+=victim_ doch noch unter den Lebenden
+weilt. Als nächstes, stellt Euch vor, wie belustigt
+ich war, als %g3 Entführer ein Lösegeld verlangten.
+Und zuletzt, stellt Euch bitte meinen Verdruss vor,
+als %g3 Cousin tatsächlich einstimmte, das Lösegeld
+zu bezahlen. Das darf nicht sein. Ich brauche
+jemanden, der sicherstellt, dass das Freikaufen
+fehlschlägt. Werdet Ihr mir helfen?
+
+RefuseQuest:  [1001]
+%oth, was für eine Einstellung.
+Eure eigennützige Moral wird
+Euch eines Tages noch in
+Schwierigkeiten bringen.
+
+AcceptQuest:  [1002]
+%oth, %oth,
+und %oth.
+So wie ich diese Sache sehe, gibt es drei
+Wege, das Freikaufen zu verhindern. Einer wäre,
+sicherzustellen, dass die liebe _victim_
+versehentlich stirbt und das noch vor der
+Lösegeldübergabe in =queston1_ Tagen. Ich
+weiß natürlich nicht, wo %g ist, das wird also
+schwierig. Die nächste Möglichkeit wäre der
+zufällige Tod %g3 Cousins innerhalb derselben
+Zeitspanne. =cousin_, so heißt der Cousin,
+lebt in ___mondung2_, einer gut
+verteidigten Festung. Das könnte ebenfalls
+Schwierigkeiten bereiten. Zu guter Letzt könntet
+Ihr den _gem_ aus ___mondung2_ entfernen,
+den =cousin_ als Lösegeld
+zu übergeben vorhat. Was auch immer Ihr tut,
+seid innerhalb von =queston1_ Tagen oder früher
+mit Neuigkeiten zurück und Ihr werdet _gold_ Goldstücke
+reicher sein. Viel Glück, alter %ra.
+
+QuestComplete:  [1004]
+Also wird die arme _victim_
+nicht nach Hause kommen? Gut gemacht,
+mein Freund. Hier sind die _gold_ Goldstücke,
+wie versprochen. Ich habe mein Geld noch
+nie so gut angelegt.
+
+RumorsDuringQuest:  [1005]
+Armer _qgiver_. Kummer ist furchtbar. Wisst Ihr, %g sieht zehn Jahre juenger aus.
+<--->
+=cousin_ vermutet, dass _qgiver_ _victim_ gar nicht zurückhaben will.
+
+RumorsPostfailure:  [1006]
+_qgiver_ ist aus irgendeinem Grund wütend auf einen %ra namens %pcn.
+
+RumorsPostsuccess:  [1007]
+Sieht so aus, als würde _victim_ wirklich niemals zu ___qgiver_ zurückkommen.
+<--->
+_qgiver_ ist wegen _victim_ in tiefer Trauer versunken. Es ist wirklich traurig.
+
+QuestorPostsuccess:  [1008]
+Ihr habt mich von dieser beleibten Kröte _victim_ befreit, %pcf. Glaubt bloß nicht, das würde ich vergessen.
+
+QuestorPostfailure:  [1009]
+Ich habe Euch nur um eine Sache gebeten
+und Euch auch noch drei Wege gezeigt, um
+sie zu erledigen. Und Ihr habt versagt.
+Warum sollte ich mit Euch sprechen, Ihr
+dreckiger Haufen Dungpasteten?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ vom
+ __qgiver_, ___qgiver_
+ hat mich losgeschickt, um das Freikaufen
+ %g3 ungeliebten Geliebten zu verhindern.
+ Ich kann entweder diese _victim_
+ finden und umbringen, wobei ich keinen
+ Hinweis darüber habe, wo %g ist, oder
+ zu ___mondung2_ gehen, der Festung
+ %g3 Cousins =cousin_ und %g2 dort
+ entweder erschlagen oder den _gem_
+ stehlen, den %g als Lösegeld benutzen
+ wollte. In jedem Fall muss ich innerhalb von
+ =queston1_ Tagen, wenn das Lösegeld bezahlt
+ sein muss, zurück beim alten _qgiver_ sein.
+
+Message:  1011
+_victim_ bleibt beim Anblick
+eines %ra-Söldners vor
+Schreck das Herz stehen.
+<--->
+"Komm, graussamer Tod,"
+sagt _victim_ , als %g hastig
+einen Gifttrunk schluckt.
+"Ich werde im Jenseits mit
+meiner wahren Liebe, _qgiver_,
+wiedervereint sein."
+<--->
+"Assassine! Assassine!"
+_victim_ stirbt vor
+Angst.
+
+Message:  1013
+%pcf,
+ 
+     _victim_ wird in
+ ___mondung_ festgehalten.
+ Tut Euer Schlimmstes.
+ 
+     Es kümmert uns nicht. Diese
+ Entführer gehören nicht zu uns.
+ 
+ 
+ -- Die Diebesgilde
+
+Message:  1015
+Eine ausdruckslose Gestalt lässt
+eine Nachricht in Eure Hand gleiten,
+zwinkert und verschwindet.
+
+Message:  1017
+%dat:
+ Ich erhielt einen Brief von der
+ Diebesgilde. Es scheint, als wären
+ die Entführer keine Mitglieder der Gilde,
+ deshalb haben sie keine Gewissensbisse,
+ mir ihren Aufenthaltsort zu verraten:
+ ___mondung_
+ Wenn ich dem Leben der ungeliebten
+ _victim_ ein Ende bereiten will,
+ ist dies der richtige Ort dafür.
+
+Message:  1018
+Was, Ihr verdammter, dreckiger
+%ra, das hat wehgetan!
+<--->
+Ihr denkt wahrscheinlich, das
+hätte wehgetan, nicht wahr?
+
+Message:  1019
+Die letzte Hoffnung für _victim_,
+%g3 Cousin, hat das Zeitliche gesegnet.
+<--->
+=cousin_ wird jetzt
+niemanden freikaufen.
+
+Message:  1020
+Ihr habt den _gem_ gefunden,
+den =cousin_ als Lösegeld
+für _victim_ benutzen wollte.
+

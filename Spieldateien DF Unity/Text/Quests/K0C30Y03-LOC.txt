@@ -1,0 +1,419 @@
+Quest: K0C30Y03
+DisplayName: Schulden eines Adligen
+QRC:
+
+QuestorOffer:  [1000]
+Ah, mein Freund. Es schmerzt mich, eingestehen
+zu müssen, dass ich meinen geschäftlichen
+Angelegenheiten betreffend eine Fehlentscheidung
+getroffen habe, aber es ist, wie es ist. Ich habe
+einem Adeligen namens _patsy_ -- vielleicht
+ist Euch dieser Name geläufig, vielleicht auch
+nicht -- eine beträchtliche Summe Gold geliehen.
+Als Sicherheit für das Darlehen diente eine Urkunde
+über ein wertvolles Grundstück. Nun sind sowohl
+_patsy_ als auch die Urkunde spurlos
+verschwunden. Gerüchten zufolge befindet %g2 sich
+in finanziellen Nöten, doch die Summe, die %g mir
+schuldet, ist zu groß, um sie einfach abzuschreiben.
+Die Verbindung mit Leuten wie _patsy_ kann
+gefährlich sein, daher bedarf ich der Dienste eines
+tapferen Kriegers. Werdet Ihr mir beistehen, mein
+Freund, im Austausch für einen großen ungeschliffenen
+Diamanten?
+
+RefuseQuest:  [1001]
+Es betrübt mich, dies zu vernehmen. Ich verstehe
+es wohl, doch bleibt es dennoch enttäuschend.
+
+AcceptQuest:  [1002]
+Das ist erfreulich zu hören. Nun denn, ich habe
+dreißig Tage Zeit, bevor ich gezwungen bin, meine
+Finanzen genauer zu prüfen. Die Urkunde wurde,
+zusammen mit anderen Wertgegenständen, aus der
+örtlichen _bank_ in __bank_
+gestohlen. Doch das "zufällige" Verschwinden von
+_patsy_ zur selben Zeit wie die Urkunde
+verdient weitere Nachforschungen.
+ 
+Vor seinem Verschwinden lebte _patsy_
+in _house2_ in __house2_,
+welche, wie ich hörte, nun leer steht. Darüber
+hinaus habe ich keine Anhaltspunkte. Ich benötige
+entweder das Gold, das ich _patsy_
+geborgt habe, die Urkunde für das Grundstück oder
+seinen Kopf auf einem Spieß -- und das wie gesagt
+innerhalb von dreißig Tagen. Enttäuscht mich nicht,
+%pcf.
+
+QuestFail:  [1003]
+Ihr könntet zumindest versuchen die Ehre zu
+wahren und Euer gegebenes Versprechen einlösen.
+
+QuestComplete:  [1004]
+Der Versuch von _patsy_, Euch
+zu hintergehen, war vergebens, nicht wahr,
+%pcf? Hier ist der Diamant, den ich
+Euch versprochen habe. Wohlgetan, mein Freund.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ war nicht der Einzige, den _patsy_ betrogen hat. Viele Leute haben %g2 Geld geliehen.
+<--->
+_patsy_ hat __house2_ kürzlich überstürzt verlassen und Schulden, sowie gebrochene Herzen hinterlassen.
+
+RumorsPostfailure:  [1006]
+Es scheint, als sei _patsy_ mit allem davongekommen. Man sagt, %g befinden sich im hohen Norden, im Besitz eines beträchtlichen Vermögens.
+<--->
+Obgleich behauptet wird, _patsy_ sei tot, schenke ich dieser Behauptung keinen Augenblick Glauben.
+
+RumorsPostsuccess:  [1007]
+Niemand wird es jetzt wagen, bei _qgiver_ mit seinen Zahlungen in Verzug zu geraten, nicht nach jenem Vorfall mit _patsy_.
+<--->
+_patsy_ hat bewiesen, dass es töricht ist, zu versuchen, jemanden wie _qgiver_ zu betrügen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich habe dreißig Tage, um entweder
+ die Urkunde, die _qgiver_,
+ vom __qgiver_ in ___qgiver_
+ als Pfand für das Darlehen eines Adeligen
+ namens _patsy_ erhielt,
+ das Gold, welches _qgiver_ _patsy_
+ übergab, oder, sollte alles andere Scheitern,
+ den unauffindbaren _patsy_ selbst
+ zu finden. Das Pfand befand sich in der
+ _bank_ in __bank_, bevor die Bank
+ ausgeraubt wurde. Der einzige andere Ort,
+ den ich kenne, ist _house2_,
+ das alte Anwesen von _patsy_ in
+ __house2_. Sollte es mir gelingen
+ innerhalb von dreißig Tagen eines dieser
+ Ziele zu erreichen, wird _qgiver_
+ mir einen großen, ungeschliffenen Diamanten
+ geben.
+
+Message:  1011
+Gebt Ihr _hooker_ das Geld?
+
+Message:  1012
+Danke, Schätzchen. Ich hörte, Ihr seid von
+der anständigen Sorte und bin zu dem Entschluss
+gekommen, Euch eine Chance zu geben. Vor ein paar
+Wochen wurde ich von _patsy_ angeheuert --
+aber nicht für das, was Ihr jetzt vielleicht denkt.
+Ich sollte bloß mit irgendeinem alten Sack flirten
+und ihn dazu bringen, mich an einem bestimmten Tag
+zum Abendessen auszuführen. Ich nehme an, das war
+nur, um ihn aus dem Weg zu haben, denn wie ich später
+herausfand, wurde das Haus des Alten in derselben
+Nacht ausgeraubt, in der wir zusammen aus waren.
+Eine ganze Menge Zeug wurde mitgenommen, habe ich
+gehört. Der alte Kerl war niedlich und nett und ich
+habe mich deswegen schlecht gefühlt. Ihr wollt
+möglicherweise mit ihm sprechen. Sein Name ist
+_gaffer_. Ihr könntet auch zu dem Ort gehen, 
+wo ich diesen _patsy_ getroffen habe, die
+_house2_ in __house2_, und
+nachsehen, ob dort irgendjemand etwas weiß. Ich
+hoffe, all das hilft Euch, %pcf. Ich
+würde gerne selbst sehen, wie dem alten
+_patsy_ das Handwerk gelegt wird.
+
+Message:  1013
+%pcn,
+ 
+      solltet Ihr eine lange und gesunde Karriere in
+ den Landen der Bucht anstreben, so rate ich Euch
+ dringend, Eure vergebliche Jagd aufzugeben -- sie
+ ist zum Scheitern verurteilt. Das einzig mögliche
+ Resultat ist eine Tragödie, und diese Tragödie wird
+ Euch betreffen. Ihr werdet mich niemals fassen,
+ %pcf. Mein Reichtum schützt mich vor jedweder
+ Gefangenschaft.
+
+ Mit vorzüglicher Hochachtung,
+ 
+
+          _patsy_
+
+Message:  1014
+Euer Ziel ist %pcn,
+ein %ra-Abenteurer und Söldner.
+Lasst äußerste Vorsicht walten und
+bereitet Euch auf einen erbitterten
+Kampf vor.
+ 
+Dies hier ist kein kleiner Fisch.
+ 
+ 
+ -- _patsy_
+
+Message:  1015
+_banker_ arbeitet in der _bank_ in __bank_. Ein wahrhaft respektabler Herr.
+<--->
+Ein Bankier von typischer Langweiligkeit. _banker_ arbeitet in der _bank_ in __bank_.
+
+Message:  1016
+Ich werde Euch dasselbe sagen, was ich auch
+_patsy_ mitgeteilt habe. __banker_
+wird das gesamte beim Einbruch verlorene Gold
+erstatten -- bis auf den letzten Groschen.
+Es gilt lediglich, einige Fragen zum Hergang
+des Einbruchs zu klären. Angelegenheiten, die
+besser nicht mit Fremden erörtert werden sollten,
+Ihr versteht.
+
+Message:  1017
+Ah, schön Euch zu sehen, %pcf.
+Wir sind hier alle in gewisser Aufruhr wegen
+des jüngsten Einbruchs und all dem. Nur bestimmte
+Konten und Depots sind betroffen, daher stellt
+_guard_, unser Sicherheitsbeauftragter,
+gerade Nachforschungen über die Inhaber dieser
+Konten an. %g könnte Euch möglicherweise mehr
+Informationen geben, %pcf. Ihr findet
+_guard_ im __guard_ in
+___guard_.
+
+Message:  1018
+Ich fürchte, ich kann diese Angelegenheit nicht
+mit Euch besprechen, %pcn. Diese Sache
+betrifft ausschließlich _patsy_ und
+mich selbst, sonst niemanden. Wenn Ihr wirklich
+daran interessiert seid, zu helfen, begebt Euch
+zu _hooker_, einer Liebesdienerin, die
+irgendwie mit _patsy_ in Verbindung
+steht. Sie wird zehn Goldstücke ür Ihre Kooperation
+verlangen. Ihr findet sie in __house1_,
+einem Ort, der _house1_ genannt wird.
+Viel Glück, %pcf. Ich werde wahrscheinlich
+nicht mehr hier sein, wenn Ihr zurückkehrt, doch
+Ihr seid sicherlich in der Lage, die Untersuchungen
+selbst weiterzuführen.
+
+Message:  1019
+Ah, %pcn, mein Freund. Ich denke, wir
+könnten uns in dieser Angelegenheit gegenseitig
+von Nutzen sein. Ich weiß, wo sich _patsy_
+verbirgt, doch %g3 Verbündeten erschweren den
+Zugang zu %g2. Millionen von Goldstücken können
+mächtige Freunde erkaufen. Ihr müsst für mich
+diese Verbindungen trennen, danach werden wir
+uns erneut treffen, um _patsy_ gemeinsam
+das Handwerk zu legen. Bringt diesen Brief in
+die Festung %g3 Verbündeten, ___mondung_,
+und lasst ihn dort zufällig herumliegen. Danach
+begebt Ihr Euch nach ___mondung2_.
+Mit etwas Glück wird dieser Brief die Soldaten
+ablenken, sodass _patsy_ relativ ungeschützt
+sein wird, abgesehen von %g3 eigenen Wachen,
+natürlich. Sehr gut, %pcf, wir sehen
+uns bald wieder.
+
+Message:  1020
+_guard_ hat __guard_ verlassen. Anscheinend weiß %g, wohin _patsy_ gegangen ist.
+<--->
+_guard_ hätte __guard_ nicht verlassen, solange %g nicht gewusst hätte, wo _patsy_ Zuflucht gefunden hat.
+<--->
+Allenthalben fragen sich die Leute, warum _guard_ __guard_ so überstürzt verlassen hat.
+
+Message:  1021
+Planänderung, Jungs. Ich brauche Euch unverzüglich in
+___qgiver_. Wartet dort auf meine Antwort,
+welche nicht länger als ein paar Tage auf sich warten
+lassen sollte. 
+ 
+-- _patsy_
+
+Message:  1023
+Ihr wisst sofort, das dies
+_patsy_ sein muss.
+
+Message:  1024
+Ihr habt _patsy_ erschlagen, ohne Zweifel.
+
+Message:  1025
+Ich werde Verstärkung benötigen, sollten die Gerüchte
+über diesen %ra zutreffen. Bewahrt die Urkunde
+weiterhin an ihrem Versteck in ___mondung_
+auf, doch bringt Gold und Eure Männer hierher nach
+___mondung2_. Alles Weitere werden wir
+besprechen, sobald Ihr hier eingetroffen seid. 
+ 
+ -- _patsy_
+
+Message:  1026
+Auf diesem Klumpen _rock_ ist eine Markierung.
+Dort steht ___mondung_.
+
+Message:  1027
+Nur ein Klumpen _rock_. Seltsam, dass so etwas in der ___house2_ herumliegt.
+<--->
+Auf dem Klumpen _rock_ scheint eine Art Markierung zu sein, oder eine Gravur.
+<--->
+Sieht aus wie das Zeug, das man früher in  ___mondung_ abgebaut hat.
+
+Message:  1028
+Da steht ___mondung_ auf dem Klumpen _rock_; das ist eine verlassene Mine im %di.
+<--->
+Dieser Klumpen _rock_ muss vor Jahren abgebaut worden sein, als ___mondung_ noch eine Mine war.
+
+Message:  1029
+Dies scheint die Urkunde zu sein, welche _patsy_
+_qgiver_ als Pfand hinterlassen hat.
+
+Message:  1030
+Dies scheint jenes Gold zu sein, welches
+_qgiver_ an _patsy_ geliehen hat.
+
+Message:  1031
+                                   Nachtseitenzuflucht
+ 
+ 
+Seid gegrüßt %pcf,
+ 
+ 
+      Es ist uns zu Ohren gekommen, dass Ihr auf der
+ Suche nach _patsy_seid. Da wir Euch und
+ Eure Arbeit in hohem Maße respektieren, haben wir 
+ beschlossen, Euch in dieser Angelegenheit zu
+ unterstützen. _patsy_ hat unsere Dienste
+ vor mehreren Wochen in Anspruch genommen, und wir
+ erhielten unsere Bezahlung über eine kleine, jedoch
+ schlagkräftige Gruppe von %g3 Verbündeten, die in
+ einem Lager in ___mondung_ stationiert
+ sind. Wenn Ihr ernsthaft daran interessiert seid,
+ _patsy_ zu finden, wäre es klug, Eure
+ Suche dort zu beginnen.
+
+ Viel Glück und möge Mephala Euer Schwert leiten.
+ 
+ 
+ -- Die Bruderschaft
+
+Message:  1032
+Ihr bemerkt den jungen Boten erst, als Ihr
+spürt wie der Brief in Eure Hand gleitet.
+In dem Augenblick, in dem Ihr Euch umwendet,
+ist er bereits verschwunden -- so rasch,
+dass eine Verfolgung vergebens wäre.
+
+Message:  1033
+%pcn,
+ 
+      _patsy_ ist ein Dieb, jedoch keiner
+ aus unseren Reihen. Wir wünschen ebenso, dass %g
+ gefasst wird. Bitte nehmt diesen Beitrag zu Euren
+ Ausgaben an sowie diese Information: _patsy_
+ agiert nicht allein. Eine Gruppe von Söldnern
+ befindet sich unter %g3 Kontrolle an einem Ort
+ namens ___mondung_. Möglicherweise
+ lagert dort auch ein Teil %g3 Schätze, doch ich
+ glaube nicht, dass _patsy_ selbst dort
+ verweilt.
+
+Viel Glück, %pcf, und möge Baan Dar Euch begleiten.
+ 
+ 
+-- Die Gilde                          
+
+Message:  1034
+Ah, %pcf, mein Freund. Wieder einmal wurde
+ich verführt und betrogen. Vielleicht sollte ich
+wahrlich einem Kloster beitreten, denn mein Leben
+wäre ohne die Verlockungen der Frauen um vieles
+leichter, %oth. Hier, nehmt dieses Gold
+als meinen Beitrag zur Ergreifung des niederträchtigen
+_patsy_. Ich wünschte, ich könnte mehr geben,
+aber nach den jüngsten Ereignissen bin ich etwas
+verarmt. Zu Eurer Information, _patsy_
+hat zwei Verstecke in %reg, eines in ___mondung_
+und eines in __mondung2. Ich weiß nicht,
+welches davon, wenn überhaupt, derzeit genutzt wird,
+aber ich würde Euch raten, Euer bestes Schwert
+vorzubereiten. _patsy_ wird nicht ohne
+Widerstand zu Fall gebracht werden. Viel Glück und
+möge %god mit Euch sein.
+
+Message:  1035
+Warum sollte ich Euch auch nur ein Wort von dem
+erzählen, was ich weiß? Ihr seid nichts weiter als
+ein Spielgefährte von _qgiver_, der
+mich ebenso betrügen würde wie _patsy_
+es tat oder wie jene verfluchte _hooker_.
+Sucht Euch eine dunkle Höhle wie ___mondung_,
+um Euch zu verkriechen, zu verkümmern und zu sterben,
+Ihr Kind einer niederträchtigen %ra-Schankmagd.
+
+Message:  1036
+Seid gegrüßt %pcn,
+ 
+      ich besitze Informationen, die Euch
+ möglicherweise bei Eurer Suche nach
+ dieser Ratte _patsy_ von Nutzen
+ sein könnten. Solltet Ihr interessiert
+ sein, so sucht mich in __house1_
+ auf, einer Absteige, die als _house1_
+ bekannt ist. Vergesst nicht, 10 Goldstücke
+ mitzubringen. Solche Informationen sind
+ nicht kostenlos
+ 
+_hooker_
+
+Message:  1037
+"Das stammt von _hooker_," wispert eine
+Stimme, als ein junger Bote Euch eine Nachricht
+überreicht. Bevor Ihr zu einer Antwort ansetzen
+könnt, eilt er bereits davon.
+
+Message:  1038
+%qdt:
+ _banker_ wies mich an,
+ _guard_ im __guard_
+ in ___guard_ aufzusuchen,
+ welcher derzeit für die _bank_
+ Nachforschungen über den Bankraub
+ und _patsy_ anstellt.
+
+Message:  1039
+%qdt:
+ Ich habe _guard_ getroffen. %g hat
+ das Versteck von _patsy_ in
+ ___mondung2_ ausfindig gemacht.
+ Um %g3 Soldaten abzulenken, muss ich
+ einen Brief in der Festung %g3
+ Verbündeten, ___mondung_, hinterlassen
+ und mich sodann mit _guard_
+ in ___mondung2_ treffen,
+ um _patsy_ gefangen zu nehmen.
+
+Message:  1040
+%qdt:
+ Ich habe _guard_ getroffen. %g erzählte
+ mir, dass _patsy_ mit einer gewissen
+ _hooker_ in Verbindung steht, einer
+ Prostituierten in __house1_.
+ Ich werde sie im _house1_ aufsuchen.
+
+Message:  1041
+%qdt:
+ _hooker_ berichtete mir, dass
+ _patsy_ sie beauftragte, einen
+ gewissen _gaffer_ eine Nacht lang
+ abzulenken. Ich kann ihn im _tavern_
+ in __tavern_ antreffen.
+
+Message:  1042
+%qdt:
+ _gaffer_ berichtete mir, dass
+ _patsy_ zwei Verstecke besitzt.
+ Das eine befindet sich in ___mondung_,
+ das andere in ___mondung2_.
+
+Message:  1050
+Dieses Dokument enthält die Eigentumsrechte
+über _house3_ in __house3_, %reg.
+Lasst es allen, die dies lesen, bekannt sein,
+dass _patsy_ der alleinige und rechtmäßige
+Eigentuemer des zuvor erwaehnten Grundstücks ist.
+

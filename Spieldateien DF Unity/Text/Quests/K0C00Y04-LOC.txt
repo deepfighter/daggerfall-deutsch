@@ -1,0 +1,172 @@
+Quest: K0C00Y04
+DisplayName: Zwei Feiglinge
+QRC:
+
+QuestorOffer:  [1000]
+Ich befinde mich in einer misslichen Lage, fürchte
+ich. Neulich habe ich bei _lover_ ... 
+übernachtet und %g3 Geliebter ist furchtbar
+altmodisch in solcherlei Angelegenheiten. Ich wurde
+zu einem Duell herausgefordert. Glücklicherweise
+weiß _competitor_, das ist der Name
+meines Rivalen, nicht, wie ich aussehe. Ihr
+könntet mich vertreten. Für _gold_ Goldstücke, würdet
+Ihr das tun? Ich wäre Euch überaus dankbar.
+<--->
+Dieser =competitor_ hier aus %cn
+hat mich herausgefordert. Ich nehme an, es hat sich
+nun schon bis zu ihm herumgesprochen, dass ich die
+Ehre %g3 Geliebten befleckt habe, _lover_.
+Ist ja nicht so, als hätte nicht bereits ganz
+%reg bei der guten _lover_ gelegen. Einfach
+ausgedrückt, ich brauche jemanden wie Euch, der sich
+bei dem Duell für mich ausgibt. Würden Euch
+_gold_ Goldstücke Belohnung interessieren?
+
+RefuseQuest:  [1001]
+Nein? Welch ein Bedauern. Nun ja, ich
+sollte vielleicht ohnehin jemanden finden,
+der meiner Erscheinung ähnlicher ist.
+
+AcceptQuest:  [1002]
+Gute Antwort, %pcf. Bringt diesen
+Antwortbrief zu _competitor_.
+Ihr werdet %g2 in der __competitor_
+finden. Ich erwarte Euch siegreich zurück
+in =queston_ Tagen, für eine angemessene Belohnung.
+Viel Glück, mein Freund.
+
+QuestComplete:  [1004]
+Die Ehre wurde wiederhergestellt,
+eh, mein guter %ra? Hier sind
+Eure _gold_ Goldstücke. Und jetzt sollte
+ich meine liebe _lover_ besuchen gehen
+und %g2 die Ereignisse schildern ... mit
+ein paar kleinen Änderungen der Fakten,
+natürlich.
+
+RumorsDuringQuest:  [1005]
+_lover_, sagt man, habe mehr Tode verursacht als jede Seuche.
+<--->
+Der letzte von _lover_s Geliebten starb in %g2 Armen, während er versuchte, %g3 ... zufriedenzustellen.
+<--->
+Wenn _lover_ herausfindet, dass ein Duell um %g2 stattfindet ... %oth, dann wird es das gewesen sein.
+
+RumorsPostfailure:  [1006]
+_lover_ hat _competitor_ verlassen, und _qgiver_ auch.<--->
+Es ist alles vorbei zwischen _lover_, _competitor_ und _qgiver_.
+
+RumorsPostsuccess:  [1007]
+_lover_ und _qgiver_ sind wieder zusammen. Es ist so romantisch.
+<--->
+_qgiver_ hat einen =competitor_ getötet, nur um der Liebe von _lover_ willen.
+
+QuestorPostsuccess:  [1008]
+Es wäre mir eine Ehre, Euch zu helfen, %pcf. Und wir beide wissen alles über Ehre, nicht wahr?
+
+QuestorPostfailure:  [1009]
+Ihr solltet Euch für mich ausgeben, Idiot! Oder erinnert Ihr Euch nicht?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_
+ vom __qgiver_, ___qgiver_
+ wurde zu einem Duell herausgefordert und hat
+ mich geschickt, um mich fuer %g2 auszugeben.
+ Ich soll %g3 Anwort auf die Herausforderung von
+ _competitor_ überbringen und das Duell bestreiten.
+ Ich kann diesen _competitor_ in __competitor_
+ hier in ___competitor_ finden. Nach dem Duell soll
+ ich zu  _qgiver_ im __qgiver_ zurückkehren.
+ Und das alles für die Liebe von _lover_.
+
+Message:  1011
+Ich, _qgiver_ von ___qgiver_,
+erwidere hiermit auf Eure Herausforderung.
+ 
+Gemäß den formellen Regeln des ehrenhaften
+Zweikampfes obliegt es mir, den Ort unseres
+Duells zu bestimmen. Dieser Ort sei hier
+und die Stunde ist jetzt gekommen.
+ 
+Dieser Vertrag ist rechtlich bindend.
+Eine Ablehnung der Herausforderung ohne
+formelle Entschuldigung bedeutet den
+fortwährenden Verlust der Ehre.
+ 
+ _qgiver_ von ___qgiver_
+
+Message:  1012
+Ihr seid, uh, _qgiver_? Ihr
+sucht sicher nach dieser anderen Person
+namens _competitor_, einem
+wirklich starken, uh, _duelist_.
+Ihr findet %g2 in der _arena_.
+Viel Glück, _qgiver_. Ich
+hoffe, Ihr gewinnt!
+<--->
+Wenn Ihr _qgiver_ seid...
+%oth, wir treffen uns
+der _arena_. Lasst mich bloß,
+ah, meine _duelist_-Sachen anlegen.
+Auf gleich!
+
+Message:  1013
+Ihr seid in der _arena_,
+wo _competitor_ sagte, dass %g
+sich mit Euch treffen will.
+
+Message:  1014
+Ihr habt, im Austausch für _qgiver_,
+einen _duelist_ erschlagen, der
+an _competitor_s Stelle erschienen ist.
+Ihr müsst bloß noch zu Eurem Auftraggeber
+zurückkehren und die Ehre ist wiederhergestellt.
+
+Message:  1015
+Das ist ja absurd! Zum einen ist
+_competitor_ ein richtiger Armleuchter,
+_qgiver_ zu einem Duell zu
+fordern. Und  _qgiver_ wiederum ist
+wirklich ein Feigling, Euch zu schicken,
+um %g3 Platz einzunehmen. Danke,
+dass Ihr mir das vor Augen geführt habt.
+Keiner von ihnen soll mich haben, aber Ihr
+könnt diese _lovgold_ Goldstücke haben,
+wenn dieser Narr schon versprochen hat, Euch
+zu bezahlen.
+<--->
+Das ist zu romantisch! Stellt Euch nur vor --
+_competitor_ und _qgiver_ reißen
+sich gegenseitig in Stücke, nur meinetwegen.
+%oth, wie aufmerksam diese Geste auch
+sein mag, ich kann das nicht zulassen. Ich werde
+___lover_ verlassen, für immer; aber vorher,
+bitte nehmt diese _lovgold_ Goldstücke
+um die Belohnung zu ersetzen, die
+_qgiver_ Euch angeboten hat. Ich kann
+Euch nicht leer ausgehen lassen, nur weil kein
+Duell stattfindet.
+Gehabt Euch wohl, %pcf.
+<--->
+Verstehe ich das richtig? Dieser idiotische
+_competitor_ ist eifersüchtig
+auf mich und _qgiver_ und hat
+%g2 zu einem Duell herausgefordert. Und
+_qgiver_, dieser verdammte Feigling,
+hat Euch gebeten, Euch bei diesem Duell
+für %g2 auszugeben? Ist es verwunderlich,
+dass ich keinen von beiden liebe? Ich werde
+mich darum kümmern. Hier sind _lovgold_ Goldstücke
+anstelle der Belohnung, die _qgiver_ 
+Euch angeboten hat. Es wird
+kein Duell stattfinden.
+
+Message:  1016
+%qdt:
+ _competitor_ hat sich aus dem Staub gemacht,
+ als ich %g2 die Antwort auf %g3 Herausforderung
+ brachte. Das Duell soll immer noch auf die eine
+ oder andere Art stattfinden und zwar in der
+ _arena_ hier in __arena_.
+
