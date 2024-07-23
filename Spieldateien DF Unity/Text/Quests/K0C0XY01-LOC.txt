@@ -1,6 +1,6 @@
 Quest: K0C0XY01
 DisplayName: Harpyiennest
-QRC:Das 
+QRC:
 
 QuestorOffer:  [1000]
 Ich befinde mich in einer nicht ungewöhnlichen
