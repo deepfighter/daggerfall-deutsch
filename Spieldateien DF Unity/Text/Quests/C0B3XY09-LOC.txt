@@ -1,0 +1,76 @@
+Quest: C0B3XY09
+DisplayName: Das Große Übel
+QRC:
+
+QuestorOffer:  [1000]
+%pcn, mein Name ist _qgiver_.
+%god hat ein großes Übel prophezeit,
+das im Herzen eines nahen Dungeons wächst.
+Wir benötigen Eure Hilfe, um dieses Unheil
+zu zerstören. Werdet Ihr uns helfen?
+
+RefuseQuest:  [1001]
+Ich habe keine Zeit zu verlieren.
+Ich muss jemanden finden, der
+diese Aufgabe übernimmt.
+
+AcceptQuest:  [1002]
+Es gibt keine Zeit zu verlieren. Reiset
+zum ___dungeon_. Dort werdet
+Ihr das _evilfocus_ finden.
+Zerstört es innerhalb von =traveltime Tagen,
+und alles wird wieder gut sein. Ein
+Zeichen wird im Tempel erscheinen, wenn
+dies vollbracht ist. Kehret zu mir zurück,
+und ich werde Euch reichlich belohnen.
+
+QuestComplete:  [1004]
+%pcn, Ihr habt den Dank aller
+unserer Geistlichen. Das Übel ist
+zerstört worden. Wie versprochen,
+hier sind _gold_ Goldstücke als Euer Lohn.
+
+RumorsDuringQuest:  [1005]
+__qgiver_ zeigen plötzlich großes Interesse am ___dungeon_.
+
+RumorsPostfailure:  [1006]
+Das Übel ist immer noch im ___dungeon_, aber es hat seine Gestalt verändert.
+
+RumorsPostsuccess:  [1007]
+__qgiver_ haben ein Übel im ___dungeon_ zerstört, von dem nur wenige wussten, dass es existiert.
+
+QuestorPostsuccess:  [1008]
+Ihr seid der Zerstörer des _evilfocus_, natürlich erinnere ich mich an Euch.
+
+QuestorPostfailure:  [1009]
+Das _evilfocus_ gedeiht noch immer. Ich habe nichts für Euch außer Verachtung.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ein Mitglied von __qgiver_ in
+ ___qgiver_ namens _qgiver_
+ hat mir die Aufgabe übertragen, das
+ böse _evilfocus_ im ___dungeon_
+ zu zerstören. Es muss innerhalb von
+ =traveltime_ Tagen vollbracht werden,
+ sonst wird das Übel auf eine unschuldige
+ Welt losgelassen. Oder größtenteils
+ unschuldig jedenfalls.
+
+Message:  1011
+Als Ihr nach dem _evilfocus_ greift,
+verwandelt es sich in eine schöne Frau.
+
+Was für ein schmackhafter junger Sterblicher!
+Ich sehe, Ihr seid gekommen, um das _evilfocus_
+zu zerstören. Ich habe eine bessere Idee. Wenn
+ich Euch diesen magischen _magicitem_ gebe,
+geht Ihr zurück zum Tempel und sagt ihnen,
+dass Ihr das _evilfocus_ nicht finden konntet.
+Sie können Euch kaum die Schuld geben, und Ihr
+behaltet den _magicitem_.
+
+Message:  1012
+Dann sterbt als der fromme
+Sterbliche, der Ihr seid!
+

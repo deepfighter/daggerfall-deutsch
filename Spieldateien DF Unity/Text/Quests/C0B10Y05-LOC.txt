@@ -1,0 +1,80 @@
+Quest: C0B10Y05
+DisplayName: Die verfluchte Waffe
+QRC:
+
+QuestorOffer:  [1000]
+%pcn, wir haben eine gar gefährliche Aufgabe
+für Euch. Der Tempel ist in den Besitz einer uralten,
+bösen Waffe gelangt, welche seit langem von den Orks
+begehrt wird. Der Tempel ward bereits zweimal von
+diesen Kreaturen angegriffen. Diese Waffe muss an
+einen sicheren Ort gebracht werden. Werdet Ihr diese
+Aufgabe für uns übernehmen? Der Tempel wird Euch
+_gold_ Goldstücke zahlen.
+
+RefuseQuest:  [1001]
+Es enttäuscht mich, dass Eure Treue zum Tempel so
+gering ist. Doch angesichts der Gefahr sei Euch
+vergeben.
+
+AcceptQuest:  [1002]
+Nehmet dieses _evilitem_.
+In ___dungeon_ werdet
+Ihr _custodian_ finden,
+einen langjährigen Diener des
+Tempels. %g wird das Artefakt
+in Gewahrsam nehmen und es vor
+den Orks verbergen. Wir haben
+es mit einem magischen Schutz
+belegt, um Euch vor seiner bösen
+Aura zu bewahren. Diese Zauber
+jedoch werden in =traveltime Tagen
+verblassen.
+
+QuestComplete:  [1004]
+Ah, dies ist also das böse _evilitem_,
+von dem _qgiver_ gesprochen hat.
+Ich werde es hier verwahren, wo viele Verteidigungsmechanismen es schützen.
+_qgiver_ sagte, ich solle Euch
+_gold_ Goldstücke für den sicheren Transport
+überreichen.
+
+RumorsDuringQuest:  [1005]
+Die Orks haben Karawanen aus __qgiver_ überfallen.
+
+RumorsPostfailure:  [1006]
+Die Orks haben das _evilitem_ schließlich doch erlangt.
+
+RumorsPostsuccess:  [1007]
+Das _evilitem_ darf nicht in die Hände der Orks fallen.
+
+QuestorPostsuccess:  [1008]
+Ich hörte, Ihr seid das _evilitem_
+losgeworden. Nun denn, wie kann ich
+Euch dienlich sein?
+
+QuestorPostfailure:  [1009]
+Ich vertraute Euch mit dem _evilitem_
+und nun sehet, was geschehen ist.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von __qgiver_,
+ in ___qgiver_, gab mir
+ ein böses _evilitem_,
+ um es nach ___dungeon_
+ zu bringen, damit die Orks
+ es nicht erlangen. Ich habe
+ =traveltime_ Tage Zeit, es zu übergeben.
+
+Message:  1011
+Ihr müsst der Träger von Manshrieker,
+der heiligen Ork-Kriegswaffe, sein.
+Tötet den Menschen! Wir müssen dieses
+_evilitem_ haben.
+
+Message:  1012
+Das böse _evilitem_ sprüht
+Funken und löst sich auf. Ihr
+fühlt Euch plötzlich sehr krank.
+

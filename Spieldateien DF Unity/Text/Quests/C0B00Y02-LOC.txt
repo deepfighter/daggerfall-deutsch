@@ -1,0 +1,248 @@
+Quest: C0B00Y02
+DisplayName: Besessenes Kind
+QRC:
+
+QuestorOffer:  [1000]
+Wäret Ihr bereit, bei einem
+Exorzismus zu helfen, %pct?
+<--->
+_guardian_, ein hiesiger Ritter,
+hat uns gebeten, %g3 Schützling zu helfen,
+der Zeichen einer daedrischen Besessenheit
+zeigt. Wärt Ihr bereit, bei dem Exorzismus
+zu helfen, wenn dies erforderlich ist?
+
+RefuseQuest:  [1001]
+Das ist bedauerlich. Ich hoffe,
+wir finden jemand anderen.
+
+AcceptQuest:  [1002]
+Würdet Ihr? %oth, Ihr habt ein
+Herz so groß wie %reg, %pct.
+Das Kind heißt _child_, %g
+ist ein =child_ bei _house_
+hier in __house_, aber
+die Person, mit der Ihr sprechen
+müsst, ist %g3 Beschützer, _guardian_
+in _tavern_. Wenn Ihr nach dem,
+was %g zu sagen hat, meint, dass ein
+Exorzismus nötig ist, geht zu _priest_
+in __priest_ von ___priest_.
+Ich erwarte, dass diese unglückliche
+Angelegenheit in =queston_ Tagen gelöst
+ist und dass Ihr dann hier seid.
+Viel Glück, %god sei mit Euch.
+
+QuestComplete:  [1004]
+Danket %god, dass diese
+Situation gelöst ist. Man kann
+nie wirklich von Anfang an wissen,
+ob eine Austreibung wirklich nötig
+ist oder nicht. Ihr habt gut getan,
+%pcf. Nehmet dies _reward_
+als kleines Zeichen unseres Dankes
+für Eure Bemühungen.
+
+RumorsDuringQuest:  [1005]
+Amer kleiner _child_. Und armer _guardian_, der %g3 Schützling so leiden sehen muss.
+<--->
+Das Herz von %cn hat wirklich mit _child_ und %g3 schrecklicher Krise mitgefühlt.
+
+RumorsPostfailure:  [1006]
+_child_ und _guardian_ haben ___guardian_ verlassen.
+<--->
+Wir werden niemals wissen, ob _child_ wirklich besessen war.
+
+RumorsPostsuccess:  [1007]
+Alle danken %god für den %ra, der das Leben von kleinem _child_ gerettet hat.
+<--->
+Alles hat sich gut für den kleinen _child_ gewendet, also kümmert sich %god vielleicht doch.
+
+QuestorPostsuccess:  [1008]
+Ihr habt __qgiver_ bei der Austreibung geholfen. Was kann ich für Euch tun?
+
+QuestorPostfailure:  [1009]
+Ihr habt das Kind leiden lassen. Ich habe nichts zu Euch zu sagen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von ___qgiver_
+ will, dass ich sehe, ob ein
+ =child_ namens _child_
+ ein Opfer von Besessenheit ist
+ und, falls ja, %g2 zu heilen.
+ Ich soll zuerst mit %g3 Wächter,
+ _guardian_ von _tavern_, sprechen.
+
+Message:  1011
+Ihr kommt von __qgiver_?
+Bitte sagt mir, dass Ihr dem kleinen
+_child_ helfen könnt. Ich
+kann es nicht ertragen, %g2 so leiden
+zu sehen. Ich weiß nicht, was ich mit
+%g2 machen soll. Bitte, schaut Euch %g2
+an und seht dann, ob Ihr _priest_
+überzeugen könnt zu helfen. _child_
+war immer so ein liebes =child_,
+aber jetzt ... Wenn Ihr %g2 sehen wollt,
+%g ist in _house_. Ich weiß
+nicht, was ich sonst noch tun kann.
+
+Message:  1012
+Ihr seid von _qgiver?
+Danket %god, dass Ihr hier seid.
+Man sagt, Ihr könntet zu _priest_,
+dem Exorzisten in __priest_
+gelangen, und %g hat ein besonderes
+_item_ für solche Besessenheiten.
+Ich kann _priest_ nicht überzeugen,
+mir das _item_ selbst zu geben,
+aber jemand wie Ihr mit der Autorität
+von __qgiver_ könnte es. Geht zu
+___priest_ und sprecht mit
+%g2. Ich weiß, Ihr könnt %g2 überzeugen.
+
+Message:  1013
+%qdt:
+ _guardian_,
+ der Wächter von _child_,
+ bat mich, das Kind anzusehen und
+ dann zu prüfen, ob _priest_
+ von __priest_, ___priest_,
+ einen Exorzismus durchführen muss
+ oder nicht. _child_
+ ist in _house_.
+
+Message:  1014
+%qdt:
+ _guardian_,
+ der Wächter von _child_
+ bat mich zu __priest_ in
+ ___priest_ zu gehen, um
+ _priest_ um ein besonderes
+ _item_ zu bitten, um den
+ daedrischen Geist aus dem Kind
+ zu vertreiben.
+
+Message:  1015
+ "=daedra_ ... oh, %oth ...
+ =daedra_ is aus mir heraus ...
+ aber ... es ist immer noch hier."
+  
+ _child_ rennt weg. Und
+ Ihr könnt tatsächlich eine fremde
+ Präsenz in _house_ spüren.
+
+Message:  1016
+Oh, %oth, %oth ...
+ich fühle mich ... so viel besser.
+_guardian_ sagte mir, dass
+der _item_ uns helfen würde,
+und %g hatte recht. Oh, danke Euch,
+freundlicher %pct. Ich
+werde diesen _item_ zum Schutz behalten.
+Lebt wohl!
+
+Message:  1017
+Gruh, du rotäugiger sterblicher Tropf,
+ich würde alle deine Adern öffnen und
+in deinem dampfenden Blut schwimmen.
+Sie nennen mich =daedra_,
+den Lecker von Katzendreck!
+<--->
+Armer kleiner _child_, %g
+verrottet im Reich des Vergessens, und
+niemand wird %g2 helfen, aber netter,
+netter, netter, netter, netter, netter,
+netter, netter, netter, netter, netter,
+netter, netter, netter =daedra_.
+<--->
+Es war einmal ein Mädchen namens Vivian,
+das traf =daedra_ aus dem Reich des Vergessenn,
+sie beschlossen zu paaren, und später aßen sie
+_child_, ihr Kind, lecker, lecker.
+
+Message:  1018
+Es tut mir leid, %pcf, aber ich kann
+den _item_ nicht einfach jedem geben,
+der vermutet, ein Opfer von Besessenheit zu
+kennen. Er ist viel zu selten und kostbar.
+Ihr müsst zumindest das Kind sehen, bevor
+ich bereit bin, mich vom _item_ zu trennen.
+
+Message:  1019
+=daedra_? _child_ erwähnte
+den Namen =daedra_? Nun, wenn
+diese Besessenheit ein Schwindel ist, so ist
+es zumindest ein gut recherchierter. Hier also
+ist es [_item_]. Haltet ihn einfach bei
+Euch, wenn Ihr das nächste Mal mit dem Kind
+sprecht. Aber seid gewarnt, der Daedra, den
+_child_ erwähnte, ist ein Daedroth von
+großer Macht. Wenn der Exorzismus abgeschlossen
+ist, wird es %g2 verlassen und anderswo in
+_house_ erscheinen. Seid bereit für
+einen Kampf, wenn das passiert. Viel Glück,
+%pcf. %god sei mit Euch.
+
+Message:  1020
+%qdt:
+ Ich weiß nicht, wer =daedra_ ist,
+ aber das war der Name, den _child_
+ nannte, als ich %g2 sah. Dieses =child_
+ ist besessen, verrückt oder der beste
+ Schauspieler in %cn. Es könnte eine
+ gute Zeit sein, den Exorzisten in
+ __priest, _priest_
+ in _priest, aufzusuchen.
+
+Message:  1021
+Guter %pcf, ich kann Euch nicht
+genug danken für das, was Ihr für
+_child_ getan habt. Nun ist %g
+wieder ein glückliches, normales Kind.
+Ich habe _qgiver_ bei Eurem
+__qgiver_ davon erzählt und %g
+ist begierig, Euch zu beglückwünschen.
+Nochmals vielen Dank.
+
+Message:  1022
+Ich kann Euch sagen, wohin jener =guardian_,
+_guardian_, sich davongeschlichen hat, sicher.
+Aber solange Ihr nicht fünfzig Gold übrig habt
+für die Info, weiß ich nichts.
+
+Message:  1023
+Guten Tag, %pct. Ihr sucht wahrscheinlich
+diesen =guardian_, _guardian_,
+der sich hier weggeschlichen hat, nachdem
+er damit geprahlt hat, irgendeinen _item_
+von __qgiver_ gestohlen zu haben. Wenn
+Ihr fünfzig Goldstücke übrig habt für einen
+Freund, könnte ich Euch sagen, wohin _guardian_
+gegangen ist. Was sagt Ihr?
+
+Message:  1024
+Schön Geschäfte mit Euch zu machen,
+%pcf. Ihr findet jenen
+=guardian_ drüben
+in _house2_.
+
+Message:  1025
+"Verletzt mich nicht"
+_guardian_ überreicht
+Euch _item_ und flieht.
+
+Message:  1026
+%qdt:
+ _sneaker_, ein =sneaker_
+ drüben in _tavern_ erzählte
+ mir (für fünfzig Goldstücke),
+ dass jener _guardian_ nach
+ _house2_ ging, nachdem
+ _child_ _item_ von mir
+ gestohlen hatte. Die Besessenheit
+ war offensichtlich ein Betrug,
+ und _priest_ und _qgiver_
+ werden _item_ zurückhaben wollen.
+ 

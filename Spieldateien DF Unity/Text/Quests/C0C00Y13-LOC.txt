@@ -1,0 +1,66 @@
+Quest: C0C00Y13
+DisplayName: Botengang
+QRC:
+
+QuestorOffer:  [1000]
+Gesegnet seid Ihr, %pcn,
+obwohl Ihr ein Heide seid und
+nicht unserem Tempel angehört.
+Ich bin _qgiver_. Ihr wünscht
+also, dass __qgiver_ Euch
+einen Gefallen erweist? Bringt dieses
+_religitem_ innerhalb von =traveltime_ Tagen
+zu ___priest_ und ich werde wohlwollend
+über Euch sprechen.
+
+RefuseQuest:  [1001]
+Euer eigener Verlust. Fragt auf
+absehbare Zeit in diesem Tempel
+nicht nach einem Gefallen. %pcn.
+
+AcceptQuest:  [1002]
+Hier habt Ihr _religitem_.
+Bringt es _priest_ in __priest_
+in der Provinz ___priest_.
+Oh, ich hätte beinahe vergessen
+zu erwähnen, dass ein
+rivalisierender Tempel seine
+Schergen schicken könnte,
+um Euch aufzuhalten.
+
+QuestComplete:  [1004]
+Mögen die Götter Euch bevorzugen,
+%pcn. Dieses _religitem_
+wird hier dringend benötigt.
+
+RumorsDuringQuest:  [1005]
+Zwei Tempel streiten sich um _religitem_.
+
+RumorsPostfailure:  [1006]
+_priest_ hat niemals %g3 _religitem_ erhalten, und _qgiver_ ist zornig.
+
+RumorsPostsuccess:  [1007]
+_priest_ und __qgiver_ haben es geschafft _religitem_ zu bekommen, dank eines mutigen %ra.
+
+QuestorPostsuccess:  [1008]
+%god segne Euch, natürlich erinnere ich mich an Euch, %pcf. Wie geht es Euch, mein Kind?
+
+QuestorPostfailure:  [1009]
+_priest_ hat _religitem_ nie erhalten, und ich bin nicht erfreut darüber.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, von __qgiver_,
+ hat mir den Auftrag gegeben,
+ _religitem_ zu _priest_ in
+ __priest_ in ___priest_ zu bringen.
+ Es muss dort in den nächsten
+ =traveltime_ Tagen ankommen.
+
+Message:  1011
+Dieses _religitem_ wird
+niemals bei __priest
+ankommen. Stattdessen
+sollte ich denen Euren
+Kopf überreichen!
+

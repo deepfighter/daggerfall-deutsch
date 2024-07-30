@@ -1,0 +1,76 @@
+Quest: C0C00Y11
+DisplayName: Der Spuk
+QRC:
+
+QuestorOffer:  [1000]
+Ihr seid kein Mitglied von __qgiver_,
+%pcn. Gleichwohl scheint Ihr redlich
+genug zu sein. So will ich Euch etwas
+offenbaren: Ein Haus drüben in __house_
+wird von irgendeiner Art von Untoten heimgesucht.
+Wir benötigen jemanden, der diesen Geist 
+austreibt. Verrichtet diese Aufgabe, und
+vielleicht ändere ich mein Urteil über Euch.
+
+RefuseQuest:  [1001]
+Dies wird dem __qgiver_
+keineswegs gefallen.
+
+AcceptQuest:  [1002]
+Ist die Heimsuchung zu stark für Euch
+allein, tut nichts Unbedachtes! Begebt
+Euch zu _house_ in __house_.
+Ihr habt =traveltime_ Tage Zeit, andernfalls
+werden wir jemanden anderen entsenden,
+um diese Aufgabe zu erfüllen.
+
+QuestComplete:  [1004]
+Ihr habt also den Ort gereinigt, ja?
+Dies wird Euch zugutekommen, wenn ich
+mit den Hierarchen des Tempels spreche.
+
+RumorsDuringQuest:  [1005]
+_house_ wird von vielen mächtigen, bösen Geistern heimgesucht, so sagt man.
+
+RumorsPostfailure:  [1006]
+_house_ wird immer noch heimgesucht, trotz all der Bemühungen von ==qgiver_.
+
+RumorsPostsuccess:  [1007]
+Endlich gibt es in _house_ nur noch wohlgesinnte Hausgeister.
+
+QuestorPostsuccess:  [1008]
+Oh hallo, mein Freund, der Exorzist. Wie kann ich Euch dienen?
+
+QuestorPostfailure:  [1009]
+Ich gab Euch bereits eine Chance, und es war eine Verschwendung von Atemluft.
+<--->
+Denkt Ihr, ich hätte _house_ schon vergessen, %pct?
+
+QuestLogEntry:  [1010]
+%qdt
+ _qgiver_ von __qgiver_,
+ in ___qgiver_ hat mir die
+ Gelegenheit gewährt, _house_
+ in __house_ von einer untoten
+ Heimsuchung zu befreien. Ich habe
+ =traveltime_ Tage für diese Aufgabe.
+
+Message:  1011
+Im Leben habe ich dieses Haus erbaut.
+Mit welchem Recht stören mich die
+Sterblichen in meinen Todesträumen?
+
+Message:  1012
+Nun, wenigstens habt Ihr es versucht.
+Ich werde nicht schlecht über Euch reden.
+Doch das ist alles, was ich versprechen
+kann, %pcn.
+
+Message:  1080
+Des weiteren ist hier eine Karte
+zu ___newdung_, einem
+unreinen Ort, wie es ihn selten gibt.
+Erweist %reg einen Gefallen
+und vertilgt das Ungeziefer, das
+diesen Ort befällt.
+

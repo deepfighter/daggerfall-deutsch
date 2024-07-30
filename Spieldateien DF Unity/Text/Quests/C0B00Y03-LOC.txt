@@ -1,0 +1,94 @@
+Quest: C0B00Y03
+DisplayName: Vermisster Gelehrter
+QRC:
+
+QuestorOffer:  [1000]
+%pct, einer unserer Kleriker,
+ein =cleric_ namens _cleric_,
+ist verschwunden, als er an einer
+Ausgrabung teilnahm. Werdet Ihr
+uns helfen, %g2 zu finden?
+<--->
+Ich fürchte, dass einer unserer
+besten Wissenschaftler, _cleric_,
+bei der Erforschung einer alten
+Tempelruine verschwunden ist.
+Werdet Ihr uns helfen, %g2 zu finden?
+
+RefuseQuest:  [1001]
+Das ist offen gesagt eine
+ziemlich kaltherzige Blickweise,
+%pcf.
+
+AcceptQuest:  [1002]
+Das ist sehr gut. Also dann,
+_cleric_ ging vor fast zwei
+Wochen nach __mondung_
+um eine Ausgrabung zu machen.
+Möglicherweise ist ja alles in
+Ordnung, aber ... Ich gebe Euch
+=queston_ Tage Zeit, um dorthin
+zu gehen, _cleric_ zu finden
+und zurückzukommen. %god
+reise mit Euch, %pct.
+Viel Glück.
+
+QuestComplete:  [1004]
+Ah, %pct und werter
+_cleric_, es ist schön,
+Euch wieder zurück in
+__qgiver_ zu sehen.
+Ich habe das Schlimmste
+befürchtet, um ehrlich
+zu sein.
+
+RumorsDuringQuest:  [1005]
+Es war töricht von _cleric_, unbewaffnet nach ___mondung_ zu gehen.
+<--->
+___mondung_ ist kein Ort für einen forschenden =cleric_ wie _cleric_.
+
+RumorsPostfailure:  [1006]
+Niemand hat mehr Hoffnung, _cleric_ jemals wiederzusehen.
+<--->
+__qgiver_ betrauert das Verschwinden von _cleric_.
+
+RumorsPostsuccess:  [1007]
+Dank diesem %ra kann _cleric_ jetzt eine Abhandlung über die Geschichte von ___mondung_ verfassen.
+<--->
+Die Rettung von_cleric_ hat Euer Ansehen in __qgiver_ gesteigert.
+
+QuestorPostsuccess:  [1008]
+Nachdem was Ihr für _cleric_ getan habt, werde ich Euch natürlich helfen, %pcf.
+
+QuestorPostfailure:  [1009]
+Ich kann mich noch an _cleric_ erinnern. Lasst mich in Ruhe, %pcf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ aus __qgiver_
+ schickte mich nach ___mondung_,
+ um einen Kleriker namens _cleric_
+ der dort verschwunden ist, zu retten.
+ Ich habe =queston_ Tage Zeit, um den
+ =cleric_ zu finden und nach
+ ___qgiver_ und __qgiver_
+ zurückzukehren.
+
+Message:  1011
+Meine Güte, Ihr habt mich wirklich
+aufgerüttelt, junger %ra.
+Bin ich wirklich schon so lange
+hier unten? Wie die Zeit vergeht.
+Nun, wenn Ihr so freundlich wärt,
+mich zurück zum Tempel zu
+bringen, mein guter %pcf ...
+<--->
+Dank sei %god, dass Ihr hier seid.
+Ich suche den Weg nach draußen
+nun schon seit fast einer Woche.
+Ich werde Euch zum Tempel folgen.
+
+Message:  1012
+"Ah, von hier an kenne ich den Weg"
+_cleric_ torkelt davon.
+

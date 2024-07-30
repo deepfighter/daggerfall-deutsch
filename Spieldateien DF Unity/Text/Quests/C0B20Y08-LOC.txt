@@ -1,0 +1,70 @@
+Quest: C0B20Y08
+DisplayName: Das Bußritual
+QRC:
+
+QuestorOffer:  [1000]
+Mir ward berichtet, dass Ihr dem heiligen Tempel
+von großer Loyalität seid. Ihr müsst nun eine
+lebenswichtige Aufgabe übernehmen. %god
+zürnt uns und der Grund hierfür soll Euch nicht
+belasten. Unsere einzige Hoffnung liegt darin,
+ein Bußitual abzuhalten. Dafür bedürfen wir
+_ingredient_. Meine Quelle hat verlautbaren
+lassen, dass sich solch ein Gegenstand in
+___dungeon_ finden lässt.
+Werdet Ihr es uns bringen?
+
+RefuseQuest:  [1001]
+Eure Loyalität zum Tempel
+ist nicht so stark, wie ich
+erwartet hatte, %pcn.
+
+AcceptQuest:  [1002]
+Die Zeremonie muss in den nächsten =traveltime_ Tagen
+abgehalten werden. Der Tempel wird Euch mit
+_gold_ Goldstücken entlohnen. Nur reines _ingredient_
+wird funktionieren. Der Segen von %god geleitet Euch,
+und daran werdet Ihr erkennen, dass Ihr gefunden habt,
+was Ihr sucht.
+
+QuestComplete:  [1004]
+Habt Ihr es? _ingredient_!
+Wir können %god beruhigen.
+Das habt Ihr gut gemacht.
+Hier ist Eure Belohnung.
+
+RumorsDuringQuest:  [1005]
+Die Dinge waren in letzter Zeit recht ... angespannt in __qgiver_.
+<--->
+Man munkelt, jemand habe in __qgiver_ eine nicht erlaubte Orgie gefeiert.
+<--->
+Bei einer Zeremonie in __qgiver_ sprach jemand den Namen von %god rückwärts aus!
+
+RumorsPostfailure:  [1006]
+__qgiver_ ist noch immer bei ihrem Gott in Ungnade.
+
+RumorsPostsuccess:  [1007]
+Euer Gott ist __qgiver_ wieder gewogen.
+
+QuestorPostsuccess:  [1008]
+Ihr habt %god beruhigt, %pct. Natürlich helfe ich, wenn Ihr mir sagt, wie.
+
+QuestorPostfailure:  [1009]
+Solange %god __qgiver_ hasst, werde ich Euch hassen, %pct.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ vom __qgiver_,
+ in ___qgiver_, sagte mir,
+ dass %g3 Gott erzürnt ist. %g bedarf
+ reines _ingredient_ aus ___dungeon_
+ für einen Bußritus. Es muss in die
+ Hände von _qgiver_ in
+ __qgiver_ gelangen, bevor =traveltime Tage
+ verstrichen sind.
+
+Message:  1011
+Das ist es! Ich kann die Reinheit
+des _ingredient_ spüren.
+Eilt zu _qgiver_ damit.
+

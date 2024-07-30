@@ -1,0 +1,90 @@
+Quest: C0B00Y04
+DisplayName: Wahnsinniger Priester
+QRC:
+
+QuestorOffer:  [1000]
+__qgiver_ verliert sich oft in den Mysterien
+der himmlichen Sphären, und bisweilen irren wir
+in der Beurteilung des geistigen Zustands unserer
+Priester im Angesicht der Unendlichkeit. Oder in
+anderen Worten: Einer unserer Priester hat den
+Verstand verloren. Werdet Ihr uns helfen, den Irren
+zurück nach __qgiver_ zu bringen?
+<--->
+Der alte =priest_ hat abermals einen
+Tobsuchtsanfall erlitten. Es könnte sein, dass %g
+wieder in die Weinkeller von _qgiver_
+gegangen ist. Wie dem auch sei, habt Ihr Zeit, uns zu
+helfen, den alten Bekloppten nach Hause zu bringen?
+
+RefuseQuest:  [1001]
+%oth, ich hoffe, dass – solltet Ihr einmal
+den Verstand verlieren – jemand die Güte hat, Euch zu
+retten, %pct.
+
+AcceptQuest:  [1002]
+Dank Euch, %pct. Nun denn, =priest_
+ist zu einem Ort namens ___mondung_
+gerannt. Versucht, den armen Irren nicht zu sehr zu
+verletzen. =priest_ weiß nicht, was er tut.
+Gebt %g2 einfach einen leichten Schlag auf den Kopf
+und bringt %g2 hierher. Ich werde =queston_ Tage warten.
+Seid vorsichtig.
+
+QuestComplete:  [1004]
+Schön, Euch wiederzusehen, %pct.
+Macht Euch keine Sorgen um =priest_.
+Wir kümmern uns gut um %g2.
+
+RumorsDuringQuest:  [1005]
+Der verrückte =priest_ hat sich in ___mondung_ verkrochen. Nur ein Narr würde dorthin gehen.
+<--->
+___mondung_ ist schon für geistig gesunde Menschen gefährlich. =priest_ wird nicht lange durchhalten.
+
+RumorsPostfailure:  [1006]
+Anscheinend wird =priest_ nie mehr heimkommen. 
+<--->
+=priest_ hat %g3 Sinne immer noch nicht zurück und streift in ___mondung_ umher.
+
+RumorsPostsuccess:  [1007]
+Ein %ra hat den verrückten =priest_ gerettet. Ob %g3 Verstand gerettet wurde, ist eine andere Frage.
+<--->
+=priest_ ist entweder heilig, betrunken oder wahnsinnig. Oder alles drei zugleich.
+
+QuestorPostsuccess:  [1008]
+Ich erinnere mich, dass Ihr sehr großherzig zu =priest_ wart. Was kann ich Euch Gutes tun?
+
+QuestorPostfailure:  [1009]
+Ich habe Euch nichts zu sagen. Wisst Ihr, ich erinnere mich an =priest_.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ aus
+ __qgiver_, ___qgiver_
+ sandte mich, um einen Priester namens
+ =priest_ zu finden, der durchdrehte
+ und zu einem Ort namens ___mondung_
+ rannte. Ich habe =queston_ Tage, um dorthin
+ zu gehen, den Irren zu finden und zu
+ _qgiver_ zurückzukehren.
+
+Message:  1011
+"%oth, das war mein Kopf!"
+=priest_ fällt bewusstlos zu Boden.
+Ihr hebt %g2 hoch.
+<--->
+=priest_ verdreht %g3 Augen
+vor Schmerz und Wahnsinn. Mit einem
+leichten Ächzen fällt %g in Eure Arme.
+
+Message:  1012
+Ihr hört ein leises, verrücktes Kichern
+und =priest_ verschwindet, als
+hätte er sich in Luft aufgelöst.
+<--->
+"Ich habe ein Reich zu regieren. Ich kann
+nicht die ganze Zeit damit verbringen,
+diese verdammten Flusen aufzuheben!"
+=priest_ entwindet sich Eurem Griff mit
+erstaunlicher Beweglichkeit und flieht.
+

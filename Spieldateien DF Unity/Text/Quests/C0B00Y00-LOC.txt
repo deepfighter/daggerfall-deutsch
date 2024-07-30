@@ -1,0 +1,67 @@
+Quest: C0B00Y00
+DisplayName: Das heimgesuchte Haus
+QRC:
+
+QuestorOffer:  [1000]
+Ein Anwesen jenseits von __house_
+wird von Untoten heimgesucht. Wir benötigen
+jemanden, der diese Geister vertreibt. Seid
+Ihr dieser Aufgabe gewachsen? Euch winken
+_gold_ Goldstücke als Belohnung.
+
+RefuseQuest:  [1001]
+Es ist keine Schande, diese Herausforderung
+abzulehnen. Ich werde nach Aufgaben Ausschau
+halten, die eher Eurem Geschmack entsprechen.
+
+AcceptQuest:  [1002]
+Denkt daran: Wenn der Spuk zu stark für Euch wird,
+versucht einfach, dort herauszukommen. Niemand wird
+Euch etwas vorwerfen, weil Ihr Eure Haut gerettet
+habt. Der Ort heißt _house_ und befindet
+sich in __house_. Ihr habt =traveltime_ Tage
+Zeit, dann schicken wir einen anderen, um die Aufgabe
+zu erledigen.
+
+QuestComplete:  [1004]
+Der Spuk ist also gebannt. Ich werde am Altar
+Räucherwerk für seine Seele entzünden. Hier ist Euer
+Entgelt des Tempels.
+
+RumorsDuringQuest:  [1005]
+Man sagt, der Geist von _house_ könne nicht getötet werden.
+
+RumorsPostfailure:  [1006]
+Der Geist von _house_ wird uns weiterhin heimsuchen.
+<--->
+Die Seelen von _house_ haben noch keine Ruhe gefunden.
+
+RumorsPostsuccess:  [1007]
+_house_ ist endlich gereinigt.
+<--->
+Die Geister von _house_ sind endlich zur Ruhe gekommen.
+
+QuestorPostsuccess:  [1008]_
+Wie kann ich Euch helfen, oh Geisterjäger von _house_?
+
+QuestorPostfailure:  [1009]
+_house_ wird immer noch heimgesucht und ich soll mit Euch sprechen?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von __qgiver_
+ in ___qgiver_
+ sandte mich aus, um _house_
+ in __house_ von einem Untoten
+ zu befreien. Ich habe =traveltime Tage Zeit,
+ die Aufgabe zu erledigen.
+
+Message:  1011
+Ich bin der Urahn der Erbauer dieses Hauses. Es gehört nun den Toten. Lasst alle lebenden Kreaturen diesen Ort fürchten.
+
+Message:  1012
+Ich kann verstehen, warum Ihr nicht geblieben seid,
+um dieses Wesen zu bekämpfen, %pcn. Ihr habt
+den Dank des Tempels dafür, dass Ihr etwas über diesen
+Ort herausgefunden habt. Hier sind zwei Goldmünzen.
+

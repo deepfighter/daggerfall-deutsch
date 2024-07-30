@@ -1,0 +1,95 @@
+Quest: C0B10Y07
+DisplayName: Eine Lieferung
+QRC:
+
+QuestorOffer:  [1000]
+Seid gesegnet, %pcn.
+__qgiver_ begehrt Eure Dienste,
+für einen wichtigen Botengang. Dieses
+religitem muss binnen =traveltime Tagen
+in __priest ankommen. Ihr werdet
+vom dortigen Tempel
+gold Goldstücke als Lohn
+erhalten. Vermöget Ihr,
+dies für uns zu tun?
+
+RefuseQuest:  [1001]
+So sei es. Ich werde wohl einen
+anderen treuen Diener des Tempels
+finden müssen, der diese
+Aufgabe übernimmt.
+
+AcceptQuest:  [1002]
+Hier habt Ihr _religitem_.
+Bringt es zu _priest_
+vom __priest_ in ___priest_.
+Oh, ich vergaß beinahe zu erwähnen,
+dass ein rivalisierender Tempel
+möglicherweise jemanden entsendet,
+um Euch aufzuhalten."
+
+QuestComplete:  [1004]
+Die Gnade %god's sei mit Euch,
+%pcn. Dieses _religitem_
+wird hier dringend benötigt.
+Ich verstehe, dass ich Euch
+_gold_ Goldstücke als Bezahlung
+zukommen lassen sollte.
+
+RumorsDuringQuest:  [1005]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostfailure:  [1006]
+__qgiver_ hat den Namen von %pcn verflucht.
+
+RumorsPostsuccess:  [1007]
+_priest_ scheint mit %g3 Geschenk von __qgiver_ zufrieden zu sein.
+
+QuestorPostsuccess:  [1008]
+_priest_ sendet %g3 Grüße, %pcf. Was kann ich für Euch tun?
+
+QuestorPostfailure:  [1009]
+_priest_ würde es mir nie vergeben, wenn ich mit Euch spräche.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von __qgiver_
+ hat mir den Auftrag gegeben,
+ _religitem_ zu __priest__
+ in ___priest__ in
+ ___priest_ zu bringen.
+ Ich muss binnen =traveltime_ Tagen
+ dort sein.
+
+Message:  1011
+Dieses _religitem_ wird
+niemals in __priest_
+ankommen. Dafür sollte ich
+Euch den Kopf abtrennen.
+

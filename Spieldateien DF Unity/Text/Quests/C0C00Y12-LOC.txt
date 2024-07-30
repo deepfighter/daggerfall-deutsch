@@ -1,0 +1,117 @@
+Quest: C0C00Y12
+DisplayName: Gestohlener Gegenstand
+QRC:
+
+QuestorOffer:  [1000]
+Unter gewöhnlichen Umständen würde ich einem
+Nichtmitglied von __qgiver_ keine
+Arbeit anvertrauen. Doch sind wir derzeit knapp an
+Händen. Ein frecher Dieb hat ein _religitem_
+aus einem unserer Heiligtümer entwendet. Er wurde
+jedoch von einem unserer Priester bei der Tat
+ertappt. Es war ein schlichter Straßenräuber, ein
+niederer Schurke namens _thief_, der
+sich an jenem Tag im Tempel aufhielt und vorheuchelte,
+zu beten. Findet diesen Dieb und bringt uns das
+entwendete _religitem_ zurück. Eure
+Mühe soll nicht unbelohnt bleiben, und meine
+Dankbarkeit wird Euch gewiss sein.
+
+RefuseQuest:  [1001]
+Ich gewähre Euch eine Gelegenheit,
+und Ihr antwortet mit Hohn. Erwartet
+keine Gunst mehr von mir.
+
+AcceptQuest:  [1002]
+Ihr müsst das _religitem_ binnen
+=traveltime_ Tagen zurückgebracht haben.
+Danach wird unser ehrenwerter Ritterorden
+in der Lage sein, eine Suchtruppe zu
+entsenden, und Eure Chance wird verwirkt sein.
+
+QuestComplete:  [1004]
+Gepriesen seid Ihr, %pcn.
+Das _religitem_ ist wohlbehalten
+in unseren Tempel zurückgekehrt.
+Ihr habt Euch die Gunst von
+%god verdient.
+
+RumorsDuringQuest:  [1005]
+_thief_ versteckt sich in
+_thiefplace_ in __thiefplace_.
+Ein geeigneter Ort, um sich vor dem
+wachsamen Auge des __qgiver_
+zu verbergen.
+
+RumorsPostfailure:  [1006]
+Es scheint, als würde __qgiver_ _religitem_ niemals wiedersehen.
+
+RumorsPostsuccess:  [1007]
+_thief_ hat Gerechtigkeit
+erfahren, und __qgiver_ hat das
+_religitem_ zurückerhalten.
+
+QuestorPostsuccess:  [1008]
+Denkt nicht, dass ich schon
+vergessen habe, wer uns
+_religitem_ zurückgebracht
+hat, %pcf.
+
+QuestorPostfailure:  [1009]
+Unser _religitem_ ist für immer verloren, und Ihr wollt reden? Unglaublich.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, des __qgiver_
+ in ___qgiver_, hat mir
+ die Gelegenheit gegeben, das
+ _religitem_ zu finden,
+ welches von einem Dieb
+ namens _thief_ gestohlen
+ wurde. Ich habe =traveltime Tage
+ Zeit, es wiederzuerlangen.
+
+Message:  1011
+%oth! Der Tempel hat
+einen Kopfgeldjäger angeheuert,
+um ihr wertloses _religitem_
+zurückzuholen? %oth,
+es ist gewiss nicht wert,
+dafür sein Leben zu lassen.
+Hier, nehmt es. Wir werden sehen,
+ob Ihr glaubt, dass es wert ist,
+dafür zu ersteben... HILFE!!!
+Dieser %ra flieht mit unserer Beute!
+
+Message:  1012
+Eindringling! Schlagt Alarm!
+Ein Eindringling hat das Gebäude betreten!
+
+Message:  1013
+_thief_... der Name kommt mir bekannt vor.
+Aber woher, das weiß ich nicht. Ich glaube, dem
+bin ich einmal in __thiefplace_ begegnet.
+Es tut mir leid, dass ich nicht mehr helfen kann.
+<--->
+Ein =decoy_? Ja, den kenne ich wohl. Lebt in ___decoy_.
+<--->
+Wenn Ihr von einem =thief_ sprecht,
+klingt es, als redet Ihr von einem kleinen
+Gauner aus _thiefplace. %g hat mich einst
+versucht, mich zu bestehlen.
+
+Message:  1014
+Sicher kenne ich diesen windigen kleinen Schleicher.
+Sucht ihn in _thiefplace_ in __thiefplace_.
+<--->
+_thief_? Ja, %g 'hält sich versteckt'
+drüben in _thiefplace_ in
+__thiefplace_. Nicht zu versteckt,
+wenn Ihr mich fragt. Schließlich wissen
+Ihr und ich, wo %g sich aufhält. 
+
+Message:  1020
+_thief_ übergibt Euch das
+_religitem_ und verschwindet
+in den Schatten. Zeit, von hier zu verschwinden!
+
