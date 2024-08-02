@@ -12,7 +12,6 @@ Oh, das ist aber schade. Eine freundliche Warnung:
 %ra-Abenteurern, die immer gern nehmen,
 aber nie geben, passieren schlimme Dinge.
  
-
 AcceptQuest:  [1002]
 Das würdet Ihr? Oh, wie reizend! Viel reizender als eine
 bestimmte Bekanntschaft von mir ... =monster_

@@ -1,71 +1,60 @@
 Quest: 00B00Y00
-DisplayName: 
+DisplayName: Der Preis des Wissens
 QRC:
 
 QuestorOffer:  [1000]
-We have but one rule at the School of Julianos -- knowledge
- is to be shared. Unfortunately, we have a former member
- of our order who has forsaken this rule and needs to be
- punished. If we offered you _reward_ gold pieces, would
- you pursue and slay this erstwhile member of our School?
+Wir haben nur eine einzige Regel in der Schule des
+Julianos: Wissen muss geteilt werden. 
+ 
+Bedauerlicherweise haben wir ein ehemaliges Mitglied
+unseres Ordens, das diese Regel gebrochen hat und
+dafür bestraft gehört. Wärt Ihr bereit, dieses
+vormalige Mitglied unserer Schule verfolgen und zu
+töten, wenn wir Euch dafür _reward_ Goldstücke
+bieten?
 
 RefuseQuest:  [1001]
-Disappointing. Well, we'll find someone else doubtlessly.
+Enttäuschend. Nun gut, wird werden zweifellos jemand anderen finden.
 
 AcceptQuest:  [1002]
-Good. The prodigal one is a
- nightblade called =monster_
- who has taken refuge in %g3 laboratory,
- ___mondung_. If you have not
- returned in =1stparton_ days with _monster_'s
- blood on your hands, we will assume you have failed or have
- joined =monster_ and your
- reward will be forfeited to someone who will not fail. I
- trust I've made myself clear. Good luck and goodbye.
+Hervorragend. Es handelt sich um eine Nachtklinge namens =monster_, die für uns verloren ist. =monster_ hat Unterschlupf im Laboratorium  ___mondung_ gefunden. Wenn Ihr nicht in =1stparton_ Tagen mit dem Blut der Nachtklinge an Euren Händen wieder zurückgekehrt seid, werden wir annehmen, dass Ihr versagt oder Euch %g2 angeschlossen habt. Dann ist Eure Belohnung an jemanden verwirkt, der nicht scheitern wird. Ich hoffe, ich habe mich klar ausgedrückt. Viel Erfolg und auf Wiedersehen!
 
 QuestFail:  [1003]
-While that nightblade lives, I am not interested in chatting on any subject, %pcf.
+Solange diese Nachtklinge noch lebt, bin ich nicht daran interessiert, über irgendeinen Belang zu plaudern, %pcf.
 
 QuestComplete:  [1004]
-Very nice, %pcf.
- Very nice indeed. Here is your _reward_ gold
- pieces. We are very grateful to you.
-<--->
+Sehr schön, %pcf. Sehr schön in der Tat. Hier sind die versprochenen _reward_ Goldstücke. Wir sind Euch sehr dankbar.
 
 RumorsDuringQuest:  [1005]
-I hear there's a nightblade in ___mondung_, selling spells for money.
+Ich habe gehört, dass eine Nachtklinge in ___mondung_ Zauber für Geld verkauft.
 <--->
-Renegade spellcasters are very dangerous. I hope they get that _monster_.
+Abtrünnige Zauberwirker sind sehr gefährlich. Ich hoffe, sie kriegen diese Nachtklinge.
 
 RumorsPostfailure:  [1006]
-=monster_ has supposedly moved on, still selling spells for money.
+=monster_ ist vermutlich weitergezogen und bietet immer noch Zauber für Geld an. 
 <--->
-I hear the School of Julianos has unleashed the Knights Mentor after someone.
+Ich hörte, dass die Schule von Julianos die Rittermentoren auf jemanden losgelassen hat.
 
 RumorsPostsuccess:  [1007]
-They finally got that _monster_. You can't have undisciplined mages loose.
+Sie haben diese Nachtklinge schließlich doch erwischt. Man kann undisziplinierte Magier ja auch nicht frei herumlaufen lassen.
 <--->
-Pity about them catching that _monster_. I hear he had a lot of juicy dirt.
+Schade, dass sie diese Nachtklinge erwischt haben. Es soll dort viele saftige Angebote gegeben haben.
 
 QuestorPostsuccess:  [1008]
-You're %pcn. Good job with that =monster_,
- you remember, the renegade spellcaster?
+Ihr seid %pcn. Gute Arbeit mit =monster_. Abtrünniger Zauberwirker, wenn Ihr Euch erinnert?
 
 QuestorPostfailure:  [1009]
-Hmmph. You really blew that job to slay
- the renegade spellcaster =monster_, didn't you?
+Hmm. Ihr habt den Auftrag, diesen abtrünnigen Zauberwirker =monster_ zu töten, gründlich verpatzt, nicht wahr?
 
 Message:  1030
 %qdt:
- The School of Julianos in ___questgiver_
- has hired me to kill a prodigal
- _monster_ of their temple,
- =monster_. I have =1stparton_ days to
- get to %g3 hideout, ___mondung_,
- and back to the School.
+ Die Schule des Julianos in ___questgiver_
+ hat mich angeheuert,  =monster_ zu töten,
+ eine für ihren Tempel verlorene Nachtklinge.
+ Ich habe =1stparton_ Tage, um zu ihrem Versteck
+ ___mondung_ und zurück zur Schule
+ zu gelangen.
 
 Message:  1031
-You have slain =monster_.
- The School will be proud.
-<--->
+Ihr habt =monster_ getötet. Die Schule wird stolz sein.
 
