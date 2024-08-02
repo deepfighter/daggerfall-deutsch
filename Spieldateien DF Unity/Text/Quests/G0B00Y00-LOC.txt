@@ -1,0 +1,73 @@
+Quest: G0B00Y00
+DisplayName: Der Arm des Zorns
+QRC:
+
+QuestorOffer:  [1000]
+Unser Orden verlangt Vergeltung an einem
+ehemaligen Mitglied, das zum Verräter geworden
+ist. Werdet Ihr der starke Arm unserer Rache
+sein, %pcf?
+<--->
+Die Göttin hat in unseren Augurien zu uns
+gesprochen und verlangt das Blut des verdorbenen
+Schurken, der ihren Namen gelästert hat. Helft
+uns, unsere verärgerte Herrin Kynareth zu besänftigen.
+
+RefuseQuest:  [1001]
+Eine unwürdige  Antwort. Ich erwartete Besseres.
+
+AcceptQuest:  [1002]
+Sehr gut. Der Verräter ist ein Mörder, der sich
+in ___mondun_ versteckt, %di'lich
+von hier. Wenn Ihr in =queston_ Tagen nicht wieder hier
+seid, ist Eure Ehre verwirkt und ein anderer wird Euren
+Platz einnehmen. Enttäuscht uns nicht, %pcf.
+
+QuestFail:  [1003]
+Der Verräter ist nicht tot.
+Versucht nicht, mir etwas
+anderes weiszumachen.
+
+QuestComplete:  [1004]
+Gut gemacht. Ihr habt allen Grund, stolz zu sein.
+
+RumorsDuringQuest:  [1005]
+Dieser Feigling rannte nach ___mondun_, als wären
+alle Hunde der Hölle hinter ihm her.
+<--->
+Nach dem, was dieser Sack dem Kynarischen Orden angetan hat,
+kann _qgiver_ ihn nicht einfach gehen lassen.
+
+RumorsPostfailure:  [1006]
+Der Verräter ist offenbar zäher als _qgiver_ dachte. Was für eine Flucht!
+<--->
+Der Abtrünnige ist nach Norden gezogen, wie ich hörte, aber die bloße Erinnerung quält den Orden noch immer.
+
+RumorsPostsuccess:  [1007]
+Die Geschichte dieses Verräters beweist es wieder einmal. Mit dem Kynarischen Orden ist nicht zu spaßen. 
+<--->
+Ich hätte gedacht, dass der Orden mit diesem Tölpel gnädiger sein würde.
+
+QuestorPostsuccess:  [1008]
+Nun, Ihr habt den Verräter für den Orden getötet.
+Das mindeste was ich tun kann ist, hallo zu sagen.
+
+QuestorPostfailure:  [1009]
+Ihr habt den Verräter davonkommen lassen.
+Ich habe Euch nichts zu sagen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Der Kynarische Orden in  ___qgiver_
+ hat mich entsandt, einen Verräter am Orden
+ aufzuspüren und zu töten, der sich in
+ ___mondun_ versteckt. Ich habe
+ =queston_ Tage Zeit, das zu erledigen.
+
+Message:  1020
+"Der Kynarische Orden ... schickt
+Euch also ... um mich zu töten. Sagt
+ihnen ... ich spucke auf ihre ..."
+ 
+Der Verräter ist tot.
+

@@ -1,0 +1,79 @@
+Quest: I0B00Y00
+DisplayName: Eine besondere Pflanze
+QRC:
+
+QuestorOffer:  [1000]
+Unser Heiler bedarf einer seltenen Pflanze,
+_item_ genannt, um einen heilenden Trank
+zu bereiten. Leider kann ich Euch nicht viel
+bieten, doch vermag ich Euch das heilige Symbol
+des Tempels von Stendarr zu überreichen, wenn
+Ihr uns etwas von diesem _item_ bringt,
+auf dass wir unserer heiligen Pflicht nachkommen
+können.
+
+RefuseQuest:  [1001]
+Es ist bedauerlich, dass dies gewöhnlich die
+Antwort ist. Wir können nicht Unmengen an Gold
+und Diamanten verteilen, um Abenteurer anzuziehen.
+Doch bin ich von Euch besonders enttäuscht, %pcf.
+Ich hätte eine edlere Antwort erwartet.
+
+AcceptQuest:  [1002]
+Ihr habt wahrlich ein gutes Herz, %pcf.
+Das _item_, das wir benötigen, befindet
+sich in ___chemist_ in __chemist_.
+Ein =chemist_ namens _chemist_
+wird es Euch übergeben, wenn Ihr binnen
+=1stparton Tagen dort ankommt. Beeilt Euch,
+%pcf. Wir haben viele Unschuldige zu heilen.
+
+QuestFail:  [1003]
+Ich freue mich stets, mit Euch zu sprechen,
+%pcf, doch bitte bringt uns bald
+das _item_.
+
+QuestComplete:  [1004]
+Habt Ihr das _item_, %pcf?
+Oh, Stendarr sei Dank. Bitte nehmt das Symbol
+unseres Ordens als unser bescheidenes Geschenk an.
+
+RumorsDuringQuest:  [1005]
+Der Tempel des Stendarr ist der einzige rein philanthropische Orden, den ich kenne.
+<--->
+Mutter wartet beim Tempel des Stendarr auf einen Heiler. Ihr Zustand ist ziemlich schlecht.
+
+RumorsPostfailure:  [1006]
+Meine Schwester ist gestorben, während sie am Tempel des Stendarr auf den verdammten Heiler gewartet hat.
+<--->
+Ich hörte, der Heiler des Tempels hat seine Kräuter nicht rechtzeitig erhalten.
+
+RumorsPostsuccess:  [1007]
+Es gab einige ernste Momente im Tempel. Sie hatten mehr Verletzte als gewöhnlich.
+<--->
+Der Gott Stendarr wacht über seinen Tempel, das ist gewiss.
+
+QuestorPostsuccess:  [1008]
+Es wäre unhöflich, nicht mit jemandem zu sprechen,
+der uns _item_ gebracht hat, %pcf.
+
+QuestorPostfailure:  [1009]
+Ich werde mein Temperament zügeln, aber habt Ihr das _item_ vergessen, %pcf?
+<--->
+Vielleicht solltet Ihr lieber mit denen sprechen, die umgekommen sind, weil Ihr das _item_ nicht geholt habt.
+
+QuestLogEntry:  [1010]
+Hier ist das _item_, %pcf.
+Nun seht zu, dass Ihr zum Tempel zurückkehrt.
+Dort warten viele Menschen auf Heilung.
+
+Message:  1030
+%qdt:
+ Der Tempel des Stendarr in ___questgiver_
+ bot mir das Symbol des Ordens an, wenn ich innerhalb
+ von =1stparton Tagen etwas _item_ finde
+ und ihnen bringe. Ein Gewährsmann namens _chemist_
+ an einem Ort namens __chemist_ in
+ ___chemist_ wird mir etwas davon geben,
+ wenn ich es schaffe, rechtzeitig dort zu sein.
+

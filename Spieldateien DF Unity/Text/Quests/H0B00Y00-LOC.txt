@@ -1,0 +1,87 @@
+Quest: H0B00Y00
+DisplayName: Eine mächtige Seele
+QRC:
+
+QuestorOffer:  [1000]
+Die gesamte Philosophie des Ordens der
+Barmherzigkeit Maras verbietet uns,
+einem anderen Lebewesen willentlich
+Schaden zuzufügen. Doch stehen wir nun
+vor einer Situation, die direktes und
+tödliches Handeln erfordert. Werdet Ihr
+eine unreine Seele vernichten, die einen
+unserer heiligen Schreine heimsucht?
+Wir wären bereit, Euch _reward Goldmünzen_
+darzubieten.
+
+RefuseQuest:  [1001]
+Es ist zwar ein Auftrag mit erheblicher
+Gefahr, aber ich bin enttäuscht, dass Ihr
+ihn nicht einmal in Betracht zieht.
+
+AcceptQuest:  [1002]
+Es gibt diesen verlassenen Tempel, nicht
+sehr weit von hier, ___mondung_
+genannt. Dieser Ort ist unserer Barmherzigkeit
+seit Jahrhunderten heilig. Wir huldigen nicht
+mehr dort, aber wir versuchen, ihn von bösen
+Einflüssen freizuhalten. Leider ist die Seele,
+die ihn heimsucht, zu mächtig, als dass wir
+sie vertreiben könnten. Wenn Ihr nicht in
+=1stparton_ Tagen zurück seid, werden wir annehmen,
+dass Ihr gescheitert seid und stattdessen die
+Maranischen Ritter entsenden. Eure Belohnung
+ist dann natürlich verwirkt. Nun geht mit dem
+Segen der Göttin.
+
+QuestFail:  [1003]
+Was zögert Ihr noch, %pcf?
+Diese geplagte Seele entweiht
+noch immer unseren Tempel.
+
+QuestComplete:  [1004]
+Ihr habt der Barmherzigkeit Maras einen
+großen Dienst erwiesen, %pcf,
+der nicht so bald vergessen werden wird.
+Freut Euch über Eure  _reward_ Gold, Ihr habt
+sie Euch verdient.
+
+RumorsDuringQuest:  [1005]
+___mondung_ war schon immer gruselig. Aber jetzt scheint es verflucht zu sein.
+<--->
+Soweit es mich betrifft, könnt Ihr den Spuk auch in Ruhe lassen. Es geht sowieso niemand in die Nähe.
+
+RumorsPostfailure:  [1006]
+Ich wünschte, sie hätten ___mondung_ einfach in Ruhe gelassen. Jetzt sind die Gespenster von dort hier bei uns.
+<--->
+Typisch. Sie scheuchen die Geister nach draußen, wo die erst richtig gefährlich werden.
+
+RumorsPostsuccess:  [1007]
+Selbst wenn ___mondung_ jetzt frei von Geistern ist -- ich geh' da nicht hin!
+<--->
+Die Barmherzigkeit Maras ist glücklich, dass ihr ___mondung_ wieder gesäubert ist.
+
+QuestorPostsuccess:  [1008]
+Nachdem Ihr Euch für uns durch  ___mondung_
+geschleppt habt, ist hallo zu sagen wohl das mindeste,
+das ich tun kann.
+
+QuestorPostfailure:  [1009]
+___mondung_  ist immer noch mit Geistern verflucht.
+Verdammt sollt Ihr sein, %pcf!
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ aus
+ ___questgiver_ hat mich gebeten,
+ ___mondung_, einen heiligen Ort
+ der Barmherzigkeit Maras, von irgendeiner
+ herumgeisternden Seele zu befreien. Ich
+ habe =1stparton_ Tage, um den Spuk von
+ ___mondung_ auszutreiben.
+
+Message:  1020
+"Meine Seele wird jetzt in Frieden ruhen."
+ 
+___mondung_ wurde gereinigt.
+

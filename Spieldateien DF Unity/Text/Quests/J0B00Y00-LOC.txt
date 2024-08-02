@@ -1,0 +1,78 @@
+Quest: J0B00Y00
+DisplayName: Das Kopfgeld
+QRC:
+
+QuestorOffer:  [1000]
+Falls Ihr für eine Anstellung zur Verfügung
+stündet, hätte ich wohlmöglich eine Aufgabe
+für Euch. Es handelt sich um eine schmutzige
+Angelegenheit, die die Bestrafung eines Diebes
+umfasst. Dafür gäbe es eine Belohnung von
+_reward_ Goldstücken. Klingt dies nach etwas,
+woran Ihr Interesse hättet?
+
+RefuseQuest:  [1001]
+Enttäuschend. Nun gut, zweifellos werden
+wir jemand anderen finden.
+
+AcceptQuest:  [1002]
+Wir lassen selten Bürger unsere Angelegenheiten
+regeln, doch in diesem Falle scheint es gerechtfertigt.
+Dieser Dieb hat eine unserer Karawanen bestohlen und
+verlangt zudem noch Wegezoll von uns. Welch eine
+Frechheit! Ihr findet diesen kleinen Schurken in
+einem Versteck namens _mondung.
+Seid in =1stparton Tagen zurück.
+
+QuestFail:  [1003]
+Ihr solltet besser eilen, %pcf.
+Ihr habt nur noch =1stparton_ Tage,
+um den Gauner zu töten.
+
+QuestComplete:  [1004]
+Sehr gut gemacht, %pcf.
+Dies sollte weitere Wegelagerer abschrecken.
+Hier sind Eure _reward_ Goldstücke. Habt Dank.
+
+RumorsDuringQuest:  [1005]
+Dieser Straßenräuber zerstört die Wirtschaft im Handumdrehen.
+<--->
+Sie vermuten, der Wegelagerer sei ein Dieb, doch der
+Schurke ist im Schwertkampf sehr gut ausgebildet.
+
+RumorsPostfailure:  [1006]
+Dieser Räuber hat sein Versteck gewechselt, doch die
+Straßen sind weiterhin unsicher.
+<--->
+Ich verstehe nicht, warum sie den Wegelagerer nicht
+gefangen nehmen. Das kann doch nicht so schwer sein.
+
+RumorsPostsuccess:  [1007]
+Die Händler sind ziemlich froh, dass sie den Dieb
+schließlich erwischt haben.
+<--->
+Ist mir gleich, dass sie die Nachtklinge gefasst
+haben. Die Straßen sind immer noch nicht sicher.
+
+QuestorPostsuccess:  [1008]
+Natürlich werde ich mit Euch sprechen, %pcf.
+Ich erinnere mich an den Wegelagerer, den Ihr
+getötet habt.
+
+QuestorPostfailure:  [1009]
+Die Resolution verliert immer noch Geld an diesen
+Wegelagerer. Das ist nicht sehr erfreulich.
+
+Message:  1020
+Ihr müsst von der Resolution sein.
+Seid bereit zu sterben, Kopfgeldjäger!
+
+Message:  1030
+%qdt:
+ Die Resolution des Zenithar hat mich entsandt,
+ um einen Dieb zu töten, der ihre Karawanen
+ geplündert hat. Sein Versteck befindet sich in
+ ___mondung_. Ich muss ihn innerhalb von
+ =1stparton Tagen töten und zu ___questgiver_
+ zurückkehren.
+

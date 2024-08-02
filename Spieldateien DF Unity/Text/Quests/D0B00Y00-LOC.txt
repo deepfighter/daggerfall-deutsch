@@ -1,0 +1,79 @@
+Quest: D0B00Y00
+DisplayName: Rache für Drachen
+QRC:
+
+QuestorOffer:  [1000]
+So Ihr zufällig nach Arbeit suchet und schnelle
+_reward_ Goldstücke wünscht, so hätte ich womöglich
+eine Aufgabe für Euch. Sie erfordert etwas
+Kampfgeschick, doch es scheint, als wäre Euch
+dies nicht unlieb. Klingt das nach einer Möglichkeit?
+
+RefuseQuest:  [1001]
+Ich verstehe. Das ist in der Tat enttäuschend.
+
+AcceptQuest:  [1002]
+Sehr gut. Ihr wisst, dass Akatosh der Gott der Zeit
+ist, doch ER ist auch ein Drachengott und wir führen
+Drachen als unser heiliges Symbol. Nun hat ein Mitglied
+des Ordens der Stunde, unseres kämpfenden Ordens, den
+Verstand verloren und unsere Drachen direkt in unserem
+heiligen Hain angegriffen. Natürlich muss der Mörder
+aufgehalten werden. Ihr werdet den Drachentöter an einem
+Ort namens ___mondung_ finden. Wenn Ihr
+nicht binnen =1stparton_ Tagen erfolgreich seid, werden wir
+den Orden der Stunde entsenden und Eure Belohnung wird
+hinfällig. Möge Akatosh Euch auf Eurer Quest segnen.
+
+QuestFail:  [1003]
+Ihr solltet besser weiterziehen, %pcf.
+Euch verbleibt nicht mehr viel Zeit,
+den Drachentöter zu richten.
+
+QuestComplete:  [1004]
+Ich bin froh, Euch wiederzusehen, %pcf.
+Und Eure Mission war von Erfolg gekrönt.
+Wie versprochen sind hier Eure _reward_ Goldstücke.
+Habt Dank für Euren Dienst.
+
+RumorsDuringQuest:  [1005]
+Die Kantorei des Akatosh ist höchst erzörnt darüber, dass einer ihrer eigenen ein Drachentöter ist.
+<--->
+In meinen Augen hatte er jedes Recht, die Drachen zu töten. Widerliche, gefährliche Kreaturen.
+
+RumorsPostfailure:  [1006]
+Es ist gut, dass der Drachentöter davongekommen ist.
+<--->
+Nun werden noch mehr Drachen getötet.
+<--->
+Ich hörte, dass der Orden der Stunde den Drachentöter durch ganz %reg jagt.
+
+RumorsPostsuccess:  [1007]
+Ich frage mich, ob die Kantorei des Akatosh versuchen wird, jeden Drachentöter aufzuhalten.
+<--->
+Es ist schon so weit gekommen, dass man nicht einmal mehr einen Drachen töten kann, ohne Ärger zu bekommen.
+
+QuestorPostsuccess:  [1008]
+Was kann ich für den großen Beschützer der Drachen tun, %pcf?
+
+QuestorPostfailure:  [1009]
+Ich habe darauf vertraut, dass Ihr den
+Drachentöter umbringen würdet, %pcf.
+Nie wieder werde ich das tun.
+
+Message:  1020
+"Die Akatosh-Kantorei ... gewinnt.
+Alles was ich je wollte ... war,
+die Drachen ... zu befreien."
+ 
+Der Drachentöter ist tot.
+
+Message:  1030
+%qdat:
+Die Kantorei des Akatosh bat mich, jemanden
+zur Strecke zu bringen, der die Drachen in
+ihrem heiligen Hain angegriffen hat. Ich muss
+nach ___mondung_ gehen, den Drachentöter töten
+und innerhalb von =1stparton_ Tagen zur Kantorei in
+___questgiver_ zurückkehren.
+
