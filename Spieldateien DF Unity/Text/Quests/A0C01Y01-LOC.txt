@@ -1,0 +1,80 @@
+Quest: A0C01Y01
+DisplayName: Der Leibwächter
+QRC:
+
+QuestorOffer:  [1000]
+%pcn, Ich fürchte um mein Leben.
+Könnt Ihr mich schützen? _villains_s
+drohen, mich heute Nacht zu töten, weil
+ich es abgelehnt habe, mein Land zu verkaufen.
+Ich kann Euch _gold_ Goldstücke zahlen.
+<--->
+Sie finden mich in großer Not, mein lieber<253>
+%ra. Ich habe von einigen Schlägern
+in %cn gehört, dass sie heute Nacht
+beabsichtigen, mein Haus zu plündern. Steht
+Ihr mir zur Verfügung?
+
+RefuseQuest:  [1001]
+Fürchtet nicht um meine Sicherheit, %pcn.
+Ich werde jemand anderen finden... irgendwie.
+
+AcceptQuest:  [1002]
+Ich danke und segne Euch! Sie werden
+_qgiverhome_ drei Stunden vor
+Mitternacht angreifen. Seid dort und
+wartet mit mir bis dahin. Sobald sie
+besiegt wurden, werde ich wieder
+sicher sein.
+
+QuestComplete:  [1004]
+Ihr habt mir das Leben gerettet, %pcf.
+Ich will Euch gerne die vereinbarte Summe zahlen.
+
+RumorsDuringQuest:  [1005]
+_qgiver_ hat Ärger mit der
+Diebesgilde. Ich hörte, sie können
+sehr grob werden.
+
+RumorsPostfailure:  [1006]
+Ich sah _qgiver_ vor kurzem.
+%g wurde brutal fertiggemacht von
+so ein paar Kerlen.
+
+RumorsPostsuccess:  [1007]
+Seid Ihr nicht der %ra,
+der diese Schläger verjagte,
+die versucht haben, _qgiver_
+zu verprügeln?
+
+QuestorPostsuccess:  [1008]
+Ich habe nicht vergessen, was
+Ihr für mich getan habt, %pcf.
+Diese Schläger zu verjagen, lässt
+Euch tief in meiner Schuld stehen.
+
+QuestorPostfailure:  [1009]
+Ich habe immer noch Narben von diesen
+Schlägern. Ich heuerte Euch an, mich
+zu schützen, und Ihr habt versagt.
+Geht bloß weg von mir.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von ___qgiver_
+ trug mir auf %g2 zu beschützen.
+ _villains_ drohten %g2
+ zwischen 9 und Mitternacht in
+ _qgiverhome_ anzugreifen.
+
+Message:  1011
+Das ist nicht Euer Problem, Fremder.
+Überlasst _qgiver_ uns oder
+wir werden Euch niederstrecken,
+wo Ihr steht!
+
+Message:  1013
+Dies muss der Ort sein.
+Er passt zu der Beschreibung,
+die _qgiver_ Euch gab.
+

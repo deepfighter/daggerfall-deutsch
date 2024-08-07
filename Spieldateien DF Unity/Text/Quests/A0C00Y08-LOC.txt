@@ -1,0 +1,122 @@
+Quest: A0C00Y08
+DisplayName: Der Meuchelmörder
+QRC:
+
+QuestorOffer:  [1000]
+Mein Name ist unwichtig. Ihr müsst nur wissen,
+dass ich jemanden benötige, der nicht davor
+zurückschreckt, ein wenig Blut zu vergießen,
+für, sagen wir, _gold_ Goldstücke. Sagt mir
+unverzüglich, wenn Ihr kein Interesse habt.
+Seid Ihr bereit, diese Art von Arbeit zu übernehmen?
+<--->
+Shhh! Sprecht gefälligst leiser. Bevor ich
+irgendetwas anderes sage, seid Ihr die Art
+von %ra, die für Gold töten würde?
+Für _gold_ Goldstücke, wie klingt das?
+<--->
+Ich suche nach jemandem, der nicht gleich
+das Bewusstsein verliert beim Anblick von
+Blut. Menschenblut. Für _gold_ Goldstücke,
+würdet Ihr jemanden töten?
+
+RefuseQuest:  [1001]
+Ihr habt mich nie gesehen.
+<--->
+Dann verschwindet. Ich will nicht, dass man uns miteinander sprechen sieht.
+<--->
+Gut. Eure Sache.
+
+AcceptQuest:  [1002]
+Ich will _darkb_ tot sehen.
+Das Problem ist, dass die Dunkle
+Bruderschaft den Auftrag nicht
+übernehmen wird. Hat etwas mit
+einem Gefallen zu tun, den sie
+irgendwen schulden. Ich brauche
+jemanden, der unabhängig ist.
+Erledigt den Auftrag und meldet
+Euch innerhalb einer Woche wieder
+bei mir und ich bezahle Euch die
+_gold_ Goldstücke. Fragt einfach nach
+_questgiver_, ich werde genau
+hier auf Euch warten.
+
+QuestComplete:  [1004]
+Die Rache ist mein! Übrigens, Ihr solltet
+wohl lieber die Stadt verlassen. Wie ich
+höre, hat die Bruderschaft hiervon Wind
+bekommen. Hier ist Euer Geld, %pcf.
+
+RumorsDuringQuest:  [1005]
+Wie ich so höre, hasst _questgiver_ _darkb_.
+<--->
+_darkb_ hat Verbindungen zur Dunklen Bruderschaft.
+
+RumorsPostsuccess:  [1007]
+Jemand hat _darkb_ ermordet, und das auch noch
+mitten in der Öffentlichkeit!
+<--->
+Habt Ihr von dem Mord gehört? _darkb_
+wurde von einem Meuchelmörder ermordet.
+<--->
+Ich konnte _darkb_ nie leiden.
+Ich bin froh,  dass %g2 endlich jemand
+erledigt hat. Ich habe gehört, es war
+die Dunkle Bruderschaft.
+
+QuestorPostsuccess:  [1008]
+Sprecht nicht zu laut. Ihr habt _darkb_
+für mich getötet und ich erkenne meine Schuld an,
+aber ich will nicht, dass die Leute denken, ich
+hätte irgendetwas damit zu tun gehabt.
+
+QuestorPostfailure:  [1009]
+Ich habe Euch für einen einzigen Auftrag angeheuert,
+aber Ihr habt versagt. Ihr hättet nichts weiter tun
+müssen, als _darkb_ zu töten. Und jetzt
+ist es zu spät dafür und die Dunkle Bruderschaft ist
+mir auf den Fersen. Lasst mich einfach nur alleine.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich habe einen Mordauftrag für _darkb_
+ angenommen. Ich habe eine Woche, um nach getaner
+ Arbeit zu _questgiver_ von
+ ___questgiver_ zurückzukehren.
+
+Message:  1015
+_darkb_ ist nicht tot!
+Für wie dumm haltet Ihr mich, %pcf?
+
+Message:  1021
+Hilfe! Mörder! Hilfe!
+
+Message:  1022
+Ihr Köter! Was seid Ihr denn für ein Auftragsmörder?
+Zu den Waffen! Zu den Waffen!
+
+Message:  1023
+Ich bin getroffen! %oth.
+
+Message:  1024
+Feigling! Ihr greift mich an ohne Grund oder Provokation.
+
+Message:  1030
+_questgiver_? Ich weiß nicht viel
+über %g2. %g bleibt gerne für sich.
+
+Message:  1031
+Wie ich höre, hat _questgiver_
+ein paar ziemlich zwielichtige Freunde.
+Aber das habt Ihr nicht von mir.
+
+Message:  1032
+Ein guter, aufrichtiger Bürger. Das kann jeder bestätigen.
+
+Message:  1033
+_darkb_ hält sich für gewöhnlich im
+_place_ auf, aber ich würde mich nicht
+in seine Angelegenheiten einmischen.
+Nur ein freundschaftlicher Ratschlag.
+

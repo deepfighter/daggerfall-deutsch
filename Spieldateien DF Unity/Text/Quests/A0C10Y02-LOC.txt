@@ -1,0 +1,97 @@
+Quest: A0C10Y02
+DisplayName: Das entführte Kind
+QRC:
+
+QuestorOffer:  [1000]
+Ich bin verzweifelt. Die Dunkle Bruderschaft
+hat mein Kind, _child_, entführt
+und wird %g2 töten, wenn ich kein Lösegeld zahle.
+Ich habe nicht genug, um %g3 freizukaufen, aber
+ich kann Euch _money_ Goldstücke geben, wenn Ihr
+%g2 befreit.
+<--->
+Mein Kind, mein armes Kind _child_,
+ist weg, gestohlen von der Dunklen Bruderschaft
+für ihre nur %god bekannten scheußlichen
+Ziele. Ihr müsst mir helfen, %pcf.
+Ich gebe Euch alles, was ich habe, _money_ Goldstücke,
+wenn Ihr mir mein Kind zurückbringt.
+
+RefuseQuest:  [1001]
+Dies ist ein dunkler Tag für mich. _child_
+wird sicher von der Dunklen Bruderschaft erschlagen
+werden. Möge %g3 Geist Euch für den Rest Eurer Tage
+heimsuchen!
+
+AcceptQuest:  [1002]
+Ihr seid mein Retter! Mein Name ist _qgiver_.
+Schnell jetzt, Ihr habt nur =timeforq_ Tage Zeit,
+bevor sie _child_ töten. %g wird in _dbguild_
+in __dbguild_ festgehalten.
+
+QuestFail:  [1003]
+_child_?  Wo ist %g?
+Warum habt Ihr %g2 noch nicht
+zurückgebracht? Wenn Ihr %g3
+Leben retten wollt, geht jetzt!
+
+QuestComplete:  [1004]
+_child_! Du bist am Leben
+und gesund! %pcf, ich stehe
+so tief in Eurer Schuld, das
+kann ich nie voll zurückzahlen.
+Dieser bescheidene Lohn ist das
+wenigste, was ich Euch geben kann.
+
+RumorsDuringQuest:  [1005]
+Dieses Mal ist die Dunkle Bruderschaft zu
+weit gegangen. Das Kind von _qgiver_
+zu entführen ist unverzeihlich.
+
+RumorsPostfailure:  [1006]
+Ich glaube nicht, dass _qgiver_
+noch lange leben wird. %g wird sich
+wahrscheinlich umbringen. Ihr habt
+gehört, dass die Dunkle Bruderschaft
+%g3 Kind _child_ entführt
+und erschlagen hat?
+
+RumorsPostsuccess:  [1007]
+Ihr seid der %ra, der das Kind
+_child_ gerettet hat! Was für ein Held.
+
+QuestorPostsuccess:  [1008]
+Der Retter meines Kindes! Ich danke Euch,
+und _child_ dankt Euch, dass Ihr
+%g3 Leben gerettet habt. Gesegnet seid
+Ihr, %pcf.
+
+QuestorPostfailure:  [1009]
+Mein Kind _child_ ist tot wegen Euch!
+Tretet nie wieder durch meine Eingangstür!
+
+QuestLogEntry:  [1010]
+Seid Ihr hier, um mich zu retten?
+Mein Name ist _child_.
+Ich mag diese Leute nicht. Bitte
+bringt mich zu meiner Familie zurück.
+
+Message:  1011
+_dbguild_ ist düster
+und bedrohlich. Mit Sicherheit
+lauern hier überall Feinde.
+
+Message:  1012
+%qdt:
+ _qgiver_ hat mir von der grauenvollen
+ Entführung %g3 Kindes _child_ durch die
+ Dunkle Bruderschaft erzählt. Ich habe
+ sofort zugestimmt, %g2 aus _dbguild_
+ in __dbguild_ zu retten. %g3 Familie
+ wird =timeforq_ Tage auf meine Rückkehr zu
+ __qgiver_ in ___qgiver_ warten.
+
+Message:  1020
+Niemand überlebt es, sich mit der
+Dunklen Bruderschaft anzulegen!
+

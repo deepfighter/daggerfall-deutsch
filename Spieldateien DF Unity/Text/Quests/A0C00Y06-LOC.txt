@@ -1,0 +1,64 @@
+Quest: A0C00Y06
+DisplayName: Eine unerwartete Reise
+QRC:
+
+QuestorOffer:  [1000]
+Mein Name ist _qgiver_.
+Mein Gebieter trug mir auf,
+einen wackeren Abenteurer
+für ein gefährliches Unterfangen
+zu finden. Mehr kann ich Euch
+nicht offenbaren, außer dass
+einige _gold_ Goldstücke auf Euch
+harren, so Ihr Erfolg habt.
+Seid Ihr geneigt, dies zu übernehmen?
+
+RefuseQuest:  [1001]
+So sei es, ich werde anderswo
+nach einem Helden suchen, der
+den Auftrag meines Gebieters
+erfüllen mag.
+
+AcceptQuest:  [1002]
+Begebt Euch zum _meetingplace_.
+Dort werdet Ihr meinen Gebieter antreffen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich begegnete _qgiver_ in
+ ___qgiver_, der mir offenbarte,
+ dass %g3 Gebieter am _meetingplace_
+ _gold_ Goldstücke für einen unbekannten,
+ aber gewiss gefährlichen Auftrag anbieten
+ würde.
+
+Message:  1011
+%qdt:
+ Der Verräter _traitor_
+ teleportierte mich nach
+ __dungeon_. Wenn ich hier
+ je entkommen sollte, werden
+ wir uns wiedersehen.
+
+Message:  1012
+Lernet mich kennen, wie ich
+wahrhaftig bin. Ich bin Euer
+ärgster Feind, _traitor_!
+Ich habe ein besonderes Missgeschick
+für Euch vorgesehen.
+
+Message:  1013
+Ich wusste nicht, dass _traitor_
+Euch derart hintergehen würde. Ich
+suche keinen Zwist mit Euch, %pcn.
+%g hat sich zum _hidingplace_
+in dieser Stadt begeben. Haltet dort
+Ausschau nach %g2.
+
+Message:  1014
+Ich habe keine Ahnung, wie Ihr aus
+___dungeon_ entkommen
+konntet, %pcf. Es wird
+Euch nicht gut bekommen. Seid bereit
+zu sterben!
+

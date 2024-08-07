@@ -1,0 +1,88 @@
+Quest: A0C00Y07
+DisplayName: Der Schädlingsbekämpfer
+QRC:
+
+QuestorOffer:  [1000]
+Ich bedarf Eurer Hilfe. _qgiver_
+zu Euren Diensten, obgleich ich hoffe,
+dass Eure Dienste die meinigen seien.
+Mein _house_ wird von Ungeheuern
+heimgesucht. Könnet Ihr sie für mich
+erlegen? Ich bin bereit, Euch _gold_ Goldstücke
+zu zahlen.
+
+RefuseQuest:  [1001]
+Hilfe, ich bedarf Hilfe! Will mir denn niemand beistehen?
+
+AcceptQuest:  [1002]
+Danke, danke, danke!
+Wenn sie bis morgen um diese Zeit nicht
+weg sind sind, bin ich ruiniert.
+
+QuestComplete:  [1004]
+Welch eine Erleichterung. Ich hasse diese Kreaturen.
+Ihr wart äußerst hilfreich, %pcn. Hier
+sind die versprochenen _gold_ Goldstücke.
+
+RumorsDuringQuest:  [1005]
+Ich finde es urkomisch! _qgiver_s
+_house_ ist von riesigen Käfern überrannt!
+<--->
+Ich fühle mit _qgiver_. %g3
+_house_ wird praktisch von zwölf Fuß
+langen Ratten mit giftigen Stacheln
+übernommen. Man sagt, sie können einen
+Mann mit einem einzigen Blick in Stein
+verwandeln!
+
+RumorsPostfailure:  [1006]
+_qgiver_ musste _house_ verkaufen.
+<--->
+Ich hörte, jemand aus der Kriegergilde starb
+beim Versuch, die Plage in _qgiver_s
+_house_ zu beseitigen.
+
+RumorsPostsuccess:  [1007]
+Seid Ihr nicht der %ra,
+der _qgiver_ geholfen hat,
+die Bestien loszuwerden, die %g3
+_house_ übernommen hatten?
+<--->
+Ich hörte, dass _qgiver_ jemanden
+bezahlte, um alle Kreaturen zu töten,
+die %g3 _house_ überrannt hatten.
+
+QuestorPostsuccess:  [1008]
+%pcf, ich schulde Euch Dank dafür,
+dass Ihr mein _house_ von
+Monstern befreit habt.
+<--->
+Hört her, alle miteinander. Ich möchte,
+dass Ihr meinen Freund, %pcn,
+kennenlernt, den außergewöhnlichen
+Sschädlingsbekämpfer. %g hat mein
+_house_ von drei Dutzend Monstern befreit!
+
+QuestorPostfailure:  [1009]
+Ihr! Ihr habt mich ruiniert!
+Ich habe _house_ verloren,
+weil Ihr es nicht geschafft habt,
+ein paar Monster darin zu beseitigen.
+<--->
+Seid Ihr nicht der %ra, der
+mich im Stich ließ? Ich heuerte
+Euch an, um einige Monster zu töten,
+die mein _house_ befallen
+hatten, und Ihr konntet es einfach
+nicht tun. Geht weg.
+
+QuestLogEntry:  [1010]
+%qdt:
+ In ___qgiver_,
+ traf ich _qgiver_.
+ %g bat mich, _house_
+ in __house_ von
+ Monstern zu befreien. %g
+ braucht sie innerhalb eines
+ Tages fort.
+

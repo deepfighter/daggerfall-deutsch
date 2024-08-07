@@ -1,0 +1,128 @@
+Quest: A0C01Y06
+DisplayName: Eine unerwartete Reise, Teil II
+QRC:
+
+QuestorOffer:  [1000]
+Mein Name ist _qgiver_.
+Mein Herr befahl mir, einen wackeren
+Abenteurer für ein gefährliches
+Unterfangen zu finden. Mehr kann Ich
+Euch nicht offenbaren, außer dass die
+Erfüllung des Auftrags Euch _gold_ Goldstücke
+einbringen wird. Habt Ihr Interesse?
+<--->
+Nennt mich _qgiver_. Ich kenne
+jemanden, der möglicherweise interessante
+Arbeit anzubieten hat. Wer auch immer
+den Auftrag ausführt, dem winken _gold_ Goldstücke
+als Belohnung.
+
+RefuseQuest:  [1001]
+Ich sollte anderswo nach einem Helden
+suchen, um den Auftrag meines Herrn
+zu erfüllen.
+
+AcceptQuest:  [1002]
+Begebt Euch nach _meetingplace_.
+Dort werdet Ihr meinen Herrn _master_
+finden.
+<--->
+Fragt in _meetingplace_ nach _master_,
+und %g wird Arbeit für Euch haben.
+
+QuestComplete:  [1004]
+=mmaster_ ist tot. Eure Feinde werden
+es sich zweimal überlegen, bevor sie
+noch einmal solch einen Verrat versuchen.
+
+RumorsDuringQuest:  [1005]
+Ich habe gehört, heute wurde in der Stadt ein
+Ork gesichtet. Hoffentlich wird er gefasst.
+
+RumorsPostfailure:  [1006]
+Habt Ihr von dem %ra gehört,
+der zum Grund einer Höhle teleportiert
+wurde? Wirklich amüsant! Oh, verzeiht.
+
+RumorsPostsuccess:  [1007]
+Heh! Ihr seid der %ra, der den
+Ork-Hexer getötet hat! Gute Arbeit!
+
+QuestorPostsuccess:  [1008]
+In Ordnung, ich denke, ich schulde
+Euch etwas nach der Sache mit dem Ork-
+Schamanen. Er war verzaubert, sodass er
+wie ein normaler Mensch aussah.
+
+QuestorPostfailure:  [1009]
+Geht nur weg! Ich wollte nicht, dass
+jemand verletzt wird. Der Ork war verzaubert,
+sodass er wie ein normaler Mensch aussah.
+Es ist nicht meine Schuld, dass er Euch in
+die Höhle teleportiert hat.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich traf _qgiver_ in ___qgiver_,
+ %g3 Herr _master_ ist bereit,
+ für einen unbekannten, aber sicher
+ gefährlichen Auftrag _gold_ Goldstücke
+ zu zahlen. Er verweilt in _meetingplace_
+ in __meetingplace_.
+
+Message:  1011
+%qdt:
+ Der Verräter =mmaster_, getarnt
+ als _master_, zauberte mich
+ nach ___dungeon_. Wenn ich
+ hier jemals wieder herauskomme,
+ wird %g das bei unserem nächsten
+ Treffen bereuen.
+
+Message:  1012
+Sehet, wer ich wirklich bin. Ich bin Euer
+Todfeind =mmaster_! Ich habe ein
+besonderes Schicksal für Euch vorgesehen.
+
+Message:  1013
+Tut mir nicht weh, %pcn!
+Ich hatte keine Ahnung, was _master_
+vorhatte. Ich habe kein Problem mit Euch,
+ehrlich! %g hat mir nichts gesagt, ich
+schwöre, %g hat mich nur bezahlt, um Euch
+zu %g2 zu schicken. Ihr wollt %g, nicht
+mich, stimmt´s? Ich habe gehört, %g ist
+nach __hidingplace_ gezogen.
+Sucht dort nach %g2.
+
+Message:  1014
+Ich weiß nicht, wie Ihr aus ___dungeon_
+entkommen konntet, %pcf. Es wird Euch
+aber nichts nützen. Seid bereit zu sterben!
+
+Message:  1020
+_master_? Nein, ich glaube
+nicht, dass %g von hier ist.
+<--->
+_master_ ist neu in der Stadt.
+Keine Ahnung, wo %g herkommt.
+
+Message:  1021
+_master_ hat nach irgendeinem
+%ra herumgefragt.
+<--->
+_master_ ist hier in
+der Stadt. Hab gehört, %g hat
+viele Fragen über einen %ra
+gestellt. Ihr seid doch ein
+%ra, nicht wahr? Vielleicht
+sucht %g Euch?
+
+Message:  1030
+%qdt:
+ Ich habe herausgefunden, dass =mmaster_
+ sich jetzt in __hidingplace_ versteckt.
+
+Message:  1035
+Der Gesang des Ork-Schamanen erhebt sich.
+

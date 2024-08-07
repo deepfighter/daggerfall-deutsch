@@ -1,0 +1,203 @@
+Quest: A0C00Y00
+DisplayName: Der Postbote
+QRC:
+
+QuestorOffer:  [1000]
+Mein Name ist _qgiver_. Ich habe
+eine Mission, die außerordentliche
+List und Heimlichkeit erfordert.
+Das Risiko ist gering, und ich werde
+Euch _gold_ Goldstücke dafür bezahlen.
+Sie wird lediglich =traveltime_ Tage Eurer
+Zeit in Anspruch nehmen. Näheres
+kann ich Euch jedoch erst verraten,
+wenn Ihr die Mission angenommen habt.
+<--->
+Seid gegrüßt, junger %ra.
+Wie würde es Euch gefallen,
+_gold_ Goldstücke zu verdienen?
+Ihr müsstet nichts weiter tun, als
+ein kleines Kunststück vollführen, das,
+wie man mir sagte, in Söldnerkreisen als
+"der alte Taschenspielertrick" bekannt ist.
+
+RefuseQuest:  [1001]
+Ich verstehe. Ich bin froh, dass ich Euch
+keine Details gegeben habe. So könnt Ihr
+mich nicht verraten.
+<--->
+Nun gut, aber es mag sein, dass fehlender
+Ehrgeiz Euer Verderben wird, mein junger
+Freund.
+
+AcceptQuest:  [1002]
+Begebt Euch zu _inn_ in
+_inn. Ein Kurier wird dort
+verweilen, der einen Brief bei sich tragen
+sollte. Nehmt den Brief und platziert diese
+Fälschung hier an dessen Stelle. Berührt
+keines seiner anderen Besitztümer. All meine
+Planungen wären zunichte, wenn er entdeckt,
+dass die Briefe vertauscht wurden. Solltet
+Ihr erwischt werden, versucht erst gar nicht,
+mich zu finden.
+
+QuestFail:  [1003]
+Habt Ihr nicht einen Brief für mich zu überbringen?
+<--->
+Kehrt zurück, wenn Ihr Eure Mission erfüllt habt,
+%pcf.
+
+QuestComplete:  [1004]
+Ah! Gut gemacht, %pcf. Hier ist Eure
+Belohnung. Erwähnt diese Sache niemandem.
+Ich werde abstreiten, Euch jemals getroffen
+zu haben.
+
+RumorsDuringQuest:  [1005]
+Die Ernte scheint dieses Jahr gut zu sein.
+
+RumorsPostfailure:  [1006]
+Für _qgiver_ sind harte Zeiten angebrochen.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ scheint in letzter Zeit eine Glückssträhne zu haben.
+
+QuestorPostsuccess:  [1008]
+Seid still. Natürlich erinnere ich mich an
+diese kleine Briefvertauschungs-Mission, die
+Ihr für mich erledigt habt, aber ich würde
+es bevorzugen, wenn sonst niemand davon erfährt.
+
+QuestorPostfailure:  [1009]
+Ihr seid es! Alles, worum ich Euch gebeten hatte,
+war, einen einfachen Brief auszutauschen, und selbst
+das habt Ihr nicht geschafft! Verlasst meine Gegenwart.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich habe mich im Geheimen mit _qgiver_
+ in ___qgiver_ getroffen und einen
+ gefälschten Brief erhalten. Ich soll mich
+ in das _inn_ in __inn_
+ schleichen und ihn mit dem echten Brief
+ vertauschen. Ich habe =traveltime_ Tage, um
+ diesen Auftrag auszuführen. Sollte ich dabei
+ ertappt werden, bin ich auf mich allein gestellt.
+
+Message:  1011
+_npc1_,
+ 
+     Ihr seid ein äußerst widerwärtiger Mann.
+ Wie konnte ich nur jemals denken, dass ich
+ Euch liebe. Nun, da Ihr mich auf dem Balkon
+ in den Armen von _npc2_ gesehen habt,
+ kann ich Euch auch gleich gestehen, dass
+ wir in der Tat ein Liebespaar sind. %g kann
+ mir all das geben, was Ihr nicht könnt. Eure
+ Goldgeschenke ließen mich unrein fühlen.
+ Wagt es nicht, je wieder meine Türschwelle zu
+ überschreiten.
+ 
+                       _npc3_
+
+Message:  1012
+Mein liebster _npc1_,
+ 
+     ich weiß, Ihr seid wütend und verletzt.
+ Ich würde alles tun, um Eure Liebe wiederzugewinnen.
+ Was Ihr auf dem Balkon gesehen habt, geschah ohne
+ meinen Wunsch. Ich hatte an jenem Abend zu viel
+ getrunken und _npc2_ nutzte den Moment aus,
+ um sich einen Kuss zu erschleichen. %g wurde
+ ausgepeitscht und befindet sich nicht länger in
+ meinen Diensten.
+ 
+     Bitte verzeiht mir.
+     Ich liebe nur Euch.
+ 
+                       _npc3_
+
+Message:  1013
+Diese Taverne sieht aus wie jede andere auch. Für
+Euch jedoch ist sie ein Ort, an dem Heimlichkeit
+mehr bedeutet als Stärke. Nun gilt es herauszufinden,
+wo der Kurier diesen Brief gelassen hat.
+
+Message:  1014
+Dieb! Euch werde ich lehren, von
+einem ehrlichen Boten zu stehlen!
+
+Message:  1015
+Als der Brief voller Lügen Eure Finger verlässt,
+wisst Ihr, dass Eure Aufgabe halb erfüllt ist.
+
+Message:  1016
+Baron _npc1_,
+ 
+     Graf _npc2_ wird seine Streitkräfte
+ auf dem Pass warten lassen, wo %g
+ Euch in einen Hinterhalt locken will.
+ Fallt nicht auf seine List herein.
+ 
+                     _npc3_
+
+Message:  1017
+_npc1_,
+ 
+     Euer Angebot ist lächerlich!
+ Ich kann um die Hälfte dieses Preises
+ von jedem anderen Händler in ___npc1_
+ erhalten und das werde ich tun.
+ 
+                   _npc2_
+
+Message:  1018
+Ehrenwerter _npc1_,
+ 
+     ich habe beschlossen, für Euch
+ zu stimmen, wenn die Gilde ihren
+ neuen Schatzmeister wählt. Natürlich
+ erwarte ich, dafür in naher Zukunft
+ vergütet zu werden
+ 
+                   _npc2_
+
+Message:  1019
+Baron _npc1_,
+ 
+     Graf _npc2_ wird Euch
+ auf dem Pass erwarten. Seine
+ Bereitschaft zur Waffenruhe
+ ist ehrenwert und anständig.
+ 
+                  _npc3_
+
+Message:  1020
+_npc1_,
+ 
+ Euer Preis ist angemessen. Dieser Brief
+ ist mein Zahlungsversprechen für die Waren.
+ Legt ihn meinem Vertreter vor, wenn Ihr
+ sie liefert.
+ 
+                   _npc2_
+
+Message:  1021
+Ehrenwerter_npc1_,
+ 
+     ich habe beschlossen, meine Stimme
+ beim nächsten Gildentreffen für _npc3_
+ abzugeben. %g hat der Gilde unzählige Mal
+ die Treue bewiesen.
+ 
+                  _npc2_
+
+Message:  1030
+_qgiver_ ist ein echter Wiesel.
+
+Message:  1031
+_qgiver_ scheint vielleicht
+ganz nett zu sein, aber ich würde
+nicht mit %g2 Karten spielen.
+

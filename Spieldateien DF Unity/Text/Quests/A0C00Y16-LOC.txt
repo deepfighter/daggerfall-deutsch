@@ -1,0 +1,197 @@
+Quest: A0C00Y16
+DisplayName: Vermisstenfall
+QRC:
+
+QuestorOffer:  [1000]
+Mein Name ist _questgiver_.
+Könnet Ihr mir helfen, meinen Freund
+zu finden? Ich kann Euch nur
+_gold_ Goldstücke bezahlen.
+<--->
+Bitte helft mir. Mein Freund _missingperson_
+wird vermisst. Ich habe die Befürchtung, dass
+ihm etwas zugestoßen sein könnte. Ich werde
+Euch _gold_ Goldstücke bezahlen, wenn Ihr
+_missingperson_ findet.
+
+RefuseQuest:  [1001]
+Guten Tag, %ra. Ich werde
+jemanden anderen suchen.
+<--->
+Ist denn niemand bereit, mir zu helfen?
+<--->
+Ich bitte vielmals um Verzeihung.
+Ich hatte Euch für einen heldenhaften
+Abenteurer gehalten.
+
+AcceptQuest:  [1002]
+Meine Gebete wurden erhört. Ich habe
+_missingperson_ nun schon seit
+vier Tagen nicht mehr gesehen und mache
+mir große Sorgen um ihn. Das letzte Mal
+wurde er mit _friend1_ und
+_friend2_ gesehen. Vielleicht
+möget Ihr mit der Suche bei ihnen beginnen.
+Wenn Ihr _missingperson_ nicht
+innerhalb der nächsten zwei Tage findet,
+braucht Ihr gar nicht mehr weiterzusuchen.
+
+QuestComplete:  [1004]
+Hier sind die _gold _Goldstücke,
+die ich Euch versprochen hatte
+
+RumorsDuringQuest:  [1005]
+Ich hörte, _questgiver_ ist
+verzweifelt auf der Suche nach
+_missingperson_.
+
+RumorsPostfailure:  [1006]
+_missingperson_ wurde jetzt
+seit Tagen von niemandem mehr gesehen.
+Er wird inzwischen für tot gehalten.
+Man sagt, es hätte _questgiver_
+schwer getroffen.
+
+RumorsPostsuccess:  [1007]
+Sagt, seid Ihr nicht dieser %ra,
+der _questgiver_ geholfen hat,
+_missingperson_ zu finden?
+
+QuestorPostsuccess:  [1008]
+Wie könnte ich den %ra abweisen, der
+_missingperson_ für mich gefunden hat?
+
+QuestorPostfailure:  [1009]
+Ich weiß, es ist nicht Eure Schuld,
+dass Ihr nicht in der Lage wart,
+_missingperson_ für mich
+zu finden. Man hat ihn tot in der
+Gosse gefunden. Bitte, lasst mich
+einfach alleine.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich habe zugestimmt, _questgiver_
+ zu helfen, _missingperson_ zu
+ finden. Er wird seit vier Tagen vermisst.
+ Mein einziger Anhaltspunkt ist, dass er
+ kurz vor seinem Verschwinden mit _friend2_
+ und _friend1_ gesehen wurde. Wenn ich nicht
+ in zwei Tagen erfolgreich bin, werde ich
+ nicht bezahlt.
+
+Message:  1021
+Ihr sucht nach _missingperson_?
+Nun, er versteckt sich im __missingperson_,
+aber erzählt _questgiver_ nicht davon.
+_missingperson_ hat geschworen,
+nie wieder mit _questgiver_ zu
+sprechen. Fragt mich nicht, warum.
+
+Message:  1022
+Ob ich _missingperson_ in
+letzter Zeit einmal gesehen habe?
+Ja, sicher. Die Wachen haben ihn
+dabei erwischt, wie er von einem
+Tempel gestohlen hat. _questgiver_
+wird ziemlich wütend sein, wenn
+%g das erfährt.
+
+Message:  1023
+Hat _questgiver_ Euch hierzu
+angestiftet? Dachte ich mir.
+%oth, er und _missingperson_
+hatten vor ein paar Tagen einen
+üblen Streit. _missingperson_
+hat die Stadt verlassen und wurde
+seitdem nicht mehr gesehen. Ich
+weiß nicht, wohin er gegangen ist.
+
+Message:  1024
+_missingperson_? Ja, ich
+weiß, was ihm passiert ist.
+Umgelegt wurde er, das ist passiert.
+Mein Freund Smiley hat ihn ausgesprochen
+nett um etwas Gold gebeten und er wollte
+es einfach nicht herausrücken. Ihr solltet
+Smiley wirklich einmal treffen und meine
+anderen Freunde auch. Schnappt Euch den
+%ra, Smiley!
+
+Message:  1031
+_missingperson_? Nein. Habe
+ihn jetzt schon seit ein paar Tagen
+nicht mehr gesehen. Versucht es doch
+einmal bei _friend3_.
+Er weiß vielleicht etwas.
+
+Message:  1032
+%oth. Ich habe _missingperson_
+seit vorgestern nicht mehr gesehen.
+Ihr könntet _friend4_ oder
+_friend1_ fragen. Einer von
+beiden weiß bestimmt etwas.
+
+Message:  1033
+_friend1_ hat Euch gesagt,
+ich wüsste vielleicht etwas über
+_missingperson_? Ich fürchte
+nicht. Alles, was ich weiß, ist,
+dass er gestern Nacht losgezogen
+ist, um etwas zu trinken. Hoffe,
+er ist nicht in Schwierigkeiten
+geraten.
+
+Message:  1034
+Es tut mir leid, ich hab
+_missingperson_ schon
+seit einer ganzen Weile nicht
+mehr gesehen. Ich weiß nicht,
+warum _friend2_ Euch zu
+mir schicken würde... Habt Ihr
+es schon bei _friend1_
+versucht?
+
+Message:  1040
+Was macht Ihr hier?
+Ich will _questgiver_
+niemals wieder sehen.
+Hey! Lasst mich los!
+Ihr könnt mich doch
+nicht die Straße entlang
+zu %g2 ziehen.
+
+Message:  1050
+_missingperson_! Ich
+hatte nicht erwartet, dass
+Ihr ihn sogar hierher bringen
+würdet, %pcn. _missingperson_,
+wo wart Ihr? Ich war krank vor
+Sorge um Euch. %pcf,
+ich übernehme ab hier.
+
+Message:  1051
+_missingperson_ versteckt
+sich also, hä? Ich werde losgehen
+und dafür sorgen, dass er sich
+nicht mehr verstecken muss. Ihr
+wart sehr hilfreich, %pcn.
+
+Message:  1052
+Im Gefängnis! Ich muss sofort
+los. Vielleicht kann ich den
+Richter bestechen.
+
+Message:  1053
+_missingperson_ hat
+also die Stadt verlassen.
+Das hätte er nicht tun müssen.
+Ich hätte %g2 doch verziehen.
+
+Message:  1054
+Tot! Wie kann das sein?
+Ich hoffe, Ihr habt dafür
+gesorgt, dass dieser Smiley
+leidet, %pcn. Dies ist
+ein trauriger Tag für mich.
+
