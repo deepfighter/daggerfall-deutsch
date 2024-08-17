@@ -1,0 +1,114 @@
+Title: Fürst Wiedborns Memoir, Teil II
+Author: Fürst Wiedborn
+IsNaughty: False
+Price: 300
+IsUnique: False
+WhenVarSet: LiftedCurse
+Content:
+
+
+[/font=2]
+
+[/center]Fürst Wiedborns Memoir, Teil II
+
+
+[/center]
+[/font=4]von Fürst Wiedborn
+
+[/center]
+
+[/center]
+
+Nun, mein Vater war schon wohlbetagt, als ich das Licht der Welt erblickte. Auf seinem Sterbebett, war er nur noch eine röchelnde, verschrumpelte Hülle eines Mannes, der mich mit grünlichem Sabber im Mundwinkeln und seinen Augen anstarrte, als wüsste er nicht, wer ich war. Meine Mutter hingegen war sanftmütig, jung und einfältig. Sie liebte uns alle, selbst mich. Als mein Bruder Goriph verschied, hegte sie nicht einmal einen Verdacht gegen mich, obwohl ich keine Tränen vergoss.
+
+Natürlich hatte ich noch einen weiteren Bruder, der meinem Erbe im Wege stand. Sein Name war Rothdam, und ich kannte ihn kaum. Wie die meisten Herren großer Ländereien in Wegesruh verbrachte er seine Zeit entweder am Hofe der Hauptstadt oder auf dem Schlachtfeld. Wenn er jedoch vorbeikam, war er eine beeindruckende Erscheinung: groß, stattlich, freundlich, witzig, höflich und belesen. Natürlich erinnere ich mich nicht an einen Moment, in dem ich ihn nicht gehasst hätte.
+
+Nicht, dass ich ihn oft gesehen hätte. Im Alter von dreizehn Jahren wurde ich verbannt. Nun, das klingt dramatischer als es war. Mein Vater war endlich verstorben, und seit dem Tod meines Bruders war ich der nächste Erbe, bis mein Bruder eigene Kinder haben würde. Sollte das Schlimmste eintreten, benötigte ich etwas Bildung und Erfahrung, also wurde ich zu meinem Cousin nach Dolchsturz gesandt.
+
+Wie genau wir miteinander verwandt sind, erspare ich Euch, denn es ist zu langweilig. Wie bei den meisten bretonischen Adelsfamilien sind unsere Mütter und Väter bereits Cousin und Cousine dritten Grades, auf beiden Seiten inzestuös verbunden. So kam es, dass ich Prinz Gothryd begegnete.
+
+Hätte ich den jetzigen König von Dolchsturz nie getroffen, bin ich mir nicht sicher, ob ich all die Dinge getan hätte, die ich später tat. Gewiss, ich tötete einen Bruder aus Ärger über das Erbe, aber damals war ich noch ein Kind. Und wie Gothryd mir in den ersten Tagen unserer beiden Sommer zusammen sagte, war es unwahrscheinlich, dass Rothdam andere Erben als mich haben würde.
+
+„Er mag Knaben, keine Mädchen,“ sagte Gothryd, der damals ebenfalls zwölf Jahre alt war, zu mir, während wir nach einer Unterrichtsstunde durch ein Feld spazierten.
+
+„Woher weißt du das?“ fragte ich.
+
+„Jeder am Hofe weiß das,“ entgegnete er in seiner herablassenden Art, als wollte er implizieren, dass ich, ein Landei aus einem weit entfernten, unbedeutenden Teil von Hochfels, nichts von den Gesprächen der Elite mitbekäme. Der subtile Hieb störte mich nicht. Es war die Information, nach der ich suchte.
+
+„Also wird er keine Kinder haben,“ musste ich laut gesagt haben.
+
+Gothryd lachte. „Gut, du beginnst es zu verstehen. Er mag aus politischen Gründen verheiratet sein, doch wird er keinen Nachwuchs zeugen, und du wirst sein Erbe sein. Wahrscheinlich eher früher als später, wenn er im Kampf fällt.“
+
+„Ich will nicht, dass er stirbt,“ log ich.
+
+„Gut,“ sagte der Prinz ohne zu zögern, obwohl ich vermutete, dass er meine Gedanken besser kannte als ich selbst. „Ich kenne einen Mann namens Tharn, der uns helfen kann. Er steht dem Kaiser nahe, im Grunde genommen ist er dessen Beschützer. Ich werde mit ihm darüber sprechen, wie man deinen Bruder... vor Schaden bewahren können.“
+„Der kaiserliche Kampfmagier Jagar Tharn?“ fragte ich. „Ich hörte, er und sein Lehrling seien vor fünf Jahren verschwunden.“
+
+„Er ist tief im untergetaucht,“ grinste Gothryd. „Aber einflussreicher denn je.“
+
+Während wir am Ufer eines Flusses entlanggingen, der von Aalen wimmelte und mit süßem Jasmin duftete, dachte ich eine Weile über seine Worte nach, und dann stiegen wir zu einem Hügel hinauf, von dem aus wir die Hauptstadt von Gothryds zukünftigem Königreich überblicken konnten. Im Gegensatz zu meinem Erbe war das seine nie in Zweifel.
+
+„Was wird Tharn im Gegenzug verlangen?“ fragte ich schließlich.
+
+„Einfache Treue zum Kaiserreich,“ entgegnete Gothryd, ohne mir in die Augen zu sehen. „Zu jedem Kaiser.“
+
+Ich stimmte diesen Bedingungen zu, und später lernte ich natürlich, was er damit meinte. Dieser Kampfmagier Jagar Tharn gab sich als Kaiser aus und regierte viele Jahre vom Kaiserthron aus. Das war das einzige Gespräch, das wir in jenem ersten Sommer zu diesem Thema führten.
+
+Als ich nach Hause zurückkehrte, war Wiedbornhall in einem Zustand ekstatischer Unordnung. Diener rannten überall herum, und meine liebe, einfältige Mutter weinte vor Stolz. Rothdam, Fürst Wiedborn, war von Kaiser Uriel Septim VII. nach Torval im südlichen Elsweyr beordert worden. Er sollte offizieller kaiserlicher Gesandter beim Mane und König Mojtabe sein. Eine sehr große Ehre.
+
+Und das war es auch. Monate lang erhielten wir Briefe aus Torval, die von dem seltsamen, schönen Land und den Bräuchen der Khajiit erzählten. Rothdam berührte diplomatische Details nur oberflächlich, da alles streng geheim war, doch es war offensichtlich, dass er trotz seiner Bescheidenheit sowohl beim König als auch beim Mane sehr beliebt geworden war.
+
+Die Briefe hörten im Winter des folgenden Jahres auf. Und dann erhielten wir die Nachricht vom Gemetzel von Torval, einem Überraschungsangriff aus Valenwald, bei dem Tausende starben. Einschließlich meines Bruders.
+
+Ich war nun Fürst Wiedborn, im Alter von 14 Jahren. Alle waren schockiert, außer mir. Es roch von Anfang an nach einer Falle, die Gothryds Freund Tharn aufgestellt hatte, doch ich wusste natürlich, wie man Trauer vortäuscht und das Erbe mit großer Ernsthaftigkeit annimmt.
+
+In ähnlicher Weise nahm ich jenem Sommer auch an meiner Initiation in die Ritter der Rose teil. Als dritter Sohn eines unbedeutenden Adeligen war ich zuvor nie an den Hof von König Eadwyre geladen worden. Im Vergleich zu Wiedbornhall, mit seiner praktischen Hässlichkeit, erschien mir Schloss Wayrest als Inbegriff von Opulenz. Sofort begehrte ich es als mein Zuhause, obwohl ich natürlich damals noch keine Ahnung hatte, wie ich diesen Traum verwirklichen könnte.
+
+Ich war einer von mehreren jungen Adligen aus Wegesruh, die an jenem Tag ihre Investitur und Initiation erhielten, und die königliche Suite enttäuschte nicht mit ihrem Pomp. Weiße Rosen waren im Überfluss vorhanden, ihr Duft erfüllte die warme Sommerluft. Fürst Finsterwerth, das Oberhaupt der Ritter der Rose, begrüßte uns förmlich und führte uns in einer Prozession die lächerlich langen Stufen hinauf zum Thronsaal. Dort erblickte ich ein vertrautes Gesicht: Prinz Gothryd, als Teil einer Delegation, die Dolchsturz vertrat. Alle anderen waren mir neu, aber ich sollte sie in den kommenden Jahren gut kennenlernen.
+
+König Eadwyre stand in der Mitte, natürlich, in voller Montur. Ein leicht stämmiger Mann mittleren Alters, der die neuen Mitglieder des ritterlichen Ordens, der ihm diente, mit einem resignierten Blick musterte. Zu seiner Rechten stand seine neue Königin, die Dunkelelfin Barenziah aus Morrowind, deren schwarzes juweilenbesetztes Gewand mit ihrer Haut und ihrem Haar harmonierte, und sie wie einen schimmernden Schatten erscheinen ließ. Zu seiner Linken ein dickgesichtiges kleines Mädchen mit ungekämmtem blondem Haar, die mir, als ich sie erblickte, die Zunge herausstreckte. Das war Eadwyres Erbin, sein einziges Kind von seiner verstorbenen Gemahlin Carolyna, und in zehn Jahren waren wir verlobt, um zu heiraten. Wahnsinn.
+
+Prinzessin Morgiah, Barenziahs Tochter aus ihrer früheren Ehe, beeindruckte mich ebenfalls nicht. Ich könnte vermutlich Mitgefühl für Ihre Vergangenheit empfinden, da sie kürzlich ihren Vater und ihr Leben in Gramfeste verloren hatte, aber Mitleid liegt nicht in meiner Natur. Sie erschien mir als unsicheres Mädchen, noch nicht ganz Frau, unschlüssig über sich selbst und ihren Platz in der Welt. Ihr Bruder Prinz Helseth hingegen schien dies zu kompensieren, indem er sich aufplusterte, seine roten Augen trotzig blitzten, als ob dies der Beginn einer Schlacht und nicht einer friedlichen Zeremonie wäre.
+
+Prinz Gothryd hatte natürlich einen prominenten Platz auf dem Podest, besser als der anderer, weniger wichtiger Diplomaten und Gesandter, die kleinere Fürstentümer, Herzogtümer und Baronien von Hochfels repräsentierten. Er schenkte mir ein selbstzufriedenes halbes Lächeln.
+
+Es besteht keine Notwendigkeit, den Leser mit weiteren Details der Zeremonie oder des anschließenden Banketts zu langweilen. Die meisten sozialen Interaktionen waren oberflächlich: eine Begrüßung, eine Verbeugung, ein paar Worte, um zu erklären, wer zum Teufel jemand war und warum man sich darum kümmern sollte. Gespräche wie Blasen, die platzten und verschwanden, kaum dass sie geführt wurden.
+
+Fürst Mogref von Betonien war beispielsweise anwesend, ein ebenso unbedeutender Mann wie die Insel, die er vertrat, und machte Witze über Piratenprobleme in seiner Region. Sein Ton würde sich in wenigen Jahren ändern, als sein kleines Problem zwei große Nationen in den Krieg führte.
+
+Es war mein gesellschaftliches Debüt, und ich war ein Fremder, was mir deutlich gemacht, wann immer ich versuchte an irgendeinem Gespräch teilzunehmen, das interessant schien. Ich hörte gerade genug von einem geflüsterten Gespräch über Politik und Konzepten, um mehr erfahren zu wollen, doch sobald ich mich näherte, drehte sich das Gespräch plötzlich um Mode oder das angenehme Wetter. Was ich jedoch bemerkte, war, dass diese Vorsicht gegenüber den Dienern, die den versammelten Adligen aufwarteten, nicht gewahrt wurde. Sie blickten nicht einmal in die Gesichter der Diener und Mägde, die ihnen Getränke brachten, sondern führten ihre Gespräche fort, als wären diese unsichtbar. Ich hingegen sah Ihnen ins Gesicht und bemerkte etwas Interessantes.
+
+Die Diener lauschten und tauschten Blicke miteinander. Noch interessanter war, dass sie wortlos über politische Grenzen hinweg kommunizierten. Eine Magd, die einem Mitglied der königlichen Familie ein Getränk reichte, traf den Blick eines Dieners, der unauffällig die Schuppen von den Schultern eines Stutzers aus Camlorn entfernte. Es gab ein Netzwerk, im Spiel. Ein Spionagespiel. Es war eine sofortige Erleuchtung für mich, eine Erkenntnis, wie man ein Spionagenetzwerk aufbaut, und ich beschloss, sofort damit zu beginnen, eines zu formen.
+
+Im Gegensatz zur Subtilität des Spionagenetzwerks der Diener, das, wie ich später erfuhr, Teil der Klingen des Kaisers war (mit einigen Agenten des Unterkönigs anwesend), gab es einen sehr direkten Austausch, den ich am Ende des Abends mit Prinz Gothryd hatte.
+
+Es war das Ende des Banketts, und die Leute verabschiedeten sich. Da ich niemand besonderen hatte, von dem ich mich verabschieden wollte, trat ich auf einen Balkon hinaus, um den Ausblick von dem Palast zu genießen, den ich besitzen wollte. Ich war erst einen Moment dort, bewunderte die Architektur meines zukünftigen Heims, als ich jemanden hinter mir räuspern hörte. Es war Gothryd.
+
+„Wie hat Ihnen Ihr erster Auftritt am Hofe gefallen, mein Herr?“ grinste der Prinz.
+
+„Nicht besonders, danke, Eure Hoheit,“ entgegnete ich mit einem ebenso aufgesetzten Lächeln. „Ich war überrascht, Euch zu sehen. Ich hätte nicht gedacht, dass Dolchsturz jemanden schicken würde, um die Investitur seines Rivalen Wegesruh anzuerkennen, geschweige denn den zukünftigen König. War es, um mich zu sehen?“
+
+„Seid nicht albern,“ murrte Gothryd. „Und versucht nicht, charmant zu sein. Es steht Euch nicht. Wenn Ihr für Ratschläge offen seid.“
+
+„Immer,“ entgegnete ich, während ich wieder den Blick auf die Aussicht richtete. „Noch mehr kostenlose Ratschläge?“
+
+„Ja,“ sagte er. „Ihr braucht dem Gesinde nicht zu danken, aber Ihr müsst Euren sozialen Vorgesetzten danken, wenn sie sich herablassen, Euch zu helfen. Ich half Euch, Euren Bruder zu töten, und das war ein gewaltiger Gefallen, sonst wärt Ihr jetzt nicht hier.“
+
+Ich bin bis heute froh, dass ich ihm nicht gegenüberstand, denn ich bin sicher, dass mein Gesicht mich verraten hätte. In diesem Augenblick dachte ich, er rede von meinem mittleren Bruder Goriph, den ich tatsächlich getötet hatte. Woher konnte er das wissen? Er konnte es nicht. Er musste von Rothdam sprechen.
+
+„Ich bitte um Verzeihung, Eure Hoheit,“ sagte ich, drehte mich um, mein Gesicht ausdruckslos. „Ihr müsst mich mit einem dieser Waldelfen verwechseln, die Torval stürmten und alle abschlachteten, einschließlich Rothdam. Ich versichere Euch, in dem Moment, als meinem Bruder im südlichen Elsweyr vierzig Mal in Brust, Kopf und Steiß gestochen wurde, lag ich hier in Hochfels mit einem Nordmädchen im Bett, das früher Gefallen an ihm gefunden hatte, aber es aufgegeben hatte, weil er Knaben mochte.“
+
+Wie ich bereits sagte, ich bin ein Lügner, aber das war wortwörtlich wahr.
+
+Gothryd jedoch war von meiner Verteidigung nicht beeindruckt. Er machte einen Schritt vorwärts, sodass wir praktisch Nase an Nase standen. Es lag ein gefährliches Glitzern in seinen Augen.
+
+„Glaubt Ihr, dies sei ein Gericht?“ fragte er wütend. „Wenn ich zum Frühstück Schinken verlange, töte ich das Schwein. Vielleicht schwinge ich die Axt nicht selbst, aber ich weiß, dass ich dafür verantwortlich bin. Steht zu dem Mord, den Ihr in Eurem Auftrag habt ausführen lassen, Junge.“
+
+Ich erinnere mich, dass ich nur darüber verärgert war, dass er mich „Junge“ nannte, da wir beide 14 Jahre alt waren.
+
+„Sehr wohl,“ entgegnete ich kühl. „Danke, dass Ihr mir geholfen habt, meinen Bruder zu töten, damit ich alles erben konnte.“
+
+Gothryd entspannte sich sofort, und wir verbrachten mehrere Minuten als alte Kumpel, tauschten Witze aus, die meisten davon ziemlich unanständig. Wir hatten etwas etabliert, eine Art Einverständnis.
+
+Mit diesem Gedanken im Hinterkopf kann ich also sagen, dass ich seinen Vater, König Lysandus, getötet habe. Aber mehr dazu im nächsten Kapitel.
+

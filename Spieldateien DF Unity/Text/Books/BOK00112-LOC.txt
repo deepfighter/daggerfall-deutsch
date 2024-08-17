@@ -1,0 +1,43 @@
+Title: Fürst Wiedborns Memoir, Teil I
+Author: Fürst Wiedborn
+IsNaughty: False
+Price: 300
+IsUnique: False
+WhenVarSet: LiftedCurse
+Content:
+
+
+[/font=2]
+
+[/center]Fürst Wiedborns Memoir, Teil I
+
+
+[/center]
+[/font=4]von Fürst Wiedborn
+
+[/center]
+
+[/center]
+
+Wenn Ihr diese Zeilen lest, so bin ich wohl bereits dahingeschieden. Das Konzept der Sterblichkeit erfasste mich in jungen Jahren. Es fasziniert mich, dass wir alle einst zu Staub werden. Einige meiner gelehrten Gefährten fanden diese Vorstellung abscheulich und strebten nach dem ewigen Leben, doch aus meinen späteren Unterredungen mit ihnen, als sie zu Vampiren oder Lichs geworden waren, erkannte ich, dass es Dinge gibt, die schlimmer sind als der Tod. Ihr versteht, wovon ich spreche, wenn Ihr je einen Abend damit verbracht habt, die "Kurze Geschichte des Kaiserreichs" oder die "36 Lehren des Vivec" zu lesen.
+
+So hegte ich niemals eine besondere Furcht vor dem Tod. Für mich ist es das, was - hoffentlich nach zwölf ausgedehnten Gängen mit Unmengen exotischer Köstlichkeiten - am Ende eines Festmahls kommt, oder vielleicht auch plötzlich, ganz unerwartet, mitten im zweiten Käsegang. Ich bin tot, und Ihr habt wahrscheinlich Ungeheuerliches über mich gehört. Um es gleich klarzustellen: vermutlich ist alles davon wahr.
+
+Der Tod, wie ich bereits erwähnte, wurde mir in unglücklicher Weise schon früh bewusst, als ich nämlich den Tod meines älteren Bruders herbeiführte und dabei zusah. Tatsächlich trage ich auch die Schuld am Ableben meines ältesten Bruders, doch dies geschah viele Jahre später und berührte mich kaum noch. Ich war zehn Jahre alt, und mein Bruder – mein erstes Opfer, nicht mein zweites – zählte sechzehn Lenze. Eines Abends saßen wir in der Bibliothek von Wiedbornhall, und besprachen gerade unsere Familiendynastie – doch dazu später mehr – als das Thema der Primogenitur zur Sprache kam. Falls Ihr ein Bauer seid und mit diesem Begriff nichts anzufangen wisst: Es bedeutet, dass der gesamte Besitz des Landadels an den Erstgeborenen übergeht.
+
+“Der Drittgeborene erhält also nichts?” fragte ich, der Drittgeborene.
+
+“Nur, wenn der Älteste einem kleinen Erbanteil zustimmt”, antwortete mein Bruder, Goriph mit Namen, gleichmütig. “Daher ist es ratsam, mit seinen Brüdern gut auszukommen.”
+
+Das ist natürlich der Gedanke dahinter – doch auch der Ausweg. Wenn man keine älteren Brüder mehr hat, ist man der Älteste. Ehrlich, ich weiß, dass es schändlich ist, aber welcher Drittgeborene hat diesen Gedanken nicht schon einmal gehegt? Daran dachte ich jedenfalls, als ich Goriph bat, ein weiteres Buch aus dem zwanzigsten Regal der Bibliothek zu holen, und die Leiter unter ihm wegzog, als er danach griff. Er stürzte und brach sich das Rückgrat, doch er starb nicht sofort. In den folgenden sechs Stunden besuchte ich ihn mehrmals, während er dort gelähmt und blutend lag, sein Antlitz immer bleicher wurde und das Blut auf seinen Lippen von Scharlachrot zu Schwarz gerann. Bis er erkalte. Dann rief ich unsere Ritter herbei und tat so, als hätte ich ihn gerade erst gefunden.
+
+Was ich dabei entdeckte, war, dass mir der Mord an jemanden, der mir lieb war – und Goriph war mir so lieb, wie er jemandem wie mir nur sein kann – nichts ausmachte. Ich bin ein geborener Lügner, doch darüber lüge ich nicht. Es beunruhigt mich ein wenig, dass ich keine Reue verspüre. Vielmehr fühle ich mich durch das Fehlen von Schuldgefühlen schuldiger, als durch meine eigentliche Schuld. Sei's drum.
+
+Ah, ich erwähnte Wiedbornhall! Ja, ich bin Fürst Wiedborn. Der hoffentlich berüchtigte Fürst Wiedborn, der Schlüssel zur Dolchsturzverschwörung.
+
+Wie gesagt, ich bin ein Lügner, doch falls ich wirklich tot bin, während Ihr dies lest, so sei Euch versichert, dass hier nichts als die Wahrheit geschrieben steht. Ich komme in dieser Erzählung nicht besonders gut weg, doch jene, die zweifellos noch leben und so tun werden, als hätten sie mich nie gekannt, während sie die Iliac-Bucht beherrschen, kommen auch nicht besser weg. Natürlich begegnete ich im Laufe meines Lebens auch einigen aufrichtigen Menschen und versuchte stets, meinen Vorteil aus Ihnen zu ziehen. Das waren entweder die Allerärmsten, die nichts hatten und nichts geben konnten, oder die Allerhöchsten, die fast alles hatten und fast nichts verlieren konnten. Was die anderen betrifft... nun, ich komme gleich zu den Einzelheiten.
+ 
+Ihr fragt Euch vermutlich, wie ich meinen ältesten Bruder getötet, den Titel und Reichtum geerbt habe, wie ich den Tod von König Lysandus von Dolchsturz zugunsten seines Sohnes Gothryd inszenierte und mehr über meinen Komplott, Prinzessin Elysana von Wegesruh zu heiraten und König zu werden.
+
+So kommt herbei, liebe Kinder, und lauscht meiner Geschichte.
+
