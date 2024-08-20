@@ -1,0 +1,184 @@
+Quest: A0C00Y11
+DisplayName: Die Heilung
+QRC:
+
+QuestorOffer:  [1000]
+Verzeihet, seid Ihr ein Medicus oder
+verfügt Ihr über heilende Fähigkeiten?
+Ich bedarf dringend der Hilfe eines
+kundigen Heilers, um meinen Vetter zu
+retten.
+<--->
+Mein Vetter schwebt in höchster
+Lebensgefahr! Könnt Ihr mir beistehen?
+
+RefuseQuest:  [1001]
+Ach, wie bedauerlich. Ich hätte Eure
+Hilfe gut gebrauchen können.
+<--->
+Mein gewohntes Pech, so scheint es.
+Doch dennoch, habt Dank für Eure Zeit.
+<--->
+Verzeiht, dass ich Euch bemüht habe.
+
+AcceptQuest:  [1002]
+Mein tiefster Dank gebührt Euch!
+Mein Name ist _giver_.
+Soeben habe ich erfahren, dass mein
+Vetter, _cousin_, in ___cousin_
+schwerlich erkrankt ist und in den
+kommenden =questtime_ Tagen womöglich das
+Zeitliche segnen wird! Ich wäre Euch
+überaus dankbar für jede Hilfe, die
+Ihr ihm zukommen lassen könnt. Hier
+sind _gold1_ Goldstücke. Ich werde Euch
+weitere _gold2_ Goldstücke überreichen,
+solltet Ihr %g2 von seiner Krankheit
+befreien können.
+
+QuestComplete:  [1004]
+Habt Dank, dass Ihr mir den heilenden
+Talisman gebracht habt, %pcn.
+Hier ist das restliche Gold, das mein
+Vetter Euch versprochen hat. Ich kann
+Euch wahrlich nicht genug danken. Möge
+Euch auf all Euren zukünftigen Reisen
+stets Glück und Sicherheit begleiten.
+
+RumorsDuringQuest:  [1005]
+Es ist wahrlich bedauerlich um
+_giver_s Vetter. Man sagt,
+es war eine tödliche Krankheit.
+
+RumorsPostfailure:  [1006]
+_cousin_ aus ___cousin_
+ist dem Zaubererfluch erlegen. Es heißt,
+die Seuche könnte nun auch hier um sich
+greifen.
+<--->
+_giver_ ist völlig erschöpft
+vor Trauer. %g3 Vetter in ___cousin_
+hat vor Kurzem das Zeitliche gesegnet.
+
+RumorsPostsuccess:  [1007]
+Habt Ihr gehört? Es geschah ein wahres
+Wunder in ___cousin_!
+<--->
+_giver_ hat dem Tempel eine
+großzügige Summe Gold gespendet. Man
+munkelt, %g3 Vetter sei auf wundersame
+Weise genesen.
+<--->
+Seid Ihr nicht der edle %ra, der
+diese arme Seele in ___cousin_
+geheilt hat?
+
+QuestorPostsuccess:  [1008]
+Gesegnet seiet Ihr, %pcf.
+Ich werde niemals vergessen, was
+Ihr für _cousin_ und mich
+getan habt. %g hat sich endlich
+vom Zaubererfluch erholt.
+
+QuestorPostfailure:  [1009]
+%pcn! Ihr befleckt mit Eurem
+Atem unsere Luft. Meinetwegen ist
+mein Vetter gestorben. Verschwindet!
+Hinaus mit Euch!
+
+QuestLogEntry:  [1010]
+%qdt:
+ _giver_ aus ___giver_
+ hat mich beauftragt, seinen Vetter
+ _cousin_ aus ___cousin_
+ zu heilen. %g wird die nächsten =questtime Tage
+ wohl nicht überleben. Ich erhalte weitere
+ _gold2_ Goldstücke, sobald ich %g2 gerettet habe.
+
+Message:  1011
+%qdt:
+ Ich habe _cousin_ getroffen.
+ %g ist in einem noch schlechteren Zustand,
+ als _giver_ beschrieben hat.
+ _cousin_ spricht von einem Heiler
+ namens _healer_ in
+ ___healer_, der womöglich ein
+ Heilmittel besitzt.
+
+Message:  1012
+Ich habe von %g3 Übel vernommen. Bislang
+hat keiner der hiesigen Balsamierer ein
+Heilmittel ersinnen können.
+<--->
+Ich vernahm wohl etwas über %g2 und die
+unheimliche, tödliche Krankheit, die %g3
+befallen hat. Ein trauriges Los, wahrlich.
+<--->
+Ja, die Kunde ist mir zu Ohren gekommen.
+Es dünkt mir, als handele es sich um einen
+Zaubererfluch.
+<--->
+Niemand weiß, was %g2 fehlt, doch es wird
+gemunkelt, dass %g nur noch wenige Tage zu
+leben habe.
+<--->
+Ein höchst unglückseliger Fall. Niemand
+vermag zu sagen, was %g2 fehlt. Vielleicht
+solltet Ihr einen Heiler namens _healer_
+aufsuchen. Es heißt, %g habe ein enzyklopädisches
+Wissen um seltene Krankheiten.
+<--->
+Oh ja, derjenige mit dem zehrenden Fieber.
+
+Message:  1013
+Seid gegrüßt. Ja, ich habe von _cousin_
+in ___cousin_ und %g3 Leiden gehört. Es
+ist ein Zaubererfluch, dies weiß ich wohl.
+Wie dem auch sei, ich besitze einen besonderen
+Talisman, der jene Krankheit zu heilen vermag.
+Doch kann er nur einmalig genutzt werden.
+Ich biete ihn Euch für 20 Goldstücke an.
+Bitte sehr. Ich danke Euch von Herzen.
+
+Message:  1015
+Seid gegrüßt. Ja, ich habe von _cousin_
+in ___cousin_ und %g3 Übel gehört. Es
+ist ein Zaubererfluch, dies weiß ich wohl.
+Doch seht, ich habe einen Talisman, der die Krankheit
+heilen könnte. Allein, Ihr besitzt nicht genügend
+Gold, um diesen zu erwerben.
+
+Message:  1017
+%qdt:
+ Ich habe einen Talisman von _healer_
+ aus ___healer_ erworben, der den
+ Zaubererfluch heilt, an dem _cousin_
+ leidet.
+
+Message:  1019
+Ihr nutzt den Talisman, und er verschwindet auf magische Weise.
+
+Message:  1030
+Ich fühle mich so schwach. Ich weiß nicht, was
+mich plagt. Mein Vetter, _giver_,
+hat Euch gesandt, um mir zu helfen? Oh, danke,
+danke! Ich habe erst jüngst von einem Heiler
+namens _healer_ in ___healer_
+gehört, der mir möglicherweise Heilung bringen
+kann. Bitte, eilet zu %g2 und bringt mir das
+Heilmittel, ehe es zu spät ist!
+
+Message:  1040
+Es heißt, _healer_ sei in den
+obskursten Künsten der Heilkunde bewandert.
+<--->
+_healer_? Lebt in ___healer_, soviel ich weiß.
+
+Message:  1041
+_healer_ ist weithin als der beste Medicus bekannt,
+so sagt man. Ihr findet %g2 in ___healer_.
+<--->
+Ich habe von _healer_ in ___healer_ gehört.
+%g hat sich einen Namen gemacht, indem  %g selbst
+die schwersten Fälle heilte.
+

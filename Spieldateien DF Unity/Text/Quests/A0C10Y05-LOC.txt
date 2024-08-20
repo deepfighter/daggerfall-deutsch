@@ -1,0 +1,131 @@
+Quest: A0C10Y05
+DisplayName: Der Kuppler
+QRC:
+
+QuestorOffer:  [1000]
+Ich bin verlobt mit _betrothed_.
+Zu meinem großen Unheil hat _ruler_
+andere Pläne für _betrothed_.
+Meine einzige Hoffnung ist es, %g2 zum
+Tempel zu geleiten und die Heiratszeremonie
+zu vollenden, ehe _ruler_ uns
+aufspürt. Werdet Ihr uns auf dem Weg zum
+Tempel beschirmen? Ich vermag Euch
+_gold_ Goldstücke anzubieten.
+<--->
+In __betrothedhome_ harrt mein
+geliebter _betrothed_, geplagt
+von der Tyrannei des grausamen _ruler_.
+Schlaf finde ich keinen, solange
+_betrothed_ eingekerkert ist, doch
+fürchte ich die Schergen von _ruler_.
+Ihr Auftrag ist es, uns auseinanderzureißen.
+Würdet Ihr mit mir gen __betrothedhome_
+ziehen und mich dabei beschützen?
+
+RefuseQuest:  [1001]
+%god sei's geklagt. Ich werde
+einen anderen Wächter finden müssen,
+um meinen Schatz _betrothed_
+vor _ruler_ zu schützen.
+
+AcceptQuest:  [1002]
+Meine Dankbarkeit wird endlos sein, %pcn.
+Eilet nun, lasst uns zu _betrothed_
+streben. Wir werden %g2 in _betrothedhome_
+in __betrothedhome_ finden.
+
+QuestComplete:  [1004]
+%pcf, wir stehen in Eurer Schuld.
+Jetzt, da die Zeremonie begonnen hat,
+vermag selbst _ruler_ uns
+nicht mehr aufzuhalten. Hier sind
+die _gold_ Goldstücke, die ich versprach.
+
+RumorsDuringQuest:  [1005]
+_ruler_ trachtet danach,
+eine Kemenate aufzurichten. Es ist
+mir zu Ohren gekommen, dass %g Wachen
+entsandte, um _betrothed_
+zu verschleppen.
+
+RumorsPostfailure:  [1006]
+Man munkelt, dass _betrothed_
+nun in der Kemenate von _ruler_
+gefangen sei. Nichts anderes als
+eine Entführung, wenn Ihr mich fragt.
+
+RumorsPostsuccess:  [1007]
+_qgiver_ und _betrothed_
+sind frisch vermählt. Ist das nicht
+gar wundervolle Kunde?
+
+QuestorPostsuccess:  [1008]
+_betrothed_ und ich danken Euch.
+Ohne Eure Hilfe wäre %g gezwungen gewesen,
+_ruler_ zu ehelichen.
+
+QuestorPostfailure:  [1009]
+Ich habe _betrothed_ für immer verloren!
+%g wurde gezwungen, _ruler_ zu heiraten.
+Und Ihr begehrt Hilfe von mir? Schert Euch fort!
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von ___qgiver_
+ hat mich gebeten, %g2 nach __betrothedhome_
+ zu geleiten, um _betrothed_ zu holen.
+ _qgiver_ ist verlobt mit _betrothed_,
+ doch _ruler_ will _qgiver_ beseitigen,
+ um die Hochzeit zu verhindern. Sie planen,
+ im _temple_ in __temple_ zu heiraten.
+
+Message:  1011
+Ah, meine geliebte _betrothed_!
+%pcn hat sich bereit erklärt, uns
+vor _ruler_ zu beschützen. Eilet,
+%pcn, bringt uns zum _temple_
+in __temple_.
+
+Message:  1012
+Wir haben den Befehl von _ruler_,
+diese Hochzeit zu verhindern. Wenn
+_betrothed_ jetzt mit uns kommt,
+wird niemand zu Schaden kommen.
+
+Message:  1013
+Also, _qgiver_, habt Ihr etwa
+einen schwächlichen Kümmerer angeheuert,
+um Euch zu schützen? _ruler_
+wird es gar nicht gefallen, dass Ihr Euch
+ihm widersetzt. Tretet beiseite und übergebt
+uns _betrothed_. Es kann nur
+schlimmer für Euch werden.
+
+Message:  1014
+_qgiver_ flüstert aufgeregt:
+
+ "Ja! Dies ist der Ort, an dem
+ die Schergen von _ruler_
+ meine Geliebte festhalten.
+ Wir müssen uns sputen!"
+
+Message:  1015
+"%oth," schreit
+ _qgiver_, "hier ist
+ _temple_!  Nun muss
+ uns _priest_ nur noch
+ trauen, und _betrothed_
+ wird endlich außer der Macht
+ von _ruler_ sein!"
+
+Message:  1020
+_qgiver_ schüttelt %g2 Kopf
+voller Entrüstung:
+
+ "Ich werde wohl versuchen
+ müssen, _betrothed_
+ selbst zu befreien, schätze
+ ich. Ihr habt mich enttäuscht,
+ %pcf."
+

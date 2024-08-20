@@ -1,142 +1,138 @@
 Quest: A0C0XY04
-DisplayName: 
+DisplayName: Der Betrüger
 QRC:
 
 QuestorOffer:  [1000]
-My name is _agent_. I
- represent a someone that needs
- to ... acquire something. Whoever
- delivers it will be rewarded
- with _artifact_. I
- don't know what that is, but I
- am told it is an item of power.
- Are you willing?
+Mein Name ist _agent_.
+Ich vertrete jemanden, der sich gerne
+ein bestimmtes Etwas aneignen möchte.
+Wer auch immer es beschafft, wird mit
+_artifact_ belohnt werden.
+Ich weiß nicht, was das ist, doch mir
+wurde versichert, es sei ein Artefakt
+von großer Macht. Schlagt Ihr ein?
 
 RefuseQuest:  [1001]
-Forget you ever saw me. I have
- powerful friends. If you cause
- me any trouble, they will hunt
- you down like a rogue thief.
+Vergesst, dass Ihr mich jemals getroffen
+habt. Ich habe mächtige Freunde. Wenn Ihr
+mir auf irgendeine Weise Ärger bereitet,
+werden sie Euch zur Strecke bringen wie
+einen räudigen Dieb.
 
 AcceptQuest:  [1002]
-You must get the daedric
- _ingredient_ from ___dungeon_.
- I don't know where that is, but
- I'm sure you can find it.
- When you have the daedric
- _ingredient_ bring it to
- _meetingplace_ here in town.
- There you will meet _qgiver_,
- and %g will give you the _artifact_.
+Ihr müsst den daedrischen _ingredient_
+aus ___dungeon_ bergen. Ich weiß nicht,
+wo sich dieser Ort befindet, aber ich
+bin sicher, Ihr könnt ihn finden. Sobald
+Ihr den daedrischen _ingredient_ gefunden
+habt, bringt ihn zu _meetingplace_, hier
+in der Stadt. Dort werdet Ihr _qgiver_
+treffen und %g wird Euch _artifact_
+aushändigen.
 
 RumorsDuringQuest:  [1005]
-I hear the king is making an
- important announcement next week.
+Man hört, der König wird nächste Woche
+eine wichtige Verlautbarung verlesen.
 
 RumorsPostfailure:  [1006]
-Some poor fool went into ___dungeon_.
- I hear the place is full of demons.
+Irgendein armer Dummkopf hat sich in
+___dungeon_ gewagt. Ich habe
+gehört, der Ort sei voll von Dämonen.
 
 RumorsPostsuccess:  [1007]
-Stay away from _qgiver_. I
- hear %g is a liar and a cheat.
+Haltet Euch von _qgiver_ fern.
+Man hört, %g sei ein Lügner und Betrüger.
 
 QuestorPostsuccess:  [1008]
-Sorry about the incident with _qgiver_.
- I suppose I ought to help you just to
- make up for it.
+Dieser Vorfall mit _qgiver_ tut
+mir furchtbar leid. Ich sollte Euch wohl
+behilflich sein, um es wiedergutzumachen.
 
 QuestorPostfailure:  [1009]
-That business with _qgiver_ wasn't
- my fault. I'm not about to get mixed
- up with you now, so just leave me alone.
+Euer Ärger mit _qgiver_ war nicht meine
+Schuld. Ich habe nicht vor, mich jetzt mit Euch
+einzulassen, also lasst mich einfach alleine.
 
 QuestLogEntry:  [1010]
-On %qdt,
- I met with _agent_ of ___agent_.
- %g told me that a mysterious client of
- %g3 was looking for daedric _ingredient_.
- If I can find it, I will get the _artifact_.
- The daedric _ingredient_ is somewhere
- in ___dungeon_.  When I find it, I am
- to meet a _qgiver_ at
- _meetingplace_ here in __meetingplace_.
+%qdt:
+Ich begegnete _agent_ von ___agent_.
+%g erzählte mir, dass ein geheimnisvoller Kunde
+nach einem daedrischen _ingredient_ sucht.
+Falls ich ihn finden kann, wird mich _artifact_
+als Belohnung erwarten. Der daedrische _ingredient_
+befindet sich irgendwo in ___dungeon_.
+Wenn ich ihn finde, soll ich _qgiver_
+im _meetingplace_ hier in __meetingplace_
+treffen.
 
 Message:  1011
-On %qdt,
- the guardian of the daedric _ingredient_
- told me that _agent_'s mysterious
- client doesn't even have the _artifact_.
- If I hand over the daedric _ingredient_,
- death will be my only reward. The guardian
- gave me a magical token that will render
- _qgiver_ helpless.
+%qdt:
+Der Wächter des daedrischen _ingredient_
+offenbarte mir, dass _agent_s geheimnisvoller
+Kunde _artifact_ gar nicht besitzt.
+Sollte ich den daedrischen _ingredient_
+übergeben, wird meine einzige Belohnung
+der Tod sein. Der Wächter gab mir ein
+magisches Juwel, das _qgiver_s
+Kräfte blockieren wird.
 
 Message:  1012
-I will fight you to the death to protect
- the daedric _ingredient_. You should
- know that _qgiver_ is not what %g
- seems. The _artifact_ is a long lost
- item of great power that %g has never
- owned. %g means to kill you once %g
- has possession of the daedric
- _ingredient_. Cease this futile
- attack and I will give you a magical
- token that can render _qgiver_
- helpless. If you kill %g2, I can see
- to it that the Mages Guild looks
- favorably upon you for quite some
- time. Do you accept my offer?
+Ich werde Euch bis zum Tod bekämpfen,
+um den daedrischen _ingredient_
+zu schützen. Ihr solltet wissen, dass
+_qgiver_ nicht ist, wer %g zu
+sein scheint. _artifact_ ist ein
+seit langem verschollenes Artefakt, welches
+%g nie besessen hat. %g beabsichtigt, Euch
+zu töten, sobald %g in Besitz des daedrischen
+_ingredient_ gelangt. Lasst von Eurem
+sinnlosen Angriff ab und ich werde Euch einen
+magischen Edelstein geben, der _qgiver_
+Kräfte blockieren kann. Wenn Ihr %g2 tötet,
+kann ich dafür sorgen, dass die Magiergilde
+Euch für einige Zeit wohlgesinnt sein wird.
+Akzeptiert Ihr mein Angebot?
 
 Message:  1013
-Fool! Did you really think
- that I would give you the
- _artifact_ for this
- daedric _ingredient_? The only
- reward I have for you is
- death! See me as I really
- am and tremble in fear. I
- am =orc_. Kill him!
+Narr! Dachtet Ihr wirklich, ich würde Euch
+für diesen _ingredient_ mit _artifact_
+belohnen? Den einzigen Lohn, den ich für Euch
+habe, ist der Tod! Erkennt, wer ich wirklich
+bin und erzittert vor Angst. Ich bin =orc_.
+Tötet ihn!
 
 Message:  1014
-Wha ... I have been betrayed!
- You have broken the illusion
- and cast a spell of silence
- on me. That cursed _guardian_
- =guardian_ put you up to this,
- didn't %g? To arms!  Help me!
- To arms!
+Wa... ich wurde betrogen! Ihr habt meine
+Illusion gebrochen und einen Zauber der
+Stille auf mich gelegt. Diese verfluchte
+_guardian_ =guardian_ hat
+Euch hierzu verleitet, ist es nicht so?
+Zu den Waffen! Helft mir! Zu den Waffen!
 
 Message:  1015
-In your mind, you hear the
- soft whisper of an alien
- voice, "Well done,
- %pcn. Slaying
- _qgiver_, or =monster_
- as %g is known to %g3 own
- people, has earned you a
- reward. Members of the
- Mage's Guild now trust you
- far more than before."
+In Euren Gedanken hört Ihr das sanfte Wispern
+einer fremden Stimme: „Gut gemacht, %pcn.
+Mit dem Tod von _qgiver_, oder =monster_,
+wie %g dem Volk der Orks bekannt ist, habt Ihr
+Euch eine Belohnung verdient. Mitglieder der
+Magiergilde vertrauen Euch nun weitaus mehr
+als zuvor.“
 
 Message:  1020
-You have a truly devious
- mind. I admire that. But
- you should know that I am
- not to be trifled with.
- I take back my token and
- curse you to be mistrusted
- by my closest allies.
+Ihr seid wahrlich ein hinterhältiges Exemplar.
+Ich bewundere das. Doch Ihr solltet besser wissen,
+dass Ihr nicht leichtfertig mit mir umgehen solltet.
+Ich nehme mein Juwel zurück und verfluche Euch mit
+dem Argwohn meiner engsten Verbündeten.
 
 Message:  1025
-The Chrysamere is an ancient artifact of great power.
+Chrysamere ist ein uraltes Artefakt von großer Macht.
 <--->
-It is a legendary magical artifact.
+Es ist ein legendäres, magisches Artefakt.
 
 Message:  1030
-Take this token then.
+Dann nehmt dieses Juwel.
 
 Message:  1035
-Prepare to die!
-<--->
+Bereitet Euch darauf vor zu sterben!
 

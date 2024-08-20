@@ -1,0 +1,149 @@
+Quest: A0C00Y15
+DisplayName: Der Kurier
+QRC:
+
+QuestorOffer:  [1000]
+Ich habe von Euch vernommen, %pcn.
+Ich bin _questgiver_. Darf
+ich Euch um eine Gunst ersuchen?
+Führt Euch Eure Reise in absehbarer
+Zeit zufällig nach ___pickupregion_?
+Falls ja, so habe ich hier ein Paket
+und bedarf jemanden, der es dorthin
+trägt. Ich würde Euch mit Freuden
+_gold_ Goldstücke dafür entlohnen.
+<--->
+Euer Ruf eilt Euch voraus, %pcn.
+Ich benötige einen Kurier. Seid Ihr
+zufällig in absehbarer Zeit gen
+___pickupregion_ unterwegs?
+Möchtet Ihr die Aufgabe übernehmen,
+dort für mich ein Paket zu überbringen?
+Ich würde Euch für Eure Mühen
+_gold_ Goldstücke entrichten.
+
+RefuseQuest:  [1001]
+Wie schade.
+<--->
+Ich werde wohl einen anderen suchen
+müssen, der bereit ist, für seinen
+Unterhalt zu arbeiten.
+<--->
+Ihr müsst ein anderer %pcn
+sein, als jener, von dem ich so
+viel vernommen habe.
+
+AcceptQuest:  [1002]
+Wunderbar! Bringt dieses Paket
+nach ___pickupregion_ und
+sucht nach _pickupregion_.
+%g wird Euch bezahlen. Es muss
+binnen =traveltime_ Tagen dort sein.
+Hier ist das Paket.
+<--->
+Was für ein Glück! Mein Freund
+ist _pickupregion_ in
+in ___pickupregion_.
+Fragt einfach umher, jedermann
+kennt %g3. %g wird Euch sogleich
+entlohnen. Doch wenn Ihr länger
+als =traveltime_ Tage braucht, könnt
+Ihr das Paket gleich entsorgen.
+Hier ist es.
+
+QuestComplete:  [1004]
+Ich hatte gehofft, dass _questgiver_
+es schaffen würde, dieses Paket rechtzeitig
+zu mir zu bringen. %g war in letzter Zeit so
+sehr beschäftigt. Hier sind die _gold_ Goldstücke,
+die Euch zugesagt wurden.
+
+RumorsDuringQuest:  [1005]
+Die Orks stiften wieder Unruhe.
+
+RumorsPostfailure:  [1006]
+Man erzählt sich, der Geist des toten
+Königs Lysandus sei in Dolchsturz gesichtet worden.
+
+RumorsPostsuccess:  [1007]
+Ein Schiff wurde unweit der Küste von Dolchsturz
+in einem Seesturm versenkt. Ich habe gehört,
+einer der Passagiere war ein Gesandter des Kaisers.
+
+QuestorPostsuccess:  [1008]
+Meinen bescheidenen Dank dafür, dass Ihr das
+Paket nach ___pickupregion_ gebracht habt.
+
+QuestorPostfailure:  [1009]
+Schurke! Was habt Ihr mit meinem Paket
+angestellt? Es verkauft? Es ist nie in
+___pickupregion_ angekommen.
+Verschwindet sofort.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _questgiver_ von
+ ___questgiver_ hat mich
+ beauftragt, ein Paket an
+ _pickupregion_ in
+ ___pickupregion_ zu
+ überbringen. Ich muss es
+ binnen =traveltime_ Tagen dort
+ abliefern.
+
+Message:  1011
+Dieses Buch hat sentimentalen Wert.
+_pickupregion_ hat seit
+Jahren kein Exemplar von
+_book_ erblickt.
+
+Message:  1012
+_pickupregion_ benötigt
+diese _ingredient_ für
+ein spezielles Gebräu,
+das %g bereitet.
+
+Message:  1013
+Dieses _jewelry_ ist ein Geschenk
+für _pickupregion_, das
+unsere beider Abmachung besiegeln wird.
+
+Message:  1014
+Dies ist ein besonderes _mensclothing_,
+das meine Mutter für _pickupregion_
+zur Feier gefertigt hat.
+
+Message:  1015
+_pickupregion_ hat dieses
+_painting_ in Auftrag gegeben.
+Es muss rechtzeitig zur Versammlung
+dort eintreffen, die %g veranstaltet.
+
+Message:  1016
+_pickupregion_ benötigt dieses
+_potion_ so bald wie möglich.
+
+Message:  1017
+_pickupregion_ ist
+bedroht worden. Diese
+_weapon_ sollte %g2
+beruhigen.
+
+Message:  1018
+Ich habe diese feine _womensclothing_
+für _pickupregion_s Hochzeit erworben.
+Es wäre überaus peinlich, wenn es
+nicht rechtzeitig dort ankommt.
+
+Message:  1019
+Was wollt Ihr? _questgiver_?
+Ja, %g hat zugesagt, mir ein
+Paket zukommen zu lassen. Wenn
+es nicht bald eintrifft, wird
+es zu spät sein.
+
+Message:  1020
+Ich weiß, Ihr habt ein Paket von
+_questgiver_. Übergebt es
+mir und niemand wird zu Schaden kommen.
+

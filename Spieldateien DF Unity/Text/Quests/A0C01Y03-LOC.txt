@@ -1,0 +1,153 @@
+Quest: A0C01Y03
+DisplayName: Das Rätsel
+QRC:
+
+QuestorOffer:  [1000]
+Ich bin _qgiver_ und bedarf dringend
+der Dienste eines erfahrenen Kopfgeldjägers.
+Mein Herz gehört _spouse_, doch
+bedauerlicherweise weigert sich %g,
+die Ehe mit mir einzugehen, solange
+ich mich nicht als würdig erweise,
+indem ich die Antwort auf ein Rätsel
+finde, das %g3 Mentor, _hermit_,
+hinterließ, bevor %g verschwand. Ich
+ersuche Euch, %g2 sowie die Lösung
+dieses Rätsels zu finden. Für Eure
+Mühen werde ich Euch mit _gold_ Goldstücken
+entlohnen, sofern Ihr erfolgreich seid.
+
+RefuseQuest:  [1001]
+Ich werde weiterhin nach einem Abenteurer
+Ausschau halten, der bereit ist, meinen
+Auftrag anzunehmen. Solltet Ihr jemanden
+treffen, der sich für solche Arbeit interessiert,
+so leitet ihn bitte an _qgiver_ weiter.
+
+AcceptQuest:  [1002]
+Die einzige Person, die Euch bei der Suche
+nach _hermit_ behilflich sein könnte,
+ist _spouse_. %g weilt in ___spouse_.
+Hier, nehmt diesen Strauß Blumen – es sind
+%g2 Lieblingsblumen. Vielleicht gewinnt Ihr
+dadurch %g2 Gunst. Beigefügt ist ein Brief,
+in dem ich das Rätsel von _hermit_
+niedergeschrieben habe. Solltet Ihr nicht
+binnen drei Monaten zurückkehren, werde ich
+annehmen, dass Ihr gescheitert seid.
+
+QuestComplete:  [1004]
+_qgiver_ reißt den Brief von
+_hermit_ auf. "Güte!
+Natürlich. Jetzt verstehe ich, warum
+_spouse_ mich auf diese Suche
+geschickt hat. Es reicht nicht, %g2
+bloß zu lieben – ich muss %g2 auch
+Gnade erweisen. Ihr habt mir ungemein
+geholfen, %pcf. Hier ist das Gold,
+das ich Euch versprochen habe."
+
+RumorsDuringQuest:  [1005]
+_qgiver_  ist der Liebe völlig
+verfallen. %g bemüht sich schon seit
+Ewigkeiten, _spouse_ zur Heirat
+zu bewegen.
+
+RumorsPostfailure:  [1006]
+Ich hörte, dass _spouse_
+drüben in ___spouse_
+geheiratet hat. _qgiver_
+wird todunglücklich sein, wenn
+%g das erfährt.
+
+RumorsPostsuccess:  [1007]
+Gute Neuigkeiten!
+_spouse_ und _qgiver_
+haben kürzlich geheiratet.
+
+QuestorPostsuccess:  [1008]
+Alles für den %ra, der
+die Antwort auf mein Rätsel
+gefunden hat. _spouse_
+und ich sind bekanntlich nun
+vermählt.
+
+QuestorPostfailure:  [1009]
+Ihr seid der %ra, der
+es nicht vermochte, die Antwort
+auf das Rätsel des Eremiten zu
+finden. Ich habe keinen Bedarf
+an gescheiterten Helden.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von ___qgiver_
+ hat mich beauftragt, _hermit_ zu
+ finden. Angeblich besitzt _hermit_
+ die Lösung eines Rätsels. Der einzige
+ Hinweis, den ich habe, ist, dass %g
+ einst mit _spouse_ in ___spouse_
+ zusammenarbeitete.
+
+Message:  1011
+Die _flowers_ waren wirklich
+nicht notwendig. _hermit_ ist
+fortgegangen, um unter einem berühmten
+Lehrmeister, _teacher_, in
+__school_ zu studieren. Gebt
+ihm dieses Buch, und vielleicht wird
+%g sich Euch gegenüber gnädig zeigen.
+
+Message:  1012
+_hermit_ bat mich, seinen
+Aufenthaltsort vor Fremden geheim zu
+halten. Doch da Ihr mir das Buch von
+_spouse_ überbracht habt,
+seid Ihr eindeutig kein Fremder.
+_hermit_ hat sich in ein
+altes Verlies zurückgezogen, um arkanes
+Wissen zu studieren. Ich habe seinen
+Standort auf Eurer Karte markiert.
+Viel Glück, %pcn.
+
+Message:  1013
+Ich verabscheue es, gestört zu werden!
+Wenn dies der einzige Weg ist, Euch zum
+Schweigen zu bringen, dann nehmt hier
+die Antwort auf dieses dumme Rätsel.
+Und nun verschwindet, bevor ich einen
+Flammenatronach beschwöre, der Euch den
+Weg weist.
+
+Message:  1014
+Sprecht nicht von Liebe oder Hass, doch
+gebt mir eine Antwort: Welches Geschenk
+könnt Ihr mir darbringen, das ich mit
+keinem Geld der Welt kaufen könnte?
+
+Message:  1015
+%qdt:
+ Ich sprach mit _spouse_.
+ %g teilte mir mit, dass _hermit_
+ die Stadt verlassen habe, um von
+ _teacher_ in __school_
+ zu lernen.
+
+Message:  1016
+%qdt:
+ Ich traf _hermit_s Lehrmeister,
+ _teacher_ von __school_.
+ %g verriet mir, dass _hermit_
+ sich in ___dungeon_
+ zurückgezogen habe.
+
+Message:  1017
+Sprecht nicht von Liebe oder Hass,
+doch gebt mir eine Antwort:
+
+Welches Geschenk könnt Ihr mir
+darbringen, das ich mit keinem
+Geld der Welt kaufen könnte?
+
+– Es ist GÜTE, Dummkopf!
+

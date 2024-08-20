@@ -1,0 +1,155 @@
+Quest: A0C41Y18
+DisplayName: Der Mumienfinger
+QRC:
+
+QuestorOffer:  [1000]
+Würdet Ihr für mich einen Botengang übernehmen?
+Ich biete Euch im Voraus _gold1_ Goldstücke und weitere
+_gold2_ Goldstücke nach Erledigung des Auftrags.
+Könnt Ihr mir helfen?
+
+RefuseQuest:  [1001]
+%oth, ich werde dieses Ding wohl nie los!
+Warum will mir niemand helfen?
+
+AcceptQuest:  [1002]
+%god sei dank! Ihr wisst nicht,
+wie viel mir das bedeutet. Hier ist
+Euer Gold. Nun bringt dies zu _dummy_
+in ___dummy_, %g wird Euch den Rest
+bezahlen. Ich muss jetzt wirklich gehen.
+Ich danke Euch von Herzen!
+
+RumorsDuringQuest:  [1005]
+Die Piraten waren dieses Jahr besonders aktiv.
+
+RumorsPostfailure:  [1006]
+Habt Ihr die Geschichte vom Fluch des
+Mumienfingers gehört? Oh, verzeiht,
+das wusste ich nicht...
+
+RumorsPostsuccess:  [1007]
+Ein treuherziger %ra ist nach
+___dungeon_ gegangen.
+Armer Narr.
+
+QuestorPostsuccess:  [1008]
+Die Tölpel werden dieses Jahr früh zurückkehren.
+
+QuestorPostfailure:  [1009]
+Haltet Ihr mich für beleibt?
+Jeder sagt das von mir, aber
+ich glaube es nicht.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich wurde beauftragt, eine Lieferung
+ zu _dummy_ in ___dummy_
+ zu bringen. Mein sonderbarer Auftraggeber
+ gab mir _gold1_ Goldstücke und versprach
+ weitere _gold2_, wenn ich den Auftrag erfülle.
+ Ein bestimmter Zeitrahmen wurde nicht festgelegt,
+ doch es schien ihm sehr daran gelegen zu sein,
+ dass ich mich auf den Weg mache.
+
+Message:  1011
+%qdt:
+ Ich wurde hintergangen! Die angebliche Lieferung
+ zu _dummy_ war in Wahrheit ein verfluchter
+ Mumienfinger!
+
+Message:  1012
+%qdt:
+ Ich habe herausgefunden, dass die Mumie, deren
+ Fluch auf mir lastet, in ___dungeon_
+ begraben liegt. Ich muss ihre wahre Form vernichten,
+ sonst wird ihr Geist mich für die nächsten 1001 Nächte heimsuchen.
+
+Message:  1015
+Ich weiß nichts darüber. Versucht es bei einem Tempel.
+<--->
+_sage_ weiß darüber Bescheid, geht und fragt %g2!
+<--->
+Habt Ihr schon in __sage_ in ___sage_ nachgeforscht?
+<--->
+Ich hörte, jemand in ___sage_ könnte etwas wissen.
+<--->
+Man sagt, _sage_ sei der größte Experte für solche Dinge.
+<--->
+Es könnte sein, dass der Weise in __sage_ etwas weiß.
+
+Message:  1016
+Der Dieb meines _finger_ muss sterben!
+<--->
+Ich komme wegen _finger_!
+<--->
+Akzeptiert Euer Schicksal!
+Legt die Waffe nieder!
+<--->
+Mein _finger_, mein _finger_!
+<--->
+Ihr habt mein _finger_.
+Ohne ihn kann ich nicht ruhen.
+<--->
+Ihr mögt mich heute Nacht vernichten,
+aber ich werde zurückkehren!
+<--->
+Ich werde erneut emporsteigen und
+meinen _finger_ holen!
+
+Message:  1020
+Alle Eindringlinge meines Grabs müssen sterben!
+
+Message:  1025
+Lasst mich den _finger_ sehen. Ah...
+Ja, er trägt den Fluch von =realmummy_.
+Für 1001 Nächte wird der Träger dieses
+_finger_ vom Geist von =realmummy_
+heimgesucht, sobald die Uhr Mitternacht
+schlägt. Der einzige Weg, den Fluch zu
+brechen, ist die wahre =realmummy_
+in ihrem Grab in ___dungeon_ zu vernichten.
+
+Message:  1026
+Was Ihr beschreibt, klingt nach einem
+klassischen Mumienfluch, aber ohne den
+_finger_ selbst kann ich Euch
+nicht mehr sagen. Bringt ihn mir, und
+ich kann vielleicht feststellen, woher
+er stammt.
+
+Message:  1030
+=realmummy_  ist tot, %g2 Fluch
+ist für immer von Euch genommen.
+
+Message:  1040
+Seid gegrüßt Fremder,
+ 
+ Ich hoffe, Ihr vergebt mir, was ich getan
+ habe, aber ich hatte keine andere Wahl.
+ Die Mumie hat mich jede Nacht heimgesucht,
+ seit ich diesen verfluchten Finger gefunden
+ habe. Ich habe versucht, ihn wegzuwerfen,
+ doch es hat nicht funktioniert. Ein weiser
+ Gelehrter erklärte mir, dass man den Fluch
+ nur loswerden kann, wenn man das Grab der
+ Mumie findet oder den Finger weitergibt.
+ Ich bin kein Krieger, und wer würde wissentlich
+ diese Bürde auf sich nehmen? Ihr saht tapfer
+ genug aus, um den Fluch zu ertragen und
+ vielleicht sogar zu lösen. Bitte versteht,
+ dass ich Euch nichts Böses wollte, aber ich
+ wäre sonst gestorben oder wahnsinnig geworden.
+
+Message:  1045
+_giver_ gibt Euch einen in ein
+kleines Objekt gewickelten Brief und
+sucht das Weite.
+
+Message:  1050
+_sage_ ist ein bekannter
+Gelehrter aus ___sage_.
+<--->
+Ihr findet _sage_ in
+__sage_ in ___sage_.
+

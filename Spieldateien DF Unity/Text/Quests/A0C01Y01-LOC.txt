@@ -9,7 +9,7 @@ drohen, mich heute Nacht zu töten, weil
 ich es abgelehnt habe, mein Land zu verkaufen.
 Ich kann Euch _gold_ Goldstücke zahlen.
 <--->
-Sie finden mich in großer Not, mein lieber<253>
+Sie finden mich in großer Not, mein lieber
 %ra. Ich habe von einigen Schlägern
 in %cn gehört, dass sie heute Nacht
 beabsichtigen, mein Haus zu plündern. Steht

@@ -1,0 +1,143 @@
+Quest: A0C00Y12
+DisplayName: Der Erstdruck
+QRC:
+
+QuestorOffer:  [1000]
+Verzeiht mir, habt Ihr je das Buch
+_book_ gelesen? Es ist gar vortrefflich,
+und ich besaß einen Erstdruck desselben.
+Oder sollt' ich wohl sagen, ich hatte
+einen Erstdruck. Es scheint, jemand hat
+es sich zu eigen gemacht. Ich würd' freudig
+_gold_ Goldstücke demjenigen überreichen,
+der es mir zurückbringt. Meint Ihr, Ihr
+könntet es finden?
+
+RefuseQuest:  [1001]
+Weh mir, ich muss dringend dieses Buch finden.
+
+AcceptQuest:  [1002]
+Wunderbar! Es ist mir von großer Bedeutung,
+da es eine Erstauflage ist und all das.
+Unglücklicherweise weiß ich nicht, wer es
+entwendet hat. Ihr könntet versuchen Euch
+in der Stadt umhören.
+
+QuestComplete:  [1004]
+Fantastisch! Mein Exemplar des Buches!
+Wohlgetan, %pcn. Hier sind
+die _gold_ Goldstücke, die ich Euch
+versprochen habe.
+
+RumorsDuringQuest:  [1005]
+_giver_ sucht verzweifelt
+nach seinem stinkenden alten Buch.
+Wer würde so etwas überhaupt stehlen wollen?
+
+RumorsPostfailure:  [1006]
+Ich habe gehört, dass _giver_
+endlich aufgegeben hat und
+sich ein anderes Exemplar
+seines kostbaren Buches gekauft
+hat. Wusstet Ihr, dass %g gar
+jemanden anheuerte, um es zu
+finden? Was für ein Narr!
+
+RumorsPostsuccess:  [1007]
+Ihr müsst der %ra
+sein, der das Buch für
+_giver_ gefunden hat.
+%g erzählt es jedem, der
+es hören will. Man könnte
+fast meinen, es wäre der
+König selbst gerettet worden.
+
+QuestorPostsuccess:  [1008]
+Alles für meinen Freund %pcf.
+Ihr habt mein kostbares Buch zurückgebracht,
+und dafür bin ich sehr dankbar.
+
+QuestorPostfailure:  [1009]
+Hmmph. Ich habe Euch beauftragt, mein
+Buch zu finden. Da Ihr gescheitert seid,
+musste ich mir ein anderes Exemplar kaufen.
+Ich habe nichts mehr mit Euch zu bereden.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _giver_ von ___giver_
+ hat mir _gold_ Goldstücke geboten,
+ um %g3 Buch, Buch, zu finden.
+
+Message:  1014
+Ihr solltet versuchen, _informant_
+aufzusuchen. %g scheint alles zu wissen,
+was in ___informant_ vor sich geht.
+<--->
+Ihr solltet in den hiesigen Gasthäusern nachfragen.
+Sie sind voller Klatsch und Tratsch.
+<--->
+Versucht es bei __informant_. Dort wird immer geredet.
+<--->
+Es wurde von _giver_ entwendet.
+<--->
+_giver_ hat bereits Nachforschungen angestellt.
+<--->
+Ich habe es sehr genossen, als ich es las.
+<--->
+Ihr solltet vielleicht eine Bibliothek aufsuchen.
+
+Message:  1015
+Das muss das Buch sein, das _giver_ gestohlen wurde.
+
+Message:  1025
+Gegrüßt seid Ihr, %pcn.
+Es heißt, dass Ihr nach mir gefragt
+habt. Ich sollte es wissen, alle
+Neuigkeiten von ___informant_
+kommen durch diese Ohren. Genug
+von mir. Ich habe von _giver_’s
+Unglück gehört. Wenn Ihr _thief_
+finden wollt, %g sucht schon seit
+einiger Zeit nach einer Erstausgabe
+von Buch. Und %g ist auch der Typ,
+der Dinge ohne zu fragen an sich nimmt,
+wenn Ihr versteht, was ich meine.
+
+Message:  1035
+%qdt:
+ _informant_ hat mir wertvolle
+ Informationen über das verschwundene
+ Buch gegeben. %g scheint zu glauben,
+ dass _thief_ darin verwickelt ist.
+ Nun, wenn ich %g2 nur finden könnte...
+
+Message:  1027
+_thief_ lebt in _house_ in __house_.
+<--->
+_thief_ lebt in _house_.
+<--->
+_thief_verbringt die Nächte in _house_.
+<--->
+Ihr solltet es bei _thief_ zu Hause versuchen, %g wohnt in _house_.
+<--->
+_thief_ betreibt des Öfteren Handel im _store_.
+<--->
+Vielleicht wollt Ihr anfangen Eure Einkäufe im _store_ zu tätigen, _thief_ tut es.
+<--->
+_store_ ist ein beliebter Ort, um gestohlene Waren zu handeln, von denen _thief_ viele hat.
+<--->
+_thief_ wurde im _store_ gesehen.
+<--->
+_inn_ ist für eine Menge Diebe ein Stammlokal.
+<--->
+_thief_ trinkt gerne in _inn_.
+<--->
+_thief_'s Lieblingstaverne ist _inn_.
+<--->
+_thief_'s Lieblingsspeisen werden in _inn_ serviert.
+
+Message:  1030
+Ihr wollt das Buch? So stark seid Ihr nicht.
+Versucht nur, es mir abzunehmen!
+
