@@ -94,4 +94,3 @@ QuestLogEntry:  [1010]
  Ich bekomme um die _reward1_ Goldstücke
  für jeden Goldbarren, den ich auftreiben kann.
 
-
