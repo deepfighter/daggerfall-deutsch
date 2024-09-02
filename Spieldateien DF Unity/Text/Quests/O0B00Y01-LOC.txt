@@ -1,0 +1,120 @@
+Quest: O0B00Y01
+DisplayName: Waffenlieferung
+QRC:
+
+QuestorOffer:  [1000]
+Also, %pcf, hier liegt eine
+einfache Aufgabe vor, die Euch
+gewiss keine Mühe bereiten sollte.
+Alles, was Ihr zu tun habt, ist,
+diese _weapons_ zu unserem
+Kontakt in ___contact_ zu
+bringen, dort den Lohn entgegenzunehmen
+und sodann zurückzukehren. Denkt Ihr,
+Ihr seid dieser Aufgabe gewachsen,
+%pcf?
+
+RefuseQuest:  [1001]
+Nein? Wie viel einfacher sollen Eure
+Aufträge noch werden? Wollt Ihr vielleicht
+stillhalten, während ich Euch mit Aalen
+züchtige? Eine gar nicht so schlechte Idee!
+%oth, welch Zeitverschwendung.
+
+AcceptQuest:  [1002]
+Also gut, Euer Kontakt ist ein
+=contact_, unauffällig und
+unverdächtig. %g weilt derzeit in
+einer Herberge namens __contact_
+in ___contact_. Nun hat
+_contact_ eine Kleinigkeit in
+___contact_ entwendet und
+verlangt nun, dass Ihr sie uns
+zurückbringt. Wenn Ihr glaubt,
+dies vollbringen zu können, so
+erwarten wir Eure Rückkehr in
+=1stparton_ Tagen, ohne Entschuldigung.
+Ist das klar? Geht nun.
+
+QuestFail:  [1003]
+Nun, Ihr seid zurückgekehrt, doch wo
+ist die Beute von _contact_?
+Ihr glaubt doch wohl nicht, Ihr könntet
+uns betrügen, %pcf? Wenn dem
+so ist, denkt nochmal darüber nach.
+
+QuestComplete:  [1004]
+Ah, welch prächtiger _gems_.
+_contact_ hat Euch diesen gegeben?
+%oth, es scheint, dass es %g3 gut
+ergeht, dort in ___contact_.
+Wohlgetan, %pcf. Hier sind
+_reward_ Goldstücke für Eure Mühen.
+
+RumorsDuringQuest:  [1005]
+Die Stadtwachen haben ein wachsames Auge auf jeden, der Waffen trägt.
+<--->
+%t scheint einen Attentatsversuch zu befürchten. Die Wachen sind in Alarmbereitschaft.
+
+RumorsPostfailure:  [1006]
+Sie haben einen gewissen =contact_ verhaftet. Offensichtlich war %g ein Waffenhändler.
+<--->
+Selbst die Diebesgilde scheint nicht unantastbar, da einer von ihnen in __contact_ gefangen genommen wurde
+
+RumorsPostsuccess:  [1007]
+Es wird gemunkelt, dass sie Waffen in die Stadt schmuggeln. Das erfordert Nerven aus Stahl.
+<--->
+%t war in Sorge wegen des Waffenschmuggels der Diebesgilde, doch scheint er sich beruhigt zu haben.
+
+QuestorPostsuccess:  [1008]
+Ja, was begehrt Ihr, %pcf? Vielleicht den _gems_ zurück?
+
+QuestorPostfailure:  [1009]
+Wenn Ihr nichts von _contact_
+bei Euch führt, ist jedes weitere
+Gespräch überflüssig, %pcf.
+
+QuestLogEntry:  [1010]
+Sehr gut, %pcf. Ich hätte es
+wohl kaum so leicht geschafft, diese
+_weapons_ hierher zu bringen.
+Hier, ein Vorgeschmack auf das,
+was ich bisher erbeutet habe... ein
+_gems_. Bringt ihn zurück zu
+_questgiver_ und lasst %g2 wissen,
+dass bei mir alles wohlauf ist.
+Erneut meinen Dank, %pcf.
+Auf bald.
+
+Message:  1020
+Halt, im Namen von %nrn!
+Ich weiß, dass Ihr Waffen schmuggelt.
+Ergebt Euch, oder zieht die Konsequenzen!
+
+Message:  1021
+Ich habe gehört, Ihr schmuggelt Waffen
+für die Diebesgilde. Übergebt sie mir,
+und ich werde Euer Leben verschonen.
+
+Message:  1022
+Wir verlangen die _weapons_.
+Händiget ihn aus, und wir werden
+Euch nicht allzu sehr zurichten.
+
+Message:  1023
+Nun verschwindet von hier,
+bevor Ihr Euch weh tut.
+
+Message:  1030
+%qdt:
+ _questgiver_ von der
+ Diebesgilde in ___questgiver_
+ bat mich, einen _weapons_ zu
+ _contact_ im __contact_
+ in ___contact_ zu bringen,
+ wo ich im Gegenzug etwas Beute
+ erhalten und zu _questgiver_
+ zurückbringen soll. Mir bleiben
+ =1stparton Tagen, um diesen Auftrag
+ zu vollenden. 
+

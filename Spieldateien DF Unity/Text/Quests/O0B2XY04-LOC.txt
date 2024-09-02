@@ -1,0 +1,61 @@
+Quest: O0B2XY04
+DisplayName: Wertvolle Seiten
+QRC:
+
+QuestorOffer:  [1000]
+Ich habe einen Auftrag. Gewöhnliche
+Gildenarbeit. _gold_ Golstücke wert,
+der übliche Gildenlohn. Interessiert?
+
+RefuseQuest:  [1001]
+Zu dumm für Euch, %pcn.
+
+AcceptQuest:  [1002]
+Begebt Euch nach __mansion_.
+Dort findet Ihr _mansion_.
+Innerhalb seiner Mauern liegt ein seltenes
+Buch mit dem Titel _book_.
+Bringt es mir binnen =traveltime_ Tagen, und ich
+werde Euch entlohnen. Einfach genug, nicht wahr?
+
+QuestComplete:  [1004]
+Ah, %oth. Hier ist Euer Lohn.
+Vielleicht kreuzen sich unsere Wege
+eines Tages erneut.
+
+RumorsDuringQuest:  [1005]
+Ein Sammler in __mansion_ hat kürzlich
+ein seltenes Exemplar von _book_ erworben.
+
+RumorsPostfailure:  [1006]
+_mansion_ war nicht sicher genug bewacht,
+weshalb sie alle Kostbarkeiten fortgeschafft haben.
+
+RumorsPostsuccess:  [1007]
+Jenes Exemplar von _book_,
+das aus mansion entwendet wurde,
+war von unschätzbarem Wert.
+
+QuestorPostsuccess:  [1008]
+Oh, willkommen, %pcf. Gute Arbeit,
+das Buch zu beschaffen, falls ich das
+noch nicht erwähnt haben sollte.
+
+QuestorPostfailure:  [1009]
+Schenkt mir Eure Ausreden, %pcf.
+Ich sagte Euch, wo das Buch zu finden sei
+und dass Ihr Euch sputen sollt, doch Ihr
+habt es versäumt. Nun ist es zu spät, und
+ich bin ermüdet. Seid ein braver %ra,
+und verlasst meinen Anblick, wenn ich
+bitten darf.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ein Mitglied der ehrlosen Diebesgilde in
+ ___qgiver_ hat mir den Auftrag
+ erteilt, das Buch _book_ aus _mansion_
+ in __mansion_ zu entwenden. Ich habe
+ =traveltime_ Tage, um es zu erlangen und es
+ zu _qgiver_ zu bringen.
+

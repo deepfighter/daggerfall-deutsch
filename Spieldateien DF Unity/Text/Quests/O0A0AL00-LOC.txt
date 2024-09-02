@@ -1,0 +1,153 @@
+Quest: O0A0AL00
+DisplayName: Die Eignungsprüfung
+QRC:
+
+QuestComplete:  [1004]
+Ein weiterer Eingeweihter, so sei es.
+Mitunter frage ich mich, ob die Gilde
+je ausreichend Raum für all die neuen
+Rekruten hat. Wie ich sehe, hat man Euch
+ausgesandt, um ein _clothing_
+eines Magiers zu entwenden. Eine beliebte
+Wahl in jüngster Zeit, wahrlich. Nun, Ihr
+seid nunmehr Mitglied der ehrwürdigen
+Diebesgilde. Sobald Ihr eine Stadt betretet,
+werdet Ihr erkennen, ob dort Niederlassungen
+unserer Gilde zu finden sind. Bedauerlicherweise
+gebieten mir die Regeln der Gilde, Euch für
+dieses wertlose Stück Stoff zu entlohnen,
+da Ihr es im Namen der Gilde entwendet habt.
+Hier, nehmt dieses Goldstück als Lohn für
+Eure Mühe. 
+ 
+Oh, beinahe hätte ich es vergessen.
+Ihr habt Euch ebenfalls diese Karte
+verdient. Lasst mich Euch zeigen, wo
+sich ___dungeon_ befindet.
+
+RumorsDuringQuest:  [1005]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostfailure:  [1006]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostsuccess:  [1007]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Mir wurde kürzlich von einem Bettler eine Notiz
+ überbracht. Die Diebesgilde hat mich wegen 'nicht
+ genehmigter' krimineller Aktivitäten ins Visier
+ genommen. Ich habe die Wahl, mich ihnen anzuschließen
+ oder mich als ihr Feind zu erklären.
+
+Message:  1020
+Ein einäugiger Bettler überreicht Euch einen Brief.
+„Eine Frau in Grau hat mich bezahlt, Euch dies zu
+geben,“ spricht er.
+
+Message:  1018
+Als Ihr das _clothing_
+an Euch nehmt, vernehmt Ihr das
+leise Rascheln von Papier. Eine
+Notiz ist in das _clothing_
+gewickelt.
+
+Message:  1019
+_thiefmember_
+ ___thiefmember_
+
+Message:  1024
+%pcn,
+    Ihr seid ein Dieb. Leugnet es nicht,
+ Eure Tat wurde beobachtet. Doch es gibt
+ Ehre unter Dieben. Ihr habt nun die Wahl:
+ Tretet der Gilde bei oder zieht die Konsequenzen.
+ Stehlt ein _clothing_ aus _mansion_
+ in __mansion_, wenn Ihr Euch uns
+ anschließen möchtet. Ihr habt =traveltime_ Tage Zeit.
+
+Message:  1030
+Dieb! Ihr wagt es, von einem Zauberer zu stehlen?
+Das soll Euch eine Lektion sein, die Ihr so schnell
+nicht vergessen werdet!
+

@@ -1,0 +1,86 @@
+Quest: O0B10Y05
+DisplayName: Wertvolle Kunstwerke
+QRC:
+
+QuestorOffer:  [1000]
+Hey da, %pcf!
+Erinnert Ihr Euch an mich,
+_qgiver_? Habt Ihr
+heute Lust auf einen Auftrag
+der Gilde? Ich habe hier etwas,
+das Euch gefallen könnte.
+
+RefuseQuest:  [1001]
+Vielleicht beim nächsten Mal.
+
+AcceptQuest:  [1002]
+So ein reicher Bursche hat vor Kurzem
+ein Gemälde erstanden, für das ich einen
+guten Preis erzielen könnte. Er verwahrt
+es in seinem Anwesen, der _townhouse_
+in __townhouse_. Holt es für mich,
+und Ihr erhaltet _gold_ Goldstücke als Lohn.
+Aber denkt daran, ich brauche es innerhalb
+der nächsten =traveltime_ Tage.
+
+QuestComplete:  [1004]
+Kaum ein Kratzer dran. Tut mir leid wegen
+der Wache. Wir wussten nicht, dass er eine
+angeheuert hatte. Hier ist Eure Bezahlung.
+
+RumorsDuringQuest:  [1005]
+_townhouse_ gleicht wahrhaft einer Kunstgalerie
+
+RumorsPostfailure:  [1006]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostsuccess:  [1007]
+_townhouse_ wurde ausgeraubt, obwohl dort so ein stämmiger Wächter postiert war.
+<--->
+Wer auch immer _townhouse_ ausgeraubt hat, muss genau gewusst haben, was er tut.
+
+QuestorPostsuccess:  [1008]
+Das Gemälde hat einen guten Preis auf dem Schwarzmarkt erzielt, %pcf.
+
+QuestorPostfailure:  [1009]
+Gut, ich sehe Euch, aber ich sehe das Bild
+nicht, das Ihr mir bringen solltet. Warum
+habe ich an jemanden wie Euch überhaupt
+meinen Atem verschwendet?
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ schickte mich
+ nach __townhouse_, um
+ dort ein Gemälde aus _townhouse_
+ zu stehlen. Er gab mir =traveltime_ Tage Zeit,
+ um es zu _qgiver_ in
+ __qgiver_ in ___qgiver_
+ zu bringen.
+ 

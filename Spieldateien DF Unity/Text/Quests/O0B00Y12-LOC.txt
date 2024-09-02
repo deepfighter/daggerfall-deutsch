@@ -1,0 +1,90 @@
+Quest: O0B00Y12
+DisplayName: Drogenlieferung
+QRC:
+
+QuestorOffer:  [1000]
+%pcf, ich hab’ da einen Auftrag
+für Euch, wenn Ihr interessiert seid.
+Ein kleines Paket muss nach ___contact1_
+gebracht werden. Was sagt Ihr?
+
+RefuseQuest:  [1001]
+Spar dir deine Gunstbeweise, Kumpan.
+
+AcceptQuest:  [1002]
+Gut. Hier ist das Paket, ein paar _drugs_.
+Es muss so schnell wie möglich nach ___contact1_
+gebracht werden. _contact1_ wird Euch dort in
+__contact1_ treffen. Seid auf der Hut. Sollte
+Kunde von dieser Lieferung durchsickern, könnten
+wir Schwierigkeien mit ein paar freischaffenden
+Schmugglern kriegen, die meinen, das Geschäft in
+%reg zu kontrollieren.
+
+QuestFail:  [1003]
+Habe ich nicht gesagt "so schnell wie möglich"?
+
+QuestComplete:  [1004]
+Ich bin froh, dass Ihr es geschafft habt.
+Diese Amateure haben keine Chance gegen unsere Organisation. Hier sind _gold_ Goldstücke für Eure
+Dienste. Gute Arbeit.
+
+RumorsDuringQuest:  [1005]
+Man hört, die Diebesgilde habe Ärger
+mit einem aufstrebenden Schmugglerring.
+
+RumorsPostfailure:  [1006]
+Es sieht so aus, als müsse die Diebesgilde ihr
+Monopol auf den Schmuggel in %reg aufgeben.
+
+RumorsPostsuccess:  [1007]
+Es scheint, als habe die Diebesgilde die rivalisierenden
+Schmuggler, die ihnen Probleme bereiteten, zerschlagen.
+
+QuestorPostsuccess:  [1008]
+Ah, guter alter %pcn, ich erinnere mich an Euch.
+Mein zuverlässiger Bote.
+
+QuestorPostfailure:  [1009]
+Der Schmuggler, der die Ware nicht liefern konnte, kehrt zurück. Was wollt Ihr?
+
+Message:  1020
+%qdt:
+ Ich bin auf dem Weg nach ___contact1_
+ mit einer Ladung _drugs_ für _contact1_,
+ der mich in __contact1_ treffen wird.
+ Man hat mich gewarnt, auf der Hut vor Schlägern
+ eines rivalisierenden Schmugglerrings zu sein.
+
+Message:  1021
+%qdt:
+ Ich habe gerade eine Nachricht von _contact1_
+ erhalten, dass %g mich nicht in ___contact1_
+ treffen könne. %g sagte mir, ich solle stattdessen
+ nach ___contact2_ gehen und die Lieferung
+ einem =contact2_ in __contact2_ übergeben.
+
+Message:  1030
+%pcn --
+ 
+ Tut mir leid, dass ich Euch in ___contact1_
+ nicht wie geplant treffen konnte. Die Luft wurde
+ zu heiß, um länger zu warten. Ich habe eine alternative
+ Übergabe in ___contact2_ arrangiert. Sucht nach einem
+ =contact2_, der in __contact2_
+ auf Euch wartet.
+ 
+ Passt auf Euch auf,
+ 
+ _contact1_
+
+Message:  1031
+Ein kleiner, schmutziger Junge zupft an Eurem Ärmel.
+Er reicht Euch ein Stück Pergament und rennt dann
+rasch eine Gasse hinunter.
+
+Message:  1035
+Wann werdet ihr Schergen der Diebesgilde endlich
+kapieren, dass wir das Geschäft mit _drug_
+in %reg kontrollieren?
+

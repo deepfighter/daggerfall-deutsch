@@ -1,0 +1,109 @@
+Quest: O0B10Y00
+DisplayName: Ein gestohlener Edelstein
+QRC:
+
+QuestorOffer:  [1000]
+Hört mich an, %pcf.
+Ein Mitglied unserer Bruderschaft
+steckt in Schwierigkeiten. Habt
+Ihr ein paar Tage Zeit, einem der
+Unsrigen zu helfen?
+
+RefuseQuest:  [1001]
+Nun gut. Ich nehme an, Ihr seid Euch
+sicher, dass Ihr niemals selbst in
+solch einer Klemme stecken werdet.
+
+AcceptQuest:  [1002]
+Wohl an, %ra. Einer unserer
+gewieftesten Einbrecher sitzt in einem
+finsteren Loch, der Taverne __contact_,
+fest. %g hat einen heißen Edelstein aus
+dem Palast gestohlen, doch es scheint,
+als habe jemand %g2 damit gesehen. Die
+Wachen durchkämmen nun die Gegend, doch
+aus Respekt vor dem Wirt der Taverne
+__contact_ werden sie noch =1stparton_ Tage
+warten, bevor sie zuschlagen. Ihr müsst
+Euch rasch nach __contact_ begeben
+und _contact_ dieses Stück
+_metal_ übergeben, im Tausch gegen
+den _gems_. Danach bringt Ihr den
+Edelstein schleunigst hierher zurück.
+Verstanden? Gut. Beeilt Euch, es bleibt
+keine Zeit zu verlieren.
+
+QuestFail:  [1003]
+Gut Euch zu sehen, %pcf, doch Ihr
+solltet nicht mit leeren Händen zurückkehren.
+Ihr solltet doch einen _gems_ bei Euch
+haben, erinnert Ihr Euch?
+
+QuestComplete:  [1004]
+Ausgezeichnete Arbeit, %pcf.
+Ich habe gehört, _contact_
+habe den Wachen das Stück _metal_
+gezeigt, und sie hielten es für den
+gestohlenen _gems_. Sie entschuldigten
+sich und spendierten %g3 sogar ein Getränk.
+Wahrlich, es gibt kein Leben wie das eines
+Schurken. Hier ist Euer Anteil an dem
+_gems_ — _reward_ Goldstücke. Ihr habt
+es Euch redlich verdient, %pcf.
+
+RumorsDuringQuest:  [1005]
+Nun, jeder weiß, dass _contact_ diesen Edelstein gestohlen hat. Warum holen sie sich %g2 nicht einfach?
+<--->
+Doch in der Taverne __contact_ sind viele feine Leute, und die Wachen sind dort nicht gerne gesehen.
+
+RumorsPostfailure:  [1006]
+Die Wachen haben _contact_ endlich geschnappt. Ich schätze, %g konnte sie nicht ewig fernhalten.
+<--->
+Ja, sie haben den %t _gems_ gefunden und diesen =contact_ eingesperrt.
+
+RumorsPostsuccess:  [1007]
+Am Ende mussten sie _contact_ doch gehen lassen. Es stellte sich heraus, dass %g unschuldig war.
+<--->
+Wie kann man nur _metal_ mit einem _gems_ verwechseln? Es sind beides Steine, aber bitte!
+
+QuestorPostsuccess:  [1008]
+Was ist los, %pcf? Ihr wollt diesen _gems_ wieder, nicht wahr?
+
+QuestorPostfailure:  [1009]
+Erinnert Ihr Euch nicht, dass Ihr diesen
+_gems_ von _contact_ holen
+und %g3 das Stück _metal_ bringen solltet,
+das ich Euch gab? %oth!
+Man sollte meinen, das sei nicht allzu schwer.
+
+QuestLogEntry:  [1010]
+%oth, %pcf, Ihr seid ein
+Lebensretter. Es stellte sich heraus,
+dass man mich mit einem _gems_
+gesehen und vermutet hat, es sei der
+gestohlene Edelstein. Dieser Brocken
+_metal_ ist meine Karte in die Freiheit.
+Erinnert mich daran, Euch irgendwann
+auf einen Umtrunk einzuladen. Nun eilt
+und kehrt zu _questgiver_ zurück.
+Sie werden misstrauisch, wenn Ihr nicht
+innerhalb von =1stparton_ Tagen zurück seid.
+
+Message:  1015
+%qdt:
+ _questgiver_ von der
+ Diebesgilde in ___questgiver_
+ sandte mich nach ___contact_
+ in eine Schenke namens __contact_.
+ Er gab mir einen Brocken _metal_,
+ den ich _contact_ bringen soll, im
+ Austausch für den gestohlenen Edelstein,
+ mit dem %g gesehen wurde. Ich habe
+ =1stparton_ Tage Zeit dafür.
+
+Message:  1020
+Ich weiß aus sicherer Quelle, dass
+Ihr den _gems_ habt, den _contact_
+gestohlen hat. Übergebt ihn mir, und
+Ihr könnt unbehelligt weiterziehen.
+

@@ -1,0 +1,61 @@
+Quest: O0B10Y06
+DisplayName: Der Juwelenraub
+QRC:
+
+QuestorOffer:  [1000]
+Hier ist ein Auftrag, der Eurem Geschmack
+entsprechen dürfte. Ein geplanter Juwelenraub
+steht bevor. Wollt Ihr dabei sein? Die
+übliche Gildenzahlung beträgt dieser
+Tage _gold_ Goldstücke.
+
+RefuseQuest:  [1001]
+Auf bald. Ich muss noch ein anderes
+Gildenmitglied finden, das diesen
+Auftrag übernehmen möchte.
+
+AcceptQuest:  [1002]
+%oth, bei den Göttern, hervorragend!
+Begebt Euch zur _mansion_ in
+__mansion_. Findet das _jewelry_
+und bringt es her. Haltet die Augen offen.
+Wir vermuten, dass das Anwesen nicht
+unbewacht ist.
+
+QuestComplete:  [1004]
+Gute Arbeit, %pcn.
+Hier ist Euer Gold.
+
+RumorsDuringQuest:  [1005]
+Man sagt, _mansion_ sei einbruchsicher.
+
+RumorsPostfailure:  [1006]
+Jemand hat versucht, in _mansion_ einzubrechen, doch es ist ihm nicht gelungen.
+
+RumorsPostsuccess:  [1007]
+Unglaublich! _mansion_ wurde ausgeraubt.
+<--->
+Wenn sogar _mansion_ ausgeraubt werden kann, ist kein Ort mehr sicher.
+
+QuestorPostsuccess:  [1008]
+Wie geht es Euch, %pcf?
+Ihr habt doch hoffentlich nicht
+schon all Eure _gold_ Goldstücke
+ausgegeben, oder?
+
+QuestorPostfailure:  [1009]
+%oth, Ihr seid es. Der Besitzer
+von _mansion_ hat das _jewelry_
+bereits an einen anderen Ort bringen lassen,
+sodass die ganze Aktion für die Katz war.
+Vielen Dank für Eure sogenannte 'harte' Arbeit.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ in ___qgiver_
+ hat mir einen Auftrag angeboten.
+ Ich soll ein _jewelry_ aus der
+ _mansion_ in __mansion_
+ entwenden. Ich habe =traveltime_ Tage
+ Zeit, um %g2 die Beute zu liefern.
+

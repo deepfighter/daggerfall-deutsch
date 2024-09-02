@@ -1,0 +1,74 @@
+Quest: O0B2XY09
+DisplayName: Der reiche Händler
+QRC:
+
+QuestorOffer:  [1000]
+Ihr könnt mich _qgiver_ nennen.
+Es ist mir zu Ohren gekommen, dass
+ein gewissenloser Händler kürzlich
+eine Ladung _coastal_ erworben
+hat. Ich möchte, dass Ihr Euch ein
+Stück dieser Ware aneignet und es
+mir bringt. Dafür werde ich Euch
+_gold_ Goldstücke gewähren. Wollt
+Ihr diese Aufgabe annehmen?
+
+RefuseQuest:  [1001]
+Geht weiter, %pcn.
+Ich suche einen Dieb,
+der des Namens würdig ist.
+
+AcceptQuest:  [1002]
+Begebt Euch nach __mansion_
+und sucht im _mansion_ nach
+der Ladung _coastal_. Es sollte
+nicht allzu schwer sein, sie ausfindig
+zu machen. Bringt mir die Beute innerhalb
+von =traveltime_ Tagen, und Ihr werdet Euren
+Lohn erhalten. Weitere Fragen? Nein? Gut. 
+
+QuestComplete:  [1004]
+Oho! Diese Ladung übertrifft meine
+Erwartungen. Hier sind Eure _gold_ Goldstücke,
+%pcn. Gebt nicht alles für Trinken
+und nette Gesellschaft aus.
+
+RumorsDuringQuest:  [1005]
+Eine neue Ladung _coastal_ ist
+in __mansion_ eingetroffen.
+Keiner weiß genau, wohin sie gebracht wurde.
+
+RumorsPostfailure:  [1006]
+Es scheint, jemand hat die Ladung
+_coastal_ im __mansion_
+entdeckt. Man verlegt sie nun aus der Stadt.
+
+RumorsPostsuccess:  [1007]
+Angeblich wurde der Ort, an dem die Ladung
+_coastal_ aufbewahrt wurde,
+sei in den letzten Tagen geplündert worden.
+
+QuestorPostsuccess:  [1008]
+Nun, Ihr verschleudert das Gold doch
+nicht etwa fürs Trinken oder andere
+Laster, nicht wahr, %pcf?
+
+QuestorPostfailure:  [1009]
+Was wollt Ihr? Ich habe Euch mitgeteilt,
+wo Ihr die Ladung _coastal_
+finden könnt, doch Ihr habt getrödelt,
+bis sie für jedermann wertlos geworen ist.
+Entfernt Euch von hier, %pcf,
+Ihr bereitet mir nur Unbehagen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von der
+ Diebesgilde hat mich beauftragt, 
+ einen Teil der Ladung _coastal_
+ aus dem _mansion_ in
+ __mansion_ zu stehlen.
+ Ich soll binnen =traveltime_ Tagen
+ zurückkehren, um meine Bezahlung in
+ ___qgiver_ zu erhalten.
+

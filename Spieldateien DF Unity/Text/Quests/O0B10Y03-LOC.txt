@@ -1,0 +1,91 @@
+Quest: O0B10Y03
+DisplayName: Ein Tempelbesuch
+QRC:
+
+QuestorOffer:  [1000]
+Ich habe einen Auftrag von der Gilde
+für Euch, falls Ihr interessiert seid.
+Mein Name ist _qgiver_. Ein
+Kerl will, dass wir ihm ein religiöses
+Artefakt aus dem Tempel stehlen. Nehmt
+Ihr den Auftrag an?
+
+RefuseQuest:  [1001]
+Wenn mir ein interessanterer Auftrag
+unterkommt, denk' ich an Euch, %pcn.
+
+AcceptQuest:  [1002]
+Fein. Das ist alles, was Ihr wissen müsst.
+Ihr reist zum _temple_ in
+__temple_. Nehmt dort _religiousitem_
+und bringt es mir zurück. Ihr kriegt den
+üblichen Lohn von _gold_ Goldstücken. Und
+ich will es innerhalb von =traveltime_ Tagen
+in meinen Händen sehen.
+
+QuestComplete:  [1004]
+Manche Leute sind echt schwer zu durchschauen.
+Könnt Ihr Euch vorstellen, dass der Kerl uns
+wirklich für diesen Diebstahl bezahlt hat?
+Ist ja nicht so, als hätte ihn irgendein
+'grausamer Wächter' davon abgehalten, es selbst
+zu tun. Huh, was sagt Ihr? Da war wirklich einer! Vielleicht war der Typ doch nicht so verrückt.
+Hier ist Euer Lohn, %pcf.
+War nett, mit Euch zu arbeiten.
+
+RumorsDuringQuest:  [1005]
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
+<--->
+Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
+<--->
+Das Wetter ist für diese Jahreszeit recht normal.
+<--->
+Es scheint für diese Jahreszeit ein wenig kühl in %cn zu sein.
+<--->
+Es ist wirklich um einiges wärmer als letztes Jahr um diese Zeit.
+<--->
+Meine Großtante reist zu einem Spezialisten jenseits der Bucht.
+<--->
+Es ist immer wieder interessant, um welche Zeit es hier dunkel wird.
+<--->
+Wir sollten hier irgendwo eine Kriegsstatue errichten.
+<--->
+Die Kinder heutzutage mit ihrer Magie. %oth, ich weiß ja nicht.
+<--->
+Ich hatte letzte Nacht den verrücktesten Traum.
+<--->
+Ich habe neulich einen großartigen Witz gehört. %jok
+<--->
+%jok Das war vielleicht ein Witz.
+<--->
+%jok Könnt Ihr mir den erklären?
+<--->
+Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
+
+RumorsPostfailure:  [1006]
+_temple_ scheint recht gut gegen Diebe gewappnet zu sein. 
+
+RumorsPostsuccess:  [1007]
+Der Typ, dem _temple_ gehört, hat ein paar Diebe bezahlt, dort einzubrechen.
+
+QuestorPostsuccess:  [1008]
+Wie steht's, %pcf? Ich warte immer noch auf Nachricht von dem Kerl, der uns angeheuert hat.
+
+QuestorPostfailure:  [1009]
+Es interessiert mich nicht, ob der Tempel
+bewacht war, %pcf, selbst wenn's
+der Fürst des ganzen Reich des Vergessens
+gewesen wäre. Es gibt keine Entschuldigung
+dafür, bei einem Auftrag der Diebesgilde zu
+scheitern.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von der Diebesgilde
+ in ___qgiver_ gab mir den
+ Auftrag, ein _religiousitem_
+ aus dem _temple_ in
+ __temple_ zu stehlen.
+ Ich habe =traveltime_ Tage, um für
+ meinen Lohn zu %g2 zurückzukehren.
+ 

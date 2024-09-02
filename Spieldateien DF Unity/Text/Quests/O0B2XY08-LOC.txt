@@ -1,0 +1,72 @@
+Quest: O0B2XY08
+DisplayName: Ein geschätztes Kraut
+QRC:
+
+QuestorOffer:  [1000]
+_qgiver_ ist mein Name.
+Dieser Auftrag ist von heikler Natur,
+%pcf. Ich biete Euch _gold_ Goldstücke
+als Lohn, wenn Ihr für mich ein gewisses
+Etwas namens _drugs_ stehlen könnt.
+Ich nehme an, Ihr kennt dieses _drugs_
+bereits? Es ist ein Kraut, das starkes Verlangen
+erzeugt. Seid Ihr bereit, diesen Auftrag zu übernehmen?
+
+RefuseQuest:  [1001]
+Wenn irgendjemand von diesem Vorhaben erfährt,
+so wisst Ihr, wen ich zur Rechenschaft ziehen
+werde, %pcn.
+
+AcceptQuest:  [1002]
+Begebt Euch nach __mansion_.
+Findet _mansion_.
+Stehlt das _drugs_.
+Bringt es mir innerhalb
+von =traveltime_ Tagen und
+Euer Lohn wird Euch sicher sein.
+
+QuestComplete:  [1004]
+Lasst es einfach unauffällig in meine
+Taschen gleiten. Gut. Ich glaube nicht,
+dass Euch jemand dabei gesehen hat.
+Hier sind Eure _gold_ Goldstücke,
+%pcn.
+
+RumorsDuringQuest:  [1005]
+Man fragt sich allenthalben, woher der Handel mit
+_drugs_ in __mansion_ seinen Ursprung nimmt.
+
+RumorsPostfailure:  [1006]
+Es lebte einst ein _drugs_-Händler in
+_mansion_ in __mansion_,
+doch er ist nun fortgezogen.
+
+RumorsPostsuccess:  [1007]
+_mansion_, in __mansion_ wurde
+ausgeraubt, doch der Eigentümer
+wagt es nicht, den Diebstahl zu melden.
+
+QuestorPostsuccess:  [1008]
+Benehmt Euch unauffällig, %pcf.
+Der Handel mit _drugs_
+ist noch immer in aller Munde.
+
+QuestorPostfailure:  [1009]
+%oth, %pcf. Ich dachte,
+ich könnte mich darauf verlassen, dass
+Ihr mir _drugs_ beschafft.
+Doch offenbar sollte man, wenn man
+einen Auftrag wirklich ordnungsgemäß
+erledigt haben will, zuerst den %ra
+hinrichten, den man einweihte.
+Fahrt ins Reich des Vergessens, Balg.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_ von der Diebesgilde
+ ___qgiver_ hat mich beauftragt,
+ einige _drugs_ aus _mansion_
+ in __mansion_ zu stehlen.
+ Ich muss innerhalb von =traveltime_ Tagen
+ zurückkehren, um meinen Lohn zu erhalten.
+

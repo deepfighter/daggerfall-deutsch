@@ -1,0 +1,70 @@
+Quest: O0B10Y07
+DisplayName: Der Schmuck des Adligen
+QRC:
+
+QuestorOffer:  [1000]
+Wir haben Euch im Auge, %pcf.
+Versucht erst gar nicht, Euch den
+Kopf darüber zu zerbrechen, wer
+'wir' sind. Ihr seid ein aufstrebendes
+Mitglied dieser Gilde, und wenn Ihr
+bereit seid, einen besonderen Auftrag
+ohne Bezahlung zu übernehmen, könnten
+wir uns in Zukunft vielleicht wohlwollend
+gegenüber Euch erweisen. Was sagt Ihr dazu?
+
+RefuseQuest:  [1001]
+Seid vorsichtig, Ihr kleiner,
+niederträchtiger Verräter!
+
+AcceptQuest:  [1002]
+Eure Aufgabe ist recht simpel. Der %rt
+von __palace_ hat kürzlich ein
+_jewelry_ 'erworben', das so gut verarbeitet
+ist, dass wir großes Interesse daran haben,
+es uns genauer anzusehen. Ihr habt genau
+=2palace_ Tage, um einen Weg in den Palast zu
+finden, das besagte Schmuckstück an Euch zu
+bringen und hierher zurückzukehren. Dies
+sollte für ein wahres Mitglied der Diebesgilde
+keineswegs unmöglich sein. Also, worauf wartet
+Ihr noch, %pcf? Macht Euch auf den Weg!
+
+QuestFail:  [1003]
+Ich sagte, fort mit Euch!
+
+QuestComplete:  [1004]
+Herzlichen Glückwunsch, %pcf.
+Ihr werdet bald wieder von uns hören.
+
+RumorsDuringQuest:  [1005]
+%t %rn ist sichtlich stolz auf sein neues _jewelry_. Jeder möchte es sehen.
+<--->
+_palace_ wird schwer bewacht, offensichtlich wegen des neuen _jewelry_.
+
+RumorsPostfailure:  [1006]
+Die Männer des %t haben _jewelry_ nach dem gescheiterten Diebstahlversuch wieder in ihren Besitz gebracht.
+<--->
+Die Diebesgilde würde sich eine solche Gelegenheit, dieses _jewelry_ zu erlangen, niemals entgehen lassen.
+
+RumorsPostsuccess:  [1007]
+Die Diebesgilde wird immer dreister, sogar von %t selbst zu stehlen.
+<--->
+Die Diebesgilde hat die Identität des _palace_-Einbrechers erfolgreich verborgen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Um in der Diebesgilde an Einfluss zu gewinnen,
+ habe ich zugestimmt, in den _palace_
+ des %t in __palace_ einzubrechen und
+ sein neues _jewelry_ zu stehlen. _qgiver_
+ möchte das _jewelry_ innerhalb von =2palace_ Tagen
+ in seinen Händen in ___qgiver_ halten.
+
+Message:  1015
+Ihr habt das _jewelry_ gefunden,
+weswegen Ihr hierher geschickt wurdet.
+
+Message:  1020
+Das muss es sein!
+

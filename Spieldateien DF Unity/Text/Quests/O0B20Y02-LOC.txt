@@ -1,0 +1,57 @@
+Quest: O0B20Y02
+DisplayName: Ein wertvoller Gegenstand
+QRC:
+
+QuestorOffer:  [1000]
+Sprecht leiser. Mein Name ist... nun,
+nennt mich einfach _qgiver_.
+Die Gilde hat einen Auftrag für Euch,
+mit der üblichen Entlohnung. Interessiert?
+
+RefuseQuest:  [1001]
+Bin ich froh, dass ich Euch keine weiteren
+Einzelheiten offenbarte. Nun, verschwindet
+von hinnen.
+
+AcceptQuest:  [1002]
+Ihr müsst den _magicitem_ aus der
+_mansion_ in __mansion_
+entwenden. Euch verbleiben =traveltime_ Tage,
+oder unser Abkommen ist zunichte. Hab' ich
+erwähnt, dass der Ort wohlbewacht ist? Ich
+könnte schwören, ich hätte es getan.
+
+QuestComplete:  [1004]
+Habt Ihr die Ware? Ah! Gut gemacht.
+Die Standardbezahlung für solch einen
+Auftrag beträgt _gold_ Goldstücke. Gebt
+nicht alles auf einmal aus.
+
+RumorsDuringQuest:  [1005]
+_mansion_ in __mansion_ beherbergt eine umfangreiche Sammlung magischer Kuriositäten.
+
+RumorsPostfailure:  [1006]
+Sie haben _magicitem_ aus _mansion_ fortgebracht, um seiner Sicherheit willen.
+
+RumorsPostsuccess:  [1007]
+_magicitem_ wurde aus _mansion_ geraubt. Ein wahrer Skandal, sage ich Euch.
+
+QuestorPostsuccess:  [1008]
+Überrascht, mich zu sehen, %pcf? Dachtet Ihr, ich würde mit dem _magicitem_ verschwinden?
+
+QuestorPostfailure:  [1009]
+Sie haben den _magicitem_ bereits
+aus der _mansion_ weggeschafft,
+%pcf. Mit anderen Worten,
+Ihr habt versagt. Jetzt verschwindet
+aus meinem Blickfeld.
+
+QuestLogEntry:  [1010]
+%qdt:
+ _qgiver_, (so nannte %g sich zumindest)
+ von der Diebesgilde hat mich beauftragt, den
+ _magicitem_ aus _mansion_ in
+ __mansion_ zu stehlen. Ich habe =traveltime_ Tage
+ Zeit, um das Stück zu %g2 in die __qgiver_
+ in ___qgiver_ zu bringen.
+
