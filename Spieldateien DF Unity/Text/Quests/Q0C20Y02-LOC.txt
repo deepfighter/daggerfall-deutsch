@@ -1,0 +1,97 @@
+Quest: Q0C20Y02
+DisplayName: Teure Magie
+QRC:
+
+QuestorOffer:  [1000]
+Ihr seid den ==questgiver_ Freund,
+dies wissen wir. Aber um Euch zu
+helfen, muss ein Zauber gewoben
+werden; ein Zauber, der zuerst
+zerstören muss, bevor er erschafft.
+Werdet Ihr uns einen Gegenstand
+namens _magicitem_ für unser
+Gebräu bringen, auf dass Euch durch
+seine Vernichtung Segen zuteil wird?
+
+RefuseQuest:  [1001]
+Ihr seid für diese Aufgabe zu beschäftigt,
+obwohl Ihr Euch ihrer Bedeutung gewahr seid?
+Bedauerlich für die ==questgiver_ und
+bedauerlich für Euch, %pcn.
+
+AcceptQuest:  [1002]
+Die Zutat _magicitem_,
+die wir brauchen, ist im Besitz der
+==other_. Wir benötigen es,
+bevor der Tag =1stparton_ mal gedämmert hat.
+Die Gemeinschaft der ==other_
+kann in ___other_ angetroffen
+werden. Fragt nach _other_.
+Mögen die Götter und Geister Eure Schritte
+leiten, %pcf.
+
+QuestFail:  [1003]
+_magicitem_, %pcf ...
+Habt Ihr vergessen?
+
+QuestComplete:  [1004]
+Ah, _magicitem_, die fehlende Zutat
+für unser Gebräu. Geschwind, Schwestern.
+Biegt und brecht und kocht es im
+verschlossenen Bottich. Hier haben wir
+eine _reward_gemme für Euch,
+%pcn, um Euch für Eure
+Eile und Tapferkeit zu entlohnen.
+
+RumorsDuringQuest:  [1005]
+Erinnert Ihr Euch noch daran, wie die Hexen einst %t in eine Schnecke verwandelt haben?
+<--->
+Das Einzige, was schlimmer ist, als auf die ==questgiver_ zu treffen, ist es, ihren Zorn zu beschwören.
+
+RumorsPostfailure:  [1006]
+Letzte Nacht hörte ich ein Heulen in den Wäldern. Ich denke, die Hexen sind außer Rand und Band.
+<--->
+Riecht Ihr diesen sauren Geruch im Wind? Das bedeutet, dass die ==questgiver_ wütend sind.
+
+RumorsPostsuccess:  [1007]
+Man sagt, die ==questgiver_ feiern das Aufgehen einer ihrer Intrigen.
+<--->
+Man kann von dem Geruch in der Luft trunken werden. Ein Zeichen fröhlicher Hexen.
+
+QuestorPostsuccess:  [1008]
+Mögt Ihr Euren _reward_, %pcf? Ich denke, er wird Euch zufriedenstellen.
+
+QuestorPostfailure:  [1009]
+Habt Ihr das _magicitem_ vergessen?
+%oth, nun ist es zu spät.
+Die ==questgiver_ sind enttäuscht,
+%pcf. Wahrlich, das sind wir.
+
+QuestLogEntry:  [1010]
+Das _magicitem_ wollt Ihr?
+Es soll für tausend Euer sein.
+Sehr gut, hier habt Ihr.
+
+Message:  1011
+Sie ist eine sehr weise Frau der ==questgiver_.
+<--->
+Sie ist eine Frau von den ==questgiver_, mit der nicht zu spaßen ist.
+
+Message:  1020
+Ich gebe dieses _magicitem_
+nicht für weniger als eintausend Goldstücke
+aus den Händen. Und selbst das tue ich
+nur für die ==questgiver_.
+
+Message:  1025
+%qdt:
+ _questgiver_ von den
+ ==questgiver_ hat mich ausgesandt,
+ um ein _magicitem_, das im Besitz
+ einer Gruppe ist, die sich ==other_
+ nennt, bei einer =other_ namens
+ _other_ in ___other_.
+ Ich habe =1stparton_ Tage Zeit, das
+ _magicitem_ zu holen und zu
+ ___questgiver_ zurückzukehren.
+

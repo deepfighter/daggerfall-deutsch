@@ -1,0 +1,93 @@
+Quest: Q0C00Y08
+DisplayName: Seltener Foliant
+QRC:
+
+QuestorOffer:  [1000]
+Ja, in der Tat, Ihr könntet uns behilflich
+sein, %pcf. Wir sind ein abgeschiedener
+Zirkel, von der Außenwelt mit Furcht und
+Feindseligkeit bedacht. Wenn Ihr uns einen
+gewissen seltenen Folianten, der für uns in
+___contact_ bereitgehalten wird,
+verschaffen könntet, wäre es uns eine Freude,
+Euch einen, sagen wir, speziellen Gegenstand
+namens _mitem_, persönlich für Euch
+angefertigt, zu überlassen.
+
+RefuseQuest:  [1001]
+Wohlan, dann sollten wir auf den nächsten
+umherstreifenden Reisenden warten. Es ist
+uns damit nicht so eilig.
+
+AcceptQuest:  [1002]
+So würdet Ihr? Der Name des Folianten ist
+_book_ - tatsächlich ein sehr seltenes
+Werk. Selbst wenn jemand eine Abschrift
+davon fände, wäre ihr Preis noch immer
+unerschwinglich. Wir sind daher glücklich,
+einen Freund in ___contact_ zu haben,
+ein =contact_ namens _contact_.
+Dieser Freund hat eine Abschrift gestohlen.
+Wenn Ihr %g2 in __contact_ trefft,
+wird %g Euch das Buch übergeben. Wir
+erwarten Euch in =queston_ Tagen  zurück. Danach
+wird das Buch keinen Nutzen mehr für uns
+haben. Möge ==daedra_ über Eure Reise wachen.
+
+QuestComplete:  [1004]
+Ah, da ist es. Ich hatte gehofft, dass
+sich Euch Gelegenheit bot, die Abhandlung
+durchzusehen, werter %pcf.
+Es ist zweifelhaft, ob Ihr in naher Zukunft
+noch einmal seinesgleichen finden werdet.
+Nun, hier ist Euer _mitem_.
+
+RumorsDuringQuest:  [1005]
+_contact_ steht unter Verdacht. Sie sagen, dass %g Umgang mit den Hexen pflegt.
+<--->
+_contact_ ist insgeheim eine Hexe, sagen manche. 
+
+RumorsPostfailure:  [1006]
+_contact_ wurde verhaftet und am Pfahl verbrannt. Recht so.
+<--->
+_contact_ konnte noch nie den Mund halten. Damit ist nun Schluss.
+
+RumorsPostsuccess:  [1007]
+_contact_ wurde verhaftet, aber das _book_ fanden sie nicht.
+<--->
+Sie haben _contact_ geschnappt, aber %g war wohl nicht der =contact_, der das _book_gestohlen hat.
+
+QuestorPostsuccess:  [1008]
+Oh, hallo, %pcf. Ich las just in _book_ -- der Abschrift, die wir Euch verdanken.
+
+QuestorPostfailure:  [1009]
+_book_ ist vielleicht für immer
+verloren gegangen. Jetzt ist keine
+Zeit zum Reden. Geht, verlasst die
+==qgiver_. Ihr seid hier
+nicht länger willkommen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Die ==qgiver_ haben mich
+ nach ___contact_ geschickt,
+ um einen =contact_ namens
+ _contact_ in __contact_
+ aufzusuchen und ein sehr seltenes
+ Buch zu beschaffen. Ich soll das
+ Buch in =queston_ Tagen oder weniger zu
+ den ==qgiver_ zurückbringen.
+
+Message:  1011
+Alles klar, %pcf, hier ist das Buch.
+Nur passt auf Euch auf. Die  Wachen durchkämmen
+ganz ___contact_ nach dem Ding.
+
+Message:  1012
+Bleibt stehen! Dieb!
+
+Message:  1013
+Es kommt Euch plötzlich in den Sinn,
+dass die Hexen genau in diesem Moment
+das Buch erwartet haben.
+

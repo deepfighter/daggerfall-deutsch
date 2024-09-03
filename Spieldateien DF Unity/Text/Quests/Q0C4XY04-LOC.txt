@@ -1,0 +1,93 @@
+Quest: Q0C4XY04
+DisplayName: Ein Daedraherz
+QRC:
+
+QuestorOffer:  [1000]
+Noch einmal müssen die ==questgiver_
+Euer Wohlwollen und Eure Tatkraft
+in Anspruch nehmen. Unser Zauberwerk
+erfordert ein Daedraherz, das Ihr
+gerade erst selbst entrissen habt.
+Würdet Ihr für Eure lieben Muhmen
+einen Daedra finden und töten?
+
+RefuseQuest:  [1001]
+Nein? O kummervolle Nacht!
+
+AcceptQuest:  [1002]
+Die Göttin ist uns wohlgesonnen, %pcn.
+Nicht weit von hier liegt ein Verlies,
+das die Daedra heimsuchen. Außer dem
+verwurmten Herz eines Dremora soll uns
+jedes Daedraherz genügen. So geht denn
+nach ___mondung_, %pcn,
+tötet einen Daedra und bringt uns das
+Herz vor =1stparton_ Sonnenuntergängen.
+
+QuestFail:  [1003]
+%pcn, das Herz schlägt in der Brust
+eines Daedra in ___mondung_.
+Sucht nicht hier danach.
+
+QuestComplete:  [1004]
+Seht wie es in den blutigen Händen von
+%pcn noch dampft und schlägt!
+Schnell in die Bracksuppe, bevor es auskühlt.
+Ah, %pcn, nehmt diesen _reward_
+für Eure Mühe. Ihr seid gut zu uns armen Hexen.
+
+RumorsDuringQuest:  [1005]
+Die Daedra von ___mondung_ haben offenbar etwas vor. Was für eine Gemeinde!
+<--->
+%god hat uns verflucht. Warum wären die Daedra sonst in ___mondung_ eingefallen?
+
+RumorsPostfailure:  [1006]
+Gepriesen sei %god, die Daedra haben ___mondung_ verlassen. Ich konnte deshalb nächtelang nicht schlafen!
+<--->
+Die Daedra haben ___mondung_ auf so mysteriöse Weise verlassen wie sie gekommen sind. Auf Nimmerwiedersehen!
+
+RumorsPostsuccess:  [1007]
+Wenn sich die Sterne wie letzte Nacht verdunkeln, bedeutet das den Tod eines Daedra.
+<--->
+Habt Ihr letzte Nacht auch Musik in den Wäldern gehört? Die Hexen müssen etwas feiern.
+
+QuestorPostsuccess:  [1008]
+Freund der ==questgiver_, wie steht es
+um Euch und Euren _reward_?
+
+QuestorPostfailure:  [1009]
+Wir hatten so auf ein Herz für unseren
+Eintopf gehofft, %pcf! Ihr
+hättet uns sagen sollen, dass Ihr zu
+beschäftigt wart. Pläne wurden geschmiedet
+und mussten zerschlagen werden. Ihr seid
+unser Freund, aber wir sind ... betrübt.
+
+Message:  1011
+_questgiver_ lässt sich als =questgiver_ beschreiben und ist eine der ==questgiver_.
+<--->
+Sie gehört zu den Hexen, die sich in %reg niedergelassen haben.
+
+Message:  1012
+Ich hörte, dass ___mondung_ ein Vampirversteck sei.
+<--->
+In ___mondung_ lebt das Nachtvolk. Am Tag kommen sie nie raus.
+<--->
+___mondung_? Ist das nicht eine Orkfestung?
+<--->
+Durch die Hallen von ___mondung_ schlurfen Untote. Ich würde mich fernhalten.
+
+Message:  1015
+%qdt:
+ _questgiver_ von
+ den ==questgiver_ hat mich nach
+ ___mondung_ geschickt, um einer
+ beliebigen Verführerin, einem Daedroth,
+ Flammen- oder Frostatronachen das Herz
+ herauszureißen. Das Herz muss in =1stparton_ Tagen
+ oder weniger in ___questgiver_ sein.
+
+Message:  1040
+Ihr reißt ein vollkommenes Herz
+aus dem noch zuckenden Körper.
+

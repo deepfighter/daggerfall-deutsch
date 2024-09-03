@@ -1,0 +1,126 @@
+Quest: Q0C00Y04
+DisplayName: Spezialmixtur
+QRC:
+
+QuestorOffer:  [1000]
+Die ==qgiver_ wurden von
+der Magiergilde kontaktiert und nach
+einem speziellen Trank gefragt, einer
+sehr heiligen Formel, die in %reg
+äußerst begehrt ist. Sie wären gewillt,
+_gold_ Goldstücke dafür zu bezahlen,
+die Euch gehören sollen. Uns ist nur
+am Respekt der Magiergilde gelegen.
+Die Reise wird nicht einfach werden.
+Seid Ihr interessiert?
+
+RefuseQuest:  [1001]
+Ich verstehe.
+Ich bin enttäuscht,
+aber ich verstehe.
+
+AcceptQuest:  [1002]
+Sehr gut, %pcf. Hier ist der
+Trank. Nun, Ihr solltet während des
+Tages sicher sein, denn jene, die ihn
+sich aneignen wollen, reisen stets nur
+bei Nacht. Sie erwarten den Trank in
+der Magiergilde von ___mguild_
+in =queston_ Tagen oder weniger, also
+verweilt nicht zu lange. Fragt nach
+einem Magier namens _mage_.
+
+QuestComplete:  [1004]
+Ah, eine sehr seltene und wundersame Formel.
+Hier sind Eure _gold_ Goldstücke.
+Kein zu hoher Preis für diesen Trank.
+
+RumorsDuringQuest:  [1005]
+Der Frieden zwischen der Magiergilde und den ==qgiver_ ist erstaunlich.
+<--->
+Dieser Frieden zwischen den Zauberern und Hexen wird nicht lange halten.
+
+RumorsPostfailure:  [1006]
+Die ==qgiver_ sind von einem Abkommen mit der Magiergilde zurückgetreten.
+<--->
+Die Magiergilde bricht ihre Beziehungen zum Zirkel der ==qgiver_ ab.
+
+RumorsPostsuccess:  [1007]
+Der Zaubertrank, den die Schwesternschaft der ==qgiver_ der Magiergilde gab, heilt Vampirismus!
+<--->
+Der Zaubertrank, den die ==qgiver_ der Magiergilde übergaben heilt Lykanthropie!
+
+QuestorPostsuccess:  [1008]
+Die Magiergilde teilte uns mit, dass die Übergabe geglückt ist. Dank Euch, %pcf.
+
+QuestorPostfailure:  [1009]
+Wir haben daran gearbeitet, die
+Beziehungen zur Magiergilde zu
+festigen, aber Ihr habt alles
+zunichte gemacht, indem Ihr versäumt
+habt, diesen Trank abzuliefern,
+%pcf. Geht mir aus den Augen.
+Ich kann es nicht ertragen, Euch
+weiter ansehen zu müssen.
+
+QuestLogEntry:  [1010]
+%qdt:
+ ==qgiver_ haben mich mit einem
+ mysteriösen Zaubertrank zur
+ Magiergilde von ___mguild_
+ geschickt. Ich soll des Nachts
+ auf jene achten, die ebenfalls
+ auf den Trank aus sind. Der
+ Name des Magiers, der mir für
+ den Trank _gold_ Goldstücke zahlen
+ wird, ist _mage_.
+ Ich habe =queston_ Tage Zeit,
+ die Zustellung zu erledigen.
+
+Message:  1012
+Eine vom Grabesdreck raue Stimme
+faucht: "Ihr! Dieser Trunk gehört uns!"
+<--->
+"Gebt mir den Trank", knurrt jemand.
+"Er gehört Euch nicht!"
+<--->
+Ihr hört, wie jemand einen unnatürlichen,
+wilden Schrei des Verlangens heult.
+"Der Trank! Der Trank!"
+
+Message:  1013
+Das Geheul eines Wolfes erklingt.
+<--->
+Ihr hört, wie etwas einen
+herzzereißenden Schrei
+der Sehnsucht ausstößt.
+<--->
+Der Ruf eines Wolfes durchdringt
+die Nacht. Es ist kein Geheul vor
+Hunger, sondern vor Sehnsucht.
+
+Message:  1014
+Der schrille Laut eines Ebers
+durchdringt die Nacht.
+<--->
+Ihr hört das kehlige Knurren
+eines Ebers, das mit dem Klang
+der Verzweiflung zittert.
+<--->
+Die Stille der Nacht wird plötzlich
+durch das schrille Knurren eines
+wütenden Ebers unterbrochen.
+
+Message:  1015
+Ihr fühlt Euch merkwürdig.
+
+Message:  1016
+Error: Questtext 1016 Called.
+
+Message:  1017
+Was soll das? Die Formel wurde
+entweiht! Ich bin enttäuscht,
+dass Ihr nicht einmal diese
+eine simple Erledigung für
+mich tätigen konntet.
+

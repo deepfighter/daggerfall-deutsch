@@ -1,0 +1,123 @@
+Quest: Q0C00Y03
+DisplayName: Besser als ihr Ruf
+QRC:
+
+QuestorOffer:  [1000]
+Die ==qgiver_ könnten
+tatsächlich Euren Beistand in einer
+höchst absurden und doch ernsthaften
+Angelegenheit gebrauchen. Ihr macht
+Euch keine Illusionen darüber, dass
+die Hexen aus %reg verachtet
+werden. Niemand traut uns über längere
+Zeit, denn unsere Macht und
+Abgeschiedenheit machen uns zu einem
+Einflussfaktor, der für andere nur
+schwierig zu manipulieren ist.
+Man hat uns eine Falle gestellt, die
+schon bald zuschnappen könnte, und wir
+brauchen jemanden wie Euch, um sie
+zu entschärfen. Wäret Ihr an solch
+einer Aufgabe im Austausch für einen
+_gem_ interessiert?
+
+RefuseQuest:  [1001]
+So wollt Ihr nicht? %oth,
+die ==qgiver_ sind an die
+Feigheit unserer Verbündeten gewöhnt.
+
+AcceptQuest:  [1002]
+So wollt Ihr helfen? Dann nehmt dieses Kind!
+Es sagt, es sei _child_ geheißen.
+Wir haben es vor ein paar Tagen alleingelassen
+gefunden. Ganz gewiss wurde es dort ausgesetzt,
+damit uns unsere Feinde unterstellen können,
+dass wir in gewisse Vorgänge verwickelt wären -
+Was glaubt Ihr? Menschenopfer? Verderbung der
+Unschuldigen? Nichts so Alltägliches wie
+Entführung, würde ich wetten. _child_
+sagte uns, dass %g3 Eltern an einem Ort namens
+_home_ in __home_ leben.
+Bringt das Kind zurück, aber seht Euch vor.
+Unsere guten Freunde würden Euch beide lieber
+tot sehen, als das Kind nach Hause zurückkehren
+zu lassen. Kehrt in =queston_ oder weniger Tagen
+zurück und wir werden die _gem_-Gemme
+für Euch bereit halten. Auf dass es Euch gelingen mag!
+
+QuestComplete:  [1004]
+Gut, dass _child_
+wieder zuhause ist. Vielleicht wird die Güte,
+welche die ==qgiver_ erwiesen
+haben, für die nächste Generation mit einigen
+Mythen über unsere Missetaten aufräumen.
+Hier ist Eure _gem_-Gemme.
+Euch gebührt Dank, %pcf.
+
+RumorsDuringQuest:  [1005]
+Die ==qgiver_ sollen noch schlimmer als gemeine Entführer sein.
+<--->
+Wenn man _child_ nicht findet, wird der Zirkel der ==qgiver_ brennen.
+
+RumorsPostfailure:  [1006]
+Man sagt, der Bund der ==qgiver_ habe ein  =child_ entführt. Armes Ding.
+<--->
+Die ==qgiver_ können nicht widerlegen, dass sie ein Kind entführt haben.
+
+RumorsPostsuccess:  [1007]
+Die ==qgiver_ haben  _child_ gar nicht entführt - das Kind selbst sagt, dass sie das nicht getan haben.
+<--->
+Wenn man _child_s Worten trauen kann, wurde dem Kind von den ==qgiver_ sogar geholfen statt geschadet.
+
+QuestorPostsuccess:  [1008]
+Angesichts Eurer Güte gegenüber _child_ und den ==qgiver_ schätze ich mich glücklich, mit Euch zu sprechen.
+
+QuestorPostfailure:  [1009]
+Wir baten Euch, klein
+_child_ nach Hause
+zu geleiten, doch Ihr habt versagt.
+Das war weder ein müßiges Ansinnen
+noch sind die Schuldzuweisungen harmlos.
+Verlasst auf der Stelle die ==qgiver_,
+verfluchter %ra.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich bringe ein Kind nach Hause zurück,
+ dass bei den ==qgiver_ ausgesetzt
+ wurde. _child_, das Kind,
+ lebt an einem Ort, den man _home_
+ in __home_ nennt. Die Feinde der
+ Hexen, so wurde mir erklärt, würden uns
+ eher töten als das Kind unversehrt
+ heimkehren zu lassen.
+
+Message:  1011
+"Hier wohne ich!
+Hier ist mein Zuhause!"
+_child_ gibt Euch
+einen Kuss auf die Wange.
+"Danke, %pcf!"
+
+Message:  1012
+"Hexenliebhaber!
+Kind von _daedra_!",
+kreischt eine Stimme.
+<--->
+"Lasst nicht zu, dass das Kind
+von ==daedra_ und den
+==qgiver_ am Leben
+bleibt!", ruft jemand.
+<--->
+"%god stärke meine Hand
+gegen den Handlanger und
+das Kind dieser höllischen
+==qgiver_!", schreit
+eine Stimme.
+
+Message:  1013
+"Ich werde den Rest meines Weges
+alleine zurücklegen", sagt das Kind,
+entwischt Euch und verschwindet mit
+erstaunlicher Geschicklichkeit.
+

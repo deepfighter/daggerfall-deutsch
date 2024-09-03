@@ -1,0 +1,120 @@
+Quest: Q0C00Y01
+DisplayName: Die Schmähschrift
+QRC:
+
+QuestorOffer:  [1000]
+Wir könnten Eure Hilfe bei der Suche
+nach einem perfiden Dokument
+gebrauchen, das von unseren Feinden
+in Umlauf gebracht wurde, um unserem
+Bund Schaden zuzufügen. Ich weiß,
+wo sich diese Anhäufung gedruckter
+Lügen befindet, jedoch benötigen
+wir jemanden wie Euch, der gegen
+ihren Wächter antritt und ihn zu
+uns bringt. Würdet Ihr den
+==qgiver_ solcherart
+behilflich sein?
+
+RefuseQuest:  [1001]
+So würdet Ihr nicht helfen?
+%oth, dann ersucht die
+==qgiver_ nicht
+um weitere Gefallen.
+
+AcceptQuest:  [1002]
+So wollt Ihr helfen? Dann seid Euch
+unserer unverbrüchlichen Dankbarkeit
+gewiss. Das Schriftstück befindet
+sich in einem Tempel hier in %reg,
+in einer Stadt, __temple_
+genannt. _temple_ verwahrt
+es wohl hinter verschlossenen Türen,
+bewacht durch einen _guardian_
+von erheblicher Macht. Bringt Ihr
+mir das Schriftstück, so gewähre
+ich Euch etwas aus der Manufaktur
+unseres Zirkels, das man _mitem_
+nennt. Kehrt nicht später als in
+=queston_ Tagen zurück!
+
+QuestComplete:  [1004]
+Ah, das verfluchte Dokument.
+Ihr empfehlt Euch durch Euren
+Dienst an der Schwesternschaft,
+%pct. Hier, nehmt Eure
+Belohnung -- _mitem_ , ganz
+wie ich es Euch versprach. Die
+Dankbarkeit des Zirkels der
+==qgiver_ muss nicht
+physisch sein, um gespürt zu werden.
+
+RumorsDuringQuest:  [1005]
+Habt Ihr die Geschichte des Zirkels
+der ==qgiver_  gelesen? Schockierend!
+
+RumorsPostfailure:  [1006]
+Die Geschichte des Zirkels der ==qgiver_
+wird in der Kaiserstadt nachgedruckt.
+
+RumorsPostsuccess:  [1007]
+Manche haben die Geschichte der
+==qgiver_ gelesen, aber
+die einzige Niederschrift ist
+verschwunden.
+
+QuestorPostsuccess:  [1008]
+Seid Ihr mit dem Rüstzeug, das wir Euch zur
+Belohnung gaben, zufrieden, %pcf?
+Ihr habt es Euch redlich verdient.
+
+QuestorPostfailure:  [1009]
+Das verfluchte Dokument wurde
+in die Kaiserstadt verbracht,
+um dort für die unwissenden
+Massen vervielfältigt zu werden,
+%pcf. Ihr habt versagt.
+Verschwindet von diesem Ort!
+
+QuestLogEntry:  [1010]
+%qdt:
+ Ich habe zugestimmt, ein Schriftstück
+ über die ==qgiver_ aus
+ _temple_ in __temple_
+ in =queston_ Tagen oder weniger zu
+ beschaffen. Das Dokument wird
+ wahrscheinlich von einem _guardian_
+ bewacht.
+
+Message:  1011
+Das ist augenscheinlich das Dokument,
+dass die ==qgiver_ haben wollten.
+
+Message:  1012
+Unter den teuflischeren Praktiken der
+==qgiver_ findet sich der Ritus,
+den sie zu Ehren ==daedra_s vollziehen.
+Das Fleisch eines neugeborenen Säuglings
+wird für dreieinhalb Tage über den
+Flammen brennenden Schwefels gekocht,
+bis es hart und ledrig ist. Der
+resultierende Faserstoff wird über den
+Kopf einer schwarzen Katze genäht, die
+in einem Käfig gehalten wird, bis sie
+sich entweder durch diese Haube gekaut
+hat oder daran erstickt ist. Stirbt
+die Katze, wissen die Hexen, dass
+==daedra_ ihre Bitten nicht erhören
+wird, überlebt die Katze jedoch,
+dürfen die ==qgiver_
+==daedra_ um alles bitten - Tod
+oder Verstümmelung von Fürsten,
+Wirtschaftskatastrophen, Hungersnöte,
+Plagen, Kriege ...
+
+Message:  1013
+Handlanger der Teufelinnen!
+Sklave der ==qgiver_!
+Die rechtschaffende Hand von
+%god wird Euch zermalmen!
+

@@ -1,0 +1,107 @@
+Quest: Q0C0XY02
+DisplayName: Ein Hexengeschenk
+QRC:
+
+QuestorOffer:  [1000]
+So würdet Ihr den ==qgiver_
+helfen %pcf? Viele kommen wegen
+Beistands zu uns, wenden sich aber
+wieder von uns ab, sobald ihre
+Wünsche erfüllt wurden, ihre Schwüre
+zu Flüchen und ihre Versprechen zu
+Verruchtheiten geworden sind. Würdet
+Ihr um der Dankbarkeit der ==qgiver_
+willen einen dieser Missetäter an der
+Schwesternschaft bestrafen?
+
+RefuseQuest:  [1001]
+Nicht einmal das würdet Ihr tun?
+%oth, bei ==daedra_,
+ich nehme an, Ihr versprecht besser
+nichts, was Ihr nicht halten könnt.
+Trotzdem bin ich gekränkt.
+
+AcceptQuest:  [1002]        
+Das werdet Ihr wirklich? Wenn Ihr es
+wünscht soll ein ausgezeichnetes
+Ausrüstungsstück namens _mitem_
+für Euch gefertigt werden. Nun macht
+Euch zu jenem weit entfernten Ort auf,
+der da __tavern_ heißt und sucht die
+Person auf, die uns betrogen hat, eine
+abgefeimte, uns als =man_ bekannte
+Gestalt, die sich selbst _man_
+nennt. Gebt der Person dieses _jewelry_,
+sagt weiterhin, dies sei ein Geschenk von
+einer alten Liebschaft und dann kehrt zu
+uns zurück. Ihr müsst Euch beeilen, denn
+das _jewelry_ wird die innere Schönheit
+nach außen kehren. Die ==qgiver_
+werden Euch in =queston_ Tagen erwarten. Möge
+==daedra_ auf Eure heilige Aufgabe
+herablächeln!
+
+QuestComplete:  [1004]          
+Gut %pcf, Euer Versprechen an
+die ==qgiver_ soll als erfüllt gelten.
+Wie versprochen, erhaltet Ihr etwas Rüstzeug,
+das man _mitem_ nennt. _man_,
+armer Teufel. Ich hoffe, dass sie das Schwein
+sehr leiden lassen, bevor man ihm ein Ende bereitet.
+
+RumorsDuringQuest:  [1005]
+_man_ hat alles Erreichte aus eigener Kraft geschafft. Ein wahres Wunder.
+<--->
+Die ==qgiver_ können extrem rachsüchtig sein.
+
+RumorsPostfailure:  [1006]
+_man_ lacht über die Vorstellung, den ==qgiver_ irgendetwas schuldig zu sein.
+<--->
+_man_ hat __tavern_ verlassen und wird schon schmerzlich vermisst.
+
+RumorsPostsuccess:  [1007]          
+_man_ verwandelte sich in _tavern_ vor der versammelten Kundschaft in eine grauenhafte Bestie.
+<--->
+_man_ muss wohl mit Daedra verkehrt haben. %oth, was für ein Schicksal.
+
+QuestorPostsuccess:  [1008]
+Wahrlich, ich hoffe Ihr findet an Eurem
+_mitem_ Gefallen, %pcf.
+
+QuestorPostfailure:  [1009]           
+Unsere Vergeltung an _man_ ist
+noch nicht vollendet! Verschwindet von
+hier oder %g3 wohlverdientes Schicksal
+wird sich auch gegen Euch wenden,
+%pcf.
+
+Message:  1011
+_man_ dankt Euch für das _jewelry_.
+%g probiert es an, während Ihr erklärt,
+wer es %g2 zukommen lässt. Beim Namen
+der ==qgiver_ weiten sich die Augen
+vor Furcht, dann verwandelt sich die
+Furcht in Schmerz.
+
+Message:  1012
+Ihr solltet _man_ nicht umbringen,
+sondern lediglich das_jewelry_ überreichen!
+Tölpel! Mörder! _man_ sollte für
+%g3 Insolenz zutiefst leiden, nicht einfach
+nur schmerzlos dahingerafft werden.
+==daedra_ verfluche Euch, %pcf!
+
+Message:  1020
+%qdt:
+ Die ==qgiver_ von %reg
+ haben mich ausgesandt, ein _jewelry_
+ zu einer Person namens _man_,
+ die mir als =man_ beschrieben
+ wurde, in __tavern_ zu bringen.
+ Mir wurde gesagt mich zu beeilen, weil
+ das _jewelry_ "das Äußere in ein Abbild
+ der inneren Schönheit" verwandeln würde.
+ Ich muss das _jewelry_ in
+ =queston_ Tagen überbracht haben und zu den
+ ==qgiver_ zurückgekehrt sein.
+

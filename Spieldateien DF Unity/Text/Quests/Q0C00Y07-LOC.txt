@@ -1,0 +1,87 @@
+Quest: Q0C00Y07
+DisplayName: Gefangene Hexe
+QRC:
+
+QuestorOffer:  [1000]
+Unsere Schwester _witch_ wurde
+gefangen genommen. Wir brauchen jemanden
+wie Euch, um sie zu retten. Willigt Ihr ein?
+
+RefuseQuest:  [1001]
+Ihr habt ein Herz aus Eis, %pcf.
+Welch eine Schande!
+
+AcceptQuest:  [1002]
+Wenn Ihr das für uns tut, werden wir Euch
+sehr dankbar sein. Gebt ihr dieses Gewand
+zur Verkleidung, sobald Ihr sie in
+___mondung_ findet. Wir erwarten
+Euch beide in =queston_ Tagen zurück, wenn nicht
+schon früher.
+
+QuestComplete:  [1004]
+_witch_, es tut meinem Herzen gut,
+Euch wohlbehalten hier zu sehen. %pcf,
+Ihr habt Euch heute den Respekt der
+==qgiver_ verdient.
+
+RumorsDuringQuest:  [1005]
+Wenn sie mit der Befragung von _witch_ fertig sind, warten die Flammen auf sie.
+<--->
+Es wird für _witch_ schon recht bald den Galgen oder das Feuer geben.
+
+RumorsPostfailure:  [1006]
+_witch_s Hinrichtung war es wirklick wert, ihr beizuwohnen. Ein Spaß für die ganze Familie.
+<--->
+_witch_ ist jetzt nur noch Asche. Alle Zaubersprüche konnten ihr nicht helfen.
+
+RumorsPostsuccess:  [1007]
+_witch_ ist davongekommen. Die Leute sagen, ==qgiver_ stecken dahinter.
+<--->
+_witch_ wurde nie Gerechtigkeit zuteil. Nicht einmal wirkliche Folter.
+
+QuestorPostsuccess:  [1008]
+_witch_ erholt sich prächtig, %pcf,
+es wird Euch sicher freuen, das zu hören.
+
+QuestorPostfailure:  [1009]
+Unsere Schwester _witch_ ist tot,
+bei lebendigem Leibe verbrannt. Vielleicht
+hättet Ihr sie retten können, vielleicht
+auch nicht. Aber Ihr seid hier nicht länger
+willkommen. Vielleicht für sehr lange Zeit
+nicht mehr.
+
+QuestLogEntry:  [1010]
+%qdt:
+ Die ==qgiver_ haben mich
+ nach ___mondung_ ausgesandt.
+ Dort wird _witch_, eine
+ Schwester der Hexen, gefangen
+ gehalten. Ich soll ihr _clothes_
+ geben, um sie zu verkleiden, und
+ zu den ==qgiver_ zurückkehren,
+ bevor  =queston_ Tage verstrichen sind.
+
+Message:  1011
+Die ==qgiver_ haben Euch geschickt?
+==daedra_ sei gepriesen! Ich werde
+die _clothes_  anziehen, dann können
+wir von hier verschwinden.
+
+Message:  1012
+"Es ist _witch_, die Gefangene!
+Bleibt stehen! Hexenweib!"
+<--->
+"Schluss mit Gefängnis, _witch_!
+Diesmal geht es geradewegs zur Exekution!"
+<--->
+"Halt! Ihr seid _witch_!"
+
+Message:  1013
+"Ich denke ich schaffe es von hier
+aus alleine zu den ==qgiver_,"
+ 
+_witch_ dankt Euch und
+schreitet ihres Weges.
+
