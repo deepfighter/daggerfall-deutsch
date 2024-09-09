@@ -102,7 +102,7 @@ Mit Eurem Glückswert von %luc erhaltet Ihr den Status:[/center]
 [/end]"
 8,"Die Ausbildung kostet %a.[/center]
 Wollt Ihr mit der Ausbildung beginnen?[/end]"
-10,"Ich denke, sie haben eine in %fcn.[/end]"
+10,"Ich denke, sie haben einen in %fcn.[/end]"
 11,"Ich habe keine Ahnung.[/record]
 Ehrlich, ich kann es Euch nicht sagen.[/record]
 Weiß nicht, wirklich ...[/record]
@@ -145,7 +145,9 @@ möchtet Ihr wie viele ablegen?[/center]
 [/end]"
 30,"Ihr seid nicht krank.[/center]
 [/end]"
-31,Wollt Ihr nach %tcn reisen?[/end]
+31,"Wollt Ihr reisen nach[/center]
+%tcn ?[/center]
+[/end]"
 32,"Die Seele wurde befreit.[/center]
 [/end]"
 33,"Ihr könnt magische Gegenstände nicht reparieren.[/record]
@@ -739,17 +741,16 @@ sein. Wählt mehr Vorteile, um den Pfeil herauf- und[/center]
 mehr Nachteile, um ihn herunterzubewegen[/center]
 [/end]"
 307,"Die Spielerreflexe beeinflussen die Gesamtgeschwindigkeit[/center]
-des Spiels. Wenn Ihr SEHR HOCH auswählt,[/center]
-bewegen und attackieren Euch die Kreaturen sehr schnell,[/center]
-was Euch zwingt, unmittelbar zu reagieren.[/center]
-SEHR LANGSAM bedeutet, dass sich die Kreaturen langsamer[/center]
-bewegen und angreifen, was Euch einen vorsichtigeren,[/center]
-überlegteren Spielstil ermöglicht. Euer Charakter wird bei[/center]
-einer niedrigen Reflexeinstellung etwas langsamer, bei[/center]
-einer hohen etwas schneller aufsteigen.[/center]
-Die Reflexstufe Eures Charakters beeinflusst auch die Reaktions-[/center]
-geschwindigkeit Eures Charakters. Einmal ausgewählt, ist dies nicht[/center]
-mehr änderbar.[/center]
+des Spiels. Wenn Ihr SEHR HOCH auswählt, bewegen und[/center]
+attackieren Euch die Kreaturen sehr schnell, was Euch zwingt,[/center]
+unmittelbar zu reagieren. SEHR LANGSAM bedeutet, dass[/center]
+sich die Kreaturen langsamer bewegen und angreifen, was[/center]
+Euch einen vorsichtigeren, überlegteren Spielstil ermöglicht.[/center]
+Euer Charakter wird bei einer niedrigen Reflexeinstellung[/center]
+etwas langsamer, bei einer hohen etwas schneller aufsteigen.[/center]
+Die Reflexstufe Eures Charakters beeinflusst auch die[/center]
+Reaktionsgeschwindigkeit Eures Charakters. Einmal ausgewählt,[/center]
+ist dies nicht mehr änderbar.[/center]
 [/end]"
 349,Ihr wartet nicht länger.[/end]
 350,Ihr seid geheilt.[/end]
@@ -1529,7 +1530,7 @@ Die Priester und Priesterinnen der Luftgöttin versammeln sich, um ihre Schutzpa
 880,"Die Rittermentoren sind dem Ruf Julianos' verpflichtet, dem Gott der Weisheit und des Lernens. Während die Schulen von Julianos hauptsächlich lehren, beschützen die Rittermentoren die Weisen und bekämpfen die allgegenwärtigen Mächte der Unwissenheit.[/end]"
 881,"Der Orden der Lilie besteht aus Rittern, die sich dem Ideal Dibellas verpflichtet haben, der Göttin der Schönheit. Sie beschützen ihre Häuser sterben für sie sehr hübsch, wenn es nötig ist.[/end]"
 882,"Die Kreuzritter sind die Ritter von Stendarr, dem Gott der Gnade. Sie beschützen die Tempel von Stendarr und agieren als seine erbarmungsvolle Klinge, wenn es die Situation erfordert.[/end]"
-883,"Der Kynaranische Orden besteht aus jenen Rittern, die ihre Seele, ihren Körper und ihr Schwert Kynareth, der Göttin der Luft, gewidmet haben. Meistens sind sie in Begleitung ihrer Priester aus dem Tempel von Kynareth.[/end]"
+883,"Der Kynarische Orden besteht aus jenen Rittern, die ihre Seele, ihren Körper und ihr Schwert Kynareth, der Göttin der Luft, gewidmet haben. Meistens sind sie in Begleitung ihrer Priester aus dem Tempel von Kynareth.[/end]"
 884,"Der Orden des Drachen besteht aus den besten Rittern der Streitmacht von Dolchsturz, vereint durch Gelöbnisse, dem Königreich und der Königsfamilie zu dienen.[/end]"
 885,"Der Orden der Kerze ist der Ritterorden, der mit dem Schutz der königlichen Familie und des Königreichs Schildwacht betraut ist.[/end]"
 886,Die Ritter der Rose sind als Beschützer und Krieger der Königsfamilie und des Königreichs Wegesruh geweiht.[/end]
@@ -5110,7 +5111,7 @@ Möglichkeit des Beitritts zu den Kreuzrittern offen.[/center]
 Kynareth, eine Abzweigung ihres Tempels[/center]
 mit dem Ziel, in ganz Tamriel für ihre[/center]
 Sache zu kämpfen. Als Mitglieder des[/center]
-Kynaranischen Ordens werden wir vom[/center]
+Kynarischen Ordens werden wir vom[/center]
 Tempel für unsere Fertigkeiten und[/center]
 unsere Treue geschätzt, und es wird[/center]
 uns vollständiger Zugang zu seinen[/center]
@@ -5119,7 +5120,7 @@ natürlich dem jeweiligen Ordensrang[/center]
 entsprechend, versteht sich.[/center]
 [/center]
 Mögliche Kandidaten für den Beitritt[/center]
-in den Kynaranischen Orden werden[/center]
+in den Kynarischen Orden werden[/center]
 aufgrund ihrer kämpferischen Fertigkeiten[/center]
 und ihres Ansehens im Tempel ausgewählt.[/center]
 [/end]"
@@ -5181,7 +5182,7 @@ Thaumaturgie, Mystik und Veränderung.[/center]
 Wollt Ihr, dass Euer Charakter ein Heiler wird?[/center]
 [/end]"
 2105,"Nachtklingen nutzen ihre magischen Fähigkeiten,[/center]
-um ihre Täuschungen zu unterstützten. Sie ähneln[/center]
+um ihre Täuschungen zu unterstützen. Sie ähneln[/center]
 Dieben, aber mit der Möglichkeit, Magie zu nutzen.[/center]
 [/center]
 Die wichtigsten Fertigkeiten für Nachtklingen sind:[/center]
@@ -5611,7 +5612,7 @@ Haus %ln[/record]
 %ln-Herrenhaus[/end]"
 4055,Orden des Arkay[/end]
 4056,Resolution des Zenithar[/end]
-4057,Barmherzigkeit der Mara[/end]
+4057,Barmherzigkeit Maras[/end]
 4058,Kantorei des Akatosh[/end]
 4059,Haus der Dibella[/end]
 4060,Schule des Julianos[/end]
@@ -7285,7 +7286,7 @@ innerhalb der Resolution. Ihr steht als lebendiger[/center]
 Beweis für die Werte harter, ehrlicher Arbeit.[/center]
 [/end]"
 5244,"Seid stolz auf Euch, %pcf.[/center]
-Die Barmherzigkeit der Mara hat entschieden, Euch[/center]
+Die Barmherzigkeit Maras hat entschieden, Euch[/center]
 den Titel %lev zu verleihen.[/center]
 Die Schönheit Eurer Anstrengungen und Leistungen[/center]
 ist nicht unbeachtet geblieben.[/center]

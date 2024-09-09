@@ -32,7 +32,7 @@ smallerDungeonsInfo,                                Zufällige Dungeons haben nu
 randomDungeonTextures,                              Dungeon-Texturen
 randomDungeonTexturesInfo,                          Generiert die Texturtabelle für Dungeons aus einer zufälligen Auswahl.
 cameraRecoilStrength,                               Kamera-Rückstoßstärke
-cameraRecoilStrengthInfo,                           Stärke des Rückstoßes, wenn der Spieler Schaden nimmt. Skaliert mit dem Schaden.
+cameraRecoilStrengthInfo,                           Stärke des Rückstoßes wenn der Spieler Schaden nimmt. Skaliert mit dem Schaden.
 mouseSensitivity,                                   Mausempfindlichkeit
 mouseSensitivityInfo,                               Empfindlichkeit der Mausbewegung
 weaponSensitivity,                                  Waffensensitivität
@@ -56,7 +56,7 @@ spellShadowsInfo,                                   Aktiviere Zauberschatten.
 instantRepairs,                                     Sofortige Reparaturdienstleistungen
 instantRepairsInfo,                                 Deaktiviert das Warten und Erledigt Reparaturen sofort.
 bowDrawback,                                        Bögen - Spannen und Lösen
-bowDrawbackInfo,                                    Ermöglicht das Zurückziehen eines Bogens beim Halten der rechten Maustaste; Loslassen, um zu schießen.
+bowDrawbackInfo,                                    Ermöglicht das Zurückziehen eines Bogens beim Halten der rechten Maustaste; Loslassen um zu schießen.
 toggleSneak,                                        Schleichmodus umschalten
 toggleSneakInfo,                                    Erlaubt das Umschalten der Schleichaktion anstelle des Haltens.
 
@@ -71,7 +71,7 @@ toolTipBackgroundColorInfo,                         Hintergrundfarbe für Toolti
 crosshair,                                          Fadenkreuz
 crosshairInfo,                                      Aktivieren des Fadenkreuzes
 vitalsIndicators,                                   Lebensanzeige-Indikatoren
-vitalsIndicatorsInfo,                               Zeigt Indikatoren auf den Lebensbalken an, die Änderungen in den Lebenswerten anzeigen
+vitalsIndicatorsInfo,                               Zeigt Indikatoren auf den Lebensbalken an die Änderungen in den Lebenswerten anzeigen
 interactionModeIcon,                                Interaktionsmodus-Symbol
 interactionModeIconInfo,                            Stil des Kontextsymbols für den Interaktionsmodus
 arrowCounter,                                       Pfeilzähler
@@ -93,7 +93,7 @@ geographicBackgroundsInfo,                          Kontextbezogene Charakterhin
 dungeonExitWagonPrompt,                             Aufforderung zum Wagenzugang im Dungeon
 dungeonExitWagonPromptInfo,                         Aufforderung zum Wagenzugang beim Verlassen des Dungeons. (Der Wagen ist immer innerhalb von 5m vom Ausgang aus zugänglich)
 travelMapLocationsOutline,                          Konturlinien für Reisekartenorte
-travelMapLocationsOutlineInfo,                      Zeichnen Sie eine Kontur um Orte auf regionalen Karten, um die Sichtbarkeit zu verbessern
+travelMapLocationsOutlineInfo,                      Zeichnen Sie eine Kontur um Orte auf regionalen Karten um die Sichtbarkeit zu verbessern
 guildQuestListBox,                                  Liste für Gildenquests
 guildQuestListBoxInfo,                              Trägt qualifizierte Gildenquests in einer Listenbox zusammen
 bowLeftHandWithSwitching,                           Bögen nur in der linken Hand ausrüsten
@@ -111,9 +111,9 @@ automapHouseColorInfo,                              Farbe von Wohnhäusern auf d
 dungeonMicMapQoL,									Mikro-Karte QoL umschalten
 dungeonMicMapQoLInfo,								Falsch = Verwendet klassische Mikrokarten-Farben | Wahr = Verwendet Qol Mikrokarten-Farben
 dunMicMapInnerColor,                                Innerer Blockfarbe
-dunMicMapInnerColorInfo,                            Farbe, die die inneren Dungeon-Blöcke auf der Mikrokarte haben werden, wenn die QoL-Option aktiv ist
+dunMicMapInnerColorInfo,                            Farbe die die inneren Dungeon-Blöcke auf der Mikrokarte haben werden wenn die QoL-Option aktiv ist
 dunMicMapBorderColor,                               Äußere Blockfarbe
-dunMicMapBorderColorInfo,                           Farbe, die die rahmenbildenden Dungeon-Blöcke auf der Mikrokarte haben werden, wenn die QoL-Option aktiv ist
+dunMicMapBorderColorInfo,                           Farbe die die rahmenbildenden Dungeon-Blöcke auf der Mikrokarte haben werden wenn die QoL-Option aktiv ist
 
 
 modSystem,                                          Mod-System
@@ -121,15 +121,15 @@ modSystemInfo,                                      Unterstützung für Mods akt
 assetInjection,                                     Asset-Injektion
 assetInjectionInfo,                                 Import von Asset-Überschreibungen aus aktivierten Mods und Loose Files.
 compressModdedTextures,                             Komprimierung modifizierter Texturen
-compressModdedTexturesInfo,                         Importiert komprimierte Texturen, die weniger Grafikspeicher benötigen.
+compressModdedTexturesInfo,                         Importiert komprimierte Texturen die weniger Grafikspeicher benötigen.
 gameConsole,                                        Terminal/Konsole
 gameConsoleInfo,                                    Eingabe für Konsolenbefehle aktivieren
 nearDeathWarning,                                   Warnung bei nahendem Tod
-nearDeathWarningInfo,                               Blinkende/Pulsierende Bildschirmeffekte anzeigen, um vor dem Nahen Tod zu warnen.
+nearDeathWarningInfo,                               Blinkende/Pulsierende Bildschirmeffekte anzeigen um vor dem Nahen Tod zu warnen.
 alternateRandomEnemySelection,                      Alternative Zufallsauswahl für Gegner
 alternateRandomEnemySelectionInfo,                  Erstellt zufällige Gegner in Dungeons mit mehr Variabilität.
 advancedClimbing,                                   Erweitertes Klettersystem
-advancedClimbingInfo,                               Wandklettern in alle Richtungen, mit abspringen und festhalten
+advancedClimbingInfo,                               Wandklettern in alle Richtungen mit abspringen und festhalten
 dungeonAmbientLightScale,                           Leuchtstärke Dungeonlicht
 dungeonAmbientLightScaleInfo,                       Stärke der Umgebungsbeleuchtung in Dungeons
 nightAmbientLightScale,                             Leuchtstärke Nachtlicht
@@ -139,11 +139,11 @@ playerTorchLightScaleInfo,                          Stärke der Spielerfackel
 playerTorchFromItems,                               Spielerfackel basierend auf Gegenständen
 playerTorchFromItemsInfo,                           Spielerfackel wird durch im Spiel vorhandene Lichtquellen aktiviert
 combatVoices,                                       Kampfschrei
-combatVoicesInfo,                                   Spieler und NPCs geben Laute von sich, wenn sie angreifen oder getroffen werden
+combatVoicesInfo,                                   Spieler und NPCs geben Laute von sich wenn sie angreifen oder getroffen werden
 enemyInfighting,                                    Feindseligkeit unter Gegnern
-enemyInfightingInfo,                                KI-Charaktere kämpfen gegeneinander, wenn sie nicht verbündet sind
+enemyInfightingInfo,                                KI-Charaktere kämpfen gegeneinander wenn sie nicht verbündet sind
 enhancedCombatAI,                                   Erweiterte Kampf-Ki
-enhancedCombatAIInfo,                               Verschiedene Verbesserungen der Kampf-KI, die im Originalspiel nicht vorhanden sind
+enhancedCombatAIInfo,                               Verschiedene Verbesserungen der Kampf-KI die im Originalspiel nicht vorhanden sind
 allowMagicRepairs,                                  Magische Gegenstandsreparaturen zulassen
 allowMagicRepairsInfo,                              Ermöglicht die Reparatur magischer Gegenstände
 
@@ -154,7 +154,7 @@ fullscreenInfo,                                     Vollbild aktivieren
 exclusiveFullscreen,                                Exklusives Vollbild
 exclusiveFullscreenInfo,                            Exklusives Vollbild aktivieren
 runInBackground,                                    Im Hintergrund ausführen
-runInBackgroundInfo,                                Soll das Spiel im Hintergrund weiterlaufen, wenn es nicht mehr das aktive Fenster ist
+runInBackgroundInfo,                                Soll das Spiel im Hintergrund weiterlaufen wenn es nicht mehr das aktive Fenster ist
 qualityLevel,                                       Qualitätsstufe
 qualityLevelInfo,                                   Allgemeine Qualitätsstufe
 mainFilterMode,                                     Hauptfilter
@@ -168,7 +168,7 @@ antiAliasingMethodInfo,                             Anti-Aliasing-Methode auswä
 ambientOcclusionIntensity,                          Intensität der Umgebungsokklusion
 ambientOcclusionIntensityInfo,                      Die Intensität des Postprozesseffekts für Umgebungsokklusion einstellen
 fovSlider,                                          Sichtfeld
-fovSliderInfo,                                      Der sichtbare Bereich, der dargestellt wird
+fovSliderInfo,                                      Der sichtbare Bereich der dargestellt wird
 terrainDistance,                                    Terrain-Entfernung
 terrainDistanceInfo,                                Maximale Entfernung der aktiven Terrains von der Spielerposition
 shadowResolutionMode,                               Schattenauflösung
@@ -181,6 +181,27 @@ exteriorLightShadows,                               Schatten im Freien
 exteriorLightShadowsInfo,                           Sonnenlicht wirft Schatten
 ambientLitInteriors,                                Vereinfachte Innenbeleuchtung
 ambientLitInteriorsInfo,                            Verwendet weniger komplexe Beleuchtung für höhere Leistung in Innenräumen
+
+- Configure Joystick Controls UI
+
+rightClickString,                                   Rechtsklick
+middleClickString,                                  Mittelklick
+leftClickString,                                    Linksklick
+backString,                                         Zurück
+configureJoystickControls,                          Joystick konfigurieren
+continue,                                           WEITER
+enableController,                                   Controller aktivieren
+invert,                                             Invertieren
+lookSensitivity,                                    Blickempfindlichkeit
+uiMouseSensitivity,                                 UI Mausempfindlichkeit
+maximumMovementThreshold,                           Maximale Bewegungsgrenze
+deadzone,                                           Totzone
+movementH,                                          Bewegung Hoch
+movementV,                                          Bewegung Vert.
+cameraH,                                            Kamera Hoch
+cameraV,                                            Kamera Vert.
+primary,                                            Primär
+secondary,                                          Sekundär
 
 - Options shared among sliders. Missing keys use default text.
 

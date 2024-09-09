@@ -4,7 +4,7 @@ schema: *key,text
 
 modLoadPriority,            Ladereihenfolge
 modTitle,                   Ausgewählt
-modDescription,             Beschreibung Modifikation
+modDescription,             Mod-Beschreibung
 modVersion,                 Version
 modAuthor,                  Autor
 modAuthorContact,           Kontakt
@@ -47,24 +47,24 @@ resetConfirmation,          Alle Einstellungen auf Standardwerte zurücksetzen?
 cleanConfigurationDir,      Konfigurationsdateien für unbekannte und deinstallierte Mods gefunden. Möchtet Ihr diese entfernen?
 
 backToOptions,              Optionen
-backToOptionsInfo,          Zurück zum Optionsmenü ohne zu speichern
+backToOptionsInfo,          Zurück ohne zu speichern
 modsFound,                  Gefundene Modifikationen
 settings,                   Einstellungen
 settingsInfo,               Mod-Einstellungen ändern
 presets,                    Voreinstellungen
 
-presetCreator,              Voreinstellungen Ersteller
-presetNewInfo,              Erstellt aus den aktuellen Einstellungen neue Voreinstellungen.
-presetLoadInfo,             Voreinstellung laden und auf aktuelle Einstellungen anwenden.
+presetCreator,              Ersteller der Voreinstellungen
+presetNewInfo,              Neue Voreinstellungen aus den aktuellen Einstellungen.
+presetLoadInfo,             Voreinstellungen laden und auf aktuelle Einstellungen anwenden.
 presetSaveInfo,             Aktuelle Einstellungen in ausgewählter Voreinstellung speichern.
 presetDeleteInfo,           Ausgewählte Voreinstellungen löschen.
-presetExportInfo,           Ausgewählte Voreinstellungen in eine Datei exportieren, die geteilt werden kann.
+presetExportInfo,           Ausgewählte Voreinstellungen zum Teilen exportieren.
 titleOrDescriptionMissing,  Titel und Beschreibung sind Pflichtfelder.
 
-dependencyErrorMessage,                 Eine oder mehrere Modifikationen könnten möglicherweise nicht richtig funktionieren:
+dependencyErrorMessage,                 Eine oder mehrere Mods könnten möglicherweise nicht richtig funktionieren:
 dependencyIsMissing,                    Abrufen von Mod {0} fehlgeschlagen
 dependencyNotEnabled,                   Mod-Abhängigkeit {0} ist nicht aktiviert
 dependencyWithIncorrectPosition,        {0} muss in der Ladereihenfolge darüber positioniert werden
-dependencyWithIncompatibleVersion,      {0} hat Version {1}, aber {2} oder höher wird benötigt
-sortModsQuestion,                       Möchtet Ihr die Modifikationen automatisch sortieren?
+dependencyWithIncompatibleVersion,      {0} hat Version {1} aber {2} oder höher wird benötigt
+sortModsQuestion,                       Möchtet Ihr die Mods automatisch sortieren?
 gameVersionUnsatisfied,                 Erfordert Daggerfall Unity v.{0} oder höher

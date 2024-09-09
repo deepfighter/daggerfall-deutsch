@@ -28,6 +28,7 @@ youCollectArrows,Du ziehst deine Pfeile aus dem Leichnam.,,,
 loiterHowManyHours,Wie lange warten :,,,
 restHowManyHours,Wie lange rasten :,,,
 potionRecipeFor,Trankrezept für %po,,,
+potionRecipeWeight,Gewicht: %kg kg,,,
 potionOf,Rezept für %po.,,,
 letterPrefix,Brief:,,,
 multipleAssignments,Ihr habt etwas mehrfachbelegt...,,,
@@ -853,7 +854,7 @@ reqIngredients,Ihr habt nicht die erforderlichen Zutaten.,,,
 region,Region,,,
 account,Konto,,,
 loan,Darlehen,,,
-dueDate,Fälligkeitsdatum des Darlehens,,,
+dueDate,Fälligkeitsdatum,,,
 noAccount,Kein Konto,,,
 loanReminder,"Ihr habt ein Darlehen in Höhe von {0} Goldstücken, das in",,,
 loanReminder2,weniger als {0} Monaten in {1} fällig wird,,,
@@ -1599,6 +1600,6 @@ jo
 Jo
 JO",,,
 random,Zufall,,,
-nordSurnameImmutableSuffix,sen
-confirmDefaultControls,Seid Ihr sicher die Standardsteuerung einzustellen?
-saveLoadPromptFormat,{0} für '{1}'
+nordSurnameImmutableSuffix,sen,,,
+confirmDefaultControls,Seid Ihr sicher die Standardsteuerung einzustellen?,,,
+saveLoadPromptFormat,{0} für '{1}',,,

@@ -12,21 +12,23 @@ restart,                    Neustart
 restartInfo,                Einstellungen von neuen beginnen
 exit,                       Beenden
 modNote,                    Hinweis: Das Aktivieren von Modifikationen kann die Leistungsanforderungen erhöhen
+settingsFolder,             Einstellungsordner
+settingsFolderInfo,         Doppelklick zum Ordner öffnen
 
 alwayShowOptions,           Dieses Fenster immer anzeigen
-alwayShowOptionsInfo,       Dieses Fenster beim Start immer anzeigen,\rSonst verwendet die settings.ini für Einstellungen
+alwayShowOptionsInfo,       Dieses Fenster beim Start immer anzeigen\rSonst verwendet die settings.ini für Einstellungen
 vsync,                      Vertikale Synchronisation
 vsyncInfo,                  Bildwiederholfrequenz (FPS) mit Monitor synchronisieren
 swapHealthAndFatigue,       Tauschen von Gesundheit & Ausdauer
 swapHealthAndFatigueInfo,   Farbtausch des Gesundheits- und Ausdauerbalkens
 invertMouseVertical,        Maus umkehren
 invertMouseVerticalInfo,    Vertikale Mausbewegung umkehren
-mouseSmoothing,             Mauslook-Glättung
+mouseSmoothing,             Mausblick-Glättung
 mouseSmoothingInfo,         Grad der Glättung der Ego-Perspektivenkamera
 leftHandWeapons,            Waffen in linker Hand
 leftHandWeaponsInfo,        Waffen auf der linken Bildschirmseite anzeigen
-playerNudity,               Spieler-Nacktheit
-playerNudityInfo,           Nacktheit auf der Spieler-Papierfigur erlauben
+playerNudity,               Nacktheit-Spieler
+playerNudityInfo,           Nacktheit an der Spielerfigur erlauben
 weaponSwingMode,            Waffenschwung-Modus
 weaponSwingModeInfo,        Aktivieren von Klick/Gedrückthalten zur Auslösung von Angriffen
 sdfFontRendering,           SDF-Schriftart-Rendern
@@ -35,7 +37,7 @@ enableController,           Controller aktivieren
 enableControllerInfo,       Erlaubt das Erkennen und Verwenden von Joysticks oder anderen Controllern im Spiel
 
 findArena2Tip,              Hinweis: Daggerfall enthält einen Ordner namens 'arena2'
-foundArena2But,             Ordner 'arena2' gefunden, aber
+foundArena2But,             Ordner 'arena2' gefunden aber
 missingTextures,            es fehlen eine oder mehrere TEXTURE files
 missingModels,              es fehlt ARCH3D.BSA
 missingBlocks,              es fehlt BLOCKS.BSA
@@ -45,8 +47,9 @@ missingWoods,               es fehlt WOODS.WLD
 missingVideos,              es Fehlende eine oder mehrere .VID files
 justNotValid,               er scheint ungültig zu sein
 pathValidated,              Super! Dies sieht nach einem gültigen Daggerfall-Ordner aus :)
+hiddenFolders,              Zeigt versteckte Ordner an
 testText,                   Test
 okText,                     OK
 keepSetting,                Diese Einstellung beibehalten? Änderungen werden in 8 Sekunden rückgängig gemacht.
 incompatibleMods,           Ein oder mehrere Mods sind mit der aktuellen Version des Spiels nicht kompatibel. Bitte überprüfen Sie die Mod-Details für weitere Informationen. Möchten Sie trotzdem fortfahren?
-showOptionsAgain,           Halten Sie die Umschalttaste gedrückt, wenn Sie Daggerfall Unity starten, um den Launcher erneut anzuzeigen.
+showOptionsAgain,           Halten Sie die Umschalttaste gedrückt wenn Sie Daggerfall Unity starten um den Launcher erneut anzuzeigen.
