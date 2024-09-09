@@ -186,7 +186,7 @@ e.	Affenstrolch
 11.	Zu welchem Gott betet Ihr, wenn überhaupt?
 a.	Zu keinem
 	r2 +5
-b.	Arkay, Gott v. Geburt u. Tod
+b.	Arkay, Gott von Geburt und Tod
 	rf82 +5
 c.	Zenithar, Gott des Handels
 	rf84 +5
