@@ -1,0 +1,48 @@
+
+                      _____      __    __           __    __ 
+                     / ___/_____/ /_  / /___ ______/ /_  / /_
+                     \__ \/ ___/ __ \/ / __ `/ ___/ __ \/ __/
+                    ___/ / /__/ / / / / /_/ / /__/ / / / /_  
+                   /____/\___/_/ /_/_/\__,_/\___/_/ /_/\__/  
+                                                           
+                                                        
+                 ein tamrielisches Brettspiel für zwei Spieler.
+
+==============================================================================
+    _________________________
+ -=/      INFO-TABELLE       \=-
+ *****************************************************************************
+ ***  Schlacht, ein tamrielisches Brettspiel für zwei Spieler              ***
+ *****************************************************************************
+ *** Date Created:-  2008 - 2016                                           ***
+ *** Edition:-       1.0 [First Release]                                   ***
+ *** Created By:-    Killfetzer & Frank 'Deepfighter' Schwalb              ***
+ *** e-mail:-        daggerfalldeutsch@gmail.com                           ***
+ *** Website:-       http://schlacht.daggerfalldeutsch.de                  ***
+ *****************************************************************************
+ *** Alle Dokumente und Inhalte im Zusammenhang mit „Schlacht“ sind unter  ***
+ *** der Creative Commons Lizenz Namensnennung - Nicht kommerziell - Keine ***
+ *** Bearbeitungen 4.0 International lizenziert.                           ***
+ ***                                                                       ***
+ *** Lizenzlink: http://creativecommons.org/licenses/by-nc-nd/4.0/deed.de  ***
+ *****************************************************************************
+ 
+ Liebe Spieler von "Schlacht",
+ 
+ wir freuen uns Euch unser kleines Projekt zu veröffentlichen. Nach einiger
+ Vorarbeit, haben wir es 2016 geschafft endlich das Grundspiel umzusetzen.
+ Wir haben selbst einige Partien gespielt was gut funktionierte.
+ 
+ Wir haben auch schon Ideen für weitere Editionen und Abwandlungen.
+ Die Schlachten auf Tamriel sind ja vielfältig wie Ihr wisst. Wir würden uns
+ im gleichen Atemzug auch sehr über Feedback freuen, denn wir wissen, dass
+ wir das Spiel nur durch Spielen und viele unterschiedliche Spielweisen
+ verbessern können. Also teilt und einfach ehrlich Eure Meinung mit -
+ Ihr bekommt auf jeden Fall eine Antwort.
+ 
+ Jetzt können wir Euch nur noch viel Spaß beim Spielen von "Schlacht" wünschen!
+ 
+ Euer
+ Killfetzer & Deepfighter
+
+==============================================================================
