@@ -53,8 +53,9 @@ _qgiver_ sein Wort für Euch einlegt,
 Euer Ruf nie mehr derselbe sein wird.
 
 RumorsDuringQuest:  [1005]
-Im _inn_ haben sie immer die besten Informationen.<--->
-Wenn ich die Wahl hätte, würde ich mir meine Informationen im _inn_ holen.
+Im _inn_, in __inn_ haben sie immer die besten Informationen.
+<--->
+Wenn ich die Wahl hätte, würde ich mir meine Informationen im _inn_, in __inn_, holen.
 <--->
 Wenn sie diesen %ra-Dieb finden, werden sie seine Hinrichtung richtig feiern.
 <--->
@@ -98,7 +99,7 @@ _merchant_ ist ein hart arbeitender und im Prinzip ehrlicher Händler von ___mer
 <--->
 Ist keiner, der seinen Kunden zuviel berechnet, dieser _merchant_. Zumindest nicht viel zu viel.
 <--->
-_merchant_, eh? Um diese Tageszeit findet Ihr %g2 drüben in der __merchant_.
+_merchant_, eh? Um diese Tageszeit findet Ihr %g2 drüben in der _merchanthome_, in __merchanthome_.
 <--->
 Wie _priest_ gesagt hat, _merchant_ ist eine Schande für ganz %reg.
 <--->
@@ -109,7 +110,7 @@ _noble_ ist ein Adliger von ___noble_. %oth, %g3 Familie regierte seit Ewigkeite
 <--->
 _noble_ ist das typische Beispiel fuer Personen %g3 Standes -- dekadent, skrupellos, arrogant.
 <--->
-_noble_ verbringt %g3 Zeit in der __noble_ this time of day.
+_noble_ ist um diese Tageszeit in der __noblehome_, in __noblehome_.
 <--->
 _thief_ mag _noble_ nicht besonders, im Gegensatz zu allen anderen.
 <--->
@@ -120,7 +121,7 @@ _priest_ ist doch ein Kleriker vom ==priest_ und ein recht eifriger noch dazu.
 <--->
 _priest_ ist über die Skandale hinausgewachsen, die %g2 in der Anfangszeit im ==priest_ geplagt haben.
 <--->
-Man findet _priest_ um diese Zeit normalerweise in Mediation versunken im __priest_.
+Man findet _priest_ um diese Zeit normalerweise in Mediation versunken im _priesthome_, in __priesthome_.
 <--->
 So gut wie jeder in ___priest_, außer _noble_, hat großen Respekt vor _priest_.
 <--->
@@ -140,7 +141,7 @@ _thief_ kann _noble_ nicht ausstehen, trotz des noblen Bluts dieses =noble_.
 Message:  1016
 _witness_ ist der Name dieses =witness_, der den Diebstahl im __qgiver_ beobachtet hat.
 <--->
-_witness_ ist nur ein =witness_. Ihr findet %g2 drüben in der__witness_.
+_witness_ ist nur ein =witness_. Ihr findet %g2 drüben in der__witness_, ___witness_.
 
 Message:  1017
 Ein zerlumpter Bettlerjunge drückt Euch plötzlich
@@ -316,16 +317,16 @@ Seid gegrüßt %pcn,
   -- Ein Freund
 
 Message:  1025
-Ihr seid es! Ihr seid der Dieb, der das
-__qgiver_ ausgeraubt hat!  Wachen!
-Wachen!
+"Ihr seid es! Ihr seid der Dieb, der das
+__qgiver_ ausgeraubt hat!
+Wachen! Wachen!"
  
 _witness_ schiebt Euch eine
 Nachricht zu, als %g flieht.
 <--->
-Das ist der %ra , der das
+"Das ist der %ra , der das
 __qgiver_ ausgeraubt hat!
-Jemand muss mir helfen!
+Jemand muss mir helfen!"
  
 _witness_ schiebt Euch eine
 Nachricht zu, als %g flieht.
@@ -392,7 +393,7 @@ Message:  1032
 %qdt:
  Mir wurde aus anonymer Quelle ein Brief
  gesannt, der jemanden namens _thief_
- als notorischen Juewelendieb identifiziert,
+ als notorischen Juwelendieb identifiziert,
  der gleich in ___thief_ wohnt. Auch wenn
  %g __qgiver_ nicht  ausgeraubt
  haben sollte, könnte eine Unterredung vielleicht
@@ -401,7 +402,8 @@ Message:  1032
 Message:  1033
 %pcn,
  
-     Trefft mich in der _withouse_.
+ Trefft mich in der _withouse_,
+ hier in __withouse_.
  
 _witness_
 
@@ -745,9 +747,11 @@ _thiefhouse_
   %n
 
 Message:  1052
-Dies scheint wirklich ein schwerwiegender Beweis
-zu sein. Nun müsst Ihr überlegen, wem Ihr
-diesen Brief gebt.
+Dies scheint mir ein schwerwiegender Beweis.
+Hoffentlich vermögt Ihr einen Freund von
+_qgiver_ aufzutreiben, der %g2 nach
+dem Lesen hiervon überzeigt, aus
+seinem Versteck heraus zu kommen.
 
 Message:  1053
 _noble_ steckte hinter dem Einbruch?
@@ -834,14 +838,23 @@ in ___qgiver_ wiederherzustellen.
 Es wäre ratsam, eine Zeit lang einen Bogen um das
 Gebiet zu machen.
 
+Message:  1061
+%qdt:
+ Es ist mir zugetragen worden, dass eine
+ Person namens _witness_ mich
+ der Entwendung des _gem_
+ bezichtigt. Ich sollte nach dieser
+ Person suchen.
+
 Message:  1091
 %qdt:
  Ich traf mich mit _witness_
  und mir wurde erzählt, dass _merchant_
  hinter dem Diebstahl des _gem_ steckt.
  %g verbringt %g3 Nächte zuhause in der
- _thiefhouse_ und hat ein geheimes Versteck
- in ___mondung_.
+ _thiefhouse_ von ___thiefhouse_
+ und hat ein geheimes Versteck in
+ ___mondung_.
  Ich könnte immer noch aus diesem
  Schlammasel herauskommen.
 
@@ -851,8 +864,9 @@ Message:  1092
  und mir wurde erzählt, dass _noble_
  hinter dem Diebstahl des _gem_ steckt.
  %g verbringt %g3 Nächte zuhause in der
- _thiefhouse_ und hat ein geheimes Versteck
- in ___mondung_.
+ _thiefhouse_ von ___thiefhouse_
+ und hat ein geheimes Versteck in
+ ___mondung_.
  Ich könnte immer noch aus diesem
  Schlammasel herauskommen.
 
@@ -862,8 +876,9 @@ Message:  1093
  und mir wurde erzählt, dass _priest_
   hinter dem Diebstahl des _gem_ steckt.
  %g verbringt %g3 Nächte zuhause in der
- _thiefhouse_ und hat ein geheimes Versteck
- in ___mondung_.
+ _thiefhouse_ von ___thiefhouse_
+ und hat ein geheimes Versteck in
+ ___mondung_.
  Ich könnte immer noch aus diesem
  Schlammasel herauskommen.
 
@@ -873,8 +888,9 @@ Message:  1094
  und mir wurde erzählt, dass _thief_
  hinter dem Diebstahl des _gem_ steckt.
  %g verbringt %g3 Nächte zuhause in der
- _thiefhouse_ und hat ein geheimes Versteck
- in ___mondung_.
+ _thiefhouse_ von ___thiefhouse_
+ und hat ein geheimes Versteck in
+ ___mondung_.
  Ich könnte immer noch aus diesem
  Schlammasel herauskommen.
 

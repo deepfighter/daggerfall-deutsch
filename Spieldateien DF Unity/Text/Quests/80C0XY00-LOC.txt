@@ -161,7 +161,7 @@ _murder_ verantwortlich ist, wird dabei aber nie bis zum Grund vordringen.
 _murder_ wurde tot im Palast von ___ruler_
 gefunden, all %g3 Ermittlungsnotizen über den Verrat in höchsten
 Kreisen wurden gestohlen. _ruler_ wurde beauftragt,
-den Mörder von _murder_ zu finden, hat aber nichts,  womit man anfangen könnte.
+den Mörder von _murder_ zu finden, hat aber nichts,womit man anfangen könnte.
 
 Message:  1052
 _ruler_ leitet die Ermittlungen, aber bis jetzt ohne Erfolg.

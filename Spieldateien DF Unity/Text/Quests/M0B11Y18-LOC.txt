@@ -85,6 +85,8 @@ Message:  1022
  Königin Akorithi in Schildwacht, des Verrates
  überführt. Der letzte Wunsch von_target_
  war, dass ich ihr diesen Brief überbringe.
+ Sie wird dies sehen wollen, ehe =patsy_ Tage
+ vergangen sind.
 
 Message:  1023
 %qdt:

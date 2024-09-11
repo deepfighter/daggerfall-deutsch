@@ -2,303 +2,335 @@ Quest: _TUTOR__
 DisplayName: Tutorial
 QRC:
 
-RumorsDuringQuest:  [1005]
-<ce> Ich gebe Euch einen Tipp, %ra.
-<ce> Wenn Ihr in der Magie erfolgreich
-<ce> sein wollt, tretet der Magiergilde bei.
+RumorsPostFailure:  [1006]
+Ich gebe Euch einen Tipp, %ra.
+Wenn Ihr in der Magie erfolgreich
+sein wollt, tretet der Magiergilde bei.
 <--->
-<ce> Ein kleiner Tipp: Bringt Euer Geld
-<ce> auf die Bank von %reg. Lasst
-<ce> Euch dort einen Kreditbrief geben.
-<ce> Die wiegen so gut wie nichts.
+Ein kleiner Tipp: Bringt Euer Geld
+auf die Bank von %reg. Lasst
+Euch dort einen Kreditbrief geben.
+Die wiegen so gut wie nichts.
 <--->
-<ce> Besondere Gegenstände findet Ihr am
-<ce> ehesten in Fachgeschäften.
+Besondere Gegenstände findet Ihr am
+ehesten in Fachgeschäften.
 <--->
-<ce> Vor kurzem wurde ein Gesetz gegen Landstreicherei
-<ce> erlassen. Ihr dürft nicht in den Straßen schlafen.
-<ce> Die Wachen patrouillieren sogar außerhalb der Mauern.
-<ce> Ihr müsst Euch ein Zimmer in einem Gasthaus nehmen.
+Vor kurzem wurde ein Gesetz gegen Landstreicherei
+erlassen. Ihr dürft nicht in den Straßen schlafen.
+Die Wachen patrouillieren sogar außerhalb der Mauern.
+Ihr müsst Euch ein Zimmer in einem Gasthaus nehmen.
 <--->
-<ce> Jeder sollte einem Tempel beitreten. Die Frage ist nur,
-<ce> welcher Gott der Beste für Euch ist? Ich würde sie
-<ce> mir alle einmal genauer anschauen.
-
-RumorsPostfailure:  [1006]
-<ce> In der Stadt Dolchsturz spitzt sich
-<ce> die Lage zu. Wenn Ihr auf der Suche
-<ce> nach Abenteuern seid, solltet Ihr
-<ce> Euch dorthin aufmachen.
+Jeder sollte einem Tempel beitreten. Die Frage ist nur,
+welcher Gott der Beste für Euch ist? Ich würde sie
+mir alle einmal genauer anschauen.
 <--->
-<ce> Ich hörte, das Königshaus von Wegesruh
-<ce> würde für Unruhe sorgen. Gute
-<ce> Gelegenheit für Leute mit Mumm,
-<ce> beim König oder Königin nach Arbeit
-<ce> zu fragen.
+In der Stadt Dolchsturz spitzt sich
+die Lage zu. Wenn Ihr auf der Suche
+nach Abenteuern seid, solltet Ihr
+Euch dorthin aufmachen.
 <--->
-<ce> Ich hörte, Schildwacht sei ein guter Ort,
-<ce> um schnell an Gold und kleine Abenteuer
-<ce> zu kommen. Die Königsfamilie wirbt
-<ce> Helden für gefährliche Arbeiten an.
+Ich hörte, das Königshaus von Wegesruh
+würde für Unruhe sorgen. Gute
+Gelegenheit für Leute mit Mumm,
+beim König oder Königin nach Arbeit
+zu fragen.
+<--->
+Ich hörte, Schildwacht sei ein guter Ort,
+um schnell an Gold und kleine Abenteuer
+zu kommen. Die Königsfamilie wirbt
+Helden für gefährliche Arbeiten an.
 
 QuestLogEntry:  [1010]
-<ce> T h e   E l d e r   S c r o l l s  I I :  D a g g e r f a l l
+T h e   E l d e r   S c r o l l s  I I :  D a g g e r f a l l
  
-<ce> ...verfügt über ein Tutorial, das Euch während
-<ce> des Spiels aktiv unterstützen kann. Es umfasst den Weg
-<ce> durch diesen ersten Dungeon und läuft danach noch für
-<ce> kurze Zeit weiter. Möchtet Ihr das Tutorial nutzen?
+...verfügt über ein Tutorial, das Euch während des Spiels
+aktiv unterstützen kann. Daggerfall Unity hat ein aktualisiertes
+Tutorial, damit das Spiel für eine jüngere Spielerschaft noch
+leichter zugänglich ist. Es wird Euch die Grundlagen des Spiels
+lehren. Macht Euch Notizen über die Informationen, die Ihr hören
+werdet. Möchtet Ihr dieses Tutorial verwenden?
 
 Message:  1012
-<ce> Als erstes solltet Ihr mit der Steuerung Eures
-<ce> Charakters experimentieren. Macht Euch keine
-<ce> Sorgen um Monster - es gibt in diesem ersten
-<ce> Raum keine.
+<ce> Seite 1
  
-<ce> Bewegt den Cursor über den Bildschirm, wenn
-<ce> dieser Text verschwunden ist. Er verändert seine
-<ce> Form. Haltet die linke Maustaste gedrückt und
-<ce> beobachtet, was passiert. Im Blick-basierten
-<ce> Modus ändert die Bewegung Eure Blickrichtung.
+<ce> Das Erste, was Ihr tun solltet, ist, Eure Tastenbelegungen zu
+<ce> überprüfen. Drückt "Escape" und klickt auf "Steuerung". Die
+<ce> wichtigsten Tasten für den Anfang sind Eure Bewegungstasten (WASD)
+<ce> und Eure Angriffstaste (standardmäßig Linke Maustaste). Angreifen
+<ce> kann bedeuten, dass Ihr die Angriffstaste gedrückt haltet und die
+<ce> Maus bewegt; ODER die Angriffstaste einmal klickt ODER gedrückt
+<ce> haltet. Dies kann im Abschnitt "Erweitert" im Steuerungsmenü
+<ce> geändert werden.
  
-<ce> Tipp: Je näher der Cursor an den Bildschirmrand
-<ce> kommt, desto schneller bewegt Ihr Euch.
- 
-<ce> Ich komme in einer Minute wieder. Dann erkläre
-<ce> ich, wie Ihr Euch bewaffnen und gegen Monster
-<ce> kämpfen könnt.
+<ce> Stellt sicher, dass Eure Tastenbelegungen passend sind, und
+<ce> eine weitere Nachricht wird in 10 Sekunden erscheinen.
 
 Message:  1013
-<ce> Bevor Ihr mutig den Tiefen des Freibeuternests die
-<ce> Stirn bietet, solltet Ihr Euch bewaffnen. Klickt dazu
-<ce> auf das Taschensymbol [Inventar] oder drückt F6.
+<ce> Seite 2
  
-<ce> Durch einen Klick auf die Waffe nehmt Ihr sie in die
-<ce> Hand. Nun könnt Ihr Eure Waffe ziehen. Drückt den
-<ce> ENDE-Knopf, um zum Spiel zurückzukehren.
+<ce> Drückt nun [F6], um Euer Inventar zu öffnen. Rüstet Euch mit
+<ce> jeder verfügbaren Ausrüstung und Eurer besten Waffe in Eurem
+<ce> Besitz. "Beste Waffe" bedeutet eine Waffe, in der Euer Charakter
+<ce> geübt ist und/oder die aus starkem Material besteht (z.B. Silber,
+<ce> Ebenerz). Ohne diese Vorteile werdet Ihr kaum Gegner treffen. 
  
-<ce> Tipp: Ihr könnt zwei Waffen ausrüsten. Drückt die
-<ce> Taste S, um zwischen ihnen zu wechseln.
- 
-<ce> Klickt JA, um mit dem Tutorial fortzufahren,
-<ce> oder NEIN, um das Tutorial abzubrechen.
+<ce> (Nächste Nachricht in 15 Sekunden. 
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
 
 Message:  1015
-<ce> Um Eure Waffe zu ziehen, klickt auf das Symbol mit
-<ce> den gekreuzten Klingen oder drückt A. Nach dem Ausrüsten
-<ce> einer Waffe gibt es eine kurze Verzögerung, also geratet
-<ce> nicht in Panik, wenn sie nicht sofort gezogen wird.
+<ce> Seite 3
  
-<ce> Führt ein paar Übungsschwünge aus. Haltet die rechte
-<ce> Maustaste gedrückt und bewegt dabei die Maus. So
-<ce> könnt Ihr Monster bekämpfen.
+<ce> Das Ausrüsten einer Waffe erfordert eine kurze Verzögerung.
+<ce> Wenn sie bereit ist, drückt [Z], um sie zu ziehen. Ihr könnt
+<ce> auch Eure Fäuste verwenden, falls Eure Nahkampf-Fertigkeit
+<ce> hoch genug ist. Übt einige Angriffe mit der Angriffstaste.
  
-<ce> Tipp: Wenn Ihr die Maus in verschiedene Richtungen
-<ce> bewegt, führt Ihr verschiedene Angriffe mit
-<ce> Eurer Waffe aus. Die Angriffsart bestimmt die
-<ce> Trefferwahrscheinlichkeit und den zugefügten Schaden.
- 
-<ce> Ich gebe Euch jetzt eine Minute Zeit, um Euch im
-<ce> Schwertkampf zu üben.
- 
-<ce> Klickt JA, um mit dem Tutorial fortzufahren,
-<ce> oder NEIN, um das Tutorial abzubrechen.
+<ce> (Nächste Nachricht in 10 Sekunden.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
 
 Message:  1020
-<ce> Am Ende der Halle und hinter der Tür befindet
-<ce> sich eine riesige Ratte. Lasst sie uns töten!
+<ce> Seite 4
  
-<ce> Wenn Ihr zu der Tür gelangt, bewegt den als großes
-<ce> X dargestellten Cursor darauf und drückt die linke
-<ce> Maustaste, um sie zu öffnen. Auf diese Weise aktiviert
-<ce> Ihr auch andere Gegenstände wie Türen, Hebel,
-<ce> Schalter, Fundsachen und sprecht Personen an.
+<ce> Drückt [R], um zu rasten, wenn Ihr Gesundheit, Ausdauer oder
+<ce> Magicka wiederherstellen müsst. Diese Anzeigen befinden sich
+<ce> unten links auf dem Bildschirm. Ihr müsst jetzt nicht rasten,
+<ce> aber merkt es Euch für später.
  
-<ce> Wenn Ihr den Blick-basierten Modus verwendet, bringt
-<ce> einfach nur die Tür ins Zentrum des Bildschirms und
-<ce> klickt mit der linken Maustaste, um sie zu öffnen.
- 
-<ce> Tipp: Diese Tür ist eine Geheimtür. Geht, nachdem Ihr
-<ce> die Ratte getötet habt, zu der Tür zurück und klickt
-<ce> sie an. Die Tür wird sich wieder schließen.
-<ce> Nicht alle Geheimtüren sind so leicht zu sehen.
- 
-<ce> Ich bin in ein paar Minuten für die nächste Lektion zurück.
- 
-<ce> Klickt JA, um mit dem Tutorial fortzufahren,
-<ce> oder NEIN, um das Tutorial abzubrechen.
+<ce> (Nächste Nachricht in 5 Sekunden.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
 
 Message:  1025
-<ce> In dem Raum mit der Ratte liegt auf dem schwarzen
-<ce> Altar ein kleiner Schatzhaufen. Stellt Euch davor und
-<ce> klickt ihn an. Ihr gelangt dadurch automatisch in Euer
-<ce> Inventar. Der Inhalt des Schatzhaufens wird in der
-<ce> Spalte auf der rechten Seite des Inventars angezeigt.
+<ce> Seite 5
  
-<ce> Ihr könnt zwischen zwei Möglichkeiten wählen ANLEGEN
-<ce> und ABLEGEN. Klickt eine von beiden an. Wenn Ihr jetzt
-<ce> einen der Gegenstände anklickt wird er entweder in
-<ce> Eurem Inventar platziert [ABLEGEN] oder direkt von
-<ce> Eurem Charakter ausgerüstet [ANLEGEN].
+<ce> Charaktere mit magischen Fähigkeiten können auch versuchen, Zauber
+<ce> zu wirken, obwohl Gegner oft gegen Eure Zauber resistent sind.
+<ce> Drückt [Backspace], um Euer Zauberbuch zu öffnen, wenn Ihr ein
+<ce> Zauberer seid. [Doppelklickt] auf einen Zauber, um ihn vorzubereiten.
  
-<ce> Tipp: Ihr könnt mehr Informationen über den Gegenstand
-<ce> erhalten, indem Ihr zuerst auf [INFO] auswählt und
-<ce> ihn dann anklickt. 
+<ce> Einige Zauber benötigen ein Ziel, andere wirken sofort auf Euch
+<ce> selbst. Bei einem Zielzauber klickt mit der [linken Maustaste],
+<ce> um ihn zu wirken. Drückt [Q], um einen vorher gewirkten Zauber
+<ce> erneut zu aktivieren, sodass Ihr schnell hintereinander Zauber
+<ce> wirken könnt.
  
-<ce> Ich bin in einer Minute für eine Lektion über
-<ce> das Speichern des Spielstands zurück.
- 
-<ce> Klickt JA, um mit dem Tutorial fortzufahren,
-<ce> oder NEIN, um das Tutorial abzubrechen.
+<ce> (Nächste Nachricht in 10 Sekunden.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
 
 Message:  1030
-<ce> Jetzt wäre ein guter Zeitpunkt, das Spiel zu speichern,
-<ce> sofern Ihr Euch nicht mitten in einem Kampf befindet.
-<ce> Drückt [ESC] und klickt dann auf [SPIEL SPEICHERN].
-<ce> Doppelklickt auf eine der leeren Boxen und Euer Spielstand
-<ce> wird dort abgespeichert.
+<ce> Seite 6
  
-<ce> Wenn Ihr in diesem Dungeon getötet werdet, könnt Ihr damit
-<ce> zu Eurem früheren Spielstand zurückkehren, ohne einen neuen
-<ce> Charakter erstellen zu müssen.
+<ce> Wenn Ihr das Spiel noch nicht gespeichert habt, tut dies jetzt.
+<ce> Drückt [Escape] und klickt auf "Spiel speichern". Der Schnell- speichern-Button, der unter Steuerung -> Erweitert definiert ist
+<ce> (ganz unten im Steuerungsmenü), kann ebenfalls verwendet werden,
+<ce> um zu speichern.
  
-<ce> Tipp: Manchmal könnt Ihr auch an den Körpern getöteter Feinde
-<ce> Dinge von Wert finden, indem Ihr sie wie Schatzhaufen anklickt.
+<ce> (Nächste Nachricht in 10 Sekunden.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
+
+Message:  1031
+<ce> Seite 7
  
-<ce> Ich lasse Euch jetzt erstmal ein paar Minuten allein. Ihr
-<ce> könnt derweil den Dungeon auf eigene Faust weiter erforschen.
+<ce> Euer erster Schritt, um aus dieser Höhle zu entkommen, ist es,
+<ce> den Raum zu verlassen. Geht den Gang entlang, der dem Lagerfeuer
+<ce> gegenüberliegt. Nach der Biegung findet Ihr eine Tür, die wie
+<ce> eine Ziegelwand aussieht. Klickt auf die Tür, um sie zu öffnen.
+<ce> Dahinter seht Ihr einen kleinen Raum mit einer Ratte und einem
+<ce> Beutehaufen auf einem Altar.
  
-<ce> Klickt JA, um mit dem Tutorial fortzufahren,
-<ce> oder NEIN, um das Tutorial abzubrechen.
+<ce> Wenn Ihr auf den Beutehaufen klickt, öffnet sich das Inventar.
+<ce> Ihr seht den Inhalt des Beutehaufens auf der rechten Seite des
+<ce> Inventarbildschirms. Mit der Option "Ableg." markiert, klickt
+<ce> auf die Gegenstände, um sie Euch zu sichern.
+ 
+<ce> Ihr könnt auch die Leichen von Gegnern plündern, nachdem Ihr
+<ce> sie besiegt habt, aber die Ratte wird keine Schätze haben.
+ 
+<ce> (Nächste Nachricht in 45 Sekunden.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
 
 Message:  1035
-<ce> Wenn Euer Charakter magiebegabt ist, versucht, gegen das
-<ce> ächste Monster einen Zauberspruch einzusetzen.
+<ce> Seite 8
  
-<ce> Drückt die Taste [BACKSPACE], um das Zaubermenü aufzurufen.
-<ce> Wählt mit einem Doppelklick den Zauberspruch BLITZ aus.
-<ce> Dieser Spruch ist ein Berührungszauber und wirkt nur auf
-<ce> Gegner in unmittelbarer Nähe. Drückt die linke Maustaste
-<ce> während der Cursor die Form eines X hat, um den Zauber zu
-<ce> sprechen. Im Blick-basierten Modus wird der Zauberspruch
-<ce> immer in die Mitte des Bildschirms abgefeuert.
+<ce> Setzt Euren Weg durch das Verlies fort. Ihr könnt entweder
+<ce> gegen die Feinde kämpfen oder ihnen durch davonlaufen entkommen.
  
-<ce> Tipp: Ihr könnt auch dann Zauber abfeuern oder Objekte
-<ce> aktivieren, wenn der Cursor kein X ist, indem Ihr
-<ce> die rechte Maustaste benutzt.
+<ce> Ihr benötigt Waffen aus stärkeren Materialien, um einige Gegner
+<ce> zu besiegen. Der kommende Kobold kann nicht mit Eisenwaffen
+<ce> verletzt werden. Ihr benötigt Stahl oder ein stärkeres Material,
+<ce> um es zu verletzen. Eure Fäuste können auch verwendet werden,
+<ce> aber Ihr benötigt einen hohen Wert in Eurer Fertigkeit Nahkampf,
+<ce> damit es gelingt.
  
-<ce> Ich werde mit der nächsten Lektion warten, bis Ihr
-<ce> aus dem Dungeon entkommen seid.
+<ce> (Nächste Nachricht in 5 Sekunden.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
 
 Message:  1040
-<ce> Glückwunsch! Ihr habt es aus dem ersten Dungeon,
-<ce> dem Freibeuternest, herausgeschafft.
+<ce> Seite 9
  
-<ce> Ich wette, Ihr fragt Euch jetzt, was Ihr als nächstes tun
-<ce> sollt. Was Ihr jetzt braucht, ist eine Stadt. Städte bieten
-<ce> alle Dienste an, die Ihr während des Spiels benötigen werdet.
+<ce> Einige Kreaturen sind stärker als Ihr. Ihr könnt ihnen ohne
+<ce> Konsequenzen entkommen. Wenn Euch ein Feind große Probleme
+<ce> bereitet, rennt weg und lasst ihn zurück. Ihr erhaltet keine
+<ce> Erfahrungspunkte für das Töten von Feinden, daher bietet ein
+<ce> starker Feind nicht mehr Belohnung als ein schwacher.
  
-<ce> Lasst uns hierzu die Schnellreise nutzen.
- 
-<ce> (weiter...)
+<ce> (Nächste Nachricht in 5 Sekunden.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
 
 Message:  1041
-<ce> Schnellreisen könnt Ihr, indem Ihr die Taste W drückt.
-<ce> Die Region, in der Ihr Euch derzeit befindet (Dolchsturz),
-<ce> wird rot hervorgehoben. Klickt auf diese Region und Ihr seht
-<ce> eine vergrößerte Ansicht. Es gibt sehr viele Orte auf dieser
-<ce> Karte! Finden wir die Stadt Dolchsturz.
+<ce> Seite 10
  
-<ce> Klickt auf [SUCHE] und gebt DOLCHSTURZ ein.
+<ce> Einige Objekte können angeklickt werden. In der Haupthalle
+<ce> dieses Verlieses findet Ihr einen Thron und einen Hebel
+<ce> daneben. Wenn Ihr den Hebel seht, klickt darauf, um den
+<ce> Thron wie einen Aufzug anzuheben. Andere Verliese werden
+<ce> Objekte mit weiteren Effekten haben, wie Räder und geheime
+<ce> Schalter.
  
-<ce> Die bequemste Art zu reisen besteht darin, die Optionen
-<ce> [VORSICHTIG] und [IN GASTHÄUSERN] auszuwählen [Standard-
-<ce> einstellungen]. Anderenfalls riskiert Ihr, Nachts vor
-<ce> verschlossenen Stadttoren anzukommen und die Mauern
-<ce> erklettern zu müssen, um in die Stadt zu gelangen.
+<ce> Um diesem Verlies zu entkommen, müsst Ihr nach einem dunklen,
+<ce> steinernen Torbogen suchen, der in eine Wand eingelassen ist
+<ce> und etwa Eure Höhe hat. Klickt darauf, um das Verlies zu
+<ce> verlassen und in die Außenwelt zu gelangen. Die nächste
+<ce> Nachricht erscheint dann.
  
-<ce> Um dieses Tutorial fortzusetzen, solltet Ihr in eine
-<ce> große Stadt, etwa Dolchsturz reisen. Wir fahren in
-<ce> =2dagger_ Tagen mit der nächsten Lektion fort.
-<ce> Das sollte Euch genug Zeit geben, dorthin zu gelangen.
+<ce> (Nächste Nachricht, wenn Ihr das Verlies verlasst.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
+
+Message:  1042
+<ce> Seite 11
+ 
+<ce> Die Welt von Daggerfall ist riesig und kann normalerweise
+<ce> nicht in Echtzeit bereist werden.
+ 
+<ce> Öffnet die Reisekarte (Standardtaste: [V]). Die Region, in
+<ce> der Ihr Euch befindet, ist rot markiert. Klickt auf diese
+<ce> Region, und Ihr erhaltet eine fokussierte Karte. Klickt auf
+<ce> "SUCHEN" und gebt "DOLCHSTURZ" ein.
+ 
+<ce> Für den Moment behaltet die Reisemodi "VORSICHTIG" und
+<ce> "IN GASTHÄUSERN" bei. Diese Einstellungen sorgen dafür,
+<ce> dass Ihr am Morgen ankommt. Ihr wollt nicht nachts in
+<ce> der Stadt Dolchsturz ankommen.
+ 
+<ce> (Nächste Nachricht, wenn Ihr in einer Stadt ankommt.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
 
 Message:  1045
-<ce> Ah, die Anblicke und Geräusche der Stadt! Seid Ihr bei Nacht
-<ce> eingetroffen und habt versucht, zu rasten? Wenn ja, seid
-<ce> Ihr bestimmt schon den Stadtwachen begegnet. Sie erlauben
-<ce> nämlich nicht, dass jemand auf der Straße oder in der Nähe
-<ce> der Stadtmauern ein Lager aufschlägt. Ihr dürft nur in Tavernen
-<ce> rasten, vorausgesetzt natürlich, Ihr habt dort ein Zimmer gemietet.
+<ce> Seite 12
  
-<ce> Ihr solltet nun zuerst in den [DIALOG-MODUS] wechseln. Klickt
-<ce> dazu auf das Handsymbol, bis es zu einer Sprechblase wird oder
-<ce> drückt [F4]. Nähert Euch nun einem der Stadtbewohner. Sie werden
-<ce> nur dann für ein Gespräch anhalten, wenn auch Ihr stehenbleibt.
-<ce> Klickt auf die Person und der Dialog-Bildschirm erscheint.
+<ce> Findet einen Stadtbewohner in der Nähe. Drückt [F4], um
+<ce> Euren Modus auf "Dialog" zu setzen, und klickt dann auf
+<ce> die Person. Ihr werdet ein Gesprächsfenster öffnen. Ihr
+<ce> könnt das Fenster verwenden, um nach dem Weg zu fragen.
+<ce> Wenn die Person unfreundlich ist oder nichts weiß, sucht
+<ce> einen anderen Bewohner.
  
-<ce> (weiter...)
+<ce> Sobald Euch jemand sagt, in welche Richtung ein Gebäude
+<ce> liegt, könnt Ihr dieselbe Frage wiederholen, bis es auf
+<ce> Eurer Karte markiert wird. Dies ist sehr wichtig, um
+<ce> Orte in einer großen Stadt wie dieser leicht zu finden.
+ 
+<ce> (Nächste Nachricht in 45 Sekunden.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
 
-Message:  1046
-<ce> Sucht ein Handelshaus oder einen Waffenschmied auf. Dort
-<ce> könnt Ihr Eure überschüssigen Sachen verkaufen. Euer
-<ce> Gesprächspartner wird Euch möglicherweise eine Wegbeschreibung
-<ce> zu Eurem Ziel geben. Folgt den Richtungsangaben eine Zeitlang
-<ce> und fragt dann einen weiteren Passanten. Macht auf diese Art
-<ce> weiter, bis jemand den Standort auf Eurer Karte markiert.
+Message:  1047
+<ce> Seite 13
  
-<ce> Drückt M, um die Stadtkarte zu betrachten. Damit solltet Ihr
-<ce> in der Lage sein, das Zielgebäude zu finden. Vor jedem Geschäft
-<ce> ist ein Ladenschild. Lernt die Bedeutung der Schilder und Ihr
-<ce> werdet eine Taverne zum Übernachten finden müssen. Haltet dazu
-<ce> nach einem Schild mit einem Bierkrug Ausschau.
+<ce> Das Gesprächsfenster hat auch Optionen, um nach Personen
+<ce> und Neuigkeiten zu fragen, einschließlich regionaler
+<ce> Aufträge unter "Arbeit". Schaut in die obere linke Ecke
+<ce> des Gesprächsfensters, wenn es geöffnet ist, um die
+<ce> verschiedenen Themen zu sehen, über die Ihr fragen könnt.
  
-<ce> Tipp: Durch Drücken von [F3] gelangt Ihr in den [INFO-MODUS].
-<ce> Mit einem Klick auf ein Gebäude erfahrt Ihr seine Bedeutung
-<ce> Manche Geschäfte öffnen erst zu späterer Stunde. Ihr könnt
-<ce> herumtrödeln (WARTEN im Rastenmenü), bis der Ladenbetreiber
-<ce> sein Geschäft öffnet
+<ce> (Nächste Nachricht in 15 Sekunden.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
+
+Message:  1048
+<ce> Seite 14
  
-<ce> Bleibt in der Stadt! Ich werde mich morgen wieder melden.
+<ce> Wenn Ihr Schätze im Freibeuternest, dem Startverlies,
+<ce> gefunden habt, möchtet Ihr diese wahrscheinlich verkaufen.
+<ce> Eine Pfandleihe ist hierfür am besten geeignet, obwohl auch
+<ce> Handelshäuser und Schmieden einige Arten von Waren kaufen.
+<ce> Findet ein solches Geschäft irgendwo in der Stadt. Ihr könnt
+<ce> Bewohner nach dem Weg dorthin fragen oder [F3] drücken, um
+<ce> in den Informationsmodus zu wechseln, und auf Gebäude klicken,
+<ce> um aus der Ferne zu erfahren, was sie sind.
+ 
+<ce> Handelshäuser öffnen um 6 Uhr morgens. Pfandleihen und
+<ce> Schmiede öffnen später. Überprüft die aktuelle Ortszeit
+<ce> (Standardtaste: [I]). Wenn die Geschäfte noch geschlossen
+<ce> sind, drückt die Rasttaste [R], um zu warten (nicht rasten),
+<ce> bis sie öffnen.
+ 
+<ce> Beachtet, dass die nächste Nachricht sofort erscheint,
+<ce> wenn Ihr jetzt wartet.
+ 
+<ce> (Nächste Nachricht in 10 Sekunden.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
 
 Message:  1050
-<ce> Die heutige Lektion befasst sich mit Gilden. Eine Gilde ist
-<ce> eine Organisation, welche ihren Mitgliedern gewisse Vorteile
-<ce> bietet. Wenn Ihr innerhalb der Gilde aufsteigt, erhaltet Ihr
-<ce> auch mehr Vorteile. Um aufzusteigen ist es unabdingbar, Euch
-<ce> in von der Gilde als wichtig erachteten Fertigkeiten zu üben
-<ce> und zur Steigerung Eures Rufes regelmäßig Quests zu erledigen.
-<ce> Ihr könnt mehr als einer Gilde angehören.
+<ce> Seite 15
  
-<ce> Alle Zauberkundigen sollten der Magiergilde beitreten. Jeder
-<ce> sollte sich einen Tempel aussuchen. Wählt dabei aber mit Bedacht,
-<ce> da Ihr nur Mitglied eines einzigen Tempels sein könnt. Kämpfer-
-<ce> naturen sollten der Kriegergilde oder einem Ritterorden beitreten.
+<ce> Die meisten Charaktere wollen mindestens einer Gilde beitreten.
+<ce> Wenn Ihr in einer Gilde aufsteigt, erhaltet Ihr mehr Vorteile.
+<ce> Um im Rang aufzusteigen, müsst Ihr die Fertigkeiten verbessern,
+<ce> die der Gilde wichtig sind, und regelmäßig Quests erledigen,
+<ce> um Euren Ruf bei ihnen zu steigern.
  
-<ce> Tipp: Diebe und Mörder, geht einfach Euren Weg. Die Unterwelt
-<ce> wird bald mit Euch Kontakt aufnehmen.
+<ce> Alle Zauberer sollten der Magiergilde beitreten. Kämpfertypen
+<ce> können der Kriegergilde und einem Ritterorden beitreten. Ihr
+<ce> könnt auch einen Tempel wählen, dem Ihr beitreten möchtet.
  
-<ce> Ich bin morgen mit der nächsten Lektion wieder da.
+<ce> Ihr könnt nur einem Tempel und einem Ritterorden angehören.
+ 
+<ce> Es gibt auch weitere versteckte Gilden im Spiel.
+ 
+<ce> (Nächste Nachricht in 10 Sekunden.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
 
 Message:  1055
-<ce> Heute geht es um Quests. Eine Quest ist ein Auftrag, der Euch
-<ce> von jemanden in der Stadt gegeben wird. Es ist erstaunlich,
-<ce> wie viele Leute in Daggerfall der Dienste eines tapferen Helden
-<ce> oder einer Heldin bedürfen.
+<ce> Seite 16
  
-<ce> Geht zu jemandem in einer Taverne oder auf der Straße.
-<ce> Fragt nach Arbeit. Es besteht die Möglichkeit, dass sie Euch
-<ce> an jemand anderen verweisen. Diese Person wird Euch eine Quest
-<ce> anbieten. Ihr müsst jedoch nicht jede Quest annehmen, die Euch
-<ce> angeboten wird. Eine Quest erfolgreich abzuschließen bedeutet,
-<ce> dass Ihr in der Gunst dieser Person und ihrer Freunde steigt.
-<ce> Es kann auch profitabel sein. Nicht zuletzt ist es der beste
-<ce> Weg, um die Lage neuer Dungeons zu erfahren!
+<ce> Die letzte Aufgabe ist es, eine Quest zu finden. Die Quests
+<ce> in Daggerfall sind dynamisch und wählen Orte um Euch herum aus,
+<ce> an denen Dinge geschehen.
+ 
+<ce> Durch das Erledigen von Quests für Gilden steigt Ihr im Rang
+<ce> bei ihnen auf, was für Euch möglicherweise Priorität hat.
+<ce> Nachdem Ihr der Gilde beigetreten seid, sucht jemanden im
+<ce> Gildenhaus mit dem Button "Quest erhalten". Akzeptiert oder
+<ce> lehnt die Quest ab, die Euch angeboten wird.
+ 
+<ce> Das Ablehnen einer Quest hat keine Konsequenzen.
+ 
+<ce> (Nächste Nachricht erscheint sofort.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
 
 Message:  1056
-<ce> Dies war die letzte Tutorial-Lektion. Es gibt noch viel
-<ce> über Tamriel und das Spiel zu lernen. Doch Ihr kennt
-<ce> nun die Grundlagen, um die Welt selbst zu erkunden.
-<ce> Ihr seid nun auf Euch allein gestellt.
+<ce> Seite 17
  
-<ce> Viel Glück und habt Spaß!
-
+<ce> Viele Quests schicken Euch in andere Städte. Wenn sie dies
+<ce> tun, öffnet Euer Tagebuch (Standardtaste: [L]) und klickt
+<ce> auf den Quest-Eintrag. Häufig plant das Spiel dann automatisch
+<ce> eine Reise zu Eurem Questziel. Andernfalls könnt Ihr das
+<ce> Reisesystem öffnen und den Ort selbst auswählen.
+ 
+<ce> Ihr könnt auch Quests von zufälligen Bewohnern erhalten.
+<ce> Klickt auf Personen in Gasthäusern, die dazu neigen, Quests
+<ce> zu haben. Ihr könnt sie auch bei Ladenbesitzern mit dem
+<ce> "Sprechen"-Button bekommen. Das Fragen nach "Arbeit?"
+<ce> kann Euch zu möglichen Questgebern führen.
+ 
+<ce> (Nächste Nachricht in 10 Sekunden.
+<ce> Drückt "Nein", um das Tutorial zu beenden.)
+ 
+Message:  1057
+<ce> Seite 17
+ 
+<ce> Dies ist das Ende des Tutorials. Daggerfall ist ein Spiel
+<ce> mit vielen einzigartigen und komplizierten Mechaniken, daher
+<ce> lernt auch von anderen Spielern über die Besonderheiten des
+<ce> Spiels. Ihr könnt auch Modifikationen hinzufügen, sobald Ihr
+<ce> die grundlegenden Mechaniken verstanden habt.
+ 
+<ce> Willkommen zu Eurer neuen Obsession...

@@ -41,7 +41,7 @@ Mein Name ist nicht _qgfriend_.
 
 QuestComplete:  [1004]
 So, Ihr seid also %pcn, stimmts?
-Ich bin  _qgfriend_.
+Ich bin _qgfriend_.
 Ich habe mich schon gefragt, was für einen
 %ra es brauchen würde, um in die Burg
 eines _monster_ einzudringen,
@@ -58,7 +58,7 @@ Da ich weiß, dass =monster_ ein Mitglied der Magiergilde ist, kann ich keinem v
 <--->
 Die Magier sagen, =monster_ verstecke sich in ___fakedung_ vor dem Zorn der Daedra.
 <--->
-Die Magier versammeln sich, um  ___fakedung_ von dem Schurken =monster_ zu befreien.
+Die Magier versammeln sich, um ___fakedung_ von dem Schurken =monster_ zu befreien.
 <--->
 Ich sah, wie eine Gruppe Magier Richtung ___fakedung_ zog.
 <--->
@@ -87,7 +87,7 @@ QuestorPostfailure:  [1009]
  
 
 Message:  1011
-_qgfriend_ ist einer der Stammgäste in __qgfriend_,  %di von hier.
+_qgfriend_ ist einer der Stammgäste in __qgfriend_, %di von hier.
 <--->
 _qgfriend_ist ein =qgfriend_, der häufig __qgfriend_ aufsucht. Das ist %di.
 
@@ -105,7 +105,7 @@ Message:  1014
 Der Skelettschlüssel kann jedes Schloss öffnen.
 
 Message:  1015
-Die Magier sagen, dass sich =monster_  in ___fakedung_ vor dem Zorn des Reichs des Vergessens versteckt.
+Die Magier sagen, dass sich =monster_ in ___fakedung_ vor dem Zorn des Reichs des Vergessens versteckt.
 <--->
 Die Magier sammeln sich, um ___fakedung_ von diesem schurkischen =monster_ zu geißeln.
 <--->
@@ -114,7 +114,7 @@ Ich habe eine Menge Magier gesehen, die sich nach ___fakedung_ aufgemacht haben.
 Ich hörte, dass sich =monster_ nun als Verräter in ___fakedung_ verbirgt.
 
 Message:  1016
-%oth!  =monster_,
+%oth! =monster_,
 Der Agent des Reichs des Vergessens ist unter uns!
 Ich habe die wertvollsten Reagenzien nach
 ___fakedung_ verschafft und beabsichtige

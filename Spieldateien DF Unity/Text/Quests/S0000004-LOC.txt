@@ -91,10 +91,11 @@ Was könnte den König von Ersthalt dazu bewogen haben, um Morgiahs Hand anzuhal
 Morgiah geht eine Verlobung auf drei Jahre ein! Königshäuser sind doch ziemlich eigenartig.
 
 QuestorPostfailure:  [1009]
-<ce> Sehr gut. Übergebt Prinzessin Morgiah
-<ce> bitte diese Nachricht, wenn Ihr von
-<ce> den treuen Grabesdienern nicht mit
-<ce> dem Tod belohnt werdet.
+<ce> Ihr habt mich enttäuscht, %pcf.
+<ce> Ich verlangte binnen eines Monats eine
+<ce> Antwort von _necs_. Nun wagt
+<ce> Ihr es, so spät zu mir zurückzukehren?
+<ce> Hinfort!
 
 QuestLogEntry:  [1010]
 KdW,
@@ -152,4 +153,10 @@ Message:  1015
 <ce> Ein junger Knabe, dessen Wappenrock mit der Rose
 <ce> von Wegesruh bestickt ist, erscheint an Eurer Seite,
 <ce> händigt Euch eine gestochene Karte aus und verschwindet.
+
+Message:  1016
+<ce> Sehr gut. Übergebt Prinzessin Morgiah
+<ce> bitte diese Nachricht, wenn Ihr von
+<ce> den treuen Grabesdienern nicht mit
+<ce> dem Tod belohnt werdet.
 

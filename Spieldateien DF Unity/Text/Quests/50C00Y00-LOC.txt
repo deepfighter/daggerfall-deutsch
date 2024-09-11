@@ -71,7 +71,7 @@ RumorsDuringQuest:  [1005]
 In __qgfriend_ habe ich einen sehr netten =qgfriend_ getroffen. Ich frage mich, warum ich %g2 vorher nie begegnet bin.
 
 RumorsPostfailure:  [1006]
-Der alte  =monster_ ist in den Norden gegangen. Wir wissen also vermutlich, wohin die Plage als nächstes ziehen wird.
+Der alte =monster_ ist in den Norden gegangen. Wir wissen also vermutlich, wohin die Plage als nächstes ziehen wird.
 <--->
 Ich hörte, selbst die Daedra würden die Macht von =monster_ fürchten.
 

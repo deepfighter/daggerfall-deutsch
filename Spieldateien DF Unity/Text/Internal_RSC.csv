@@ -1953,8 +1953,6 @@ Gewicht: %kg Kilogramm[/center]
 %mpw[/center]
 [/end]"
 1068,"Eurer Klasse ist es nicht möglich, dies anzulegen.[/record]
-Eure Klasse hält Euch davon ab, dies anzulegen.[/record]
-Aufgrund Eurer Klasse könnt Ihr diesen Gegenstand nicht anlegen.
 [/end]"
 1069,"Wollt Ihr das Spiel wirklich verlassen?[/record]
 [/end]"
@@ -5287,7 +5285,7 @@ Wollt Ihr, dass Euer Charakter ein Waldläufer wird?[/center]
 [/end]"
 2115,"Barbaren sind Krieger aus den rauen Landen[/center]
 an den Rändern der zivilisierteren Gebiete.[/center]
-Sie sind ausgezeichnete Kämpfer und können auch[/center]
+Sie sind ausgezeichnete Kämpfer und können[/center]
 auch unter widrigsten Bedignungen überleben.[/center]
 [/center]
 Die Fertigkeiten, die Barbaren am häufigsten benutzen, sind:[/center]

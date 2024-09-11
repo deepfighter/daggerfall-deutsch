@@ -179,6 +179,6 @@ _healer_ ist weithin als der beste Medicus bekannt,
 so sagt man. Ihr findet %g2 in ___healer_.
 <--->
 Ich habe von _healer_ in ___healer_ gehört.
-%g hat sich einen Namen gemacht, indem  %g selbst
+%g hat sich einen Namen gemacht, indem %g selbst
 die schwersten Fälle heilte.
 

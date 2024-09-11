@@ -72,13 +72,6 @@ Aufgrund dessen, was Ihr für den Glauben getan habt, wären wir glücklich, Euc
 QuestorPostfailure:  [1009]
 Ich habe Euch nichts zu sagen, Apostat von _prophet_.
 
-QuestorPostfailure:  [1009]
-_prophet_ mag der größte Anführer sein, der je aus __tavern_ hervorgegangen ist.
-<--->
-_prophet_ verbringt %g3 Zeit in %g3 Raum im _prophouse_, schreibend.
-<--->
-_prophet_ hat sich nie gut mit __qgiver_ verstanden.
-
 QuestLogEntry:  [1010]
 %qdt:
  _qgiver_ von ___qgiver_
@@ -421,4 +414,11 @@ Message:  1037
  der vermutlich einst _priest_
  gehörte. Er war seltsam, fast
  schon zeremoniell durchtrennt.
+
+Message:  1038
+_prophet_ mag der größte Anführer sein, der je aus __tavern_ hervorgegangen ist.
+<--->
+_prophet_ verbringt %g3 Zeit in %g3 Raum im _prophouse_, schreibend.
+<--->
+_prophet_ hat sich nie gut mit __qgiver_ verstanden.
 

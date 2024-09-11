@@ -89,12 +89,13 @@ in Frieden. Werdet Ihr das tun?
 Message:  1021
 Hauptschuldig ist _woodsman_.
 Hakt einfach nur sorglos Bäume
-nieder. Geht nach ___house_
-und nehmt _woodsman_ ein Versprechen
-ab. Und sucht mich nicht wieder auf.
-An der Art und Weise, wie die
-Holzfäller arbeiten, werde ich Euren
-Erfolg oder Misserfolg erkennen.
+nieder. Geht nach __woodsman_
+in ___woodsman_ und nehmt %g3
+ein Versprechen ab. Und sucht mich
+nicht wieder auf. An der Art und
+Weise, wie die Holzfäller arbeiten,
+werde ich Euren Erfolg oder Misserfolg
+erkennen.
 
 Message:  1022
 Ich hätte es besser wissen sollen als
@@ -122,11 +123,11 @@ Message:  1030
  Der Zweigling hat mich davon überzeugt,
  dass er nicht der Böse ist. Offenbar hat
  jemand namens _woodsman_ aus
-  ___house_ seine Bäume gefällt.
- Wenn ich _woodsman_ davon überzeugen
- kann, mit mehr Vorsicht zu Werke zu gehen,
- kann die ganze Sache ohne Blutvergießen
- beendet werden.
+ __woodsman_, ___woodsman_
+ seine Bäume gefällt. Wenn ich _woodsman_
+ davon überzeugen kann, mit mehr Vorsicht
+ zu Werke zu gehen, kann die ganze Sache
+ ohne Blutvergießen beendet werden.
 
 Message:  1080
 Ich fühle mich übrigens gerade so spendabel.

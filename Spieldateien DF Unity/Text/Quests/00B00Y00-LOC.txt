@@ -17,7 +17,7 @@ RefuseQuest:  [1001]
 Enttäuschend. Nun gut, wird werden zweifellos jemand anderen finden.
 
 AcceptQuest:  [1002]
-Hervorragend. Es handelt sich um eine Nachtklinge namens =monster_, die für uns verloren ist. =monster_ hat Unterschlupf im Laboratorium  ___mondung_ gefunden. Wenn Ihr nicht in =1stparton_ Tagen mit dem Blut der Nachtklinge an Euren Händen wieder zurückgekehrt seid, werden wir annehmen, dass Ihr versagt oder Euch %g2 angeschlossen habt. Dann ist Eure Belohnung an jemanden verwirkt, der nicht scheitern wird. Ich hoffe, ich habe mich klar ausgedrückt. Viel Erfolg und auf Wiedersehen!
+Hervorragend. Es handelt sich um eine Nachtklinge namens =monster_, die für uns verloren ist. =monster_ hat Unterschlupf im Laboratorium ___mondung_ gefunden. Wenn Ihr nicht in =1stparton_ Tagen mit dem Blut der Nachtklinge an Euren Händen wieder zurückgekehrt seid, werden wir annehmen, dass Ihr versagt oder Euch %g2 angeschlossen habt. Dann ist Eure Belohnung an jemanden verwirkt, der nicht scheitern wird. Ich hoffe, ich habe mich klar ausgedrückt. Viel Erfolg und auf Wiedersehen!
 
 QuestFail:  [1003]
 Solange diese Nachtklinge noch lebt, bin ich nicht daran interessiert, über irgendeinen Belang zu plaudern, %pcf.
@@ -49,7 +49,7 @@ Hmm. Ihr habt den Auftrag, diesen abtrünnigen Zauberwirker =monster_ zu töten,
 Message:  1030
 %qdt:
  Die Schule des Julianos in ___questgiver_
- hat mich angeheuert,  =monster_ zu töten,
+ hat mich angeheuert, =monster_ zu töten,
  eine für ihren Tempel verlorene Nachtklinge.
  Ich habe =1stparton_ Tage, um zu ihrem Versteck
  ___mondung_ und zurück zur Schule

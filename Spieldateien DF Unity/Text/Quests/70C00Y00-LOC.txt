@@ -27,7 +27,7 @@ der Abmachung. Dieser frömmlerische
 Mönch ist nicht harmlos; %g3 Name ist
 =monster_ und %g hat meine
 geliebten Anhänger in Asche verwandelt.
-Geht zu dem verlassenen Tempel  ___mondung_,
+Geht zu dem verlassenen Tempel ___mondung_,
 wo %g herumlungert und reißt %g2 das Herz
 aus %g3 Brust. Mein Agent _contact_
 wird Euch in ___contact_ erwarten.
@@ -105,7 +105,7 @@ ekstatisch freut.
 Message:  1020
 %qdt:
  Sanguine will, dass ich einen Mönch
- namens =monster_  als
+ namens =monster_ als
  Gegenleistung für seine Rose töte.
  Der Mönch ist in ___mondung_
  und muss in =1stparton_ oder weniger Tagen

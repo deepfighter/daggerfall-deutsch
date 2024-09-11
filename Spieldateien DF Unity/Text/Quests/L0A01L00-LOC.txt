@@ -106,7 +106,7 @@ Message:  1020
  müsst Euch uns nun anschließen oder Ihr werdet
  als unser Feind gezählt. Reist nach ___apothecary_
  in %reg und trefft Euch für weitere Anweisungen
- mit _apothecary_.
+ mit _apothecary_. Wir geben Euch =S.01_ Tage dafür.
  
  Ein Bruder
 

@@ -48,7 +48,7 @@ geholfen, %pcf. Hier ist das Gold,
 das ich Euch versprochen habe."
 
 RumorsDuringQuest:  [1005]
-_qgiver_  ist der Liebe völlig
+_qgiver_ ist der Liebe völlig
 verfallen. %g bemüht sich schon seit
 Ewigkeiten, _spouse_ zur Heirat
 zu bewegen.

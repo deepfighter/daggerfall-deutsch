@@ -126,6 +126,11 @@ Message:  1018
  Euer Leben wirklich für einen Toten
  riskieren? Ihr werdet beobachtet.
 
+Message:  1019
+%pcn muss sterben. Keine Ausflüchte.
+
+<ce>   - W.
+
 Message:  1020
 _foil_ sagt: 
 

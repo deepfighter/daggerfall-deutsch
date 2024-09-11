@@ -269,7 +269,7 @@ meinen Bruder ermordet hat, oder?
 Message:  1020
 %qdat:
  Ich bin auf der Spur nach dem
- Mörder von %cn. %rt _qgiver_
+ Mörder von %cn. %rt
  will, dass der %cn-Mörder innerhalb
  von =total_ Tagen gefangen ist,
  bevor die Morde das Volk zu einem
@@ -377,6 +377,9 @@ Message:  1028
 _contact_ seziert die Opfer des Mörders und irgendjemandem missfällt das.
 <--->
 _contact_ ist ein Wissenschaftler im _bookstore_, der Drohbriefe erhalten hat.
+
+Message:  1029
+Der Irre Mörder ist tot.
 
 Message:  1050
 Indem Ihr _rippername_ getötet habt,

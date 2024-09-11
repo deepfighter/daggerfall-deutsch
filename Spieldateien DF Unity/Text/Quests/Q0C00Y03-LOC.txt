@@ -84,13 +84,16 @@ verfluchter %ra.
 QuestLogEntry:  [1010]
 %qdt:
  Ich bringe ein Kind nach Hause zurück,
- dass bei den ==qgiver_ ausgesetzt
+ dass bei den =qgiver_ ausgesetzt
  wurde. _child_, das Kind,
  lebt an einem Ort, den man _home_
  in __home_ nennt. Die Feinde der
  Hexen, so wurde mir erklärt, würden uns
  eher töten als das Kind unversehrt
- heimkehren zu lassen.
+ heimkehren zu lassen. Ich sollte
+ dann zu __qgiver zurückkehren,
+ um meinen Lohn von _qgiver_
+ zu empfangen.
 
 Message:  1011
 "Hier wohne ich!

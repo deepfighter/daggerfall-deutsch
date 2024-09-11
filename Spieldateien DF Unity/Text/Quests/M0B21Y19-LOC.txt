@@ -23,7 +23,9 @@ Einzelheiten vertraut machen, sobald
 Ihr dort seid.
 
 QuestFail:  [1003]
-Das ist alles, was ich weiß. Beeilt Euch besser.
+Tot? Das ist übel. Ihr müsst diesem auf den
+Grund gehen, auf die eine oder andere Weise,
+also haltet stand und gebt nicht auf.
 
 QuestComplete:  [1004]
 Ich weiß nicht wie ich Euch danken soll,
@@ -86,6 +88,12 @@ Message:  1023
  und bin nun mit _daughter_ auf
  dem Weg zu ihrem Haus [_safehouse_]
  in __safehouse_.
+
+Message:  1023
+%qdt:
+ _victim_ wurde von der Dunklen
+ Bruderschaft erschlagen. Die Spur ist
+ vorerst erkaltet.
 
 Message:  1030
 Das passiert mit Leuten, die

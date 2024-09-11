@@ -37,21 +37,16 @@ bezahlen müssen, damit
 er erschlagen wird.
 
 RumorsPostfailure:  [1006]
-Habt Ihr nicht den rasenden Tiger
-getötet, der in ein Haus geraten war?
+Ein Tiger hat so einen armen Tropf in seinem eigenen Haus getötet. Was für eine schreckliche Tragödie!
 
 RumorsPostsuccess:  [1007]
-Ein Tiger hat so einen armen Tropf
-in seinem eigenen Haus getötet.
-Was für eine schreckliche Tragödie!
+Habt Ihr nicht den rasenden Tiger getötet, der in _house_ geraten war?
 
 QuestorPostsuccess:  [1008]
 Gut gemacht mit diesem Tiger.
 
 QuestorPostfailure:  [1009]
-Tiger sind zäh. Vielleicht sollten wir
-Euch erstmal auf Streifenhörnchen
-ansetzen. Was für ein Trottel ...
+Tiger sind zäh. Vielleicht sollten wir Euch erstmal auf Streifenhörnchen ansetzen. Was für ein Trottel ...
 
 QuestLogEntry:  [1010]
 %qdt:

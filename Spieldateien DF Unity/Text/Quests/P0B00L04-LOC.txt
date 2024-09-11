@@ -31,7 +31,7 @@ Das Grab von =vampire_ muss ausgeraubt worden sein. Es ist ... komplett verwüst
 In letzter Zeit ist nachts um ___mondung_ herum einiges los.
 
 RumorsPostfailure:  [1006]
-Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
 <--->
 Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
 <--->
@@ -60,7 +60,7 @@ Ich habe neulich einen großartigen Witz gehört. %jok
 Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
 
 RumorsPostsuccess:  [1007]
-Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt
+Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
 <--->
 Ich hatte gerade eine dreistündige Unterhaltung über das Wetter.
 <--->

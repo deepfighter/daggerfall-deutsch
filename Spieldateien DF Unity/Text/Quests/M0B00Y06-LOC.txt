@@ -33,30 +33,19 @@ Gut gemacht, %pcf.
 Hier sind Eure _gold_ Goldstücke.
 
 RumorsDuringQuest:  [1005]
-Habt Ihr schon gehört? Ein Tier
-ist hier in der Stadt in ein Haus
-eingedrungen. Ich hoffe, dass
-sie es bald erlegen.
+Habt Ihr schon gehört? Ein Tier ist hier in der Stadt in ein Haus eingedrungen. Ich hoffe, dass sie es bald erlegen.
 
 RumorsPostfailure:  [1006]
-Die Kriegergilde hat den Bären getötet,
-der in ein Haus eingedrungen war.
-Gut, dass es sie hier gibt!
+Das Biest hat noch eine Frau angefallen, bevor es aus der Stadt gejagt werden konnte. Sehr bedauerlich.
 
 RumorsPostsuccess:  [1007]
-Das Biest hat noch eine Frau angefallen,
-bevor es aus der Stadt gejagt werden konnte.
-Sehr bedauerlich.
+Die Kriegergilde hat den Bären getötet, der in _house_ eingedrungen war. Gut, dass es sie hier gibt!
 
 QuestorPostsuccess:  [1008]
-Gute Arbeit mit dem Biest.
-Was kann ich für Euch tun?
+Gute Arbeit mit dem Biest. Was kann ich für Euch tun?
 
 QuestorPostfailure:  [1009]
-Das Viech hat den Kerl gefressen,
-dem dieses Haus gehörte. Das lässt
-uns ziemlich schlecht dastehen.
-Strengt Euch nächstes Mal mehr an.
+Das Viech hat den Kerl gefressen, dem das Haus gehörte. Das lässt uns ziemlich schlecht dastehen. Strengt Euch nächstes Mal mehr an.
 
 QuestLogEntry:  [1010]
 %qdt:

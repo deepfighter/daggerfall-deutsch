@@ -89,6 +89,10 @@ auf Euch zukommen. Vielleicht hat
 der Riese ein paar Freunde zum Essen
 eingeladen ...
 
+Message:  1031
+Ihr habt den Riesen erschlagen,
+für den Ihr gekommen seid.
+
 Message:  1040
 %god sei Dank, dass Ihr da seid.
 Ich war gestern gerade auf dem Weg
