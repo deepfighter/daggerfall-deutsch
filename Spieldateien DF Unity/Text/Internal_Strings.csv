@@ -1,67 +1,67 @@
-Key,Value,,,
-about_internal_strings,This string table collection stores text that was hard-coded in FALL.EXE and text unique to Daggerfall Unity.,,,
-pleaseSelectYourHomeProvince,So wählt Eure Heimatprovinz ...,,,
-saveGame,Spiel speichern,,,
-loadGame,Spiel laden,,,
-thingJustDied,%s ist tot.,,,
-gameSaved,Spiel gespeichert.,,,
-gameLoaded,Spiel geladen.,,,
-thisHouseHasNothingOfValue,Das Haus enthält nichts von Wert.,,,
-findLocationPrompt,Ortsnamen eingeben :,,,
-rightHandEquipped,Rechter Handwechsel,,,
-leftHandEquipped,Linker Handwechsel,,,
-usingRightHand,Verwendung der Waffe in der rechten Hand.,,,
-usingLeftHand,Verwendung der Waffe in der linken Hand.,,,
-itemHasBroken,%s ist zerbrochen.,,,
-itemHasBrokenPlural,%s sind zerbrochen.,,,
-cannotCarryGold,Ihr könnt soviel Gold nicht tragen.,,,
-cannotFloat,"Ihr tragt zu viel, um Euch über dem Wasser zu halten.",,,
-youHaveNoArrows,Keine Pfeile mehr.,,,
-oldSaveNoTrade,"Alter Innenraum geladen, Handelsfenster funktioniert nicht, bitte Gebäude verlassen und neu betreten.",,,
-theBodyHasNoTreasure,Keine Beute bei dieser Leiche.,,,
-youAreTooFarAway,Ihr seid zu weit weg ...,,,
-youSeeAn,Ihr seht eine/n %s.,,,
-youSeeA,Ihr seht eine/n %s.,,,
-youSeeADeadPerson,"%s - tot, wie Ihr seht.",,,
-youSeeADead,Ihr seht einen Leichnam.,,,
-youCollectArrows,Du ziehst deine Pfeile aus dem Leichnam.,,,
-loiterHowManyHours,Wie lange warten :,,,
-restHowManyHours,Wie lange rasten :,,,
-potionRecipeFor,Trankrezept für %po,,,
-potionRecipeWeight,Gewicht: %kg kg,,,
-potionOf,Rezept für %po.,,,
-letterPrefix,Brief: ,,,
-multipleAssignments,Ihr habt etwas mehrfachbelegt...,,,
-youAreEntering,Ihr betretet %s,,,
-storeClosed,Der Laden ist geschlossen. Geöffnet von %d:00 bis %d:00.,,,
-guildClosed,Die Gilde ist geschlossen. Geöffnet von %d1:00 bis %d2:00.,,,
-any,einen %s,,,
-arkayDesc,Gott von Geburt und Tod,,,
-zenDesc,Gott von Arbeit und Handel,,,
-maraDesc,Göttin der Liebe,,,
-akatoshDesc,Gott der Zeit,,,
-julianosDesc,Gott der Logik,,,
-dibellaDesc,Göttin der Schönheit,,,
-stendarDesc,Gott der Gnade,,,
-kynarethDesc,Göttin der Luft,,,
-interactionIsNowInMode,Interaktion ist jetzt im %smodus.,,,
-steal,Stehl,,,
-grab,Greif,,,
-info,Info,,,
-dialogue,Dialog,,,
-residence,Residenz,,,
-youSee,Ihr seht %s.,,,
-theNamedResidence,die %s-Residenz,,,
-playerResidence,Haus von %s,,,
-materialIneffective,Das Material Eurer Waffe ist wirkungslos.,,,
-successfulBackstab,Meucheln erfolgreich!,,,
-languagePacified,%e gelähmt durch Nutzung der Fertigkeit %s.,,,
-lockpickingSuccess,Das Schloss öffnet sich.,,,
-lockpickingFailure,Es öffnet sich nicht.,,,
-magicLock,Das Schloss ist magisch versiegelt...,,,
-lockpickChance1,Das Schloss hat nichts zu fürchten...,,,
-lockpickChance2,Das Schloss wäre nur durch ein Wunder zu öffnen...,,,
-lockpickChance3,Das Schloss übersteigt Eure Fähigkeiten...,,,
+Key,Value
+about_internal_strings,This string table collection stores text that was hard-coded in FALL.EXE and text unique to Daggerfall Unity.
+pleaseSelectYourHomeProvince,So wählt Eure Heimatprovinz ...
+saveGame,Spiel speichern
+loadGame,Spiel laden
+thingJustDied,%s ist tot.
+gameSaved,Spiel gespeichert.
+gameLoaded,Spiel geladen.
+thisHouseHasNothingOfValue,Das Haus enthält nichts von Wert.
+findLocationPrompt,Ortsnamen eingeben :
+rightHandEquipped,Rechter Handwechsel
+leftHandEquipped,Linker Handwechsel
+usingRightHand,Verwendung der Waffe in der rechten Hand.
+usingLeftHand,Verwendung der Waffe in der linken Hand.
+itemHasBroken,%s ist zerbrochen.
+itemHasBrokenPlural,%s sind zerbrochen.
+cannotCarryGold,Ihr könnt soviel Gold nicht tragen.
+cannotFloat,"Ihr tragt zu viel, um Euch über dem Wasser zu halten."
+youHaveNoArrows,Keine Pfeile mehr.
+oldSaveNoTrade,"Alter Innenraum geladen, Handelsfenster funktioniert nicht, bitte Gebäude verlassen und neu betreten."
+theBodyHasNoTreasure,Keine Beute bei dieser Leiche.
+youAreTooFarAway,Ihr seid zu weit weg ...
+youSeeAn,Ihr seht eine/n %s.
+youSeeA,Ihr seht eine/n %s.
+youSeeADeadPerson,"%s - tot, wie Ihr seht."
+youSeeADead,Ihr seht einen Leichnam.
+youCollectArrows,Du ziehst deine Pfeile aus dem Leichnam.
+loiterHowManyHours,Wie lange warten :
+restHowManyHours,Wie lange rasten :
+potionRecipeFor,Trankrezept für %po
+potionRecipeWeight,Gewicht: %kg kg
+potionOf,Rezept für %po.
+letterPrefix,Brief: 
+multipleAssignments,Ihr habt etwas mehrfachbelegt...
+youAreEntering,Ihr betretet %s
+storeClosed,Der Laden ist geschlossen. Geöffnet von %d:00 bis %d:00.
+guildClosed,Die Gilde ist geschlossen. Geöffnet von %d1:00 bis %d2:00.
+any,einen %s
+arkayDesc,Gott von Geburt und Tod
+zenDesc,Gott von Arbeit und Handel
+maraDesc,Göttin der Liebe
+akatoshDesc,Gott der Zeit
+julianosDesc,Gott der Logik
+dibellaDesc,Göttin der Schönheit
+stendarDesc,Gott der Gnade
+kynarethDesc,Göttin der Luft
+interactionIsNowInMode,Interaktion ist jetzt im %smodus.
+steal,Stehl
+grab,Greif
+info,Info
+dialogue,Dialog
+residence,Residenz
+youSee,Ihr seht %s.
+theNamedResidence,die %s-Residenz
+playerResidence,Haus von %s
+materialIneffective,Das Material Eurer Waffe ist wirkungslos.
+successfulBackstab,Meucheln erfolgreich!
+languagePacified,%e gelähmt durch Nutzung der Fertigkeit %s.
+lockpickingSuccess,Das Schloss öffnet sich.
+lockpickingFailure,Es öffnet sich nicht.
+magicLock,Das Schloss ist magisch versiegelt...
+lockpickChance1,Das Schloss hat nichts zu fürchten...
+lockpickChance2,Das Schloss wäre nur durch ein Wunder zu öffnen...
+lockpickChance3,Das Schloss übersteigt Eure Fähigkeiten...
 buildingNames,"Tempel des Akatosh
 Tempel des Arkay
 Tempel der Dibella
@@ -91,7 +91,7 @@ Bank
 Buchladen
 Kleiderladen
 Schmuckladen
-Pfandwaren",,,
+Pfandwaren"
 lockpickChance,"Ihr bezweifelt, das Schloss knacken zu können...
 Das Schloss sieht knifflig aus...
 Das Schloss wäre eine Herausforderung...
@@ -101,124 +101,124 @@ Das Schloss sieht recht einfach aus...
 Das Schloss ist für Euch ein Witz...
 Das Schloss ist nur von schlichter Qualität...
 Das Schloss verdient den Namen nicht...
-Das Schloss beleidigt Eure Fähigkeiten...",,,
-youPinchedGoldPiece,Ihr habt 1 Gold gestohlen.,,,
-youPinchedGoldPieces,Ihr habt %d Gold gestohlen.,,,
-youAreNotSuccessful,Ihr habt keinen Erfolg ...,,,
-daysUntilFreedom,%d Tage zur Entlassung.,,,
-skillImprove,Eure Fertigkeit %s hat sich verbessert.,,,
-mustDistributeBonusPoints,Ihr müsst alle Bonuspunkte verteilen.,,,
-enterNewName,Neuer Name :,,,
-affiliation,Mitgliedschaft,,,
-rank,Rang,,,
-serviceQuests,Quest erhalten,,,
-serviceSell,Verkaufen,,,
-serviceBanking,Bankgeschäfte,,,
-serviceIdentify,Identifizieren,,,
-serviceBuySpells,Zauber kaufen,,,
-serviceTraining,Ausbildung,,,
-serviceTeleport,Teleportation,,,
-serviceMakeSpells,Zauber erstellen,,,
-serviceBuyMagicItems,Magische Gegenstände kaufen,,,
-serviceSellMagicItems,Magische Gegenstände verkaufen,,,
-serviceDaedraSummon,Daedrabeschwörung,,,
-serviceMakeMagicItems,Magische Gegenstände erstellen,,,
-serviceRepairs,Reparieren,,,
-serviceDonate,Spenden,,,
-serviceCure,Krankheiten heilen,,,
-serviceSpymaster,Meisterspion,,,
-serviceMakePotions,Tränke erstellen,,,
-serviceBuyPotions,Tränke kaufen,,,
-serviceBuySoulgems,Seelensteine kaufen,,,
-serviceReceiveArmor,Rüstung erhalten,,,
-serviceReceiveHouse,Haus erhalten,,,
-serviceReceiveHouseAlready,Ihr habt Euer Haus schon erhalten.,,,
-accessMembersOnly,Nur Mitglieder mit ausreichendem Rang können darauf zugreifen.,,,
-serviceCured,Ihr seid geheilt.,,,
-serviceSummonCost1,"%pcn, die Kosten für den Versuch einer",,,
-serviceSummonCost2,Beschwörung von %dae ist,,,
-serviceSummonCost3,Gold.,,,
-roomFreeForKnightSuchAsYou,Das Zimmer ist für einen Ritter wie Euch umsonst.,,,
-roomFreeDueToHeartsDay,"Zimmer ist umsonst, weil Herztag ist!",,,
-youAreNotHungry,Ihr seid nicht hungrig.,,,
-exhaustedInWater,Müdigkeit überwältigt Euch und schickt Euch in ein feuchtes Grab...,,,
-youFeelSomewhatBad,Ihr fühlt Euch ziemlich schlecht.,,,
-avoidDeath,Dank der Gnade Stendarrs überlebt ihr den sicheren Tod!,,,
-pronounHe,er,,,
-pronounShe,sie,,,
-pronounHim,ihm,,,
-pronounHer,ihr,,,
-pronounHis,sein,,,
-pronounHers,sein,,,
-pronounHimself,selbst,,,
-pronounHerself,selbst,,,
-city,Stadt,,,
-village,Dorf,,,
-hamlet,Weiler,,,
-farm,Hof,,,
-shack,Hütte,,,
-manor,Anwesen,,,
-community,Gemeinschaft,,,
-shrine,Schrein,,,
-King,König,,,
-Queen,Königin,,,
-Duke,Herzog,,,
-Duchess,Herzogin,,,
-Marquis,Marquis,,,
-Marquise,Marquise,,,
-Count,Graf,,,
-Countess,Gräfin,,,
-Baron,Baron,,,
-Baroness,Baroness,,,
-Lord,Fürst,,,
-Lady,Fürstin,,,
-revered,verehrt,,,
-esteemed,geschätzt,,,
-honored,geehrt,,,
-admired,bewundert,,,
-respected,respektiert,,,
-dependable,zuverlässig,,,
-aCommonCitizen,ein einfacher Bürger,,,
-hated,verhasst,,,
-pondScum,Abschaum,,,
-aVillain,ein Verbrecher,,,
-aCriminal,ein Krimineller,,,
-aScoundrel,ein Schurke,,,
-undependable,unzuverlässig,,,
-unknown,unbekannt,,,
-Broken,Zerbrochen,,,
-Useless,Nutzlos,,,
-Battered,Abgenutzt,,,
-Worn,Getragen,,,
-Used,Gebraucht,,,
-SlightlyUsed,Kaum benutzt,,,
-AlmostNew,Wie neu,,,
-New,Neu,,,
-Nothing,Nichts,,,
-local,Lokal,,,
-tavern,Taverne,,,
-Attempted_Breaking_And_Entering,Einbruchsversuch,,,
-Trespassing,Hausfriedensbruch,,,
-Breaking_And_Entering,Einbruchsversuch,,,
-Assault,Tätlichkeit,,,
-Murder,Mord,,,
-Tax_Evasion,Steuerhinterziehung,,,
-Criminal_Conspiracy,Kriminelle Verabredung,,,
-Vagrancy,Landstreicherei,,,
-Smuggling,Schmuggel,,,
-Piracy,Piraterie,,,
-High_Treason,Hochverrat,,,
-Pickpocketing,Taschendiebstahl,,,
-Theft,Diebstahl,,,
-Treason,Verrat,,,
-Loan_Default,Loan Default,,,
-Regular_Punishment_String,%gtp Gold Strafe und %dip Tage Gefängnis,,,
-Banishment,Verbannung,,,
-Execution,Hinrichtung,,,
-cannotChangeTransportationIndoors,Ihr könnt den Transport nicht in Innenräumen wechseln.,,,
-cannotTravelWithEnemiesNearby,"Ihr könnt nicht reisen, wenn Feinde in der Nähe sind.",,,
-cannotTravelIndoors,"Ihr könnt nicht reisen, wenn Ihr in Innenräumen seid.",,,
-powersUnknown,Kräfte unbekannt,,,
+Das Schloss beleidigt Eure Fähigkeiten..."
+youPinchedGoldPiece,Ihr habt 1 Gold gestohlen.
+youPinchedGoldPieces,Ihr habt %d Gold gestohlen.
+youAreNotSuccessful,Ihr habt keinen Erfolg ...
+daysUntilFreedom,%d Tage zur Entlassung.
+skillImprove,Eure Fertigkeit %s hat sich verbessert.
+mustDistributeBonusPoints,Ihr müsst alle Bonuspunkte verteilen.
+enterNewName,Neuer Name :
+affiliation,Mitgliedschaft
+rank,Rang
+serviceQuests,Quest erhalten
+serviceSell,Verkaufen
+serviceBanking,Bankgeschäfte
+serviceIdentify,Identifizieren
+serviceBuySpells,Zauber kaufen
+serviceTraining,Ausbildung
+serviceTeleport,Teleportation
+serviceMakeSpells,Zauber erstellen
+serviceBuyMagicItems,Magische Gegenstände kaufen
+serviceSellMagicItems,Magische Gegenstände verkaufen
+serviceDaedraSummon,Daedrabeschwörung
+serviceMakeMagicItems,Magische Gegenstände erstellen
+serviceRepairs,Reparieren
+serviceDonate,Spenden
+serviceCure,Krankheiten heilen
+serviceSpymaster,Meisterspion
+serviceMakePotions,Tränke erstellen
+serviceBuyPotions,Tränke kaufen
+serviceBuySoulgems,Seelensteine kaufen
+serviceReceiveArmor,Rüstung erhalten
+serviceReceiveHouse,Haus erhalten
+serviceReceiveHouseAlready,Ihr habt Euer Haus schon erhalten.
+accessMembersOnly,Nur Mitglieder mit ausreichendem Rang können darauf zugreifen.
+serviceCured,Ihr seid geheilt.
+serviceSummonCost1,"%pcn, die Kosten für den Versuch einer"
+serviceSummonCost2,Beschwörung von %dae ist
+serviceSummonCost3,Gold.
+roomFreeForKnightSuchAsYou,Das Zimmer ist für einen Ritter wie Euch umsonst.
+roomFreeDueToHeartsDay,"Zimmer ist umsonst, weil Herztag ist!"
+youAreNotHungry,Ihr seid nicht hungrig.
+exhaustedInWater,Müdigkeit überwältigt Euch und schickt Euch in ein feuchtes Grab...
+youFeelSomewhatBad,Ihr fühlt Euch ziemlich schlecht.
+avoidDeath,Dank der Gnade Stendarrs überlebt ihr den sicheren Tod!
+pronounHe,er
+pronounShe,sie
+pronounHim,ihm
+pronounHer,ihr
+pronounHis,sein
+pronounHers,sein
+pronounHimself,selbst
+pronounHerself,selbst
+city,Stadt
+village,Dorf
+hamlet,Weiler
+farm,Hof
+shack,Hütte
+manor,Anwesen
+community,Gemeinschaft
+shrine,Schrein
+King,König
+Queen,Königin
+Duke,Herzog
+Duchess,Herzogin
+Marquis,Marquis
+Marquise,Marquise
+Count,Graf
+Countess,Gräfin
+Baron,Baron
+Baroness,Baroness
+Lord,Fürst
+Lady,Fürstin
+revered,verehrt
+esteemed,geschätzt
+honored,geehrt
+admired,bewundert
+respected,respektiert
+dependable,zuverlässig
+aCommonCitizen,ein einfacher Bürger
+hated,verhasst
+pondScum,Abschaum
+aVillain,ein Verbrecher
+aCriminal,ein Krimineller
+aScoundrel,ein Schurke
+undependable,unzuverlässig
+unknown,unbekannt
+Broken,Zerbrochen
+Useless,Nutzlos
+Battered,Abgenutzt
+Worn,Getragen
+Used,Gebraucht
+SlightlyUsed,Kaum benutzt
+AlmostNew,Wie neu
+New,Neu
+Nothing,Nichts
+local,Lokal
+tavern,Taverne
+Attempted_Breaking_And_Entering,Einbruchsversuch
+Trespassing,Hausfriedensbruch
+Breaking_And_Entering,Einbruchsversuch
+Assault,Tätlichkeit
+Murder,Mord
+Tax_Evasion,Steuerhinterziehung
+Criminal_Conspiracy,Kriminelle Verabredung
+Vagrancy,Landstreicherei
+Smuggling,Schmuggel
+Piracy,Piraterie
+High_Treason,Hochverrat
+Pickpocketing,Taschendiebstahl
+Theft,Diebstahl
+Treason,Verrat
+Loan_Default,Loan Default
+Regular_Punishment_String,%gtp Gold Strafe und %dip Tage Gefängnis
+Banishment,Verbannung
+Execution,Hinrichtung
+cannotChangeTransportationIndoors,Ihr könnt das Transportmittel nicht in Innenräumen wechseln.
+cannotTravelWithEnemiesNearby,"Ihr könnt nicht reisen, wenn Feinde in der Nähe sind."
+cannotTravelIndoors,"Ihr könnt nicht reisen, wenn Ihr in Innenräumen seid."
+powersUnknown,Kräfte unbekannt
 itemPowers,"Wirkung durch Benutzung:
 Dauerhafte Wirkung:
 Wirkung bei Treffer:
@@ -244,7 +244,7 @@ Gesundheitsentzug
 Reagiert schlecht auf
 Zusatzgewicht
 Schwächt Rüstung
-Schlechter Ruf bei",,,
+Schlechter Ruf bei"
 enemyNames,"Ratte
 Kobold
 Zweigling
@@ -306,7 +306,7 @@ Waldläufer
 Barbar
 Krieger
 Ritter
-Stadtwache",,,
+Stadtwache"
 extraSpellPtsTimes,"im Winter
 im Frühling
 im Sommer
@@ -317,743 +317,743 @@ bei Neumond
 bei Untoten
 bei Daedra
 bei Humanoiden
-bei Tieren",,,
+bei Tieren"
 regensHealthTimes,"jederzeit
 bei Sonnenlicht
-bei Dunkelheit",,,
+bei Dunkelheit"
 vampiricEffectRanges,"auf Reichweite
-bei Schlag",,,
+bei Schlag"
 increasedWeightAllowances,"25% zusätzlich
-50% zusätzlich",,,
+50% zusätzlich"
 improvedTalents,"Scharfes Gehör
 Athletik
-Adrenalinrausch",,,
+Adrenalinrausch"
 itemDeteriorateLocations,"jederzeit
 bei Sonnenlicht
-an heiligen Stätten",,,
+an heiligen Stätten"
 userTakesDamageLocations,"bei Sonnenlicht
-an heiligen Stätten",,,
+an heiligen Stätten"
 enemyGroupNames,"Untote
 Daedra
 Humanoide
-Tiere",,,
+Tiere"
 healthLeechStopConditions,"bei Benutzung
 wenn nicht täglich genutzt
-wenn nicht pro Woche genutzt",,,
+wenn nicht pro Woche genutzt"
 badReactionFromEnemyGroups,"Humanoide
 Tiere
-Daedra",,,
+Daedra"
 repWithGroups,"Bürgerlichen
 Händlern
 Gelehrten
 Adligen
 Unterwelt
-allen",,,
-youReceiveGoldPieces,Ihr erhaltet %s Goldstücke.,,,
-bankPurchasePrice,Preis: %s Gold,,,
-youHaveRentedRoom,Ihr habt ein Zimmer im %s für %d Stunden gemietet.,,,
-haveNotRentedRoom,Ihr habt hier kein Zimmer gemietet.,,,
-expiredRentedRoom,Eure Zimmerbuchung ist abgelaufen.,,,
-tavernAle,Ale (1 Gold),,,
-tavernBeer,Bier (1 Gold),,,
-tavernMead,Met (2 Gold),,,
-tavernWine,Wein (3 Gold),,,
-tavernBread,Brot (1 Gold),,,
-tavernBroth,Brühe (1 Gold),,,
-tavernCheese,Käse (2 Gold),,,
-tavernFowl,Hühnchen (3 Gold),,,
-tavernGruel,Brei (2 Gold),,,
-tavernPie,Pastete (2 Gold),,,
-tavernStew,Eintopf (3 Gold),,,
-pressButtonToFireSpell,Taste drücken um den Zauber abzufeuern.,,,
-climbingMode,Klettermodus,,,
-rappelMode,Abseilmodus.,,,
-hangingMode,Hängender Modus,,,
-acuteHearing,Scharfes Gehör,,,
-adrenalineRush,Adrenalinrausch,,,
-athleticism,Athletik,,,
-bonusToHit,Trefferbonus,,,
-expertiseIn,Experte in,,,
-immunity,Immunität,,,
-increasedMagery,Gesteigerte Magie,,,
-rapidHealing,Schnellheilung,,,
-regenerateHealth,Gesundheit regenerieren,,,
-resistance,Resistenz,,,
-spellAbsorption,Zauberabsorption,,,
-animals,Tiere,,,
-daedra,Daedra,,,
-humanoid,Humanoide,,,
-undead,Untote,,,
-axe,Axt,,,
-bluntWeapon,Stumpfe Waffe,,,
-handToHand,Nahkampf,,,
-longBlade,Langwaffe,,,
-missileWeapon,Fernwaffe,,,
-shortBlade,Kurzwaffe,,,
-toDisease,gegen Krankheit,,,
-toFire,gegen Feuer,,,
-toFrost,gegen Frost,,,
-toMagic,gegen Magie,,,
-toParalysis,gegen Lähmung,,,
-toPoison,gegen Gift,,,
-toShock,gegen Blitz,,,
-intInSpellPoints15,1.5x in Spruchpunkten,,,
-intInSpellPoints175,1.75x in Spruchpunkten,,,
-intInSpellPoints2,2x in Spruchpunkten,,,
-intInSpellPoints3,3x in Spruchpunkten,,,
-intInSpellPoints,Int in Spruchpunkten,,,
-general,Allgemein,,,
-inDarkness,bei Dunkelheit,,,
-inLight,bei Lichtern,,,
-whileImmersed,wenn im Wasser,,,
-criticalWeakness,Kritische Schwäche,,,
-damage,Schaden,,,
-darknessPoweredMagery,Magie bei Dunkelheit,,,
-forbiddenArmorType,Verbotene Rüstungen,,,
-forbiddenMaterial,Verbotene Materialien,,,
-forbiddenShieldTypes,Verbotene Schildarten,,,
-forbiddenWeaponry,Verbotene Waffen,,,
-inabilityToRegen,Keine Spruchpunkte-Regeneration,,,
-lightPoweredMagery,Magie bei Licht,,,
-lowTolerance,Niedrige Toleranz,,,
-phobia,Phobie,,,
-fromHolyPlaces,durch heilige Stätten,,,
-fromSunlight,durch Sonnenlicht,,,
-lowerMagicAbilityDaylight,Magieschwächung bei Tageslicht,,,
-unableToUseMagicInDaylight,Magieunfähigkeit bei Tageslicht,,,
-chain,Ketten,,,
-leather,Leder,,,
-plate,Platten,,,
-adamantium,Adamant,,,
-daedric,Daedra,,,
-dwarven,Zwergen,,,
-ebony,Ebenerz,,,
-elven,Elfen,,,
-iron,Eisen,,,
-mithril,Mithril,,,
-orcish,Ork,,,
-silver,Silber,,,
-steel,Stahl,,,
-buckler,Buckler,,,
-kiteShield,Drachenschild,,,
-roundShield,Rundschild,,,
-towerShield,Turmschild,,,
-lowerMagicAbilityDarkness,Magieschwächung bei Dunkelheit,,,
-unableToUseMagicInDarkness,Magieunfähigkeit bei Dunkelheit,,,
-helpAttributes,Attribute,,,
-helpClassName,Klassenname,,,
-helpGeneral,Allgemein,,,
-helpReputations,Ruf,,,
-helpSkillAdvancement,Fertigkeitenanstieg,,,
-helpSkills,Fertigkeitenanstieg,,,
-helpSpecialAdvantages,Besondere Vorteile,,,
-helpSpecialDisadvantages,Besondere Nachteile,,,
-lower,Gesunken,,,
-higher,Gestiegen,,,
-unchanged,Unverändert,,,
-elsweyr,Elsweyr,,,
-blackMarsh,Schwarzmarsch,,,
-hammerfell,Hammerfall,,,
-highRock,Hochfels,,,
-morrowind,Morrowind,,,
-skyrim,Himmelsrand,,,
-sumurset,Sommersend,,,
-valenwood,Valenwald,,,
-rollingHills,Hügelland,,,
-desertLand,Wüste,,,
-mountains,Gebirge,,,
-swamps,Sümpfe,,,
-forests,Wälder,,,
-shores,Ufer,,,
-medical,Heilkunde,,,
-etiquette,Etikette,,,
-streetwise,Schlagfertigkeit,,,
-jumping,Springen,,,
-harpy,Hapyisch,,,
-giantish,Riesensprache,,,
-dragonish,Drachisch,,,
-nymph,Nymphisch,,,
-aedric,Daedrisch,,,
-spriggan,Zweigling,,,
-centaurian,Zentaurisch,,,
-impish,Koboldisch,,,
-lockpicking,Schlösser öffnen,,,
-mercantile,Feilschen,,,
-pickpocket,Taschendiebstahl,,,
-stealth,Schleichen,,,
-swimming,Schwimmen,,,
-climbing,Klettern,,,
-backstabbing,Meucheln,,,
-dodging,Ausweichen,,,
-running,Rennen,,,
-destruction,Zerstörung,,,
-restoration,Wiederherstellung,,,
-illusion,Illusion,,,
-alteration,Veränderung,,,
-thaumaturgy,Thaumaturgie,,,
-mysticism,Mystik,,,
-archery,Schießkunst,,,
-criticalStrike,Kritischer Schlag,,,
-strength,Stärke,,,
-intelligence,Intelligenz,,,
-willpower,Willenskraft,,,
-agility,Geschicklichkeit,,,
-endurance,Konstitution,,,
-personality,Charisma,,,
-speed,Schnelligkeit,,,
-luck,Glück,,,
-STR,STR,,,
-INT,INT,,,
-WIL,WIL,,,
-AGI,GES,,,
-END,KON,,,
-PER,CHA,,,
-SPD,SCH,,,
-LUC,GLK,,,
-breton,Bretone,,,
-redguard,Rothwardone,,,
-darkElf,Dunkelelf,,,
-highElf,Hochelf,,,
-woodElf,Waldelf,,,
-khajiit,Khajiit,,,
-argonian,Argonier,,,
-vampire,Vampir,,,
-werewolf,Werwolf,,,
-wereboar,Wereber,,,
-vraseth,Vraseth,,,
-haarvenu,Haarvenu,,,
-thrafey,Thrafey,,,
-lyrezi,Lyrezi,,,
-montalion,Montalion,,,
-khulari,Khulari,,,
-garlythi,Garlythi,,,
-anthotis,Anthotis,,,
-selenu,Selenu,,,
-lockedExteriorDoor,Geschlossen.,,,
-canOnlyCastOncePerDay,Kann nur 1x / Tag gewirkt werden ...,,,
-youNeedToHuntTheInnocent,Ihr verlangt nach unschuldigem Blut ...,,,
-youDreamOfTheMoon,Ihr träumt wieder vom Mond ...,,,
-inventoryWhileShapechanged,Kein Inventar bei Formwandlung...,,,
-youGetNoResponse,Ihr erhaltet keine Antwort.,,,
-copyLogbookInfo,Linksklick: Kopieren des markierten Textes einschalten. Rechtsklick: Kopieren des gesamten aktuellen Gesprächs.,,,
-east,östlich,,,
-northeast,nordöstlich,,,
-north,nördlich,,,
-northwest,nordwestlich,,,
-west,westlich,,,
-southwest,südwestlich,,,
-south,südlich,,,
-southeast,südöstlich,,,
-thisPlace,dieser Ort,,,
-AnyNews,Irgendwelche Neuigkeiten?,,,
-WhereAmI,Wo bin ich?,,,
-AnswerTextWhereAmI,Ihr befindet Euch in {0} in {1}.,,,
-YouAreInSameBuilding,Ihr habt {0} gefunden. Ihr befindet Euch dort.,,,
-NpcInSameBuilding,{0} ist hier irgendwo in {1}.,,,
-PreviousList,Vorherige Liste,,,
-General,Allgemein,,,
-Regional,Regional,,,
-Alchemists,Alchemisten,,,
-Armorers,Rüstungsschmiede,,,
-Banks,Banken,,,
-Bookstores,Buchläden,,,
-Clothingstores,Kleiderläden,,,
-Gemstores,Schmuckläden,,,
-Generalstores,Handelshäuser,,,
-Guilds,Gilden,,,
-Libraries,Bibliotheken,,,
-Pawnshops,Pfandleihen,,,
-Taverns,Tavernen,,,
-Weaponsmiths,Waffenschmieden,,,
-Localtemples,Lokale Tempel,,,
-Sir,Sir,,,
-Ma'am,Ma'am,,,
-oldLeaderFate0,starb an Herzversagen,,,
-oldLeaderFate1,ist unglücklich gestürzt,,,
-oldLeaderFate2,starb an der Pest,,,
-oldLeaderFate3,war zum Rücktritt gezwungen,,,
-oldLeaderFate4,wurde gestürzt,,,
-oldLeaderFate5,wurde in seinem Bett ermordet,,,
-toBeReplacedStringRegional,Jede/r,,,
-replacementStringRegional,jede/r,,,
-comma,",",,,
-resolvingError,...egal...,,,
-chameleon,Chamäleon,,,
-charm,Bezaubern,,,
-comprehendLanguages,Sprachverständnis,,,
-continuousDamage,Dauerschaden,,,
-createItem,Gegenstand erschaffen,,,
-cure,Heilen,,,
-detect,Entdecken,,,
-disintegrate,Auflösen,,,
-dispel,Bannen,,,
-drain,Entzug,,,
-elementalResistance,Elementarwiderstand,,,
-fortifyAttribute,Attribut festigen,,,
-freeAction,Freie Handlung,,,
-heal,Wiederherstellen,,,
-identify,Identifizieren,,,
-invisibility,Unsichtbarkeit,,,
-levitate,Levitieren,,,
-light,Licht,,,
-lock,Schloss,,,
-morphSelf,Morphen (Selbst),,,
-open,Öffnen,,,
-pacify,Beruhigen,,,
-paralyze,Lähmen,,,
-regenerate,Regenerieren,,,
-shadow,Schatten,,,
-shield,Schild,,,
-silence,Stille,,,
-slowfall,Langsamer Fall,,,
-soulTrap,Seelenfalle,,,
-spellReflection,Zauberreflektion,,,
-spellResistance,Magieresistenz,,,
-teleport,Teleport,,,
-transfer,Übertragen,,,
-waterBreathing,Wasseratmung,,,
-waterWalking,Wasserwandeln,,,
-fire,Feuer,,,
-frost,Frost,,,
-magicka,Magie,,,
-poison,Gift,,,
-shock,Blitz,,,
-enemy,Feind,,,
-magic,Magie,,,
-treasure,Schatz,,,
-fatigue,Ausdauer,,,
-health,Gesundheit,,,
-spellPoints,Spruchpunkte,,,
-disease,Krankheit,,,
-paralyzation,Lähmung,,,
-animal,Tier,,,
-normal,Normal,,,
-TRUE,WAHR,,,
-noName,<kein-name>,,,
-youDontHaveTheSpellPoints,Euch fehlen die Spruchpunkte.,,,
-youAreSilenced,Ihr seid zum Schweigen gebracht.,,,
-youAreParalyzed,Ihr seid gelähmt.,,,
-youFeelDrained,Ihr fühlt Euch ausgezehrt.,,,
-youAreFortified,Ihr fühlt Euch gefestigt.,,,
-youAreInvisible,Ihr seid unsichtbar,,,
-youAreLevitating,Ihr levitiert.,,,
-youAreRegenerating,Ihr regeneriert Euch.,,,
-youAreBlending,Ihr blendet.,,,
-youAreAShade,Ihr seid ein Schatten.,,,
-slowFallActive,Langsamer Fall aktiv.,,,
-saveVersusSpellMade,Zauber wirkungslos.,,,
-spellEffectFailed,Zaubereffekt gescheitert.,,,
-spellAbsorbed,Zauber absorbiert!,,,
-spellReflected,Zauber reflektiert!,,,
-spellResisted,Zauber widerstanden!,,,
-readyToLock,Bereit zum Verschließen.,,,
-readyToOpen,Bereit zum Öffnen.,,,
-doorLocked,Tür ist jetzt verriegelt.,,,
-doorAlreadyLocked,Tür bereits verriegelt.,,,
-openFailed,Schloss ist zu stark.,,,
-noSpellbook,Ihr habt kein Zauberbuch!,,,
-sunlightDamageFastTravelDay,Ihr könnt bei Tag nicht schnellreisen.,,,
-trapActive,Falle aktiv.,,,
-trapHumanoid,Die Falle ist bei Humanoiden nutzlos.,,,
-trapSuccess,Gefangene Seele.,,,
-trapFail,Falle fehlgeschlagen.,,,
-trapNoneEmpty,Ihr habt keine leeren Seelenfallen!,,,
-stamina,Ausdauer,,,
-orcStrength,Orkstärke,,,
-healing,Heilung,,,
-restorePower,Kraft wiederherstellen,,,
-resistFire,Feuerresistenz,,,
-resistFrost,Frostresistenz,,,
-resistShock,Blitzresistenz,,,
-cureDisease,Krankheit heilen,,,
-slowFalling,Langsamer Fall,,,
-healTrue,Heilung (vollständig),,,
-levitation,Levitation,,,
-resistPoison,Giftresistenz,,,
-curePoison,Gift heilen,,,
-chameleonForm,Chamäleon,,,
-shadowForm,Schattenform,,,
-purification,Läuterung,,,
-LeatherCuirass,Lederharnisch,,,
-LeatherGauntlets,Lederhandschuhe,,,
-LeatherGreaves,Lederbeinschienen,,,
-LeatherLeftPauldron,Lederschulterpl. l.,,,
-LeatherRightPauldron,Lederschulterpl. r.,,,
-LeatherHelm,Lederhelm,,,
-LeatherBoots,Lederstiefel,,,
-ChainCuirass,Kettenharnisch,,,
-ChainGauntlets,Kettenhandschuhe,,,
-ChainGreaves,Kettenbeinschienen,,,
-ChainLeftPauldron,Kettenschulterpl. l.,,,
-ChainRightPauldron,Kettenschulterpl. r.,,,
-ChainHelm,Kettenhelm,,,
-ChainBoots,Kettenstiefel,,,
-SteelCuirass,Stahlharnisch,,,
-SteelGauntlets,Stahlhandschuhe,,,
-SteelGreaves,Stahlstiefel,,,
-SteelLeftPauldron,Stahlschulterpl. l.,,,
-SteelRightPauldron,Stahlschulterpl. r.,,,
-SteelHelm,Stahlhelm,,,
-SteelBoots,Stahlstiefel,,,
-SteelBuckler,Stahlbuckler,,,
-SteelDagger,Stahldolch,,,
-SteelLongsword,Stahllangschwert,,,
-SteelStaff,Stahlstab,,,
-ShortBow,Kurzbogen,,,
-Arrows,Pfeile,,,
-SteelBattleAxe,Stahlkampfaxt,,,
-Robes,Robe,,,
-CastWhenUsed,Wirkung durch Benutzung:,,,
-CastWhenHeld,Dauerhafte Wirkung:,,,
-CastWhenStrikes,Wirkung bei Treffer:,,,
-ExtraSpellPts,Extra-Spruchpkt.,,,
-PotentVs,Stark gegen,,,
-RegensHealth,Gesundheitsregen.,,,
-VampiricEffect,Vampireffekt,,,
-IncreasedWeightAllowance,Tragfähigkeit,,,
-RepairsObjects,Repariert Objekte,,,
-AbsorbsSpells,Zauberabsorption,,,
-EnhancesSkill,Steigert Fertigkeit,,,
-FeatherWeight,Federgewicht,,,
-StrengthensArmor,Stärkt Rüstung,,,
-ImprovesTalents,Verbessert Talente,,,
-GoodRepWith,Guter Ruf bei,,,
-SoulBound,Gebundene Seele,,,
-ItemDeteriorates,Abnutzung,,,
-UserTakesDamage,Schaden für Benutzer,,,
-VisionProblems,Sichtprobleme,,,
-WalkingProblems,Laufprobleme,,,
-LowDamageVs,Schwach gegen,,,
-HealthLeech,Gesundheitsentzug,,,
-BadReactionsFrom,Reagiert schlecht auf,,,
-ExtraWeight,Zusatzgewicht,,,
-WeakensArmor,Schwächt Rüstung,,,
-BadRepWith,Schlechter Ruf bei,,,
-inHolyPlaces,an heiligen Stätten,,,
-wheneverUsed,bei Benutzung,,,
-unlessUsedDaily,wenn nicht täglich genutzt,,,
-unlessUsedWeekly,wenn nicht pro Woche genutzt,,,
-fromHumanoids,Humanoide,,,
-fromAnimals,Tiere,,,
-fromDaedra,Daedra,,,
-duringWinter,im Winter,,,
-duringSpring,im Frühling,,,
-duringSummer,im Sommer,,,
-duringFall,im Herbst,,,
-duringFullMoon,bei Vollmond,,,
-duringHalfMoon,bei Halbmond,,,
-duringNewMoon,bei Neumond,,,
-nearUndead,bei Untoten,,,
-nearDaedra,bei Daedra,,,
-nearHumanoids,bei Humanoiden,,,
-nearAnimals,bei Tieren,,,
-undeadLower,Untote,,,
-humanoidLower,Humanoide,,,
-animalsLower,Tiere,,,
-animalsUpper,Tiere,,,
-allTheTime,jederzeit,,,
-inSunlight,bei Sonnenlicht,,,
-inDarknessLower,bei Dunkelheit,,,
-atRange,auf Reichweite,,,
-whenStrikes,bei Schlag,,,
-add25Percent,25% zusätzlich,,,
-add50Percent,50% zusätzlich,,,
-hearing,Scharfes Gehör,,,
-athleticismLower,Athletik,,,
-adrenalineRushLower,Adrenalinrausch,,,
-commoners,Bürgerlichen,,,
-merchants,Händlern,,,
-scholars,Gelehrten,,,
-nobility,Adligen,,,
-underworld,Unterwelt,,,
-all,allen,,,
-noRoomInItem,Kein Platz im Gegenstand.,,,
-noEnchantments,Ihr habt keine Verzauberungen für diesen Gegenstand vorbereitet.,,,
-noMonstersNearby,Keine Monster in der Nähe.,,,
-Fire,Feuer,,,
-Frost,Frost,,,
-Poison,Gift,,,
-Shock,Blitz,,,
-Magicka,Magicka,,,
-Animal,Tiere,,,
-Undead,Untote,,,
-Humanoid,Humanoide,,,
-Daedra,Daedra,,,
-dialogButtonInfo,Umschalten zwischen: Aktive Quests,Erledigte Quests,Notizbuch,Nachrichten
-activeQuests,Aktive Quests,,,
-activeQuestsInfo,"Klickt auf eine aktive Quest mit einem Zielort, um die Reise zu beginnen.",,,
-finishedQuests,Erledigte Quests,,,
-finishedQuestsInfo,"Klicken Sie auf einen Eintrag, um ihn zu verschieben. Rechtsklick zum Löschen.",,,
-notebook,Notizbuch,,,
-notebookInfo,"Klickt auf einen Eintrag, um ihn zu verschieben. Rechtsklick zum Löschen. Klickt dazwischen, um eine neue Notiz hinzuzufügen.",,,
-messages,Nachrichten,,,
-messagesInfo,Zuletzt angezeigte Nachrichten,,,
-confirmMoveHead,Eintrag verschieben,,,
-confirmMove,Möchtet Ihr die Position dieses Eintrags ändern?,,,
-confirmMove2,(Er wird vor den nächsten angeklickten Eintragen verschoben),,,
-confirmRemoveHead,Eintrag löschen,,,
-confirmRemove,"Seid Ihr sicher, dass Ihr diesen Eintrag entfernen möchtet?",,,
-confirmRemove2,(Er wird dauerhaft gelöscht und kann nicht wiederhergestellt werden),,,
-confirmFindHead,Zum Zielort reisen,,,
-confirmFind,"Möchtet Ihr die Weltkarte öffnen, um dorthin zu reisen:",,,
-confirmFind2,(Hinweis: Ihr könnt die Reise über die Weltkarte abbrechen),,,
-enterNote,Geben Sie Ihre Notiz ein:,,,
-completedQuest,abgeschlossen,,,
-endedQuest,erledigt,,,
-finishQuestHeader,{0} {1} am {2}:,,,
-quest,Quest,,,
-noteHeader,{0} in {1}:,,,
-houseDeed,Ihr habt die Urkunden erhalten und besitzt nun ein Haus in %town in %region.,,,
-levelProgress,Bis zur nächsten Stufe: {0}%,,,
-readMap,Ihr habt den Standort von %map nach dem Studium einer Karte entdeckt.,,,
-readMapTG,Die Diebesgilde hat den streng gehüteten Aufenthaltsort einer Schatztruhe namens %map enthüllt.,,,
-readMapDB,"Die Dunkle Bruderschaft hat das Geheimnis einiger schatzbeladener Krypten gelüftet, die sich in %map befinden.",,,
-readMapFail,Du hast den auf der Karte angegebenen Ort bereits entdeckt.,,,
-howManyItems,Wie viele Gegenstände kannst du aufnehmen(maximal {0})?,,,
-wagonFullGold,Euer Wagen kann nur {0} Goldstücke aufnehmen.,,,
-itemsIdentified,Gegenstand identifiziert.,,,
-repairDone,FERTIG,,,
-repairDays,%d Tage,,,
-interruptRepair,"Den Gegenstand zurücknehmen, bevor er repariert ist?",,,
-repairNote,Habe {0} zur Reparatur bei {1} gelassen.,,,
-doesntNeedIdentify,Das muss nicht identifiziert werden.,,,
-goldAmount,{0} Goldstücke,,,
-goldWeight,Gewicht: {0} kg,,,
-letterOfCredit,Ihr habt mit einem Kreditbrief bezahlt.,,,
-stealSuccess,Ihr habt Erfolg.,,,
-stealFailure,Ihr habt keinen Erfolg.,,,
-cannotRemoveItem,Ihr könnt den Gegenstand nicht entfernen.,,,
-cannotCarryAnymore,Mehr könnt Ihr nicht tragen.,,,
-cannotHoldAnymore,Euer Karren ist voll. ,,,
-cannotUseThis,Nicht benutzbar.,,,
-equippingWeapon,%it angelegt,,,
-lightDouse,Ihr löscht die %it.,,,
-lightLight,Ihr entfacht die %it.,,,
-lightDies,Eure %it flackert und erlischt.,,,
-lightEmpty,Eure %it hat kein Öl mehr.,,,
-lightRefuel,Ihr schüttet eine Flasche Öl über Eure %it.,,,
-lightFull,Eure %it ist bereit.,,,
-kgSrc,Kilogramm,,,
-kgRep,kg,,,
-damSrc,Schadenspunkte,,,
-damRep,Schaden,,,
-arSrc,Rüstungswert,,,
-arRep,Rüstung,,,
-northern,(nördlich),,,
-southern,(südlich),,,
-noWagon,Ihr besitzt keinen Karren.,,,
-exitTooFar,"Der Ausgang ist zu weit entfernt, um auf Euren Karren zuzugreifen.",,,
-bookUnavailable,Das Buch ist zerstört und unlesbar.,,,
-unknownAuthor,Unbekannter Verfasser,,,
-cannotDeleteVamp,Ihr könnt Vampirzauber nicht löschen.,,,
-cannotDeleteWere,Ihr könnt Lykanthropiezauber nicht löschen,,,
-noRecipes,Ihr habt keine Rezepte.,,,
-potionMixed,Euer Trank wurde gemischt.,,,
-potionFailed,Aus den Zutaten wurde kein wirksamer Zaubertrank gebraut.,,,
-reqIngredients,Ihr habt nicht die erforderlichen Zutaten.,,,
-region,Region,,,
-account,Konto,,,
-loan,Darlehen,,,
-dueDate,Fälligkeitsdatum,,,
-noAccount,Kein Konto,,,
-loanReminder,"Ihr habt ein Darlehen in Höhe von {0} Goldstücken, das in",,,
-loanReminder2,weniger als {0} Monaten in {1} fällig wird,,,
-classicIcons,Klassik,,,
-suggestedIcons,Vorschlag,,,
-serviceMembersOnly,Meine Dienste sind nur für Mitglieder.,,,
-serviceDonateHowMuch,Wie viel Geld spenden :,,,
-curedDisease,Ihr seid geheilt.,,,
-freeHolidayCuring,Durch den heutigen Feiertag werdet Ihr kostenlos geheilt.,,,
-gettingQuests1,"Hmm, mal sehen, welche Aufgauben wir haben.",,,
-gettingQuests2,"Bitte habt Geduld und wartet einen Moment hier, %pcf.",,,
-illegalRestWarning,"Es ist illegal, in oder in der Nähe einer Stadt zu rasten. Trotzdem machen?",,,
-cannotLoiterMoreThanXHours1,Ihr könnt nicht länger warten,,,
-cannotLoiterMoreThanXHours2,als {0} Stunden.,,,
-automapToolTipTextGridButton,"Linksklick: Umschalten zwischen 2D-Draufsicht und 3D-Ansicht (Hotkey: {0})\Rechtsklick: Rotationsachse auf Spielerposition zurücksetzen (Hotkey: {1})\Mausrad nach oben, während Maus über Button ist: Perspektive einnehmen (nur 3D-Modus)\Mausrad nach unten, während Maus über Button ist: Perspektive abnehmen (nur 3D-Modus)",,,
-automapToolTipForwardButton,Linksklick: Blickwinkel nach vorne verschieben (Hotkey: {0})\Rechtsklick: Drehachse vorwärts verschieben (Hotkey: {1}),,,
-automapToolTipBackwardButton,Linksklick: Blickwinkel nach hinten verschieben (Hotkey: {0})\Rechtsklick: Drehachse nach hinten verschieben (Hotkey: {1}),,,
-automapToolTipLeftButton,Linksklick: Blickwinkel nach links verschieben (Hotkey: {0})\Rechtsklick: Drehachse nach links verschieben (Hotkey: {1}),,,
-automapToolTipRightButton,Linksklick: Blickwinkel nach rechts verschieben (Hotkey: {0})\Rechtsklick: Drehachse nach rechts verschieben (Hotkey: {1}),,,
-automapToolTipRotateLeftButton,Linksklick: Dungeon nach links drehen (Hotkey: {0})\Rechtsklick: Kamera nach links drehen (Hotkey: {1}),,,
-automapToolTipRotateRightButton,Linksklick: Dungeon nach rechts drehen (Hotkey: {0})\Rechtsklick: Kamera nach rechts drehen (Hotkey: {1}),,,
-automapToolTipUpstairsButton,Linksklick: Blickwinkel erhöhen (Hotkey: {0})\Rechtsklick: Ebene hoch (Hotkey: {1})\Ebene kann auch bei gedrückter mittlerer Maustaste eingestellt werden\r\rHinweis: Verschiedene Render-Modi können versteckte Geometrie zeigen:\rTaste {2}: Ausschnitt-Modus\rTaste {3}: Drahtgitter-Modus\rTaste {4}: Transparent-Modus\rUmschalten zwischen den Modi mit Return-Taste\r,,,
-automapToolTipDownstairsButton,Linksklick: Blickwinkel verringern (Hotkey: {0})\Rechtsklick: Ebene runter (Hotkey: {1})\Ebene kann auch bei gedrückter mittlerer Maustaste eingestellt werden:\Rhotkey {2}: Ausschnitt-Modus\Rhotkey {3}: Drahtgitter-Modus\Rhotkey {4}: Transparent-Modus\Umschalten zwischen den Modi mit Return-Taste\r,,,
-automapToolTipPanelCompass,"Linksklick: Fokus umschalten (Hotkey: {0})\rBeacons: rot ... Spieler, grün ... Eingang, blau ... Drehachse\r\r Rechtsklick: Ansicht zurücksetzen (Hotkey: {1})\r\Doppelklick linke Maustaste im Fenster, um Markierungsnotiz zu erstellen+zu bearbeiten\Doppelklick linke Maustaste (+Strg-Taste) im Fenster, um Markierung zu erstellen\Doppelklick linke Maustaste auf eine Markierung, um eine Notiz hinzuzufügen/zu bearbeiten\Doppelklick rechte Maustaste auf eine Markierung, um sie zu löschen\Doppelklick rechte Maustaste auf das Fenster, um die Drehachse zu positionieren\Doppelklick mittlere Maustaste auf das Fenster, um die Ansicht zu zentrieren\Doppelklick linke Maustaste auf eine entdeckte Portalmarkierung, um zu einem verbundenen Teleporterportal zu springen\",,,
-automapPlayerPositionBeacon,Spielerposition,,,
-automapRotationPivotAxis,Rotationsdrehachse,,,
-automapEntranceExitPositionBeacon,Eingangs-/Ausgangsposition,,,
-automapEntranceExit,Eingang/Ausgang,,,
-automapPlayerMarker,Spielerposition,,,
-automapTeleporterEntrance,Teleporter (Eingang),,,
-automapTeleporterExit,Teleporter (Ausgang),,,
-exteriorAutomapBuildingTypeAlchemist,Alchemist,,,
-exteriorAutomapBuildingTypeArmorer,Rüstungschmiede,,,
-exteriorAutomapBuildingTypeBank,Bank,,,
-exteriorAutomapBuildingTypeBookseller,Buchhändler,,,
-exteriorAutomapBuildingTypeClothingStore,Kleiderladen,,,
-exteriorAutomapBuildingTypeFurnitureStore,Möbelladen,,,
-exteriorAutomapBuildingTypeGemStore,Schmuckladen,,,
-exteriorAutomapBuildingTypeGeneralStore,Handelshaus,,,
-exteriorAutomapBuildingTypeGuildHall,Gilde,,,
-exteriorAutomapBuildingTypeHouseForSale,Haus zu verkaufen,,,
-exteriorAutomapBuildingTypeLibrary,Bibliothek,,,
-exteriorAutomapBuildingTypePalace,Palast,,,
-exteriorAutomapBuildingTypePawnShop,Pfandleihe,,,
-exteriorAutomapBuildingTypeTavern,Taverne,,,
-exteriorAutomapBuildingTypeTemple,Tempel,,,
-exteriorAutomapBuildingTypeWeaponSmith,Waffenschmied,,,
-exteriorAutomapBuildingTypeUnknown,Unbekannt,,,
-exteriorAutomapToolTipTextGridButton,"Linksklick: zum nächsten Ansichtsmodus wechseln (Hotkey: {0})\Verfügbare Ansichtsmodi sind:\r- Original (Hotkey {1})\r- Extra: enthält zusätzliche Gebäude (Hotkey {2})\r- Alles: enthält zusätzliche Gebäude, Grundflächen (Hotkey {3})\rschalte Hintergrundtextur mit {4}, {5}, {6}, {7}",,,
-exteriorAutomapToolTipForwardButton,Linksklick: nach oben bewegen (Hotkey: {0})\Rechtsklick: zur nördlichen Ortsgrenze bewegen (Hotkey: {1}),,,
-exteriorAutomapToolTipBackwardButton,Linksklick: nach unten bewegen (Hotkey: {0})\Rechtsklick: zum südlichen Ortsrand bewegen (Hotkey: {1}),,,
-exteriorAutomapToolTipLeftButton,Linksklick: nach links bewegen (Hotkey: {0})\Rechtsklick: zur westlichen Ortsgrenze bewegen (Hotkey: {1}),,,
-exteriorAutomapToolTipRightButton,Linksklick: nach rechts bewegen (Hotkey: {0})\Rechtsklick: zum östlichen Ortsrand bewegen (Hotkey: {1}),,,
-exteriorAutomapToolTipRotateLeftButton,Linksklick: Karte nach links drehen (Hotkey: {0})\Rechtsklick: Karte um die Spielerposition\r nach links drehen (Hotkey: {1}),,,
-exteriorAutomapToolTipRotateRightButton,Linksklick: Karte nach rechts drehen (Hotkey: {0})\Rechtsklick: Karte um die Spielerposition\r nach rechts drehen (Hotkey: {1}),,,
-exteriorAutomapToolTipUpstairsButton,Linksklick: Hereinzoomen (Hotkey: {0})\Rechtsklick: Maximalen Zoom anwenden),,,
-exteriorAutomapToolTipDownstairsButton,Linksklick: Herauszoomen (Hotkey: {0})\Rechtsklick: Minimalen Zoom anwenden),,,
-exteriorAutomapToolTipPanelCompass,Linksklick: Spielerposition fokussieren (Hotkey: {0})\Rechtsklick: Ansicht zurücksetzen (Hotkey: {1}),,,
-loading,Bitte warten...,,,
-classicSave,Klassik,,,
-cancel,Zurück,,,
-renameSave,Umbenennen,,,
-deleteSave,Löschen,,,
-switchChar,Charakter wechseln,,,
-savePrompt,Spiel speichern,,,
-loadPrompt,Spiel laden,,,
-saveButton,Speichern,,,
-loadButton,Laden,,,
-enterSaveName,Name eingeben,,,
-selectSaveName,Wählt einen Speicherplatz,,,
-confirmDeleteSave,"Seid Ihr sicher, dass Ihr den Spielstand löschen wollt?",,,
-confirmOverwriteSave,Spielstand überschreiben?,,,
-youMustEnterASaveName,Ihr müsst einen Namen eingeben.,,,
-youMustSelectASaveName,Ihr müsst einen Spielstand auswählen.,,,
-noSavesFound,Keinen Spielstand gefunden. Einen Spielstand von Klassik-Daggerfall laden?,,,
-cannotSaveNow,Ihr könnt jetzt nicht speichern.,,,
-addEffect,Effekt hinzufügen,,,
-buySpell,Zauber kaufen,,,
-newSpell,Neuer Zauber,,,
-exit,Beenden,,,
-casterOnly,Nur auf Anwender,,,
-byTouch,Bei Berührung,,,
-singleTargetAtRange,einzelnes Ziel in Reichweite,,,
-areaAroundCaster,Gebiet um Anwender,,,
-areaAtRange,Gebiet auf Reichweite,,,
-fireBased,Feuerbasiert,,,
-coldBased,Kältebasiert,,,
-poisonBased,Giftbasiert,,,
-shockBased,Blitzbasiert,,,
-magicBased,Magiebasiert,,,
-selectIcon,Icon wählen,,,
-nextIcon,Nächstes Icon,,,
-previousIcon,Vorheriges Icon,,,
-nameSpell,Zauber benennen,,,
-enterSpellName,Zaubername :,,,
-noEffectsError,Du musst mindestens einen Effekt zu diesem Zauberspruch hinzufügen.,,,
-deleteSpell,Wollt Ihr diesen Zauberspruch löschen?,,,
-sortSpells,Möchtet Ihr die Zaubersprüche sortieren?,,,
-effectNotFoundError,<Effekt nicht gefunden>,,,
-noItemToActivate,Ihr habt keinen magischen Gegenstand zum verwenden,,,
-Akatosh,Akatosh,,,
-Arkay,Arkay,,,
-Dibella,Dibella,,,
-Julianos,Julianos,,,
-Kynareth,Kynareth,,,
-Mara,Mara,,,
-Stendarr,Stendarr,,,
-Zenithar,Zenithar,,,
-removeKeybind,"Sind Sie sicher, dass Sie die Tastenkombination für {0} ('{1}') entfernen wollen?",,,
-nord,Nord,,,
-settingsNotApplied,Hinweis: Einige Änderungen werden möglicherweise erst nach einem Neustart des Spiels übernommen.,,,
-doneButton,Fertig,,,
-temple,Tempel,,,
-unknownPowers,Unbekannte Kräfte,,,
-cannotBeRepaired,Das kann nicht repariert werden.,,,
-youNeverAwaken,Ihr erwacht niemals mehr.,,,
-modSettings,Mod-Einstellungen,,,
-gameEffectsSettings,Effekt-Einstellungen,,,
-antialiasing,Antialiasing,,,
-ambientOcclusion,Umgebungsverdeckung,,,
-bloom,Bloom,,,
-motionBlur,Bewegungsunschärfe,,,
-vignette,Vignette,,,
-depthOfField,Tiefenschärfe,,,
-antialiasingTip,Ein glatteres Erscheinungsbild verleihen,,,
-enable,Aktivieren,,,
-fxaa,FXAA,,,
-smaa,SMAA,,,
-taa,TAA,,,
-none,Keine,,,
-method,Methode,,,
-fxaaFastMode,FXAA Schnellmodus,,,
-low,Niedrig,,,
-medium,Mittel,,,
-high,Hoch,,,
-smaaQuality,SMAA Qualität,,,
-taaSharpness,TAA Schärfe,,,
-disabled,Deaktiviert,,,
-setPageDefaults,Auf Standardwerte zurücksetzen,,,
-ambientOcclusionTip,Verdunkelt Höhlen und Dungeons,,,
-scalableAmbientObscurance,Skalierbare Umgebungsverdeckung,,,
-multiScaleVolumetricObscurance,Mehrskalige Volumenverdeckung,,,
-scalableAmbient,Skalierbare Umgebung,,,
-multiScaleVolumetric,Mehrskaliges Volumen,,,
-intensity,Intensität,,,
-lowest,Niedrigste,,,
-ultra,Ultra,,,
-radius,Radius,,,
-quality,Qualität,,,
-thickness,Dicke,,,
-bloomTip,Bringt helle Bereiche zum Leuchten.,,,
-threshold,Schwellenwert,,,
-diffusion,Diffusion,,,
-bloomFastMode,Bloom (Schnellmodus),,,
-motionBlurTip,"Simuliert Objekte, die sich schneller bewegen als die Kameraerfassung",,,
-shutterAngle,Verschlusswinkel,,,
-sampleCount,Beispielzahl,,,
-vignetteTip,Verdunkelt die Ecken des Bildschirms,,,
-smoothness,Geschmeidigkeit,,,
-roundness,Rundheit,,,
-rounded,Gerundet,,,
-depthOfFieldTip,Simuliert die Fokussierung des Kameraobjektivs,,,
-focusDistance,Fokusabstand,,,
-aperture,Blende,,,
-focalLength,Brennweite,,,
-maxBlurSize,Maximale Unschärfe,,,
-small,Klein,,,
-large,Groß,,,
-veryLarge,Sehr Groß,,,
-ditherTip,"Fügt Rauschen hinzu, um großflächige Muster wie Farbänderungen zu reduzieren",,,
-dither,Rauschen,,,
-colorBoost,Farbverstärkung,,,
-colorBoostTip,Hellt Farben in der Nähe der Kamera auf,,,
-dungeonScale,Größe der Dungeons,,,
-interiorScale,Größe Innenräume,,,
-exteriorScale,Größe Außengebiete,,,
-dungeonFalloff,Herunterfallen in Dungeons,,,
-retroMode,Retro-Modus,,,
-retroModeTip,Rendert die Welt in niedrigere Auflösungen,,,
-mode,Modus,,,
-retroModeOff,Aus,,,
-retroMode320x200,320x200,,,
-retroMode640x400,640x400,,,
-off,Aus,,,
-posterizationFull,Posterisierung (voll),,,
-posterizationMinusSky,Posterisierung (-Himmel),,,
-palettizationFull,Palettisierung (voll),,,
-palettizationMinusSky,Palettisierung (-Himmel),,,
-postProcess,Nachbearbeitung,,,
-retroModeAspectCorrection,Seitenverhältniskorrektur,,,
-FourThree,04:03,,,
-SixteenTen,16:10,,,
-notEnoughSpellpointsLeft,Ihr habt nicht genug Spruchpunkte übrig.,,,
-totalIdentified,{0} von {1} identifiziert.,,,
-dispelMagicSuccess,Magie bannen erfolgreich...,,,
-dispelMagicFailed,Magie bannen gescheitert...,,,
-smallerDungeonsChanged,,,,
-youNote,Eure Notiz:,,,
-customName,Benutzerdef. Name:,,,
+allen"
+youReceiveGoldPieces,Ihr erhaltet %s Goldstücke.
+bankPurchasePrice,Preis: %s Gold
+youHaveRentedRoom,Ihr habt ein Zimmer im %s für %d Stunden gemietet.
+haveNotRentedRoom,Ihr habt hier kein Zimmer gemietet.
+expiredRentedRoom,Eure Zimmerbuchung ist abgelaufen.
+tavernAle,Ale (1 Gold)
+tavernBeer,Bier (1 Gold)
+tavernMead,Met (2 Gold)
+tavernWine,Wein (3 Gold)
+tavernBread,Brot (1 Gold)
+tavernBroth,Brühe (1 Gold)
+tavernCheese,Käse (2 Gold)
+tavernFowl,Hühnchen (3 Gold)
+tavernGruel,Brei (2 Gold)
+tavernPie,Pastete (2 Gold)
+tavernStew,Eintopf (3 Gold)
+pressButtonToFireSpell,Taste drücken um den Zauber abzufeuern.
+climbingMode,Klettermodus
+rappelMode,Abseilmodus.
+hangingMode,Hängender Modus
+acuteHearing,Scharfes Gehör
+adrenalineRush,Adrenalinrausch
+athleticism,Athletik
+bonusToHit,Trefferbonus
+expertiseIn,Experte in
+immunity,Immunität
+increasedMagery,Gesteigerte Magie
+rapidHealing,Schnellheilung
+regenerateHealth,Gesundheit regenerieren
+resistance,Resistenz
+spellAbsorption,Zauberabsorption
+animals,Tiere
+daedra,Daedra
+humanoid,Humanoide
+undead,Untote
+axe,Axt
+bluntWeapon,Stumpfe Waffe
+handToHand,Nahkampf
+longBlade,Langwaffe
+missileWeapon,Fernwaffe
+shortBlade,Kurzwaffe
+toDisease,gegen Krankheit
+toFire,gegen Feuer
+toFrost,gegen Frost
+toMagic,gegen Magie
+toParalysis,gegen Lähmung
+toPoison,gegen Gift
+toShock,gegen Blitz
+intInSpellPoints15,1.5x in Spruchpunkten
+intInSpellPoints175,1.75x in Spruchpunkten
+intInSpellPoints2,2x in Spruchpunkten
+intInSpellPoints3,3x in Spruchpunkten
+intInSpellPoints,Int in Spruchpunkten
+general,Allgemein
+inDarkness,bei Dunkelheit
+inLight,bei Lichtern
+whileImmersed,wenn im Wasser
+criticalWeakness,Kritische Schwäche
+damage,Schaden
+darknessPoweredMagery,Magie bei Dunkelheit
+forbiddenArmorType,Verbotene Rüstungen
+forbiddenMaterial,Verbotene Materialien
+forbiddenShieldTypes,Verbotene Schildarten
+forbiddenWeaponry,Verbotene Waffen
+inabilityToRegen,Keine Spruchpunkte-Regeneration
+lightPoweredMagery,Magie bei Licht
+lowTolerance,Niedrige Toleranz
+phobia,Phobie
+fromHolyPlaces,durch heilige Stätten
+fromSunlight,durch Sonnenlicht
+lowerMagicAbilityDaylight,Magieschwächung bei Tageslicht
+unableToUseMagicInDaylight,Magieunfähigkeit bei Tageslicht
+chain,Ketten
+leather,Leder
+plate,Platten
+adamantium,Adamant
+daedric,Daedra
+dwarven,Zwergen
+ebony,Ebenerz
+elven,Elfen
+iron,Eisen
+mithril,Mithril
+orcish,Ork
+silver,Silber
+steel,Stahl
+buckler,Buckler
+kiteShield,Drachenschild
+roundShield,Rundschild
+towerShield,Turmschild
+lowerMagicAbilityDarkness,Magieschwächung bei Dunkelheit
+unableToUseMagicInDarkness,Magieunfähigkeit bei Dunkelheit
+helpAttributes,Attribute
+helpClassName,Klassenname
+helpGeneral,Allgemein
+helpReputations,Ruf
+helpSkillAdvancement,Fertigkeitenanstieg
+helpSkills,Fertigkeiten
+helpSpecialAdvantages,Besondere Vorteile
+helpSpecialDisadvantages,Besondere Nachteile
+lower,Gesunken
+higher,Gestiegen
+unchanged,Unverändert
+elsweyr,Elsweyr
+blackMarsh,Schwarzmarsch
+hammerfell,Hammerfall
+highRock,Hochfels
+morrowind,Morrowind
+skyrim,Himmelsrand
+sumurset,Sommersend
+valenwood,Valenwald
+rollingHills,Hügelland
+desertLand,Wüste
+mountains,Gebirge
+swamps,Sümpfe
+forests,Wälder
+shores,Ufer
+medical,Heilkunde
+etiquette,Etikette
+streetwise,Schlagfertigkeit
+jumping,Springen
+harpy,Hapyisch
+giantish,Riesensprache
+dragonish,Drachisch
+nymph,Nymphisch
+aedric,Daedrisch
+spriggan,Zweigling
+centaurian,Zentaurisch
+impish,Koboldisch
+lockpicking,Schlösser öffnen
+mercantile,Feilschen
+pickpocket,Taschendiebstahl
+stealth,Schleichen
+swimming,Schwimmen
+climbing,Klettern
+backstabbing,Meucheln
+dodging,Ausweichen
+running,Rennen
+destruction,Zerstörung
+restoration,Wiederherstellung
+illusion,Illusion
+alteration,Veränderung
+thaumaturgy,Thaumaturgie
+mysticism,Mystik
+archery,Schießkunst
+criticalStrike,Kritischer Schlag
+strength,Stärke
+intelligence,Intelligenz
+willpower,Willenskraft
+agility,Geschicklichkeit
+endurance,Konstitution
+personality,Charisma
+speed,Schnelligkeit
+luck,Glück
+STR,STR
+INT,INT
+WIL,WIL
+AGI,GES
+END,KON
+PER,CHA
+SPD,SCH
+LUC,GLK
+breton,Bretone
+redguard,Rothwardone
+darkElf,Dunkelelf
+highElf,Hochelf
+woodElf,Waldelf
+khajiit,Khajiit
+argonian,Argonier
+vampire,Vampir
+werewolf,Werwolf
+wereboar,Wereber
+vraseth,Vraseth
+haarvenu,Haarvenu
+thrafey,Thrafey
+lyrezi,Lyrezi
+montalion,Montalion
+khulari,Khulari
+garlythi,Garlythi
+anthotis,Anthotis
+selenu,Selenu
+lockedExteriorDoor,Geschlossen.
+canOnlyCastOncePerDay,Kann nur 1x / Tag gewirkt werden ...
+youNeedToHuntTheInnocent,Ihr verlangt nach unschuldigem Blut ...
+youDreamOfTheMoon,Ihr träumt wieder vom Mond ...
+inventoryWhileShapechanged,Kein Inventar bei Formwandlung...
+youGetNoResponse,Ihr erhaltet keine Antwort.
+copyLogbookInfo,Linksklick: Kopieren des markierten Textes einschalten. Rechtsklick: Kopieren des gesamten aktuellen Gesprächs.
+east,östlich
+northeast,nordöstlich
+north,nördlich
+northwest,nordwestlich
+west,westlich
+southwest,südwestlich
+south,südlich
+southeast,südöstlich
+thisPlace,dieser Ort
+AnyNews,Irgendwelche Neuigkeiten?
+WhereAmI,Wo bin ich?
+AnswerTextWhereAmI,Ihr befindet Euch in {0} in {1}.
+YouAreInSameBuilding,Ihr habt {0} gefunden. Ihr befindet Euch dort.
+NpcInSameBuilding,{0} ist hier irgendwo in {1}.
+PreviousList,Vorherige Liste
+General,Allgemein
+Regional,Regional
+Alchemists,Alchemisten
+Armorers,Rüstungsschmiede
+Banks,Banken
+Bookstores,Buchläden
+Clothingstores,Kleiderläden
+Gemstores,Schmuckläden
+Generalstores,Handelshäuser
+Guilds,Gilden
+Libraries,Bibliotheken
+Pawnshops,Pfandleihen
+Taverns,Tavernen
+Weaponsmiths,Waffenschmieden
+Localtemples,Lokale Tempel
+Sir,Sir
+Ma'am,Ma'am
+oldLeaderFate0,starb an Herzversagen
+oldLeaderFate1,ist unglücklich gestürzt
+oldLeaderFate2,starb an der Pest
+oldLeaderFate3,war zum Rücktritt gezwungen
+oldLeaderFate4,wurde gestürzt
+oldLeaderFate5,wurde in seinem Bett ermordet
+toBeReplacedStringRegional,Jede/r
+replacementStringRegional,jede/r
+comma,","
+resolvingError,...egal...
+chameleon,Chamäleon
+charm,Bezaubern
+comprehendLanguages,Sprachverständnis
+continuousDamage,Dauerschaden
+createItem,Gegenstand erschaffen
+cure,Heilen
+detect,Entdecken
+disintegrate,Auflösen
+dispel,Bannen
+drain,Entzug
+elementalResistance,Elementarwiderstand
+fortifyAttribute,Attribut festigen
+freeAction,Freie Handlung
+heal,Wiederherstellen
+identify,Identifizieren
+invisibility,Unsichtbarkeit
+levitate,Levitieren
+light,Licht
+lock,Schloss
+morphSelf,Morphen (Selbst)
+open,Öffnen
+pacify,Beruhigen
+paralyze,Lähmen
+regenerate,Regenerieren
+shadow,Schatten
+shield,Schild
+silence,Stille
+slowfall,Langsamer Fall
+soulTrap,Seelenfalle
+spellReflection,Zauberreflektion
+spellResistance,Magieresistenz
+teleport,Teleport
+transfer,Übertragen
+waterBreathing,Wasseratmung
+waterWalking,Wasserwandeln
+fire,Feuer
+frost,Frost
+magicka,Magie
+poison,Gift
+shock,Blitz
+enemy,Feind
+magic,Magie
+treasure,Schatz
+fatigue,Ausdauer
+health,Gesundheit
+spellPoints,Spruchpunkte
+disease,Krankheit
+paralyzation,Lähmung
+animal,Tier
+normal,Normal
+TRUE,WAHR
+noName,<kein-name>
+youDontHaveTheSpellPoints,Euch fehlen die Spruchpunkte.
+youAreSilenced,Ihr seid zum Schweigen gebracht.
+youAreParalyzed,Ihr seid gelähmt.
+youFeelDrained,Ihr fühlt Euch ausgezehrt.
+youAreFortified,Ihr fühlt Euch gefestigt.
+youAreInvisible,Ihr seid unsichtbar
+youAreLevitating,Ihr levitiert.
+youAreRegenerating,Ihr regeneriert Euch.
+youAreBlending,Ihr blendet.
+youAreAShade,Ihr seid ein Schatten.
+slowFallActive,Langsamer Fall aktiv.
+saveVersusSpellMade,Zauber wirkungslos.
+spellEffectFailed,Zaubereffekt gescheitert.
+spellAbsorbed,Zauber absorbiert!
+spellReflected,Zauber reflektiert!
+spellResisted,Zauber widerstanden!
+readyToLock,Bereit zum Verschließen.
+readyToOpen,Bereit zum Öffnen.
+doorLocked,Tür ist jetzt verriegelt.
+doorAlreadyLocked,Tür bereits verriegelt.
+openFailed,Schloss ist zu stark.
+noSpellbook,Ihr habt kein Zauberbuch!
+sunlightDamageFastTravelDay,Ihr könnt bei Tag nicht schnellreisen.
+trapActive,Falle aktiv.
+trapHumanoid,Die Falle ist bei Humanoiden nutzlos.
+trapSuccess,Gefangene Seele.
+trapFail,Falle fehlgeschlagen.
+trapNoneEmpty,Ihr habt keine leeren Seelenfallen!
+stamina,Ausdauer
+orcStrength,Orkstärke
+healing,Heilung
+restorePower,Kraft wiederherstellen
+resistFire,Feuerresistenz
+resistFrost,Frostresistenz
+resistShock,Blitzresistenz
+cureDisease,Krankheit heilen
+slowFalling,Langsamer Fall
+healTrue,Heilung (vollständig)
+levitation,Levitation
+resistPoison,Giftresistenz
+curePoison,Gift heilen
+chameleonForm,Chamäleon
+shadowForm,Schattenform
+purification,Läuterung
+LeatherCuirass,Lederharnisch
+LeatherGauntlets,Lederhandschuhe
+LeatherGreaves,Lederbeinschienen
+LeatherLeftPauldron,Lederschulterpl. l.
+LeatherRightPauldron,Lederschulterpl. r.
+LeatherHelm,Lederhelm
+LeatherBoots,Lederstiefel
+ChainCuirass,Kettenharnisch
+ChainGauntlets,Kettenhandschuhe
+ChainGreaves,Kettenbeinschienen
+ChainLeftPauldron,Kettenschulterpl. l.
+ChainRightPauldron,Kettenschulterpl. r.
+ChainHelm,Kettenhelm
+ChainBoots,Kettenstiefel
+SteelCuirass,Stahlharnisch
+SteelGauntlets,Stahlhandschuhe
+SteelGreaves,Stahlstiefel
+SteelLeftPauldron,Stahlschulterpl. l.
+SteelRightPauldron,Stahlschulterpl. r.
+SteelHelm,Stahlhelm
+SteelBoots,Stahlstiefel
+SteelBuckler,Stahlbuckler
+SteelDagger,Stahldolch
+SteelLongsword,Stahllangschwert
+SteelStaff,Stahlstab
+ShortBow,Kurzbogen
+Arrows,Pfeile
+SteelBattleAxe,Stahlkampfaxt
+Robes,Robe
+CastWhenUsed,Wirkung durch Benutzung:
+CastWhenHeld,Dauerhafte Wirkung:
+CastWhenStrikes,Wirkung bei Treffer:
+ExtraSpellPts,Extra-Spruchpkt.
+PotentVs,Stark gegen
+RegensHealth,Gesundheitsregen.
+VampiricEffect,Vampireffekt
+IncreasedWeightAllowance,Tragfähigkeit
+RepairsObjects,Repariert Objekte
+AbsorbsSpells,Zauberabsorption
+EnhancesSkill,Steigert Fertigkeit
+FeatherWeight,Federgewicht
+StrengthensArmor,Stärkt Rüstung
+ImprovesTalents,Verbessert Talente
+GoodRepWith,Guter Ruf bei
+SoulBound,Gebundene Seele
+ItemDeteriorates,Abnutzung
+UserTakesDamage,Schaden für Benutzer
+VisionProblems,Sichtprobleme
+WalkingProblems,Laufprobleme
+LowDamageVs,Schwach gegen
+HealthLeech,Gesundheitsentzug
+BadReactionsFrom,Reagiert schlecht auf
+ExtraWeight,Zusatzgewicht
+WeakensArmor,Schwächt Rüstung
+BadRepWith,Schlechter Ruf bei
+inHolyPlaces,an heiligen Stätten
+wheneverUsed,bei Benutzung
+unlessUsedDaily,wenn nicht täglich genutzt
+unlessUsedWeekly,wenn nicht pro Woche genutzt
+fromHumanoids,Humanoide
+fromAnimals,Tiere
+fromDaedra,Daedra
+duringWinter,im Winter
+duringSpring,im Frühling
+duringSummer,im Sommer
+duringFall,im Herbst
+duringFullMoon,bei Vollmond
+duringHalfMoon,bei Halbmond
+duringNewMoon,bei Neumond
+nearUndead,bei Untoten
+nearDaedra,bei Daedra
+nearHumanoids,bei Humanoiden
+nearAnimals,bei Tieren
+undeadLower,Untote
+humanoidLower,Humanoide
+animalsLower,Tiere
+animalsUpper,Tiere
+allTheTime,jederzeit
+inSunlight,bei Sonnenlicht
+inDarknessLower,bei Dunkelheit
+atRange,auf Reichweite
+whenStrikes,bei Schlag
+add25Percent,25% zusätzlich
+add50Percent,50% zusätzlich
+hearing,Scharfes Gehör
+athleticismLower,Athletik
+adrenalineRushLower,Adrenalinrausch
+commoners,Bürgerlichen
+merchants,Händlern
+scholars,Gelehrten
+nobility,Adligen
+underworld,Unterwelt
+all,allen
+noRoomInItem,Kein Platz im Gegenstand.
+noEnchantments,Ihr habt keine Verzauberungen für diesen Gegenstand vorbereitet.
+noMonstersNearby,Keine Monster in der Nähe.
+Fire,Feuer
+Frost,Frost
+Poison,Gift
+Shock,Blitz
+Magicka,Magicka
+Animal,Tiere
+Undead,Untote
+Humanoid,Humanoide
+Daedra,Daedra
+dialogButtonInfo,Umschalten zwischen: Aktive Quests; Erledigte Quests; Notizbuch; Nachrichten
+activeQuests,Aktive Quests
+activeQuestsInfo,"Klickt auf eine aktive Quest mit einem Zielort, um die Reise zu beginnen."
+finishedQuests,Erledigte Quests
+finishedQuestsInfo,"Klicken Sie auf einen Eintrag, um ihn zu verschieben. Rechtsklick zum Löschen."
+notebook,Notizbuch
+notebookInfo,"Klickt auf einen Eintrag, um ihn zu verschieben. Rechtsklick zum Löschen. Klickt dazwischen, um eine neue Notiz hinzuzufügen."
+messages,Nachrichten
+messagesInfo,Zuletzt angezeigte Nachrichten
+confirmMoveHead,Eintrag verschieben
+confirmMove,Möchtet Ihr die Position dieses Eintrags ändern?
+confirmMove2,(Er wird vor den nächsten angeklickten Eintragen verschoben)
+confirmRemoveHead,Eintrag löschen
+confirmRemove,"Seid Ihr sicher, dass Ihr diesen Eintrag entfernen möchtet?"
+confirmRemove2,(Er wird dauerhaft gelöscht und kann nicht wiederhergestellt werden)
+confirmFindHead,Zum Zielort reisen
+confirmFind,"Möchtet Ihr die Weltkarte öffnen, um dorthin zu reisen:"
+confirmFind2,(Hinweis: Ihr könnt die Reise über die Weltkarte abbrechen)
+enterNote,Geben Sie Ihre Notiz ein:
+completedQuest,abgeschlossen
+endedQuest,erledigt
+finishQuestHeader,{0} {1} am {2}:
+quest,Quest
+noteHeader,{0} in {1}:
+houseDeed,Ihr habt die Urkunden erhalten und besitzt nun ein Haus in %town in %region.
+levelProgress,Bis zur nächsten Stufe: {0}%
+readMap,Ihr habt den Standort von %map nach dem Studium einer Karte entdeckt.
+readMapTG,Die Diebesgilde hat den streng gehüteten Aufenthaltsort einer Schatztruhe namens %map enthüllt.
+readMapDB,"Die Dunkle Bruderschaft hat das Geheimnis einiger schatzbeladener Krypten gelüftet, die sich in %map befinden."
+readMapFail,Du hast den auf der Karte angegebenen Ort bereits entdeckt.
+howManyItems,Wie viele Gegenstände kannst du aufnehmen(maximal {0})?
+wagonFullGold,Euer Wagen kann nur {0} Goldstücke aufnehmen.
+itemsIdentified,Gegenstand identifiziert.
+repairDone,FERTIG
+repairDays,%d Tage
+interruptRepair,"Den Gegenstand zurücknehmen, bevor er repariert ist?"
+repairNote,Habe {0} zur Reparatur bei {1} gelassen.
+doesntNeedIdentify,Das muss nicht identifiziert werden.
+goldAmount,{0} Goldstücke
+goldWeight,Gewicht: {0} kg
+letterOfCredit,Ihr habt mit einem Kreditbrief bezahlt.
+stealSuccess,Ihr habt Erfolg.
+stealFailure,Ihr habt keinen Erfolg.
+cannotRemoveItem,Ihr könnt den Gegenstand nicht entfernen.
+cannotCarryAnymore,Mehr könnt Ihr nicht tragen.
+cannotHoldAnymore,Euer Karren ist voll. 
+cannotUseThis,Nicht benutzbar.
+equippingWeapon,%s angelegt
+lightDouse,Ihr löscht die %it.
+lightLight,Ihr entfacht die %it.
+lightDies,Eure %it flackert und erlischt.
+lightEmpty,Eure %it hat kein Öl mehr.
+lightRefuel,Ihr schüttet eine Flasche Öl über Eure %it.
+lightFull,Eure %it ist bereit.
+kgSrc,Kilogramm
+kgRep,kg
+damSrc,Schadenspunkte
+damRep,Schaden
+arSrc,Rüstungswert
+arRep,Rüstung
+northern,(nördlich)
+southern,(südlich)
+noWagon,Ihr besitzt keinen Karren.
+exitTooFar,"Der Ausgang ist zu weit entfernt, um auf Euren Karren zuzugreifen."
+bookUnavailable,Das Buch ist zerstört und unlesbar.
+unknownAuthor,Unbekannter Verfasser
+cannotDeleteVamp,Ihr könnt Vampirzauber nicht löschen.
+cannotDeleteWere,Ihr könnt Lykanthropiezauber nicht löschen
+noRecipes,Ihr habt keine Rezepte.
+potionMixed,Euer Trank wurde gemischt.
+potionFailed,Aus den Zutaten wurde kein wirksamer Zaubertrank gebraut.
+reqIngredients,Ihr habt nicht die erforderlichen Zutaten.
+region,Region
+account,Konto
+loan,Darlehen
+dueDate,Fälligkeitsdatum
+noAccount,Kein Konto
+loanReminder,"Ihr habt ein Darlehen in Höhe von {0} Goldstücken, das in"
+loanReminder2,weniger als {0} Monaten in {1} fällig wird
+classicIcons,Klassik
+suggestedIcons,Vorschlag
+serviceMembersOnly,Meine Dienste sind nur für Mitglieder.
+serviceDonateHowMuch,Wie viel Geld spenden :
+curedDisease,Ihr seid geheilt.
+freeHolidayCuring,Durch den heutigen Feiertag werdet Ihr kostenlos geheilt.
+gettingQuests1,"Hmm, mal sehen, welche Aufgauben wir haben."
+gettingQuests2,"Bitte habt Geduld und wartet einen Moment hier, %pcf."
+illegalRestWarning,"Es ist illegal, in oder in der Nähe einer Stadt zu rasten. Trotzdem machen?"
+cannotLoiterMoreThanXHours1,Ihr könnt nicht länger warten
+cannotLoiterMoreThanXHours2,als {0} Stunden.
+automapToolTipTextGridButton,"Linksklick: Umschalten zwischen 2D-Draufsicht und 3D-Ansicht (Hotkey: {0})\Rechtsklick: Rotationsachse auf Spielerposition zurücksetzen (Hotkey: {1})\Mausrad nach oben, während Maus über Button ist: Perspektive einnehmen (nur 3D-Modus)\Mausrad nach unten, während Maus über Button ist: Perspektive abnehmen (nur 3D-Modus)"
+automapToolTipForwardButton,Linksklick: Blickwinkel nach vorne verschieben (Hotkey: {0})\Rechtsklick: Drehachse vorwärts verschieben (Hotkey: {1})
+automapToolTipBackwardButton,Linksklick: Blickwinkel nach hinten verschieben (Hotkey: {0})\Rechtsklick: Drehachse nach hinten verschieben (Hotkey: {1})
+automapToolTipLeftButton,Linksklick: Blickwinkel nach links verschieben (Hotkey: {0})\Rechtsklick: Drehachse nach links verschieben (Hotkey: {1})
+automapToolTipRightButton,Linksklick: Blickwinkel nach rechts verschieben (Hotkey: {0})\Rechtsklick: Drehachse nach rechts verschieben (Hotkey: {1})
+automapToolTipRotateLeftButton,Linksklick: Dungeon nach links drehen (Hotkey: {0})\Rechtsklick: Kamera nach links drehen (Hotkey: {1})
+automapToolTipRotateRightButton,Linksklick: Dungeon nach rechts drehen (Hotkey: {0})\Rechtsklick: Kamera nach rechts drehen (Hotkey: {1})
+automapToolTipUpstairsButton,Linksklick: Blickwinkel erhöhen (Hotkey: {0})\Rechtsklick: Ebene hoch (Hotkey: {1})\Ebene kann auch bei gedrückter mittlerer Maustaste eingestellt werden\r\rHinweis: Verschiedene Render-Modi können versteckte Geometrie zeigen:\rTaste {2}: Ausschnitt-Modus\rTaste {3}: Drahtgitter-Modus\rTaste {4}: Transparent-Modus\rUmschalten zwischen den Modi mit Return-Taste\r
+automapToolTipDownstairsButton,Linksklick: Blickwinkel verringern (Hotkey: {0})\Rechtsklick: Ebene runter (Hotkey: {1})\Ebene kann auch bei gedrückter mittlerer Maustaste eingestellt werden:\Rhotkey {2}: Ausschnitt-Modus\Rhotkey {3}: Drahtgitter-Modus\Rhotkey {4}: Transparent-Modus\Umschalten zwischen den Modi mit Return-Taste\r
+automapToolTipPanelCompass,"Linksklick: Fokus umschalten (Hotkey: {0})\rBeacons: rot ... Spieler, grün ... Eingang, blau ... Drehachse\r\r Rechtsklick: Ansicht zurücksetzen (Hotkey: {1})\r\Doppelklick linke Maustaste im Fenster, um Markierungsnotiz zu erstellen+zu bearbeiten\Doppelklick linke Maustaste (+Strg-Taste) im Fenster, um Markierung zu erstellen\Doppelklick linke Maustaste auf eine Markierung, um eine Notiz hinzuzufügen/zu bearbeiten\Doppelklick rechte Maustaste auf eine Markierung, um sie zu löschen\Doppelklick rechte Maustaste auf das Fenster, um die Drehachse zu positionieren\Doppelklick mittlere Maustaste auf das Fenster, um die Ansicht zu zentrieren\Doppelklick linke Maustaste auf eine entdeckte Portalmarkierung, um zu einem verbundenen Teleporterportal zu springen\"
+automapPlayerPositionBeacon,Spielerposition
+automapRotationPivotAxis,Rotationsdrehachse
+automapEntranceExitPositionBeacon,Eingangs-/Ausgangsposition
+automapEntranceExit,Eingang/Ausgang
+automapPlayerMarker,Spielerposition
+automapTeleporterEntrance,Teleporter (Eingang)
+automapTeleporterExit,Teleporter (Ausgang)
+exteriorAutomapBuildingTypeAlchemist,Alchemist
+exteriorAutomapBuildingTypeArmorer,Rüstungschmiede
+exteriorAutomapBuildingTypeBank,Bank
+exteriorAutomapBuildingTypeBookseller,Buchhändler
+exteriorAutomapBuildingTypeClothingStore,Kleiderladen
+exteriorAutomapBuildingTypeFurnitureStore,Möbelladen
+exteriorAutomapBuildingTypeGemStore,Schmuckladen
+exteriorAutomapBuildingTypeGeneralStore,Handelshaus
+exteriorAutomapBuildingTypeGuildHall,Gilde
+exteriorAutomapBuildingTypeHouseForSale,Haus zu verkaufen
+exteriorAutomapBuildingTypeLibrary,Bibliothek
+exteriorAutomapBuildingTypePalace,Palast
+exteriorAutomapBuildingTypePawnShop,Pfandleihe
+exteriorAutomapBuildingTypeTavern,Taverne
+exteriorAutomapBuildingTypeTemple,Tempel
+exteriorAutomapBuildingTypeWeaponSmith,Waffenschmied
+exteriorAutomapBuildingTypeUnknown,Unbekannt
+exteriorAutomapToolTipTextGridButton,"Linksklick: zum nächsten Ansichtsmodus wechseln (Hotkey: {0})\Verfügbare Ansichtsmodi sind:\r- Original (Hotkey {1})\r- Extra: enthält zusätzliche Gebäude (Hotkey {2})\r- Alles: enthält zusätzliche Gebäude, Grundflächen (Hotkey {3})\rschalte Hintergrundtextur mit {4}, {5}, {6}, {7}"
+exteriorAutomapToolTipForwardButton,Linksklick: nach oben bewegen (Hotkey: {0})\Rechtsklick: zur nördlichen Ortsgrenze bewegen (Hotkey: {1})
+exteriorAutomapToolTipBackwardButton,Linksklick: nach unten bewegen (Hotkey: {0})\Rechtsklick: zum südlichen Ortsrand bewegen (Hotkey: {1})
+exteriorAutomapToolTipLeftButton,Linksklick: nach links bewegen (Hotkey: {0})\Rechtsklick: zur westlichen Ortsgrenze bewegen (Hotkey: {1})
+exteriorAutomapToolTipRightButton,Linksklick: nach rechts bewegen (Hotkey: {0})\Rechtsklick: zum östlichen Ortsrand bewegen (Hotkey: {1})
+exteriorAutomapToolTipRotateLeftButton,Linksklick: Karte nach links drehen (Hotkey: {0})\Rechtsklick: Karte um die Spielerposition\r nach links drehen (Hotkey: {1})
+exteriorAutomapToolTipRotateRightButton,Linksklick: Karte nach rechts drehen (Hotkey: {0})\Rechtsklick: Karte um die Spielerposition\r nach rechts drehen (Hotkey: {1})
+exteriorAutomapToolTipUpstairsButton,Linksklick: Hereinzoomen (Hotkey: {0})\Rechtsklick: Maximalen Zoom anwenden)
+exteriorAutomapToolTipDownstairsButton,Linksklick: Herauszoomen (Hotkey: {0})\Rechtsklick: Minimalen Zoom anwenden)
+exteriorAutomapToolTipPanelCompass,Linksklick: Spielerposition fokussieren (Hotkey: {0})\Rechtsklick: Ansicht zurücksetzen (Hotkey: {1})
+loading,Bitte warten...
+classicSave,Klassik
+cancel,Zurück
+renameSave,Umbenennen
+deleteSave,Löschen
+switchChar,Charakter wechseln
+savePrompt,Spiel speichern
+loadPrompt,Spiel laden
+saveButton,Speichern
+loadButton,Laden
+enterSaveName,Name eingeben
+selectSaveName,Wählt einen Speicherplatz
+confirmDeleteSave,"Seid Ihr sicher, dass Ihr den Spielstand löschen wollt?"
+confirmOverwriteSave,Spielstand überschreiben?
+youMustEnterASaveName,Ihr müsst einen Namen eingeben.
+youMustSelectASaveName,Ihr müsst einen Spielstand auswählen.
+noSavesFound,Keinen Spielstand gefunden. Einen Spielstand von Klassik-Daggerfall laden?
+cannotSaveNow,Ihr könnt jetzt nicht speichern.
+addEffect,Effekt hinzufügen
+buySpell,Zauber kaufen
+newSpell,Neuer Zauber
+exit,Beenden
+casterOnly,Nur auf Anwender
+byTouch,Bei Berührung
+singleTargetAtRange,einzelnes Ziel in Reichweite
+areaAroundCaster,Gebiet um Anwender
+areaAtRange,Gebiet auf Reichweite
+fireBased,Feuerbasiert
+coldBased,Kältebasiert
+poisonBased,Giftbasiert
+shockBased,Blitzbasiert
+magicBased,Magiebasiert
+selectIcon,Icon wählen
+nextIcon,Nächstes Icon
+previousIcon,Vorheriges Icon
+nameSpell,Zauber benennen
+enterSpellName,Zaubername :
+noEffectsError,Du musst mindestens einen Effekt zu diesem Zauberspruch hinzufügen.
+deleteSpell,Wollt Ihr diesen Zauberspruch löschen?
+sortSpells,Möchtet Ihr die Zaubersprüche sortieren?
+effectNotFoundError,<Effekt nicht gefunden>
+noItemToActivate,Ihr habt keinen magischen Gegenstand zum verwenden
+Akatosh,Akatosh
+Arkay,Arkay
+Dibella,Dibella
+Julianos,Julianos
+Kynareth,Kynareth
+Mara,Mara
+Stendarr,Stendarr
+Zenithar,Zenithar
+removeKeybind,"Sind Sie sicher, dass Sie die Tastenkombination für {0} ('{1}') entfernen wollen?"
+nord,Nord
+settingsNotApplied,Hinweis: Einige Änderungen werden möglicherweise erst nach einem Neustart des Spiels übernommen.
+doneButton,Fertig
+temple,Tempel
+unknownPowers,Unbekannte Kräfte
+cannotBeRepaired,Das kann nicht repariert werden.
+youNeverAwaken,Ihr erwacht niemals mehr.
+modSettings,Mod-Einstellungen
+gameEffectsSettings,Effekt-Einstellungen
+antialiasing,Antialiasing
+ambientOcclusion,Umgebungsverdeckung
+bloom,Bloom
+motionBlur,Bewegungsunschärfe
+vignette,Vignette
+depthOfField,Tiefenschärfe
+antialiasingTip,Ein glatteres Erscheinungsbild verleihen
+enable,Aktivieren
+fxaa,FXAA
+smaa,SMAA
+taa,TAA
+none,Keine
+method,Methode
+fxaaFastMode,FXAA Schnellmodus
+low,Niedrig
+medium,Mittel
+high,Hoch
+smaaQuality,SMAA Qualität
+taaSharpness,TAA Schärfe
+disabled,Deaktiviert
+setPageDefaults,Auf Standardwerte zurücksetzen
+ambientOcclusionTip,Verdunkelt Höhlen und Dungeons
+scalableAmbientObscurance,Skalierbare Umgebungsverdeckung
+multiScaleVolumetricObscurance,Mehrskalige Volumenverdeckung
+scalableAmbient,Skalierbare Umgebung
+multiScaleVolumetric,Mehrskaliges Volumen
+intensity,Intensität
+lowest,Niedrigste
+ultra,Ultra
+radius,Radius
+quality,Qualität
+thickness,Dicke
+bloomTip,Bringt helle Bereiche zum Leuchten.
+threshold,Schwellenwert
+diffusion,Diffusion
+bloomFastMode,Bloom (Schnellmodus)
+motionBlurTip,"Simuliert Objekte, die sich schneller bewegen als die Kameraerfassung"
+shutterAngle,Verschlusswinkel
+sampleCount,Beispielzahl
+vignetteTip,Verdunkelt die Ecken des Bildschirms
+smoothness,Geschmeidigkeit
+roundness,Rundheit
+rounded,Gerundet
+depthOfFieldTip,Simuliert die Fokussierung des Kameraobjektivs
+focusDistance,Fokusabstand
+aperture,Blende
+focalLength,Brennweite
+maxBlurSize,Maximale Unschärfe
+small,Klein
+large,Groß
+veryLarge,Sehr Groß
+ditherTip,"Fügt Rauschen hinzu, um großflächige Muster wie Farbänderungen zu reduzieren"
+dither,Rauschen
+colorBoost,Farbverstärkung
+colorBoostTip,Hellt Farben in der Nähe der Kamera auf
+dungeonScale,Größe der Dungeons
+interiorScale,Größe Innenräume
+exteriorScale,Größe Außengebiete
+dungeonFalloff,Herunterfallen in Dungeons
+retroMode,Retro-Modus
+retroModeTip,Rendert die Welt in niedrigere Auflösungen
+mode,Modus
+retroModeOff,Aus
+retroMode320x200,320x200
+retroMode640x400,640x400
+off,Aus
+posterizationFull,Posterisierung (voll)
+posterizationMinusSky,Posterisierung (-Himmel)
+palettizationFull,Palettisierung (voll)
+palettizationMinusSky,Palettisierung (-Himmel)
+postProcess,Nachbearbeitung
+retroModeAspectCorrection,Seitenverhältniskorrektur
+FourThree,04:03
+SixteenTen,16:10
+notEnoughSpellpointsLeft,Ihr habt nicht genug Spruchpunkte übrig.
+totalIdentified,{0} von {1} identifiziert.
+dispelMagicSuccess,Magie bannen erfolgreich...
+dispelMagicFailed,Magie bannen gescheitert...
+smallerDungeonsChanged,
+youNote,Eure Notiz:
+customName,Benutzerdef. Name:
 StoresA,"%ef's
 Beste %cn
 Essentielle
@@ -1072,7 +1072,7 @@ Erstklassige
 %rt's
 Des Champions
 Doktor %ef's
-Fürstin %ef's",,,
+Fürstin %ef's"
 GeneralStoresB,"Versorgung
 Vorräte
 Ausrüstung
@@ -1087,7 +1087,7 @@ Kurzwaren
 Handelsstelle
 Münze
 Waren
-Warenhalle",,,
+Warenhalle"
 WeaponStoresB,"Waffen
 Bewaffnung
 Trutzwaffen
@@ -1097,7 +1097,7 @@ Schwertfeger
 Klingen
 Hufschmiede
 Kunstschmiede
-Waffenschmiede",,,
+Waffenschmiede"
 ArmorStoresB,"Rüstkammer
 Wehr
 Tartschen
@@ -1109,7 +1109,7 @@ Hufschmiede
 Kunstschmiede
 Rüstungsschmiede
 Schmiede
-Grobschmiede",,,
+Grobschmiede"
 BookStoresB,"Bücher
 Buchladen
 Schriften
@@ -1117,7 +1117,7 @@ Folianten
 Druckwerke
 Lektüren
 Büchertruhe
-Inkunabeln",,,
+Inkunabeln"
 LibraryStoresB,"Bibliothek
 Buchkammer
 Akademie
@@ -1125,7 +1125,7 @@ Akademie
 Historiker
 Buchkammer
 Schule
-Halle des Wissens",,,
+Halle des Wissens"
 ClothingStoresB,"Kleidung
 Kleider
 Gewandungen
@@ -1136,7 +1136,7 @@ Aufzüge
 Mode
 Schneiderei
 Kluften
-Garderobe",,,
+Garderobe"
 AlchemyStoresB,"Kräuter
 Heilkräuter
 Gewürze
@@ -1159,7 +1159,7 @@ Chemikalien
 Experimentalprodukte
 Alchemie
 Alchemische Lösungen
-Metallurgie",,,
+Metallurgie"
 GemStoresB,"Gemmen
 Schmucksteine
 Kleinodien
@@ -1169,7 +1169,7 @@ Bijouterie
 Juweliere
 Juwelenschatulle
 Geschmeide
-Balierer",,,
+Balierer"
 PawnStoresB,"Pfandwaren
 Pfandleihe
 Schätze
@@ -1177,7 +1177,7 @@ Bestände
 gebrauchte Ausstattung
 Altware
 Pfandgüter
-Antiquitäten",,,
+Antiquitäten"
 FurnitureStoresB,"Möbel
 Mobiliare
 Einrichtung
@@ -1186,7 +1186,7 @@ Dekore
 Schreinerei
 Holzarbeiten
 Werkstatt
-Holzkunst",,,
+Holzkunst"
 LivestockStoresB,"Viehstände
 Tierzucht
 Hoftiere
@@ -1195,7 +1195,7 @@ Kreaturen
 Wildtiere
 Animalia
 Fauna
-Menagerie",,,
+Menagerie"
 TavernsA,"Der Königin
 Des Königs
 Zum Dreckigen
@@ -1231,7 +1231,7 @@ Zu Kröte und
 Zu Ratte und
 Zum Wilden
 Zu Schuft und
-Zum Toten",,,
+Zum Toten"
 TavernsB,"Abgrund
 Krug
 Loch
@@ -1267,13 +1267,13 @@ Pfau
 Hirsch
 Barbar
 Räuber
-Erdgeist",,,
-houseForSale,Haus zum Verkauf,,,
-theBankOf,Bank von,,,
-daggerfall,Dolchsturz,,,
-wayrest,Wegesruh,,,
-sentinel,Schildwacht,,,
-palace,Palast,,,
+Erdgeist"
+houseForSale,Haus zum Verkauf
+theBankOf,Bank von
+daggerfall,Dolchsturz
+wayrest,Wegesruh
+sentinel,Schildwacht
+palace,Palast
 regionNames,"Alik'r-Wüste
 Drachenschwanzberge
 Felsschlucht-Vorgebirge
@@ -1335,18 +1335,18 @@ Gavaudon
 Tulune
 Glenumbramoor
 Ilessanische Hügel
-Cybiades",,,
-ocean,Ozean,,,
-unknownUpper,Unbekannt,,,
-switchToRegion,,,,
-locationInRegionProvince,,,,
+Cybiades"
+ocean,Ozean
+unknownUpper,Unbekannt
+switchToRegion,
+locationInRegionProvince,
 dayNames,"Sundas
 Morndas
 Tirdas
 Middas
 Turdas
 Fredas
-Loredas",,,
+Loredas"
 monthNames,"Morgenstern
 Morgenröte
 Erstaat
@@ -1358,7 +1358,7 @@ Herbstsaat
 Herdfeuer
 Eisherbst
 Abenddämmerung
-Abendstern",,,
+Abendstern"
 birthSignNames,"Das Ritual
 Die Liebende
 Der Fürst
@@ -1370,17 +1370,17 @@ Der Krieger
 Die Fürstin
 Der Turm
 Der Atronach
-Der Dieb",,,
+Der Dieb"
 seasonNames,"Herbst
 Frühling
 Sommer
-Winter",,,
-longDateTimeFormatString,"{0:00}:{1:00}:{2:00} on {3}, {4}{5} of {6:00}, 3Ä{7}",,,
-dateTimeFormatString,"{0:00}:{1:00}:{2:00} am {3}{4} um {5:00}, 3Ä{6}",,,
-dateFormatString,{0} der {1}{2}. {3:00},,,
-ingredientFormatString,{0} {1},,,
-longWeaponNameFormatString,{0} {1},,,
-longArmorNameFormatString,{0} {1},,,
+Winter"
+longDateTimeFormatString,"{0:00}:{1:00}:{2:00} on {3}, {4}{5} of {6:00}, 3Ä{7}"
+dateTimeFormatString,"{0:00}:{1:00}:{2:00} am {3}{4} um {5:00}, 3Ä{6}"
+dateFormatString,{0} der {1}{2}. {3:00}
+ingredientFormatString,{0} {1}
+longWeaponNameFormatString,{0} {1}
+longArmorNameFormatString,{0} {1}
 strRatings,"müde
 matt
 kraftlos
@@ -1389,17 +1389,19 @@ recht stark
 stark
 sehr stark
 gewaltig
-Übermächtig",,,
+Übermächtig"
 intRatings,"vegetativ
 tumb
 idiotisch
 schummrig
+klug
 gewitzt
 recht klug
 sehr intelligent
 brilliant
-Genial",,,
-wilRatings,"submissiv
+Genial"
+wilRatings,"dümmlich
+submissiv
 passiv
 abgelenkt
 zögerlich
@@ -1407,25 +1409,28 @@ stabil
 überzeugt
 entschlossen
 zielstrebig
-Erleuchtet",,,
+erleuchtet"
 agiRatings,"tölpelhaft
+tollpatschig
 unbeholfen
-plump
+ungeschickt
 ungelenk
 flink
 agil
 gewandt
 sehr agil
-Akrobatisch",,,
+akrobatisch
+"
 endRatings,"kränklich
 erbärmlich
 unstet
 erratisch
 beharrlich
+überdurchschnittlich
 ausdauernd
 zäh
 titanisch
-Unsterblich",,,
+unsterblich"
 perRatings,"abstoßend
 unbeliebt
 unbekannt
@@ -1435,43 +1440,46 @@ interessant
 bezaubernd
 einnehmend
 gebieterisch
-Charismatisch",,,
+Charismatisch"
 spdRatings,"inaktiv
 träge
 sehr langsam
 langsam
+durchschnittlich
+überdurchschnittlich
 schnell
 flinkfüßig
 blitzschnell
-Kometengleich",,,
+Kometengleich"
 lucRatings,"verdammt
 hoffnungslos
 unbegünstigt
 glücklos
 recht glücklich
 glücklich
+sehr glücklich
 begünstigt
 glückverheißend
-Göttergesegnet",,,
-Mage,Magier,,,
-Spellsword,Magierkrieger,,,
-Battlemage,Kampfmagier,,,
-Sorcerer,Hexer,,,
-Healer,Heiler,,,
-Nightblade,Nachtklinge,,,
-Bard,Barde,,,
-Burglar,Einbrecher,,,
-Rogue,Bandit,,,
-Acrobat,Akrobat,,,
-Thief,Dieb,,,
-Assassin,Assassine,,,
-Monk,Mönch,,,
-Archer,Schütze,,,
-Ranger,Waldläufer,,,
-Barbarian,Barbar,,,
-Warrior,Krieger,,,
-Knight,Ritter,,,
-Custom,Indiv.,,,
+Göttergesegnet"
+Mage,Magier
+Spellsword,Magierkrieger
+Battlemage,Kampfmagier
+Sorcerer,Hexer
+Healer,Heiler
+Nightblade,Nachtklinge
+Bard,Barde
+Burglar,Einbrecher
+Rogue,Bandit
+Acrobat,Akrobat
+Thief,Dieb
+Assassin,Assassine
+Monk,Mönch
+Archer,Schütze
+Ranger,Waldläufer
+Barbarian,Barbar
+Warrior,Krieger
+Knight,Ritter
+Custom,Indiv.
 darkBrotherhoodRanks,"Lehrling
 Geselle
 Operator
@@ -1479,8 +1487,9 @@ Schlächter
 Henker
 Rächer
 Terminator
+Assassine
 Dunkler Bruder
-Meisterassassine",,,
+Meisterassassine"
 fightersRanks,"Lehrling
 Geselle
 Schwertkämpfer
@@ -1488,8 +1497,9 @@ Protektor
 Verteidiger
 Beschützer
 Wächter
+Champion
 Kriegsfürst
-Meister",,,
+Meister"
 knightlyOrderRanks,"Anwärter
 Knappe
 Edelknecht
@@ -1499,7 +1509,7 @@ Ritterbruder
 Kommandant
 Marschall
 Seneschall
-Paladin",,,
+Paladin"
 magesRanks,"Lehrling
 Geselle
 Gelehrter
@@ -1509,7 +1519,7 @@ Verzauberer
 Hexer
 Zauberer
 Hochmagier
-Erzmagier",,,
+Erzmagier"
 templeRanks,"Novize
 Eingeweihter
 Akolyth
@@ -1518,26 +1528,28 @@ Kurator
 Jünger
 Bruder
 Prophet
-Patriarch",,,
+Meister
+Patriarch"
 thievesRanks,"Lehrling
 Geselle
 Halunke
 Gauner
 Räuber
 Bandit
+Dieb
 Hauptmann
 Anführer
-Meisterdieb",,,
-darkSister,Dunkle Schwester,,,
-nonMember,Nichtmitglied,,,
-knightSister,Ritterschwester,,,
-matriarch,Matriarchin,,,
-sister,Schwester,,,
-daedricSkill,Daedrisch,,,
-orcishSkill,Orkisch,,,
-midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3Ä{5},,,
-hthDamageFormatString,{0} Schaden: {1}-{2},,,
-affiliationFormatString,{0} (Ruf:{1}),,,
+Meisterdieb"
+darkSister,Dunkle Schwester
+nonMember,Nichtmitglied
+knightSister,Ritterschwester
+matriarch,Matriarchin
+sister,Schwester
+daedricSkill,Daedrisch
+orcishSkill,Orkisch
+midDateTimeFormatString,{0:00}:{1:00}:{2:00} {3:00} {4:00} 3Ä{5}
+hthDamageFormatString,{0} Schaden: {1}-{2}
+affiliationFormatString,{0} (Ruf:{1})
 answers_5404,"bow
 bow arrow
 crossbow
@@ -1548,15 +1560,15 @@ bogen
 Bogen und Pfeil
 Armbrust
 Bögen
-Armbrüste",,,
+Armbrüste"
 answers_5406,"one
 1
 Eins
-eins",,,
+eins"
 answers_5423,"benefactor
 the benefactor
 der Wohltäter
-Wohltäter",,,
+Wohltäter"
 answers_5424,"shut up
 shutup
 shaddup
@@ -1574,7 +1586,7 @@ Stille
 ruhe
 Ruhe
 sei ruhig
-Sei Ruhig",,,
+Sei Ruhig"
 answers_5464,"yes
 ok
 i agree
@@ -1598,8 +1610,8 @@ natürlich
 Natürlich
 jo
 Jo
-JO",,,
-random,Zufall,,,
-nordSurnameImmutableSuffix,sen,,,
-confirmDefaultControls,Seid Ihr sicher die Standardsteuerung einzustellen?,,,
-saveLoadPromptFormat,{0} für '{1}',,,
+JO"
+random,Zufall
+nordSurnameImmutableSuffix,sen
+confirmDefaultControls,Seid Ihr sicher die Standardsteuerung einzustellen?
+saveLoadPromptFormat,{0} für '{1}'
