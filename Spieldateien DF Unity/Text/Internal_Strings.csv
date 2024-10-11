@@ -401,7 +401,7 @@ intInSpellPoints15,1.5x in Spruchpunkten
 intInSpellPoints175,1.75x in Spruchpunkten
 intInSpellPoints2,2x in Spruchpunkten
 intInSpellPoints3,3x in Spruchpunkten
-intInSpellPoints,Int in Spruchpunkten
+intInSpellPoints,INT in Spruchpunkten
 general,Allgemein
 inDarkness,bei Dunkelheit
 inLight,bei Lichtern
@@ -409,10 +409,10 @@ whileImmersed,wenn im Wasser
 criticalWeakness,Kritische Schwäche
 damage,Schaden
 darknessPoweredMagery,Magie bei Dunkelheit
-forbiddenArmorType,Verbotene Rüstungen
-forbiddenMaterial,Verbotene Materialien
-forbiddenShieldTypes,Verbotene Schildarten
-forbiddenWeaponry,Verbotene Waffen
+forbiddenArmorType,Verbotene Rüstung
+forbiddenMaterial,Verbotenes Material
+forbiddenShieldTypes,Verbotene Schildart
+forbiddenWeaponry,Verbotene Waffe
 inabilityToRegen,Keine Spruchpunkte-Regeneration
 lightPoweredMagery,Magie bei Licht
 lowTolerance,Niedrige Toleranz
@@ -423,15 +423,15 @@ lowerMagicAbilityDaylight,Magieschwächung bei Tageslicht
 unableToUseMagicInDaylight,Magieunfähigkeit bei Tageslicht
 chain,Ketten
 leather,Leder
-plate,Platten
+plate,Platte
 adamantium,Adamant
-daedric,Daedra
-dwarven,Zwergen
+daedric,Daedrisch
+dwarven,Zwergisch
 ebony,Ebenerz
-elven,Elfen
+elven,Elfisch
 iron,Eisen
 mithril,Mithril
-orcish,Ork
+orcish,Orkisch
 silver,Silber
 steel,Stahl
 buckler,Buckler
@@ -459,12 +459,12 @@ morrowind,Morrowind
 skyrim,Himmelsrand
 sumurset,Sommersend
 valenwood,Valenwald
-rollingHills,Hügelland
-desertLand,Wüste
-mountains,Gebirge
-swamps,Sümpfe
-forests,Wälder
-shores,Ufer
+rollingHills,im Hügelland
+desertLand,in der Wüste
+mountains,im Gebirge
+swamps,in den Sümpfen
+forests,in den Wäldern
+shores,am Ufer
 medical,Heilkunde
 etiquette,Etikette
 streetwise,Schlagfertigkeit
