@@ -3,38 +3,38 @@ DisplayName: Rache für Drachen
 QRC:
 
 QuestorOffer:  [1000]
-So Ihr zufällig nach Arbeit suchet und schnelle
-_reward_ Goldstücke wünscht, so hätte ich womöglich
-eine Aufgabe für Euch. Sie erfordert etwas
-Kampfgeschick, doch es scheint, als wäre Euch
-dies nicht unlieb. Klingt das nach einer Möglichkeit?
+<ce> So Ihr zufällig nach Arbeit suchet und schnelle
+<ce> _reward_ Goldstücke wünscht, so hätte ich womöglich
+<ce> eine Aufgabe für Euch. Sie erfordert etwas
+<ce> Kampfgeschick, doch es scheint, als wäre Euch
+<ce> dies nicht unlieb. Klingt das nach einer Möglichkeit?
 
 RefuseQuest:  [1001]
-Ich verstehe. Das ist in der Tat enttäuschend.
+<ce> Ich verstehe. Das ist in der Tat enttäuschend.
 
 AcceptQuest:  [1002]
-Sehr gut. Ihr wisst, dass Akatosh der Gott der Zeit
-ist, doch ER ist auch ein Drachengott und wir führen
-Drachen als unser heiliges Symbol. Nun hat ein Mitglied
-des Ordens der Stunde, unseres kämpfenden Ordens, den
-Verstand verloren und unsere Drachen direkt in unserem
-heiligen Hain angegriffen. Natürlich muss der Mörder
-aufgehalten werden. Ihr werdet den Drachentöter an einem
-Ort namens ___mondung_ finden. Wenn Ihr
-nicht binnen =1stparton_ Tagen erfolgreich seid, werden wir
-den Orden der Stunde entsenden und Eure Belohnung wird
-hinfällig. Möge Akatosh Euch auf Eurer Quest segnen.
+<ce> Sehr gut. Ihr wisst, dass Akatosh der Gott der Zeit
+<ce> ist, doch ER ist auch ein Drachengott und wir führen
+<ce> Drachen als unser heiliges Symbol. Nun hat ein Mitglied
+<ce> des Ordens der Stunde, unseres kämpfenden Ordens, den
+<ce> Verstand verloren und unsere Drachen direkt in unserem
+<ce> heiligen Hain angegriffen. Natürlich muss der Mörder
+<ce> aufgehalten werden. Ihr werdet den Drachentöter an einem
+<ce> Ort namens ___mondung_ finden. Wenn Ihr
+<ce> nicht binnen =1stparton_ Tagen erfolgreich seid, werden wir
+<ce> den Orden der Stunde entsenden und Eure Belohnung wird
+<ce> hinfällig. Möge Akatosh Euch auf Eurer Quest segnen.
 
 QuestFail:  [1003]
-Ihr solltet besser weiterziehen, %pcf.
-Euch verbleibt nicht mehr viel Zeit,
-den Drachentöter zu richten.
+<ce> Ihr solltet besser weiterziehen, %pcf.
+<ce> Euch verbleibt nicht mehr viel Zeit,
+<ce> den Drachentöter zu richten.
 
 QuestComplete:  [1004]
-Ich bin froh, Euch wiederzusehen, %pcf.
-Und Eure Mission war von Erfolg gekrönt.
-Wie versprochen sind hier Eure _reward_ Goldstücke.
-Habt Dank für Euren Dienst.
+<ce> Ich bin froh, Euch wiederzusehen, %pcf.
+<ce> Und Eure Mission war von Erfolg gekrönt.
+<ce> Wie versprochen sind hier Eure _reward_ Goldstücke.
+<ce> Habt Dank für Euren Dienst.
 
 RumorsDuringQuest:  [1005]
 Die Kantorei des Akatosh ist höchst erzörnt darüber, dass einer ihrer eigenen ein Drachentöter ist.
@@ -62,18 +62,18 @@ Drachentöter umbringen würdet, %pcf.
 Nie wieder werde ich das tun.
 
 Message:  1020
-"Die Akatosh-Kantorei ... gewinnt.
-Alles was ich je wollte ... war,
-die Drachen ... zu befreien."
+<ce> "Die Akatosh-Kantorei ... gewinnt.
+<ce> Alles was ich je wollte ... war,
+<ce> die Drachen ... zu befreien."
  
 Der Drachentöter ist tot.
 
 Message:  1030
-%qdat:
-Die Kantorei des Akatosh bat mich, jemanden
-zur Strecke zu bringen, der die Drachen in
-ihrem heiligen Hain angegriffen hat. Ich muss
-nach ___mondung_ gehen, den Drachentöter töten
-und innerhalb von =1stparton_ Tagen zur Kantorei in
-___questgiver_ zurückkehren.
+%qdt:
+ Die Kantorei des Akatosh bat mich, jemanden
+ zur Strecke zu bringen, der die Drachen in
+ ihrem heiligen Hain angegriffen hat. Ich muss
+ nach ___mondung_ gehen, den Drachentöter töten
+ und innerhalb von =1stparton_ Tagen zur Kantorei in
+ ___questgiver_ zurückkehren.
 

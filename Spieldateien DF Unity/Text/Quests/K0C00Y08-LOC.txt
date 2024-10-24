@@ -3,44 +3,44 @@ DisplayName: Ein seltenes Buch
 QRC:
 
 QuestorOffer:  [1000]
-Habt Ihr schon einmal von _book_
-gehört? Es ist ein seltener Band, beinahe
-unmöglich zu finden, aber ich habe ein Exemplar
-ausfindig gemacht, in einem Verlies hier in %reg.
-Ihr bekommt _upfront_ Goldstücke im Voraus
-und nochmal _gold_ Goldstücke, sobald
-ich das Buch in meinen Händen halte.
-Abgemacht?
+<ce> Habt Ihr schon einmal von _book_
+<ce> gehört? Es ist ein seltener Band, beinahe
+<ce> unmöglich zu finden, aber ich habe ein Exemplar
+<ce> ausfindig gemacht, in einem Verlies hier in %reg.
+<ce> Ihr bekommt _upfront_ Goldstücke im Voraus
+<ce> und nochmal _gold_ Goldstücke, sobald
+<ce> ich das Buch in meinen Händen halte.
+<ce> Abgemacht?
 <--->
-Ich bin auf der Suche nach einem ganz bestimmten
-Buch; einem, das man nicht in irgendeinem
-Geschäft kaufen kann, zumindest nicht, ohne
-astronomische Preise dafür zu bezahlen. Vor
-Kurzem hörte ich, dass ein Exemplar in einem
-Verlies nicht weit von hier aufgetaucht sein soll.
-Wenn Ihr Euch für mich auf die Suche nach diesem
-Buch begebt, gebe ich Euch _upfront_ Goldstücke
-im Voraus und weitere _gold_ Goldstücke, wenn Ihr
-zurückkehrt. Sind wir im Geschäft, %pcf?
+<ce> Ich bin auf der Suche nach einem ganz bestimmten
+<ce> Buch; einem, das man nicht in irgendeinem
+<ce> Geschäft kaufen kann, zumindest nicht, ohne
+<ce> astronomische Preise dafür zu bezahlen. Vor
+<ce> Kurzem hörte ich, dass ein Exemplar in einem
+<ce> Verlies nicht weit von hier aufgetaucht sein soll.
+<ce> Wenn Ihr Euch für mich auf die Suche nach diesem
+<ce> Buch begebt, gebe ich Euch _upfront_ Goldstücke
+<ce> im Voraus und weitere _gold_ Goldstücke, wenn Ihr
+<ce> zurückkehrt. Sind wir im Geschäft, %pcf?
 
 RefuseQuest:  [1001]
-Nun gut. Dann werde ich einen
-anderen Söldner suchen.
+<ce> Nun gut. Dann werde ich einen
+<ce> anderen Söldner suchen.
 
 AcceptQuest:  [1002]
-Gut. Ich gebe Euch =queston_ Tage, um
-das Buch aus ___mondung_ zu bergen
-und zurückzukehren, oder Ihr könnt
-Eure _gold_ Goldstücke vergessen.
-Der Titel des Buches lautet
-_book_. Viel Glück,
-%pcf.
+<ce> Gut. Ich gebe Euch =queston_ Tage, um
+<ce> das Buch aus ___mondung_ zu bergen
+<ce> und zurückzukehren, oder Ihr könnt
+<ce> Eure _gold_ Goldstücke vergessen.
+<ce> Der Titel des Buches lautet
+<ce> _book_. Viel Glück,
+<ce> %pcf.
 
 QuestComplete:  [1004]
-Ah, ausgezeichnet. Hier sind die
-_gold_ Goldstücke, die ich Euch
-versprochen habe. Ich danke Euch
-vielmals, %pcf.
+<ce> Ah, ausgezeichnet. Hier sind die
+<ce> _gold_ Goldstücke, die ich Euch
+<ce> versprochen habe. Ich danke Euch
+<ce> vielmals, %pcf.
 
 RumorsDuringQuest:  [1005]
 Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
@@ -107,10 +107,10 @@ QuestorPostsuccess:  [1008]
 Was kann ich für Euch tun, oh %ra, der mir _book_ brachte?
 
 QuestorPostfailure:  [1009]
-Da _book_ erneut
-verloren gegangen ist, wüsste
-ich nicht, wieso Ihr mich behelligen
-solltet. Geht, haut ab.
+<ce> Da _book_ erneut
+<ce> verloren gegangen ist, wüsste
+<ce> ich nicht, wieso Ihr mich behelligen
+<ce> solltet. Geht, haut ab.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -123,10 +123,10 @@ QuestLogEntry:  [1010]
  =queston_ Tagen oder weniger zurückkehre.
 
 Message:  1011
-Ihr habt _book_ gefunden.
+<ce> Ihr habt _book_ gefunden.
 
 Message:  1012
-_qgiver_ wird böse sein.
-Ihr seid bereits über der Zeit, in
-der Ihr %g2 das Buch bringen solltet.
+<ce> _qgiver_ wird böse sein.
+<ce> Ihr seid bereits über der Zeit, in
+<ce> der Ihr %g2 das Buch bringen solltet.
 

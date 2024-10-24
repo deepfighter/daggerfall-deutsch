@@ -3,45 +3,45 @@ DisplayName: Geschenk des Kaisers
 QRC:
 
 QuestorOffer:  [1000]
-Ich befinde mich in einer äußerst delikaten
-Situation, %pcf. Wenn ich auf Eure
-Sorgfalt und Euer Stillschweigen zählen könnte,
-würdet Ihr, sagen wir, _reward_ Goldstücke an
-meinem Unglück verdienen. Klingt das verlockend?
+<ce> Ich befinde mich in einer äußerst delikaten
+<ce> Situation, %pcf. Wenn ich auf Eure
+<ce> Sorgfalt und Euer Stillschweigen zählen könnte,
+<ce> würdet Ihr, sagen wir, _reward_ Goldstücke an
+<ce> meinem Unglück verdienen. Klingt das verlockend?
 
 RefuseQuest:  [1001]
-%oth, verflucht, und %oth!
-Ich bin von gleichgültigen Faulpelzen umgeben!
-Nichts für ungut, %pcf.
+<ce> %oth, verflucht, und %oth!
+<ce> Ich bin von gleichgültigen Faulpelzen umgeben!
+<ce> Nichts für ungut, %pcf.
 
 AcceptQuest:  [1002]
-Nun, das ist zumindest etwas Gutes. Vor
-nicht allzu langer Zeit, in einer Phase
-finanzieller Stagnation, verpfändete ich einen
-Ring, den mir der Kaiser höchstselbst geschenkt
-hat. Ich nahm an, dass es Uriel Septim niemals
-in diese Ecke des Reiches verschlagen würde,
-aber jetzt erfahre ich, dass seine Agenten in
-der Gegend sind, und ich muss diesen Ring
-zurückhaben. _contact_ von __contact_
-in ___contact_ wird ihn nur noch
-für =1stparton_ weitere Tage aufbewahren. Hier ist
-das Gold, um den Ring zu bezahlen. Viel Glück
-und möge %god Eure Reise mit Schnelle segnen.
+<ce> Nun, das ist zumindest etwas Gutes. Vor
+<ce> nicht allzu langer Zeit, in einer Phase
+<ce> finanzieller Stagnation, verpfändete ich einen
+<ce> Ring, den mir der Kaiser höchstselbst geschenkt
+<ce> hat. Ich nahm an, dass es Uriel Septim niemals
+<ce> in diese Ecke des Reiches verschlagen würde,
+<ce> aber jetzt erfahre ich, dass seine Agenten in
+<ce> der Gegend sind, und ich muss diesen Ring
+<ce> zurückhaben. _contact_ von
+<ce> __contact_ in ___contact_ wird ihn nur noch
+<ce> für =1stparton_ weitere Tage aufbewahren. Hier ist
+<ce> das Gold, um den Ring zu bezahlen. Viel Glück
+<ce> und möge %god Eure Reise mit Schnelle segnen.
 
 QuestFail:  [1003]
-Mein Ring, %pcf? Der %god
-verdammte Ring, den ich Euch holen ließ?
-Wo ist er? Wenn Ihr ihn verloren habt,
-werde ich Euch das Fell über die Ohren ziehen,
-%ra!
+<ce> Mein Ring, %pcf? Der %god
+<ce> verdammte Ring, den ich Euch holen ließ?
+<ce> Wo ist er? Wenn Ihr ihn verloren habt,
+<ce> werde ich Euch das Fell über die Ohren ziehen,
+<ce> %ra!
 
 QuestComplete:  [1004]
-Oh gut, oh gut, der Ring. Oh danke,
-danke, %pcf. Hier sind
-die _reward_ Goldstücke, die ich
-versprach. Eine teure Lieferung,
-aber jeden Goldstück wert.
+<ce> Oh gut, oh gut, der Ring. Oh danke,
+<ce> danke, %pcf. Hier sind
+<ce> die _reward_ Goldstücke, die ich
+<ce> versprach. Eine teure Lieferung,
+<ce> aber jeden Goldstück wert.
 
 RumorsDuringQuest:  [1005]
 Ich habe gehört, dass die Männer des Kaisers kein großes Aufsehen machen, wenn sie in die Stadt kommen.
@@ -64,22 +64,22 @@ Ah, hallo, Ringträger. Was kann ich für Euch tun?
 Ihr habt mir geholfen, mein Ansehen beim Kaiserreich zu bewahren. Nun, was kann ich für Euch tun?
 
 QuestorPostfailure:  [1009]
-Die kaiserlichen Gesandten haben nicht
-bemerkt, dass der Ring weg war. Gedankt
-sei %god. Dennoch, bin ich Euch
-momentan nicht wohlgesonnen, %pcf.
+<ce> Die kaiserlichen Gesandten haben nicht
+<ce> bemerkt, dass der Ring weg war. Gedankt
+<ce> sei %god. Dennoch, bin ich Euch
+<ce> momentan nicht wohlgesonnen, %pcf.
 
 QuestLogEntry:  [1010]
-Ihr müsst %pcf sein. Ihr habt Glück,
-dass Ihr noch rechtzeitig gekommen seid.
-Ich war gerade dabei, den Ring an einen
-äußerst vielversprechenden Interessenten
-zu verkaufen. Nun gut, wenn ich es richtig
-verstehe und _questgiver_
-den Ring vor dem Eintreffen der
-kaiserlichen Staatsmänner haben möchte,
-solltet Ihr besser aufbrechen.
-Ihr habt nur sehr wenig Zeit.
+<ce> Ihr müsst %pcf sein. Ihr habt Glück,
+<ce> dass Ihr noch rechtzeitig gekommen seid.
+<ce> Ich war gerade dabei, den Ring an einen
+<ce> äußerst vielversprechenden Interessenten
+<ce> zu verkaufen. Nun gut, wenn ich es richtig
+<ce> verstehe und _questgiver_
+<ce> den Ring vor dem Eintreffen der
+<ce> kaiserlichen Staatsmänner haben möchte,
+<ce> solltet Ihr besser aufbrechen.
+<ce> Ihr habt nur sehr wenig Zeit.
 
 Message:  1015
 %qdt:
@@ -95,13 +95,13 @@ Message:  1015
  weniger als =1stparton_ Tagen.
 
 Message:  1020
-Gebt mir den Ring. Ihr könnt
-es uns einfach oder schwer
-machen, das liegt ganz bei Euch.
-So oder so, wir bekommen den Ring.
+<ce> Gebt mir den Ring. Ihr könnt
+<ce> es uns einfach oder schwer
+<ce> machen, das liegt ganz bei Euch.
+<ce> So oder so, wir bekommen den Ring.
 
 Message:  1021
-Narr. Jetzt werdet Ihr sterben. 
-Habt Ihr wirklich geglaubt, wir
-würden einen Zeugen am Leben lassen?
+<ce> Narr. Jetzt werdet Ihr sterben. 
+<ce> Habt Ihr wirklich geglaubt, wir
+<ce> würden einen Zeugen am Leben lassen?
 

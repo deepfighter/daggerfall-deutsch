@@ -3,46 +3,46 @@ DisplayName: Die vierte Person
 QRC:
 
 QuestorOffer:  [1000]
-Ich habe eine ziemlich komplizierte Mission,
-die eine vierte Person erfordert. Es könnte
-ein paar Tage dauern, sie zu erfüllen, aber es
-bedeutet auch zusätzliche _reward_ Goldstücke
-in Eurer Tasche. Klingt das interessant?
+<ce> Ich habe eine ziemlich komplizierte Mission,
+<ce> die eine vierte Person erfordert. Es könnte
+<ce> ein paar Tage dauern, sie zu erfüllen, aber es
+<ce> bedeutet auch zusätzliche _reward_ Goldstücke
+<ce> in Eurer Tasche. Klingt das interessant?
 
 RefuseQuest:  [1001]
-Das ist enttäuschend.
-Nun gut.
+<ce> Das ist enttäuschend.
+<ce> Nun gut.
 
 AcceptQuest:  [1002]
-Ich habe einen Kontakt in ___npc1_,
-der einen bestimmten Gegenstand besitzt,
-den ein anderer Geschäftspartner von mir
-in __npc2 benötigt. Natürlich muss
-_npc1_, mein Kontakt in ___npc1_,
-für %g3 Gegenstand bezahlt werden.
-Deshalb brauche ich Euch, um diesen
-Diamanten als Bezahlung an _npc1_
-zu überbringen. Der Diamant muss innerhalb
-von =1stparton Tagen in %g3 Besitz sein.
-Sobald Ihr in __npc1_ angekommen
-seid, wird _npc1_ Euch weitere
-Anweisungen geben. Ich danke Euch,
-%pcf, und %god sei mit Euch.
+<ce> Ich habe einen Kontakt in ___npc1_,
+<ce> der einen bestimmten Gegenstand besitzt,
+<ce> den ein anderer Geschäftspartner von mir
+<ce> in __npc2 benötigt. Natürlich muss
+<ce> _npc1_, mein Kontakt in ___npc1_,
+<ce> für %g3 Gegenstand bezahlt werden.
+<ce> Deshalb brauche ich Euch, um diesen
+<ce> Diamanten als Bezahlung an _npc1_
+<ce> zu überbringen. Der Diamant muss innerhalb
+<ce> von =1stparton Tagen in %g3 Besitz sein.
+<ce> Sobald Ihr in __npc1_ angekommen
+<ce> seid, wird _npc1_ Euch weitere
+<ce> Anweisungen geben. Ich danke Euch,
+<ce> %pcf, und %god sei mit Euch.
 
 QuestFail:  [1003]
-Ich weiß, es war kompliziert, %pcf,
-aber ich hatte gehofft, dass dieses
-kleine Gehirn, welches in Eurem dicken
-Schädel steckt, irgendetwas taugt.
-Ich hoffe, Ihr habt mitgeschrieben,
-denn ich pflege mich nicht zu wiederholen.
+<ce> Ich weiß, es war kompliziert, %pcf,
+<ce> aber ich hatte gehofft, dass dieses
+<ce> kleine Gehirn, welches in Eurem dicken
+<ce> Schädel steckt, irgendetwas taugt.
+<ce> Ich hoffe, Ihr habt mitgeschrieben,
+<ce> denn ich pflege mich nicht zu wiederholen.
 
 QuestComplete:  [1004]
-Ah, der _item2_.
-Ich fürchtete schon, er würde nie ankommen.
-Nun, hier sind Eure _reward_ Goldstücke, wie
-versprochen. Sagt __npc2_, ich
-stehe in %g3 Schuld. Und auch Euch danke ich.
+<ce> Ah, der _item2_.
+<ce> Ich fürchtete schon, er würde nie ankommen.
+<ce> Nun, hier sind Eure _reward_ Goldstücke, wie
+<ce> versprochen. Sagt __npc1_, ich
+<ce> stehe in %g3 Schuld. Und auch Euch danke ich.
 
 RumorsDuringQuest:  [1005]
 _npc2_ in __npc2_ schreit immer noch wegen %g3 _item2_ herum.
@@ -60,24 +60,27 @@ Ich frage mich, was die Verbindung zwischen _questgiver_ und _npc2_ ist.
 Ich hörte, _npc1_ hat %g3 _item2_ verkauft. Was in Tamriel könnte wohl der Preis dafür gewesen sein?
 
 QuestorPostsuccess:  [1008]
-Nun, wenn das nicht %pcn, der ultimative Kurier, ist. Wie geht es Euch, mein Freund?
+<ce> Nun, wenn das nicht %pcn,
+<ce> der ultimative Kurier, ist.
+<ce> Wie geht es Euch, mein Freund?
 <--->
-Ihr habt mir geholfen, als ich in Not war, %pcf. Was kann ich für Euch tun?
+<ce> Ihr habt mir geholfen, als ich in Not war,
+<ce> %pcf. Was kann ich für Euch tun?
 
 QuestorPostfailure:  [1009]
-Ich nehme an, Ihr seid gekommen,
-um Euch für Eure unvollständige
-Kurierarbeit zu entschuldigen,
-%pcf? Entschuldigung nicht
-akzeptiert. Verschwindet jetzt.
+<ce> Ich nehme an, Ihr seid gekommen,
+<ce> um Euch für Eure unvollständige
+<ce> Kurierarbeit zu entschuldigen,
+<ce> %pcf? Entschuldigung nicht
+<ce> akzeptiert. Verschwindet jetzt.
 
 QuestLogEntry:  [1010]
-Dank sei %god, dass Ihr angekommen
-seid, %pcf. Gebt mir schnell den Diamanten.
-Nehmt nun _item2_ und bringt ihn zu
-_npc2_ nach __npc2_ --
-das liegt in __npc2.
-Einmal dort, wird %g Euch bezahlen.
+<ce> Dank sei %god, dass Ihr angekommen
+<ce> seid, %pcf. Gebt mir schnell den Diamanten.
+<ce> Nehmt nun _item2_ und bringt ihn zu
+<ce> _npc2_ nach __npc2_ --
+<ce> das liegt in __npc2.
+<ce> Einmal dort, wird %g Euch bezahlen.
 
 Message:  1015
 %qdt:

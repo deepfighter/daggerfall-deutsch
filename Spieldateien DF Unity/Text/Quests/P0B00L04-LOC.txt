@@ -1,5 +1,5 @@
 Quest: P0B00L04
-DisplayName:  Ein alter Feind
+DisplayName: Ein alter Feind
 QRC:
 
 QuestorOffer:  [1000]
@@ -12,18 +12,18 @@ AcceptQuest:  [1002]
 Error: Questtext 1002 called.
 
 QuestComplete:  [1004]
-Liegt da etwa eine Spur des Bedauerns auf
-Eurer Stirn, %pcf? Ich verstehe
-das sehr gut. Auch ich musste bereits zu
-mehr als einer Gelegenheit einen meiner
-Abkömmlinge erschlagen. Ihr müsst lernen,
-über dieser gefühlsseligen, sterbliche
-Rücksicht gegenüber der Vermehrung erhaben zu
-sein. Was Ihr tun musstet, ist bedauernswert,
-aber Ihr müsst Euer Blut beruhigen, um
-wahrhaftig zu einem der %vam zu
-werden. Ihr habt einen Schritt in die richtige
-Richtung getan, für den Ihr Gratulation verdient.
+<ce> Liegt da etwa eine Spur des Bedauerns auf
+<ce> Eurer Stirn, %pcf? Ich verstehe
+<ce> das sehr gut. Auch ich musste bereits zu
+<ce> mehr als einer Gelegenheit einen meiner
+<ce> Abkömmlinge erschlagen. Ihr müsst lernen,
+<ce> über dieser gefühlsseligen, sterbliche
+<ce> Rücksicht gegenüber der Vermehrung erhaben zu
+<ce> sein. Was Ihr tun musstet, ist bedauernswert,
+<ce> aber Ihr müsst Euer Blut beruhigen, um
+<ce> wahrhaftig zu einem der %vam zu
+<ce> werden. Ihr habt einen Schritt in die richtige
+<ce> Richtung getan, für den Ihr Gratulation verdient.
 
 RumorsDuringQuest:  [1005]
 Das Grab von =vampire_ muss ausgeraubt worden sein. Es ist ... komplett verwüstet.
@@ -119,9 +119,9 @@ QuestLogEntry:  [1010]
                     _vamp_
 
 Message:  1011
-Ein bleicher junger Knabe drückt
-Euch einen Brief in die Hand und
-verschwindet flink wie eine Ratte.
+<ce> Ein bleicher junger Knabe drückt
+<ce> Euch einen Brief in die Hand und
+<ce> verschwindet flink wie eine Ratte.
 
 Message:  1012
 %qdt:
@@ -132,26 +132,26 @@ Message:  1012
  in ___vamp_ ersucht.
 
 Message:  1013
-Ah, einen guten Abend Euch, Blut von meinem Blut.
-Wir haben ein Problem, Ihr und ich. Eine Eurer
-früheren Mahlzeiten ist aus dem Grab zurückgekehrt.
-=vampire_? Ich weiß nicht, ob Euch der Name
-etwas sagt. Auf jeden Fall haben wir %g2 beobachtet,
-so wie wir Euch beobachtet haben, um zu sehen, ob
-%g3 Reaktion auf die Unsterblichkeit %g3 Blutlinie
-würdig ist. Sie war es nicht. Mit jedem Tropfen Blut,
-den %g trinkt, vervielfacht sich %g3 Durst um das
-Zehnfache. Ein tobender, junger Vampir, der frei in
-dieser Region umherstreift, stellt eine Bedrohung
-aller zivilisierten vampirischen Geschäfte dar.
-Geht zum ___mondung_ und entledigt Euch dieses
-lästigen Kindes von Euch. Es ist eine unangenehme
-Angelegenheit, aber es ist auch Eure Pflicht. Ich
-erwarte, Euch innerhalb von =queston_ Nächten
-nach vollbrachter Tat wiederzusehen. Lebt wohl.
+<ce> Ah, einen guten Abend Euch, Blut von meinem Blut.
+<ce> Wir haben ein Problem, Ihr und ich. Eine Eurer
+<ce> früheren Mahlzeiten ist aus dem Grab zurückgekehrt.
+<ce> =vampire_? Ich weiß nicht, ob Euch der Name
+<ce> etwas sagt. Auf jeden Fall haben wir %g2 beobachtet,
+<ce> so wie wir Euch beobachtet haben, um zu sehen, ob
+<ce> %g3 Reaktion auf die Unsterblichkeit %g3 Blutlinie
+<ce> würdig ist. Sie war es nicht. Mit jedem Tropfen Blut,
+<ce> den %g trinkt, vervielfacht sich %g3 Durst um das
+<ce> Zehnfache. Ein tobender, junger Vampir, der frei in
+<ce> dieser Region umherstreift, stellt eine Bedrohung
+<ce> aller zivilisierten vampirischen Geschäfte dar.
+<ce> Geht zum ___mondung_ und entledigt Euch dieses
+<ce> lästigen Kindes von Euch. Es ist eine unangenehme
+<ce> Angelegenheit, aber es ist auch Eure Pflicht. Ich
+<ce> erwarte, Euch innerhalb von =queston_ Nächten
+<ce> nach vollbrachter Tat wiederzusehen. Lebt wohl.
 
 Message:  1014
-%dat:
+%qdt:
  _vamp_ hat mich nach
  ___mondung_ geschickt,
  wo ich =vampire_ töten soll,
@@ -161,18 +161,18 @@ Message:  1014
  mich im ___vamp_ zurückzumelden.
 
 Message:  1015
-Ihr spart besser nicht mit der Peitsche,
-mein Schöpfer. Sonst verderbt Ihr mich.
+<ce> Ihr spart besser nicht mit der Peitsche,
+<ce> mein Schöpfer. Sonst verderbt Ihr mich.
 <--->
-Ich kenne Euch. Ihr wart das letzte
-Gesicht, das ich sah, beschmiert mit
-dem Blut meines Körpers. Kommt,
-mein lieber Schöpfer, umarmen wir uns.
+<ce> Ich kenne Euch. Ihr wart das letzte
+<ce> Gesicht, das ich sah, beschmiert mit
+<ce> dem Blut meines Körpers. Kommt,
+<ce> mein lieber Schöpfer, umarmen wir uns.
 <--->
-Euer Gesicht ist das Gesicht in meinen
-Alpträumen, %pcn. Ihr seid
-derjenige, der mich zu diesem Unleben
-verdammt hat, ist es nicht so?
+<ce> Euer Gesicht ist das Gesicht in meinen
+<ce> Alpträumen, %pcn. Ihr seid
+<ce> derjenige, der mich zu diesem Unleben
+<ce> verdammt hat, ist es nicht so?
 
 Message:  1016
 =vampire_ stirbt

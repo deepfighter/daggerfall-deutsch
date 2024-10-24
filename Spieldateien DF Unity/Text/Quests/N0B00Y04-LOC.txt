@@ -3,39 +3,39 @@ DisplayName: Eine Zutat besorgen
 QRC:
 
 QuestorOffer:  [1000]
-Ihr müsst für uns eine seltene Zutat
-besorgen, die in einem Gewölbe in der
-Nähe versteckt ist. Ihr werdet einen
-Finderlohn von _gold_ Goldstücken erhalten.
-Seid Ihr interessiert?
+<ce> Ihr müsst für uns eine seltene Zutat
+<ce> besorgen, die in einem Gewölbe in der
+<ce> Nähe versteckt ist. Ihr werdet einen
+<ce> Finderlohn von _gold_ Goldstücken erhalten.
+<ce> Seid Ihr interessiert?
 <--->
-Einer unserer brillianteren Gelehrten ist
-absolut verrückt nach etwas, das man
-_ingredient_ nennt, woran wir aber bisher
-nur wenig Bedarf hatten. Würdet Ihr, wenn
-es Euch nicht zu viel Mühe macht, zu dieser
-besonderen Stätte eilen und für uns etwas
-davon mitnehmen?
+<ce> Einer unserer brillianteren Gelehrten ist
+<ce> absolut verrückt nach etwas, das man
+<ce> _ingredient_ nennt, woran wir aber bisher
+<ce> nur wenig Bedarf hatten. Würdet Ihr, wenn
+<ce> es Euch nicht zu viel Mühe macht, zu dieser
+<ce> besonderen Stätte eilen und für uns etwas
+<ce> davon mitnehmen?
 
 RefuseQuest:  [1001]
-Hmmm. Ich hoffe, das nächste
-Gildenmitglied ist hilfsbereiter.
+<ce> Hmmm. Ich hoffe, das nächste
+<ce> Gildenmitglied ist hilfsbereiter.
 
 AcceptQuest:  [1002]
-Eine hervorragende Einstellung,
-%pcf. Ihr sucht nach
-einer Probe _ingredient_.
-Davon findet sich in ___dungeon_
-reichlich. Ihr habt =traveltime_ Tage,
-um die Probe herzubringen.
+<ce> Eine hervorragende Einstellung,
+<ce> %pcf. Ihr sucht nach
+<ce> einer Probe _ingredient_.
+<ce> Davon findet sich in ___dungeon_
+<ce> reichlich. Ihr habt =traveltime_ Tage,
+<ce> um die Probe herzubringen.
 
 QuestComplete:  [1004]
-Ich nehme an, das hier wird genügen.
-Konntet Ihr keine frischere Probe
-auftreiben? Die Qualität der
-Gildenmitglieder ist auch nicht
-mehr das, was sie mal war. Sei's drum,
-hier ist Euer Finderlohn, %pcf.
+<ce> Ich nehme an, das hier wird genügen.
+<ce> Konntet Ihr keine frischere Probe
+<ce> auftreiben? Die Qualität der
+<ce> Gildenmitglieder ist auch nicht
+<ce> mehr das, was sie mal war. Sei's drum,
+<ce> hier ist Euer Finderlohn, %pcf.
 
 RumorsDuringQuest:  [1005]
 Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
@@ -99,15 +99,15 @@ Ich habe neulich einen großartigen Witz gehört. %jok
 Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
 
 QuestorPostsuccess:  [1008]
-Nun, nachdem ich diese Probe _ingredient_
-bekommen habe, wie kann ich da nicht froh sein,
-Euch zu sehen?
+<ce> Nun, nachdem ich diese Probe _ingredient_
+<ce> bekommen habe, wie kann ich da nicht froh sein,
+<ce> Euch zu sehen?
 
 QuestorPostfailure:  [1009]
-Wir haben diese Probe _ingredient_
-wirklich dringend gebraucht. Ich schätze,
-wir wissen es nun besser als Euch irgendwelche
-wichtigen Aufgaben anzuvertrauen.
+<ce> Wir haben diese Probe _ingredient_
+<ce> wirklich dringend gebraucht. Ich schätze,
+<ce> wir wissen es nun besser als Euch irgendwelche
+<ce> wichtigen Aufgaben anzuvertrauen.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -120,14 +120,14 @@ QuestLogEntry:  [1010]
  Probe zu beschaffen.
 
 Message:  1040
-Dies sieht wie die Probe _ingredient_
-aus, die _qgiver_ wollte.
+<ce> Dies sieht wie die Probe _ingredient_
+<ce> aus, die _qgiver_ wollte.
 
 Message:  1045
-Ihr erinnert Euch plötzlich daran,
-dass _qgiver_ Euch darum
-gebeten hatte, ihm bis heute eine
-Probe _ingredient_ zu bringen.
-_qgiver_ wird ganz sicher
-enttäuscht sein.
+<ce> Ihr erinnert Euch plötzlich daran,
+<ce> dass _qgiver_ Euch darum
+<ce> gebeten hatte, ihm bis heute eine
+<ce> Probe _ingredient_ zu bringen.
+<ce> _qgiver_ wird ganz sicher
+<ce> enttäuscht sein.
 

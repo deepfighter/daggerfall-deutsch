@@ -3,36 +3,39 @@ DisplayName: Drachentöter
 QRC:
 
 QuestorOffer:  [1000]
-Schhh! Niemand soll hiervon erfahren,
-%pct. Ich habe gerade erfahren,
-dass ein Drache entdeckt wurde! Gut,
-kein voll ausgewachsenes Exemplar,
-nur ein kleiner Drachling. Es gibt
-keine heldenhaftere Aufgabe für einen
-unserer Ritter, als einen Drachen zu
-töten. Ich weiß, wo er sich befindet,
-Ihr zieht los und bringt ihn um! Den
-Ruhm können wir uns teilen. Ist das
-ein Angebot?
+<ce> Schhh! Niemand soll hiervon erfahren,
+<ce> %pct. Ich habe gerade erfahren,
+<ce> dass ein Drache entdeckt wurde! Gut,
+<ce> kein voll ausgewachsenes Exemplar,
+<ce> nur ein kleiner Drachling. Es gibt
+<ce> keine heldenhaftere Aufgabe für einen
+<ce> unserer Ritter, als einen Drachen zu
+<ce> töten. Ich weiß, wo er sich befindet,
+<ce> Ihr zieht los und bringt ihn um! Den
+<ce> Ruhm können wir uns teilen. Ist das
+<ce> ein Angebot?
 <--->
-Es ist für Euch an der Zeit zu beweisen,
-dass Ihr wirklich diesem Ritterorden
-angehört. Zeit für Euch, einen Drachen
-zu töten.
+<ce> Es ist für Euch an der Zeit zu beweisen,
+<ce> dass Ihr wirklich diesem Ritterorden
+<ce> angehört. Zeit für Euch, einen Drachen
+<ce> zu töten.
 
 RefuseQuest:  [1001]
-Erzählt jemandem davon und der Orden
-wird Euch mit Schimpf und Schande
-davonjagen.
+<ce> Erzählt jemandem davon und der Orden
+<ce> wird Euch mit Schimpf und Schande
+<ce> davonjagen.
 
 AcceptQuest:  [1002]
-Der Drachling ist gerade in ___dungeon_
-aus seinem Ei geschlüpft. Keine Ahnung,
-ob es dort noch andere Drachen gibt.
-Ich kann das alles noch =2dung_ Tage geheimhalten.
+<ce> Der Drachling ist gerade in ___dungeon_
+<ce> aus seinem Ei geschlüpft. Keine Ahnung,
+<ce> ob es dort noch andere Drachen gibt.
+<ce> Ich kann das alles noch =2dung_ Tage geheimhalten.
 
 QuestComplete:  [1004]
-Hoch lebe %pcn, von nun an und für immerdar als Drachentöter bekannt! Hoch lebe _qgiver_, starker Schwertarm und teurer Vertrauter!
+<ce> Hoch lebe %pcn, von nun an
+<ce> und für immerdar als Drachentöter bekannt!
+<ce> Hoch lebe _qgiver_, starker
+<ce> Schwertarm und teurer Vertrauter!
 
 RumorsDuringQuest:  [1005]
 Heute gab es nichts interessantes.
@@ -95,7 +98,7 @@ QuestLogEntry:  [1010]
  zu sonnen.
 
 Message:  1011
-Der Drachling ist tot.
-Darüber werden die Ritter
-noch Jahre reden!
+<ce> Der Drachling ist tot.
+<ce> Darüber werden die Ritter
+<ce> noch Jahre reden!
 

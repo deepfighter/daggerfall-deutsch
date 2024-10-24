@@ -3,38 +3,38 @@ DisplayName: Eine Lieferung
 QRC:
 
 QuestorOffer:  [1000]
-Seid gesegnet, %pcn.
-__qgiver_ begehrt Eure Dienste,
-für einen wichtigen Botengang. Dieses
-religitem muss binnen =traveltime Tagen
-in __priest ankommen. Ihr werdet
-vom dortigen Tempel
-gold Goldstücke als Lohn
-erhalten. Vermöget Ihr,
-dies für uns zu tun?
+<ce> Seid gesegnet, %pcn.
+<ce> __qgiver_ begehrt Eure Dienste,
+<ce> für einen wichtigen Botengang. Dieses
+<ce> religitem muss binnen =traveltime Tagen
+<ce> in __priest ankommen. Ihr werdet
+<ce> vom dortigen Tempel
+<ce> _gold_ Goldstücke als Lohn
+<ce> erhalten. Vermöget Ihr,
+<ce> dies für uns zu tun?
 
 RefuseQuest:  [1001]
-So sei es. Ich werde wohl einen
-anderen treuen Diener des Tempels
-finden müssen, der diese
-Aufgabe übernimmt.
+<ce> So sei es. Ich werde wohl einen
+<ce> anderen treuen Diener des Tempels
+<ce> finden müssen, der diese
+<ce> Aufgabe übernimmt.
 
 AcceptQuest:  [1002]
-Hier habt Ihr _religitem_.
-Bringt es zu _priest_
-vom __priest_ in ___priest_.
-Oh, ich vergaß beinahe zu erwähnen,
-dass ein rivalisierender Tempel
-möglicherweise jemanden entsendet,
-um Euch aufzuhalten."
+<ce> Hier habt Ihr _religitem_.
+<ce> Bringt es zu _priest_
+<ce> vom __priest_ in ___priest_.
+<ce> Oh, ich vergaß beinahe zu erwähnen,
+<ce> dass ein rivalisierender Tempel
+<ce> möglicherweise jemanden entsendet,
+<ce> um Euch aufzuhalten."
 
 QuestComplete:  [1004]
-Die Gnade %god's sei mit Euch,
-%pcn. Dieses _religitem_
-wird hier dringend benötigt.
-Ich verstehe, dass ich Euch
-_gold_ Goldstücke als Bezahlung
-zukommen lassen sollte.
+<ce> Die Gnade %god's sei mit Euch,
+<ce> %pcn. Dieses _religitem_
+<ce> wird hier dringend benötigt.
+<ce> Ich verstehe, dass ich Euch
+<ce> _gold_ Goldstücke als Bezahlung
+<ce> zukommen lassen sollte.
 
 RumorsDuringQuest:  [1005]
 Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
@@ -88,8 +88,8 @@ QuestLogEntry:  [1010]
  dort sein.
 
 Message:  1011
-Dieses _religitem_ wird
-niemals in __priest_
-ankommen. Dafür sollte ich
-Euch den Kopf abtrennen.
+<ce> Dieses _religitem_ wird
+<ce> niemals in __priest_
+<ce> ankommen. Dafür sollte ich
+<ce> Euch den Kopf abtrennen.
 

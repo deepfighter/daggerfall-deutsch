@@ -3,56 +3,56 @@ DisplayName: Schlafzauber wirken
 QRC:
 
 QuestorOffer:  [1000]
-_warrior_ hat die Gilde edlen
-Herzens bei vielen Unternehmungen
-gefördert, und wenn wir uns Feinde
-gemacht haben, so hat %g die mit
-uns geteilt. Nun hat uns %g3 Kurier
-Nachricht gebracht, dass %g von einer
-Hexe mit endloser Schlaflosigkeit
-verflucht wurde. Ein einfacher
-Schlafzauber würde das heilen - seid
-Ihr vielleicht willens und fähig,
-diesen Zauber zu wirken? Ich würde Euch
-dafür mit Freuden _gold_ Goldstücke zahlen.
+<ce> _warrior_ hat die Gilde edlen
+<ce> Herzens bei vielen Unternehmungen
+<ce> gefördert, und wenn wir uns Feinde
+<ce> gemacht haben, so hat %g die mit
+<ce> uns geteilt. Nun hat uns %g3 Kurier
+<ce> Nachricht gebracht, dass %g von einer
+<ce> Hexe mit endloser Schlaflosigkeit
+<ce> verflucht wurde. Ein einfacher
+<ce> Schlafzauber würde das heilen - seid
+<ce> Ihr vielleicht willens und fähig,
+<ce> diesen Zauber zu wirken? Ich würde Euch
+<ce> dafür mit Freuden _gold_ Goldstücke zahlen.
 <--->
-Wenn Ihr in der Lage seid, den üblichen
-Zirkulierzauber "Schlaf" zu wirken - ein
-Freund der Gilde ist in Nöten.
-_warrior_ wurde verflucht und
-braucht diesen einschläfernden Zauber.
-Ich kann Euch für diesen Dienst
-_gold_ Goldstücke anbieten.
+<ce> Wenn Ihr in der Lage seid, den üblichen
+<ce> Zirkulierzauber "Schlaf" zu wirken - ein
+<ce> Freund der Gilde ist in Nöten.
+<ce> _warrior_ wurde verflucht und
+<ce> braucht diesen einschläfernden Zauber.
+<ce> Ich kann Euch für diesen Dienst
+<ce> _gold_ Goldstücke anbieten.
 
 RefuseQuest:  [1001]
-Ich verstehe. %oth, "Schlaf"
-ist ein relativ einfacher Zauber.
-Es wäre auch nicht zu Eurem Schaden,
-ihn zu lernen.
+<ce> Ich verstehe. %oth, "Schlaf"
+<ce> ist ein relativ einfacher Zauber.
+<ce> Es wäre auch nicht zu Eurem Schaden,
+<ce> ihn zu lernen.
 
 AcceptQuest:  [1002]
-Sehr gut. Nun, ich habe dem Kurier
-zu verstehen gegeben, dass wir
-lediglich einen Schlafzauber auf
-_warrior_ wirken würden.
-In Anbetracht der Erfahrungen, die
-%g bisher mit Fluchsprüchen gemacht hat,
-könnt Ihr %g2 diesen Argwohn kaum verübeln.
+<ce> Sehr gut. Nun, ich habe dem Kurier
+<ce> zu verstehen gegeben, dass wir
+<ce> lediglich einen Schlafzauber auf
+<ce> _warrior_ wirken würden.
+<ce> In Anbetracht der Erfahrungen, die
+<ce> %g bisher mit Fluchsprüchen gemacht hat,
+<ce> könnt Ihr %g2 diesen Argwohn kaum verübeln.
  
-Ihr werdet _warrior_ zu _castle_
-in __castle_ finden. _warrior_
-wird wohl eine Rüstung tragen. Sorgt dafür,
-dass Ihr in =queston_ Tagen zurück seid und
-sich unser Freund dann im Tiefschlaf befindet.
+<ce> Ihr werdet _warrior_ zu _castle_
+<ce> in __castle_ finden. _warrior_
+<ce> wird wohl eine Rüstung tragen. Sorgt dafür,
+<ce> dass Ihr in =queston_ Tagen zurück seid und
+<ce> sich unser Freund dann im Tiefschlaf befindet.
 
 QuestComplete:  [1004]
-Wie ich höre, ist _warrior_
-noch stehenden Fußes in tiefste
-Torpeszenz gesunken. Ich hoffe, dass
-%g vor dem nächsten Neujahrsfest
-aufwacht. Was Euch angeht, mein
-%ra, habt Ihr Euch natürlich
-Eure _gold_ Goldstücke verdient.
+<ce> Wie ich höre, ist _warrior_
+<ce> noch stehenden Fußes in tiefste
+<ce> Benommenheit gesunken. Ich hoffe, dass
+<ce> %g vor dem nächsten Neujahrsfest
+<ce> aufwacht. Was Euch angeht, mein
+<ce> %ra, habt Ihr Euch natürlich
+<ce> Eure _gold_ Goldstücke verdient.
 
 RumorsDuringQuest:  [1005]
 _warrior_ ist schon seit Tagen wach. Ich glaube, %g verliert noch den Verstand.
@@ -73,12 +73,12 @@ QuestorPostsuccess:  [1008]
 Ihr habt uns geholfen, unsere guten Beziehungen zu _warrior_ zu erhalten. Was kann ich für Euch tun?
 
 QuestorPostfailure:  [1009]
-Als Ihr unseren Freund _warrior_
-im Stich gelassen habt, da habt Ihr
-auch die Gilde im Stich gelassen.
-Verschwindet von hier. Es wird einige
-Zeit brauchen, bis ich Euch vergeben
-kann, %pcn.
+<ce> Als Ihr unseren Freund _warrior_
+<ce> im Stich gelassen habt, da habt Ihr
+<ce> auch die Gilde im Stich gelassen.
+<ce> Verschwindet von hier. Es wird einige
+<ce> Zeit brauchen, bis ich Euch vergeben
+<ce> kann, %pcn.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -88,8 +88,8 @@ QuestLogEntry:  [1010]
  zu wirken. Ich habe =queston_ Tage Zeit,
  um nach _castle_ in 
  __castle_ zu gelangen, wo
- _warrior_  lebt, den Spruch zu wirken
- und zu  _qgiver_ in der Magiergilde
+ _warrior_ lebt, den Spruch zu wirken
+ und zu _qgiver_ in der Magiergilde
  zurückzukehren.
 
 Message:  1011

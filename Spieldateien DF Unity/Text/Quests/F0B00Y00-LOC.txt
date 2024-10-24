@@ -3,57 +3,56 @@ DisplayName: Das begehrte Kunstwerk
 QRC:
 
 QuestorOffer:  [1000]
-Eine der wichtigsten Aufgaben des Hauses
-der Dibella ist die Bewahrung von großen
-Kunstwerken. Unsere Kundschafter durchstreifen
-ganz Tamriel nach seltenen und schönen Stücken.
-Steht Ihr zur Verfügung, ein solches Meisterwerk
-zurückzuholen? Es ist nicht weit von hier, und
-wir würden Euch dafür mit Freuden _reward_ Goldstücke
-zahlen.
+<ce> Eine der wichtigsten Aufgaben des Hauses
+<ce> der Dibella ist die Bewahrung von großen
+<ce> Kunstwerken. Unsere Kundschafter durchstreifen
+<ce> ganz Tamriel nach seltenen und schönen Stücken.
+<ce> Steht Ihr zur Verfügung, ein solches Meisterwerk
+<ce> zurückzuholen? Es ist nicht weit von hier, und
+<ce> wir würden Euch dafür mit Freuden _reward_ Goldstücke
+<ce> zahlen.
 <--->
-In über 4000 Jahren Hochkultur in Tamriel hat
-das Haus der Dibella unermüdlich daran gearbeitet,
-altertümliche und kunstsinnige Gegenstände vor
-ihrem Verderben in den groben und raffgierigen
-Händen der Zeit zu schützen. Wir unterhalten ein
-hochentwickeltes Netzwerk von Archäologen, Kunsthändlern
-und Kurieren, die gut bezahlt werden, um dem Haus Kunst
-zu vermitteln. Würdet Ihr uns bei einem solchen
-Unterfangen unterstützten, %pcf?
+<ce> In über 4000 Jahren Hochkultur in Tamriel hat
+<ce> das Haus der Dibella unermüdlich daran gearbeitet,
+<ce> altertümliche und kunstsinnige Gegenstände vor
+<ce> ihrem Verderben in den groben und raffgierigen
+<ce> Händen der Zeit zu schützen. Wir unterhalten ein
+<ce> hochentwickeltes Netzwerk von Archäologen, Kunsthändlern
+<ce> und Kurieren, die gut bezahlt werden, um dem Haus Kunst
+<ce> zu vermitteln. Würdet Ihr uns bei einem solchen
+<ce> Unterfangen unterstützten, %pcf?
 
 RefuseQuest:  [1001]
-Ach, es betrübt mich, dass die Zeit als zu kostbar gilt,
-um sie für die erlesenste aller Freuden, der wahren
-Schönheit, zu widmen.
+<ce> Ach, es betrübt mich, dass die Zeit als zu kostbar gilt,
+<ce> um sie für die erlesenste aller Freuden, der wahren
+<ce> Schönheit, zu widmen.
 
 AcceptQuest:  [1002]
-Oh wunderbar. Nun, der Vermittler dieser speziellen
-Arbeit ist ein recht lustiger kleiner =contact_
-namens _contact_. Was %g gefunden hat,
-ist anscheinend so selten und erstaunlich, dass %g
-befürchtet, von Banditen überfallen zu werden, bevor
-%g uns erreicht. Ich weiß nicht, wie gefährlich es ist,
-aber wenn Ihr nach __contact_ in
-___contact_ gehen und das Artefakt
-von %g2 holen würdet, wäre ich Euch sehr dankbar.
-Die Zeit drängt, denn %g sagt, %g wird das Artefakt
-aufgeben, wenn es nicht jemand in den nächsten =1stparton_ Tagen
-abholt. Ich werde Euch also in =1stparton_ Tagen hier
-zurück erwarten. Lebt wohl und möge Dibella Eure den Weg
-erleuchten.
+<ce> Oh wunderbar. Nun, der Vermittler dieser speziellen
+<ce> Arbeit ist ein recht lustiger kleiner =contact_
+<ce> namens _contact_. Was %g gefunden hat,
+<ce> ist anscheinend so selten und erstaunlich, dass %g
+<ce> befürchtet, von Banditen überfallen zu werden, bevor
+<ce> %g uns erreicht. Ich weiß nicht, wie gefährlich es ist,
+<ce> aber wenn Ihr nach __contact_ in
+<ce> ___contact_ gehen und das Artefakt
+<ce> von %g2 holen würdet, wäre ich Euch sehr dankbar.
+<ce> Die Zeit drängt, denn %g sagt, %g wird das Artefakt
+<ce> aufgeben, wenn es nicht jemand in den nächsten =1stparton_ Tagen
+<ce> abholt. Ich werde Euch also in =1stparton_ Tagen hier zurück
+<ce> erwarten. Lebt wohl und möge Dibella Eure den Weg erleuchten.
 
 QuestFail:  [1003]
-Hallo %pcf. Ihr habt das mit dem Artefakt in
-__contact_ nicht vergessen, oder?
+<ce> Hallo %pcf. Ihr habt das mit dem Artefakt in
+<ce> __contact_ nicht vergessen, oder?
 
 QuestComplete:  [1004]
-Es ist wunderschön! Seht nur, die symmetrischen Linien,
-die stilisierten Figuren, der delikate Faltenwurf und
-die Ornamentierung ... oh, %pcf, welch Geschenk
-Ihr uns mit diesem Ikon gemacht habt! Eure _reward_ Goldstücke
-sind gewiss das Mindeste, das wir Euch bieten können.
-Möge Dibella Euch segnen.
+<ce> Es ist wunderschön! Seht nur, die symmetrischen Linien,
+<ce> die stilisierten Figuren, der delikate Faltenwurf und
+<ce> die Ornamentierung ... oh, %pcf, welch Geschenk
+<ce> Ihr uns mit diesem Ikon gemacht habt! Eure _reward_ Goldstücke
+<ce> sind gewiss das Mindeste, das wir Euch bieten können.
+<ce> Möge Dibella Euch segnen.
 
 RumorsDuringQuest:  [1005]
 Dieser zitternde =contact_ mit %g3 Verschwörungstheorien ist wirklich lästig.
@@ -83,13 +82,13 @@ habt Ihr das Haus verfehlt, %pcf.
 Hinfort mit Euch!
 
 QuestLogEntry:  [1010]
-Bei Dibella. Ich habe fast einen Nervenzusammenbruch
-bekommen, so lange habe ich auf Euch gewartet. Hier
-ist das Ikon; ich bin froh, sie los zu sein. Ich spüre
-geradezu, wie die Augen sämtlicher Halsabschneider
-darauf gerichtet sind.  Ihr solltet besser zurück zum
-Haus von Dibella gehen, bevor sie denken, Ihr wäret
-damit abgehauen.
+<ce> Bei Dibella. Ich habe fast einen Nervenzusammenbruch
+<ce> bekommen, so lange habe ich auf Euch gewartet. Hier
+<ce> ist das Ikon; ich bin froh, sie los zu sein. Ich spüre
+<ce> geradezu, wie die Augen sämtlicher Halsabschneider
+<ce> darauf gerichtet sind. Ihr solltet besser zurück zum
+<ce> Haus von Dibella gehen, bevor sie denken, Ihr wäret
+<ce> damit abgehauen.
 
 Message:  1011
 _contact_ ist ein gewöhnlicher Abenteurer-Archäologe,

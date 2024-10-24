@@ -3,25 +3,25 @@ DisplayName: Wertvolle Seiten
 QRC:
 
 QuestorOffer:  [1000]
-Ich habe einen Auftrag. Gewöhnliche
-Gildenarbeit. _gold_ Golstücke wert,
-der übliche Gildenlohn. Interessiert?
+<ce> Ich habe einen Auftrag. Gewöhnliche
+<ce> Gildenarbeit. _gold_ Golstücke wert,
+<ce> der übliche Gildenlohn. Interessiert?
 
 RefuseQuest:  [1001]
-Zu dumm für Euch, %pcn.
+<ce> Zu dumm für Euch, %pcn.
 
 AcceptQuest:  [1002]
-Begebt Euch nach __mansion_.
-Dort findet Ihr _mansion_.
-Innerhalb seiner Mauern liegt ein seltenes
-Buch mit dem Titel _book_.
-Bringt es mir binnen =traveltime_ Tagen, und ich
-werde Euch entlohnen. Einfach genug, nicht wahr?
+<ce> Begebt Euch nach __mansion_.
+<ce> Dort findet Ihr _mansion_.
+<ce> Innerhalb seiner Mauern liegt ein seltenes
+<ce> Buch mit dem Titel _book_.
+<ce> Bringt es mir binnen =traveltime_ Tagen, und ich
+<ce> werde Euch entlohnen. Einfach genug, nicht wahr?
 
 QuestComplete:  [1004]
-Ah, %oth. Hier ist Euer Lohn.
-Vielleicht kreuzen sich unsere Wege
-eines Tages erneut.
+<ce> Ah, %oth. Hier ist Euer Lohn.
+<ce> Vielleicht kreuzen sich unsere Wege
+<ce> eines Tages erneut.
 
 RumorsDuringQuest:  [1005]
 Ein Sammler in __mansion_ hat kürzlich
@@ -37,18 +37,18 @@ das aus mansion entwendet wurde,
 war von unschätzbarem Wert.
 
 QuestorPostsuccess:  [1008]
-Oh, willkommen, %pcf. Gute Arbeit,
-das Buch zu beschaffen, falls ich das
-noch nicht erwähnt haben sollte.
+<ce> Oh, willkommen, %pcf. Gute Arbeit,
+<ce> das Buch zu beschaffen, falls ich das
+<ce> noch nicht erwähnt haben sollte.
 
 QuestorPostfailure:  [1009]
-Schenkt mir Eure Ausreden, %pcf.
-Ich sagte Euch, wo das Buch zu finden sei
-und dass Ihr Euch sputen sollt, doch Ihr
-habt es versäumt. Nun ist es zu spät, und
-ich bin ermüdet. Seid ein braver %ra,
-und verlasst meinen Anblick, wenn ich
-bitten darf.
+<ce> Schenkt mir Eure Ausreden, %pcf.
+<ce> Ich sagte Euch, wo das Buch zu finden sei
+<ce> und dass Ihr Euch sputen sollt, doch Ihr
+<ce> habt es versäumt. Nun ist es zu spät, und
+<ce> ich bin ermüdet. Seid ein braver %ra,
+<ce> und verlasst meinen Anblick, wenn ich
+<ce> bitten darf.
 
 QuestLogEntry:  [1010]
 %qdt:

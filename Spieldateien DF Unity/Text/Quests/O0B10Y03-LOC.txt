@@ -3,35 +3,35 @@ DisplayName: Ein Tempelbesuch
 QRC:
 
 QuestorOffer:  [1000]
-Ich habe einen Auftrag von der Gilde
-für Euch, falls Ihr interessiert seid.
-Mein Name ist _qgiver_. Ein
-Kerl will, dass wir ihm ein religiöses
-Artefakt aus dem Tempel stehlen. Nehmt
-Ihr den Auftrag an?
+<ce> Ich habe einen Auftrag von der Gilde
+<ce> für Euch, falls Ihr interessiert seid.
+<ce> Mein Name ist _qgiver_. Ein
+<ce> Kerl will, dass wir ihm ein religiöses
+<ce> Artefakt aus dem Tempel stehlen. Nehmt
+<ce> Ihr den Auftrag an?
 
 RefuseQuest:  [1001]
-Wenn mir ein interessanterer Auftrag
-unterkommt, denk' ich an Euch, %pcn.
+<ce> Wenn mir ein interessanterer Auftrag
+<ce> unterkommt, denk' ich an Euch, %pcn.
 
 AcceptQuest:  [1002]
-Fein. Das ist alles, was Ihr wissen müsst.
-Ihr reist zum _temple_ in
-__temple_. Nehmt dort _religiousitem_
-und bringt es mir zurück. Ihr kriegt den
-üblichen Lohn von _gold_ Goldstücken. Und
-ich will es innerhalb von =traveltime_ Tagen
-in meinen Händen sehen.
+<ce> Fein. Das ist alles, was Ihr wissen müsst.
+<ce> Ihr reist zum _temple_ in
+<ce> __temple_. Nehmt dort _religiousitem_
+<ce> und bringt es mir zurück. Ihr kriegt den
+<ce> üblichen Lohn von _gold_ Goldstücken. Und
+<ce> ich will es innerhalb von =traveltime_ Tagen
+<ce> in meinen Händen sehen.
 
 QuestComplete:  [1004]
-Manche Leute sind echt schwer zu durchschauen.
-Könnt Ihr Euch vorstellen, dass der Kerl uns
-wirklich für diesen Diebstahl bezahlt hat?
-Ist ja nicht so, als hätte ihn irgendein
-'grausamer Wächter' davon abgehalten, es selbst
-zu tun. Huh, was sagt Ihr? Da war wirklich einer! Vielleicht war der Typ doch nicht so verrückt.
-Hier ist Euer Lohn, %pcf.
-War nett, mit Euch zu arbeiten.
+<ce> Manche Leute sind echt schwer zu durchschauen.
+<ce> Könnt Ihr Euch vorstellen, dass der Kerl uns
+<ce> wirklich für diesen Diebstahl bezahlt hat?
+<ce> Ist ja nicht so, als hätte ihn irgendein
+<ce> 'grausamer Wächter' davon abgehalten, es selbst
+<ce> zu tun. Huh, was sagt Ihr? Da war wirklich einer! Vielleicht war der Typ doch nicht so verrückt.
+<ce> Hier ist Euer Lohn, %pcf.
+<ce> War nett, mit Euch zu arbeiten.
 
 RumorsDuringQuest:  [1005]
 Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
@@ -69,15 +69,17 @@ RumorsPostsuccess:  [1007]
 Der Typ, dem _temple_ gehört, hat ein paar Diebe bezahlt, dort einzubrechen.
 
 QuestorPostsuccess:  [1008]
-Wie steht's, %pcf? Ich warte immer noch auf Nachricht von dem Kerl, der uns angeheuert hat.
+<ce> Wie steht's, %pcf?
+<ce> Ich warte immer noch auf Nachricht
+<ce> von dem Kerl, der uns angeheuert hat.
 
 QuestorPostfailure:  [1009]
-Es interessiert mich nicht, ob der Tempel
-bewacht war, %pcf, selbst wenn's
-der Fürst des ganzen Reich des Vergessens
-gewesen wäre. Es gibt keine Entschuldigung
-dafür, bei einem Auftrag der Diebesgilde zu
-scheitern.
+<ce> Es interessiert mich nicht, ob der Tempel
+<ce> bewacht war, %pcf, selbst wenn's
+<ce> der Fürst des ganzen Reich des Vergessens
+<ce> gewesen wäre. Es gibt keine Entschuldigung
+<ce> dafür, bei einem Auftrag der Diebesgilde zu
+<ce> scheitern.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -88,4 +90,4 @@ QuestLogEntry:  [1010]
  __temple_ zu stehlen.
  Ich habe =traveltime_ Tage, um für
  meinen Lohn zu %g2 zurückzukehren.
- 
+

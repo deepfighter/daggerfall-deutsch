@@ -3,46 +3,46 @@ DisplayName: Das Duell
 QRC:
 
 QuestorOffer:  [1000]
-Entschuldigt! Seht Ihr nicht, dass ich
-beschäftigt bin, Ihr stinkender %ra?
-Sucht Ihr etwa Ärger?
+<ce> Entschuldigt! Seht Ihr nicht, dass ich
+<ce> beschäftigt bin, Ihr stinkender %ra?
+<ce> Sucht Ihr etwa Ärger?
 <--->
-Was? Was habt Ihr gerade gesagt?
-Ich hoffe, dass ich mich da verhört
-habe. Also, habt Ihr etwas gesagt?
+<ce> Was? Was habt Ihr gerade gesagt?
+<ce> Ich hoffe, dass ich mich da verhört
+<ce> habe. Also, habt Ihr etwas gesagt?
 <--->
-Könnt Ihr nicht sehen, dass ich beschäftigt
-bin? Und außerdem schlecht gelaunt! Wenn Ihr
-nicht gleich verschwindet, könnte es Ärger
-geben. Ist es das, was Ihr wollt?
+<ce> Könnt Ihr nicht sehen, dass ich beschäftigt
+<ce> bin? Und außerdem schlecht gelaunt! Wenn Ihr
+<ce> nicht gleich verschwindet, könnte es Ärger
+<ce> geben. Ist es das, was Ihr wollt?
 <--->
-Oh, Entschuldigung. Wollte Euch nicht im Weg
-stehen, Ihr fettes %ra-Schwein.
-Wollt Ihr das vor der Tür regeln?
+<ce> Oh, Entschuldigung. Wollte Euch nicht im Weg
+<ce> stehen, Ihr fettes %ra-Schwein.
+<ce> Wollt Ihr das vor der Tür regeln?
 
 RefuseQuest:  [1001]
-Das ist schon besser, jetzt verschwindet.
+<ce> Das ist schon besser, jetzt verschwindet.
 <--->
-Hatte ich auch nicht erwartet, macht einfach
-weiter mit was auch immer Ihr tut.
+<ce> Hatte ich auch nicht erwartet, macht einfach
+<ce> weiter mit was auch immer Ihr tut.
 <--->
-Hatte sowieso nicht erwartet, dass Ihr ja
-sagen würdet. Und jetzt fort mit Euch.
+<ce> Hatte sowieso nicht erwartet, dass Ihr ja
+<ce> sagen würdet. Und jetzt fort mit Euch.
 
 AcceptQuest:  [1002]
-Oh ... Ihr wollt also spielen?
+<ce> Oh ... Ihr wollt also spielen?
 <--->
-Schätze, wir haben es hier mit einem
-richtigen Hitzkopf zu tun!
+<ce> Schätze, wir haben es hier mit einem
+<ce> richtigen Hitzkopf zu tun!
 <--->
-Na gut ... sieht aus, als wäre mein
-Tag gerade interessanter geworden!
+<ce> Na gut ... sieht aus, als wäre mein
+<ce> Tag gerade interessanter geworden!
 <--->
-Ihr seid doch wirklich so dumm, wie
-Ihr ausseht! Also gut, %ra, ich spiele mit.
+<ce> Ihr seid doch wirklich so dumm, wie
+<ce> Ihr ausseht! Also gut, %ra, ich spiele mit.
 <--->
-So wollt Ihr es also haben! Ich habe
-doch vor einem %ra keine Angst!
+<ce> So wollt Ihr es also haben! Ich habe
+<ce> doch vor einem %ra keine Angst!
 
 QuestFail:  [1003]
 %qdt:
@@ -51,133 +51,133 @@ QuestFail:  [1003]
  ___giver_ zu duellieren.
 
 QuestComplete:  [1004]
-Sowie Ihr auf Euren gefallenen Kontrahenten
-hinunterblickt, wisst Ihr, dass Eurer Ehre
-genüge getan wurde.
+<ce> Sowie Ihr auf Euren gefallenen Kontrahenten
+<ce> hinunterblickt, wisst Ihr, dass Eurer Ehre
+<ce> genüge getan wurde.
 
 RumorsDuringQuest:  [1005]
-_giver_ hat irgendeinen herumziehenden
-%ra zu einem Duell herausgefordert!
+<ce> _giver_ hat irgendeinen herumziehenden
+<ce> %ra zu einem Duell herausgefordert!
 
 RumorsPostfailure:  [1006]
-Seid Ihr nicht dieser Feigling %pcn?
-Ihr habt ein Duell abgelehnt, nicht wahr?
+<ce> Seid Ihr nicht dieser Feigling %pcn?
+<ce> Ihr habt ein Duell abgelehnt, nicht wahr?
 <--->
-Ich habe gehört, _giver_ hat
-jemandem zu einem Duell herausgefordert
-und der Kerl hat sich nicht einmal blicken
-lassen!
+<ce> Ich habe gehört, _giver_ hat
+<ce> jemandem zu einem Duell herausgefordert
+<ce> und der Kerl hat sich nicht einmal blicken
+<ce> lassen!
 
 RumorsPostsuccess:  [1007]
-Ihr seid der %ra, der
-_giver_s Kämpfer besiegt hat!
-Gut gemacht!
+<ce> Ihr seid der %ra, der
+<ce> _giver_s Kämpfer besiegt hat!
+<ce> Gut gemacht!
 <--->
-Ich habe gehört, _giver_
-wurde von einem herumziehenden
-Abenteurer öffentlich gedemütigt,
-als sein %g3 Kämpfer im Ehrenduell
-besiegt wurde. Geschieht %g2 ganz recht.
+<ce> Ich habe gehört, _giver_
+<ce> wurde von einem herumziehenden
+<ce> Abenteurer öffentlich gedemütigt,
+<ce> als sein %g3 Kämpfer im Ehrenduell
+<ce> besiegt wurde. Geschieht %g2 ganz recht.
 
 QuestorPostsuccess:  [1008]
-%oth. Ich hatte gehofft, Euch
-nie wieder zu sehen. Ihr habt meinen
-Kämpfer in einem Duell besiegt, aber
-ich bin ein ehrenhafter Mensch.
+<ce> %oth. Ich hatte gehofft, Euch
+<ce> nie wieder zu sehen. Ihr habt meinen
+<ce> Kämpfer in einem Duell besiegt, aber
+<ce> ich bin ein ehrenhafter Mensch.
 <--->
-Tut mir nichts! Ihr habt meinen Kämpfer
-im Duell besiegt, ist das denn nicht genug?
+<ce> Tut mir nichts! Ihr habt meinen Kämpfer
+<ce> im Duell besiegt, ist das denn nicht genug?
 
 QuestorPostfailure:  [1009]
-Hah! Ihr hieltet es wohl nicht für
-notwendig, zu unserem Duell zu erscheinen.
-Dachtet wohl, ich würde mich nicht an Euch
-erinnern? Verschwindet, Feigling!
+<ce> Hah! Ihr hieltet es wohl nicht für
+<ce> notwendig, zu unserem Duell zu erscheinen.
+<ce> Dachtet wohl, ich würde mich nicht an Euch
+<ce> erinnern? Verschwindet, Feigling!
 
 Message:  1016
-Oh, Ihr stinkender %ra.
-Heute ist nicht gerade Euer Glückstag.
-Wie wäre es mit einem Duell?
+<ce> Oh, Ihr stinkender %ra.
+<ce> Heute ist nicht gerade Euer Glückstag.
+<ce> Wie wäre es mit einem Duell?
 <--->
-Dann werden wir das wie Krieger klären.
-Was sagt Ihr zu einem Duell?
+<ce> Dann werden wir das wie Krieger klären.
+<ce> Was sagt Ihr zu einem Duell?
 <--->
-Ich kläre meine Auseinandersetzungen
-auf altmodische Art und Weise.
-Wie wäre es mit einem Duell?
+<ce> Ich kläre meine Auseinandersetzungen
+<ce> auf altmodische Art und Weise.
+<ce> Wie wäre es mit einem Duell?
 <--->
-Lasst uns das klären. Zumindest werde ich
-das! Was sagt Ihr zu einem Duell später?
+<ce> Lasst uns das klären. Zumindest werde ich
+<ce> das! Was sagt Ihr zu einem Duell später?
 
 Message:  1018
-Ausgezeichnet! Ha ha! Also ein Duell.
-Aber nicht hier, Schwein. In sechs Stunden,
-im _inn_. Ich werde dort auf
-Euch warten.
+<ce> Ausgezeichnet! Ha ha! Also ein Duell.
+<ce> Aber nicht hier, Schwein. In sechs Stunden,
+<ce> im _inn_. Ich werde dort auf
+<ce> Euch warten.
 <--->
-Keine kluge Entscheidung, %ra.
-Das Duell ist also beschlossen. Trefft
-mich in sechs Stunden im _inn_.
-Ich werde warten!
+<ce> Keine kluge Entscheidung, %ra.
+<ce> Das Duell ist also beschlossen. Trefft
+<ce> mich in sechs Stunden im _inn_.
+<ce> Ich werde warten!
 <--->
-Übernehmt Euch nur nicht. Zu viel
-Anstrengung hat eins meiner Pferde
-getötet ... und sie könnte Euch auch
-töten! Trefft mich im _inn_
-und wir werden das klären. Seid in
-sechs Stunden dort. Ich muss mich vorbereiten.
+<ce> Übernehmt Euch nur nicht. Zu viel
+<ce> Anstrengung hat eins meiner Pferde
+<ce> getötet ... und sie könnte Euch auch
+<ce> töten! Trefft mich im _inn_
+<ce> und wir werden das klären. Seid in
+<ce> sechs Stunden dort. Ich muss mich vorbereiten.
 <--->
-Also ein Duell! Das wird Euch noch
-Leid tun ... aber Ihr hattet die Chance
-weiterzugehen. Trefft mich im _inn_
-in sechs Stunden und wir klären das.
+<ce> Also ein Duell! Das wird Euch noch
+<ce> Leid tun ... aber Ihr hattet die Chance
+<ce> weiterzugehen. Trefft mich im _inn_
+<ce> in sechs Stunden und wir klären das.
 
 Message:  1019
-Dann ist der %ra wohl doch nicht
-der Feigling, als den _giver_
-ihn bezeichnet hat. %g hat mich gut
-bezahlt, damit ich hierher komme und
-Euch in Stücke schneide. Und das werde
-ich auch tun. Macht Euch kampfbereit!
+<ce> Dann ist der %ra wohl doch nicht
+<ce> der Feigling, als den _giver_
+<ce> ihn bezeichnet hat. %g hat mich gut
+<ce> bezahlt, damit ich hierher komme und
+<ce> Euch in Stücke schneide. Und das werde
+<ce> ich auch tun. Macht Euch kampfbereit!
 <--->
-Ihr seid es! _giver_ sagte,
-Ihr würdet hier sein, und ich beende
-immer %g3 Kämpfe.
+<ce> Ihr seid es! _giver_ sagte,
+<ce> Ihr würdet hier sein, und ich beende
+<ce> immer %g3 Kämpfe.
 <--->
-Ihr solltet aufpassen, mit wem Ihr Euch
-anlegt. _giver_ hat viele Freunde.
-Jetzt macht Euch bereit zu sterben!
+<ce> Ihr solltet aufpassen, mit wem Ihr Euch
+<ce> anlegt. _giver_ hat viele Freunde.
+<ce> Jetzt macht Euch bereit zu sterben!
 
 Message:  1025
-Das könnte hässlich werden, zwar nicht
-so hässlich wie Ihr, aber ich habe kein
-Problem damit, Euch für diese Worte den
-Kopf abzuhacken. Ihr wollt wohl, dass
-sich das hier zu einem richtigen Kampf
-entwickelt, nicht wahr?
+<ce> Das könnte hässlich werden, zwar nicht
+<ce> so hässlich wie Ihr, aber ich habe kein
+<ce> Problem damit, Euch für diese Worte den
+<ce> Kopf abzuhacken. Ihr wollt wohl, dass
+<ce> sich das hier zu einem richtigen Kampf
+<ce> entwickelt, nicht wahr?
 <--->
-Ihr sucht Streit, nicht wahr? Ist es das,
-was Ihr wollt, Kindchen?
+<ce> Ihr sucht Streit, nicht wahr? Ist es das,
+<ce> was Ihr wollt, Kindchen?
 <--->
-Oh ... wir haben hier wirklich einen
-Hitzkopf ... und auch noch mit Waffen!
-Wollt Ihr sie benutzen?
+<ce> Oh ... wir haben hier wirklich einen
+<ce> Hitzkopf ... und auch noch mit Waffen!
+<ce> Wollt Ihr sie benutzen?
 <--->
-Die zwei Kämpfe, in die ich gestern
-verwickelt wurde, haben nicht gut
-geendet für die anderen armen Schweine!
-Wollt Ihr Euch wirklich mit mir anlegen?
+<ce> Die zwei Kämpfe, in die ich gestern
+<ce> verwickelt wurde, haben nicht gut
+<ce> geendet für die anderen armen Schweine!
+<ce> Wollt Ihr Euch wirklich mit mir anlegen?
 
 Message:  1027
-Hatte ich auch nicht erwartet. Jetzt verschwindet.
+<ce> Hatte ich auch nicht erwartet. Jetzt verschwindet.
 <--->
-Das ist schon besser. Jetzt lasst mich in Ruhe.
+<ce> Das ist schon besser. Jetzt lasst mich in Ruhe.
 <--->
-Da zeigt sich, aus was Ihr gemacht seid. Auf Wiedersehen.
+<ce> Da zeigt sich, aus was Ihr gemacht seid. Auf Wiedersehen.
 <--->
-Dann geht weiter. Ich habe keine Zeit,
-um sie mit Euch zu verschwenden.
+<ce> Dann geht weiter. Ich habe keine Zeit,
+<ce> um sie mit Euch zu verschwenden.
 <--->
-Dann bewegt Euch. Ich habe noch einen
-arbeitsreichen Tag vor mir.
+<ce> Dann bewegt Euch. Ich habe noch einen
+<ce> arbeitsreichen Tag vor mir.
 

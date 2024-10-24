@@ -3,42 +3,42 @@ DisplayName: Anonymer Auftragsmord
 QRC:
 
 QuestorOffer:  [1000]
-Wir haben einen anonymen Auftrag für Euch.
-Es kommt manchmal vor, dass jemand uns bezahlt,
-um jemanden verschwinden zu lassen, aber nie
-den Grund verrät oder sogar durch einen
-Vermittler arbeitet, um seine Identität
-geheimzuhalten. In jedem Fall gehört dieser
-Auftrag Euch, wenn Ihr ihn haben wollt. 
+<ce> Wir haben einen anonymen Auftrag für Euch.
+<ce> Es kommt manchmal vor, dass jemand uns bezahlt,
+<ce> um jemanden verschwinden zu lassen, aber nie
+<ce> den Grund verrät oder sogar durch einen
+<ce> Vermittler arbeitet, um seine Identität
+<ce> geheimzuhalten. In jedem Fall gehört dieser
+<ce> Auftrag Euch, wenn Ihr ihn haben wollt. 
 
 RefuseQuest:  [1001]
-Ich kann Euch nicht verübeln, da
-nicht reingezogen werden zu wollen.
+<ce> Ich kann Euch nicht verübeln, da
+<ce> nicht reingezogen werden zu wollen.
 
 AcceptQuest:  [1002]
-Geht zum _mondung_ in __mondung_.
-Euer Ziel hat eine Narbe auf der linken Wange.
-Das ist alles, was wir wissen. Kommt in =1stparton_ Tagen
-wieder, um Eure Belohnung zu erhalten. Mephala
-segne Eure Klinge, %pcn.
+<ce> Geht zum _mondung_ in ___mondung_.
+<ce> Euer Ziel hat eine Narbe auf der linken Wange.
+<ce> Das ist alles, was wir wissen. Kommt in =1stparton_ Tagen
+<ce> wieder, um Eure Belohnung zu erhalten. Mephala
+<ce> segne Eure Klinge, %pcn.
 
 QuestFail:  [1003]
-Ich weiß nicht, wen Ihr geglaubt habt zu
-töten, aber es war nicht das richtige Ziel.
-Bewegt Euren Hintern zum _mondung_
-und erledigt, was unser Kontrakt verlangt.
+<ce> Ich weiß nicht, wen Ihr geglaubt habt zu
+<ce> töten, aber es war nicht das richtige Ziel.
+<ce> Bewegt Euren Hintern zum _mondung_
+<ce> und erledigt, was unser Kontrakt verlangt.
 
 QuestComplete:  [1004]
-Wirklich wunderschön, %pcf.
-Ich habe Tränen in meinen müden Augen.
-Die schönste Abrechnung, die ich je
-gesehen habe. Versetzt einen in die
-Stimmung, ein Gedicht zu schreiben.
-Warum nehmt Ihr nicht Eure _reward_ Goldstücke
-Belohnung und verschwindet endlich,
-damit ich eine Ballade darüber schreiben
-kann? Ernsthaft, ich bin sehr stolz
-auf Euch, %pcf.
+<ce> Wirklich wunderschön, %pcf.
+<ce> Ich habe Tränen in meinen müden Augen.
+<ce> Die schönste Abrechnung, die ich je
+<ce> gesehen habe. Versetzt einen in die
+<ce> Stimmung, ein Gedicht zu schreiben.
+<ce> Warum nehmt Ihr nicht Eure _reward_ Goldstücke
+<ce> Belohnung und verschwindet endlich,
+<ce> damit ich eine Ballade darüber schreiben
+<ce> kann? Ernsthaft, ich bin sehr stolz
+<ce> auf Euch, %pcf.
 
 RumorsDuringQuest:  [1005]
 Herrliches Wetter.
@@ -61,11 +61,11 @@ Message:  1020
 %qdt:
  Mein neuer Auftrag für die Dunkle Bruderschaft
  in ___questgiver_ ist ein unbekanntes
- Ziel in dem _mondung_ in __mondung_.
+ Ziel in dem _mondung_ in ___mondung_.
  Ich werde das Opfer nur anhand einer Narbe auf
- der linken Wange erkennen  können. Der Auftrag
+ der linken Wange erkennen können. Der Auftrag
  muss in =1stparton_ Tagen erledigt werden.
 
 Message:  1021
-Eine frische Narbe verunziert die linke Wange des Ziels.
+<ce> Eine frische Narbe verunziert die linke Wange des Ziels.
 

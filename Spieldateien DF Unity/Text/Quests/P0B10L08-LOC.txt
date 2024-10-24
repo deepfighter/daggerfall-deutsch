@@ -15,19 +15,19 @@ QuestFail:  [1003]
 Error: Questtext 1003 Called.
 
 QuestComplete:  [1004]
-Ihr habt dem Namen der %vam
-in dieser Nacht alle Ehre gemacht, %pcf.
-==daedra_ hegt uns und Euch gegenüber Respekt,
-den kein anderer Vampirstamm je verdiente. Euer
-Blutsvater hat mich geheißen, Euch _gem_
-als Symbol der Dauerhaftigkeit Eurer Stellung
-unter den %vam zu geben.
+<ce> Ihr habt dem Namen der %vam
+<ce> in dieser Nacht alle Ehre gemacht, %pcf.
+<ce> ==daedra_ hegt uns und Euch gegenüber Respekt,
+<ce> den kein anderer Vampirstamm je verdiente. Euer
+<ce> Blutsvater hat mich geheißen, Euch _gem_
+<ce> als Symbol der Dauerhaftigkeit Eurer Stellung
+<ce> unter den %vam zu geben.
 
 RumorsDuringQuest:  [1005]
 In ___mondung_ sind seltsame Dinge im Gange. Noch seltsamer als sonst, sollte ich wohl sagen.
 
 RumorsPostfailure:  [1006]
-Es ist  um ___mondung_ wieder ruhiger geworden. Aber die Sterne der Daedra leuchten hell in der Nacht.
+Es ist um ___mondung_ wieder ruhiger geworden. Aber die Sterne der Daedra leuchten hell in der Nacht.
 
 RumorsPostsuccess:  [1007]
 ___mondung_ hat sich beruhigt. Sogar die Sterne der Daedra schienen letzte Nacht sanfter.
@@ -55,23 +55,23 @@ QuestLogEntry:  [1010]
                _vamp_
 
 Message:  1011
-Ah, %pcf, Ihr habt meinen Brief erhalten.
-Der Älteste unseres Stammes, Euer Blutsvater,
-hat darum ersucht, dass Ihr Euch einer Angelegenheit
-widmet, die ihn sehr beunruhigt. Hier ist die
-Abschrift eines Briefes, den er, um ein Messer
-gewickelt, in seinem Altarraum fand. Wer auch
-immer diesen Brief hinterlassen hat verfügt
-offenbar über nicht unbeträchtliche Macht und
-wünscht die Stärke der %vam zu prüfen. Geht
-zu dem im Brief genannten Verlies, ___mondung_,
-findet diesen _daedra_, der den Brief geschrieben
-hat und beweist %g2, dass die %vam kein Haufen
-von Schwächlingen sind, die sich ungestraft bedrohen
-oder verspotten lassen. Der Stolz der %vam
-ist mit Euch, %pcf. Ich erwarte Euch
-innerhalb von =queston_ Tagen zurück, wenn diese Sache
-geregelt ist. Enttäuscht uns nicht, %pcf.
+<ce> Ah, %pcf, Ihr habt meinen Brief erhalten.
+<ce> Der Älteste unseres Stammes, Euer Blutsvater,
+<ce> hat darum ersucht, dass Ihr Euch einer Angelegenheit
+<ce> widmet, die ihn sehr beunruhigt. Hier ist die
+<ce> Abschrift eines Briefes, den er, um ein Messer
+<ce> gewickelt, in seinem Altarraum fand. Wer auch
+<ce> immer diesen Brief hinterlassen hat verfügt
+<ce> offenbar über nicht unbeträchtliche Macht und
+<ce> wünscht die Stärke der %vam zu prüfen. Geht
+<ce> zu dem im Brief genannten Verlies, ___mondung_,
+<ce> findet diesen _daedra_, der den Brief geschrieben
+<ce> hat und beweist %g2, dass die %vam kein Haufen
+<ce> von Schwächlingen sind, die sich ungestraft bedrohen
+<ce> oder verspotten lassen. Der Stolz der %vam
+<ce> ist mit Euch, %pcf. Ich erwarte Euch
+<ce> innerhalb von =queston_ Tagen zurück, wenn diese Sache
+<ce> geregelt ist. Enttäuscht uns nicht, %pcf.
 
 Message:  1012
 %qdt:
@@ -123,51 +123,48 @@ Message:  1014
  Ort namens __vamp_ in ___vamp_ ersucht.
 
 Message:  1015
-Willkommen in ___mondung_,
-%pcn. Ihr seid vermutlich hier,
-um im Namen der %vam
-anzuerkennen, dass der Kult von
-==daedra_, Fürst des Reichs des Vergessens,
-fortan über %reg herrscht?
+<ce> Willkommen in ___mondung_,
+<ce> %pcn. Ihr seid vermutlich hier,
+<ce> um im Namen der %vam
+<ce> anzuerkennen, dass der Kult von
+<ce> ==daedra_, Fürst des Reichs des Vergessens,
+<ce> fortan über %reg herrscht?
 
 Message:  1016
-Erbärmlicher Blutsauger.
-Ich habe nicht mehr erwartet und doch
-noch gehofft. Schert Euch zurück nach
-_vamp_, Kind.
+<ce> Erbärmlicher Blutsauger.
+<ce> Ich habe nicht mehr erwartet und doch
+<ce> noch gehofft. Schert Euch zurück nach
+<ce> _vamp_, Kind.
 
 Message:  1017
-Ihr wagt es, die Überlegenheit
-von ==daedra_ vor meinem Angesicht
-herauszufordern, untoter Wurm?
-=daedroth_ wird es genießen, Eure
-Eure respektlosen Knochen zu brechen!
+<ce> Ihr wagt es, die Überlegenheit
+<ce> von ==daedra_ vor meinem Angesicht
+<ce> herauszufordern, untoter Wurm?
+<ce> =daedroth_ wird es genießen, Eure
+<ce> Eure respektlosen Knochen zu brechen!
  
-Zeigt mir, dass ein Angehöriger
-der %vam wenigstens so gut
-kämpfen wie prahlen kann!
+<ce> Zeigt mir, dass ein Angehöriger
+<ce> der %vam wenigstens so gut
+<ce> kämpfen wie prahlen kann!
 
 Message:  1018
 Ihr hört, wie die Stimme von ==daedra_
 in Eurem Kopf spricht:
  
- "Ihr habt mir bewiesen, dass die
- %vam Respekt verdienen. Ihr
- mögt _vamp_ sagen, dass
- %reg Euch gehört.
- Ein interessantes Exemplar seid Ihr,
- %pcn. Ich bin mir sicher,
- dass wir uns wiedersehen."
+<ce> "Ihr habt mir bewiesen, dass die
+<ce> %vam Respekt verdienen. Ihr
+<ce> mögt _vamp_ sagen, dass
+<ce> %reg Euch gehört.
+<ce> Ein interessantes Exemplar seid Ihr,
+<ce> %pcn. Ich bin mir sicher,
+<ce> dass wir uns wiedersehen."
 
 Message:  1019
-Ihr habt die %vam enttäuscht,
-%pcf. Der Zirkel von ==daedra_
-hat uns herausgefordert und Ihr
-habt eine einzige Schmach abgeboten.
-Es ist eine Nacht der Schande.
-
-Message:  1020
-Error: Questtext 1020 Called.
+<ce> Ihr habt die %vam enttäuscht,
+<ce> %pcf. Der Zirkel von ==daedra_
+<ce> hat uns herausgefordert und Ihr
+<ce> habt eine einzige Schmach abgeboten.
+<ce> Es ist eine Nacht der Schande.
 
 Message:  1021
 Ein erschreckend bleicher Junge

@@ -12,15 +12,15 @@ AcceptQuest:  [1002]
 Error: Questtext 1002 Called.
 
 QuestComplete:  [1004]
-Reisen ist für unsere Art keine einfache
-Sache. Mit der zusätzlichen Belastung
-durch _vamp_ möchte ich mir
-Eure Beschwernisse nicht einmal vorstellen.
-Dazu kommt noch die Furcht vor diesem
-bösartigen =mage_. Jetzt verstehe
-ich, warum die %vam mit solcher
-Wertschätzung von Euch sprechen,
-%pcf.
+<ce> Reisen ist für unsere Art keine einfache
+<ce> Sache. Mit der zusätzlichen Belastung
+<ce> durch _vamp_ möchte ich mir
+<ce> Eure Beschwernisse nicht einmal vorstellen.
+<ce> Dazu kommt noch die Furcht vor diesem
+<ce> bösartigen =mage_. Jetzt verstehe
+<ce> ich, warum die %vam mit solcher
+<ce> Wertschätzung von Euch sprechen,
+<ce> %pcf.
 
 RumorsDuringQuest:  [1005]
 =mage_ ist manchen zufolge der einzige anständige Vampirjäger in %reg.
@@ -64,33 +64,33 @@ Message:  1011
  einem Vampir der %vam, der
  dringend um meine Anwesenheit
  an einem Ort namens __vamp_
- in  ___vamp_  ersucht.
+ in ___vamp_ ersucht.
 
 Message:  1012
-Danke, dass Ihr unverzüglich gekommen seid.
-Hier in %reg lebt ein gefährlicher Feind
-unseres Stammes, ein Magier namens =mage_.
-Ich selbst hatte schon eine unglückliche Begegnung
-mit %g2. Es ist dringend geboten, dass ich
-mit _vamp2_ drüben in ___vamp2_
-über diese Angelegenheit spreche, aber ich weiß,
-dass =mage_ nach mir sucht.
+<ce> Danke, dass Ihr unverzüglich gekommen seid.
+<ce> Hier in %reg lebt ein gefährlicher Feind
+<ce> unseres Stammes, ein Magier namens =mage_.
+<ce> Ich selbst hatte schon eine unglückliche Begegnung
+<ce> mit %g2. Es ist dringend geboten, dass ich
+<ce> mit _vamp2_ drüben in ___vamp2_
+<ce> über diese Angelegenheit spreche, aber ich weiß,
+<ce> dass =mage_ nach mir sucht.
  
-Ich bin zu schwach, um diese Reise alleine
-anzutreten. Ihr müsst mich zu __vamp2_
-in ___vamp2_ eskortieren. Wir sollten
-uns beeilen, damit dieser verteufelte Magier
-nicht noch weitere Verbündete hinzuzieht.
-=queston_ Nächte, %pcf. Das ist nicht viel Zeit,
-aber wir müssen es versuchen.
+<ce> Ich bin zu schwach, um diese Reise alleine
+<ce> anzutreten. Ihr müsst mich zu __vamp2_
+<ce> in ___vamp2_ eskortieren. Wir sollten
+<ce> uns beeilen, damit dieser verteufelte Magier
+<ce> nicht noch weitere Verbündete hinzuzieht.
+<ce> =queston_ Nächte, %pcf. Das ist nicht viel Zeit,
+<ce> aber wir müssen es versuchen.
 
 Message:  1013
-Ein Blutsauger, der auch noch
-einen Stachel hat. Das sollte
-die Sache interessanter machen!
+<ce> Ein Blutsauger, der auch noch
+<ce> einen Stachel hat. Das sollte
+<ce> die Sache interessanter machen!
 
 Message:  1014
-%dat:
+%qdt:
  Ich eskortiere _vamp_
  zu _vamp2_ in ___vamp2_.
  Ich muss es nach __vamp2_ 
@@ -99,12 +99,16 @@ Message:  1014
  Verstärkung zu rufen.
 
 Message:  1015
-"%pcf!" sagt _vamp_,
-"Ihr habt =mage_ erschlagen,
-die Geißel der %vam!"
+<ce> "%pcf!"
+ 
+sagt _vamp_,
+ 
+<ce> "Ihr habt =mage_ erschlagen,
+<ce> die Geißel der %vam!"
 
 Message:  1016
-"Ihr braucht zu lange",
+<ce> "Ihr braucht zu lange",
+
 sagt _vamp_
 und wankt alleine davon.
 

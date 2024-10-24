@@ -3,41 +3,41 @@ DisplayName: Das Buch der Daedra
 QRC:
 
 QuestorOffer:  [1000]
-%pcf, es freut mich, dass Ihr
-hier seid. Ich habe Schwierigkeiten
-mit einer Gruppe Daedra und suche
-jemanden, der einer Bekanntschaft von
-mir ein seltenes Manuskript überbringt.
-Die Belohnung würde sehr großzügig
-ausfallen, aber es ist daedrische
-Einmischung zu erwarten. Seid Ihr
-interessiert?
+<ce> %pcf, es freut mich, dass Ihr
+<ce> hier seid. Ich habe Schwierigkeiten
+<ce> mit einer Gruppe Daedra und suche
+<ce> jemanden, der einer Bekanntschaft von
+<ce> mir ein seltenes Manuskript überbringt.
+<ce> Die Belohnung würde sehr großzügig
+<ce> ausfallen, aber es ist daedrische
+<ce> Einmischung zu erwarten. Seid Ihr
+<ce> interessiert?
 
 RefuseQuest:  [1001]
-Ich verstehe, %pcf. 
-Ihr seid ein vielbeschäftigter %ra.
+<ce> Ich verstehe, %pcf. 
+<ce> Ihr seid ein vielbeschäftigter %ra.
 
 AcceptQuest:  [1002]
-Ausgezeichnet. Da habt Ihr das Buch,
-_item_. Nun, _contact_
-benötigt es in =queston_ Tagen in __contact_.
-Ihr könnt es glaube ich noch schaffen.
-Aber nehmt Euch vor den Daedra in Acht.
-Viel Glück!
+<ce> Ausgezeichnet. Da habt Ihr das Buch,
+<ce> _item_. Nun, _contact_
+<ce> benötigt es in =queston_ Tagen in __contact_.
+<ce> Ihr könnt es glaube ich noch schaffen.
+<ce> Aber nehmt Euch vor den Daedra in Acht.
+<ce> Viel Glück!
 
 QuestFail:  [1003]
-Bis Ihr das Buch abgeliefert habt,
-gibt es nicht zu bereden.
+<ce> Bis Ihr das Buch abgeliefert habt,
+<ce> gibt es nicht zu bereden.
 
 QuestComplete:  [1004]
-Ah, schön Euch zu sehen, %pcf.
-Und das Buch ebenfalls. Ausgezeichnet.
-Die Daedra haben es Euch hoffentlich
-nicht zu schwer gemacht. Ha! Wenn die
-ahnen würden, wofür ich dieses kleine
-Buch benutzen kann, hätten sie wohl
-doppelt so viele gegen Euch geschickt.
-Hier habt Ihr Eure Belohnung für gute Arbeit.
+<ce> Ah, schön Euch zu sehen, %pcf.
+<ce> Und das Buch ebenfalls. Ausgezeichnet.
+<ce> Die Daedra haben es Euch hoffentlich
+<ce> nicht zu schwer gemacht. Ha! Wenn die
+<ce> ahnen würden, wofür ich dieses kleine
+<ce> Buch benutzen kann, hätten sie wohl
+<ce> doppelt so viele gegen Euch geschickt.
+<ce> Hier habt Ihr Eure Belohnung für gute Arbeit.
 
 RumorsDuringQuest:  [1005]
 Die Daedra sind heute Nacht sehr aufgeregt. Es liegt in der Luft. 
@@ -55,51 +55,53 @@ So jemand [=contact_] war gerade hier. Hat ein altes Buch herumgeschwenkt und in
 Ein Juwelier hat den Diebstahl eines sehr großen Rubins gemeldet.
 
 QuestorPostsuccess:  [1008]
-Ich habe meinem Kontakt berichtet, dass Ihr stärker als jeder Daedra seid. Ich denke, das habt Ihr bewiesen.
+<ce> Ich habe meinem Kontakt berichtet, dass Ihr stärker
+<ce> als jeder Daedra seid. Ich denke, das habt Ihr bewiesen.
 <--->
-Ich grüße Euch. Ihr habt die Daedra überlistet. Was kann ich für Euch tun?
+<ce> Ich grüße Euch. Ihr habt die Daedra überlistet.
+<ce> Was kann ich für Euch tun?
 
 QuestorPostfailure:  [1009]
-Die Daedra waren also zu viel, hm?
-%pcf? Ich bin enttäuscht.
-Ich hatte mehr von Euch erwartet.
+<ce> Die Daedra waren also zu viel, hm?
+<ce> %pcf? Ich bin enttäuscht.
+<ce> Ich hatte mehr von Euch erwartet.
 
 QuestLogEntry:  [1010]
 %qdt:
- _questgiver_ schickte mich zu  ___contact_,
+ _questgiver_ schickte mich zu ___contact_,
  um ein gewisses Buch, _item_, zu _contact_
- in ___contact_  zu bringen. Mir bleiben
- =queston_  Tage, um es abzuliefern und meine
+ in ___contact_ zu bringen. Mir bleiben
+ =queston_ Tage, um es abzuliefern und meine
  Belohnung zu erhalten. Eine Gruppe Daedra
  möchte meine Mission scheitern sehen.
 
 Message:  1011
-Seid gegrüßt, %pcn. Ich habe Euch
-erwartet. Ich bin _oblivion_, zu
-Euren Diensten. Meine Freunde im Reich
-des Vergessens haben mir gesagt, dass
-Ihr Euch in ihre Angelegenheiten eingemischt
-habt. Ich kann sie vielleicht noch zu
-besänftigen, aber dafür brauche ich das
-Buch, das Ihr bei Euch tragt. Ich sollte
-Euch warnen: Daedra haben ein gutes
-Gedächtnis. Gebt mir das Buch, bevor es
-zu spät ist!
+<ce> Seid gegrüßt, %pcn. Ich habe Euch
+<ce> erwartet. Ich bin _oblivion_, zu
+<ce> Euren Diensten. Meine Freunde im Reich
+<ce> des Vergessens haben mir gesagt, dass
+<ce> Ihr Euch in ihre Angelegenheiten eingemischt
+<ce> habt. Ich kann sie vielleicht noch zu
+<ce> besänftigen, aber dafür brauche ich das
+<ce> Buch, das Ihr bei Euch tragt. Ich sollte
+<ce> Euch warnen: Daedra haben ein gutes
+<ce> Gedächtnis. Gebt mir das Buch, bevor es
+<ce> zu spät ist!
 
 Message:  1012
 Als Ihr das Buch übergebt, materialisiert
 sich eine schattenhafte Gestalt:
-
-  "Das Reich des Vergessenes würdigt Eure
-   Dienste, %pcf. Wir haben Euch
-   beobachtet. Es sieht so aus, als habe
-   sich unser Interesse gelohnt."
-
+ 
+<ce> "Das Reich des Vergessenes würdigt Eure
+<ce> Dienste, %pcf. Wir haben Euch
+<ce> beobachtet. Es sieht so aus, als habe
+<ce> sich unser Interesse gelohnt."
+ 
 Ihr spürt, wie sich das Buch aus Eurem Griff
 löst, als die Gestalt wieder verschwindet.
 
 Message:  1013
-_oblivion_ in  ___oblivion_ beherrscht mächtige Magie.
+_oblivion_ in ___oblivion_ beherrscht mächtige Magie.
 <--->
 _oblivion_ aus ___oblivion_? Soll mit den Daedra im Bunde sein, habe ich gehört.
 
@@ -114,19 +116,19 @@ aber der Daedra bleibt noch einen Moment auf den
 Beinen, die Augen starr auf Euch gerichtet. Aus
 blutiger Gurgel ertönt eine harsche Stimme: 
 
-  "Ihr mögt meine sterbliche Hülle besiegt haben,
-   %pcn, doch meine Brüder werden Euch
-   ohne Gnade verfolgen und Euch das Buch aus Euren
-   leblosen Händen reißen. Wollt Ihr diesem Schicksal
-   entgehen, sucht _oblivion_ auf und
-   übergebt %g2 das Buch. Zwischen Eurer Welt und
-   meiner vermittelnd, wird %g allein meinen Fürsten
-   dazu bringen können, die Jagd auf Euch abzublasen."
+<ce> "Ihr mögt meine sterbliche Hülle besiegt haben,
+<ce> %pcn, doch meine Brüder werden Euch
+<ce> ohne Gnade verfolgen und Euch das Buch aus Euren
+<ce> leblosen Händen reißen. Wollt Ihr diesem Schicksal
+<ce> entgehen, sucht _oblivion_ auf und
+<ce> übergebt %g2 das Buch. Zwischen Eurer Welt und
+<ce> meiner vermittelnd, wird %g allein meinen Fürsten
+<ce> dazu bringen können, die Jagd auf Euch abzublasen."
 
 Message:  1025
-Anmaßender Welpe!  Ihr kommt her, um mich um Hilfe
-zu bitten und schlagt dann meinen Rat aus? Soll Euch
-das Reich des Vergessens holen!
+<ce> Anmaßender Welpe! Ihr kommt her, um mich um Hilfe
+<ce> zu bitten und schlagt dann meinen Rat aus? Soll Euch
+<ce> das Reich des Vergessens holen!
 
 Message:  1030
 Dieses Pergament zeigt die Lage des Skeffington-Zirkels

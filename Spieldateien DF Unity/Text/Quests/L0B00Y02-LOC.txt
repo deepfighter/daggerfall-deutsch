@@ -3,51 +3,51 @@ DisplayName: Ungesunde Konkurrenz
 QRC:
 
 QuestorOffer:  [1000]
-Eine weitere Assassinengruppe treibt
-in %reg Knospen und muss ausgemerzt
-werden, bevor sie voll erblühen kann.
-Ich möchte, dass Ihr loszieht, mit dem
-Assassinen abrechnet und dazu mit dem
-Mann oder der Frau, die den Meuchelmord
-befohlen hat. Ihr habt doch Zeit für
-dieses Anliegen, oder?
+<ce> Eine weitere Assassinengruppe treibt
+<ce> in %reg Knospen und muss ausgemerzt
+<ce> werden, bevor sie voll erblühen kann.
+<ce> Ich möchte, dass Ihr loszieht, mit dem
+<ce> Assassinen abrechnet und dazu mit dem
+<ce> Mann oder der Frau, die den Meuchelmord
+<ce> befohlen hat. Ihr habt doch Zeit für
+<ce> dieses Anliegen, oder?
 <--->
-Die Dunkle Bruderschaft ist seit der
-Zweiten Ära die einzige Assassinengilde
-in Tamriel. Wir beabsichtigen, dieses
-Monopol zu halten. Es gibt da einen
-Freischärler-Assassinen, der uns nun
-schon seit einiger Zeit bloßstellt.
-Aber jetzt ist die Glückssträhne für
-=assassin_ gerissen. Ich möchte,
-dass Ihr %g2 eine bleibende Lektion
-erteilt. Dann wiederholt Ihr die
-Lektion für den törichten Auftraggeber. 
+<ce> Die Dunkle Bruderschaft ist seit der
+<ce> Zweiten Ära die einzige Assassinengilde
+<ce> in Tamriel. Wir beabsichtigen, dieses
+<ce> Monopol zu halten. Es gibt da einen
+<ce> Freischärler-Assassinen, der uns nun
+<ce> schon seit einiger Zeit bloßstellt.
+<ce> Aber jetzt ist die Glückssträhne für
+<ce> =assassin_ gerissen. Ich möchte,
+<ce> dass Ihr %g2 eine bleibende Lektion
+<ce> erteilt. Dann wiederholt Ihr die
+<ce> Lektion für den törichten Auftraggeber. 
 
 RefuseQuest:  [1001]
-Nein? Wie befremdlich und beunruhigend.
+<ce> Nein? Wie befremdlich und beunruhigend.
 
 AcceptQuest:  [1002]
-Gut. Nun denn, wir wissen, dass Assassine
-=assassin_ %g3 Opfer bis zu einem
-Verlies namens ___mondung_
-verfolgt hat. Falls Ihr keine Hinweise
-auf den Aufenthalt des Auftraggebers
-finden konntet, kehrt Ihr anschließend
-hierher zurück. Ich würde es natürlich
-bevorzugen, wenn Ihr sowohl mit
-=assassin_ als auch dem Auftraggeber
-abrechnet, wäre aber auch schon mit dem
-Tod des Freischärlers leidlich zufrieden.
-Verwendet nicht mehr als =queston_ Tage
-auf beide Abrechnungen.
+<ce> Gut. Nun denn, wir wissen, dass Assassine
+<ce> =assassin_ %g3 Opfer bis zu einem
+<ce> Verlies namens ___mondung_
+<ce> verfolgt hat. Falls Ihr keine Hinweise
+<ce> auf den Aufenthalt des Auftraggebers
+<ce> finden konntet, kehrt Ihr anschließend
+<ce> hierher zurück. Ich würde es natürlich
+<ce> bevorzugen, wenn Ihr sowohl mit
+<ce> =assassin_ als auch dem Auftraggeber
+<ce> abrechnet, wäre aber auch schon mit dem
+<ce> Tod des Freischärlers leidlich zufrieden.
+<ce> Verwendet nicht mehr als =queston_ Tage
+<ce> auf beide Abrechnungen.
 
 QuestComplete:  [1004]
-Exzellent, %pct. Wir wären schon mit der
-Terminierung von =assassin_ zufrieden
-gewesen, aber jetzt wissen auch die
-Bekannten von =boss_, dass die Dunkle
-Bruderschaft keine Amateurkonkurrenz duldet.
+<ce> Exzellent, %pct. Wir wären schon mit der
+<ce> Terminierung von =assassin_ zufrieden
+<ce> gewesen, aber jetzt wissen auch die
+<ce> Bekannten von =boss_, dass die Dunkle
+<ce> Bruderschaft keine Amateurkonkurrenz duldet.
 
 RumorsDuringQuest:  [1005]
 Dieser =assassin_ ist nun schon seit Jahren als Freischärler-Assassine in %reg aktiv.
@@ -68,11 +68,11 @@ QuestorPostsuccess:  [1008]
 Und wie geht es Euch, Mörder des abtrünnigen Assassinen?
 
 QuestorPostfailure:  [1009]
-Ihr seid dieser wertlose Schläger,
-der nichtmal mit einem Stümper von
-einem Freischärler wie =assassin_
-abrechnen kann. Warum sollte ich
-meinen Atem an Euch verschwenden?
+<ce> Ihr seid dieser wertlose Schläger,
+<ce> der nichtmal mit einem Stümper von
+<ce> einem Freischärler wie =assassin_
+<ce> abrechnen kann. Warum sollte ich
+<ce> meinen Atem an Euch verschwenden?
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -102,17 +102,17 @@ Message:  1012
  ___stronghold_.
 
 Message:  1013
-Ihr habt =assassin_ getötet.
-Die Bruderschaft wird zufrieden sein.
+<ce> Ihr habt =assassin_ getötet.
+<ce> Die Bruderschaft wird zufrieden sein.
 
 Message:  1014
-=boss_ hat sich =assassin_ beigesellt.
-Die Bruderschaft wird sehr zufrieden sein.
+<ce> =boss_ hat sich =assassin_ beigesellt.
+<ce> Die Bruderschaft wird sehr zufrieden sein.
 
 Message:  1015
-Wir hätten es vorgezogen, wenn Ihr mit
-dem Auftraggeber von =assassin_
-ebenfalls abgerechnet hättet. Aber es
-genügt zu wissen, das =assassin_
-nicht länger im Wettbewerb ist.
+<ce> Wir hätten es vorgezogen, wenn Ihr mit
+<ce> dem Auftraggeber von =assassin_
+<ce> ebenfalls abgerechnet hättet. Aber es
+<ce> genügt zu wissen, das =assassin_
+<ce> nicht länger im Wettbewerb ist.
 

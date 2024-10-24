@@ -3,30 +3,30 @@ DisplayName: Das Artefakt
 QRC:
 
 QuestorOffer:  [1000]
-Es gibt ein Gerücht darüber,
-wo sich ein uraltes Artefakt
-der Macht befinden soll. Das
-ist eine Gelegenheit, wie man
-sie nur einmal im Leben erhält.
-Seid Ihr dabei, %pct?
+<ce> Es gibt ein Gerücht darüber,
+<ce> wo sich ein uraltes Artefakt
+<ce> der Macht befinden soll. Das
+<ce> ist eine Gelegenheit, wie man
+<ce> sie nur einmal im Leben erhält.
+<ce> Seid Ihr dabei, %pct?
 
 RefuseQuest:  [1001]
-Nicht der ehrgeizige Typ, hm?
-Bestimmt wird es sich ein anderer
-glücklicher Ritter schnappen.
+<ce> Nicht der ehrgeizige Typ, hm?
+<ce> Bestimmt wird es sich ein anderer
+<ce> glücklicher Ritter schnappen.
 
 AcceptQuest:  [1002]
-Dachte ich mir doch, dass da
-Ehrgeiz in Euren Augen funkelt,
-%pcf. Angeblich hat eine
-Hexe, die in den Tiefen von
-___dungeon1_ lebt, einen
-Hinweis darauf gefunden, wo
-sich dieses Ding befindet. Ich
-würde bei ihr mit der Suche beginnen.
+<ce> Dachte ich mir doch, dass da
+<ce> Ehrgeiz in Euren Augen funkelt,
+<ce> %pcf. Angeblich hat eine
+<ce> Hexe, die in den Tiefen von
+<ce> ___dungeon1_ lebt, einen
+<ce> Hinweis darauf gefunden, wo
+<ce> sich dieses Ding befindet. Ich
+<ce> würde bei ihr mit der Suche beginnen.
 
 QuestComplete:  [1004]
-Eure Quest ist erfüllt.
+<ce> Eure Quest ist erfüllt.
 
 RumorsDuringQuest:  [1005]
 Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
@@ -158,118 +158,118 @@ Message:  1013
  ich jemals _lordsmail_ finden will.
 
 Message:  1021
-Ich bin _witch_. Ihr wollt also
-_aurielshield_. Es ist wahr, ich
-weiß etwas darüber. Aber wenn Ihr
-mein Geheimnis erfahren wollt, müsst
-Ihr zunächst etwas für mich tun. Vor
-langer Zeit, als ich jung und Euer
-Großvater noch nicht einmal ein Glanz
-in den Augen Eurer Ur-Urgroßmutter war,
-habe ich einer Tochter das Leben geschenkt.
-Ich ließ das Kind bei anderen, um es
-aufzuziehen, aber nun schwinden meine
-Kräfte und ich brauche eine Erbin. Meine
-Tochter ist schon lange tot, aber ich
-habe eine Ur-Urenkelin namens _child_,
-die genau das richtige Alter hat. Bringt
-sie mir binnen =finddaughter_ Tagen und ich
-werde Euch sagen, was ich über _aurielshield_
-weiß. Die Eltern von _child_ wissen nichts
-von ihrem Geburtsrecht und werden sich jeden
-Versuch widersetzen, sie mitzunehmen. Ihr
-findet sie in ihrem Anwesen [_palace_]
-in __palace_.
+<ce> Ich bin _witch_. Ihr wollt also
+<ce> _aurielshield_. Es ist wahr, ich
+<ce> weiß etwas darüber. Aber wenn Ihr
+<ce> mein Geheimnis erfahren wollt, müsst
+<ce> Ihr zunächst etwas für mich tun. Vor
+<ce> langer Zeit, als ich jung und Euer
+<ce> Großvater noch nicht einmal ein Glanz
+<ce> in den Augen Eurer Ur-Urgroßmutter war,
+<ce> habe ich einer Tochter das Leben geschenkt.
+<ce> Ich ließ das Kind bei anderen, um es
+<ce> aufzuziehen, aber nun schwinden meine
+<ce> Kräfte und ich brauche eine Erbin. Meine
+<ce> Tochter ist schon lange tot, aber ich
+<ce> habe eine Ur-Urenkelin namens _child_,
+<ce> die genau das richtige Alter hat. Bringt
+<ce> sie mir binnen =finddaughter_ Tagen und ich
+<ce> werde Euch sagen, was ich über _aurielshield_
+<ce> weiß. Die Eltern von _child_ wissen nichts
+<ce> von ihrem Geburtsrecht und werden sich jeden
+<ce> Versuch widersetzen, sie mitzunehmen. Ihr
+<ce> findet sie in ihrem Anwesen [_palace_]
+<ce> in __palace_.
 
 Message:  1020
-Ich bin _witch_. Ihr wollt also
-_aurielsbow_. Es ist wahr, ich
-weiß etwas darüber. Aber wenn Ihr
-mein Geheimnis erfahren wollt, müsst
-Ihr zunächst etwas für mich tun. Vor
-langer Zeit, als ich jung und Euer
-Großvater noch nicht einmal ein Glanz
-in den Augen Eurer Ur-Urgroßmutter war,
-habe ich einer Tochter das Leben geschenkt.
-Ich ließ das Kind bei anderen, um es
-aufzuziehen, aber nun schwinden meine
-Kräfte und ich brauche eine Erbin. Meine
-Tochter ist schon lange tot, aber ich
-habe eine Ur-Urenkelin namens _child_,
-die genau das richtige Alter hat. Bringt
-sie mir binnen =finddaughter_ Tagen und ich
-werde Euch sagen, was ich über _aurielsbow_
-weiß. Die Eltern von _child_ wissen nichts
-von ihrem Geburtsrecht und werden sich jeden
-Versuch widersetzen, sie mitzunehmen. Ihr
-findet sie in ihrem Anwesen [_palace_]
-in __palace_.
+<ce> Ich bin _witch_. Ihr wollt also
+<ce> _aurielsbow_. Es ist wahr, ich
+<ce> weiß etwas darüber. Aber wenn Ihr
+<ce> mein Geheimnis erfahren wollt, müsst
+<ce> Ihr zunächst etwas für mich tun. Vor
+<ce> langer Zeit, als ich jung und Euer
+<ce> Großvater noch nicht einmal ein Glanz
+<ce> in den Augen Eurer Ur-Urgroßmutter war,
+<ce> habe ich einer Tochter das Leben geschenkt.
+<ce> Ich ließ das Kind bei anderen, um es
+<ce> aufzuziehen, aber nun schwinden meine
+<ce> Kräfte und ich brauche eine Erbin. Meine
+<ce> Tochter ist schon lange tot, aber ich
+<ce> habe eine Ur-Urenkelin namens _child_,
+<ce> die genau das richtige Alter hat. Bringt
+<ce> sie mir binnen =finddaughter_ Tagen und ich
+<ce> werde Euch sagen, was ich über _aurielsbow_
+<ce> weiß. Die Eltern von _child_ wissen nichts
+<ce> von ihrem Geburtsrecht und werden sich jeden
+<ce> Versuch widersetzen, sie mitzunehmen. Ihr
+<ce> findet sie in ihrem Anwesen [_palace_]
+<ce> in __palace_.
 
 Message:  1022
-Ich bin _witch_. Ihr wollt also
-_lordsmail_. Es ist wahr, ich
-weiß etwas darüber. Aber wenn Ihr
-mein Geheimnis erfahren wollt, müsst
-Ihr zunächst etwas für mich tun. Vor
-langer Zeit, als ich jung und Euer
-Großvater noch nicht einmal ein Glanz
-in den Augen Eurer Ur-Urgroßmutter war,
-habe ich einer Tochter das Leben geschenkt.
-Ich ließ das Kind bei anderen, um es
-aufzuziehen, aber nun schwinden meine
-Kräfte und ich brauche eine Erbin. Meine
-Tochter ist schon lange tot, aber ich
-habe eine Ur-Urenkelin namens _child_,
-die genau das richtige Alter hat. Bringt
-sie mir binnen =finddaughter_ Tagen und ich
-werde Euch sagen, was ich über _lordsmail_
-weiß. Die Eltern von _child_ wissen nichts
-von ihrem Geburtsrecht und werden sich jeden
-Versuch widersetzen, sie mitzunehmen. Ihr
-findet sie in ihrem Anwesen [_palace_]
-in __palace_.
+<ce> Ich bin _witch_. Ihr wollt also
+<ce> _lordsmail_. Es ist wahr, ich
+<ce> weiß etwas darüber. Aber wenn Ihr
+<ce> mein Geheimnis erfahren wollt, müsst
+<ce> Ihr zunächst etwas für mich tun. Vor
+<ce> langer Zeit, als ich jung und Euer
+<ce> Großvater noch nicht einmal ein Glanz
+<ce> in den Augen Eurer Ur-Urgroßmutter war,
+<ce> habe ich einer Tochter das Leben geschenkt.
+<ce> Ich ließ das Kind bei anderen, um es
+<ce> aufzuziehen, aber nun schwinden meine
+<ce> Kräfte und ich brauche eine Erbin. Meine
+<ce> Tochter ist schon lange tot, aber ich
+<ce> habe eine Ur-Urenkelin namens _child_,
+<ce> die genau das richtige Alter hat. Bringt
+<ce> sie mir binnen =finddaughter_ Tagen und ich
+<ce> werde Euch sagen, was ich über _lordsmail_
+<ce> weiß. Die Eltern von _child_ wissen nichts
+<ce> von ihrem Geburtsrecht und werden sich jeden
+<ce> Versuch widersetzen, sie mitzunehmen. Ihr
+<ce> findet sie in ihrem Anwesen [_palace_]
+<ce> in __palace_.
 
 Message:  1025
-Was habt Ihr vor! Ich will
-nicht mit Euch gehen. Hilfe!
-Mama, Papa, hilfe!!
+<ce> Was habt Ihr vor! Ich will
+<ce> nicht mit Euch gehen. Hilfe!
+<ce> Mama, Papa, hilfe!!
 
 Message:  1026
-Eindringling! Eindringling!
+<ce> Eindringling! Eindringling!
 
 Message:  1027
-Lasst _child_ runter oder
-ich bin gezwungen, Euch zu töten.
+<ce> Lasst _child_ runter oder
+<ce> ich bin gezwungen, Euch zu töten.
 
 Message:  1032
-Ah ja, meine Erbin. Wie sagtet
-Ihr war ihr Name? _child_?
-Ja, sie wird ausreichen. %pcn,
-Ihr habt Euch das Recht verdient,
-nach _aurielshield_ zu suchen.
-Die Sterne haben mir gesagt, dass
-der Pfad zu _aurielshield_ über
-___dungeon2_ führt. Das ist alles.
+<ce> Ah ja, meine Erbin. Wie sagtet
+<ce> Ihr war ihr Name? _child_?
+<ce> Ja, sie wird ausreichen. %pcn,
+<ce> Ihr habt Euch das Recht verdient,
+<ce> nach _aurielshield_ zu suchen.
+<ce> Die Sterne haben mir gesagt, dass
+<ce> der Pfad zu _aurielshield_ über
+<ce> ___dungeon2_ führt. Das ist alles.
 
 Message:  1031
-Ah ja, meine Erbin. Wie sagtet
-Ihr war ihr Name? _child_?
-Ja, sie wird ausreichen. %pcn,
-Ihr habt Euch das Recht verdient,
-nach _aurielsbow_ zu suchen.
-Die Sterne haben mir gesagt, dass
-der Pfad zu _aurielsbow_ über
-___dungeon2_ führt. Das ist alles.
+<ce> Ah ja, meine Erbin. Wie sagtet
+<ce> Ihr war ihr Name? _child_?
+<ce> Ja, sie wird ausreichen. %pcn,
+<ce> Ihr habt Euch das Recht verdient,
+<ce> nach _aurielsbow_ zu suchen.
+<ce> Die Sterne haben mir gesagt, dass
+<ce> der Pfad zu _aurielsbow_ über
+<ce> ___dungeon2_ führt. Das ist alles.
 
 Message:  1033
-Ah ja, meine Erbin. Wie sagtet
-Ihr war ihr Name? _child_?
-Ja, sie wird ausreichen. %pcn,
-Ihr habt Euch das Recht verdient,
-nach _lordsmail_ zu suchen.
-Die Sterne haben mir gesagt, dass
-der Pfad zu _lordsmail_ über
-___dungeon2_ führt. Das ist alles.
+<ce> Ah ja, meine Erbin. Wie sagtet
+<ce> Ihr war ihr Name? _child_?
+<ce> Ja, sie wird ausreichen. %pcn,
+<ce> Ihr habt Euch das Recht verdient,
+<ce> nach _lordsmail_ zu suchen.
+<ce> Die Sterne haben mir gesagt, dass
+<ce> der Pfad zu _lordsmail_ über
+<ce> ___dungeon2_ führt. Das ist alles.
 
 Message:  1051
 %qdt:

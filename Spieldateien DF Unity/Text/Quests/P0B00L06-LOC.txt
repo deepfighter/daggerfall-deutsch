@@ -15,15 +15,15 @@ QuestFail:  [1003]
 Error: Questtext 1003 Called
 
 QuestComplete:  [1004]
-Wie niedlich. Habt Ihr das gelesen?
-Aber natürlich habt Ihr das. Was für ein
-Schund. Es gab da einmal einen anderen
-Magier, der ähnliche Ansichten über die
-Vampirstämme vertrat; ich erinnere mich
-jedoch nicht an seinen Namen.
+<ce> Wie niedlich. Habt Ihr das gelesen?
+<ce> Aber natürlich habt Ihr das. Was für ein
+<ce> Schund. Es gab da einmal einen anderen
+<ce> Magier, der ähnliche Ansichten über die
+<ce> Vampirstämme vertrat; ich erinnere mich
+<ce> jedoch nicht an seinen Namen.
  
-Das habt Ihr gut gemacht, Jungchen.
-Sehr gut sogar.
+<ce> Das habt Ihr gut gemacht, Jungchen.
+<ce> Sehr gut sogar.
 
 RumorsDuringQuest:  [1005]
 _mage_ befasst sich unten im ___mondung_ mit furchtbar wichtiger Arbeit.
@@ -85,26 +85,26 @@ Message:  1011
  __vamp_ treffen.
 
 Message:  1012
-Guten Abend, Blutsverwandter.
-Diese Narren von der Magiergilde sind
-in ihren ziellosen Forschungen blind
-über einige offenkundige Fakten gestolpert.
-Es ist unwahrscheinlich, dass sie überhaupt
-zu so etwas wie einem Ergebnis kommen werden,
-aber der Magier, der die Untersuchungen leitet,
-ist zumindest weise genug, sich zu verstecken.
-Das alleine ist Grund genug zu unserer
-Beunruhigung. Natürlich ist es sinnlos,
-sich irgendwo in %reg vor den
-%vam zu verstecken. _mage_
-ist im ___mondung_, einer Art
-Laboratorium. Ich will, dass Ihr die Notizen
-dieser Forschung an Euch nehmt und zu mir
-bringt. Ich gehe davon aus, dass
-_mage_ die Notizen in der
-lächerlichen Annahme bei sich trägt, dass sie
-dort sicher seien. Geht und zeigt ihm seinen
-Denkfehler auf, %pcf.
+<ce> Guten Abend, Blutsverwandter.
+<ce> Diese Narren von der Magiergilde sind
+<ce> in ihren ziellosen Forschungen blind
+<ce> über einige offenkundige Fakten gestolpert.
+<ce> Es ist unwahrscheinlich, dass sie überhaupt
+<ce> zu so etwas wie einem Ergebnis kommen werden,
+<ce> aber der Magier, der die Untersuchungen leitet,
+<ce> ist zumindest weise genug, sich zu verstecken.
+<ce> Das alleine ist Grund genug zu unserer
+<ce> Beunruhigung. Natürlich ist es sinnlos,
+<ce> sich irgendwo in %reg vor den
+<ce> %vam zu verstecken. _mage_
+<ce> ist im ___mondung_, einer Art
+<ce> Laboratorium. Ich will, dass Ihr die Notizen
+<ce> dieser Forschung an Euch nehmt und zu mir
+<ce> bringt. Ich gehe davon aus, dass
+<ce> _mage_ die Notizen in der
+<ce> lächerlichen Annahme bei sich trägt, dass sie
+<ce> dort sicher seien. Geht und zeigt ihm seinen
+<ce> Denkfehler auf, %pcf.
 
 Message:  1013
 Seid mir gegrüßt %pcn,
@@ -119,7 +119,7 @@ Seid mir gegrüßt %pcn,
  finanziellen Wohlstand und die noch größere
  Freude, einem Kollegen der Magiergilde geholfen
  zu haben, anbieten.
-  
+ 
     Ich hoffe, Euch sehr bald zu sehen.
  
  
@@ -135,42 +135,42 @@ händigt Euch einen Brief aus und
 verschwindet mit einer Verbeugung.
 
 Message:  1015
-Oh, oh, %oth, seid Ihr %pcn?
-Ich, äh, sehe dass Ihr hierfür geeignet seid.
-Ihr seid mutig und kräftig, kurz gesagt stark
-genug,  _mage_  zu helfen,
-einem Hexenmeister, der fürchtet, dass %g3
-Forschungen die, äh, inquisitorische Aufmerksamkeit
-eines lokalen Vampirstammes erregt zu haben.
+<ce> Oh, oh, %oth, seid Ihr %pcn?
+<ce> Ich, äh, sehe dass Ihr hierfür geeignet seid.
+<ce> Ihr seid mutig und kräftig, kurz gesagt stark
+<ce> genug, _mage_ zu helfen,
+<ce> einem Hexenmeister, der fürchtet, dass %g3
+<ce> Forschungen die, äh, inquisitorische Aufmerksamkeit
+<ce> eines lokalen Vampirstammes erregt zu haben.
  
-Zu viel Arbeit hat den armen, alten Hexenmeister -
-wie soll ich sagen - überempfindlich werden lassen.
-Wenn Ihr einfach in %g3 Labor, ___mondung_,
-vorbeischauen und diese kostbaren Notizen holen
-könntet, wäre ich Euch äußerst äh, verbunden.
+<ce> Zu viel Arbeit hat den armen, alten Hexenmeister -
+<ce> wie soll ich sagen - überempfindlich werden lassen.
+<ce> Wenn Ihr einfach in %g3 Labor, ___mondung_,
+<ce> vorbeischauen und diese kostbaren Notizen holen
+<ce> könntet, wäre ich Euch äußerst äh, verbunden.
  
-Nehmt Euch bloß vor dem alten _mage_
-in Acht -- %g ist ein wenig, äh, aufgeregt,
-nehme ich an.
+<ce> Nehmt Euch bloß vor dem alten _mage_
+<ce> in Acht -- %g ist ein wenig, äh, aufgeregt,
+<ce> nehme ich an.
 
 Message:  1016
-%oth! Meine kostbaren Notizen!
-Hinfort, Blutsauger! Hinfort!
+<ce> %oth! Meine kostbaren Notizen!
+<ce> Hinfort, Blutsauger! Hinfort!
 
 Message:  1017
-Wartet einen Moment!
-Seid Ihr der %ra,
-dem ich die Notizen geben sollte?
+<ce> Wartet einen Moment!
+<ce> Seid Ihr der %ra,
+<ce> dem ich die Notizen geben sollte?
 
 Message:  1018
-Ich bitte aufrichtig um Verzeihung, %pcn.
-Ich war in letzter Zeit sehr nervös.
-Hier sind die Notizen. Aber seid vorsichtig.
-Vertraut niemandem. Jeder könnte ein
-%vam-Vampir sein.
+<ce> Ich bitte aufrichtig um Verzeihung, %pcn.
+<ce> Ich war in letzter Zeit sehr nervös.
+<ce> Hier sind die Notizen. Aber seid vorsichtig.
+<ce> Vertraut niemandem. Jeder könnte ein
+<ce> %vam Vampir sein.
 
 Message:  1019
-%dat:
+%qdt:
  _mg_ im
  __mg_ in ___mg_
  möchte, dass ich zum ___mondung_
@@ -215,7 +215,7 @@ Mit _mg_ über eine Erhöhung der
 Forschungsgelder reden. Laufe ins Leere.
 
 Message:  1021
-%dat:
+%qdt:
  Ein Zauberer namens
  _mage_ ist einigen
  bedeutenden Entdeckungen
@@ -229,12 +229,12 @@ Message:  1021
  mich sei.
 
 Message:  1022
-Ist es das, was _mage_
-schützen wollte? Das abschweifende
-Gekritzel eines Verrückten. Dennoch
-nicht Eure Schuld, nehme ich an.
-Hier sind _mggold_ Goldstücke
-für die gelungene Überführung.
+<ce> Ist es das, was _mage_
+<ce> schützen wollte? Das abschweifende
+<ce> Gekritzel eines Verrückten. Dennoch
+<ce> nicht Eure Schuld, nehme ich an.
+<ce> Hier sind _mggold_ Goldstücke
+<ce> für die gelungene Überführung.
 
 Message:  1023
 Ein bleicher junge Knabe händigt Euch einen

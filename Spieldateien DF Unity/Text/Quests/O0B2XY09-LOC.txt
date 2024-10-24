@@ -3,35 +3,35 @@ DisplayName: Der reiche Händler
 QRC:
 
 QuestorOffer:  [1000]
-Ihr könnt mich _qgiver_ nennen.
-Es ist mir zu Ohren gekommen, dass
-ein gewissenloser Händler kürzlich
-eine Ladung _coastal_ erworben
-hat. Ich möchte, dass Ihr Euch ein
-Stück dieser Ware aneignet und es
-mir bringt. Dafür werde ich Euch
-_gold_ Goldstücke gewähren. Wollt
-Ihr diese Aufgabe annehmen?
+<ce> Ihr könnt mich _qgiver_ nennen.
+<ce> Es ist mir zu Ohren gekommen, dass
+<ce> ein gewissenloser Händler kürzlich
+<ce> eine Ladung _coastal_ erworben
+<ce> hat. Ich möchte, dass Ihr Euch ein
+<ce> Stück dieser Ware aneignet und es
+<ce> mir bringt. Dafür werde ich Euch
+<ce> _gold_ Goldstücke gewähren. Wollt
+<ce> Ihr diese Aufgabe annehmen?
 
 RefuseQuest:  [1001]
-Geht weiter, %pcn.
-Ich suche einen Dieb,
-der des Namens würdig ist.
+<ce> Geht weiter, %pcn.
+<ce> Ich suche einen Dieb,
+<ce> der des Namens würdig ist.
 
 AcceptQuest:  [1002]
-Begebt Euch nach __mansion_
-und sucht im _mansion_ nach
-der Ladung _coastal_. Es sollte
-nicht allzu schwer sein, sie ausfindig
-zu machen. Bringt mir die Beute innerhalb
-von =traveltime_ Tagen, und Ihr werdet Euren
-Lohn erhalten. Weitere Fragen? Nein? Gut. 
+<ce> Begebt Euch nach __mansion_
+<ce> und sucht im _mansion_ nach
+<ce> der Ladung _coastal_. Es sollte
+<ce> nicht allzu schwer sein, sie ausfindig
+<ce> zu machen. Bringt mir die Beute innerhalb
+<ce> von =traveltime_ Tagen, und Ihr werdet Euren
+<ce> Lohn erhalten. Weitere Fragen? Nein? Gut. 
 
 QuestComplete:  [1004]
-Oho! Diese Ladung übertrifft meine
-Erwartungen. Hier sind Eure _gold_ Goldstücke,
-%pcn. Gebt nicht alles für Trinken
-und nette Gesellschaft aus.
+<ce> Oho! Diese Ladung übertrifft meine
+<ce> Erwartungen. Hier sind Eure _gold_ Goldstücke,
+<ce> %pcn. Gebt nicht alles für Trinken
+<ce> und nette Gesellschaft aus.
 
 RumorsDuringQuest:  [1005]
 Eine neue Ladung _coastal_ ist
@@ -49,17 +49,17 @@ _coastal_ aufbewahrt wurde,
 sei in den letzten Tagen geplündert worden.
 
 QuestorPostsuccess:  [1008]
-Nun, Ihr verschleudert das Gold doch
-nicht etwa fürs Trinken oder andere
-Laster, nicht wahr, %pcf?
+<ce> Nun, Ihr verschleudert das Gold doch
+<ce> nicht etwa fürs Trinken oder andere
+<ce> Laster, nicht wahr, %pcf?
 
 QuestorPostfailure:  [1009]
-Was wollt Ihr? Ich habe Euch mitgeteilt,
-wo Ihr die Ladung _coastal_
-finden könnt, doch Ihr habt getrödelt,
-bis sie für jedermann wertlos geworen ist.
-Entfernt Euch von hier, %pcf,
-Ihr bereitet mir nur Unbehagen.
+<ce> Was wollt Ihr? Ich habe Euch mitgeteilt,
+<ce> wo Ihr die Ladung _coastal_
+<ce> finden könnt, doch Ihr habt getrödelt,
+<ce> bis sie für jedermann wertlos geworen ist.
+<ce> Entfernt Euch von hier, %pcf,
+<ce> Ihr bereitet mir nur Unbehagen.
 
 QuestLogEntry:  [1010]
 %qdt:

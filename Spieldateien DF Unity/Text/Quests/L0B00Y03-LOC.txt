@@ -3,37 +3,37 @@ DisplayName: Abtrünniger Magier
 QRC:
 
 QuestorOffer:  [1000]
-Die Magiergilde ist mit einer unangenehmen
-Angelegenheit zu uns gekommen, die ihnen
-zu grob und hässlich ist, um sich damit
-zu befassen. Es muss schnell mit einem
-abtrünnigen Magier abgerechnet werden.
-Habt Ihr Interesse? 
+<ce> Die Magiergilde ist mit einer unangenehmen
+<ce> Angelegenheit zu uns gekommen, die ihnen
+<ce> zu grob und hässlich ist, um sich damit
+<ce> zu befassen. Es muss schnell mit einem
+<ce> abtrünnigen Magier abgerechnet werden.
+<ce> Habt Ihr Interesse? 
 <--->
-Wir haben wieder die Magiergilde als Klienten.
-Sieht so aus, als ob einer ihrer Jungs zu viel
-Fledermausgedärm geschnüffelt hat und jetzt
-Amok läuft. Klingt das interessant, %pct?
+<ce> Wir haben wieder die Magiergilde als Klienten.
+<ce> Sieht so aus, als ob einer ihrer Jungs zu viel
+<ce> Fledermausgedärm geschnüffelt hat und jetzt
+<ce> Amok läuft. Klingt das interessant, %pct?
 
 RefuseQuest:  [1001]
-Das ist enttäuschend.
+<ce> Das ist enttäuschend.
 
 AcceptQuest:  [1002]
-Gut. Dieser Magier - der Name lautet =mage_ -
-hat sich mit einigem magischen Zeugs davongemacht,
-aber die Magiergilde wird es Euch nicht übelnehmen,
-wenn Ihr Euch an den Sachen bedient, die %g
-gestohlen hat. Sie wollen nur, dass %g tot ist.
-Ihr habt aber nur =queston_ Tage, um mit ihm abzurechnen.
-Ihr werdet  =mage_  an einem scheußlichen Ort namens
-___mondung_ finden. Kehrt in =queston_ Tagen zurück,
-wenn die Welt einen abtrünnigen Magier weniger hat.
-Möge Mephala Eure Hand sicher führen, %pct.
+<ce> Gut. Dieser Magier - der Name lautet =mage_ -
+<ce> hat sich mit einigem magischen Zeugs davongemacht,
+<ce> aber die Magiergilde wird es Euch nicht übelnehmen,
+<ce> wenn Ihr Euch an den Sachen bedient, die %g
+<ce> gestohlen hat. Sie wollen nur, dass %g tot ist.
+<ce> Ihr habt aber nur =queston_ Tage, um mit ihm abzurechnen.
+<ce> Ihr werdet =mage_ an einem scheußlichen Ort namens
+<ce> ___mondung_ finden. Kehrt in =queston_ Tagen zurück,
+<ce> wenn die Welt einen abtrünnigen Magier weniger hat.
+<ce> Möge Mephala Eure Hand sicher führen, %pct.
 
 QuestComplete:  [1004]
-Ihr habt also den Lebensfunken dieses Funkensprühers
-ausgelöscht, %pcf? Ah, Mephala ist mit Euch
-zufrieden und ihre Kinder ebenfalls.
+<ce> Ihr habt also den Lebensfunken dieses Funkensprühers
+<ce> ausgelöscht, %pcf? Ah, Mephala ist mit Euch
+<ce> zufrieden und ihre Kinder ebenfalls.
 
 RumorsDuringQuest:  [1005]
 Die Magiergilde bestreitet, dass sie =mage_ nicht mehr unter Kontrolle hat.
@@ -52,10 +52,10 @@ QuestorPostsuccess:  [1008]
 Grüße und Glückwünsche. Wie kann ich Euch helfen, Magiermörder?
 
 QuestorPostfailure:  [1009]
-Ihr habt Euren Kontrakt mit uns nicht erfüllt.
-Damit bleibt auch unser Vertrag mit der Magiergilde
-unerfüllt. Ich habe im Moment wenig mehr als
-Verachtung für Euch übrig, %pcf.
+<ce> Ihr habt Euren Kontrakt mit uns nicht erfüllt.
+<ce> Damit bleibt auch unser Vertrag mit der Magiergilde
+<ce> unerfüllt. Ich habe im Moment wenig mehr als
+<ce> Verachtung für Euch übrig, %pcf.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -64,9 +64,9 @@ QuestLogEntry:  [1010]
  ___qgiver_ hat mich nach
  ___mondung_ geschickt, um mit dem
  abtrünnigen Magier fertigzuwerden. Ich
- habe  =queston_ Tage, um diese Angelegenheit zu regeln.
+ habe =queston_ Tage, um diese Angelegenheit zu regeln.
 
 Message:  1011
-Das Licht von =mage_ wurde ausgelöscht.
-Die Bruderschaft und die Magiergilde werden zufrieden sein.
+<ce> Das Licht von =mage_ wurde ausgelöscht.
+<ce> Die Bruderschaft und die Magiergilde werden zufrieden sein.
 

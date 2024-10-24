@@ -3,50 +3,50 @@ DisplayName: Besessenes Kind
 QRC:
 
 QuestorOffer:  [1000]
-Wäret Ihr bereit, bei einem
-Exorzismus zu helfen, %pct?
+<ce> Wäret Ihr bereit, bei einem
+<ce> Exorzismus zu helfen, %pct?
 <--->
-_guardian_, ein hiesiger Ritter,
-hat uns gebeten, %g3 Schützling zu helfen,
-der Zeichen einer daedrischen Besessenheit
-zeigt. Wärt Ihr bereit, bei dem Exorzismus
-zu helfen, wenn dies erforderlich ist?
+<ce> _guardian_, ein hiesiger Ritter,
+<ce> hat uns gebeten, %g3 Schützling zu helfen,
+<ce> der Zeichen einer daedrischen Besessenheit
+<ce> zeigt. Wärt Ihr bereit, bei dem Exorzismus
+<ce> zu helfen, wenn dies erforderlich ist?
 
 RefuseQuest:  [1001]
-Das ist bedauerlich. Ich hoffe,
-wir finden jemand anderen.
+<ce> Das ist bedauerlich. Ich hoffe,
+<ce> wir finden jemand anderen.
 
 AcceptQuest:  [1002]
-Würdet Ihr? %oth, Ihr habt ein
-Herz so groß wie %reg, %pct.
-Das Kind heißt _child_, %g
-ist ein =child_ bei _house_
-hier in __house_, aber
-die Person, mit der Ihr sprechen
-müsst, ist %g3 Beschützer, _guardian_
-in _tavern_. Wenn Ihr nach dem,
-was %g zu sagen hat, meint, dass ein
-Exorzismus nötig ist, geht zu _priest_
-in __priest_ von ___priest_.
-Ich erwarte, dass diese unglückliche
-Angelegenheit in =queston_ Tagen gelöst
-ist und dass Ihr dann hier seid.
-Viel Glück, %god sei mit Euch.
+<ce> Würdet Ihr? %oth, Ihr habt ein
+<ce> Herz so groß wie %reg, %pct.
+<ce> Das Kind heißt _child_, %g
+<ce> ist ein =child_ bei _house_
+<ce> hier in __house_, aber
+<ce> die Person, mit der Ihr sprechen
+<ce> müsst, ist %g3 Beschützer, _guardian_
+<ce> in _tavern_. Wenn Ihr nach dem,
+<ce> was %g zu sagen hat, meint, dass ein
+<ce> Exorzismus nötig ist, geht zu _priest_
+<ce> in _house3_ von __house3_.
+<ce> Ich erwarte, dass diese unglückliche
+<ce> Angelegenheit in =queston_ Tagen gelöst
+<ce> ist und dass Ihr dann hier seid.
+<ce> Viel Glück, %god sei mit Euch.
 
 QuestComplete:  [1004]
-Danket %god, dass diese
-Situation gelöst ist. Man kann
-nie wirklich von Anfang an wissen,
-ob eine Austreibung wirklich nötig
-ist oder nicht. Ihr habt gut getan,
-%pcf. Nehmet dies _reward_
-als kleines Zeichen unseres Dankes
-für Eure Bemühungen.
+<ce> Danket %god, dass diese
+<ce> Situation gelöst ist. Man kann
+<ce> nie wirklich von Anfang an wissen,
+<ce> ob eine Austreibung wirklich nötig
+<ce> ist oder nicht. Ihr habt gut getan,
+<ce> %pcf. Nehmet dies _reward_
+<ce> als kleines Zeichen unseres Dankes
+<ce> für Eure Bemühungen.
 
 RumorsDuringQuest:  [1005]
 Amer kleiner _child_. Und armer _guardian_, der %g3 Schützling so leiden sehen muss.
 <--->
-Das Herz von %cn hat wirklich mit _child_ und %g3 schrecklicher Krise mitgefühlt.
+Das Herz von ___house_ hat wirklich mit _child_ und %g3 schrecklicher Krise mitgefühlt.
 
 RumorsPostfailure:  [1006]
 _child_ und _guardian_ haben ___guardian_ verlassen.
@@ -69,38 +69,39 @@ QuestLogEntry:  [1010]
  _qgiver_ von ___qgiver_
  will, dass ich sehe, ob ein
  =child_ namens _child_
- ein Opfer von Besessenheit ist
- und, falls ja, %g2 zu heilen.
- Ich soll zuerst mit %g3 Wächter,
- _guardian_ von _tavern_, sprechen.
+ in _house_ ein Opfer von
+ Besessenheit ist und, falls ja,
+ %g2 zu heilen. Ich soll zuerst
+ mit %g3 Wächter, _guardian_
+ von _tavern_, sprechen.
 
 Message:  1011
-Ihr kommt von __qgiver_?
-Bitte sagt mir, dass Ihr dem kleinen
-_child_ helfen könnt. Ich
-kann es nicht ertragen, %g2 so leiden
-zu sehen. Ich weiß nicht, was ich mit
-%g2 machen soll. Bitte, schaut Euch %g2
-an und seht dann, ob Ihr _priest_
-überzeugen könnt zu helfen. _child_
-war immer so ein liebes =child_,
-aber jetzt ... Wenn Ihr %g2 sehen wollt,
-%g ist in _house_. Ich weiß
-nicht, was ich sonst noch tun kann.
+<ce> Ihr kommt von __qgiver_?
+<ce> Bitte sagt mir, dass Ihr dem kleinen
+<ce> _child_ helfen könnt. Ich
+<ce> kann es nicht ertragen, %g2 so leiden
+<ce> zu sehen. Ich weiß nicht, was ich mit
+<ce> %g2 machen soll. Bitte, schaut Euch %g2
+<ce> an und seht dann, ob Ihr _priest_
+<ce> überzeugen könnt zu helfen. _child_
+<ce> war immer so ein liebes =child_,
+<ce> aber jetzt ... Wenn Ihr %g2 sehen wollt,
+<ce> %g ist in _house_. Ich weiß
+<ce> nicht, was ich sonst noch tun kann.
 
 Message:  1012
-Ihr seid von _qgiver?
-Danket %god, dass Ihr hier seid.
-Man sagt, Ihr könntet zu _priest_,
-dem Exorzisten in __priest_
-gelangen, und %g hat ein besonderes
-_item_ für solche Besessenheiten.
-Ich kann _priest_ nicht überzeugen,
-mir das _item_ selbst zu geben,
-aber jemand wie Ihr mit der Autorität
-von __qgiver_ könnte es. Geht zu
-___priest_ und sprecht mit
-%g2. Ich weiß, Ihr könnt %g2 überzeugen.
+<ce> Ihr seid von _qgiver?
+<ce> Danket %god, dass Ihr hier seid.
+<ce> Man sagt, Ihr könntet zu _priest_,
+<ce> dem Exorzisten in _house3_
+<ce> gelangen, und %g hat ein besonderes
+<ce> _item_ für solche Besessenheiten.
+<ce> Ich kann _priest_ nicht überzeugen,
+<ce> mir das _item_ selbst zu geben,
+<ce> aber jemand wie Ihr mit der Autorität
+<ce> von __qgiver_ könnte es. Geht zu
+<ce> __house3_ und sprecht mit
+<ce> %g2. Ich weiß, Ihr könnt %g2 überzeugen.
 
 Message:  1013
 %qdt:
@@ -108,7 +109,7 @@ Message:  1013
  der Wächter von _child_,
  bat mich, das Kind anzusehen und
  dann zu prüfen, ob _priest_
- von __priest_, ___priest_,
+ von _house3_, __house3_,
  einen Exorzismus durchführen muss
  oder nicht. _child_
  ist in _house_.
@@ -125,65 +126,65 @@ Message:  1014
  zu vertreiben.
 
 Message:  1015
- "=daedra_ ... oh, %oth ...
- =daedra_ is aus mir heraus ...
- aber ... es ist immer noch hier."
-  
- _child_ rennt weg. Und
- Ihr könnt tatsächlich eine fremde
- Präsenz in _house_ spüren.
+<ce> "=daedra_ ... oh, %oth ...
+<ce> =daedra_ is aus mir heraus ...
+<ce> aber ... es ist immer noch hier."
+ 
+_child_ rennt weg. Und
+Ihr könnt tatsächlich eine fremde
+Präsenz in _house_ spüren.
 
 Message:  1016
-Oh, %oth, %oth ...
-ich fühle mich ... so viel besser.
-_guardian_ sagte mir, dass
-der _item_ uns helfen würde,
-und %g hatte recht. Oh, danke Euch,
-freundlicher %pct. Ich
-werde diesen _item_ zum Schutz behalten.
-Lebt wohl!
+<ce> Oh, %oth, %oth ...
+<ce> ich fühle mich ... so viel besser.
+<ce> _guardian_ sagte mir, dass
+<ce> der _item_ uns helfen würde,
+<ce> und %g hatte recht. Oh, danke Euch,
+<ce> freundlicher %pct. Ich
+<ce> werde diesen _item_ zum Schutz behalten.
+<ce> Lebt wohl!
 
 Message:  1017
-Gruh, du rotäugiger sterblicher Tropf,
-ich würde alle deine Adern öffnen und
-in deinem dampfenden Blut schwimmen.
-Sie nennen mich =daedra_,
-den Lecker von Katzendreck!
+<ce> Gruh, du rotäugiger sterblicher Tropf,
+<ce> ich würde alle deine Adern öffnen und
+<ce> in deinem dampfenden Blut schwimmen.
+<ce> Sie nennen mich =daedra_,
+<ce> den Lecker von Katzendreck!
 <--->
-Armer kleiner _child_, %g
-verrottet im Reich des Vergessens, und
-niemand wird %g2 helfen, aber netter,
-netter, netter, netter, netter, netter,
-netter, netter, netter, netter, netter,
-netter, netter, netter =daedra_.
+<ce> Armer kleiner _child_, %g
+<ce> verrottet im Reich des Vergessens, und
+<ce> niemand wird %g2 helfen, aber netter,
+<ce> netter, netter, netter, netter, netter,
+<ce> netter, netter, netter, netter, netter,
+<ce> netter, netter, netter =daedra_.
 <--->
-Es war einmal ein Mädchen namens Vivian,
-das traf =daedra_ aus dem Reich des Vergessenn,
-sie beschlossen zu paaren, und später aßen sie
-_child_, ihr Kind, lecker, lecker.
+<ce> Es war einmal ein Mädchen namens Vivian,
+<ce> das traf =daedra_ aus dem Reich des Vergessenn,
+<ce> sie beschlossen zu paaren, und später aßen sie
+<ce> _child_, ihr Kind, lecker, lecker.
 
 Message:  1018
-Es tut mir leid, %pcf, aber ich kann
-den _item_ nicht einfach jedem geben,
-der vermutet, ein Opfer von Besessenheit zu
-kennen. Er ist viel zu selten und kostbar.
-Ihr müsst zumindest das Kind sehen, bevor
-ich bereit bin, mich vom _item_ zu trennen.
+<ce> Es tut mir leid, %pcf, aber ich kann
+<ce> den _item_ nicht einfach jedem geben,
+<ce> der vermutet, ein Opfer von Besessenheit zu
+<ce> kennen. Er ist viel zu selten und kostbar.
+<ce> Ihr müsst zumindest das Kind sehen, bevor
+<ce> ich bereit bin, mich vom _item_ zu trennen.
 
 Message:  1019
-=daedra_? _child_ erwähnte
-den Namen =daedra_? Nun, wenn
-diese Besessenheit ein Schwindel ist, so ist
-es zumindest ein gut recherchierter. Hier also
-ist es [_item_]. Haltet ihn einfach bei
-Euch, wenn Ihr das nächste Mal mit dem Kind
-sprecht. Aber seid gewarnt, der Daedra, den
-_child_ erwähnte, ist ein Daedroth von
-großer Macht. Wenn der Exorzismus abgeschlossen
-ist, wird es %g2 verlassen und anderswo in
-_house_ erscheinen. Seid bereit für
-einen Kampf, wenn das passiert. Viel Glück,
-%pcf. %god sei mit Euch.
+<ce> =daedra_? _child_ erwähnte
+<ce> den Namen =daedra_? Nun, wenn
+<ce> diese Besessenheit ein Schwindel ist, so ist
+<ce> es zumindest ein gut recherchierter. Hier also
+<ce> ist es [_item_]. Haltet ihn einfach bei
+<ce> Euch, wenn Ihr das nächste Mal mit dem Kind
+<ce> sprecht. Aber seid gewarnt, der Daedra, den
+<ce> _child_ erwähnte, ist ein Daedroth von
+<ce> großer Macht. Wenn der Exorzismus abgeschlossen
+<ce> ist, wird es %g2 verlassen und anderswo in
+<ce> _house_ erscheinen. Seid bereit für
+<ce> einen Kampf, wenn das passiert. Viel Glück,
+<ce> %pcf. %god sei mit Euch.
 
 Message:  1020
 %qdt:
@@ -191,51 +192,51 @@ Message:  1020
  aber das war der Name, den _child_
  nannte, als ich %g2 sah. Dieses =child_
  ist besessen, verrückt oder der beste
- Schauspieler in %cn. Es könnte eine
+ Schauspieler in ___house_. Es könnte eine
  gute Zeit sein, den Exorzisten in
- __priest, _priest_
- in _priest, aufzusuchen.
+ __house3, _priest_
+ in _house3_, aufzusuchen.
 
 Message:  1021
-Guter %pcf, ich kann Euch nicht
-genug danken für das, was Ihr für
-_child_ getan habt. Nun ist %g
-wieder ein glückliches, normales Kind.
-Ich habe _qgiver_ bei Eurem
-__qgiver_ davon erzählt und %g
-ist begierig, Euch zu beglückwünschen.
-Nochmals vielen Dank.
+<ce> Guter %pcf, ich kann Euch nicht
+<ce> genug danken für das, was Ihr für
+<ce> _child_ getan habt. Nun ist %g
+<ce> wieder ein glückliches, normales Kind.
+<ce> Ich habe _qgiver_ bei Eurem
+<ce> __qgiver_ davon erzählt und %g
+<ce> ist begierig, Euch zu beglückwünschen.
+<ce> Nochmals vielen Dank.
 
 Message:  1022
-Ich kann Euch sagen, wohin jener =guardian_,
-_guardian_, sich davongeschlichen hat, sicher.
-Aber solange Ihr nicht fünfzig Gold übrig habt
-für die Info, weiß ich nichts.
+<ce> Ich kann Euch sagen, wohin jener =guardian_,
+<ce> _guardian_, sich davongeschlichen hat, sicher.
+<ce> Aber solange Ihr nicht fünfzig Gold übrig habt
+<ce> für die Info, weiß ich nichts.
 
 Message:  1023
-Guten Tag, %pct. Ihr sucht wahrscheinlich
-diesen =guardian_, _guardian_,
-der sich hier weggeschlichen hat, nachdem
-er damit geprahlt hat, irgendeinen _item_
-von __qgiver_ gestohlen zu haben. Wenn
-Ihr fünfzig Goldstücke übrig habt für einen
-Freund, könnte ich Euch sagen, wohin _guardian_
-gegangen ist. Was sagt Ihr?
+<ce> Guten Tag, %pct. Ihr sucht wahrscheinlich
+<ce> diesen =guardian_, _guardian_,
+<ce> der sich hier weggeschlichen hat, nachdem
+<ce> er damit geprahlt hat, irgendeinen _item_
+<ce> von __qgiver_ gestohlen zu haben. Wenn
+<ce> Ihr fünfzig Goldstücke übrig habt für einen
+<ce> Freund, könnte ich Euch sagen, wohin _guardian_
+<ce> gegangen ist. Was sagt Ihr?
 
 Message:  1024
-Schön Geschäfte mit Euch zu machen,
-%pcf. Ihr findet jenen
-=guardian_ drüben
-in _house2_.
+<ce> Schön Geschäfte mit Euch zu machen,
+<ce> %pcf. Ihr findet jenen
+<ce> =guardian_ drüben
+<ce> in _house2_.
 
 Message:  1025
-"Verletzt mich nicht"
-_guardian_ überreicht
-Euch _item_ und flieht.
+<ce> "Verletzt mich nicht"
+<ce> _guardian_ überreicht
+<ce> Euch _item_ und flieht.
 
 Message:  1026
 %qdt:
- _sneaker_, ein =sneaker_
+ _hooker_, ein =hooker_
  drüben in _tavern_ erzählte
  mir (für fünfzig Goldstücke),
  dass jener _guardian_ nach

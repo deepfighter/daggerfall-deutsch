@@ -3,56 +3,56 @@ DisplayName: Die Spezialzutat
 QRC:
 
 QuestorOffer:  [1000]
-Ich habe mich gefragt, ob Ihr mir
-wohl eine kleine Gefälligkeit erweisen
-würdet. Seht, ich habe einen Freund,
-der eine bestimmte Lieferung einer
-gewissen Substanz benötigt, die zu
-einem bestimmten Zeitpunkt bei ihm
-eintrifft. Ich vertraue darauf,
-dass ich mich deutlich genug 
-ausgedrückt habe. Seid Ihr für diese
-Art von Beschäftigung verfügbar,
-gegen eine Bezahlung von, sagen
-wir, _reward_ Goldstücke?
+<ce> Ich habe mich gefragt, ob Ihr mir
+<ce> wohl eine kleine Gefälligkeit erweisen
+<ce> würdet. Seht, ich habe einen Freund,
+<ce> der eine bestimmte Lieferung einer
+<ce> gewissen Substanz benötigt, die zu
+<ce> einem bestimmten Zeitpunkt bei ihm
+<ce> eintrifft. Ich vertraue darauf,
+<ce> dass ich mich deutlich genug 
+<ce> ausgedrückt habe. Seid Ihr für diese
+<ce> Art von Beschäftigung verfügbar,
+<ce> gegen eine Bezahlung von, sagen
+<ce> wir, _reward_ Goldstücke?
 
 RefuseQuest:  [1001]
-Nun, ich bin sichtlich enttäuscht.
-Ich hätte mehr Enthusiasmus erwartet.
-Ach, es sind diese Zeiten, die zu
-Faulheit und Indolenz animiert,
-nehme ich an.
+<ce> Nun, ich bin sichtlich enttäuscht.
+<ce> Ich hätte mehr Enthusiasmus erwartet.
+<ce> Ach, es sind diese Zeiten, die zu
+<ce> Faulheit und Indolenz animiert,
+<ce> nehme ich an.
 
 AcceptQuest:  [1002]
-Ihr werdet mir also helfen? Nun, das ist
-großartig, muss ich sagen. Also denn,
-hier ist ein Wieheisstesdenngleich, ein
-_item1_. Es muss zu einem Alchemisten
-gebracht werden, den ich kenne, namens
-_npc1_. Ihr findet %g2 in __npc1_
-in ___npc1_. Mit etwas Glück
-wird %g etwas für Euch haben, das Ihr
-meinem Freund, _npc2_, bringen könnt.
-Gut, Jetzt maht Euch aber besser auf den
-Weg. _npc1_ hat mir gesagt, %g benötige
-das _item1_ in =1stparton_ Tagen oder früher.
-Ich danke Euch und wünsche eine gute Reise.
+<ce> Ihr werdet mir also helfen? Nun, das ist
+<ce> großartig, muss ich sagen. Also denn,
+<ce> hier ist ein Wieheisstesdenngleich, ein
+<ce> _item1_. Es muss zu einem Alchemisten
+<ce> gebracht werden, den ich kenne, namens
+<ce> _npc1_. Ihr findet %g2 in __npc1_
+<ce> in ___npc1_. Mit etwas Glück
+<ce> wird %g etwas für Euch haben, das Ihr
+<ce> meinem Freund, _npc2_, bringen könnt.
+<ce> Gut, Jetzt maht Euch aber besser auf den
+<ce> Weg. _npc1_ hat mir gesagt, %g benötige
+<ce> das _item1_ in =1stparton_ Tagen oder früher.
+<ce> Ich danke Euch und wünsche eine gute Reise.
 
 QuestFail:  [1003]
-Wir werden reichlich Zeit haben, weiter zu
-plaudern, sobald Ihr Eure Aufgabe erfüllt habt.
+<ce> Wir werden reichlich Zeit haben, weiter zu
+<ce> plaudern, sobald Ihr Eure Aufgabe erfüllt habt.
 
 QuestComplete:  [1004]
-%oth, ich fragte mich schon, wann Ihr
-hier ankommen würdet. Ihr seid %pcf?
-Ich bin _npc2_, und das, glaube
-ich, ist mein _item2_. Falls
-Ihr es noch nicht ausprobiert habt,
-solltet Ihr es wirklich tun. Die Wirkung
-ist himmlisch. Wie auch immer, hier
-sind Eure _reward_ Goldstücke.
-Vielen Dank, %pcf.
-Ihr seid mein Lebensretter.
+<ce> %oth, ich fragte mich schon, wann Ihr
+<ce> hier ankommen würdet. Ihr seid %pcf?
+<ce> Ich bin _npc2_, und das, glaube
+<ce> ich, ist mein _item2_. Falls
+<ce> Ihr es noch nicht ausprobiert habt,
+<ce> solltet Ihr es wirklich tun. Die Wirkung
+<ce> ist himmlisch. Wie auch immer, hier
+<ce> sind Eure _reward_ Goldstücke.
+<ce> Vielen Dank, %pcf.
+<ce> Ihr seid mein Lebensretter.
 
 RumorsDuringQuest:  [1005]
 Ich habe gehört, dass _npc2_ süchtig nach _item2_ ist, aber ich habe noch keinen Beweis gesehen.
@@ -70,16 +70,18 @@ _npc2_ hat endlich die Lieferung erhalten, auf die %g gewartet hat. Er ist glüc
 _questgiver_ scheint ziemlich zufrieden mit einem %ra-Söldner zu sein, aber will nicht sagen, warum.
 
 QuestorPostsuccess:  [1008]
-Ihr habt bei dieser Lieferung gute Arbeit geleistet, mein Freund. Was kann ich für Euch tun?
+<ce> Ihr habt bei dieser Lieferung gute Arbeit geleistet,
+<ce> mein Freund. Was kann ich für Euch tun?
 <--->
-%oth, schön, Euch wiederzusehen, %pcf. Ihr habt gute Arbeit bei dieser ... kleinen Aufgabe geleistet.
+<ce> %oth, schön, Euch wiederzusehen, %pcf.
+<ce> Ihr habt gute Arbeit bei dieser ... kleinen Aufgabe geleistet.
 
 QuestorPostfailure:  [1009]
-Wenn ich mich recht entsinne, wart
-Ihr es der bei meinen letzten Aufrag,
-den ich Euch gab, versagt hat. Ich
-sehe wenig Sinn darin, jetzt mit
-Euch zu sprechen.
+<ce> Wenn ich mich recht entsinne, wart
+<ce> Ihr es der bei meinen letzten Aufrag,
+<ce> den ich Euch gab, versagt hat. Ich
+<ce> sehe wenig Sinn darin, jetzt mit
+<ce> Euch zu sprechen.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -103,11 +105,11 @@ Message:  1011
  %g2 innerhalb von =2ndparton_ Tagen.
 
 Message:  1012
-Wunderbar, %pcf, wunderbar.
-Nun, hier ist das _item2_,
-das _npc2_ in __npc2_ in
-___npc2_ übergeben werden muss.
-Trödelt nicht, %pct. _npc2_
-benötigt es in =2ndparton_ Tagen
-oder früher.
+<ce> Wunderbar, %pcf, wunderbar.
+<ce> Nun, hier ist das _item2_,
+<ce> das _npc2_ in __npc2_ in
+<ce> ___npc2_ übergeben werden muss.
+<ce> Trödelt nicht, %pct. _npc2_
+<ce> benötigt es in =2ndparton_ Tagen
+<ce> oder früher.
 

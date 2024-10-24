@@ -3,47 +3,47 @@ DisplayName: Orkgeschäfte
 QRC:
 
 QuestorOffer:  [1000]
-Ah, %pcf, ich bin froh, dass Ihr
-hier seid. Wenn Ihr Eure Dienste anbieten
-wollt - ich suche noch jemanden, der
-eine besondere _item_ an einen
-Bekannten von mir überbringt. Die Belohnung,
-werdet Ihr, so denke ich, für ausgesprochen
-großzügig befinden; sie wiegt die Gefahren
-auf, die diese Mission mit sich bringt.
-Seid Ihr interessiert?
+<ce> Ah, %pcf, ich bin froh, dass Ihr
+<ce> hier seid. Wenn Ihr Eure Dienste anbieten
+<ce> wollt - ich suche noch jemanden, der
+<ce> eine besondere _item_ an einen
+<ce> Bekannten von mir überbringt. Die Belohnung,
+<ce> werdet Ihr, so denke ich, für ausgesprochen
+<ce> großzügig befinden; sie wiegt die Gefahren
+<ce> auf, die diese Mission mit sich bringt.
+<ce> Seid Ihr interessiert?
 
 RefuseQuest:  [1001]
-Wirklich? Zu beschäftigt, vielleicht.
-Das ist schade.
+<ce> Wirklich? Zu beschäftigt, vielleicht.
+<ce> Das ist schade.
 
 AcceptQuest:  [1002]
-Ausgezeichnet. Hier ist das _item_.
-Nun, _contact_ benötigt es in
-___contact_ in =queston_ Tagen.
-Das sollte reichlich Zeit sein, hoffe
-ich. _contact_ wird leicht zu
-finden sein -- sucht einfach nach
-einem =contact_ in __contact_.
-Übrigens könntet Ihr auf einige Orks
-treffen, die nicht wollen, dass diese
-Lieferung erfolgt. Ich vertraue darauf,
-dass Ihr wisst, wie man mit ihresgleichen
-zu verfahren hat. Viel Glück.
+<ce> Ausgezeichnet. Hier ist das _item_.
+<ce> Nun, _contact_ benötigt es in
+<ce> ___contact_ in =queston_ Tagen.
+<ce> Das sollte reichlich Zeit sein, hoffe
+<ce> ich. _contact_ wird leicht zu
+<ce> finden sein -- sucht einfach nach
+<ce> einem =contact_ in __contact_.
+<ce> Übrigens könntet Ihr auf einige Orks
+<ce> treffen, die nicht wollen, dass diese
+<ce> Lieferung erfolgt. Ich vertraue darauf,
+<ce> dass Ihr wisst, wie man mit ihresgleichen
+<ce> zu verfahren hat. Viel Glück.
 
 QuestFail:  [1003]
-Eile ist geboten %pcf. Orks
-wurden nachts in der Nähe von
-___questgiver_ gesichtet. Ihr
-solltet Euch besser auf den Weg machen,
-bevor sie sich trauen, frecher zu werden.
+<ce> Eile ist geboten %pcf. Orks
+<ce> wurden nachts in der Nähe von
+<ce> ___questgiver_ gesichtet. Ihr
+<ce> solltet Euch besser auf den Weg machen,
+<ce> bevor sie sich trauen, frecher zu werden.
 
 QuestComplete:  [1004]
-Ah, gut Euch zu sehen, %pcf.
-Und das _item_ auch. Ausgezeichnet.
-Hier ist ein kleines Schmuckstück
-für Eure Mühen. Ich hoffe, Ihr mögt
-Rot. Passt auf Euch auf.
+<ce> Ah, gut Euch zu sehen, %pcf.
+<ce> Und das _item_ auch. Ausgezeichnet.
+<ce> Hier ist ein kleines Schmuckstück
+<ce> für Eure Mühen. Ich hoffe, Ihr mögt
+<ce> Rot. Passt auf Euch auf.
 
 RumorsDuringQuest:  [1005]
 _questgiver_ ist immer noch im Schmuggelgewerbe, wie ich höre.
@@ -62,15 +62,17 @@ So ein =contact_ war gerade hier und habt mit einem _item_ herumgewedelt.
 Ein Juwelierladen hat den Diebstahl eines großen Rubins gemeldet, wie ich hörte.
 
 QuestorPostsuccess:  [1008]
-Ich hörte, dass Eure Mission erfolgreich war, %pcf. Das ist gut. Sehr gut.
+<ce> Ich hörte, dass Eure Mission erfolgreich war, %pcf.
+<ce> Das ist gut. Sehr gut.
 <--->
-Ich war erfreut, vom Erfolg der Lieferung zu hören. Was kann ich für Euch tun?
+<ce> Ich war erfreut, vom Erfolg der Lieferung zu hören.
+<ce> Was kann ich für Euch tun?
 
 QuestorPostfailure:  [1009]
-Ihr seid also der Kurier, der die Lieferung nicht
-ausführen konnte, ja? Wäre ich nicht ein Narr,
-wenn ich erneut meine Zeit mit Euch vergeudete?
-Das ist übrigens eine rhetorische Frage.
+<ce> Ihr seid also der Kurier, der die Lieferung nicht
+<ce> ausführen konnte, ja? Wäre ich nicht ein Narr,
+<ce> wenn ich erneut meine Zeit mit Euch vergeudete?
+<ce> Das ist übrigens eine rhetorische Frage.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -112,30 +114,31 @@ antiken Schmuckstücken gesehen. Uralte orkische
 Handwerkskunst, wenn ich mich nicht irre.
 
 Message:  1020
-Ich bin froh, dass Ihr mich aufgesucht habt, %pcn.
-Ihr solltet wissen, dass das _item_, das Ihr tragt,
-aus Orsinium, der alten Hauptstadt der Orks, gestohlen
-wurde. _questgiver_, wie die meisten Menschen, betrachten
-Orks als minderwertig, daher sind sie gezwungen, Gewalt
-anzuwenden, um ihre gestohlene Besitztümer wiederzubeschaffen.
-Ich hoffe jedoch, dass Ihr aufgeklärter seid als Euer
-Arbeitgeber. Wenn Ihr mir das _item_ gebt, werde ich
-dafür sorgen, dass es an seine rechtmäßigen Besitzer
-zurückgegeben wird.
+<ce> Ich bin froh, dass Ihr mich aufgesucht habt, %pcn.
+<ce> Ihr solltet wissen, dass das _item_, das Ihr tragt,
+<ce> aus Orsinium, der alten Hauptstadt der Orks, gestohlen
+<ce> wurde. _questgiver_, wie die meisten Menschen, betrachten
+<ce> Orks als minderwertig, daher sind sie gezwungen, Gewalt
+<ce> anzuwenden, um ihre gestohlene Besitztümer wiederzubeschaffen.
+<ce> Ich hoffe jedoch, dass Ihr aufgeklärter seid als Euer
+<ce> Arbeitgeber. Wenn Ihr mir das _item_ gebt, werde ich
+<ce> dafür sorgen, dass es an seine rechtmäßigen Besitzer
+<ce> zurückgegeben wird.
 
 Message:  1021
-Gebt Ihr das _item_?
+<ce> Gebt Ihr das _item_?
 
 Message:  1022
-Ich bin froh, dass ich mich in Euch nicht getäuscht habe.
-Danke, %pcf. Wir werden dies nicht vergessen.
+<ce> Ich bin froh, dass ich mich in Euch nicht getäuscht habe.
+<ce> Danke, %pcf. Wir werden dies nicht vergessen.
 
 Message:  1023
-Das ist höchst bedauerlich. Nun, wir alle haben unsere Gründe.
-Ich hoffe, Ihr könnt mit dieser Entscheidung leben.
+<ce> Das ist höchst bedauerlich. Nun, wir alle haben unsere Gründe.
+<ce> Ich hoffe, Ihr könnt mit dieser Entscheidung leben.
 
 Message:  1030
 Als der Ork zu Boden sinkt, keucht er in einem kaum
 verständlichen Akzent:
-"_orsinium_ ... geht ... _orsinium_ ..."
+ 
+<ce> "_orsinium_ ... geht ... _orsinium_ ..."
 

@@ -3,48 +3,48 @@ DisplayName: Eine Zutat beschaffen
 QRC:
 
 QuestorOffer:  [1000]
-Ich bin _qgiver_.
-In der Regel werden nur Gildenmitglieder
-für Arbeit bezahlt werden. Ich habe hier
-trotzdem einen kleinen Auftrag, der
-erledigt werden muss. Wenn Ihr Euch der
-Sache unentgeltlich annehmen würdet,
-könnte ich bei der Gilde ein gutes Wort
-für Euch einlegen. Seid Ihr dazu bereit?
+<ce> Ich bin _qgiver_.
+<ce> In der Regel werden nur Gildenmitglieder
+<ce> für Arbeit bezahlt werden. Ich habe hier
+<ce> trotzdem einen kleinen Auftrag, der
+<ce> erledigt werden muss. Wenn Ihr Euch der
+<ce> Sache unentgeltlich annehmen würdet,
+<ce> könnte ich bei der Gilde ein gutes Wort
+<ce> für Euch einlegen. Seid Ihr dazu bereit?
 <--->
-Ich bin _qgiver_.
-Gildenarbeit nur für Mitglieder.
-Ich hätte aber eine kleine Aufgabe,
-die sonst niemand erledigen will.
-Eine unserer eher exzentrischen
-Meisterinnen beharrt vehement darauf,
-dass wir ihr eine Probe _ingredient_
-bereitstellen. _ingredient_ ist uns
-aber gerade ausgegangen. Wenn Ihr mir
-ein wenig davon herbeischaffen könntet,
-wäre ich Euch sehr dankbar. Und Euer
-Ruf in der Gilde würde sich bestimmt
-verbessern.
+<ce> Ich bin _qgiver_.
+<ce> Gildenarbeit nur für Mitglieder.
+<ce> Ich hätte aber eine kleine Aufgabe,
+<ce> die sonst niemand erledigen will.
+<ce> Eine unserer eher exzentrischen
+<ce> Meisterinnen beharrt vehement darauf,
+<ce> dass wir ihr eine Probe _ingredient_
+<ce> bereitstellen. _ingredient_ ist uns
+<ce> aber gerade ausgegangen. Wenn Ihr mir
+<ce> ein wenig davon herbeischaffen könntet,
+<ce> wäre ich Euch sehr dankbar. Und Euer
+<ce> Ruf in der Gilde würde sich bestimmt
+<ce> verbessern.
 
 RefuseQuest:  [1001]
-Ich hätte es wissen müssen. Ich bin
-diese Unterhaltung leid,,%pcn.
-Guten Tag.
+<ce> Ich hätte es wissen müssen. Ich bin
+<ce> diese Unterhaltung leid,,%pcn.
+<ce> Guten Tag.
 
 AcceptQuest:  [1002]
-Hervorragende Einstellung, %pcf.
-Ich brauche eine kleine Menge _ingredient_.
-Das einzige Exemplar, von dem ich derzeit weiß,
-findet sich in ___dungeon_.
-Ihr habt =traveltime_ Tage, um es mir zu bringen.
+<ce> Hervorragende Einstellung, %pcf.
+<ce> Ich brauche eine kleine Menge _ingredient_.
+<ce> Das einzige Exemplar, von dem ich derzeit weiß,
+<ce> findet sich in ___dungeon_.
+<ce> Ihr habt =traveltime_ Tage, um es mir zu bringen.
 
 QuestComplete:  [1004]
-Ich habe schon bessere Proben gesehen.
-Habt ihr auf dem Rückweg die ganze Zeit
-darauf gesessen? Wie dem auch sei, es
-wird seinen Zweck erfüllen. Ich werde
-dafür sorgen, dass in den Gildenhallen
-nur gut von Euch gesprochen wird.
+<ce> Ich habe schon bessere Proben gesehen.
+<ce> Habt ihr auf dem Rückweg die ganze Zeit
+<ce> darauf gesessen? Wie dem auch sei, es
+<ce> wird seinen Zweck erfüllen. Ich werde
+<ce> dafür sorgen, dass in den Gildenhallen
+<ce> nur gut von Euch gesprochen wird.
 
 RumorsDuringQuest:  [1005]
 Diese verrückte Magierin von der Gilde besteht darauf, dass es die besten Proben _ingredient_ in ___dungeon_ gibt.
@@ -108,14 +108,16 @@ Ich habe neulich einen großartigen Witz gehört. %jok
 Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
 
 QuestorPostsuccess:  [1008]
-Ich habe Euch nicht vergessen, %pcf. Ihr seid der %ra, der die Probe _ingredient_ beschafft hat.
+<ce> Ich habe Euch nicht vergessen, %pcf.
+<ce> Ihr seid der %ra, der die Probe
+<ce> _ingredient_ beschafft hat.
 
 QuestorPostfailure:  [1009]
-Es war keine besonders schwierige Aufgabe,
-mit der ich Euch betreut hatte, %pcf.
-Einfach nur eine kleine Probe _ingredient_
-besorgen. Und Ihr habt es nicht geschafft.
-Warum sollte ich weiter in den Wind reden?
+<ce> Es war keine besonders schwierige Aufgabe,
+<ce> mit der ich Euch betreut hatte, %pcf.
+<ce> Einfach nur eine kleine Probe _ingredient_
+<ce> besorgen. Und Ihr habt es nicht geschafft.
+<ce> Warum sollte ich weiter in den Wind reden?
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -128,14 +130,14 @@ QuestLogEntry:  [1010]
  zu beschaffen.
 
 Message:  1040
-Das muss die Probe _ingredient_ sein,
-die _qgiver_ Euch zu finden bat.
+<ce> Das muss die Probe _ingredient_ sein,
+<ce> die _qgiver_ Euch zu finden bat.
 
 Message:  1080
-Erlaubt mir, Euch als besonderen
-Dank der Magiergilde diese Karte
-nach ___newdung_ zu überreichen.
-Ich vermute, dass Leuten wie Euch
-über solchen Dingen das Wasser im
-Mund zusammenläuft.
+<ce> Erlaubt mir, Euch als besonderen
+<ce> Dank der Magiergilde diese Karte
+<ce> nach ___newdung_ zu überreichen.
+<ce> Ich vermute, dass Leuten wie Euch
+<ce> über solchen Dingen das Wasser im
+<ce> Mund zusammenläuft.
 

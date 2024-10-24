@@ -3,27 +3,27 @@ DisplayName: Die Eignungsprüfung
 QRC:
 
 QuestComplete:  [1004]
-Ein weiterer Eingeweihter, so sei es.
-Mitunter frage ich mich, ob die Gilde
-je ausreichend Raum für all die neuen
-Rekruten hat. Wie ich sehe, hat man Euch
-ausgesandt, um ein _clothing_
-eines Magiers zu entwenden. Eine beliebte
-Wahl in jüngster Zeit, wahrlich. Nun, Ihr
-seid nunmehr Mitglied der ehrwürdigen
-Diebesgilde. Sobald Ihr eine Stadt betretet,
-werdet Ihr erkennen, ob dort Niederlassungen
-unserer Gilde zu finden sind. Bedauerlicherweise
-gebieten mir die Regeln der Gilde, Euch für
-dieses wertlose Stück Stoff zu entlohnen,
-da Ihr es im Namen der Gilde entwendet habt.
-Hier, nehmt dieses Goldstück als Lohn für
-Eure Mühe. 
+<ce> Ein weiterer Eingeweihter, so sei es.
+<ce> Mitunter frage ich mich, ob die Gilde
+<ce> je ausreichend Raum für all die neuen
+<ce> Rekruten hat. Wie ich sehe, hat man Euch
+<ce> ausgesandt, um ein _clothing_
+<ce> eines Magiers zu entwenden. Eine beliebte
+<ce> Wahl in jüngster Zeit, wahrlich. Nun, Ihr
+<ce> seid nunmehr Mitglied der ehrwürdigen
+<ce> Diebesgilde. Sobald Ihr eine Stadt betretet,
+<ce> werdet Ihr erkennen, ob dort Niederlassungen
+<ce> unserer Gilde zu finden sind. Bedauerlicherweise
+<ce> gebieten mir die Regeln der Gilde, Euch für
+<ce> dieses wertlose Stück Stoff zu entlohnen,
+<ce> da Ihr es im Namen der Gilde entwendet habt.
+<ce> Hier, nehmt dieses Goldstück als Lohn für
+<ce> Eure Mühe. 
  
-Oh, beinahe hätte ich es vergessen.
-Ihr habt Euch ebenfalls diese Karte
-verdient. Lasst mich Euch zeigen, wo
-sich ___dungeon_ befindet.
+<ce> Oh, beinahe hätte ich es vergessen.
+<ce> Ihr habt Euch ebenfalls diese Karte
+<ce> verdient. Lasst mich Euch zeigen, wo
+<ce> sich ___dungeon_ befindet.
 
 RumorsDuringQuest:  [1005]
 Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
@@ -122,8 +122,10 @@ QuestLogEntry:  [1010]
 
 Message:  1020
 Ein einäugiger Bettler überreicht Euch einen Brief.
-„Eine Frau in Grau hat mich bezahlt, Euch dies zu
-geben,“ spricht er.
+Er spricht:
+
+<ce> „Eine Frau in Grau hat mich bezahlt,
+<ce> Euch dies zu geben.“
 
 Message:  1018
 Als Ihr das _clothing_
@@ -134,7 +136,7 @@ gewickelt.
 
 Message:  1019
 _thiefmember_
- ___thiefmember_
+ ___endbuilding_
 
 Message:  1024
 %pcn,
@@ -143,11 +145,11 @@ Message:  1024
  Ehre unter Dieben. Ihr habt nun die Wahl:
  Tretet der Gilde bei oder zieht die Konsequenzen.
  Stehlt ein _clothing_ aus _mansion_
- in __mansion_, wenn Ihr Euch uns
+ in ___mansion_, wenn Ihr Euch uns
  anschließen möchtet. Ihr habt =traveltime_ Tage Zeit.
 
 Message:  1030
-Dieb! Ihr wagt es, von einem Zauberer zu stehlen?
-Das soll Euch eine Lektion sein, die Ihr so schnell
-nicht vergessen werdet!
+<ce> Dieb! Ihr wagt es, von einem Zauberer zu stehlen?
+<ce> Das soll Euch eine Lektion sein, die Ihr so schnell
+<ce> nicht vergessen werdet!
 

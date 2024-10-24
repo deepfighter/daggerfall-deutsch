@@ -3,49 +3,49 @@ DisplayName: Vergessene Ausrüstung
 QRC:
 
 QuestorOffer:  [1000]
-Seid Ihr zufällig für eine kleine
-Aufgabe verfügbar, die Euch keine
-Zeit kosten sollte und Euch um
-_reward_ Goldstücke reicher machen wird?
+<ce> Seid Ihr zufällig für eine kleine
+<ce> Aufgabe verfügbar, die Euch keine
+<ce> Zeit kosten sollte und Euch um
+<ce> _reward_ Goldstücke reicher machen wird?
 
 RefuseQuest:  [1001]
-Nein? Schade.
+<ce> Nein? Schade.
 
 AcceptQuest:  [1002]
-%oth, das ist großartig.
-Einer meiner Untergebenen, ein recht
-einfältiger Zeitgenosse, ist zu einem
-Auftrag aufgebrochen, ohne %g3 _item_
-mitzunehmen. Es muss unverzüglich zu
-___contact_ gebracht werden. Dort gibt
-es einen kleinen Ort namens __contact_,
-wo Ihr einen =contact_ namens
-_contact_ finden könnt. Gebt %g2
-den _item_ und %g wird Euch die
-_reward_ Goldstücke geben. Eine letzte
-Anmerkung, %g wird __contact_ in
-=queston_ Tagen verlassen, mit oder ohne
-den _item_, also solltet Ihr Euch besser auf
-den Weg machen.
+<ce> %oth, das ist großartig.
+<ce> Einer meiner Untergebenen, ein recht
+<ce> einfältiger Zeitgenosse, ist zu einem
+<ce> Auftrag aufgebrochen, ohne %g3 _item_
+<ce> mitzunehmen. Es muss unverzüglich zu
+<ce> ___contact_ gebracht werden. Dort gibt
+<ce> es einen kleinen Ort namens __contact_,
+<ce> wo Ihr einen =contact_ namens
+<ce> _contact_ finden könnt. Gebt %g2
+<ce> den _item_ und %g wird Euch die
+<ce> _reward_ Goldstücke geben. Eine letzte
+<ce> Anmerkung, %g wird __contact_ in
+<ce> =queston_ Tagen verlassen, mit oder ohne
+<ce> den _item_, also solltet Ihr Euch besser auf
+<ce> den Weg machen.
 
 QuestFail:  [1003]
-Ich habe Euch den _item_ gegeben
-und Euch gesagt, wohin er geliefert
-werden soll. Was gibt es noch zu besprechen?
+<ce> Ich habe Euch den _item_ gegeben
+<ce> und Euch gesagt, wohin er geliefert
+<ce> werden soll. Was gibt es noch zu besprechen?
 
 QuestComplete:  [1004]
-Seid Ihr von _questgiver_?
-%oth, mein _item_! Endlich!
-Ich dachte schon, ich müsste
-ohne ihn aufbrechen. Was hat
-das überhaupt so lange gedauert?
+<ce> Seid Ihr von _questgiver_?
+<ce> %oth, mein _item_! Endlich!
+<ce> Ich dachte schon, ich müsste
+<ce> ohne ihn aufbrechen. Was hat
+<ce> das überhaupt so lange gedauert?
  
-Was, ich muss Euch für meinen eigenen
-_item_ auch noch bezahlen? Nun gut,
-wenn das _questgiver_ Euch so
-gesagt hat. So, jetzt habe ich genug
-Zeit verschwendet. Ich muss mich auf
-den Weg machen.
+<ce> Was, ich muss Euch für meinen eigenen
+<ce> _item_ auch noch bezahlen? Nun gut,
+<ce> wenn das _questgiver_ Euch so
+<ce> gesagt hat. So, jetzt habe ich genug
+<ce> Zeit verschwendet. Ich muss mich auf
+<ce> den Weg machen.
 
 RumorsDuringQuest:  [1005]
 Hätte ich einen _item_, würde ich ihn an diesen =contact_ in __contact_ verkaufen. Scheint verzweifelt zu sein.
@@ -68,9 +68,9 @@ Ah, mein treuer Freund. Wie gut Euch wiederzusehen. Wie steht es um Euch?
 Mir wurde berichtet, dass Eure Mission erfolgreich verlaufen ist. Ich danke Euch inständig.
 
 QuestorPostfailure:  [1009]
-Ihr habt es nicht geschafft, meinen Kontakt
-zu erreichen, aber dennoch kehrt Ihr zu mir
-zurück. Ein recht sonderbares Verhalten.
+<ce> Ihr habt es nicht geschafft, meinen Kontakt
+<ce> zu erreichen, aber dennoch kehrt Ihr zu mir
+<ce> zurück. Ein recht sonderbares Verhalten.
 
 QuestLogEntry:  [1010]
 %qdt:

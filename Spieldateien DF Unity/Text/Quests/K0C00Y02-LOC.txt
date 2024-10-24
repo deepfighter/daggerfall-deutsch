@@ -3,49 +3,46 @@ DisplayName: Gefälschtes Gold
 QRC:
 
 QuestorOffer:  [1000]
-%pcf, es könnte sein, dass ich in wahrlich
-großen Schwierigkeiten bin. Es scheint so,
-als hätte mir ein früherer Geschäftspartner,
-in einem Versuch, mir das Leben noch mehr zur
-Hölle zu machen, einige falsche Goldbarren
-untergeschoben. Ahnungslos gab ich sie weiter
-an vier meiner meist geschätzten Partner,
-für die Dienste, die sie mir geleistet haben. Ich
-denke, es ist offensichtlich, dass ich diese Barren
-zurückholen muss, bevor sie herausfinden, dass
-das Gold Foscarium ist, was bereits innerhalb der
-nächsten =2mondung_ oder noch weniger Tagen
-der Fall sein könnte. Ich bezahle Euch um die
-_reward1_ Goldstücke für jeden Barren falsches Gold,
-den Ihr wiederbeschaffen koennt. Klingt das annehmbar?
+<ce> %pcf, es könnte sein, dass ich in wahrlich
+<ce> großen Schwierigkeiten bin. Es scheint so,
+<ce> als hätte mir ein früherer Geschäftspartner,
+<ce> in einem Versuch, mir das Leben noch mehr zur
+<ce> Hölle zu machen, einige falsche Goldbarren
+<ce> untergeschoben. Ahnungslos gab ich sie weiter
+<ce> an vier meiner meist geschätzten Partner,
+<ce> für die Dienste, die sie mir geleistet haben. Ich
+<ce> denke, es ist offensichtlich, dass ich diese Barren
+<ce> zurückholen muss, bevor sie herausfinden, dass
+<ce> das Gold Foscarium ist, was bereits innerhalb der
+<ce> nächsten =2mondung_ oder noch weniger Tagen
+<ce> der Fall sein könnte. Ich bezahle Euch um die
+<ce> _reward1_ Goldstücke für jeden Barren falsches Gold,
+<ce> den Ihr wiederbeschaffen koennt. Klingt das annehmbar?
 
 RefuseQuest:  [1001]
-Nein? Wirklich? Nun gut. Jemand anderes
-wird sich mit diesem Angebot zufrieden geben,
-da bin ich sicher.
+<ce> Nein? Wirklich? Nun gut. Jemand anderes
+<ce> wird sich mit diesem Angebot zufrieden geben,
+<ce> da bin ich sicher.
 
 AcceptQuest:  [1002]
-%oth, das ist gut. Also, einer der Barren ist
-in einer Bank namens _depository_ in
-__depository_; einer ist in einer Festung
-mit dem Namen ___mondung_;
-einer ist im Palast von __palace_ ;
-der letzte ist in der _mansion_
-in __mansion_. Nun bedenkt, dass Ihr
-nur =2mondung_ Tage Zeit hierfür habt und
-ich hätte lieber einen Barren rechtzeitig, als alle
-vier, nachdem es zu spät ist. Viel Glück, %pcf.
-%god segne Eure Reise.
+<ce> %oth, das ist gut. Also, einer der Barren ist
+<ce> in einer Bank namens _depository_ in
+<ce> __depository_; einer ist in einer Festung
+<ce> mit dem Namen ___mondung_;
+<ce> einer ist im Palast von __palace_ ;
+<ce> der letzte ist in der _mansion_
+<ce> in __mansion_. Nun bedenkt, dass Ihr
+<ce> nur =2mondung_ Tage Zeit hierfür habt und
+<ce> ich hätte lieber einen Barren rechtzeitig, als alle
+<ce> vier, nachdem es zu spät ist. Viel Glück, %pcf.
+<ce> %god segne Eure Reise.
 
 QuestFail:  [1003]
-%god, würdet Ihr Euch bitte beeilen?
+<ce> %god, würdet Ihr Euch bitte beeilen?
 
 QuestComplete:  [1004]
-%oth, gut gemacht, %pcf. Ich
-hatte schon befürchtet, ich hätte Euch
-nicht genug Zeit gegeben. Hier ist Euer
-echtes Gold im Austausch für dieses
-falsche Gold.
+<ce> Es scheint, dass Ihr Euch mittlerweile um die
+<ce> Sorgen von _qgiver_ gekümmert habt.
 
 RumorsDuringQuest:  [1005]
 So ein Kerl hat nach dem Weg zur _depository_ gefragt. Er sah nich aus wie ein Bankier.
@@ -93,4 +90,11 @@ QuestLogEntry:  [1010]
  und die _depository_ in __depository_.
  Ich bekomme um die _reward1_ Goldstücke
  für jeden Goldbarren, den ich auftreiben kann.
+
+Message:  1015
+<ce> %oth, gut gemacht, %pcf. Ich
+<ce> hatte schon befürchtet, ich hätte Euch
+<ce> nicht genug Zeit gegeben. Hier ist Euer
+<ce> echtes Gold im Austausch für dieses
+<ce> falsche Gold.
 

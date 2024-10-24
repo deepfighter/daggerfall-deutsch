@@ -3,53 +3,53 @@ DisplayName: Der Häretiker
 QRC:
 
 QuestorOffer:  [1000]
-%god sei mit Euch, %pct.
-Ihr habt vielleicht von _prophet_ gehört.
-Wenn nicht, wird dies bald der Fall sein. Wir
-überprüfen %g3 Behauptungen, dass %g ein
-Prophet sei. Wir sind nicht, wie ich glaube,
-von Natur aus misstrauisch, aber wir müssen
-immer auf die Anwesenheit von ketzerischen
-Einflüssen vorbereitet sein. Wärt Ihr bereit,
-für diese bedeutende Nachforschung Eure
-Dienste anzubieten?
+<ce> %god sei mit Euch, %pct.
+<ce> Ihr habt vielleicht von _prophet_ gehört.
+<ce> Wenn nicht, wird dies bald der Fall sein. Wir
+<ce> überprüfen %g3 Behauptungen, dass %g ein
+<ce> Prophet sei. Wir sind nicht, wie ich glaube,
+<ce> von Natur aus misstrauisch, aber wir müssen
+<ce> immer auf die Anwesenheit von ketzerischen
+<ce> Einflüssen vorbereitet sein. Wärt Ihr bereit,
+<ce> für diese bedeutende Nachforschung Eure
+<ce> Dienste anzubieten?
 <--->
-Es wurde uns auferlegt, die Behauptungen von
-_prophet_ zu prüfen, der behauptet, das
-Gesicht %god%s gesehen und dessen Worte
-gehört zu haben. Vielleicht habt Ihr Zeit, uns in
-dieser Angelegenheit zu unterstützen?
+<ce> Es wurde uns auferlegt, die Behauptungen von
+<ce> _prophet_ zu prüfen, der behauptet, das
+<ce> Gesicht %god%s gesehen und dessen Worte
+<ce> gehört zu haben. Vielleicht habt Ihr Zeit, uns in
+<ce> dieser Angelegenheit zu unterstützen?
 
 RefuseQuest:  [1001]
-Das ist sehr bedauerlich, %pct.
-Ich hoffe, Ihr werdet in Zukunft
-trotz Eures vollen Terminkalenders
-Zeit für den Tempel finden.
+<ce> Das ist sehr bedauerlich, %pct.
+<ce> Ich hoffe, Ihr werdet in Zukunft
+<ce> trotz Eures vollen Terminkalenders
+<ce> Zeit für den Tempel finden.
 
 AcceptQuest:  [1002]
-Gut, wir haben bereits ein Mitglied des Tempels,
-_priest_, zum entweihten ___mondung_
-geschickt, wo _prophet_ behauptet, das
-erste Wunder gesehen zu haben. Wenn _priest_
-Hilfe benötigt, werde ich Euch entsenden. In der
-Zwischenzeit möchte ich, dass Ihr einige weltliche
-Informationen über _prophet_ einholt,
-indem Ihr in %g3 Heimatstadt, __tavern_,
-nachfragt. Ein treuer Kleriker von uns,
-_contact_, wird Euch dort im __tavern_
-treffen. Ich möchte Beweise für die wahre Natur von
-_prophet_ haben, und zwar in nicht mehr
-als =queston Tagen. Ich würde sofort aufbrechen.
-Möge %god Eure Reise segnen, %pct.
+<ce> Gut, wir haben bereits ein Mitglied des Tempels,
+<ce> _priest_, zum entweihten ___mondung_
+<ce> geschickt, wo _prophet_ behauptet, das
+<ce> erste Wunder gesehen zu haben. Wenn _priest_
+<ce> Hilfe benötigt, werde ich Euch entsenden. In der
+<ce> Zwischenzeit möchte ich, dass Ihr einige weltliche
+<ce> Informationen über _prophet_ einholt,
+<ce> indem Ihr in %g3 Heimatstadt, __tavern_,
+<ce> nachfragt. Ein treuer Kleriker von uns,
+<ce> _contact_, wird Euch dort im __tavern_
+<ce> treffen. Ich möchte Beweise für die wahre Natur von
+<ce> _prophet_ haben, und zwar in nicht mehr
+<ce> als =queston Tagen. Ich würde sofort aufbrechen.
+<ce> Möge %god Eure Reise segnen, %pct.
 
 QuestComplete:  [1004]
-Gut gemacht, %pct. Ich zittere bei dem
-Gedanken, was _prophet_ unserem
-Land angetan hätte, wenn %g %g3 gottlose
-Weltsicht verbreitet hätte. %god
-segne und behüte Euch, edler %ra.
-Hier ist ein bescheidenes Zeichen
-der Anerkennung Eurer Brüder.
+<ce> Gut gemacht, %pct. Ich zittere bei dem
+<ce> Gedanken, was _prophet_ unserem
+<ce> Land angetan hätte, wenn %g %g3 gottlose
+<ce> Weltsicht verbreitet hätte. %god
+<ce> segne und behüte Euch, edler %ra.
+<ce> Hier ist ein bescheidenes Zeichen
+<ce> der Anerkennung Eurer Brüder.
 
 RumorsDuringQuest:  [1005]
 Sagt über _prophet_s Glauben, was immer Ihr wollt, aber %g ist ein brillanter Redner.
@@ -94,7 +94,7 @@ von einem großen Feuer empfangen, und aus den
 lodernden Flammen hörte ich dieselbe Stimme sprechen:
 
    "Sei Willkommen."
-   
+  
    "Wer spricht zu mir?", richtete ich mich an die
     Flamme. "Ich bin, was _qgiver_ zu ehren
     verkündet, aber mit jedem Akt und Gedanken
@@ -130,29 +130,29 @@ Message:  1012
  anderen Aufträge und Erkundungen sind von geringerer
  Priorität.
  
- _qgiver_
+<ce> _qgiver_
 
 Message:  1013
-Ah, hallo, %pcf. Willkommen im __tavern_.
-Die ganze Stadt ist von diesem jungen _prophet_
-begeistert. Aber %g ist nicht einmal hier...
-%g ist in __prophouse_ in einer Taverne
-namens _prophouse_ und arbeitet an
-einem neuen Traktat darüber, was der
-mystische Geist von ___mondung_ über
-den moralischen Zerfall von ___qgiver_
-zu sagen hat. Hier habt Ihr eine Abschrift des
-originalen Traktat, damit Ihr wisst, was dieser
-_prophet_ erreichen will. Nach dem, was ich
-bisher gesehen habe, scheint er ein gefährlicher
-Zeitgenosse zu sein. Ich habe mich mit _lover_,
-einer =lover_ in ___lover_, mit der
-_prophet_ eine Beziehung hatte, unterhalten.
-Es wäre sicher keine schlechte Idee, wenn Ihr nach
-___lover_ geht und versucht, %g zu
-überzeugen, mit uns zusammenzuarbeiten.
-Ich hoffe, all dies waren nützliche Informationen,
-%pcf.
+<ce> Ah, hallo, %pcf. Willkommen im __tavern_.
+<ce> Die ganze Stadt ist von diesem jungen _prophet_
+<ce> begeistert. Aber %g ist nicht einmal hier...
+<ce> %g ist in __prophouse_ in einer Taverne
+<ce> namens _prophouse_ und arbeitet an
+<ce> einem neuen Traktat darüber, was der
+<ce> mystische Geist von ___mondung_ über
+<ce> den moralischen Zerfall von ___qgiver_
+<ce> zu sagen hat. Hier habt Ihr eine Abschrift des
+<ce> originalen Traktat, damit Ihr wisst, was dieser
+<ce> _prophet_ erreichen will. Nach dem, was ich
+<ce> bisher gesehen habe, scheint er ein gefährlicher
+<ce> Zeitgenosse zu sein. Ich habe mich mit _lover_,
+<ce> einer =lover_ in ___lover_, mit der
+<ce> _prophet_ eine Beziehung hatte, unterhalten.
+<ce> Es wäre sicher keine schlechte Idee, wenn Ihr nach
+<ce> ___lover_ geht und versucht, %g zu
+<ce> überzeugen, mit uns zusammenzuarbeiten.
+<ce> Ich hoffe, all dies waren nützliche Informationen,
+<ce> %pcf.
 
 Message:  1014
                    _tavern_
@@ -168,26 +168,26 @@ Message:  1014
  Bitte kommt her, wenn Ihr könnt.
  
  
- Hochachtungsvoll,
+<ce> Hochachtungsvoll,
  
- _replace_
+<ce> _replace_
 
 Message:  1015
-Ein junger Bursche drückt Euch einen
-Brief in die Hand und huscht davon.
+<ce> Ein junger Bursche drückt Euch einen
+<ce> Brief in die Hand und huscht davon.
 
 Message:  1016
-%oth, %pcf, es war furchtbar.
-Der Tavernenbesitzer hat _contact_
-in einem der Räume gefunden. %g3
-Körper wurde auf schrecklichste Weise
-geschändet, eine grausame Parodie auf
-die alten Begräbnisriten von __qgiver_.
-Es war _prophet_, keine Frage.
-Dieser Gegenstand wurde in einem
-Hohlraum in _contact_s Brust gefunden.
-Seht, ob _lover_ in ___lover_
-es erkennt.
+<ce> %oth, %pcf, es war furchtbar.
+<ce> Der Tavernenbesitzer hat _contact_
+<ce> in einem der Räume gefunden. %g3
+<ce> Körper wurde auf schrecklichste Weise
+<ce> geschändet, eine grausame Parodie auf
+<ce> die alten Begräbnisriten von __qgiver_.
+<ce> Es war _prophet_, keine Frage.
+<ce> Dieser Gegenstand wurde in einem
+<ce> Hohlraum in _contact_s Brust gefunden.
+<ce> Seht, ob _lover_ in ___lover_
+<ce> es erkennt.
 
 Message:  1017
 _lover_ -- ah, armer =lover_. Nun, %g zieht sich meist stark zurück.
@@ -199,36 +199,35 @@ Im Gegensatz dazu, was man sich erzählt, ist _lover_s Liebschaft nicht tot. Wah
 _lover_ ist eine der Tragödien in ___lover_. Man sagt, %g3 Liebschaft wurde verrückt.
 
 Message:  1018
-Was auch immer sie sagen, ich kenne
-diesen _prophet_ nicht. 
-Sagt _contact_, dass %g
-den falschen =lover_ hat.
+<ce> Was auch immer sie sagen, ich kenne
+<ce> diesen _prophet_ nicht. 
+<ce> Sagt _contact_, dass %g
+<ce> den falschen =lover_ hat.
 
 Message:  1019
-_prophet_ würde mich töten, wenn
-%g wüsste, dass ich mit Euch spreche.
-Aber ich weiß, dass Ihr nicht für %g2
-arbeitet. Hier ist ein Brief, den %g mir
-vor etwa einem Monat geschrieben hat.
-Ich denke, er erklärt alles.
+<ce> _prophet_ würde mich töten, wenn
+<ce> %g wüsste, dass ich mit Euch spreche.
+<ce> Aber ich weiß, dass Ihr nicht für %g2
+<ce> arbeitet. Hier ist ein Brief, den %g mir
+<ce> vor etwa einem Monat geschrieben hat.
+<ce> Ich denke, er erklärt alles.
 
 Message:  1020
-_relartifact_! %oth, das gehört
-dem armen _prophet_. %oth,
-ich wusste, dass %g labil war,
-aber ich hätte nie gedacht, dass
-%g es wirklich tun würde. %oth,
-armer _contact_. Wenn ich %g2 geholfen
-hätte, wäre %g heute noch am
-Leben. Das hier kann meine Untätigkeit
-zwar nicht wieder gutmachen, aber
-Ihr werdet wissen, was mit diesem
-Brief zu tun ist. Möge %god
-mir verzeihen.
+<ce> _relartifact_! %oth, das gehört
+<ce> dem armen _prophet_. %oth,
+<ce> ich wusste, dass %g labil war,
+<ce> aber ich hätte nie gedacht, dass
+<ce> %g es wirklich tun würde. %oth,
+<ce> armer _contact_. Wenn ich %g2 geholfen
+<ce> hätte, wäre %g heute noch am
+<ce> Leben. Das hier kann meine Untätigkeit
+<ce> zwar nicht wieder gutmachen, aber
+<ce> Ihr werdet wissen, was mit diesem
+<ce> Brief zu tun ist. Möge %god
+<ce> mir verzeihen.
 
 Message:  1021
 _lover_, meine große Liebe,
- 
  
       zuerst bitte ich um Vergebung für das
  Schweigen deiner Liebe. Es war kein weiterer
@@ -261,7 +260,7 @@ _lover_, meine große Liebe,
  =lover_, quäle mich nicht länger.
  
  
- _prophet_
+<ce> _prophet_
 
 Message:  1022
 Dies wurde normalerweise in __qgiver_s Beisetzungsritualen verwendet.
@@ -272,37 +271,37 @@ _replace_ ist dieser =replace_. Irgendwie verwandt mit __qgiver_.
 _replace_ war ein alter Freund von _contact_, bevor dieser ... Unfall passierte.
 
 Message:  1024
-Oh! Das ist _prophet_s
-_relartifact_! %oth, armer
-_contact_. Warum bringt Ihr
-den Brief, den ich Euch gab,
-nicht zu jemandem von __qgiver_?
-Das ist sicher genug, um
-_prophet_ anzuklagen, oder?
+<ce> Oh! Das ist _prophet_s
+<ce> _relartifact_! %oth, armer
+<ce> _contact_. Warum bringt Ihr
+<ce> den Brief, den ich Euch gab,
+<ce> nicht zu jemandem von __qgiver_?
+<ce> Das ist sicher genug, um
+<ce> _prophet_ anzuklagen, oder?
 
 Message:  1025
-%pcf, ich dachte, dass Ihr
-die Situation im __tavern_
-auskundschaften solltet.
-Nun, solange Ihr hier seid,
-habe ich etwas anderes für
-Euch zu tun. Ich habe einige
-zerrissene Briefe gefunden,
-regelrechter Abfall, über
-einen =lover_ irgendwo
-in ___lover_ mit dem
-Namen _lover_. Seht, ob
-Ihr nicht etwas bei %g2 findet.
-Ich weiß nicht, ob %g
-mit Euch sprechen wird, aber
-es ist einen Versuch wert.
+<ce> %pcf, ich dachte, dass Ihr
+<ce> die Situation im __tavern_
+<ce> auskundschaften solltet.
+<ce> Nun, solange Ihr hier seid,
+<ce> habe ich etwas anderes für
+<ce> Euch zu tun. Ich habe einige
+<ce> zerrissene Briefe gefunden,
+<ce> regelrechter Abfall, über
+<ce> einen =lover_ irgendwo
+<ce> in ___lover_ mit dem
+<ce> Namen _lover_. Seht, ob
+<ce> Ihr nicht etwas bei %g2 findet.
+<ce> Ich weiß nicht, ob %g
+<ce> mit Euch sprechen wird, aber
+<ce> es ist einen Versuch wert.
 
 Message:  1026
-Ihr hebt ein Stück Fleisch auf,
-das vorsichtig, fast rituell,
-von der Hand eines =priest_
-gezogen wurde. Dies war einst der
-Finger von _priest_.
+<ce> Ihr hebt ein Stück Fleisch auf,
+<ce> das vorsichtig, fast rituell,
+<ce> von der Hand eines =priest_
+<ce> gezogen wurde. Dies war einst der
+<ce> Finger von _priest_.
 
 Message:  1027
 Wahrlich ekelerregend.
@@ -322,33 +321,33 @@ Als er in __qgiver_ war, sezierte _prophet_ Kadaver genauso präzise.
 __qgiver_ hat diese Art der Leichensektion abgeschafft, aber _prophet_ führt sie fort.
 
 Message:  1028
-Es war nett von _priest_, mir
-eine Hand zu geben, findet Ihr nicht?
+<ce> Es war nett von _priest_, mir
+<ce> eine Hand zu geben, findet Ihr nicht?
 <--->
-%oth, was hätte ich tun sollen?
-_priest_ drohte mir, mich
-überall anzufassen.
+<ce> %oth, was hätte ich tun sollen?
+<ce> _priest_ drohte mir, mich
+<ce> überall anzufassen.
 <--->
-Welch schönes Spielzeug Ihr da habt,
-%pcf. Seht, wie es dahin zeigt.
+<ce> Welch schönes Spielzeug Ihr da habt,
+<ce> %pcf. Seht, wie es dahin zeigt.
 
 Message:  1029
-Wie sie kommen, um mich zu verfolgen.
-Gebe dich dem unheiligen Missbrauch hin,
-Hund von __qgiver_. Ich stehe
-unter dem Schutz meines Gottes ... und
-dem des %t von %reg.
+<ce> Wie sie kommen, um mich zu verfolgen.
+<ce> Gebe dich dem unheiligen Missbrauch hin,
+<ce> Hund von __qgiver_. Ich stehe
+<ce> unter dem Schutz meines Gottes ... und
+<ce> dem des %t von %reg.
 
 Message:  1030
-_lover_! Falsches Biest,
-Betrüger! Wie %g bezahlen wird!
-=fighter_, kümmert Euch
-um diesen %ra!
+<ce> _lover_! Falsches Biest,
+<ce> Betrüger! Wie %g bezahlen wird!
+<ce> =fighter_, kümmert Euch
+<ce> um diesen %ra!
 
 Message:  1031
-Dank sei %god, ich hatte
-große Angst. Ich habe sie abgelegt.
-Dank Euch, guter %ra.
+<ce> Dank sei %god, ich hatte
+<ce> große Angst. Ich habe sie abgelegt.
+<ce> Dank Euch, guter %ra.
 
 Message:  1032
 %qdt:

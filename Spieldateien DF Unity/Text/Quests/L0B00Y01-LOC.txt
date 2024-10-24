@@ -3,44 +3,44 @@ DisplayName: Kein Entkommen
 QRC:
 
 QuestorOffer:  [1000]
-Wie Ihr wisst, %pct,
-gibt es in der Dunklen Bruderschaft
-keinen Spielraum für Fehler. Brüder,
-die uns enttäuschen, werden das Ziel
-einer Abrechnung. Ihr werdet so ein
-verirrtes früheres Mitglied finden
-und korrigieren.
+<ce> Wie Ihr wisst, %pct,
+<ce> gibt es in der Dunklen Bruderschaft
+<ce> keinen Spielraum für Fehler. Brüder,
+<ce> die uns enttäuschen, werden das Ziel
+<ce> einer Abrechnung. Ihr werdet so ein
+<ce> verirrtes früheres Mitglied finden
+<ce> und korrigieren.
 <--->
-Es ist eine feierliche und nicht einmal
-ganz unangenehme Pflicht, mit Vertretern
-der Dunklen Bruderschaft abzurechnen,
-die uns bei einem Auftrag enttäuscht
-haben. Ihr seid hoffentlich gerade frei,
-einen solchen Auftrag anzunehmen?
+<ce> Es ist eine feierliche und nicht einmal
+<ce> ganz unangenehme Pflicht, mit Vertretern
+<ce> der Dunklen Bruderschaft abzurechnen,
+<ce> die uns bei einem Auftrag enttäuscht
+<ce> haben. Ihr seid hoffentlich gerade frei,
+<ce> einen solchen Auftrag anzunehmen?
 
 RefuseQuest:  [1001]
-Habe ich Euch richtig verstanden?
-%pct, Eure mangelnde
-Kooperationsbereitschaft mit
-Euren Brüdern betrübt mich.
+<ce> Habe ich Euch richtig verstanden?
+<ce> %pct, Eure mangelnde
+<ce> Kooperationsbereitschaft mit
+<ce> Euren Brüdern betrübt mich.
 
 AcceptQuest:  [1002]
-Sehr gut, %pct.
-Da =target_ in der Bruderschaft
-durchaus etwas gelernt hat, brauchen
-wir unseren Kontakt - hält sich hier
-auf [__snitch_], ein widerlicher
-=snitch_, ein Spitzel namens _snitch_.
-Redet mit %g2 und bringt den Aufenthalt
-von =target_ in Erfahrung. Ich erwarte,
-dass die Abrechnung erledigt wird und
-Ihr in  =queston_ Tagen zurück seid.
+<ce> Sehr gut, %pct.
+<ce> Da =target_ in der Bruderschaft
+<ce> durchaus etwas gelernt hat, brauchen
+<ce> wir unseren Kontakt - hält sich hier
+<ce> auf [__snitch_], ein widerlicher
+<ce> =snitch_, ein Spitzel namens _snitch_.
+<ce> Redet mit %g2 und bringt den Aufenthalt
+<ce> von =target_ in Erfahrung. Ich erwarte,
+<ce> dass die Abrechnung erledigt wird und
+<ce> Ihr in =queston_ Tagen zurück seid.
 
 QuestComplete:  [1004]
-Gut gemacht, %pct.
-Eine lehrreiche Lektion für
-all jene, die die Dunkle
-Bruderschaft enttäuschen.
+<ce> Gut gemacht, %pct.
+<ce> Eine lehrreiche Lektion für
+<ce> all jene, die die Dunkle
+<ce> Bruderschaft enttäuschen.
 
 RumorsDuringQuest:  [1005]
 Ich vermute, =target_ ist irgendwo in %reg und zittert wie Espenlaub.
@@ -62,12 +62,12 @@ Hallo %pcn. Wie kann ich Euch helfen, wo Ihr
 doch unseren verirrten Bruder erschlagen habt?
 
 QuestorPostfailure:  [1009]
-Damit ich das richtig verstehe.
-Ich habe Euch ausgesandt, um mit
-_target_ abzurechnen, der die
-Bruderschaft im Stich gelassen hat,
-und Ihr ... habt uns im Stich gelassen.
-Und jetzt wollt Ihr reden. Unglaublich.
+<ce> Damit ich das richtig verstehe.
+<ce> Ich habe Euch ausgesandt, um mit
+<ce> _target_ abzurechnen, der die
+<ce> Bruderschaft im Stich gelassen hat,
+<ce> und Ihr ... habt uns im Stich gelassen.
+<ce> Und jetzt wollt Ihr reden. Unglaublich.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -80,13 +80,13 @@ QuestLogEntry:  [1010]
  erfahren, wohin =target_ geflohen ist.
 
 Message:  1011
-%pcn? Ich bin _snitch_.
-Der Fisch, hinter dem Ihr her seid,
-ist vom Haken gesprungen und lebt
-jetzt ein hübsches Leben drunten
-in ___mondung_. Aber seht Euch
-vor, %ra. =target_ weiß,
-wie man kämpft und hat Angst.
+<ce> %pcn? Ich bin _snitch_.
+<ce> Der Fisch, hinter dem Ihr her seid,
+<ce> ist vom Haken gesprungen und lebt
+<ce> jetzt ein hübsches Leben drunten
+<ce> in ___mondung_. Aber seht Euch
+<ce> vor, %ra. =target_ weiß,
+<ce> wie man kämpft und hat Angst.
 
 Message:  1012
 %qdt:
@@ -94,6 +94,6 @@ Message:  1012
  =target_ in ___mondung_ sei.
 
 Message:  1013
-Ihr habt =target_ getötet.
-Die Bruderschaft wird zufrieden sein.
+<ce> Ihr habt =target_ getötet.
+<ce> Die Bruderschaft wird zufrieden sein.
 

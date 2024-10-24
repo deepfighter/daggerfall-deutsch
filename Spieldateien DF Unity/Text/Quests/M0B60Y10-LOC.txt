@@ -3,36 +3,36 @@ DisplayName: Golemjagd
 QRC:
 
 QuestorOffer:  [1000]
-Wir haben einen neuen Klienten,
-der jemanden sucht, um einen Golen
-zur Strecke zu bringen. Das ist so
-etwas wie ein Elementar-Atronach.
-Er zahlt _gold_ Goldstücke.
-Seid Ihr interessiert?
+<ce> Wir haben einen neuen Klienten,
+<ce> der jemanden sucht, um einen Golen
+<ce> zur Strecke zu bringen. Das ist so
+<ce> etwas wie ein Elementar-Atronach.
+<ce> Er zahlt _gold_ Goldstücke.
+<ce> Seid Ihr interessiert?
 
 RefuseQuest:  [1001]
-Ihr zieht wohl die weniger riskanten
-Aufträge vor. Rattenjagen und so.
+<ce> Ihr zieht wohl die weniger riskanten
+<ce> Aufträge vor. Rattenjagen und so.
 
 AcceptQuest:  [1002]
-Ein junger Lebemann, dessen Namen ich
-geheimzuhalten geschworen habe, hat
-illegal mit Magie rumgespielt. Dabei
-hat dieser Dümmling einen Golem beschworen.
-Das Ding muss vernichtet werden, bevor
-die Typen von der Magiergilde davon
-Wind bekommen. Es ist in die Tiefen
-von ___dungeon_ geflohen.
-Ihr werdet bezahlt, wenn Ihr diesen Auftrag
-in den nächsten =2dung_ Tagen erledigt.
+<ce> Ein junger Lebemann, dessen Namen ich
+<ce> geheimzuhalten geschworen habe, hat
+<ce> illegal mit Magie rumgespielt. Dabei
+<ce> hat dieser Dümmling einen Golem beschworen.
+<ce> Das Ding muss vernichtet werden, bevor
+<ce> die Typen von der Magiergilde davon
+<ce> Wind bekommen. Es ist in die Tiefen
+<ce> von ___dungeon_ geflohen.
+<ce> Ihr werdet bezahlt, wenn Ihr diesen Auftrag
+<ce> in den nächsten =2dung_ Tagen erledigt.
 
 QuestComplete:  [1004]
-Tolle Arbeit, %pct.
-Diese Oberbananen von der Magiergilde
-kommen bei dem Schabernack unseres
-Klienten nicht mehr mit. Es wird
-ihn freuen, Euch die _gold_ Goldstücke
-zu zahlen.
+<ce> Tolle Arbeit, %pct.
+<ce> Diese Oberbananen von der Magiergilde
+<ce> kommen bei dem Schabernack unseres
+<ce> Klienten nicht mehr mit. Es wird
+<ce> ihn freuen, Euch die _gold_ Goldstücke
+<ce> zu zahlen.
 
 RumorsDuringQuest:  [1005]
 Der Sohn des Vicomte scheint in letzter
@@ -55,36 +55,36 @@ Ich frage mich, warum er seine Meinung
 über sie geändert hat.
 
 QuestorPostsuccess:  [1008]
-Golem null, %pcf eins.
-Wenn Ihr so weitermacht, werdet Ihr
-es in der Gilde weit bringen.
+<ce> Golem null, %pcf eins.
+<ce> Wenn Ihr so weitermacht, werdet Ihr
+<ce> es in der Gilde weit bringen.
 
 QuestorPostfailure:  [1009]
-Ihr hättet den Auftrag, den Golem zu töten,
-gar nicht erst annehmen sollen, wenn Euch
-das zu viel war. Jetzt wird der Sohn des
-Victomte wegen verbotener Zauberei angeklagt.
- 
+<ce> Ihr hättet den Auftrag, den Golem zu töten,
+<ce> gar nicht erst annehmen sollen, wenn Euch
+<ce> das zu viel war. Jetzt wird der Sohn des
+<ce> Victomte wegen verbotener Zauberei angeklagt.
 
 QuestLogEntry:  [1010]
 %qdt:
  Die Kriegergilde von ___qgiver_
  hat mich angeheuert, um diskret einen Golem
  auszuschalten, den ein Nicht-Gilden-Magier
- beschworen hat. Ich habe =2dung_ Tage Zeit dafür.
+ beschworen hat. Es hat sich in Ich habe
+ =2dung_ Tage Zeit dafür.
 
 Message:  1011
-Der Golem ist tot.
+<ce> Der Golem ist tot.
  
-Hoffentlich erfährt die
-Magiergilde nie davon.
+<ce> Hoffentlich erfährt die
+<ce> Magiergilde nie davon.
 
 Message:  1080
-Und da Ihr so begeistert bei
-der Sache wart, habt Ihr hier
-eine Karte zu einem Ort
-namens ___newdung_,
-der bis zur Decke mit Beute
-vollgestopft sein soll. Habt
-viel Spaß damit, %pcf.
+<ce> Und da Ihr so begeistert bei
+<ce> der Sache wart, habt Ihr hier
+<ce> eine Karte zu einem Ort
+<ce> namens ___newdung_,
+<ce> der bis zur Decke mit Beute
+<ce> vollgestopft sein soll. Habt
+<ce> viel Spaß damit, %pcf.
 

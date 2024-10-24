@@ -3,50 +3,50 @@ DisplayName: Forschungsnotizen
 QRC:
 
 QuestorOffer:  [1000]
-Als führendes Forschungsinstitut des Kaiserreichs
-von Tamriel beschäftigt die Magiergilde im ganzen
-Land Mystiker und Gelehrte. Der bedeutende Gelehrte
-_scholar_ hat zugestimmt, neue Forschungsergebnisse
-zu teilen, wenn wir einen Gildenvertreter an einen Ort
-schicken können, der weit genug von hier entfernt ist.
-Steht Ihr dafür zur Verfügung?
+<ce> Als führendes Forschungsinstitut des Kaiserreichs
+<ce> von Tamriel beschäftigt die Magiergilde im ganzen
+<ce> Land Mystiker und Gelehrte. Der bedeutende Gelehrte
+<ce> _scholar_ hat zugestimmt, neue Forschungsergebnisse
+<ce> zu teilen, wenn wir einen Gildenvertreter an einen Ort
+<ce> schicken können, der weit genug von hier entfernt ist.
+<ce> Steht Ihr dafür zur Verfügung?
 <--->
-Der Magiergilde von ___qgiver_ bietet sich die
-hochinteressante Gelegenheit, um von der Arbeit des
-renommierten Forschers und Gelehrten _scholar_
-zu profitieren. _scholar_ hat zugestimmt, der
-Gilde einige Forschungsarbeiten zu überlassen, wenn
-wir jemanden nach ___scholar_ schicken, um sie
-abzuholen. Es verwundert nicht, dass %g einen Übergriff
-der Totenbeschwörer fürchtet. Ich gehe davon aus, dass
-Euch diese Möglichkeit genauso begeistert wie mich,
-%pct?
+<ce> Der Magiergilde von ___qgiver_ bietet sich die
+<ce> hochinteressante Gelegenheit, um von der Arbeit des
+<ce> renommierten Forschers und Gelehrten _scholar_
+<ce> zu profitieren. _scholar_ hat zugestimmt, der
+<ce> Gilde einige Forschungsarbeiten zu überlassen, wenn
+<ce> wir jemanden nach ___scholar_ schicken, um sie
+<ce> abzuholen. Es verwundert nicht, dass %g einen Übergriff
+<ce> der Totenbeschwörer fürchtet. Ich gehe davon aus, dass
+<ce> Euch diese Möglichkeit genauso begeistert wie mich,
+<ce> %pct?
 
 RefuseQuest:  [1001]
-Das ist ziemlich enttäuschend, %pct.
-Wäre ich in besserer Verfassung, würde
-ich die Gelegenheit beim Schopfe packen,
-jemanden vom Range von _scholar_ zu
-treffen. Ihr verschwendet Eure Jugend,
-%pct.
+<ce> Das ist ziemlich enttäuschend, %pct.
+<ce> Wäre ich in besserer Verfassung, würde
+<ce> ich die Gelegenheit beim Schopfe packen,
+<ce> jemanden vom Range von _scholar_ zu
+<ce> treffen. Ihr verschwendet Eure Jugend,
+<ce> %pct.
 
 AcceptQuest:  [1002]
-Großartig, einfach großartig. Nun, _scholar_
-wird nur für ein paar Tage in ___scholar_
-bleiben, und zwar im __scholar_.
-Die Gefahr sind die Totenbeschwörer. Diese
-verkommenen Zauberwerfer haben ein Interesse
-daran, _scholar_ mitsamt den Forschungen
-zu finden. Ich werde Euch =queston_ Tage Zeit geben,
-zu _scholar_ und wieder zurückzugelangen,
-bevor ich jemand anderen schicke. Viel Glück.
+<ce> Großartig, einfach großartig. Nun, _scholar_
+<ce> wird nur für ein paar Tage in ___scholar_
+<ce> bleiben, und zwar im __scholar_.
+<ce> Die Gefahr sind die Totenbeschwörer. Diese
+<ce> verkommenen Zauberwerfer haben ein Interesse
+<ce> daran, _scholar_ mitsamt den Forschungen
+<ce> zu finden. Ich werde Euch =queston_ Tage Zeit geben,
+<ce> zu _scholar_ und wieder zurückzugelangen,
+<ce> bevor ich jemand anderen schicke. Viel Glück.
 
 QuestComplete:  [1004]
-Oh, dieses Zeug ist brillant. Ich schätze,
-es war nicht allzu schwierig, mit diesen
-verdammten Totenbeschwörern fertigzuwerden.
-Zumindest nicht für Euch. Fabelhafte Arbeit,
-%pct.
+<ce> Oh, dieses Zeug ist brillant. Ich schätze,
+<ce> es war nicht allzu schwierig, mit diesen
+<ce> verdammten Totenbeschwörern fertigzuwerden.
+<ce> Zumindest nicht für Euch. Fabelhafte Arbeit,
+<ce> %pct.
 
 RumorsDuringQuest:  [1005]
 Es mag sein, dass _scholar_ unter Gelehrten eine Berühmtheit ist, aber %g bleibt nur ein =scholar_.
@@ -67,10 +67,10 @@ QuestorPostsuccess:  [1008]
 Nun, wenn das nicht der %ra ist, der uns das Manuskript gebracht hat. Wie geht es Euch?
 
 QuestorPostfailure:  [1009]
-Da Ihr das Manuskript, das Ihr abzuholen
-geschworen habt nicht bei Euch tragt, sehe
-ich wenig Sinn darin, mich mit Euch zu
-unterhalten. Treibt Eure Geschäfte anderswo.
+<ce> Da Ihr das Manuskript, das Ihr abzuholen
+<ce> geschworen habt nicht bei Euch tragt, sehe
+<ce> ich wenig Sinn darin, mich mit Euch zu
+<ce> unterhalten. Treibt Eure Geschäfte anderswo.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -127,17 +127,17 @@ Message:  1012
                              _db_
 
 Message:  1013
-Ihr seid der %ra, den die Magiergilde
-hergeschickt hat, um meine Arbeit zu schützen,
-ja? Hocherfreut Euch zu treffen, mein Kind.
-Hier ist das verdammte Ding. Viel Glück,
-damit an diesen höllischen Totenbeschwörern
-vorbeizukommen. Ich könnte das sicher nicht.
+<ce> Ihr seid der %ra, den die Magiergilde
+<ce> hergeschickt hat, um meine Arbeit zu schützen,
+<ce> ja? Hocherfreut Euch zu treffen, mein Kind.
+<ce> Hier ist das verdammte Ding. Viel Glück,
+<ce> damit an diesen höllischen Totenbeschwörern
+<ce> vorbeizukommen. Ich könnte das sicher nicht.
 
 Message:  1014
-Übergebt Ihr die Arbeit von
-_scholar_ an _db_
-von der Dunklen Bruderschaft?
+<ce> Übergebt Ihr die Arbeit von
+<ce> _scholar_ an _db_
+<ce> von der Dunklen Bruderschaft?
 
 Message:  1015
 Das Verhalten des diastolischen Drucks von
@@ -202,33 +202,33 @@ Sprecht mit _db_ drüben in ___db_ - %g hat ebenfalls nach _scholar_ gefragt.
 Ein =db_ im __db_ hat sich auch nach _scholar_ erkundigt.
 
 Message:  1018
-Was für ein aufmerksames Geschenk.
-Ich hoffe, Eure Kollegen von der
-Magiergilde sind über den Verlust
-nicht zu aufgebracht. Aber was wissen
-die schon davon, trockene Theorie
-auch praktisch anzuwenden? Hier, nehmt
-_dbgold_ Goldstücke für Eure Mühen.
-Kauft Euch etwas Schönes.
+<ce> Was für ein aufmerksames Geschenk.
+<ce> Ich hoffe, Eure Kollegen von der
+<ce> Magiergilde sind über den Verlust
+<ce> nicht zu aufgebracht. Aber was wissen
+<ce> die schon davon, trockene Theorie
+<ce> auch praktisch anzuwenden? Hier, nehmt
+<ce> _dbgold_ Goldstücke für Eure Mühen.
+<ce> Kauft Euch etwas Schönes.
 
 Message:  1019
-Wie freundlich.
+<ce> Wie freundlich.
  
-Die Dunkle Bruderschaft würde sich gerne
-mit diesen _dbgold_ Goldstücken für Eure
-Dienste erkenntlich zeigen. Hier ist außerdem
-noch etwas, das ich zusammengeschustert habe
-und das Euch vor Problemen mit _qgiver_
-und den anderen Gildenmagiern bewahren sollte.
-Diese Forschungsnotizen sehen sowieso alle
-gleich aus. Wenn sie keine Ergebnisse bringen,
-wird die Gilde einfach nur noch mehr Assistenten
-darauf ansetzen oder das Projekt schmachvoll
-aufgeben. Die Magiergilde ist einfach nur ein
-lästiges Pack von Forschern, die sich nicht um
-Geld sorgen müssen und folglich niemals
-glücklicher sind, als wenn sie sinnlose Arbeit
-verrichten.
+<ce> Die Dunkle Bruderschaft würde sich gerne
+<ce> mit diesen _dbgold_ Goldstücken für Eure
+<ce> Dienste erkenntlich zeigen. Hier ist außerdem
+<ce> noch etwas, das ich zusammengeschustert habe
+<ce> und das Euch vor Problemen mit _qgiver_
+<ce> und den anderen Gildenmagiern bewahren sollte.
+<ce> Diese Forschungsnotizen sehen sowieso alle
+<ce> gleich aus. Wenn sie keine Ergebnisse bringen,
+<ce> wird die Gilde einfach nur noch mehr Assistenten
+<ce> darauf ansetzen oder das Projekt schmachvoll
+<ce> aufgeben. Die Magiergilde ist einfach nur ein
+<ce> lästiges Pack von Forschern, die sich nicht um
+<ce> Geld sorgen müssen und folglich niemals
+<ce> glücklicher sind, als wenn sie sinnlose Arbeit
+<ce> verrichten.
 
 Message:  1020
 %qdt:
@@ -240,7 +240,6 @@ Message:  1020
  _scholar_ ins __db_
  in ___db_ statt
  zur Magiergilde zu bringen.
- 
 
 Message:  1021
 %qdt:

@@ -3,51 +3,51 @@ DisplayName: Ein allzu derbes Lied
 QRC:
 
 QuestorOffer:  [1000]
-Hier ist ein ganz amüsanter Auftrag,
-der Eurem morbiden Sinn für Humor
-entsprechen könnte. Es gibt da wohl
-einen untalentierten Barden mit einer
-Schwäche für derbe Reime über frühere
-Gönner. Wie sich herausstellte, war
-%g3 genealogisches Wissen aber lückenhaft,
-%g hat nämlich ein Lied über einen
-inzestuösen Herzog ausgerechnet vor
-seiner neuen Gönnerin, der Tochter dieses
-Herzogs, gesungen. Interessiert, für
-_reward_ Goldstücke mit diesem kruden Artisten
-abzurechnen?
+<ce> Hier ist ein ganz amüsanter Auftrag,
+<ce> der Eurem morbiden Sinn für Humor
+<ce> entsprechen könnte. Es gibt da wohl
+<ce> einen untalentierten Barden mit einer
+<ce> Schwäche für derbe Reime über frühere
+<ce> Gönner. Wie sich herausstellte, war
+<ce> %g3 genealogisches Wissen aber lückenhaft,
+<ce> %g hat nämlich ein Lied über einen
+<ce> inzestuösen Herzog ausgerechnet vor
+<ce> seiner neuen Gönnerin, der Tochter dieses
+<ce> Herzogs, gesungen. Interessiert, für
+<ce> _reward_ Goldstücke mit diesem kruden Artisten
+<ce> abzurechnen?
 
 RefuseQuest:  [1001]
-Habe ich Euch missverstanden oder sagtet
-Ihr wirklich nein? Wie wollt Ihr das
-reiche Gesamtbild der Menschheit wertschätzen,
-wenn Ihr nicht einmal Zeit habt, einen
-lausigen Musiker zu erschlagen?
+<ce> Habe ich Euch missverstanden oder sagtet
+<ce> Ihr wirklich nein? Wie wollt Ihr das
+<ce> reiche Gesamtbild der Menschheit wertschätzen,
+<ce> wenn Ihr nicht einmal Zeit habt, einen
+<ce> lausigen Musiker zu erschlagen?
 
 AcceptQuest:  [1002]
-Ich wusste, dass das gefallen würde.
-Offenbar ist sich der Barde unseres
-Kontrakts bewusst und versteckt sich in
-dem dreckigen Loch namens ___mondung_.
-Sollte nicht mehr als ein kleines Handgemenge
-werden, aber lasst Eure Deckung oben.
-Ein verzweifelter Sänger kann ein
-unberechenbarer Gegner sein. Seid dann
-in =1stparton_ Tagen zurück, um Eure Belohnung
-einzustreichen. Viel Glück.
+<ce> Ich wusste, dass das gefallen würde.
+<ce> Offenbar ist sich der Barde unseres
+<ce> Kontrakts bewusst und versteckt sich in
+<ce> dem dreckigen Loch namens ___mondung_.
+<ce> Sollte nicht mehr als ein kleines Handgemenge
+<ce> werden, aber lasst Eure Deckung oben.
+<ce> Ein verzweifelter Sänger kann ein
+<ce> unberechenbarer Gegner sein. Seid dann
+<ce> in =1stparton_ Tagen zurück, um Eure Belohnung
+<ce> einzustreichen. Viel Glück.
 
 QuestFail:  [1003]
-Ich würde darauf wetten, dass der Barde
-noch nicht ins Reich des Vergessens
-abgeschossen wurde. Und doch seid Ihr hier.
-Das erscheint mir merkwürdig. Euch ebenfalls?
+<ce> Ich würde darauf wetten, dass der Barde
+<ce> noch nicht ins Reich des Vergessens
+<ce> abgeschossen wurde. Und doch seid Ihr hier.
+<ce> Das erscheint mir merkwürdig. Euch ebenfalls?
 
 QuestComplete:  [1004]
-Ah, Ihr seid geblieben, um noch der letzten
-Note dieses ungehobelten Instrumentenspieler
-zu lauschen? Hier ist Euer Lohn dafür, dass
-Ihr bei der Totenmesse des Barden das Instrument
-gespielt habt: _reward_ Goldstücke. Viel Spaß damit. 
+<ce> Ah, Ihr seid geblieben, um noch der letzten
+<ce> Note dieses ungehobelten Instrumentenspieler
+<ce> zu lauschen? Hier ist Euer Lohn dafür, dass
+<ce> Ihr bei der Totenmesse des Barden das Instrument
+<ce> gespielt habt: _reward_ Goldstücke. Viel Spaß damit. 
 
 RumorsDuringQuest:  [1005]
 Ich frage mich, ob der Herzog wirklich Inzest mit seiner Tochter beging. 
@@ -68,17 +68,17 @@ QuestorPostsuccess:  [1008]
 Ah, hallo, %pcf. Es ist Musik in meinen Ohren, wieder von Euch zu hören.
 
 QuestorPostfailure:  [1009]
-Wie könnte ich Euch begrüßen, %pcf?
-Ihr seid daran gescheitert, den Barden zu erschlagen.
-Wirklich ein schräger Ton in Eurer Aufzeichnung.
+<ce> Wie könnte ich Euch begrüßen, %pcf?
+<ce> Ihr seid daran gescheitert, den Barden zu erschlagen.
+<ce> Wirklich ein schräger Ton in Eurer Aufzeichnung.
 
 QuestLogEntry:  [1010]
-Ihr habt =monster_ erschlagen.
+<ce> Ihr habt =monster_ erschlagen.
 
 Message:  1020
 %qdt:
  Die Dunkle Bruderschaft hat mich ausgesandt,
- einen Barden namens  =monster_ zu ermorden
+ einen Barden namens =monster_ zu ermorden
  und in =1stparton_ Tagen zurück in der Gildehalle
  [_questgiver_] in ___questgiver_
  zu sein. Der Barde versteckt sich offenbar in

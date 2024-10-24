@@ -3,43 +3,43 @@ DisplayName: Wahnsinniger Priester
 QRC:
 
 QuestorOffer:  [1000]
-__qgiver_ verliert sich oft in den Mysterien
-der himmlichen Sphären, und bisweilen irren wir
-in der Beurteilung des geistigen Zustands unserer
-Priester im Angesicht der Unendlichkeit. Oder in
-anderen Worten: Einer unserer Priester hat den
-Verstand verloren. Werdet Ihr uns helfen, den Irren
-zurück nach __qgiver_ zu bringen?
+<ce> __qgiver_ verliert sich oft in den Mysterien
+<ce> der himmlichen Sphären, und bisweilen irren wir
+<ce> in der Beurteilung des geistigen Zustands unserer
+<ce> Priester im Angesicht der Unendlichkeit. Oder in
+<ce> anderen Worten: Einer unserer Priester hat den
+<ce> Verstand verloren. Werdet Ihr uns helfen, den Irren
+<ce> zurück nach __qgiver_ zu bringen?
 <--->
-Der alte =priest_ hat abermals einen
-Tobsuchtsanfall erlitten. Es könnte sein, dass %g
-wieder in die Weinkeller von _qgiver_
-gegangen ist. Wie dem auch sei, habt Ihr Zeit, uns zu
-helfen, den alten Bekloppten nach Hause zu bringen?
+<ce> Der alte =priest_ hat abermals einen
+<ce> Tobsuchtsanfall erlitten. Es könnte sein, dass %g
+<ce> wieder in die Weinkeller von _qgiver_
+<ce> gegangen ist. Wie dem auch sei, habt Ihr Zeit, uns zu
+<ce> helfen, den alten Bekloppten nach Hause zu bringen?
 
 RefuseQuest:  [1001]
-%oth, ich hoffe, dass – solltet Ihr einmal
-den Verstand verlieren – jemand die Güte hat, Euch zu
-retten, %pct.
+<ce> %oth, ich hoffe, dass – solltet Ihr einmal
+<ce> den Verstand verlieren – jemand die Güte hat, Euch zu
+<ce> retten, %pct.
 
 AcceptQuest:  [1002]
-Dank Euch, %pct. Nun denn, =priest_
-ist zu einem Ort namens ___mondung_
-gerannt. Versucht, den armen Irren nicht zu sehr zu
-verletzen. =priest_ weiß nicht, was er tut.
-Gebt %g2 einfach einen leichten Schlag auf den Kopf
-und bringt %g2 hierher. Ich werde =queston_ Tage warten.
-Seid vorsichtig.
+<ce> Dank Euch, %pct. Nun denn, =priest_
+<ce> ist zu einem Ort namens ___mondung_
+<ce> gerannt. Versucht, den armen Irren nicht zu sehr zu
+<ce> verletzen. =priest_ weiß nicht, was er tut.
+<ce> Gebt %g2 einfach einen leichten Schlag auf den Kopf
+<ce> und bringt %g2 hierher. Ich werde =queston_ Tage warten.
+<ce> Seid vorsichtig.
 
 QuestComplete:  [1004]
-Schön, Euch wiederzusehen, %pct.
-Macht Euch keine Sorgen um =priest_.
-Wir kümmern uns gut um %g2.
+<ce> Schön, Euch wiederzusehen, %pct.
+<ce> Macht Euch keine Sorgen um =priest_.
+<ce> Wir kümmern uns gut um %g2.
 
 RumorsDuringQuest:  [1005]
 Der verrückte =priest_ hat sich in ___mondung_ verkrochen. Nur ein Narr würde dorthin gehen.
 <--->
-___mondung_ ist schon für geistig gesunde Menschen gefährlich. =priest_ wird nicht lange durchhalten.
+___mondung_ ist schon für geistig gesunde Menschen gefährlich. _priest_ wird nicht lange durchhalten.
 
 RumorsPostfailure:  [1006]
 Anscheinend wird =priest_ nie mehr heimkommen. 
@@ -69,7 +69,8 @@ QuestLogEntry:  [1010]
  _qgiver_ zurückzukehren.
 
 Message:  1011
-"%oth, das war mein Kopf!"
+<ce> "%oth, das war mein Kopf!"
+ 
 =priest_ fällt bewusstlos zu Boden.
 Ihr hebt %g2 hoch.
 <--->
@@ -82,9 +83,10 @@ Ihr hört ein leises, verrücktes Kichern
 und =priest_ verschwindet, als
 hätte er sich in Luft aufgelöst.
 <--->
-"Ich habe ein Reich zu regieren. Ich kann
-nicht die ganze Zeit damit verbringen,
-diese verdammten Flusen aufzuheben!"
+<ce> "Ich habe ein Reich zu regieren. Ich kann
+<ce> nicht die ganze Zeit damit verbringen,
+<ce> diese verdammten Flusen aufzuheben!"
+ 
 =priest_ entwindet sich Eurem Griff mit
 erstaunlicher Beweglichkeit und flieht.
 

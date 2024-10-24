@@ -3,37 +3,37 @@ DisplayName: Harpyienjagd
 QRC:
 
 QuestorOffer:  [1000]
-Ich mag Euch, Kindchen. Dieser Auftrag ist nicht
-für jedermann. Es gibt da wohl einen Schwarm
-fliegender Fleischfresser - Harpyien - die einen
-Haufen fahrender Händler sehr nervös machen.
-Würden Euch _reward_ Goldstücke für ein kleines
-Hauen-und-Stechen nach ___mondung_ führen?
+<ce> Ich mag Euch, Kindchen. Dieser Auftrag ist nicht
+<ce> für jedermann. Es gibt da wohl einen Schwarm
+<ce> fliegender Fleischfresser - Harpyien - die einen
+<ce> Haufen fahrender Händler sehr nervös machen.
+<ce> Würden Euch _reward_ Goldstücke für ein kleines
+<ce> Hauen-und-Stechen nach ___mondung_ führen?
 
 RefuseQuest:  [1001]
-Zu schade. Das sah mir nach einem
-verdammt großzügigen Angebot aus.
+<ce> Zu schade. Das sah mir nach einem
+<ce> verdammt großzügigen Angebot aus.
 
 AcceptQuest:  [1002]
-Nun denn. Fünf dieser Schönheiten befinden
-sich in ___mondung_. Sie müssen alle
-in =1stparton_ Tagen tot sein, sonst gilt der
-Vertrag nicht. Ein guter Rat: Ihr habt zwar
-=1stparton_ Tage Zeit, um wieder hier zu sein, aber
-Ihr solltet so schnell wie möglich nach ___mondung_
-aufbrechen. Sonst werden die Harpyien ausgeflogen
-sein und Ihr habt Pech gehabt. Gut, Kindchen, viel
-Glück noch und jetzt raus hier.
+<ce> Nun denn. Fünf dieser Schönheiten befinden
+<ce> sich in ___mondung_. Sie müssen alle
+<ce> in =1stparton_ Tagen tot sein, sonst gilt der
+<ce> Vertrag nicht. Ein guter Rat: Ihr habt zwar
+<ce> =1stparton_ Tage Zeit, um wieder hier zu sein, aber
+<ce> Ihr solltet so schnell wie möglich nach ___mondung_
+<ce> aufbrechen. Sonst werden die Harpyien ausgeflogen
+<ce> sein und Ihr habt Pech gehabt. Gut, Kindchen, viel
+<ce> Glück noch und jetzt raus hier.
 
 QuestFail:  [1003]
-Hört zu, Kindchen, ich weiß, ich bin ein
-ein Charmeur, aber die Harpyien warten.
-Und sorgt dafür, dass Ihr alle fünf
-erwischt, verstanden?
+<ce> Hört zu, Kindchen, ich weiß, ich bin ein
+<ce> ein Charmeur, aber die Harpyien warten.
+<ce> Und sorgt dafür, dass Ihr alle fünf
+<ce> erwischt, verstanden?
 
 QuestComplete:  [1004]
-Sehr schön, Kindchen. Hier sind _reward_ Goldstücke.
-Das ist nicht gerade schäbig.
+<ce> Sehr schön, Kindchen. Hier sind _reward_ Goldstücke.
+<ce> Das ist nicht gerade schäbig.
 
 RumorsDuringQuest:  [1005]
 Letztens ist jemand losgezogen, um in ___mondung_ nach dem Rechten zu sehen und wurde in Stücke gerissen.
@@ -51,16 +51,16 @@ Die Harpyien waren ein echtes Konjunkturproblem. Jetzt sollte es besser werden.
 Ich hörte, dass man in dem Harpyiennest abertausende Eier gefunden hat.
 
 QuestorPostsuccess:  [1008]
-He! Der %ra, der sich um diese
-Harpyien gekümmert hat, ist wieder da.
+<ce> He! Der %ra, der sich um diese
+<ce> Harpyien gekümmert hat, ist wieder da.
 
 QuestorPostfailure:  [1009]
-Ihr seid der %ra, der nicht einmal mit ein
-paar Harpyien fertig geworden ist. Jämmerlich.
+<ce> Ihr seid der %ra, der nicht einmal mit ein
+<ce> paar Harpyien fertig geworden ist. Jämmerlich.
 
 Message:  1020
-Damit sind es fünf. Das sollte reichen,
-um _questgiver_ glücklich zu machen.
+<ce> Damit sind es fünf. Das sollte reichen,
+<ce> um _questgiver_ glücklich zu machen.
 
 Message:  1030
 %qdt:
@@ -73,8 +73,8 @@ Message:  1030
  abholen möchte.
 
 Message:  1080
-He, weil Ihr so hilfsbereit wart, sollt
-Ihr diese Karte nach ___newdung_
-haben. Tötet und plündert so viel ihr
-könnt. Gern geschehen.
+<ce> He, weil Ihr so hilfsbereit wart, sollt
+<ce> Ihr diese Karte nach ___newdung_
+<ce> haben. Tötet und plündert so viel ihr
+<ce> könnt. Gern geschehen.
 

@@ -3,35 +3,35 @@ DisplayName: Skorpionsjagd
 QRC:
 
 QuestorOffer:  [1000]
-Ihr könnt mich _qgiver_ nennen.
-Normalerweise vergeben wir Aufträge nur
-an Gildenmitglieder. Aber Ihr seht
-vielversprechend aus, %pcn.
-Ich sag' Euch was. Ich habe hier eine
-Anfrage bekommen, einen Riesenskorpion
-zu beseitigen. Erledigt das und ich
-werde sehen, ob die Gilde über Euren
-Ruf hinwegsehen kann.
+<ce> Ihr könnt mich _qgiver_ nennen.
+<ce> Normalerweise vergeben wir Aufträge nur
+<ce> an Gildenmitglieder. Aber Ihr seht
+<ce> vielversprechend aus, %pcn.
+<ce> Ich sag' Euch was. Ich habe hier eine
+<ce> Anfrage bekommen, einen Riesenskorpion
+<ce> zu beseitigen. Erledigt das und ich
+<ce> werde sehen, ob die Gilde über Euren
+<ce> Ruf hinwegsehen kann.
  
-Haben wir eine Abmachung?
+<ce> Haben wir eine Abmachung?
 
 RefuseQuest:  [1001]
-Ich versuche nett zu sein.
-Seht, was es mir bringt.
-Verschwindet einfach.
+<ce> Ich versuche nett zu sein.
+<ce> Seht, was es mir bringt.
+<ce> Verschwindet einfach.
 
 AcceptQuest:  [1002]
-Ihr habt Schneid, %pcf, das muss ich
-Euch lassen. Scheint, als wäre der Skorpion
-aus irgendeiner Privatsammlung entkommen.
-Er ist jetzt in einem Gebäude [_house_]
-in die Ecke getrieben. Tötet das Ding heute
-noch und ich werde nur das Beste von Euch erzählen.
+<ce> Ihr habt Schneid, %pcf, das muss ich
+<ce> Euch lassen. Scheint, als wäre der Skorpion
+<ce> aus irgendeiner Privatsammlung entkommen.
+<ce> Er ist jetzt in einem Gebäude [_house_]
+<ce> in die Ecke getrieben. Tötet das Ding heute
+<ce> noch und ich werde nur das Beste von Euch erzählen.
 
 QuestComplete:  [1004]
-Ich schätze, Ihr seid doch keine so feige Qualle
-wie alle sagen. Ich werde dafür sorgen, dass die
-richtigen Leute davon erfahren.
+<ce> Ich schätze, Ihr seid doch keine so feige Qualle
+<ce> wie alle sagen. Ich werde dafür sorgen, dass die
+<ce> richtigen Leute davon erfahren.
 
 RumorsDuringQuest:  [1005]
 Habt Ihr schon von dem armen Tropf gehört,
@@ -50,15 +50,15 @@ Sie haben einen Riesenskorpion erledigt,
 der in ein Haus eingedrungen war.
 
 QuestorPostsuccess:  [1008]
-Gute Arbeit mit dem Riesenskorpion.
-Macht weiter so und man wird Euch
-sehr bald in die Gilde aufnehmen.
+<ce> Gute Arbeit mit dem Riesenskorpion.
+<ce> Macht weiter so und man wird Euch
+<ce> sehr bald in die Gilde aufnehmen.
 
 QuestorPostfailure:  [1009]
-Ich habe nur verlangt, dass Ihr
-einen Riesenskorpion tötet. Ihr seid
-wirklich zu nichts zu gebrauchen,
-%pcf.
+<ce> Ich habe nur verlangt, dass Ihr
+<ce> einen Riesenskorpion tötet. Ihr seid
+<ce> wirklich zu nichts zu gebrauchen,
+<ce> %pcf.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -69,5 +69,5 @@ QuestLogEntry:  [1010]
  Das muss noch heute erledigt werden.
 
 Message:  1011
-Der _monster_ ist tot.
+_monster_ ist tot.
 

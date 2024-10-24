@@ -15,13 +15,13 @@ QuestFail:  [1003]
 Error -- 1003 called
 
 QuestComplete:  [1004]
-Während _child_ Euer Blut
-trinkt, spürt Ihr, wie Euer Kopf
-zum ersten Mal, seit Ihr an der Lykanthropie
-erkrankt seid, wieder klar wird.
-Doch _child_ schreit vor
-Höllenqualen, als %g vor Euren
-Augen die Gestalt verändert.
+<ce> Während _child_ Euer Blut
+<ce> trinkt, spürt Ihr, wie Euer Kopf
+<ce> zum ersten Mal, seit Ihr an der Lykanthropie
+<ce> erkrankt seid, wieder klar wird.
+<ce> Doch _child_ schreit vor
+<ce> Höllenqualen, als %g vor Euren
+<ce> Augen die Gestalt verändert.
 
 RumorsDuringQuest:  [1005]
 _hunter_ kommt nach %reg, um die Ausbreitung der Werbestien aufzuhalten.
@@ -94,7 +94,7 @@ _father_ starb vor einigen Jahren. Sein einziges
 Kind wurde von einer Familie im __childhouse_
 adoptiert, glaube ich. Fragt doch dort nach _child_.
 <--->
-Wart Ihr ein Freund?  Es tut mir Leid, aber er ist
+Wart Ihr ein Freund? Es tut mir Leid, aber er ist
 vor ungefähr einem Jahr gestorben. Sein einziges
 Kind _child_ wurde von einer Familie in
 der __childhouse_ aufgenommen.
@@ -105,7 +105,7 @@ Message:  1020
  Verehrter %pcn,
  
      Oder sollte ich Euch "=wereboar_" nennen,
- wie das gemeine Volk von %reg, das jede
+ wie das gemeine Volk von ___childhouse_, das jede
  Nacht aus Furcht vor Euch die Tore verriegelt?
  Ja, ich weiß, wer und was Ihr seid, und die Tage,
  die Ihr die Iliac-Bucht terrorisiert habt, sind
@@ -114,7 +114,7 @@ Message:  1020
  gejagt, die Ihr seid. Niemand soll sagen, dass
  es _hunter_ an Mitleid fehlen würde. Ich
  biete Euch eine letzte Chance, Euch zu retten.
- Geht zu _priest_ vom  __priest_
+ Geht zu _priest_ vom __priest_
  in ___priest_, wenn Ihr weiterleben wollt.
  %g in in den Eigenarten der Lykanthropie wohl-
   bewandert, wenn Euch jemand helfen kann, dann
@@ -124,137 +124,137 @@ Message:  1020
 <ce>_hunter_
 
 Message:  1021
-Ihr müsst %pcn sein. _hunter_ sagte mir,
-dass Ihr mich womöglich aufsucht,
-auch wenn %g Zweifel daran hatte, dass Ihr %g3
-Warnung Beachtung schenken würdet. Viele tun
-es leider nicht, weil sie von ihrer inneren Bestie
-zu berauscht sind, um sich noch zu retten.
-Ja, der Fluch der Lykanthropie kann aufgehoben
-werden, doch mir graut, davon zu sprechen,
-denn die Heilung könnte schlimmer als die Krankheit
-sein. Wir sollten leiser sprechen. Ihr wisst es
-vielleicht nicht, aber Lykanthropie ist eine
-vererbbare Krankheit und wird in gewissen
-Familien weitergegeben, obwohl es möglich ist,
-dass sie mehrere Generationen lang schläft,
-bevor sie erneut ausbricht. Deshalb sind diese
-großen Kreuzzüge gegen die Lykanthropen, wie der
-von _hunter_, letzten Endes vergeblich,
-solange nicht die Familien, die die Blutlinien
-weiterführen, ebenfalls ausgelöscht werden.
-Ich denke, Ihr versteht nun, warum ich zögere,
-dieses Wissen zu teilen. Wie Ihr wisst kann der
-Biss einer Werbestie die Infektion auf ein neues
-Opfer übertragen. Wenn Ihr jedoch die Infektion
-auf einen latenten Lykanthropen übertragen könntet,
-wird der Fluch wegen der Intensität, mit der er in
-dem neuen Opfer gedeiht, von Euch genommen.
-Bei meinen Studien bin ich vor Kurzem auf eine
-Familie gestoßen, von der ich sicher bin, dass
-sie die Krankheit in sich trägt. Wenn Ihr diesem
-dunklen Pfad folgen wollt, kann ich Euch sagen,
-wo Ihr den letzten Überlebenden dieser uralten,
-verfluchten Blutlinie finden mögt.
+<ce> Ihr müsst %pcn sein. _hunter_ sagte mir,
+<ce> dass Ihr mich womöglich aufsucht,
+<ce> auch wenn %g Zweifel daran hatte, dass Ihr %g3
+<ce> Warnung Beachtung schenken würdet. Viele tun
+<ce> es leider nicht, weil sie von ihrer inneren Bestie
+<ce> zu berauscht sind, um sich noch zu retten.
+<ce> Ja, der Fluch der Lykanthropie kann aufgehoben
+<ce> werden, doch mir graut, davon zu sprechen,
+<ce> denn die Heilung könnte schlimmer als die Krankheit
+<ce> sein. Wir sollten leiser sprechen. Ihr wisst es
+<ce> vielleicht nicht, aber Lykanthropie ist eine
+<ce> vererbbare Krankheit und wird in gewissen
+<ce> Familien weitergegeben, obwohl es möglich ist,
+<ce> dass sie mehrere Generationen lang schläft,
+<ce> bevor sie erneut ausbricht. Deshalb sind diese
+<ce> großen Kreuzzüge gegen die Lykanthropen, wie der
+<ce> von _hunter_, letzten Endes vergeblich,
+<ce> solange nicht die Familien, die die Blutlinien
+<ce> weiterführen, ebenfalls ausgelöscht werden.
+<ce> Ich denke, Ihr versteht nun, warum ich zögere,
+<ce> dieses Wissen zu teilen. Wie Ihr wisst kann der
+<ce> Biss einer Werbestie die Infektion auf ein neues
+<ce> Opfer übertragen. Wenn Ihr jedoch die Infektion
+<ce> auf einen latenten Lykanthropen übertragen könntet,
+<ce> wird der Fluch wegen der Intensität, mit der er in
+<ce> dem neuen Opfer gedeiht, von Euch genommen.
+<ce> Bei meinen Studien bin ich vor Kurzem auf eine
+<ce> Familie gestoßen, von der ich sicher bin, dass
+<ce> sie die Krankheit in sich trägt. Wenn Ihr diesem
+<ce> dunklen Pfad folgen wollt, kann ich Euch sagen,
+<ce> wo Ihr den letzten Überlebenden dieser uralten,
+<ce> verfluchten Blutlinie finden mögt.
 
 Message:  1022
-Nun gut. Ich kann es Euch nicht vorwerfen, dass Ihr
-zu leben wünscht. Ich werde mein Gewissen mit
-dem Gedanken beruhigen, dass _father_
-der letzte Nachkomme einer dem Untergang geweihten
-Familie ist, deren Linie besser endet, bevor der Fluch
-sich erneuern kann. Ja, er ist es, den Ihr sucht.
-Meines Wissens nach weilt er noch immer in ___local_,
-wo die Familie seit Generationen lebt. Aber zuerst
-werdet Ihr _alchemist_ in ___alchemist_
-aufsuchen müssen. %g war mir schon früher bei
-solchen Angelegenheiten behilflich. Der sicherste
-Weg, die Krankheit weiterzugeben, besteht darin,
-das Opfer das Blut des Lykanthropen trinken
-zu lassen. _alchemist_ wird ob Eures befremdlichen
-Anliegens weder Fragen stellen noch Geschichten
-verbreiten. Möge %god Eure Schritte leiten.
+<ce> Nun gut. Ich kann es Euch nicht vorwerfen, dass Ihr
+<ce> zu leben wünscht. Ich werde mein Gewissen mit
+<ce> dem Gedanken beruhigen, dass _father_
+<ce> der letzte Nachkomme einer dem Untergang geweihten
+<ce> Familie ist, deren Linie besser endet, bevor der Fluch
+<ce> sich erneuern kann. Ja, er ist es, den Ihr sucht.
+<ce> Meines Wissens nach weilt er noch immer in ___local_,
+<ce> wo die Familie seit Generationen lebt. Aber zuerst
+<ce> werdet Ihr _alchemist_ in ___alchemist_
+<ce> aufsuchen müssen. %g war mir schon früher bei
+<ce> solchen Angelegenheiten behilflich. Der sicherste
+<ce> Weg, die Krankheit weiterzugeben, besteht darin,
+<ce> das Opfer das Blut des Lykanthropen trinken
+<ce> zu lassen. _alchemist_ wird ob Eures befremdlichen
+<ce> Anliegens weder Fragen stellen noch Geschichten
+<ce> verbreiten. Möge %god Eure Schritte leiten.
 
 Message:  1023
-Ich verstehe. Tatsächlich bin ich beinahe erleichtert,
-dass Ihr vor diesem Pfad zur Erlösung zurückschreckt.
-Es zeigt, dass die Bestie Euch noch nicht völlig
-beherrscht. Ich will keine falschen Hoffnungen
-wecken, aber falls Ihr immer noch versuchen wollt,
-eine Heilung zu finden ... Nun, es ist nicht mehr
-als eine Legende, doch angeblich gibt es irgendwo
-einen Hexenzirkel, der Lykanthropie heilen kann.
-Der beste Anhaltspunkt, den ich habe, ist ein
-uralter Text, "Geschichte der daedrischen Sekten".
-Unglücklicherweise ist das einzige Exemplar bei
-der Plünderung von ___hintdung_ vor über
-einem Jahrzehnt verlorengegangen. Vielleicht ist
-es noch irgendwo in den Ruinen dort verborgen.
-Wenn auch sonst nichts, hilft die Suche Euch
-vielleicht, die Bestie zumindest für eine Weile
-im Zaum zu halten. Möge %god Eure Schritte leiten.
+<ce> Ich verstehe. Tatsächlich bin ich beinahe erleichtert,
+<ce> dass Ihr vor diesem Pfad zur Erlösung zurückschreckt.
+<ce> Es zeigt, dass die Bestie Euch noch nicht völlig
+<ce> beherrscht. Ich will keine falschen Hoffnungen
+<ce> wecken, aber falls Ihr immer noch versuchen wollt,
+<ce> eine Heilung zu finden ... Nun, es ist nicht mehr
+<ce> als eine Legende, doch angeblich gibt es irgendwo
+<ce> einen Hexenzirkel, der Lykanthropie heilen kann.
+<ce> Der beste Anhaltspunkt, den ich habe, ist ein
+<ce> uralter Text, "Geschichte der daedrischen Sekten".
+<ce> Unglücklicherweise ist das einzige Exemplar bei
+<ce> der Plünderung von ___hintdung_ vor über
+<ce> einem Jahrzehnt verlorengegangen. Vielleicht ist
+<ce> es noch irgendwo in den Ruinen dort verborgen.
+<ce> Wenn auch sonst nichts, hilft die Suche Euch
+<ce> vielleicht, die Bestie zumindest für eine Weile
+<ce> im Zaum zu halten. Möge %god Eure Schritte leiten.
 
 Message:  1024
-Soso, ein weiterer Besucher von _priest_.
-Ganz recht, ich weiß, was Ihr wollt, aber das wird
-nicht billig. 1000 Goldstücke im Voraus.
-Nehmt an oder vergesst es.
+<ce> Soso, ein weiterer Besucher von _priest_.
+<ce> Ganz recht, ich weiß, was Ihr wollt, aber das wird
+<ce> nicht billig. 1000 Goldstücke im Voraus.
+<ce> Nehmt an oder vergesst es.
  
-In Ordnung, haltet eine Minute lang still.
+<ce> In Ordnung, haltet eine Minute lang still.
  
-Na bitte, hat kein bisschen wehgetan, oder?
-Jetzt verschwindet hier, bevor einer meiner
-ehrbaren Kunden Euch sieht.
+<ce> Na bitte, hat kein bisschen wehgetan, oder?
+<ce> Jetzt verschwindet hier, bevor einer meiner
+<ce> ehrbaren Kunden Euch sieht.
 
 Message:  1025
-Soso, ein weiterer Besucher von _priest_.
-Ganz recht, ich weiß, was Ihr wollt, aber das wird
-nicht billig. 1000 Goldstücke im Voraus.
-Nehmt an oder vergesst es.
+<ce> Soso, ein weiterer Besucher von _priest_.
+<ce> Ganz recht, ich weiß, was Ihr wollt, aber das wird
+<ce> nicht billig. 1000 Goldstücke im Voraus.
+<ce> Nehmt an oder vergesst es.
  
-Tut mir Leid, Freundchen, aber Ihr habt
-nicht genug Bargeld. Raus hier, bevor
-ich die Wachen rufe.
+<ce> Tut mir Leid, Freundchen, aber Ihr habt
+<ce> nicht genug Bargeld. Raus hier, bevor
+<ce> ich die Wachen rufe.
 
 Message:  1026
-Ihr seid auf der Suche nach _father_?
-Ich fürchte, er ist vor drei Jahren gestorben.
-Hat sich umgebracht, um genau zu sein, auch
-wenn nur wenige diesen Teil der Geschichte kennen.
-Ich bin mir nicht sicher, was damals passiert ist,
-aber er wurde sehr übellaunig und fing an,
-tagelang zu verschwinden. Hat eine Nachricht
-hinterlassen, in der stand, dass er mit sich
-selbst nicht leben könnte und nicht wollte,
-dass _child_ die Wahrheit darüber
-herausfände. Ich habe nie verstanden, worum
-es dabei eigentlich ging. Ja, _child_
-war sein einziges Kind. %g wurde nach dem
-Tod seines Vaters von einer Familie im
-__childhouse_ aufgenommen.
-Ich fürchte, das ist alles, was ich weiß.
+<ce> Ihr seid auf der Suche nach _father_?
+<ce> Ich fürchte, er ist vor drei Jahren gestorben.
+<ce> Hat sich umgebracht, um genau zu sein, auch
+<ce> wenn nur wenige diesen Teil der Geschichte kennen.
+<ce> Ich bin mir nicht sicher, was damals passiert ist,
+<ce> aber er wurde sehr übellaunig und fing an,
+<ce> tagelang zu verschwinden. Hat eine Nachricht
+<ce> hinterlassen, in der stand, dass er mit sich
+<ce> selbst nicht leben könnte und nicht wollte,
+<ce> dass _child_ die Wahrheit darüber
+<ce> herausfände. Ich habe nie verstanden, worum
+<ce> es dabei eigentlich ging. Ja, _child_
+<ce> war sein einziges Kind. %g wurde nach dem
+<ce> Tod seines Vaters von einer Familie im
+<ce> __childhouse_ aufgenommen.
+<ce> Ich fürchte, das ist alles, was ich weiß.
 
 Message:  1027
-Hallo. Seid Ihr ein Heilkünstler?
-Ich fühle mich heute nicht besonders wohl.
-Habt Ihr da Medizin für mich?
+<ce> Hallo. Seid Ihr ein Heilkünstler?
+<ce> Ich fühle mich heute nicht besonders wohl.
+<ce> Habt Ihr da Medizin für mich?
 
 Message:  1028
-Gebt Ihr _child_ das Blut?
+<ce> Gebt Ihr _child_ das Blut?
 
 Message:  1030
-Wollt Ihr ein Opfer aufspüren, um
-Euch von der Lykanthropie zu heilen?
+<ce> Wollt Ihr ein Opfer aufspüren, um
+<ce> Euch von der Lykanthropie zu heilen?
 
 Message:  1040
-_hunter_ sagte, dass ich Euch hier
-finden würde. Sterbt, =wereboar_!
+<ce> _hunter_ sagte, dass ich Euch hier
+<ce> finden würde. Sterbt, =wereboar_!
 
 Message:  1045
-Ihr werdet auf einen fremden Gegenstand in Eurem
-Gepäck aufmerksam. Es ist ein Brief, der in einer
-gewandten Handschrift an Euch gerichtet wurde.
-Wie kam er dort hinein?
+<ce> Ihr werdet auf einen fremden Gegenstand in Eurem
+<ce> Gepäck aufmerksam. Es ist ein Brief, der in einer
+<ce> gewandten Handschrift an Euch gerichtet wurde.
+<ce> Wie kam er dort hinein?
 
 Message:  1050
 %qdt:
@@ -306,8 +306,8 @@ Message:  1054
  _child_, das nun im __childhouse_ lebt.
 
 Message:  1060
-Eine Karte, die den Standort des Glenmorilzirkels
-in den Ilessanischen Hügeln zeigt.
+<ce> Eine Karte, die den Standort des Glenmorilzirkels
+<ce> in den Ilessanischen Hügeln zeigt.
 
 Message:  1061
 [Dies scheint eine Seite zu sein, die aus einem

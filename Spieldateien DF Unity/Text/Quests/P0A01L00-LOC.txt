@@ -41,20 +41,20 @@ AcceptQuest:  [1002]
 Error: Questtext 1002 Called!
 
 QuestFail:  [1003]
-Seht her, ich will nicht unhöflich
-sein, aber ich erwarte noch jemanden,
-also verschwindet.
+<ce> Seht her, ich will nicht unhöflich
+<ce> sein, aber ich erwarte noch jemanden,
+<ce> also verschwindet.
 
 QuestComplete:  [1004]
-Exzellent, %pcf. Ihr werdet einen
-ausgezeichneten Angehörigen der %vam
-abgeben. Willkommen in der Familie.
-Man kennt mich als _questgiver_.
-Die %vam werden Euren Fortschritt
-weiterhin beobachten und Euch von Zeit
-zu Zeit in Familienangelegenheiten
-kontaktieren. Hier ist ein Ring, der Euch
-als einen der unsrigen kennzeichnet.
+<ce> Exzellent, %pcf. Ihr werdet einen
+<ce> ausgezeichneten Angehörigen der %vam
+<ce> abgeben. Willkommen in der Familie.
+<ce> Man kennt mich als _questgiver_.
+<ce> Die %vam werden Euren Fortschritt
+<ce> weiterhin beobachten und Euch von Zeit
+<ce> zu Zeit in Familienangelegenheiten
+<ce> kontaktieren. Hier ist ein Ring, der Euch
+<ce> als einen der unsrigen kennzeichnet.
 
 RumorsDuringQuest:  [1005]
 Man sagt, ___mondung_ werde wieder von irgendjemandem bewohnt ... oder irgendetwas.
@@ -101,6 +101,6 @@ Ein mageres, bleiches Kind überreicht
 Euch einen Brief und stürzt davon.
 
 Message:  1030
-Ihr habt den Vampir
-=monster_ getötet.
+<ce> Ihr habt den Vampir
+<ce> =monster_ getötet.
 

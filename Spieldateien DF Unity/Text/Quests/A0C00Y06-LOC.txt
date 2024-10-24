@@ -3,25 +3,25 @@ DisplayName: Eine unerwartete Reise
 QRC:
 
 QuestorOffer:  [1000]
-Mein Name ist _qgiver_.
-Mein Gebieter trug mir auf,
-einen wackeren Abenteurer
-für ein gefährliches Unterfangen
-zu finden. Mehr kann ich Euch
-nicht offenbaren, außer dass
-einige _gold_ Goldstücke auf Euch
-harren, so Ihr Erfolg habt.
-Seid Ihr geneigt, dies zu übernehmen?
+<ce> Mein Name ist _qgiver_.
+<ce> Mein Gebieter trug mir auf,
+<ce> einen wackeren Abenteurer
+<ce> für ein gefährliches Unterfangen
+<ce> zu finden. Mehr kann ich Euch
+<ce> nicht offenbaren, außer dass
+<ce> einige _gold_ Goldstücke auf Euch
+<ce> harren, so Ihr Erfolg habt.
+<ce> Seid Ihr geneigt, dies zu übernehmen?
 
 RefuseQuest:  [1001]
-So sei es, ich werde anderswo
-nach einem Helden suchen, der
-den Auftrag meines Gebieters
-erfüllen mag.
+<ce> So sei es, ich werde anderswo
+<ce> nach einem Helden suchen, der
+<ce> den Auftrag meines Gebieters
+<ce> erfüllen mag.
 
 AcceptQuest:  [1002]
-Begebt Euch zum _meetingplace_.
-Dort werdet Ihr meinen Gebieter antreffen.
+<ce> Begebt Euch zum _meetingplace_.
+<ce> Dort werdet Ihr meinen Gebieter antreffen.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -41,24 +41,24 @@ Message:  1011
  wir uns wiedersehen.
 
 Message:  1012
-Lernet mich kennen, wie ich
-wahrhaftig bin. Ich bin Euer
-ärgster Feind, _traitor_!
-Ich habe ein besonderes Missgeschick
-für Euch vorgesehen.
+<ce> Lernet mich kennen, wie ich
+<ce> wahrhaftig bin. Ich bin Euer
+<ce> ärgster Feind, _traitor_!
+<ce> Ich habe ein besonderes Missgeschick
+<ce> für Euch vorgesehen.
 
 Message:  1013
-Ich wusste nicht, dass _traitor_
-Euch derart hintergehen würde. Ich
-suche keinen Zwist mit Euch, %pcn.
-%g hat sich zum _hidingplace_
-in dieser Stadt begeben. Haltet dort
-Ausschau nach %g2.
+<ce> Ich wusste nicht, dass _traitor_
+<ce> Euch derart hintergehen würde. Ich
+<ce> suche keinen Zwist mit Euch, %pcn.
+<ce> %g hat sich zum _hidingplace_
+<ce> in dieser Stadt begeben. Haltet dort
+<ce> Ausschau nach %g2.
 
 Message:  1014
-Ich habe keine Ahnung, wie Ihr aus
-___dungeon_ entkommen
-konntet, %pcf. Es wird
-Euch nicht gut bekommen. Seid bereit
-zu sterben!
+<ce> Ich habe keine Ahnung, wie Ihr aus
+<ce> ___dungeon_ entkommen
+<ce> konntet, %pcf. Es wird
+<ce> Euch nicht gut bekommen. Seid bereit
+<ce> zu sterben!
 

@@ -3,38 +3,38 @@ DisplayName: Ein Daedraherz
 QRC:
 
 QuestorOffer:  [1000]
-Noch einmal müssen die ==questgiver_
-Euer Wohlwollen und Eure Tatkraft
-in Anspruch nehmen. Unser Zauberwerk
-erfordert ein Daedraherz, das Ihr
-gerade erst selbst entrissen habt.
-Würdet Ihr für Eure lieben Muhmen
-einen Daedra finden und töten?
+<ce> Noch einmal müssen die ==questgiver_
+<ce> Euer Wohlwollen und Eure Tatkraft
+<ce> in Anspruch nehmen. Unser Zauberwerk
+<ce> erfordert ein Daedraherz, das Ihr
+<ce> gerade erst selbst entrissen habt.
+<ce> Würdet Ihr für Eure lieben Muhmen
+<ce> einen Daedra finden und töten?
 
 RefuseQuest:  [1001]
-Nein? O kummervolle Nacht!
+<ce> Nein? O kummervolle Nacht!
 
 AcceptQuest:  [1002]
-Die Göttin ist uns wohlgesonnen, %pcn.
-Nicht weit von hier liegt ein Verlies,
-das die Daedra heimsuchen. Außer dem
-verwurmten Herz eines Dremora soll uns
-jedes Daedraherz genügen. So geht denn
-nach ___mondung_, %pcn,
-tötet einen Daedra und bringt uns das
-Herz vor =1stparton_ Sonnenuntergängen.
+<ce> Die Göttin ist uns wohlgesonnen, %pcn.
+<ce> Nicht weit von hier liegt ein Verlies,
+<ce> das die Daedra heimsuchen. Außer dem
+<ce> verwurmten Herz eines Dremora soll uns
+<ce> jedes Daedraherz genügen. So geht denn
+<ce> nach ___mondung_, %pcn,
+<ce> tötet einen Daedra und bringt uns das
+<ce> Herz vor =1stparton_ Sonnenuntergängen.
 
 QuestFail:  [1003]
-%pcn, das Herz schlägt in der Brust
-eines Daedra in ___mondung_.
-Sucht nicht hier danach.
+<ce> %pcn, das Herz schlägt in der Brust
+<ce> eines Daedra in ___mondung_.
+<ce> Sucht nicht hier danach.
 
 QuestComplete:  [1004]
-Seht wie es in den blutigen Händen von
-%pcn noch dampft und schlägt!
-Schnell in die Bracksuppe, bevor es auskühlt.
-Ah, %pcn, nehmt diesen _reward_
-für Eure Mühe. Ihr seid gut zu uns armen Hexen.
+<ce> Seht wie es in den blutigen Händen von
+<ce> %pcn noch dampft und schlägt!
+<ce> Schnell in die Bracksuppe, bevor es auskühlt.
+<ce> Ah, %pcn, nehmt diesen _reward_
+<ce> für Eure Mühe. Ihr seid gut zu uns armen Hexen.
 
 RumorsDuringQuest:  [1005]
 Die Daedra von ___mondung_ haben offenbar etwas vor. Was für eine Gemeinde!
@@ -52,16 +52,16 @@ Wenn sich die Sterne wie letzte Nacht verdunkeln, bedeutet das den Tod eines Dae
 Habt Ihr letzte Nacht auch Musik in den Wäldern gehört? Die Hexen müssen etwas feiern.
 
 QuestorPostsuccess:  [1008]
-Freund der ==questgiver_, wie steht es
-um Euch und Euren _reward_?
+<ce> Freund der ==questgiver_, wie steht es
+<ce> um Euch und Euren _reward_?
 
 QuestorPostfailure:  [1009]
-Wir hatten so auf ein Herz für unseren
-Eintopf gehofft, %pcf! Ihr
-hättet uns sagen sollen, dass Ihr zu
-beschäftigt wart. Pläne wurden geschmiedet
-und mussten zerschlagen werden. Ihr seid
-unser Freund, aber wir sind ... betrübt.
+<ce> Wir hatten so auf ein Herz für unseren
+<ce> Eintopf gehofft, %pcf! Ihr
+<ce> hättet uns sagen sollen, dass Ihr zu
+<ce> beschäftigt wart. Pläne wurden geschmiedet
+<ce> und mussten zerschlagen werden. Ihr seid
+<ce> unser Freund, aber wir sind ... betrübt.
 
 Message:  1011
 _questgiver_ lässt sich als =questgiver_ beschreiben und ist eine der ==questgiver_.
@@ -88,6 +88,6 @@ Message:  1015
  oder weniger in ___questgiver_ sein.
 
 Message:  1040
-Ihr reißt ein vollkommenes Herz
-aus dem noch zuckenden Körper.
+<ce> Ihr reißt ein vollkommenes Herz
+<ce> aus dem noch zuckenden Körper.
 

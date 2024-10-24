@@ -3,25 +3,25 @@ DisplayName: Ein Missverständnis
 QRC:
 
 QuestorOffer:  [1000]
-%oth, Ihr seht aus wie
-dieser %ra, %pcn.
-Seid Ihr das, %pcf?
+<ce> %oth, Ihr seht aus wie
+<ce> dieser %ra, %pcn.
+<ce> Seid Ihr das, %pcf?
 <--->
-Ihr seid nicht zufällig
-%pcn, oder?
+<ce> Ihr seid nicht zufällig
+<ce> %pcn, oder?
 <--->
-Wartet einen Moment. Ihr seid
-doch nicht %pcn, oder?
+<ce> Wartet einen Moment. Ihr seid
+<ce> doch nicht %pcn, oder?
 
 RefuseQuest:  [1001]
-Dann ist ja gut. War nur neugierig.
+<ce> Dann ist ja gut. War nur neugierig.
 <--->
-Okay. Nichts für ungut.
+<ce> Okay. Nichts für ungut.
 
 AcceptQuest:  [1002]
-"Dieb! Ihr wart es, der meinen
-_gem_ gestohlen hat! _guard_!
-Tötet diesen Abschaum!"
+<ce> "Dieb! Ihr wart es, der meinen
+<ce> _gem_ gestohlen hat! _guard_!
+<ce> Tötet diesen Abschaum!"
  
 Sowie Ihr die Anschuldigungen hört,
 wisst Ihr, dass sie falsch sind.
@@ -29,24 +29,24 @@ Ihr habt vielleicht hin und wieder
 ein paar Juwelen geklaut, aber in dieser
 Sache seid Ihr definitiv unschuldig.
 <--->
-"Ihr seid wirklich mutig, Euch hier
-blicken zu lassen, nachdem Ihr meinen
-_gem_ gestohlen habt! Mein Mitarbeiter
-=guard_ wird sich nun um Euch kümmern."
+<ce> "Ihr seid wirklich mutig, Euch hier
+<ce> blicken zu lassen, nachdem Ihr meinen
+<ce> _gem_ gestohlen habt! Mein Mitarbeiter
+<ce> =guard_ wird sich nun um Euch kümmern."
  
 Irgendetwas läuft hier falsch. Diese Person
 hat keinen Grund, Euch zu beschuldigen.
 
 QuestComplete:  [1004]
-"Also wart nicht Ihr es, der meinen
-_gem_ gestohlen hat. %oth,
-Ich schäme mich dafür, diese falschen
-Anschuldigungen gegen Euch erhoben zu
-haben. Hier, bitte akzeptiert dieses
-_reward_ als meine Entschuldigung.
-Ich werde sicherstellen, dass die Wachen
-von %cn wissen, dass Ihr ein unschuldiger
-%ra seid."
+<ce> "Also wart nicht Ihr es, der meinen
+<ce> _gem_ gestohlen hat. %oth,
+<ce> Ich schäme mich dafür, diese falschen
+<ce> Anschuldigungen gegen Euch erhoben zu
+<ce> haben. Hier, bitte akzeptiert dieses
+<ce> _reward_ als meine Entschuldigung.
+<ce> Ich werde sicherstellen, dass die Wachen
+<ce> von %cn wissen, dass Ihr ein unschuldiger
+<ce> %ra seid."
  
 Ihr wisst in Eurem Herzen, dass, sogar wenn
 _qgiver_ sein Wort für Euch einlegt,
@@ -75,8 +75,8 @@ QuestorPostsuccess:  [1008]
 Ich fühle mich immer noch furchtbar, weil ich Euch fälschlicherweise beschuldigt habe, %pcf.
 
 QuestorPostfailure:  [1009]
-Dieb! Dieb! Raus hier
-oder ich rufe die Wachen!
+<ce> Dieb! Dieb! Raus hier
+<ce> oder ich rufe die Wachen!
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -95,7 +95,7 @@ Der arme _qgiver_ hat %g3 _gem_ verloren. Ein Zeuge sah einen %ra wie Euch im __
 _qgiver_ versucht immer noch, den %ra aufzuspüren, der dieses Juwel gestohlen hat.
 
 Message:  1012
-_merchant_ ist ein hart arbeitender und im Prinzip ehrlicher Händler von ___merchant_.
+_merchant_ ist ein hart arbeitender und im Prinzip ehrlicher Händler von __merchanthome_.
 <--->
 Ist keiner, der seinen Kunden zuviel berechnet, dieser _merchant_. Zumindest nicht viel zu viel.
 <--->
@@ -106,11 +106,11 @@ Wie _priest_ gesagt hat, _merchant_ ist eine Schande für ganz %reg.
 _merchant_ kommt mit fast allen gut aus, aber %g mag _thief_ nicht.
 
 Message:  1013
-_noble_ ist ein Adliger von ___noble_. %oth, %g3 Familie regierte seit Ewigkeiten.
+_noble_ ist ein Adliger von __noblehome_. %oth, %g3 Familie regiert seit Ewigkeiten.
 <--->
-_noble_ ist das typische Beispiel fuer Personen %g3 Standes -- dekadent, skrupellos, arrogant.
+_noble_ ist das typische Beispiel für Personen %g3 Standes -- dekadent, skrupellos, arrogant.
 <--->
-_noble_ ist um diese Tageszeit in der __noblehome_, in __noblehome_.
+_noble_ ist um diese Tageszeit in der _noblehome_, in __noblehome_.
 <--->
 _thief_ mag _noble_ nicht besonders, im Gegensatz zu allen anderen.
 <--->
@@ -123,16 +123,16 @@ _priest_ ist über die Skandale hinausgewachsen, die %g2 in der Anfangszeit im =
 <--->
 Man findet _priest_ um diese Zeit normalerweise in Mediation versunken im _priesthome_, in __priesthome_.
 <--->
-So gut wie jeder in ___priest_, außer _noble_, hat großen Respekt vor _priest_.
+So gut wie jeder in __priesthome_, außer _noble_, hat großen Respekt vor _priest_.
 <--->
 Die einzige Person, die _priest_ offensichtlich nicht ausstehen kann, ist dieser =merchant_, _merchant_.
 
 Message:  1015
 _thief_, nun, %g ist ein Juwelendieb im Ruhestand. Oder quasi im Ruhestand, wie ich gehört habe.
 <--->
-_thief_ war vor einiger Zeit ein respektabler Juwelendieb in ___thief_.
+_thief_ war vor einiger Zeit ein respektabler Juwelendieb in __thiefhome_.
 <--->
-Jemand hat mir erzählt, dass _thief_ jeden Tag um diese Zeit durch __thief_ schleicht.
+Jemand hat mir erzählt, dass _thief_ jeden Tag um diese Zeit durch _thiefhome_ schleicht.
 <--->
 _merchant_ glaubt nicht, dass _thief_ %g3 Lebensart geändert hat.
 <--->
@@ -144,9 +144,9 @@ _witness_ ist der Name dieses =witness_, der den Diebstahl im __qgiver_ beobacht
 _witness_ ist nur ein =witness_. Ihr findet %g2 drüben in der__witness_, ___witness_.
 
 Message:  1017
-Ein zerlumpter Bettlerjunge drückt Euch plötzlich
-einen Brief in die Hände und verschwindet, bevor
-Ihr Zeit habt, ihn zu befragen.
+<ce> Ein zerlumpter Bettlerjunge drückt Euch plötzlich
+<ce> einen Brief in die Hände und verschwindet, bevor
+<ce> Ihr Zeit habt, ihn zu befragen.
 
 Message:  1018
 %pcn,
@@ -160,7 +160,7 @@ Message:  1018
  denken wir, es wäre am besten, wenn Ihr den wahren
  Akteur vor den Augen und Schlingen der Öffentlichkeit
  enthüllen würdet.
-
+ 
       Die Person, mit der zu sprechen es für Euch am
  aussichtsreichsten wäre, ist _witness_, ein
  =witness_, der vermutlich im _inn_ herumlümmelt.
@@ -175,7 +175,7 @@ Message:  1018
  nichts Ermüdenderes, als mutwilliger, teuflischer
  Gier angeklagt zu werden, die doch ganz und gar
  untypisch für Euch ist.
-
+ 
   -- Die Totenbeschwörer
 
 Message:  1019
@@ -189,12 +189,13 @@ Message:  1019
  ob %g für einen Eurer oder unserer Feinde arbeitet,
  oder gänzlich unschuldig ist, aber %g war angeblich
  Zeuge Eures Diebstahls im __qgiver_.
+ 
       Seid behutsam, wenn Ihr mit _witness_
  sprecht -- %g hat vielleicht mächtige Verbündete.
  Die sicherste Vorgehensweise wäre wohl, in der
  Öffentlichkeit mit %g2 zu sprechen. Ich hörte,
  %g besucht oft das _inn_ in __inn_.
-
+ 
   -- Die Agenten
 
 Message:  1020
@@ -210,11 +211,11 @@ Message:  1020
  solchen Schwierigkeiten. Ihr seid ein kluges
  Kerlchen, klug genug, um damit davonzukommen. Aber
  jemand will Euch etwas anhaengen.
-
+ 
       Die Person, die einen %ra, der so aussah
  wie Ihr, beobachtet hat, wie er den _gem_
  gestohlen hat, ist ein gewisser =witness_
- namens  _witness_. Ich kann Euch nicht sagen, ob
+ namens _witness_. Ich kann Euch nicht sagen, ob
  %g die Wahrheit spricht oder nicht, ob %g wirklich
  jemanden gesehen hat, der so aussieht wie Ihr, aber
  wir denken, Ihr könnt diese Erkundigungen selbst
@@ -231,11 +232,11 @@ Lieber Freund,
       ich weiss, dass Ihr es nicht wart. Ihr habt
  diesen _gem_ genausowenig aus __qgiver_
  gestohlen wie ich. Wen ich verdächtige? Nun, da
- gibt es diesen =priest_ in ___priest_,
+ gibt es diesen =priest_ in __priesthome_,
  der so gerne Juwelen stiehlt und es anderen Leuten
  anhängt, wie ich an einem heißen Sommertag ein
  kühles Bier trinke.
-
+ 
       Ich habe keine Beweise, aber vielleicht würdet
  Ihr %g2 gerne befragen. Der Name des Klerikers
  ist _priest_. Viel Glück.
@@ -256,7 +257,7 @@ Message:  1022
  beschuldigen, wenn %g mit den Fingern in der
  Keksdose erwischt wurde. So wurde ich aus dem Weg
  geräumt.
-
+ 
       Wenn ich Ihr wäre, würde ich nachsehen,
  ob nicht mein alter Freund etwas mit dem
  Diebstahl im __qgiver_ zu tun hat.
@@ -273,14 +274,14 @@ Seid gegrüßt %pcn,
  Einbruch im __qgiver_ verantwortlich seid,
  aber solange Ihr Eure Unschuld nicht bewiesen
  habt, werdet Ihr weiterhin verfolgt werden.
-
+ 
       Ich kenne einen =noble_, von
  dem ich glaube, dass er mehr über diese Affäre
  weiß, als die meisten anderen. Es wäre möglich,
  dass %g dieses Verbrechen angeordnet oder sogar
  selbst begangen hat. Ich kann jetzt nicht mehr
  sagen, außer dass %g3 Name _noble_
- ist und %g in ___noble_ wohnt.
+ ist und %g in __noblehome_ wohnt.
  
       Und noch eine letzte Sache: %g hat sehr
  mächtige Verbündete. Trefft %g2 nicht ohne Euch
@@ -294,39 +295,39 @@ Seid gegrüßt %pcn,
       es interessiert Euch vielleicht, dass es
  zumindest eine Person gibt, die nicht denkt,
  dass Ihr es getan habt. Oder vielleicht sollte
- ich sagen, zwei Leute in ___thief_
+ ich sagen, zwei Leute in __thiefhome_
  denken nicht, dass Ihr es wart. Ich und der,
  der es war -- ein =thief_, der
  den Diebstahl wirklich begangen hat.
-
+ 
       Nun, es ist wahr, dass ich keine
  Beweise habe, aber _thief_, das ist
  der =thief_, hat schon einmal einen
  Juwelenraub wie diesen begangen. %oth,
  %g hat deswegen sogar eine Zeit im
  Kerker verbracht.
-
+ 
       Es ist so, vielleicht war _thief_
  es nicht. Vielleicht. Aber auch wenn %g es
  nicht war, kann ich Euch eines sagen -- %g
  weiß mehr darüber, wer es wirklich war, als
  Ihr. Wenn Ihr also herausfinden wollt, wer es war
  und wer Euch etwas anhängen will, geht und findet
- diesen  _thief_ und fragt %g2 aus.
+ diesen _thief_ und fragt %g2 aus.
 
   -- Ein Freund
 
 Message:  1025
-"Ihr seid es! Ihr seid der Dieb, der das
-__qgiver_ ausgeraubt hat!
-Wachen! Wachen!"
+<ce> "Ihr seid es! Ihr seid der Dieb, der das
+<ce> __qgiver_ ausgeraubt hat!
+<ce> Wachen! Wachen!"
  
 _witness_ schiebt Euch eine
 Nachricht zu, als %g flieht.
 <--->
-"Das ist der %ra , der das
-__qgiver_ ausgeraubt hat!
-Jemand muss mir helfen!"
+<ce> "Das ist der %ra , der das
+<ce> __qgiver_ ausgeraubt hat!
+<ce> Jemand muss mir helfen!"
  
 _witness_ schiebt Euch eine
 Nachricht zu, als %g flieht.
@@ -350,7 +351,7 @@ Message:  1027
  _witness_ könnte ein unschuldiger Passant
  oder ein Agent einer meiner Feinde sein. Ich
  werde es erst wissen, wenn ich mit %g2
- im "_inn_" hier in ___witness_
+ im "_inn_" hier in __inn_
  gesprochen habe.
 
 Message:  1028
@@ -367,7 +368,7 @@ Message:  1029
 %qdt:
  Ich erhielt einen Brief von einem
  anonymen Freund, in dem ein
- =priest_ namens  _priest_
+ =priest_ namens _priest_
  als möglicher Agent hinter dem
  _gem_-Raub identifiziert wird, der
  mir vorgeworfen wird.
@@ -385,7 +386,7 @@ Message:  1031
 %qdt:
  Dem Brief zufolge, der mir anonym gesannt
  wurde, lebt ein Aristokrat namens _noble_
- in ___noble_, der eventuell einiges
+ in __noblehome_, der eventuell einiges
  darüber weiß, was wirklich im __qgiver_
  geschehen ist.
 
@@ -394,8 +395,8 @@ Message:  1032
  Mir wurde aus anonymer Quelle ein Brief
  gesannt, der jemanden namens _thief_
  als notorischen Juwelendieb identifiziert,
- der gleich in ___thief_ wohnt. Auch wenn
- %g __qgiver_ nicht  ausgeraubt
+ der gleich in __thiefhome_ wohnt. Auch wenn
+ %g __qgiver_ nicht ausgeraubt
  haben sollte, könnte eine Unterredung vielleicht
  enthüllen, wer es war.
 
@@ -405,7 +406,7 @@ Message:  1033
  Trefft mich in der _withouse_,
  hier in __withouse_.
  
-_witness_
+<ce> _witness_
 
 Message:  1034
 %qdt:
@@ -417,165 +418,165 @@ Message:  1034
  namens _withouse_ zu treffen.
 
 Message:  1035
-%god sei Dank habt Ihr meine Nachricht
-entdeckt. Bitte verzeiht, dass ich die Wachen
-gerufen habe, aber ich darf nicht gesehen
-werden, wenn ich mit Euch spreche. Hört zu,
-ich habe nicht viel Zeit, aber ich weiß, dass
-Ihr es nicht wart. Ich habe die Wahrheit gesagt,
-als ich erzählt habe, dass ich einen %ra,
-der so aussieht wie Ihr, gesehen habe, als der
-_gem_ aus __qgiver_ gestohlen
-wurde, aber dann sah ich auch noch etwas
-anderes. Es gibt da einen =merchant_
-namens _merchant_, der, wie ich glaube,
-herausgefunden hat, dass Ihr in der Stadt seid und
-jemanden, der Euch sehr ähnlich sieht, angeheuert
-hat, um diesen _gem_ zu stehlen und zu verstecken.
-Wenn Ihr Euren Namen reinwaschen wollt, holt das
-Juwel aus ___mondung_, wo _merchant_ 
-es versteckt hat oder seht nach, ob Ihr weitere
-Beweise in der _thiefhouse_, wo
-_merchant_ manchmal herumhängt,
-weitere Beweise finden könnt. Nun, ich muss gehen.
-Viel Glück.
+<ce> %god sei Dank habt Ihr meine Nachricht
+<ce> entdeckt. Bitte verzeiht, dass ich die Wachen
+<ce> gerufen habe, aber ich darf nicht gesehen
+<ce> werden, wenn ich mit Euch spreche. Hört zu,
+<ce> ich habe nicht viel Zeit, aber ich weiß, dass
+<ce> Ihr es nicht wart. Ich habe die Wahrheit gesagt,
+<ce> als ich erzählt habe, dass ich einen %ra,
+<ce> der so aussieht wie Ihr, gesehen habe, als der
+<ce> _gem_ aus __qgiver_ gestohlen
+<ce> wurde, aber dann sah ich auch noch etwas
+<ce> anderes. Es gibt da einen =merchant_
+<ce> namens _merchant_, der, wie ich glaube,
+<ce> herausgefunden hat, dass Ihr in der Stadt seid und
+<ce> jemanden, der Euch sehr ähnlich sieht, angeheuert
+<ce> hat, um diesen _gem_ zu stehlen und zu verstecken.
+<ce> Wenn Ihr Euren Namen reinwaschen wollt, holt das
+<ce> Juwel aus ___mondung_, wo _merchant_ 
+<ce> es versteckt hat oder seht nach, ob Ihr weitere
+<ce> Beweise in der _thiefhouse_, wo
+<ce> _merchant_ manchmal herumhängt,
+<ce> weitere Beweise finden könnt. Nun, ich muss gehen.
+<ce> Viel Glück.
 
 Message:  1036
-Hört zu, Ihr müsst mir glauben. Ich habe
-wirklich einen %ra wie Euch den _gem_
-nehmen sehen und dachte, Ihr wärt es. Aber
-das war, bevor ich den Cousin von _noble_
-aus ___noble_ sah. Dieser Kerl sieht fast
-genau wie Ihr aus und ich habe erfahren, dass
-_noble_ %g3 erst kürzlich nach
-___mondung_ geschickt hat. Das waäre ein
-fantasticher Ort, um einen _gem_ zu verstecken.
-Der einzige andere gute Ort wäre wohl die
-_thiefhouse_, wo _noble_ die Nacht verbringt.
-In dem Moment, in dem ich diesen Cousin gesehen
-hatte, wusste ich, dass Ihr unschuldig seid. Aber
-Ihr werdet die Beweise selbst besorgen müssen.
-Ich muss nun gehen, Viel Glück, Freund.
+<ce> Hört zu, Ihr müsst mir glauben. Ich habe
+<ce> wirklich einen %ra wie Euch den _gem_
+<ce> nehmen sehen und dachte, Ihr wärt es. Aber
+<ce> das war, bevor ich den Cousin von _noble_
+<ce> aus __noblehome_ sah. Dieser Kerl sieht fast
+<ce> genau wie Ihr aus und ich habe erfahren, dass
+<ce> _noble_ %g3 erst kürzlich nach
+<ce> ___mondung_ geschickt hat. Das waäre ein
+<ce> fantasticher Ort, um einen _gem_ zu verstecken.
+<ce> Der einzige andere gute Ort wäre wohl die
+<ce> _thiefhouse_, wo _noble_ die Nacht verbringt.
+<ce> In dem Moment, in dem ich diesen Cousin gesehen
+<ce> hatte, wusste ich, dass Ihr unschuldig seid. Aber
+<ce> Ihr werdet die Beweise selbst besorgen müssen.
+<ce> Ich muss nun gehen, Viel Glück, Freund.
 
 Message:  1037
-Ich habe nicht gelogen, als ich sagte, dass ich
-jemanden, der wie Ihr aussieht, gesehen hätte,
-als der _gem_ aus __qgiver_ gestohlen
-wurde. Dann habe ich diesen %ra erneut gesehen,
-in __priest_, wo er mit einem der Priester,
-_priest_, sprach. Ich hörte sie irgendetwas
-über ___mondung_ sagen und folgte
-dem %ra dann zur _thiefhouse_. Von dort
-zog der %ra dann weiter nach ___mondung_.
-Ein paar Minuten danach kamt Ihr in meine Taverne.
-Niemand wird meinen oder Euren Anschuldigen
-gegen _priest_ Glauben schenken. Ihr werdet
-ein paar Beweise finden müssen, um Euren Namen
-reinzuwaschen, entweder in ___mondung_
-oder in der _thiefhouse_.
-Viel Glück.
+<ce> Ich habe nicht gelogen, als ich sagte, dass ich
+<ce> jemanden, der wie Ihr aussieht, gesehen hätte,
+<ce> als der _gem_ aus __qgiver_ gestohlen
+<ce> wurde. Dann habe ich diesen %ra erneut gesehen,
+<ce> in __priest_, wo er mit einem der Priester,
+<ce> _priest_, sprach. Ich hörte sie irgendetwas
+<ce> über ___mondung_ sagen und folgte
+<ce> dem %ra dann zur _thiefhouse_. Von dort
+<ce> zog der %ra dann weiter nach ___mondung_.
+<ce> Ein paar Minuten danach kamt Ihr in meine Taverne.
+<ce> Niemand wird meinen oder Euren Anschuldigen
+<ce> gegen _priest_ Glauben schenken. Ihr werdet
+<ce> ein paar Beweise finden müssen, um Euren Namen
+<ce> reinzuwaschen, entweder in ___mondung_
+<ce> oder in der _thiefhouse_.
+<ce> Viel Glück.
 
 Message:  1038
-Ich nehme an, Ihr habt meine Nachricht erhalten.
-Es tut mir wirklich Leid, dass all dies passiert ist,
-%pcf, doch ich habe wirklich jemanden den
-_gem_ vom __qgiver_ stehlen sehen, der
-genauso aussieht wie Ihr. Die Person, die es getan
-hat, ist ein Meister der Verkleidung, ein Meisterdieb
-namens _thief_. Kurz nach dem Diebstahl,
-ging ich an der _thiefhouse_
-vorbei, als ich eine Stimme hörte, die ich als die
-des Diebes erkannte und die etwas über ein Versteck
-in ___mondung_ erzählte. Als ich sah, wer
-da sprach, erkannte ich den renommierten _thief_.
-Heute ist %g ein respektables Mitglied der
-Gemeinschaft und Ihr werdet Beweise brauchen,
-um %g2 zu überführen. Ich kann Euch dabei nicht
-helfen, aber ich kann mir gut vorstellen, dass das
-was Ihr braucht in der _thiefhouse_
-und in ___mondung_ zu finden ist.
-Viel Glück.
+<ce> Ich nehme an, Ihr habt meine Nachricht erhalten.
+<ce> Es tut mir wirklich Leid, dass all dies passiert ist,
+<ce> %pcf, doch ich habe wirklich jemanden den
+<ce> _gem_ vom __qgiver_ stehlen sehen, der
+<ce> genauso aussieht wie Ihr. Die Person, die es getan
+<ce> hat, ist ein Meister der Verkleidung, ein Meisterdieb
+<ce> namens _thief_. Kurz nach dem Diebstahl,
+<ce> ging ich an der _thiefhouse_
+<ce> vorbei, als ich eine Stimme hörte, die ich als die
+<ce> des Diebes erkannte und die etwas über ein Versteck
+<ce> in ___mondung_ erzählte. Als ich sah, wer
+<ce> da sprach, erkannte ich den renommierten _thief_.
+<ce> Heute ist %g ein respektables Mitglied der
+<ce> Gemeinschaft und Ihr werdet Beweise brauchen,
+<ce> um %g2 zu überführen. Ich kann Euch dabei nicht
+<ce> helfen, aber ich kann mir gut vorstellen, dass das
+<ce> was Ihr braucht in der _thiefhouse_
+<ce> und in ___mondung_ zu finden ist.
+<ce> Viel Glück.
 
 Message:  1039
-Wie ich sehe, habt Ihr meine Nachricht bekommen.
-Hört mir zu, %pcf, ich weiß, dass nicht Ihr in
-__qgiver_ eingebrochen seid, aber Ihr
-müsst verstehen, dass mein Leben kein Stück
-Silber mehr wert ist, wenn man mich mit Euch sprechen
-sehen würde. Ich arbeite für _merchant_,
-was Euch vielleicht nichts sagt, aber glaubt mir,
-%g führt ganz ___merchant_ praktisch alleine.
-Wenn Ihr Euren Namen reinwaschen und meinen
-Arbeitgeber belasten wollt, werdet Ihr ein paar sehr
-überzeugende Beweise finden müssen. Wenn ich Ihr
-wäre, würde ich entweder diese Region verlassen
-oder in der _thiefhouse_, %g3 Haus in der Stadt,
-nach Hinweisen oder in ___mondung_
-nach dem Versteck für %g3 Schätze suchen.
-Jetzt muss ich aber gehen. Ihr habt mich
-niemals gesehen, %pcf.
+<ce> Wie ich sehe, habt Ihr meine Nachricht bekommen.
+<ce> Hört mir zu, %pcf, ich weiß, dass nicht Ihr in
+<ce> __qgiver_ eingebrochen seid, aber Ihr
+<ce> müsst verstehen, dass mein Leben kein Stück
+<ce> Silber mehr wert ist, wenn man mich mit Euch sprechen
+<ce> sehen würde. Ich arbeite für _merchant_,
+<ce> was Euch vielleicht nichts sagt, aber glaubt mir,
+<ce> %g führt ganz __merchanthome_ praktisch alleine.
+<ce> Wenn Ihr Euren Namen reinwaschen und meinen
+<ce> Arbeitgeber belasten wollt, werdet Ihr ein paar sehr
+<ce> überzeugende Beweise finden müssen. Wenn ich Ihr
+<ce> wäre, würde ich entweder diese Region verlassen
+<ce> oder in der _thiefhouse_, %g3 Haus in der Stadt,
+<ce> nach Hinweisen oder in ___mondung_
+<ce> nach dem Versteck für %g3 Schätze suchen.
+<ce> Jetzt muss ich aber gehen. Ihr habt mich
+<ce> niemals gesehen, %pcf.
 
 Message:  1040
-Hört zu, hört gut zu, %pcf.
-Ich weiß, was wirklich passiert ist. Ich habe
-den Einbruch im __qgiver_ beobachtet,
-aber ich wusste, dass, hätte ich die Wahrheit
-darüber gesagt, wer es wirklich war, mir
-niemand geglaubt hätte und ich wahrscheinlich
-wegen Hochverrats gehängt worden wäre.
-Also habe ich allen erzählt, dass es ein Fremder war.
-Genauer gesagt, Ihr. Der wahre Dieb ist jemand, der
-über jeden Verdacht erhaben ist -- _noble_
-aus dem königlichen Haus von %reg. Ihr werdet
-Beweise brauchen, um es zu beweisen und ich werde
-nicht weiter meinen Hals riskieren. Das Einzige, was
-ich Euch nach sagen kann, ist, dass _noble_
-%g3 Wochenenden gerne an einem Ort namens
-___mondung_ und nachts in der
-_thiefhouse_ verbringt. Ich hoffe
-Ihr könnt an einem dieser Orte irgendwelche
-Beweise finden. Viel Glück und es tut mir Leid.
+<ce> Hört zu, hört gut zu, %pcf.
+<ce> Ich weiß, was wirklich passiert ist. Ich habe
+<ce> den Einbruch im __qgiver_ beobachtet,
+<ce> aber ich wusste, dass, hätte ich die Wahrheit
+<ce> darüber gesagt, wer es wirklich war, mir
+<ce> niemand geglaubt hätte und ich wahrscheinlich
+<ce> wegen Hochverrats gehängt worden wäre.
+<ce> Also habe ich allen erzählt, dass es ein Fremder war.
+<ce> Genauer gesagt, Ihr. Der wahre Dieb ist jemand, der
+<ce> über jeden Verdacht erhaben ist -- _noble_
+<ce> aus dem königlichen Haus von %reg. Ihr werdet
+<ce> Beweise brauchen, um es zu beweisen und ich werde
+<ce> nicht weiter meinen Hals riskieren. Das Einzige, was
+<ce> ich Euch nach sagen kann, ist, dass _noble_
+<ce> %g3 Wochenenden gerne an einem Ort namens
+<ce> ___mondung_ und nachts in der
+<ce> _thiefhouse_ verbringt. Ich hoffe
+<ce> Ihr könnt an einem dieser Orte irgendwelche
+<ce> Beweise finden. Viel Glück und es tut mir Leid.
 
 Message:  1041
-Hi, %pcf. Ich konnte in der Taverne
-nicht mit Euch sprechen -- nicht in der
-Öffentlichkeit. Ich war wirklich dabei,
-als in __qgiver_ eingebrochen wurde.
-Um ehrlich zu sein, ich war es. Aber
-derjenige, der mich bezahlt hat, es zu
-tun, war _priest_, ein Priester von ==priest_.
-Aber es wird Euch natürlich niemand glauben,
-wenn Ihr einfach auf die Straße geht und es
-herumerzählt. Ihr werdet Beweise brauchen.
-Ich kann Euch sagen, dass ich den _gem_
-an einem Ort namens ___mondung_
-versteckt habe, aber einfach nur das Juwel 
-wiederzubeschaffen, wird niemanden überzeugen.
-Durchsucht die _thiefhouse_ --
-_priest_ verbringt nachts viel Zeit dort. Vielleicht
-könnt Ihr dort etwas gegen %g2 finden. Aber
-nun muss ich gehen. Ich werde alles Gesagte
-abstreiten, aber vorerst wünsche ich Euch
-viel Glück.
+<ce> Hi, %pcf. Ich konnte in der Taverne
+<ce> nicht mit Euch sprechen -- nicht in der
+<ce> Öffentlichkeit. Ich war wirklich dabei,
+<ce> als in __qgiver_ eingebrochen wurde.
+<ce> Um ehrlich zu sein, ich war es. Aber
+<ce> derjenige, der mich bezahlt hat, es zu
+<ce> tun, war _priest_, ein Priester von ==priest_.
+<ce> Aber es wird Euch natürlich niemand glauben,
+<ce> wenn Ihr einfach auf die Straße geht und es
+<ce> herumerzählt. Ihr werdet Beweise brauchen.
+<ce> Ich kann Euch sagen, dass ich den _gem_
+<ce> an einem Ort namens ___mondung_
+<ce> versteckt habe, aber einfach nur das Juwel 
+<ce> wiederzubeschaffen, wird niemanden überzeugen.
+<ce> Durchsucht die _thiefhouse_ --
+<ce> _priest_ verbringt nachts viel Zeit dort. Vielleicht
+<ce> könnt Ihr dort etwas gegen %g2 finden. Aber
+<ce> nun muss ich gehen. Ich werde alles Gesagte
+<ce> abstreiten, aber vorerst wünsche ich Euch
+<ce> viel Glück.
 
 Message:  1042
-Nein, ich weiß, Ihr habt es nicht getan, %pcf.
-Es war ein =thief_, bekannt unter dem Namen,
-_thief_. Die meisten Einwohner von ___thief_
-wissen, dass %g früher mal ein Dieb war,
-aber sie denken, %g hat sich zu einem Leben
-ehrlicher Arbeit entschlossen. Ich kann Euch sagen,
-dass es nicht so ist. Versteht Ihr, %g sucht sich
-einen Fremden in der Stadt, dem %g die Schuld
-zuschieben für all %g3 Verbrechen zuschieben
-kann, damit %g über jeden Verdacht erhaben bleibt.
-Wie es mir gefallen würde, zu sehen, wie %g geschnappt
-wird, aber Ihr werdet eindeutige Beweise brauchen.
-Die meisten Nächte verbringt %g an einem Ort namens
-_thiefhouse_, also würde ich entweder
-dort nachsehen, oder in %g3 alten Unterschlupf,
-___mondung_. Passt auf Euch auf,
-%pcf, und viel Glück.
+<ce> Nein, ich weiß, Ihr habt es nicht getan, %pcf.
+<ce> Es war ein =thief_, bekannt unter dem Namen,
+<ce> _thief_. Die meisten Einwohner von __thiefhome_
+<ce> wissen, dass %g früher mal ein Dieb war,
+<ce> aber sie denken, %g hat sich zu einem Leben
+<ce> ehrlicher Arbeit entschlossen. Ich kann Euch sagen,
+<ce> dass es nicht so ist. Versteht Ihr, %g sucht sich
+<ce> einen Fremden in der Stadt, dem %g die Schuld
+<ce> zuschieben für all %g3 Verbrechen zuschieben
+<ce> kann, damit %g über jeden Verdacht erhaben bleibt.
+<ce> Wie es mir gefallen würde, zu sehen, wie %g geschnappt
+<ce> wird, aber Ihr werdet eindeutige Beweise brauchen.
+<ce> Die meisten Nächte verbringt %g an einem Ort namens
+<ce> _thiefhouse_, also würde ich entweder
+<ce> dort nachsehen, oder in %g3 alten Unterschlupf,
+<ce> ___mondung_. Passt auf Euch auf,
+<ce> %pcf, und viel Glück.
 
 Message:  1043
 %qdt:
@@ -627,12 +628,12 @@ Message:  1046
  oder an beiden Orten.
 
 Message:  1047
-Ihr habt den _gem_  gefunden,
+Ihr habt den _gem_ gefunden,
 der aus __qgiver_ gestohlen wurde.
 
 Message:  1048
 _merchant_
- ___merchant_
+ __merchanthome_
  
  Seid gegrüßt _merchant_,
  
@@ -659,11 +660,11 @@ _merchant_
 
       Auf bald, mein Freund.
 
-  -- %n
+<ce>  -- %n
 
 Message:  1049
 _noble_
- ___noble_
+ __noblehome_
  
  Seid gegrüßt _noble_,
  
@@ -688,19 +689,19 @@ _noble_
       Nichtsdestotrotz, der _gem_ war eine
  sehr nette Geste und ich danke Euch.
 
-  In Liebe,
-    -- %n
+       In Liebe,
+<ce>  -- %n
 
 Message:  1050
 _priest_
- ___priest_
+ __priesthome_
  
  Seid gegrüßt _priest_,
  
       Vergesst meinen letzten Brief, in dem ich Euch
  zu Eurem enormen Beitrag zum ==priest_ gratuliert
  habe. Dieser _gem_, von dem Ihr sagtet, er wäre
- gespendet worden, wurde  _qgiver_ gestohlen.
+ gespendet worden, wurde _qgiver_ gestohlen.
  Unser Ansehen in %reg würde schwer darunter zu
  leiden haben, wenn bekannt würde, dass dieses
  Juwel für unseren Tempel gestohlen wurde.
@@ -719,14 +720,14 @@ _priest_
     ==priest_
 
 Message:  1051
-_thiefhouse_
- ___thief_
+_thief_
+ __thiefhome_
  
  Seid gegrüßt _thief_,
  
       also seid Ihr wieder im Geschäft, oder nicht?
  Als ich von dieser Sache im __qgiver_
- hörte, spürte ich einen angenehmen Hauch  von
+ hörte, spürte ich einen angenehmen Hauch von
  Nostalgie. Ich werde die guten, alten Tage
  wohl nie gänzlich vergessen, in denen wir zwei
  Partner waren. Genausowenig wie ich vergessen
@@ -747,83 +748,83 @@ _thiefhouse_
   %n
 
 Message:  1052
-Dies scheint mir ein schwerwiegender Beweis.
-Hoffentlich vermögt Ihr einen Freund von
-_qgiver_ aufzutreiben, der %g2 nach
-dem Lesen hiervon überzeigt, aus
-seinem Versteck heraus zu kommen.
+<ce> Dies scheint mir ein schwerwiegender Beweis.
+<ce> Hoffentlich vermögt Ihr einen Freund von
+<ce> _qgiver_ aufzutreiben, der %g2 nach
+<ce> dem Lesen hiervon überzeugt, aus
+<ce> seinem Versteck heraus zu kommen.
 
 Message:  1053
-_noble_ steckte hinter dem Einbruch?
-Gut, gut, gut. Ich sage Euch, was als nächstes zu
-tun ist. Ich werde mit %g3 Familie sprechen -- sie
-wird darauf erpicht sein, diese Situation so sauber
-als möglich zu entschärfen. Ihr bringt den _gem_
-zurück _qgiver_ in __qgiver_, damit
-%g zufrieden ist. Was dieser _noble_
-doch für ein Amateur-Dieb ist.
+<ce> _noble_ steckte hinter dem Einbruch?
+<ce> Gut, gut, gut. Ich sage Euch, was als nächstes zu
+<ce> tun ist. Ich werde mit %g3 Familie sprechen -- sie
+<ce> wird darauf erpicht sein, diese Situation so sauber
+<ce> als möglich zu entschärfen. Ihr bringt den _gem_
+<ce> zurück _qgiver_ in __qgiver_, damit
+<ce> %g zufrieden ist. Was dieser _noble_
+<ce> doch für ein Amateur-Dieb ist.
 
 Message:  1054
-Also steckt _thief_ hinter dem
-Einbruch, der beinahe mein Geschäft
-ruiniert hätte, eh? Und nun will %g ihn Euch
-in die Schuhe schieben. Gut, ich werde zur
-Obrigkeit sprechen und auch mit diesem Freund
-von %g2. Alles, was ich von Euch brauche, ist
-dieser _gem_. Bringt ihn zu _qgiver_
-in __qgiver_ und das wird nicht nur
-diese ganze Sache aufklären, sondern
-auch %g2 Meinung ueber Euch verbessern.
+<ce> Also steckt _thief_ hinter dem
+<ce> Einbruch, der beinahe mein Geschäft
+<ce> ruiniert hätte, eh? Und nun will %g ihn Euch
+<ce> in die Schuhe schieben. Gut, ich werde zur
+<ce> Obrigkeit sprechen und auch mit diesem Freund
+<ce> von %g2. Alles, was ich von Euch brauche, ist
+<ce> dieser _gem_. Bringt ihn zu _qgiver_
+<ce> in __qgiver_ und das wird nicht nur
+<ce> diese ganze Sache aufklären, sondern
+<ce> auch %g2 Meinung ueber Euch verbessern.
 
 Message:  1055
-Bei %god, dies ist keine Fälschung!
-Der Verfasser hat recht. _merchant_
-hat Grund mich zu fürchten.
-Der ==priest_ wird dafür sorgen,
-dass _merchant_ angemessen
-der Prozess gemacht wird, aber wir
-müssen dafür sorgen, dass Ihr nicht
-für einen Mitschuldigen gehalten werdet.
-Wenn Ihr diesen _gem_ besorgt und
-zu _qgiver_ bringt, können wir
-uns %g3 Wohlwollen sicher sein,
-das wir brauchen. Bringt __qgiver_
-schnell diesen _gem_, %pcf.
+<ce> Bei %god, dies ist keine Fälschung!
+<ce> Der Verfasser hat recht. _merchant_
+<ce> hat Grund mich zu fürchten.
+<ce> Der ==priest_ wird dafür sorgen,
+<ce> dass _merchant_ angemessen
+<ce> der Prozess gemacht wird, aber wir
+<ce> müssen dafür sorgen, dass Ihr nicht
+<ce> für einen Mitschuldigen gehalten werdet.
+<ce> Wenn Ihr diesen _gem_ besorgt und
+<ce> zu _qgiver_ bringt, können wir
+<ce> uns %g3 Wohlwollen sicher sein,
+<ce> das wir brauchen. Bringt __qgiver_
+<ce> schnell diesen _gem_, %pcf.
 
 Message:  1056
-Ihr habt das aus der Kammer von
-_priest_ in der _thiefhouse_?
- %oth, das ist unbezahlbar! 
-Schnell jetzt, %pcf, bringt
-diesen _gem_ zu _qgiver_
-und ich werde bekanntmachen,
-dass der wahre Dieb von __qgiver_
-ein Priester vom ==priest_ ist!
+<ce> Ihr habt das aus der Kammer von
+<ce> _priest_ in der _thiefhouse_?
+<ce> %oth, das ist unbezahlbar! 
+<ce> Schnell jetzt, %pcf, bringt
+<ce> diesen _gem_ zu _qgiver_
+<ce> und ich werde bekanntmachen,
+<ce> dass der wahre Dieb von __qgiver_
+<ce> ein Priester vom ==priest_ ist!
 
 Message:  1057
-Ihr seid der Dieb, vor dem _witness_
-alle gewarnt hat! Wachen!
+<ce> Ihr seid der Dieb, vor dem _witness_
+<ce> alle gewarnt hat! Wachen!
 <--->
-Wachen! Es ist der %ra, den
-_witness_ als den Dieb
-identifiziert hat!
+<ce> Wachen! Es ist der %ra, den
+<ce> _witness_ als den Dieb
+<ce> identifiziert hat!
 <--->
-Ich habe einem gewöhnlichen
-Juwelendieb nichts zu sagen.
-_witness_ hat mir alles
-über Euch erzählt.
-Wachen! Wachen!
+<ce> Ich habe einem gewöhnlichen
+<ce> Juwelendieb nichts zu sagen.
+<ce> _witness_ hat mir alles
+<ce> über Euch erzählt.
+<ce> Wachen! Wachen!
 
 Message:  1058
-Ihr hirnloser %ra! Warum konntet
-Ihr Euch nicht einfach mit Eurer Rolle
-als Sündenbock abfinden? _guard4_!
+<ce> Ihr hirnloser %ra! Warum konntet
+<ce> Ihr Euch nicht einfach mit Eurer Rolle
+<ce> als Sündenbock abfinden? _guard4_!
 <--->
-Warum konntet Ihr nicht einfach aus
-%reg verschwinden und alles hinter
-Euch lassen, %ra? %oth,
-Ihr werdet Euch wünschen, Ihr
-hättet es getan!
+<ce> Warum konntet Ihr nicht einfach aus
+<ce> %reg verschwinden und alles hinter
+<ce> Euch lassen, %ra? %oth,
+<ce> Ihr werdet Euch wünschen, Ihr
+<ce> hättet es getan!
 
 Message:  1059
 %qdt:
@@ -833,10 +834,10 @@ Message:  1059
  zurückbringen.
 
 Message:  1060
-Nach so langer Zeit wird es schwer sein, Euer Ansehen
-in ___qgiver_ wiederherzustellen.
-Es wäre ratsam, eine Zeit lang einen Bogen um das
-Gebiet zu machen.
+<ce> Nach so langer Zeit wird es schwer sein, Euer Ansehen
+<ce> in ___qgiver_ wiederherzustellen.
+<ce> Es wäre ratsam, eine Zeit lang einen Bogen um das
+<ce> Gebiet zu machen.
 
 Message:  1061
 %qdt:
@@ -874,7 +875,7 @@ Message:  1093
 %qdt:
  Ich traf mich mit _witness_
  und mir wurde erzählt, dass _priest_
-  hinter dem Diebstahl des _gem_ steckt.
+ hinter dem Diebstahl des _gem_ steckt.
  %g verbringt %g3 Nächte zuhause in der
  _thiefhouse_ von ___thiefhouse_
  und hat ein geheimes Versteck in
@@ -895,6 +896,6 @@ Message:  1094
  Schlammasel herauskommen.
 
 Message:  1100
-Ihr merkt, wie _qgiver_
-bei der Tür hinausschleicht.   
+<ce> Ihr merkt, wie _qgiver_
+<ce> bei der Tür hinausschleicht. 
 

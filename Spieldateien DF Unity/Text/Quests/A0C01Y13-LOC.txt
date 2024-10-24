@@ -3,34 +3,34 @@ DisplayName: Verleumdung
 QRC:
 
 QuestorOffer:  [1000]
-Guten Tag, ich bin _giver_.
-Ihr habt in letzter Zeit möglicherweise von
-mir gehört. Einige verbreiten auf den Straßen
-abscheuliche Lügen über mein Privatleben. Ich
-biete _gold_ Goldstücke demjenigen, der dieser
-Verleumdung Einhalt gebietet. Was sagt Ihr dazu?
+<ce> Guten Tag, ich bin _giver_.
+<ce> Ihr habt in letzter Zeit möglicherweise von
+<ce> mir gehört. Einige verbreiten auf den Straßen
+<ce> abscheuliche Lügen über mein Privatleben. Ich
+<ce> biete _gold_ Goldstücke demjenigen, der dieser
+<ce> Verleumdung Einhalt gebietet. Was sagt Ihr dazu?
 <--->
-Diese bösartigen, ja geradezu verleumderischen
-Gerüchte müssen unverzüglich enden. Ich bedarf
-einer unbekannten Hand, die diese Gerüchte zu
-ihrer teuflischen Quelle zurückverfolgt. Sind
-_gold_ Goldstücke genug, um Euer Geschick in
-dieser Sache in meinen Dienst zu stellen?
+<ce> Diese bösartigen, ja geradezu verleumderischen
+<ce> Gerüchte müssen unverzüglich enden. Ich bedarf
+<ce> einer unbekannten Hand, die diese Gerüchte zu
+<ce> ihrer teuflischen Quelle zurückverfolgt. Sind
+<ce> _gold_ Goldstücke genug, um Euer Geschick in
+<ce> dieser Sache in meinen Dienst zu stellen?
 
 RefuseQuest:  [1001]
-Ich nehme an, Ihr habt gehört, man würde
-behaupten, ich hielte meine Versprechen
-nicht. Verfluchte Lügen!
+<ce> Ich nehme an, Ihr habt gehört, man würde
+<ce> behaupten, ich hielte meine Versprechen
+<ce> nicht. Verfluchte Lügen!
 
 AcceptQuest:  [1002]
-Werdet Ihr es tun? Ausgezeichnet. Kehrt
-zurück, wenn Ihr Beweise gesammelt habt,
-wer hinter diesen abscheulichen Gerüchten
-über mich steckt. Ich werde Euch dann das
-versprochene Gold überreichen. Solltet Ihr
-innerhalb eines Monats nicht zurückkehren,
-so werde ich annehmen, dass Ihr gescheitert
-seid.
+<ce> Werdet Ihr es tun? Ausgezeichnet. Kehrt
+<ce> zurück, wenn Ihr Beweise gesammelt habt,
+<ce> wer hinter diesen abscheulichen Gerüchten
+<ce> über mich steckt. Ich werde Euch dann das
+<ce> versprochene Gold überreichen. Solltet Ihr
+<ce> innerhalb eines Monats nicht zurückkehren,
+<ce> so werde ich annehmen, dass Ihr gescheitert
+<ce> seid.
 
 QuestFail:  [1003]
 %qdt:
@@ -41,14 +41,14 @@ QuestFail:  [1003]
  Beweisen für meinen Erfolg zurückzukehren.
 
 QuestComplete:  [1004]
-Ihr habt ehrenhaft gehandelt, %pcn.
-Ich danke Euch von Herzen. Nehmt dieses
-_magicsword_, mein wertvollster Besitz.
-Es ist das Mindeste, was ich Euch bieten
-kann. Wir sind nun für immer Verbündete,
-und ich stehe in Eurer Schuld. Überlasst
-_giver_ und _sister_ mir,
-ich habe etwas für sie geplant.
+<ce> Ihr habt ehrenhaft gehandelt, %pcn.
+<ce> Ich danke Euch von Herzen. Nehmt dieses
+<ce> _magicsword_, mein wertvollster Besitz.
+<ce> Es ist das Mindeste, was ich Euch bieten
+<ce> kann. Wir sind nun für immer Verbündete,
+<ce> und ich stehe in Eurer Schuld. Überlasst
+<ce> _giver_ und _sister_ mir,
+<ce> ich habe etwas für sie geplant.
 
 RumorsDuringQuest:  [1005]
 Ich hörte, dass _giver_ Sklaven hält!
@@ -56,28 +56,28 @@ Ich hörte, dass _giver_ Sklaven hält!
 _giver_ misshandelt %g3-en Ehegemahl.
 
 RumorsPostfailure:  [1006]
-_giver_ ist ein Ausgestoßener.
-Niemand in der Stadt will noch etwas
-mit %g2 zu tun haben. Habt Ihr von
-all den abscheulichen Dingen gehört,
-die %g getan hat?
+<ce> _giver_ ist ein Ausgestoßener.
+<ce> Niemand in der Stadt will noch etwas
+<ce> mit %g2 zu tun haben. Habt Ihr von
+<ce> all den abscheulichen Dingen gehört,
+<ce> die %g getan hat?
 
 RumorsPostsuccess:  [1007]
-_lover_ wurde von einem tapferen
-%ra aus ___dungeon_ gerettet.
-He, seid Ihr nicht dieser %ra?
+<ce> _lover_ wurde von einem tapferen
+<ce> %ra aus ___dungeon_ gerettet.
+<ce> He, seid Ihr nicht dieser %ra?
 
 QuestorPostsuccess:  [1008]
-Ihr mögt mich für eine schreckliche
-Person halten, nach allem, was ich
-mit _lover_, dem Liebhaber
-meiner Schwester, getan habe. Lasst
-mich versuchen, dies wiedergutzumachen.
+<ce> Ihr mögt mich für eine schreckliche
+<ce> Person halten, nach allem, was ich
+<ce> mit _lover_, dem Liebhaber
+<ce> meiner Schwester, getan habe. Lasst
+<ce> mich versuchen, dies wiedergutzumachen.
 
 QuestorPostfailure:  [1009]
-Ihr habt versagt! Meine Schwester
-spricht nicht mehr mit mir, und das
-ist Eure Schuld.
+<ce> Ihr habt versagt! Meine Schwester
+<ce> spricht nicht mehr mit mir, und das
+<ce> ist Eure Schuld.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -103,17 +103,17 @@ _giver_,
       -_sister_
 
 Message:  1017
-Was sagt Ihr? _giver_?
-Ich habe etwas gehört ... aber wir müssen
-leise sprechen. Anscheinend hat %g3 Schwester
-_sister_ Schwierigkeiten mit ihrem
-Liebhaber. Ich glaube, sein Name ist _lover_.
-Ich weiß, dass es eine Abmachung zwischen
-_giver_ und %g3 Schwester gab, um sich um
-lover zu kümmern. Wie, weiß ich nicht, aber
-ein junger Kerl hat mir erzählt, dass er einen
-Brief mit dem Plan von _sister_ zu
-_giver_ gebracht hat.
+<ce> Was sagt Ihr? _giver_?
+<ce> Ich habe etwas gehört ... aber wir müssen
+<ce> leise sprechen. Anscheinend hat %g3 Schwester
+<ce> _sister_ Schwierigkeiten mit ihrem
+<ce> Liebhaber. Ich glaube, sein Name ist _lover_.
+<ce> Ich weiß, dass es eine Abmachung zwischen
+<ce> _giver_ und %g3 Schwester gab, um sich um
+<ce> lover zu kümmern. Wie, weiß ich nicht, aber
+<ce> ein junger Kerl hat mir erzählt, dass er einen
+<ce> Brief mit dem Plan von _sister_ zu
+<ce> _giver_ gebracht hat.
 
 Message:  1018
 %qdt:
@@ -127,97 +127,97 @@ Message:  1018
  mich, _lover_ zu retten.
 
 Message:  1020
-Lügen, alles Lügen, sage ich!
-Ich verabscheue diese schmutzigen
-Gerüchte. Bitte beeilt Euch und
-beendet sie!
+<ce> Lügen, alles Lügen, sage ich!
+<ce> Ich verabscheue diese schmutzigen
+<ce> Gerüchte. Bitte beeilt Euch und
+<ce> beendet sie!
 
 Message:  1021
-Was? Was ist das? Oh mein... Bitte, tötet
-mich nicht! Meine Schwester ist an allem
-schuld... Ich wollte niemanden in Gefahr
-bringen. Sie wollte nur, dass ich ihm etwas
-Angst einjage, damit er sie mehr wertschätzt.
-Ich weiß, ich hätte das nicht tun sollen.
-Jetzt ist mir das über den Kopf gewachsen,
-versteht Ihr? Ich habe eine Gruppe Banditen
-angeheuert, um ihn zu verschleppen und in
-___dungeon_ einzusperren. Ich dachte,
-das wird ihn genug erschrecken... Aber er
-ist nicht zurückgekehrt! Ich bin zu weit
-gegangen... ich weiß. Bitte... Ihr müsst
-ihn retten. Ich dachte, ich könnte es geheim
-halten, aber das geht nicht mehr. Ihr müsst
-ihn retten. Wenn er nicht zurück ist, wenn
-meine Schwester wiederkommt... Ich glaube,
-sie wird mich umbringen.
+<ce> Was? Was ist das? Oh mein... Bitte, tötet
+<ce> mich nicht! Meine Schwester ist an allem
+<ce> schuld... Ich wollte niemanden in Gefahr
+<ce> bringen. Sie wollte nur, dass ich ihm etwas
+<ce> Angst einjage, damit er sie mehr wertschätzt.
+<ce> Ich weiß, ich hätte das nicht tun sollen.
+<ce> Jetzt ist mir das über den Kopf gewachsen,
+<ce> versteht Ihr? Ich habe eine Gruppe Banditen
+<ce> angeheuert, um ihn zu verschleppen und in
+<ce> ___dungeon_ einzusperren. Ich dachte,
+<ce> das wird ihn genug erschrecken... Aber er
+<ce> ist nicht zurückgekehrt! Ich bin zu weit
+<ce> gegangen... ich weiß. Bitte... Ihr müsst
+<ce> ihn retten. Ich dachte, ich könnte es geheim
+<ce> halten, aber das geht nicht mehr. Ihr müsst
+<ce> ihn retten. Wenn er nicht zurück ist, wenn
+<ce> meine Schwester wiederkommt... Ich glaube,
+<ce> sie wird mich umbringen.
 
 Message:  1022
-_giver_ ist das Stadtgespräch.
+<ce> _giver_ ist das Stadtgespräch.
 <--->
-_giver_ hält sich meist in _givershouse_ auf.
+<ce> _giver_ hält sich meist in _givershouse_ auf.
 <--->
-Der Liebhaber der Schwester von _giver_
-ist verschwunden.
+<ce> Der Liebhaber der Schwester von _giver_
+<ce> ist verschwunden.
 <--->
-Man findet _giver_ meist in __giver_.
+<ce> Man findet _giver_ meist in __giver_.
 <--->
-_giver_? Ihr findet %g2 entweder bei __giver_,
-oder daheim in _givershouse_.
+<ce> _giver_? Ihr findet %g2 entweder bei __giver_,
+<ce> oder daheim in _givershouse_.
 <--->
-_giver_ ist wohlgelitten in ___giver_.
+<ce> _giver_ ist wohlgelitten in ___giver_.
 <--->
-Ihr solttet es bei_inn_
-versuchen, dort wird stets gut getratscht.
+<ce> Ihr solttet es bei_inn_
+<ce> versuchen, dort wird stets gut getratscht.
 <--->
-_giver_ wird oft beim Einkauf mit %g3 Schwester,
-_sister_ gesehen.
+<ce> _giver_ wird oft beim Einkauf mit %g3 Schwester,
+<ce> _sister_ gesehen.
 <--->
-_giver_ hat vom _inn_ gestohlen.
-Oder war das jemand anderes?
+<ce> _giver_ hat vom _inn_ gestohlen.
+<ce> Oder war das jemand anderes?
 <--->
-_giver_ hat seine Schwester ermordet.
+<ce> _giver_ hat seine Schwester ermordet.
 <--->
-_giver_'s Vater wurde von Orks aufgezogen.
+<ce> _giver_'s Vater wurde von Orks aufgezogen.
 <--->
-_giver_ hat sich einen Ork als Liebhaber genommen.
+<ce> _giver_ hat sich einen Ork als Liebhaber genommen.
 <--->
-_giver_ hat von den Tempeln gestohlen.
+<ce> _giver_ hat von den Tempeln gestohlen.
 <--->
-_giver_ steht mit den Orks im Bunde.
+<ce> _giver_ steht mit den Orks im Bunde.
 <--->
-Es gibt mehr Gerüchte über _giver_
-als über jedeweden anderen in ___giver_
-diese Woche.
+<ce> Es gibt mehr Gerüchte über _giver_
+<ce> als über jedeweden anderen in ___giver_
+<ce> diese Woche.
 <--->
-_giver_ versprach, seines Schwesters Liebhaber zu entführen.
+<ce> _giver_ versprach, seines Schwesters Liebhaber zu entführen.
 <--->
-Hier wird viel über nichts gesprochen.
+<ce> Hier wird viel über nichts gesprochen.
 <--->
-_giver_ hält %g3 Versprechen nicht ein.
+<ce> _giver_ hält %g3 Versprechen nicht ein.
 <--->
-_giver_ hütet einige Geheimnisse.
+<ce> _giver_ hütet einige Geheimnisse.
 <--->
-Ein jeder hier hat seine eigenen Geschichten.
+<ce> Ein jeder hier hat seine eigenen Geschichten.
 <--->
-In _inn_ wird stehts geredet.
+<ce> In _inn_ wird stehts geredet.
 
 Message:  1030
-_lover_ ist der Liebhaber von _sister_.
-Ich habe ihn in letzter Zeit nicht gesehen, wisst Ihr?
+<ce> _lover_ ist der Liebhaber von _sister_.
+<ce> Ich habe ihn in letzter Zeit nicht gesehen, wisst Ihr?
 <--->
-_lover_ wurde in der Stadt in den letzten Tagen nicht
-gesehen. Ich wette, da steckt _giver_ dahinter.
+<ce> _lover_ wurde in der Stadt in den letzten Tagen nicht
+<ce> gesehen. Ich wette, da steckt _giver_ dahinter.
 
 Message:  2000
-%god sei Dank, jemand hat mich gefunden!
-Ich dachte schon, ich komme hier niemals heraus.
-Ich bin hier seit Tagen herumgeirrt und habe
-versucht zu überleben. Was sagt Ihr? _sister_
-und _giver_ stecken hinter all dem? Gut,
-bringt mich zu _sistershouse_ in __sistershouse_
-und ich werde Euch gut entlohnen. Und dann werde
-ich mich um die beiden kümmern!
+<ce> %god sei Dank, jemand hat mich gefunden!
+<ce> Ich dachte schon, ich komme hier niemals heraus.
+<ce> Ich bin hier seit Tagen herumgeirrt und habe
+<ce> versucht zu überleben. Was sagt Ihr? _sister_
+<ce> und _giver_ stecken hinter all dem? Gut,
+<ce> bringt mich zu _sistershouse_ in __sistershouse_
+<ce> und ich werde Euch gut entlohnen. Und dann werde
+<ce> ich mich um die beiden kümmern!
 
 Message:  2001
 %qdt:
@@ -226,10 +226,10 @@ Message:  2001
  in __sistershouse_.
 
 Message:  2005
-_lover_ sagt_
+_lover_ sagt:
  
- "Danke für Eure Hilfe, %pcn
- aber ich glaube, von hier aus
- finde ich den Weg nach Hause
- selbst."
+<ce> "Danke für Eure Hilfe, %pcn
+<ce> aber ich glaube, von hier aus
+<ce> finde ich den Weg nach Hause
+<ce> selbst."
 

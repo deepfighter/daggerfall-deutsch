@@ -3,34 +3,34 @@ DisplayName: Abtrünniger Assassine
 QRC:
 
 QuestorOffer:  [1000]
-Es gibt einen Verräter in der Bruderschaft.
-Ihr werdet die fällige Schuldabrechnung
-übernehmen. Nicht wahr?
+<ce> Es gibt einen Verräter in der Bruderschaft.
+<ce> Ihr werdet die fällige Schuldabrechnung
+<ce> übernehmen. Nicht wahr?
 <--->
-Von Zeit zu Zeit ist die Bruderschaft
-gezwungen, in ihren eigenen Büchern
-abzurechnen. In unserem Orden wurde ein
-Verräter gefunden, der bezahlen muss.
-Die Ehre soll Euch zuteil werden.
+<ce> Von Zeit zu Zeit ist die Bruderschaft
+<ce> gezwungen, in ihren eigenen Büchern
+<ce> abzurechnen. In unserem Orden wurde ein
+<ce> Verräter gefunden, der bezahlen muss.
+<ce> Die Ehre soll Euch zuteil werden.
 
 RefuseQuest:  [1001]
-Eine unwürdige Antwort. Ich erwarte Besseres.
+<ce> Eine unwürdige Antwort. Ich erwarte Besseres.
 
 AcceptQuest:  [1002]
-Sehr gut. Der Verräter hat in
-___mondun_ %di'lich
-von hier Zuflucht gesucht. Wenn
-Ihr in =queston_ Tagen nicht zurück
-seid, ist Eure Ehre verwirkt und ein
-anderer wird Euren Platz einnehmen.
-Enttäuscht uns nicht, %pcf.
+<ce> Sehr gut. Der Verräter hat in
+<ce> ___mondun_ %di'lich
+<ce> von hier Zuflucht gesucht. Wenn
+<ce> Ihr in =queston_ Tagen nicht zurück
+<ce> seid, ist Eure Ehre verwirkt und ein
+<ce> anderer wird Euren Platz einnehmen.
+<ce> Enttäuscht uns nicht, %pcf.
 
 QuestFail:  [1003]
-Der Verräter ist nicht tot. Versucht
-nicht, mir etwas anderes weiszumachen.
+<ce> Der Verräter ist nicht tot. Versucht
+<ce> nicht, mir etwas anderes weiszumachen.
 
 QuestComplete:  [1004]
-Gut gemacht. Ihr habt allen Grund, stolz zu sein.
+<ce> Gut gemacht. Ihr habt allen Grund, stolz zu sein.
 
 RumorsDuringQuest:  [1005]
 Dieser Assassine rannte nach ___mondun_, als wären alle Hunde der Hölle hinter ihm her.
@@ -51,9 +51,9 @@ QuestorPostsuccess:  [1008]
 Was braucht Ihr, oh Mörder des Verräters? 
 
 QuestorPostfailure:  [1009]
-Es ist mir unangenehm, mit Euch zu reden.
-Ich hatte Euch schließlich betraut, mit
-diesem Verräter abzurechnen, nicht wahr?
+<ce> Es ist mir unangenehm, mit Euch zu reden.
+<ce> Ich hatte Euch schließlich betraut, mit
+<ce> diesem Verräter abzurechnen, nicht wahr?
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -64,9 +64,9 @@ QuestLogEntry:  [1010]
  Ich habe =queston_ Tage Zeit, das zu erledigen.
 
 Message:  1021
-"Ich bin nicht ... der Verräter ...
-für den Ihr ... mich haltet. Der ...
-wahre Verräter ist ..."
+<ce> "Ich bin nicht ... der Verräter ...
+<ce> für den Ihr ... mich haltet. Der ...
+<ce> wahre Verräter ist ..."
  
-Der Kontrakt wurde erfüllt.
+<ce> Der Kontrakt wurde erfüllt.
 

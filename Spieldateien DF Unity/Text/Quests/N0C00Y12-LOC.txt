@@ -3,43 +3,43 @@ DisplayName: Koboldjagd
 QRC:
 
 QuestorOffer:  [1000]
-Ihr könnt mich _qgiver_ nennen.
-Normalerweise kann ich nur Gildenmitgliedern
-Arbeit geben. Aber einer meiner Schüler hat
-da ein kleines Problem, das sehr peinlich
-wäre, wenn es herauskäme. Ich kann Euch
-nicht bezahlen, aber wenn Ihr bereit wäret,
-bei etwas Risiko für Euch selbst ein entflohenes
-Experiment aufzuspüren, wäre ich Euch dankbar
-und würde bei anderen Gildenmitgliedern ein
-gutes Wort für Euch einzulegen.
+<ce> Ihr könnt mich _qgiver_ nennen.
+<ce> Normalerweise kann ich nur Gildenmitgliedern
+<ce> Arbeit geben. Aber einer meiner Schüler hat
+<ce> da ein kleines Problem, das sehr peinlich
+<ce> wäre, wenn es herauskäme. Ich kann Euch
+<ce> nicht bezahlen, aber wenn Ihr bereit wäret,
+<ce> bei etwas Risiko für Euch selbst ein entflohenes
+<ce> Experiment aufzuspüren, wäre ich Euch dankbar
+<ce> und würde bei anderen Gildenmitgliedern ein
+<ce> gutes Wort für Euch einzulegen.
 
 RefuseQuest:  [1001]
-Warum habt Ihr dann um Arbeit gebeten?
-Manchmal kann ich euch gewöhnliche
-Abenteurer einfach nicht verstehen.
+<ce> Warum habt Ihr dann um Arbeit gebeten?
+<ce> Manchmal kann ich euch gewöhnliche
+<ce> Abenteurer einfach nicht verstehen.
 
 AcceptQuest:  [1002]
-Gut. Mein Schüler hält einen Hauskobold.
-Diese magischen Kreaturen sind nicht
-sonderlich gefährlich, aber es könnte
-möglicherweise peinlich für ihn werden.
-Unsere Kristallkugeln sagen, dass der
-Kobold nach ___mondung_ geflohen ist.
-Tötet das Ding und meldet Euch innerhalb
-von =1stparton_ Tagen bei mir zurück.
+<ce> Gut. Mein Schüler hält einen Hauskobold.
+<ce> Diese magischen Kreaturen sind nicht
+<ce> sonderlich gefährlich, aber es könnte
+<ce> möglicherweise peinlich für ihn werden.
+<ce> Unsere Kristallkugeln sagen, dass der
+<ce> Kobold nach ___mondung_ geflohen ist.
+<ce> Tötet das Ding und meldet Euch innerhalb
+<ce> von =1stparton_ Tagen bei mir zurück.
 
 QuestFail:  [1003]
-Ich habe heute morgen in die Zukunft geschaut.
-Der Kobold ist noch am Leben.
+<ce> Ich habe heute morgen in die Zukunft geschaut.
+<ce> Der Kobold ist noch am Leben.
  
-Warum seid Ihr noch hier?
+<ce> Warum seid Ihr noch hier?
 
 QuestComplete:  [1004]
-Bin ich erleichtert! Ich schulde Euch
-einen kleinen Gefallen, %pcn.
-Ihr habt Euer Ansehen bei der
-Magiergilde verbessert.
+<ce> Bin ich erleichtert! Ich schulde Euch
+<ce> einen kleinen Gefallen, %pcn.
+<ce> Ihr habt Euer Ansehen bei der
+<ce> Magiergilde verbessert.
 
 RumorsDuringQuest:  [1005]
 Ich hörte, dass neulich nachts irgendetwas aus dem Laboratorium der Magiergilde entkommen ist.
@@ -65,17 +65,17 @@ ein Zauberer, der seinen Familiar verliert,
 für die Sprüche seiner Feinde verwundbar ist.
 
 QuestorPostsuccess:  [1008]
-Wie geht es Euch, %pcf? Keine Koboldprobleme mehr, hä?
+<ce> Wie geht es Euch, %pcf? Keine Koboldprobleme mehr, hä?
 
 QuestorPostfailure:  [1009]
-Ich hatte Euch auf diesen Kobold angesetzt,
-wenn Ihr Euch erinnert. Ich sehe keinen
-Grund, noch einmal in den Wind zu reden.
+<ce> Ich hatte Euch auf diesen Kobold angesetzt,
+<ce> wenn Ihr Euch erinnert. Ich sehe keinen
+<ce> Grund, noch einmal in den Wind zu reden.
 
 QuestLogEntry:  [1010]
-"Ich würde lieber sterben
-als ins Laboratorium der
-Magiergilde zurückzukehren!"
+<ce> "Ich würde lieber sterben
+<ce> als ins Laboratorium der
+<ce> Magiergilde zurückzukehren!"
 
 Message:  1020
 %qdt:

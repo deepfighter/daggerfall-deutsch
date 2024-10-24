@@ -3,60 +3,60 @@ DisplayName: Dunkle Dame
 QRC:
 
 QuestorOffer:  [1000]
-Ja, ich kenne noch jemanden, der an Macht
-interessiert war. Eine kleine Panikosa aus
-dem Reich des Vergessens, die von Macht
-träumte und mich bat, sie mit der Schönheit
-und Anmut auszustatten, die sie schon immer
-begehrt hatte. Und als ich ihr Schönheit
-gewährte, bekämpfte sie mich, widersetzte
-sich meinen Willen, als ob ich sie nicht
-geschaffen hätte. Vielleicht seid Ihr nicht
-anders. Wenn ich Euch stark und schön mache,
-würdet Ihr doch das Geschenk respektieren,
-das ich Euch gebe, oder nicht?
+<ce> Ja, ich kenne noch jemanden, der an Macht
+<ce> interessiert war. Eine kleine Panikosa aus
+<ce> dem Reich des Vergessens, die von Macht
+<ce> träumte und mich bat, sie mit der Schönheit
+<ce> und Anmut auszustatten, die sie schon immer
+<ce> begehrt hatte. Und als ich ihr Schönheit
+<ce> gewährte, bekämpfte sie mich, widersetzte
+<ce> sich meinen Willen, als ob ich sie nicht
+<ce> geschaffen hätte. Vielleicht seid Ihr nicht
+<ce> anders. Wenn ich Euch stark und schön mache,
+<ce> würdet Ihr doch das Geschenk respektieren,
+<ce> das ich Euch gebe, oder nicht?
 
 RefuseQuest:  [1001]
-Einfältiger %ra, kennt Ihr
-nicht einmal eine gute Lüge?
-Verschwendet mit Eurem
-erbärmlichen Verlangen
-nicht meine Zeit.
+<ce> Einfältiger %ra, kennt Ihr
+<ce> nicht einmal eine gute Lüge?
+<ce> Verschwendet mit Eurem
+<ce> erbärmlichen Verlangen
+<ce> nicht meine Zeit.
 
 AcceptQuest:  [1002]
-Ich glaube Euch, %pcn.
-Im Gegenzug für den Tod dieser verräterischen
-Verführerin, der ich einst vertraute,
-werde ich Euch Volendrung geben, meinen
-wertvollsten Besitz in Eurer Welt. Er wird
-Euch in der Tat sehr mächtig werden lassen.
-Ihr findet diese verabscheute Kreatur in
-___mondung_. Tötet sie und trefft meinen
-teuren und vertrauten _qgfriend_
-in ___qgfriend_. Ich werde %g2
-anweisen, Euch der Einfachheit halber am
-dortigen Anwesen zu treffen. Ich denke nicht,
-dass die ganze Sache mehr als =1stparton_ Tage
-dauern sollte, wenn mit der erforderlichen
-Effizienz erledigt wird.
+<ce> Ich glaube Euch, %pcn.
+<ce> Im Gegenzug für den Tod dieser verräterischen
+<ce> Verführerin, der ich einst vertraute,
+<ce> werde ich Euch Volendrung geben, meinen
+<ce> wertvollsten Besitz in Eurer Welt. Er wird
+<ce> Euch in der Tat sehr mächtig werden lassen.
+<ce> Ihr findet diese verabscheute Kreatur in
+<ce> ___mondung_. Tötet sie und trefft meinen
+<ce> teuren und vertrauten _qgfriend_
+<ce> in ___qgfriend_. Ich werde %g2
+<ce> anweisen, Euch der Einfachheit halber am
+<ce> dortigen Anwesen zu treffen. Ich denke nicht,
+<ce> dass die ganze Sache mehr als =1stparton_ Tage
+<ce> dauern sollte, wenn mit der erforderlichen
+<ce> Effizienz erledigt wird.
  
-Nun geht in die Welt hinaus und handelt auf
-mein Geheiß, %pcn.
+<ce> Nun geht in die Welt hinaus und handelt auf
+<ce> mein Geheiß, %pcn.
 
 QuestFail:  [1003]
-Verschwindet, Ihr sabbernder %ra.
-Ich suche nach einem wirklich sterblichen Wesen.
+<ce> Verschwindet, Ihr sabbernder %ra.
+<ce> Ich suche nach einem wirklich sterblichen Wesen.
 
 QuestComplete:  [1004]
-Ihr seid also %pcn.
-Malacath hat Euch perfekt beschrieben.
-Gute Arbeit mit der alten =monster_.
-Sie hat einfach nicht den Mund gehalten,
-wisst Ihr? Egal, hier ist Volendrung.
-Kein ganz so schlechter Knochenbrecher.
-Und wer weiß, vielleicht müsst Ihr ihn
-eines Tages gegen Malacath selbst einsetzen.
-Ein Witz ... selbstverständlich.
+<ce> Ihr seid also %pcn.
+<ce> Malacath hat Euch perfekt beschrieben.
+<ce> Gute Arbeit mit der alten =monster_.
+<ce> Sie hat einfach nicht den Mund gehalten,
+<ce> wisst Ihr? Egal, hier ist Volendrung.
+<ce> Kein ganz so schlechter Knochenbrecher.
+<ce> Und wer weiß, vielleicht müsst Ihr ihn
+<ce> eines Tages gegen Malacath selbst einsetzen.
+<ce> Ein Witz ... selbstverständlich.
 
 RumorsDuringQuest:  [1005]
 _murder_ wurde tot in %g3 Palast in ___ruler_ gefunden.
@@ -73,18 +73,6 @@ Ich hörte, diese Verführerin sei von den Agenten ihres Meisters getötet worde
 <--->
 Hat mich nervös gemacht - diese Verführerin saß nur in ihrem Loch und wartete auf irgendetwas.
 
-QuestorPostsuccess:  [1008]
-Error: Quest 80c00y00.q tried to display text
-
-QuestorPostsuccess:  [1008]
-
-
-QuestorPostfailure:  [1009]
-Error: Quest 80c00y00.q tried to display text
-
-QuestorPostfailure:  [1009]
-
-
 Message:  1011
 _qgfriend_ ist ein Adliger. Er soll angeblich eine geheime Romanze mit einer dunklen Gespielin gehabt haben.
 <--->
@@ -96,7 +84,7 @@ Malacath ist der Daedrafürst der Lügen, Täuschung und Heuchelei.
 Malacath zieht Lügen an, wie ein toter Hund Maden.
 
 Message:  1013
-Volendrung ist ein Kriegshammer von großer Macht und in der Lage, seinen Opfern Gesundheit zu entziehen.
+<ce> Volendrung ist ein Kriegshammer von großer Macht und in der L<ce> age, seinen Opfern Gesundheit zu entziehen.
 
 Message:  1015
 =monster_ ist tot.
@@ -134,44 +122,45 @@ Message:  1030
 <ce>_qgfriend_
 
 Message:  1040
-%oth! _qgfriend_ steckte
-hinter dem Tod von _murder_?
-Und auch noch in eine Daedraverschwörung
-verwickelt? Ohne Euch hätten wir den
-Mordfall wohl nie gelöst, %pcn.
-Eure Loyalität zu %rt wird nicht
-vergessen werden.
+<ce> %oth! _qgfriend_ steckte
+<ce> hinter dem Tod von _murder_?
+<ce> Und auch noch in eine Daedraverschwörung
+<ce> verwickelt? Ohne Euch hätten wir den
+<ce> Mordfall wohl nie gelöst, %pcn.
+<ce> Eure Loyalität zu %rt wird nicht
+<ce> vergessen werden.
 
 Message:  1041
-Gebt Ihr _ruler_ den
-Brief von _qgfriend_?
+<ce> Gebt Ihr _ruler_ den
+<ce> Brief von _qgfriend_?
 
 Message:  1050
-Der Tod von _murder_ ist noch immer ein Rätsel.
-_ruler_ leitet die Ermittlungen, aber bis jetzt ohne Erfolg.
+<ce> Der Tod von _murder_ ist noch immer ein Rätsel.
+<ce> _ruler_ leitet die Ermittlungen, aber bis jetzt ohne Erfolg.
 <--->
-Ich bin sicher, dass _murder_ wegen %g3 Korruptionsermittlungen in %reg sterben musste.
+<ce> Ich bin sicher, dass _murder_ wegen %g3 Korruptionsermittlungen
+<ce> in %reg sterben musste.
 
 Message:  1051
-_murder_ untersuchte eine Verschwörung zum Sturz von
-%rt %rn, als %g auf "mysteriöse Weise" verstarb.
-_ruler_ versucht herauszufinden, wer für den Tod von
-_murder_ verantwortlich ist, wird dabei aber nie bis zum Grund vordringen.
+<ce> _murder_ untersuchte eine Verschwörung zum Sturz von
+<ce> %rt %rn, als %g auf "mysteriöse Weise" verstarb.
+<ce> _ruler_ versucht herauszufinden, wer für den Tod von
+<ce> _murder_ verantwortlich ist, wird dabei aber nie bis zum Grund vordringen.
 <--->
-_murder_ wurde tot im Palast von ___ruler_
-gefunden, all %g3 Ermittlungsnotizen über den Verrat in höchsten
-Kreisen wurden gestohlen. _ruler_ wurde beauftragt,
-den Mörder von _murder_ zu finden, hat aber nichts,womit man anfangen könnte.
+<ce> _murder_ wurde tot im Palast von ___ruler_
+<ce> gefunden, all %g3 Ermittlungsnotizen über den Verrat in höchsten
+<ce> Kreisen wurden gestohlen. _ruler_ wurde beauftragt,
+<ce> den Mörder von _murder_ zu finden, hat aber nichts,womit man anfangen könnte.
 
 Message:  1052
-_ruler_ leitet die Ermittlungen, aber bis jetzt ohne Erfolg.
+<ce> _ruler_ leitet die Ermittlungen, aber bis jetzt ohne Erfolg.
 <--->
-_ruler_ versucht, den Tod von _murder_ im Palast von ___ruler_ aufzuklären.
+<ce> _ruler_ versucht, den Tod von _murder_ im Palast von ___ruler_ aufzuklären.
 
 Message:  1053
-_ruler_ versucht herauszufinden, wer für den Tod von _murder_
-verantwortlich ist, wird dabei aber nie bis zum Grund vordringen.
+<ce> _ruler_ versucht herauszufinden, wer für den Tod von _murder_
+<ce> verantwortlich ist, wird dabei aber nie bis zum Grund vordringen.
 <--->
-_ruler_ wurde beauftragt, den Mörder von _murder_ zu finden,
-hat aber nichts, womit man anfangen könnte.
+<ce> _ruler_ wurde beauftragt, den Mörder von _murder_ zu finden,
+<ce> hat aber nichts, womit man anfangen könnte.
 

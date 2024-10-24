@@ -62,10 +62,10 @@ Es ist schön, Königin Aubk-i endlich glücklich zu sehen. Sie hat so ein hübs
 Königin Aubk-i scheint in letzter Zeit überaus glücklich zu sein. Sie wirkt wie ... befreit.
 
 QuestorPostsuccess:  [1008]
-Ah, %pcn. Der %ra, der sich geweigert hat, die Großmutter meines toten Gemahls zu besuchen.
+Noch einmal danke ich Euch, die gefährliche Reise nach Shedungent auf Euch genommen zu haben, um für mich nach Nulfaga zu sehen.
 
 QuestorPostfailure:  [1009]
-Noch einmal danke ich Euch, die gefährliche Reise nach Shedungent auf Euch genommen zu haben, um für mich nach Nulfaga zu sehen.
+Ah, %pcn. Der %ra, der sich geweigert hat, die Großmutter meines toten Gemahls zu besuchen.
 
 QuestLogEntry:  [1010]
 %qdt:

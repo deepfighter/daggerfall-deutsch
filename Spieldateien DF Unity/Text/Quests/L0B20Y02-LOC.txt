@@ -3,42 +3,42 @@ DisplayName: Ehrloser Ritter
 QRC:
 
 QuestorOffer:  [1000]
-Ah, hier ist etwas, das dem Romantiker
-in Euch gefallen dürfte, %pcf:
-Ein rüpelhafter Ritter hat die Ehre einer
-schönen Jungfrau befleckt und verweigert
-den Kampf gegen jeden, der für sie eintreten
-will. Das arme Mädchen hat das einzige getan,
-was sie konnte und wir haben nun eine Abrechnung
-vorzunehmen. Ihr seid interessiert, nehme ich an?
+<ce> Ah, hier ist etwas, das dem Romantiker
+<ce> in Euch gefallen dürfte, %pcf:
+<ce> Ein rüpelhafter Ritter hat die Ehre einer
+<ce> schönen Jungfrau befleckt und verweigert
+<ce> den Kampf gegen jeden, der für sie eintreten
+<ce> will. Das arme Mädchen hat das einzige getan,
+<ce> was sie konnte und wir haben nun eine Abrechnung
+<ce> vorzunehmen. Ihr seid interessiert, nehme ich an?
 
 RefuseQuest:  [1001]
-Nein? Ich hätte gedacht, dass Ihr das bejubeln
-würdet. Aber gut, wir haben noch genug andere
-Abrechner mit einer Schwäche für gefallene Mädchen.
+<ce> Nein? Ich hätte gedacht, dass Ihr das bejubeln
+<ce> würdet. Aber gut, wir haben noch genug andere
+<ce> Abrechner mit einer Schwäche für gefallene Mädchen.
 
 AcceptQuest:  [1002]
-Wie ich es dachte. Wir glauben, dass der Ritter
-noch nichts von dem Kontrakt weiß, da er sich
-tief in einer Festung namens ___mondung_
-verschanzt. Offensichtlich will es uns dieser
-missratene Krieger nicht zu einfach machen.
-Jedenfalls erfordert der Auftrag, dass in =1stparton_ Tagen
-mit ihm abgerechnet wird und Ihr dann zurück seid,
-um zu berichten. Macht Euch auf,%pcf.
-Verteidigt diese arme, befleckte Jungfrau.
+<ce> Wie ich es dachte. Wir glauben, dass der Ritter
+<ce> noch nichts von dem Kontrakt weiß, da er sich
+<ce> tief in einer Festung namens ___mondung_
+<ce> verschanzt. Offensichtlich will es uns dieser
+<ce> missratene Krieger nicht zu einfach machen.
+<ce> Jedenfalls erfordert der Auftrag, dass in =1stparton_ Tagen
+<ce> mit ihm abgerechnet wird und Ihr dann zurück seid,
+<ce> um zu berichten. Macht Euch auf,%pcf.
+<ce> Verteidigt diese arme, befleckte Jungfrau.
 
 QuestFail:  [1003]
-Ich habe noch nicht den Dank unserer Klientin gehört,
-also gehe ich davon aus, dass der Ritter noch unter
-den Lebenden weilt. Beeilt Euch und holt dieses
-Versäumnis nach, %pcf.
+<ce> Ich habe noch nicht den Dank unserer Klientin gehört,
+<ce> also gehe ich davon aus, dass der Ritter noch unter
+<ce> den Lebenden weilt. Beeilt Euch und holt dieses
+<ce> Versäumnis nach, %pcf.
 
 QuestComplete:  [1004]
-Der Schurkenritter ist also ins Jenseits eingegangen?
-Hoffentlich hat er in seiner nächsten Inkarnation die
-Weisheit, sein Schwert stecken zu lassen. Gut gemacht,
-wie immer, %pcf.
+<ce> Der Schurkenritter ist also ins Jenseits eingegangen?
+<ce> Hoffentlich hat er in seiner nächsten Inkarnation die
+<ce> Weisheit, sein Schwert stecken zu lassen. Gut gemacht,
+<ce> wie immer, %pcf.
 
 RumorsDuringQuest:  [1005]
 Dieser Soldat ist ein dreckiger Flegel, dass kann ich Euch sagen. Keine Ehre im Leib.
@@ -48,7 +48,7 @@ Ich hörte, dass die Dame den Ritter verführen wollte und scheiterte. Darum ist
 RumorsPostfailure:  [1006]
 Dieser Krieger ist in andere Lande weitergezogen, um deren schönes Weibsvolk zu verderben.
 <--->
-Der Soldat hat %cn verlassen wie ein Wirbelsturm und ließ gebrochene Herzen zurück.
+Der Soldat hat ____questgiver_ verlassen wie ein Wirbelsturm und ließ gebrochene Herzen zurück.
 
 RumorsPostsuccess:  [1007]
 Dieser Soldat hat bekommen was %g verdient hat, wenn Ihr mich fragt. Was für ein Schuft!
@@ -59,10 +59,10 @@ QuestorPostsuccess:  [1008]
 Ich wäre entzückt, dem Rittertöter zu helfen, wo ich nur kann.
 
 QuestorPostfailure:  [1009]
-Was lässt Euch glauben, dass ich daran
-interessiert wäre, mit einem %ra
-zu reden, der nichtmal einen lausigen
-Ritter töten kann? Aus meinen Augen!
+<ce> Was lässt Euch glauben, dass ich daran
+<ce> interessiert wäre, mit einem %ra
+<ce> zu reden, der nichtmal einen lausigen
+<ce> Ritter töten kann? Aus meinen Augen!
 
 Message:  1020
 %qdt:
@@ -72,9 +72,9 @@ Message:  1020
  töten. Die Tat muss in =1stparton_ Tagen vollbracht sein.
 
 Message:  1021
-"Richtet _damsel_ aus ... sie kann ihre ...
-befleckte Ehre ... mit jedem Bauernjungen ...
-in %reg teilen", sagt der Ritter,
-als Ihr mit ihm abrechnet. Der Kontrakt
-wurde erfüllt.
+<ce> "Richtet _damsel_ aus ... sie kann ihre ...
+<ce> befleckte Ehre ... mit jedem Bauernjungen ...
+<ce> in %reg teilen",
+sagt der Ritter, als Ihr mit ihm abrechnet.
+Der Kontrakt wurde erfüllt.
 

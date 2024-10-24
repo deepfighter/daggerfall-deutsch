@@ -3,67 +3,67 @@ DisplayName: Wölfische Bedrohung
 QRC:
 
 QuestorOffer:  [1000]
-Meine Bedürfnisse sind eher ... bescheiden, aber
-in meinem Angebot sind, wie Ihr mir gewiss
-zubilligen werdet, Altruismus und Großzügigkeit
-untrennbar miteinander verbunden. Als
-Gegenleistung für die Maske des Clavicus Vile,
-ein Artefakt von großer Macht, bitte ich Euch
-nur, ein lästiges Fellbündel zu erledigen, das
-Jagd auf einige meiner Freunde gemacht hat, die
-bei ___mondung_ leben. Die Wölfischen
-sind gemeinhin zu mir und meinen Verbündeten
-recht freundlich, aber dieser bestimmte ... nun,
-Kinder sind eben Kinder. Verstehen wir einander?
+<ce> Meine Bedürfnisse sind eher ... bescheiden, aber
+<ce> in meinem Angebot sind, wie Ihr mir gewiss
+<ce> zubilligen werdet, Altruismus und Großzügigkeit
+<ce> untrennbar miteinander verbunden. Als
+<ce> Gegenleistung für die Maske des Clavicus Vile,
+<ce> ein Artefakt von großer Macht, bitte ich Euch
+<ce> nur, ein lästiges Fellbündel zu erledigen, das
+<ce> Jagd auf einige meiner Freunde gemacht hat, die
+<ce> bei ___mondung_ leben. Die Wölfischen
+<ce> sind gemeinhin zu mir und meinen Verbündeten
+<ce> recht freundlich, aber dieser bestimmte ... nun,
+<ce> Kinder sind eben Kinder. Verstehen wir einander?
 
 RefuseQuest:  [1001]
-Warum, Ihr widerliches Insekt? Ihr vergiftet die
-Luft mit Eurer begriffsstutzigen Unverschämtheit.
-Wie könnt Ihr es wagen, den größten aller Fürsten
-des Reichs des Vergessens zu beschwören und dann
-die geringfügigste Bitte auszuschlagen, um die
-ich Euch ersuchen kann? Ich biete Euch Wasser
-für Wein, und Ihr spuckt mir beides ins Gesicht.
-Das werde ich Euch nicht vergessen, %pcn.
+<ce> Warum, Ihr widerliches Insekt? Ihr vergiftet die
+<ce> Luft mit Eurer begriffsstutzigen Unverschämtheit.
+<ce> Wie könnt Ihr es wagen, den größten aller Fürsten
+<ce> des Reichs des Vergessens zu beschwören und dann
+<ce> die geringfügigste Bitte auszuschlagen, um die
+<ce> ich Euch ersuchen kann? Ich biete Euch Wasser
+<ce> für Wein, und Ihr spuckt mir beides ins Gesicht.
+<ce> Das werde ich Euch nicht vergessen, %pcn.
 
 AcceptQuest:  [1002]
-Ah, Ihr erkennt ein gutes Geschäft, nicht wahr?
-Ihr werdet die wölfische Bedrohung irgendwo an
-einem Ort namens ___mondung_ finden.
-Unglücklicherweise ist die Zeit bei dieser
-Angelegenheit nicht unser Freund. Aus Gründen,
-die zu langweilig sind um diskutiert zu werden,
-muss dieser Tölpel in =1stparton_ Tagen tot sein.
-Nachdem Ihr die Kreatur ermordet habt, trefft
-Ihr meinen Freund in __contact_ in
-___contact_. Seht Euch nach einem
-=contact_ um. Schön, mit Euch
-Geschäfte zu machen, %pcn.
-Wir werden uns sicher wiedersehen.
+<ce> Ah, Ihr erkennt ein gutes Geschäft, nicht wahr?
+<ce> Ihr werdet die wölfische Bedrohung irgendwo an
+<ce> einem Ort namens ___mondung_ finden.
+<ce> Unglücklicherweise ist die Zeit bei dieser
+<ce> Angelegenheit nicht unser Freund. Aus Gründen,
+<ce> die zu langweilig sind um diskutiert zu werden,
+<ce> muss dieser Tölpel in =1stparton_ Tagen tot sein.
+<ce> Nachdem Ihr die Kreatur ermordet habt, trefft
+<ce> Ihr meinen Freund in __contact_ in
+<ce> ___contact_. Seht Euch nach einem
+<ce> =contact_ um. Schön, mit Euch
+<ce> Geschäfte zu machen, %pcn.
+<ce> Wir werden uns sicher wiedersehen.
 
 QuestFail:  [1003]
-Hört zu, Kindchen. Keine Ahnung, wie oft Ihr
-schon mit Clavicus Vile zu tun hattet, aber
-eins sage ich Euch: Er mag es nicht, wenn
-etwas nur halb erledigt wird. Ich weiß,
-dass der Werwolf nicht tot ist, und wenn Ihr
-glaubt, ihr könntet Vile zum Narren halten,
-seid Ihr ein Idiot. Ohne toten Werwolf auch
-keine Maske. So einfach ist das.
+<ce> Hört zu, Kindchen. Keine Ahnung, wie oft Ihr
+<ce> schon mit Clavicus Vile zu tun hattet, aber
+<ce> eins sage ich Euch: Er mag es nicht, wenn
+<ce> etwas nur halb erledigt wird. Ich weiß,
+<ce> dass der Werwolf nicht tot ist, und wenn Ihr
+<ce> glaubt, ihr könntet Vile zum Narren halten,
+<ce> seid Ihr ein Idiot. Ohne toten Werwolf auch
+<ce> keine Maske. So einfach ist das.
 
 QuestComplete:  [1004]
-Ah, %pcf, Vile sagte, ich solle
-Euch erwarten. Nun, Ihr habt Euren Teil erfüllt,
-so wie ich das verstehe, also ist hier die Maske
-des Clavicus Vile, genau wie er es versprochen
-hat. Er ist übrigens sehr von Euch beeindruckt.
-Man kann wirklich schlechtere Freunde haben,
-glaubt mir.
+<ce> Ah, %pcf, Vile sagte, ich solle
+<ce> Euch erwarten. Nun, Ihr habt Euren Teil erfüllt,
+<ce> so wie ich das verstehe, also ist hier die Maske
+<ce> des Clavicus Vile, genau wie er es versprochen
+<ce> hat. Er ist übrigens sehr von Euch beeindruckt.
+<ce> Man kann wirklich schlechtere Freunde haben,
+<ce> glaubt mir.
 
 RumorsDuringQuest:  [1005]
 Ich habe gehört, dass hier so etwas wie ein Werwolf frei herumläuft.
 <--->
-Ich hörte, die Werwölfe hätten einen Unterschlupf in  ___mondung_ gefunden.
+Ich hörte, die Werwölfe hätten einen Unterschlupf in ___mondung_ gefunden.
 <--->
 Habt Ihr das Heulen letzte Nacht gehört? Wolfsheulen?
 
@@ -78,18 +78,6 @@ Drüben bei ___mondung_ hat irgendeine seltsame Kultaktivität eingesetzt.
 Viele Leute fühlen sich sicherer, jetzt da der Werwolf tot ist.
 <--->
 Habt Ihr von dem Werwolf gehört, den ein %ra erlegt hat?
-
-QuestorPostsuccess:  [1008]
-Error: v0c00y00.q tried to display text
-
-QuestorPostsuccess:  [1008]
-.
-
-QuestorPostfailure:  [1009]
-Error: v0c00y00.q tried to display text
-
-QuestorPostfailure:  [1009]
-.
 
 Message:  1011
 Clavicus Vile ist der perfekte Politiker im Reich des Vergessens.

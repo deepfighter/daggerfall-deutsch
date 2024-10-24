@@ -3,48 +3,48 @@ DisplayName: Eine mächtige Seele
 QRC:
 
 QuestorOffer:  [1000]
-Die gesamte Philosophie des Ordens der
-Barmherzigkeit Maras verbietet uns,
-einem anderen Lebewesen willentlich
-Schaden zuzufügen. Doch stehen wir nun
-vor einer Situation, die direktes und
-tödliches Handeln erfordert. Werdet Ihr
-eine unreine Seele vernichten, die einen
-unserer heiligen Schreine heimsucht?
-Wir wären bereit, Euch _reward Goldmünzen_
-darzubieten.
+<ce> Die gesamte Philosophie des Ordens der
+<ce> Barmherzigkeit Maras verbietet uns,
+<ce> einem anderen Lebewesen willentlich
+<ce> Schaden zuzufügen. Doch stehen wir nun
+<ce> vor einer Situation, die direktes und
+<ce> tödliches Handeln erfordert. Werdet Ihr
+<ce> eine unreine Seele vernichten, die einen
+<ce> unserer heiligen Schreine heimsucht?
+<ce> Wir wären bereit, Euch _reward Goldmünzen_<ce> 
+<ce> darzubieten.
 
 RefuseQuest:  [1001]
-Es ist zwar ein Auftrag mit erheblicher
-Gefahr, aber ich bin enttäuscht, dass Ihr
-ihn nicht einmal in Betracht zieht.
+<ce> Es ist zwar ein Auftrag mit erheblicher
+<ce> Gefahr, aber ich bin enttäuscht, dass Ihr
+<ce> ihn nicht einmal in Betracht zieht.
 
 AcceptQuest:  [1002]
-Es gibt diesen verlassenen Tempel, nicht
-sehr weit von hier, ___mondung_
-genannt. Dieser Ort ist unserer Barmherzigkeit
-seit Jahrhunderten heilig. Wir huldigen nicht
-mehr dort, aber wir versuchen, ihn von bösen
-Einflüssen freizuhalten. Leider ist die Seele,
-die ihn heimsucht, zu mächtig, als dass wir
-sie vertreiben könnten. Wenn Ihr nicht in
-=1stparton_ Tagen zurück seid, werden wir annehmen,
-dass Ihr gescheitert seid und stattdessen die
-Maranischen Ritter entsenden. Eure Belohnung
-ist dann natürlich verwirkt. Nun geht mit dem
-Segen der Göttin.
+<ce> Es gibt diesen verlassenen Tempel, nicht
+<ce> sehr weit von hier, ___mondung_
+<ce> genannt. Dieser Ort ist unserer Barmherzigkeit
+<ce> seit Jahrhunderten heilig. Wir huldigen nicht
+<ce> mehr dort, aber wir versuchen, ihn von bösen
+<ce> Einflüssen freizuhalten. Leider ist die Seele,
+<ce> die ihn heimsucht, zu mächtig, als dass wir
+<ce> sie vertreiben könnten. Wenn Ihr nicht in
+<ce> =1stparton_ Tagen zurück seid, werden wir annehmen,
+<ce> dass Ihr gescheitert seid und stattdessen die
+<ce> Maranischen Ritter entsenden. Eure Belohnung
+<ce> ist dann natürlich verwirkt. Nun geht mit dem
+<ce> Segen der Göttin.
 
 QuestFail:  [1003]
-Was zögert Ihr noch, %pcf?
-Diese geplagte Seele entweiht
-noch immer unseren Tempel.
+<ce> Was zögert Ihr noch, %pcf?
+<ce> Diese geplagte Seele entweiht
+<ce> noch immer unseren Tempel.
 
 QuestComplete:  [1004]
-Ihr habt der Barmherzigkeit Maras einen
-großen Dienst erwiesen, %pcf,
-der nicht so bald vergessen werden wird.
-Freut Euch über Eure  _reward_ Gold, Ihr habt
-sie Euch verdient.
+<ce> Ihr habt der Barmherzigkeit Maras einen
+<ce> großen Dienst erwiesen, %pcf,
+<ce> der nicht so bald vergessen werden wird.
+<ce> Freut Euch über Eure _reward_ Gold, Ihr habt
+<ce> sie Euch verdient.
 
 RumorsDuringQuest:  [1005]
 ___mondung_ war schon immer gruselig. Aber jetzt scheint es verflucht zu sein.
@@ -62,12 +62,12 @@ Selbst wenn ___mondung_ jetzt frei von Geistern ist -- ich geh' da nicht hin!
 Die Barmherzigkeit Maras ist glücklich, dass ihr ___mondung_ wieder gesäubert ist.
 
 QuestorPostsuccess:  [1008]
-Nachdem Ihr Euch für uns durch  ___mondung_
+Nachdem Ihr Euch für uns durch ___mondung_
 geschleppt habt, ist hallo zu sagen wohl das mindeste,
 das ich tun kann.
 
 QuestorPostfailure:  [1009]
-___mondung_  ist immer noch mit Geistern verflucht.
+___mondung_ ist immer noch mit Geistern verflucht.
 Verdammt sollt Ihr sein, %pcf!
 
 QuestLogEntry:  [1010]
@@ -81,7 +81,7 @@ QuestLogEntry:  [1010]
  ___mondung_ auszutreiben.
 
 Message:  1020
-"Meine Seele wird jetzt in Frieden ruhen."
+<ce> "Meine Seele wird jetzt in Frieden ruhen."
  
 ___mondung_ wurde gereinigt.
 

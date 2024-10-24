@@ -3,65 +3,65 @@ DisplayName: Schrecklicher Priester
 QRC:
 
 QuestorOffer:  [1000]
-Ihr wagt es, Azura vom Purpurtor zu beschwören
-und sie um Macht zu bitten? Ich weiß nicht, ob
-Ihr einer solchen Gunst würdig seid. Eigentlich
-bezweifle ich es doch sehr. Wenn ich, sagen wir,
-von Euch verlangte, einen Priester zu töten, der
-sehr, sehr unschöne Dinge über mich verbreitet,
-würdet Ihr mir wohl selbst diesen einfachen,
-kleinen Wunsch abschlagen. Oder würdet Ihr das
-für mich tun?
+<ce> Ihr wagt es, Azura vom Purpurtor zu beschwören
+<ce> und sie um Macht zu bitten? Ich weiß nicht, ob
+<ce> Ihr einer solchen Gunst würdig seid. Eigentlich
+<ce> bezweifle ich es doch sehr. Wenn ich, sagen wir,
+<ce> von Euch verlangte, einen Priester zu töten, der
+<ce> sehr, sehr unschöne Dinge über mich verbreitet,
+<ce> würdet Ihr mir wohl selbst diesen einfachen,
+<ce> kleinen Wunsch abschlagen. Oder würdet Ihr das
+<ce> für mich tun?
 
 RefuseQuest:  [1001]
-Nein?! Ihr hättet Ja sagen sollen!
-Ihr hättet "Ja, wunderschöne Azura,
-ich würde mit Freuden für Euch morden,
-sobald Ihr mit Euren elfenbeinfarbenen
-Fingern schnippt" sagen sollen.
-Tölpel!
-Frömmler!
-Barbar!
-Ich sollte nun gehen, bevor ich vergesse,
-dass ich eine Dame bin und etwas sage,
-das ich bereuen würde ...
+<ce> Nein?! Ihr hättet Ja sagen sollen!
+<ce> Ihr hättet "Ja, wunderschöne Azura,
+<ce> ich würde mit Freuden für Euch morden,
+<ce> sobald Ihr mit Euren elfenbeinfarbenen
+<ce> Fingern schnippt" sagen sollen.
+<ce> Tölpel!
+<ce> Frömmler!
+<ce> Barbar!
+<ce> Ich sollte nun gehen, bevor ich vergesse,
+<ce> dass ich eine Dame bin und etwas sage,
+<ce> das ich bereuen würde ...
 
 AcceptQuest:  [1002]
-Ihr würdet? Oh wunderbar! Nun, dieser
-wirklich entsetzliche Priester ist noch
-dazu ein Heiler, wenn das etwas bedeutet.
-Ist das nicht einfach typisch?
-Wie bei solchen selbstgerechten Typen,
-üblich hat sich =monster_  nach
-___mondung_ zurückgezogen,  wo
-er sich geistig läutert oder so etwas
-lächerliches. Na, einerlei, warum schaut
-Ihr da nicht mal vorbei und stecht ein
-Schwert in %g2 oder so? Und dann schnell
-nach ___qgfriend_ um meinen
-Liebsten _qgfriend_ zu treffen,
-der Euch meinen Stern geben wird.
-Das ist genug Macht für jeden. =1stparton_ Tage 
-sollten ausreichen, meint Ihr nicht?
-Oh, gut. Dann beeilt Euch, %pcf.
-Und grüßt _qgfriend_ von mir!
-Auf bald!
+<ce> Ihr würdet? Oh wunderbar! Nun, dieser
+<ce> wirklich entsetzliche Priester ist noch
+<ce> dazu ein Heiler, wenn das etwas bedeutet.
+<ce> Ist das nicht einfach typisch?
+<ce> Wie bei solchen selbstgerechten Typen,
+<ce> üblich hat sich =monster_ nach
+<ce> ___mondung_ zurückgezogen, wo
+<ce> er sich geistig läutert oder so etwas
+<ce> lächerliches. Na, einerlei, warum schaut
+<ce> Ihr da nicht mal vorbei und stecht ein
+<ce> Schwert in %g2 oder so? Und dann schnell
+<ce> nach ___qgfriend_ um meinen
+<ce> Liebsten _qgfriend_ zu treffen,
+<ce> der Euch meinen Stern geben wird.
+<ce> Das ist genug Macht für jeden. =1stparton_ Tage 
+<ce> sollten ausreichen, meint Ihr nicht?
+<ce> Oh, gut. Dann beeilt Euch, %pcf.
+<ce> Und grüßt _qgfriend_ von mir!
+<ce> Auf bald!
 
 QuestFail:  [1003]
-Hmm? Was?
-Kenne ich Euch?
+<ce> Hmm? Was?
+<ce> Kenne ich Euch?
 
 QuestComplete:  [1004]
-Oh. Oh, %pcn!
-Wartet Ihr schon lange? Es tut mir
-leid, ich hatte nur gerade einen Tagtraum
-über meine Herrin, die Fürstin Azura.
-Wisst Ihr, diese Kerze erinnerte mich
-an das Funkeln ihrer Augen. Wie albern
-von mir. Nun, hier ist Azuras Stern.
-Sie überlässt ihn wirklich nicht jedem.
-Aber lasst Euch das nicht zu Kopf steigen.
-Ich habe sie zuerst gekannt.
+<ce> Oh. Oh, %pcn!
+<ce> Wartet Ihr schon lange? Es tut mir
+<ce> leid, ich hatte nur gerade einen Tagtraum
+<ce> über meine Herrin, die Fürstin Azura.
+<ce> Wisst Ihr, diese Kerze erinnerte mich
+<ce> an das Funkeln ihrer Augen. Wie albern
+<ce> von mir. Nun, hier ist Azuras Stern.
+<ce> Sie überlässt ihn wirklich nicht jedem.
+<ce> Aber lasst Euch das nicht zu Kopf steigen.
+<ce> Ich habe sie zuerst gekannt.
 
 RumorsDuringQuest:  [1005]
 Habt Ihr die Rede von =monster_ über die Sünde der Eitelkeit gehört, als %g in der Stadt war?

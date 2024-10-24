@@ -3,43 +3,47 @@ DisplayName: Der Mumienfinger
 QRC:
 
 QuestorOffer:  [1000]
-Würdet Ihr für mich einen Botengang übernehmen?
-Ich biete Euch im Voraus _gold1_ Goldstücke und weitere
-_gold2_ Goldstücke nach Erledigung des Auftrags.
-Könnt Ihr mir helfen?
+<ce> Würdet Ihr für mich einen Botengang übernehmen?
+<ce> Ich biete Euch im Voraus _gold1_ Goldstücke und weitere
+<ce> _gold2_ Goldstücke nach Erledigung des Auftrags.
+<ce> Könnt Ihr mir helfen?
 
 RefuseQuest:  [1001]
-%oth, ich werde dieses Ding wohl nie los!
-Warum will mir niemand helfen?
+<ce> %oth, ich werde dieses Ding wohl nie los!
+<ce> Warum will mir niemand helfen?
 
 AcceptQuest:  [1002]
-%god sei dank! Ihr wisst nicht,
-wie viel mir das bedeutet. Hier ist
-Euer Gold. Nun bringt dies zu _dummy_
-in ___dummy_, %g wird Euch den Rest
-bezahlen. Ich muss jetzt wirklich gehen.
-Ich danke Euch von Herzen!
+<ce> %god sei dank! Ihr wisst nicht,
+<ce> wie viel mir das bedeutet. Hier ist
+<ce> Euer Gold. Nun bringt dies zu _dummy_
+<ce> in ___dummy_, %g wird Euch den Rest
+<ce> bezahlen. Ich muss jetzt wirklich gehen.
+<ce> Ich danke Euch von Herzen!
+
+QuestComplete:   [1004]
+<ce> _giver_ reicht Euch einen in ein kleines Objekt gewickelten Brief,
+<ce> und eilt rasch davon.
 
 RumorsDuringQuest:  [1005]
-Die Piraten waren dieses Jahr besonders aktiv.
+<ce> Die Piraten waren dieses Jahr besonders aktiv.
 
 RumorsPostfailure:  [1006]
-Habt Ihr die Geschichte vom Fluch des
-Mumienfingers gehört? Oh, verzeiht,
-das wusste ich nicht...
+<ce> Habt Ihr die Geschichte vom Fluch des
+<ce> Mumienfingers gehört? Oh, verzeiht,
+<ce> das wusste ich nicht...
 
 RumorsPostsuccess:  [1007]
-Ein treuherziger %ra ist nach
-___dungeon_ gegangen.
-Armer Narr.
+<ce> Ein treuherziger %ra ist nach
+<ce> ___dungeon_ gegangen.
+<ce> Armer Narr.
 
 QuestorPostsuccess:  [1008]
-Die Tölpel werden dieses Jahr früh zurückkehren.
+<ce> Die Tölpel werden dieses Jahr früh zurückkehren.
 
 QuestorPostfailure:  [1009]
-Haltet Ihr mich für beleibt?
-Jeder sagt das von mir, aber
-ich glaube es nicht.
+<ce> Haltet Ihr mich für beleibt?
+<ce> Jeder sagt das von mir, aber
+<ce> ich glaube es nicht.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -65,62 +69,69 @@ Message:  1012
  begraben liegt. Ich muss ihre wahre Form vernichten,
  sonst wird ihr Geist mich für die nächsten 1001 Nächte heimsuchen.
 
+Message:  1013
+<ce> Paket? Von _giver_? Nein, %g1
+<ce> hätte mir zuvor Bescheid gegeben.
+<ce> Ihr müsst im Irrtum sein. Warum
+<ce> lest Ihr nicht den Inhalt, um zu<ce> 
+<ce> sehen, für wen es bestimmt ist?
+
 Message:  1015
-Ich weiß nichts darüber. Versucht es bei einem Tempel.
+<ce> Ich weiß nichts darüber. Versucht es bei einem Tempel.
 <--->
-_sage_ weiß darüber Bescheid, geht und fragt %g2!
+<ce> _sage_ weiß darüber Bescheid, geht und fragt %g2!
 <--->
-Habt Ihr schon in __sage_ in ___sage_ nachgeforscht?
+<ce> Habt Ihr schon in __sage_ in ___sage_ nachgeforscht?
 <--->
-Ich hörte, jemand in ___sage_ könnte etwas wissen.
+<ce> Ich hörte, jemand in ___sage_ könnte etwas wissen.
 <--->
-Man sagt, _sage_ sei der größte Experte für solche Dinge.
+<ce> Man sagt, _sage_ sei der größte Experte für solche Dinge.
 <--->
-Es könnte sein, dass der Weise in __sage_ etwas weiß.
+<ce> Es könnte sein, dass der Weise in __sage_ etwas weiß.
 
 Message:  1016
-Der Dieb meines _finger_ muss sterben!
+<ce> Der Dieb meines _finger_ muss sterben!
 <--->
-Ich komme wegen _finger_!
+<ce> Ich komme wegen _finger_!
 <--->
-Akzeptiert Euer Schicksal!
-Legt die Waffe nieder!
+<ce> Akzeptiert Euer Schicksal!
+<ce> Legt die Waffe nieder!
 <--->
-Mein _finger_, mein _finger_!
+<ce> Mein _finger_, mein _finger_!
 <--->
-Ihr habt mein _finger_.
-Ohne ihn kann ich nicht ruhen.
+<ce> Ihr habt mein _finger_.
+<ce> Ohne ihn kann ich nicht ruhen.
 <--->
-Ihr mögt mich heute Nacht vernichten,
-aber ich werde zurückkehren!
+<ce> Ihr mögt mich heute Nacht vernichten,
+<ce> aber ich werde zurückkehren!
 <--->
-Ich werde erneut emporsteigen und
-meinen _finger_ holen!
+<ce> Ich werde erneut emporsteigen und
+<ce> meinen _finger_ holen!
 
 Message:  1020
-Alle Eindringlinge meines Grabs müssen sterben!
+<ce> Alle Eindringlinge meines Grabs müssen sterben!
 
 Message:  1025
-Lasst mich den _finger_ sehen. Ah...
-Ja, er trägt den Fluch von =realmummy_.
-Für 1001 Nächte wird der Träger dieses
-_finger_ vom Geist von =realmummy_
-heimgesucht, sobald die Uhr Mitternacht
-schlägt. Der einzige Weg, den Fluch zu
-brechen, ist die wahre =realmummy_
-in ihrem Grab in ___dungeon_ zu vernichten.
+<ce> Lasst mich den _finger_ sehen. Ah...
+<ce> Ja, er trägt den Fluch von =realmummy_.
+<ce> Für 1001 Nächte wird der Träger dieses
+<ce> _finger_ vom Geist von =realmummy_
+<ce> heimgesucht, sobald die Uhr Mitternacht
+<ce> schlägt. Der einzige Weg, den Fluch zu
+<ce> brechen, ist die wahre =realmummy_
+<ce> in ihrem Grab in ___dungeon_ zu vernichten.
 
 Message:  1026
-Was Ihr beschreibt, klingt nach einem
-klassischen Mumienfluch, aber ohne den
-_finger_ selbst kann ich Euch
-nicht mehr sagen. Bringt ihn mir, und
-ich kann vielleicht feststellen, woher
-er stammt.
+<ce> Was Ihr beschreibt, klingt nach einem
+<ce> klassischen Mumienfluch, aber ohne den
+<ce> _finger_ selbst kann ich Euch
+<ce> nicht mehr sagen. Bringt ihn mir, und
+<ce> ich kann vielleicht feststellen, woher
+<ce> er stammt.
 
 Message:  1030
-=realmummy_  ist tot, %g2 Fluch
-ist für immer von Euch genommen.
+<ce> =realmummy_ ist tot, %g2 Fluch
+<ce> ist für immer von Euch genommen.
 
 Message:  1040
 Seid gegrüßt Fremder,
@@ -141,15 +152,10 @@ Seid gegrüßt Fremder,
  dass ich Euch nichts Böses wollte, aber ich
  wäre sonst gestorben oder wahnsinnig geworden.
 
-Message:  1045
-_giver_ gibt Euch einen in ein
-kleines Objekt gewickelten Brief und
-sucht das Weite.
-
 Message:  1050
-_sage_ ist ein bekannter
-Gelehrter aus ___sage_.
+<ce> _sage_ ist ein bekannter
+<ce> Gelehrter aus ___sage_.
 <--->
-Ihr findet _sage_ in
-__sage_ in ___sage_.
+<ce> Ihr findet _sage_ in
+<ce> __sage_ in ___sage_.
 

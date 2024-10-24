@@ -3,58 +3,58 @@ DisplayName: Ein heißer Stein
 QRC:
 
 QuestorOffer:  [1000]
-Hört zu, %pcf, ein Mitglied
-unserer Familie befindet sich
-in großer Not. Habt Ihr einige
-Tage übrig, um einem der Unseren
-zur Seite zu stehen?
+<ce> Hört zu, %pcf, ein Mitglied
+<ce> unserer Familie befindet sich
+<ce> in großer Not. Habt Ihr einige
+<ce> Tage übrig, um einem der Unseren
+<ce> zur Seite zu stehen?
 
 RefuseQuest:  [1001]
-Nun gut, ich nehme an, Ihr seid Euch
-sicher, dass Ihr selbst nie in solch
-missliche Lage geraten werdet.
+<ce> Nun gut, ich nehme an, Ihr seid Euch
+<ce> sicher, dass Ihr selbst nie in solch
+<ce> missliche Lage geraten werdet.
 
 AcceptQuest:  [1002]
-Gut, %ra. Einer unserer
-geschicktesten Diebe sitzt in
-___contact_ in einem
-elenden Rattenloch, der Taverne
-__contact_, fest. %g
-besitzt einen heißbegehrten Edelstein,
-den %g aus dem Palast entwendet hat.
-Doch Gerüchten zufolge wurde %g2 damit
-gesehen, und nun lauern die Wachen
-bereits vor Ort. Aus Respekt vor dem
-Wirt der Taverne _contact_
-gewähren sie eine Frist von =1stparton_ Tagen,
-bevor sie eintreten. Eilt nach
-__contact_ und übergebt
-_contact_ dieses Stück _metal_
-im Austausch für den _gems_, und
-bringt ihn dann unverzüglich hierher zurück.
-Habt Ihr das verstanden? Gut. Nun
-beeilt Euch, die Zeit drängt.
+<ce> Gut, %ra. Einer unserer
+<ce> geschicktesten Diebe sitzt in
+<ce> ___contact_ in einem
+<ce> elenden Rattenloch, der Taverne
+<ce> __contact_, fest. %g
+<ce> besitzt einen heißbegehrten Edelstein,
+<ce> den %g aus dem Palast entwendet hat.
+<ce> Doch Gerüchten zufolge wurde %g2 damit
+<ce> gesehen, und nun lauern die Wachen
+<ce> bereits vor Ort. Aus Respekt vor dem
+<ce> Wirt der Taverne _contact_
+<ce> gewähren sie eine Frist von =1stparton_ Tagen,
+<ce> bevor sie eintreten. Eilt nach
+<ce> __contact_ und übergebt
+<ce> _contact_ dieses Stück _metal_
+<ce> im Austausch für den _gems_, und
+<ce> bringt ihn dann unverzüglich hierher zurück.
+<ce> Habt Ihr das verstanden? Gut. Nun
+<ce> beeilt Euch, die Zeit drängt.
 
 QuestFail:  [1003]
-Gut, Euch zu sehen, %pcf,
-doch Ihr solltet nicht mit leeren
-Händen zurückkehren. Ihr solltet
-einen _gems_ bei Euch tragen,
-erinnert Ihr Euch?
+<ce> Gut, Euch zu sehen, %pcf,
+<ce> doch Ihr solltet nicht mit leeren
+<ce> Händen zurückkehren. Ihr solltet
+<ce> einen _gems_ bei Euch tragen,
+<ce> erinnert Ihr Euch?
 
 QuestComplete:  [1004]
-Gute Arbeit, %pcf. Ich hörte,
-_contact_ habe den Wachen
-das Stück _metal_ gezeigt,
-das sie fälschlicherweise für den
-_gems_ hielten, und sie haben
-%g3 dafür als Entschuldigung ein
-Getränk spendiert. Wahrlich, es
-gibt kein Leben wie das eines
-Schurken. Hier ist Euer Anteil
-am _gems_ – _reward_ Goldstücke.
-Ihr habt es Euch redlich verdient,
-%pcf.
+<ce> Gute Arbeit, %pcf. Ich hörte,
+<ce> _contact_ habe den Wachen
+<ce> das Stück _metal_ gezeigt,
+<ce> das sie fälschlicherweise für den
+<ce> _gems_ hielten, und sie haben
+<ce> %g3 dafür als Entschuldigung ein
+<ce> Getränk spendiert. Wahrlich, es
+<ce> gibt kein Leben wie das eines
+<ce> Schurken. Hier ist Euer Anteil
+<ce> am _gems_ – _reward_ Goldstücke.
+<ce> Ihr habt es Euch redlich verdient,
+<ce> %pcf.
 
 RumorsDuringQuest:  [1005]
 Nun, jeder weiß, dass _contact_ das Juwel gestohlen hat. Warum holen sie %g2 nicht einfach?
@@ -72,25 +72,27 @@ Am Ende mussten sie _contact_ doch freilassen. Es stellte sich heraus, dass %g u
 Wie kann man nur _metal_ mit einem _gems_ verwechseln? Beide mögen Steine sein, aber kommt schon!
 
 QuestorPostsuccess:  [1008]
-Was führt Euch her, %pcf? Seid Ihr hier, um den _gems_ zurückzuholen? Ich wette, dass seid Ihr!
+<ce> Was führt Euch her, %pcf?
+<ce> Seid Ihr hier, um den _gems_
+<ce> zurückzuholen? Ich wette, dass seid Ihr!
 
 QuestorPostfailure:  [1009]
-Erinnert Ihr Euch nicht daran, dass Ihr den
-_gems_ von _contact_ holen
-und ihm das Stück _metal_ bringen
-solltet, das ich Euch gab? %oth!
-Man sollte meinen, dies sei keine schwere Aufgabe.
+<ce> Erinnert Ihr Euch nicht daran, dass Ihr den
+<ce> _gems_ von _contact_ holen
+<ce> und ihm das Stück _metal_ bringen
+<ce> solltet, das ich Euch gab? %oth!
+<ce> Man sollte meinen, dies sei keine schwere Aufgabe.
 
 QuestLogEntry:  [1010]
-%oth, %pcf,  Ihr seid ein wahrer Retter.
-Es stellte sich heraus, dass jemand mich mit einem
-_gems_ gesehen hat und annahm, es sei der
-gestohlene Edelstein. Dieser Brocken _metal_
-ist nun meine Eintrittskarte zur Freiheit. Denkt
-daran, dass ich Euch irgendwann ein Getränk schulde.
-Nun beeilt Euch und kehrt zu _questgiver_
-zurück. Sie werden misstrauisch, wenn Ihr nicht
-innerhalb von =1stparton_ Tagen zurück seid.
+<ce> %oth, %pcf, Ihr seid ein wahrer Retter.
+<ce> Es stellte sich heraus, dass jemand mich mit einem
+<ce> _gems_ gesehen hat und annahm, es sei der
+<ce> gestohlene Edelstein. Dieser Brocken _metal_
+<ce> ist nun meine Eintrittskarte zur Freiheit. Denkt
+<ce> daran, dass ich Euch irgendwann ein Getränk schulde.
+<ce> Nun beeilt Euch und kehrt zu _questgiver_
+<ce> zurück. Sie werden misstrauisch, wenn Ihr nicht
+<ce> innerhalb von =1stparton_ Tagen zurück seid.
 
 Message:  1015
 %qdt:
@@ -105,8 +107,8 @@ Message:  1015
  =1stparton_ Tage Zeit dafür.
 
 Message:  1020
-Ich weiß aus sicherer Quelle, dass Ihr
-den _gems_ habt, den _contact_
-gestohlen hat. Übergebt ihn mir, und Ihr
-könnt unbehelligt weiterziehen.
+<ce> Ich weiß aus sicherer Quelle, dass Ihr
+<ce> den _gems_ habt, den _contact_
+<ce> gestohlen hat. Übergebt ihn mir, und Ihr
+<ce> könnt unbehelligt weiterziehen.
 

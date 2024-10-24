@@ -3,38 +3,38 @@ DisplayName: Rattenplage
 QRC:
 
 QuestorOffer:  [1000]
-Mein Name ist _qgiver_.
-Wir vergeben unsere Aufträge
-eigentlich nur an Gildenmitglieder.
-Es gibt aber hin und wieder Aufträge,
-die so einfach sind, dass sie kein
-Krieger der Gilde annehmen würde.
-So etwas hätte ich hier. Wenn Ihr
-annehmt, zeigt Ihr damit, dass Ihr
-wirklich auf unserer guten Seite
-stehen wollt. Was sagt Ihr?
+<ce> Mein Name ist _qgiver_.
+<ce> Wir vergeben unsere Aufträge
+<ce> eigentlich nur an Gildenmitglieder.
+<ce> Es gibt aber hin und wieder Aufträge,
+<ce> die so einfach sind, dass sie kein
+<ce> Krieger der Gilde annehmen würde.
+<ce> So etwas hätte ich hier. Wenn Ihr
+<ce> annehmt, zeigt Ihr damit, dass Ihr
+<ce> wirklich auf unserer guten Seite
+<ce> stehen wollt. Was sagt Ihr?
 
 RefuseQuest:  [1001]
-Offensichtlich habt Ihr nichts für
-die Kriegergilde übrig. Ich werde
-dafür sorgen, dass alle erfahren,
-was Ihr wirklich denkt.
+<ce> Offensichtlich habt Ihr nichts für
+<ce> die Kriegergilde übrig. Ich werde
+<ce> dafür sorgen, dass alle erfahren,
+<ce> was Ihr wirklich denkt.
 
 AcceptQuest:  [1002]
-Riesenratten haben dieses Gebäude
-[_house_] hier befallen.
-Es könnte ein gutes halbes Dutzend von
-ihnen sein. Geht hin, tötet alle und
-ich werde sehen, welche Fäden ich zu
-Eurem Vorteil ziehen kann. Aber ich kann
-Euch dafür nur einen Tag Zeit geben.
+<ce> Riesenratten haben dieses Gebäude
+<ce> [_house_] hier befallen.
+<ce> Es könnte ein gutes halbes Dutzend von
+<ce> ihnen sein. Geht hin, tötet alle und
+<ce> ich werde sehen, welche Fäden ich zu
+<ce> Eurem Vorteil ziehen kann. Aber ich kann
+<ce> Euch dafür nur einen Tag Zeit geben.
 
 QuestComplete:  [1004]
-Ratten zu töten, selbst wenn
-es Riesenratten sind, ist
-zwar nicht sehr schwierig
-- aber es steigert Euer
-Ansehen bei uns. Gute Arbeit.
+<ce> Ratten zu töten, selbst wenn
+<ce> es Riesenratten sind, ist
+<ce> zwar nicht sehr schwierig
+<ce> - aber es steigert Euer
+<ce> Ansehen bei uns. Gute Arbeit.
 
 RumorsDuringQuest:  [1005]
 Irgendein Idiot hat vier Fässer
@@ -55,14 +55,14 @@ dieser Frau zu töten. Sie haben Ihr
 das nicht einmal in Rechnung gestellt.
 
 QuestorPostsuccess:  [1008]
-Ihr habt also die Ratten getötet.
-Bildet Euch nur nicht zu viel darauf ein.
-Das waren nur Ratten.
+<ce> Ihr habt also die Ratten getötet.
+<ce> Bildet Euch nur nicht zu viel darauf ein.
+<ce> Das waren nur Ratten.
 
 QuestorPostfailure:  [1009]
-Ihr konntet Euch nicht einmal um
-Riesenratten kümmern. Ihr seid ein
-hoffnungsloser Fall, %pcn.
+<ce> Ihr konntet Euch nicht einmal um
+<ce> Riesenratten kümmern. Ihr seid ein
+<ce> hoffnungsloser Fall, %pcn.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -72,8 +72,14 @@ QuestLogEntry:  [1010]
  Riesenrattenplage zu befreien.
  Ich habe dafür einen Tag Zeit.
 
+Message:  1011
+<ce> Dieses Gemäuer stinkt abscheulich nach
+<ce> Ratten. Euer Eintritt hat sie wohl aus
+<ce> ihrer Ruhe aufgeschreckt und in Bewegung
+<ce> versetzt.
+
 Message:  1020
-Das waren die allermeisten. Die
-Kriegergilde wird wegen dem
-Rest nicht kleinlich sein.
+<ce> Das waren die allermeisten. Die
+<ce> Kriegergilde wird wegen dem
+<ce> Rest nicht kleinlich sein.
 

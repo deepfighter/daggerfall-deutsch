@@ -3,35 +3,35 @@ DisplayName: Spinnenjagd
 QRC:
 
 QuestorOffer:  [1000]
-Mein Name ist _qgiver_.
-Ich gebe eigentlich nicht gerne Aufträge an
-Nichtmitglieder, aber Ihr scheint vertrauenswürdig
-zu sein. Irgendeine arme Seele hat ein Riesenspinnenei
-mit nach Hause genommen, das ausgeschlüpft ist.
-Er hat es wohl für den Kokon eines Seidenwurms
-gehalten. Der arme Tölpel kann sich unsere Dienste
-zur Beseitigung nicht leisten. Aber wenn Ihr Euch
-umsonst darum kümmert, steht die Gilde gut da, und
-ich sorge im Gegenzug dafür, dass Ihr gut dasteht.
-Seid Ihr interessiert?
+<ce> Mein Name ist _qgiver_.
+<ce> Ich gebe eigentlich nicht gerne Aufträge an
+<ce> Nichtmitglieder, aber Ihr scheint vertrauenswürdig
+<ce> zu sein. Irgendeine arme Seele hat ein Riesenspinnenei
+<ce> mit nach Hause genommen, das ausgeschlüpft ist.
+<ce> Er hat es wohl für den Kokon eines Seidenwurms
+<ce> gehalten. Der arme Tölpel kann sich unsere Dienste
+<ce> zur Beseitigung nicht leisten. Aber wenn Ihr Euch
+<ce> umsonst darum kümmert, steht die Gilde gut da, und
+<ce> ich sorge im Gegenzug dafür, dass Ihr gut dasteht.
+<ce> Seid Ihr interessiert?
 
 RefuseQuest:  [1001]
-Ich hätte wissen müssen, dass es
-Euch mit der Arbeit nicht ernst war.
+<ce> Ich hätte wissen müssen, dass es
+<ce> Euch mit der Arbeit nicht ernst war.
 
 AcceptQuest:  [1002]
-Das ist Eure große Chance.
-Die Spinne ist in diesem Haus
-[_house_] gefangen.
-Tötet sie noch heute und ich
-werde ein gutes Wort für Euch
-einlegen.
+<ce> Das ist Eure große Chance.
+<ce> Die Spinne ist in diesem Haus
+<ce> [_house_] gefangen.
+<ce> Tötet sie noch heute und ich
+<ce> werde ein gutes Wort für Euch
+<ce> einlegen.
 
 QuestComplete:  [1004]
-Ihr habt Mumm, %pcf.
-Macht weiter so mit Eurer guten
-Arbeit und Ihr seid schon bald
-für die Kriegergilde gerüstet.
+<ce> Ihr habt Mumm, %pcf.
+<ce> Macht weiter so mit Eurer guten
+<ce> Arbeit und Ihr seid schon bald
+<ce> für die Kriegergilde gerüstet.
 
 RumorsDuringQuest:  [1005]
 Habt Ihr von diesem Idioten gehöhrt, der ein
@@ -53,10 +53,10 @@ QuestorPostsuccess:  [1008]
 Gut gemacht mit der Riesenspinne.
 
 QuestorPostfailure:  [1009]
-Wenn Ihr nicht einmal mit Spinnen
-fertigwerdet, wie erwartet Ihr dann mit
-den anderen Aufträgen fertigzuwerden,
-die Euch die Gilde geben könnte?
+<ce> Wenn Ihr nicht einmal mit Spinnen
+<ce> fertigwerdet, wie erwartet Ihr dann mit
+<ce> den anderen Aufträgen fertigzuwerden,
+<ce> die Euch die Gilde geben könnte?
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -68,5 +68,5 @@ QuestLogEntry:  [1010]
  noch erledigt werden.
 
 Message:  1011
-Die _monster_ ist tot.
+_monster_ ist tot.
 

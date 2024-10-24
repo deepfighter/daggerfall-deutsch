@@ -3,17 +3,17 @@ DisplayName: Aufnahmeprüfung
 QRC:
 
 QuestComplete:  [1004]
-Gut gemacht, %pcn.
-_npc_ erlag einem plötzlichen
-Herzversagen. Armer Bastard. Ihr habt bewiesen,
-dass Ihr nicht nur mit der blanken Klinge,
-sondern auch mit Vorsicht töten könnt. Ihr
-seid nun ein vollwertiges Mitglied der Dunklen
-Bruderschaft. Wenn Ihr eine Stadt betretet,
-werdet Ihr immer wissen, ob es dort Gildehallen
-gibt. Es ist üblich, dass der Novize für
-seinen ersten sanktionierten Tod eine einzige
-Goldmünze als Bezahlung erhält. Hier ist Eure.
+<ce> Gut gemacht, %pcn.
+<ce> _npc_ erlag einem plötzlichen
+<ce> Herzversagen. Armer Bastard. Ihr habt bewiesen,
+<ce> dass Ihr nicht nur mit der blanken Klinge,
+<ce> sondern auch mit Vorsicht töten könnt. Ihr
+<ce> seid nun ein vollwertiges Mitglied der Dunklen
+<ce> Bruderschaft. Wenn Ihr eine Stadt betretet,
+<ce> werdet Ihr immer wissen, ob es dort Gildehallen
+<ce> gibt. Es ist üblich, dass der Novize für
+<ce> seinen ersten sanktionierten Tod eine einzige
+<ce> Goldmünze als Bezahlung erhält. Hier ist Eure.
 
 RumorsDuringQuest:  [1005]
 _npc_ sollte sich auf Schritt und Tritt vorsehen, %g hat eine Menge Feinde.
@@ -44,19 +44,19 @@ QuestLogEntry:  [1010]
  dass ich an meiner Aufgabe gescheitert bin.
 
 Message:  1011
-Ein junges Straßenkind drückt
-Euch einen Brief in die Hand.
-Als Ihr es danach fragen wollt,
-wird deutlich, dass das Kind
-taub und stumm ist. Mit einem
-frustrierten Wink schickt Ihr
-es fort.
+<ce> Ein junges Straßenkind drückt
+<ce> Euch einen Brief in die Hand.
+<ce> Als Ihr es danach fragen wollt,
+<ce> wird deutlich, dass das Kind
+<ce> taub und stumm ist. Mit einem
+<ce> frustrierten Wink schickt Ihr
+<ce> es fort.
 <--->
-Ihr merkt, wie Euch ein Brief in die
-Hand gedrückt wird und hört das
-Geräusch davoneilender Schritte.
-Es gibt kein weiteres Zeichen von
-dem geheimnisvollen Kurier.
+<ce> Ihr merkt, wie Euch ein Brief in die
+<ce> Hand gedrückt wird und hört das
+<ce> Geräusch davoneilender Schritte.
+<ce> Es gibt kein weiteres Zeichen von
+<ce> dem geheimnisvollen Kurier.
 
 Message:  1012
 %qdt:
@@ -66,37 +66,37 @@ Message:  1012
  dieses Tagebuch zu übertragen.
 
 Message:  1014
-Ihr habt versagt, %pcn.
-_npc_ ist noch am Leben.
-Es ist Gildenregel, dass
-jemand sterben muss, sobald
-ein Kontrakt angenommen wurde.
-Ihr müsst den Platz von
-_npc_ einnehmen.
+<ce> Ihr habt versagt, %pcn.
+<ce> _npc_ ist noch am Leben.
+<ce> Es ist Gildenregel, dass
+<ce> jemand sterben muss, sobald
+<ce> ein Kontrakt angenommen wurde.
+<ce> Ihr müsst den Platz von
+<ce> _npc_ einnehmen.
 
 Message:  1015
-Ah, Ihr müsst %pcn sein.
-Die Dunkle Bruderschaft hat Euch beobachtet.
-Ihr habt bewiesen, dass Ihr mit einer Klinge
-töten könnt. Aber die Dunkle Bruderschaft
-toleriert keine Freischärler-Assassinen.
-Ihr müsst Euch uns anschließen oder werdet
-für den Tod gezeichnet. Die Bruderschaft
-wird Euch als vollwertiges Mitglied aufnehmen,
-wenn Ihr dieses Schlangengift nehmt und es
-in die Weinkaraffe von _npc_ in
-seinem Anwesen [_mansion_] in
-__mansion_ träufelt. Ihr habt
-=traveltime_ Tage Zeit, um das zu erledigen und
-_darkbmember_ in ___darkbmember_
-zu berichten. Möge Mephala Euch segnen,
-%pcn.
+<ce> Ah, Ihr müsst %pcn sein.
+<ce> Die Dunkle Bruderschaft hat Euch beobachtet.
+<ce> Ihr habt bewiesen, dass Ihr mit einer Klinge
+<ce> töten könnt. Aber die Dunkle Bruderschaft
+<ce> toleriert keine Freischärler-Assassinen.
+<ce> Ihr müsst Euch uns anschließen oder werdet
+<ce> für den Tod gezeichnet. Die Bruderschaft
+<ce> wird Euch als vollwertiges Mitglied aufnehmen,
+<ce> wenn Ihr dieses Schlangengift nehmt und es
+<ce> in die Weinkaraffe von _npc_ in
+<ce> seinem Anwesen [_mansion_] in
+<ce> __mansion_ träufelt. Ihr habt
+<ce> =traveltime_ Tage Zeit, um das zu erledigen und
+<ce> _darkbmember_ in ___darkbmember_
+<ce> zu berichten. Möge Mephala Euch segnen,
+<ce> %pcn.
 
 Message:  1019
-Das Schlangengift trübt den Wein,
-aber nur kurz. In wenigen Sekunden
-sieht das Getränk wieder normal aus.
-Jetzt müsst Ihr es nur noch zurückstellen.
+<ce> Das Schlangengift trübt den Wein,
+<ce> aber nur kurz. In wenigen Sekunden
+<ce> sieht das Getränk wieder normal aus.
+<ce> Jetzt müsst Ihr es nur noch zurückstellen.
 
 Message:  1020
 %pcn
@@ -104,8 +104,8 @@ Message:  1020
      die Dunkle Bruderschaft hat Euch beobachtet.
  Ihr habt mehrfach ohne Sanktion gemordet. Ihr
  müsst Euch uns nun anschließen oder Ihr werdet
- als unser Feind gezählt. Reist nach ___apothecary_
- in %reg und trefft Euch für weitere Anweisungen
+ als unser Feind gezählt. Reist nach ___apo_
+ in ____apo_ und trefft Euch für weitere Anweisungen
  mit _apothecary_. Wir geben Euch =S.01_ Tage dafür.
  
  Ein Bruder

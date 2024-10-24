@@ -3,52 +3,52 @@ DisplayName: Die Diebesbande
 QRC:
 
 QuestorOffer:  [1000]
-Ich brauche jemanden, der einen speziellen
-Gegenstand zu einem meiner Kontakte in
-___contact_ bringt. Dort werdet Ihr
-dafür einen anderen Gegenstand erhalten.
-Wenn Ihr diesen Gegenstand zu mir zurückbringt,
-werde ich Euch mit Freuden mit _reward_ Goldstücken
-belohnen. Seid Ihr einverstanden?
+<ce> Ich brauche jemanden, der einen speziellen
+<ce> Gegenstand zu einem meiner Kontakte in
+<ce> ___contact_ bringt. Dort werdet Ihr
+<ce> dafür einen anderen Gegenstand erhalten.
+<ce> Wenn Ihr diesen Gegenstand zu mir zurückbringt,
+<ce> werde ich Euch mit Freuden mit _reward_ Goldstücken
+<ce> belohnen. Seid Ihr einverstanden?
 
 RefuseQuest:  [1001]
-Nein? Was für ein Jammer.
-Ich war darauf vorbereitet,
-mich durchaus großzügig zu zeigen.
+<ce> Nein? Was für ein Jammer.
+<ce> Ich war darauf vorbereitet,
+<ce> mich durchaus großzügig zu zeigen.
 
 AcceptQuest:  [1002]
-Sehr gut. Nehmt diesen Goldbarren
-und bringt ihn zu _contact_.
-%g sollte leicht zu finden sein:
-=contact_, hält sich meistens an
-einem Ort namens __contact_ in
-___contact_ auf. Ihr werdet Euch
-beeilen müssen. _contact_ hat
-die Angewohnheit, nicht allzu
-lange auf trödelnde Kuriere zu
-warten. Nun gut, viel Glück Euch,
-%pcf. Ich erwarte Euch innerhalb
-von =1stparton_ Tagen zurück.
+<ce> Sehr gut. Nehmt diesen Goldbarren
+<ce> und bringt ihn zu _contact_.
+<ce> %g sollte leicht zu finden sein:
+<ce> =contact_, hält sich meistens an
+<ce> einem Ort namens __contact_ in
+<ce> ___contact_ auf. Ihr werdet Euch
+<ce> beeilen müssen. _contact_ hat
+<ce> die Angewohnheit, nicht allzu
+<ce> lange auf trödelnde Kuriere zu
+<ce> warten. Nun gut, viel Glück Euch,
+<ce> %pcf. Ich erwarte Euch innerhalb
+<ce> von =1stparton_ Tagen zurück.
 
 QuestFail:  [1003]
-Bitte behelligt mich nicht mehr, bis
-Ihr den Gegenstand abgeholt habt, für
-den ich Euch losgeschickt habe.
+<ce> Bitte behelligt mich nicht mehr, bis
+<ce> Ihr den Gegenstand abgeholt habt, für
+<ce> den ich Euch losgeschickt habe.
 
 QuestComplete:  [1004]
-Ausgezeichnet, %pcf, Ihr seid mit meinem
-verzauberten _item2_ zurückgekehrt,
-wie versprochen. Ich hörte, dass Ihr auf
-dem Weg in Schwierigkeiten geraten seid
-und befürchtete schon, dass wir Euch
-verloren hätten. Als Zeichen meiner
-Anerkennung für die hervorragende Arbeit,
-die Ihr geleistet habt, gebe ich Euch noch
-ein magisches _item3_ zu den _reward_ Goldstücken,
-die ich Euch ursprünglich versprochen habe.
-Ich bin sicher, wir werden Eure Dienste in
-naher Zukunft erneut in Anspruch nehmen.
-Ich danke Euch.
+<ce> Ausgezeichnet, %pcf, Ihr seid mit meinem
+<ce> verzauberten _item2_ zurückgekehrt,
+<ce> wie versprochen. Ich hörte, dass Ihr auf
+<ce> dem Weg in Schwierigkeiten geraten seid
+<ce> und befürchtete schon, dass wir Euch
+<ce> verloren hätten. Als Zeichen meiner
+<ce> Anerkennung für die hervorragende Arbeit,
+<ce> die Ihr geleistet habt, gebe ich Euch noch
+<ce> ein magisches _item3_ zu den _reward_ Goldstücken,
+<ce> die ich Euch ursprünglich versprochen habe.
+<ce> Ich bin sicher, wir werden Eure Dienste in
+<ce> naher Zukunft erneut in Anspruch nehmen.
+<ce> Ich danke Euch.
 
 RumorsDuringQuest:  [1005]
 Vor Kurzem war hier ein =contact_; hat mich gefragt, ob ich einen %ra gesehen hätte.
@@ -66,14 +66,17 @@ Ich hörte, _questgiver_ hat endlich ein _item2_ bekommen, das %g gebraucht hatt
 _questgiver_ singt wahre Loblieder auf einen gewissen %ra-Söldner.
 
 QuestorPostsuccess:  [1008]
-Und was kann ich für Euch tun, mein mutiger, junger Kurier?
+<ce> Und was kann ich für Euch tun,
+<ce> mein mutiger, junger Kurier?
 <--->
-Ich wäre froh, meinem liebsten Kurier zu helfen, wie immer ich kann.
+<ce> Ich wäre froh, meinem liebsten
+<ce> Kurier zu helfen, wie immer ich kann.
 
 QuestorPostfailure:  [1009]
-Die Lieferung war offensichtlich zu ... kompliziert,
-eh? Ah, die Schalheit der %ra-Jugend.
-Verlasst mich nun, %pcf.
+<ce> Die Lieferung war offensichtlich
+<ce> zu ... kompliziert, eh? Ah, die
+<ce> Schalheit der %ra-Jugend.
+<ce> Verlasst mich nun, %pcf.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -88,13 +91,13 @@ QuestLogEntry:  [1010]
  von _questgiver_ zu erhalten.
 
 Message:  1011
-Fabelhaft, %pcf. Ich liebe Gold
+<ce> Fabelhaft, %pcf. Ich liebe Gold
 einfach, Ihr nicht auch? Gut gut, Ihr
-werdet Euren Anteil bekommen, sobald
-Ihr dieses spezielle _item2_
-zurück zu _questgiver_ gebracht
-habt. Ich hoffe, Ihr erinnert Euch noch
-an den Weg zurück nach ___questgiver_.
+<ce> werdet Euren Anteil bekommen, sobald
+<ce> Ihr dieses spezielle _item2_
+<ce> zurück zu _questgiver_ gebracht
+<ce> habt. Ich hoffe, Ihr erinnert Euch noch
+<ce> an den Weg zurück nach ___questgiver_.
 
 Message:  1015
 _qgenemy_ ... Ich denke, %g ist von __thievesguild_.
@@ -102,15 +105,15 @@ _qgenemy_ ... Ich denke, %g ist von __thievesguild_.
 _qgenemy_? Fragt in __thievesguild_ herum. Jemand sollte %g2 dort kennen.
 
 Message:  1016
-_qgenemy_ ist beteiligt an äußerst dubiosen Geschäften in __thievesguild_.
-_thievesguild_, versucht es dort -- %g verbringt die meiste Zeit dort.
+<ce> _qgenemy_ ist beteiligt an äußerst dubiosen Geschäften in __thievesguild_.
+<ce> _thievesguild_, versucht es dort -- %g verbringt die meiste Zeit dort.
 
 Message:  1020
-Während Ihr Euch gegen Euren Angreifer verteidigt,
-spürt Ihr, wie Euch etwas von hinten streift.
-Ihr könnt flüchtig eine davonlaufende Gestalt
-erkennen, bevor Eure Aufmerksamkeit wieder gewaltsam
-auf das Überleben des aktuellen Kampfes gelenkt wird.
+<ce> Während Ihr Euch gegen Euren Angreifer verteidigt,
+<ce> spürt Ihr, wie Euch etwas von hinten streift.
+<ce> Ihr könnt flüchtig eine davonlaufende Gestalt
+<ce> erkennen, bevor Eure Aufmerksamkeit wieder gewaltsam
+<ce> auf das Überleben des aktuellen Kampfes gelenkt wird.
 
 Message:  1021
 =thief_,
@@ -124,13 +127,13 @@ Message:  1021
 _qgenemy_
 
 Message:  1030
-%oth, wer seid Ihr und wie seid Ihr
-hier hereingekommen?! Ihr müsst dieser
-verdammte Kurier von _questgiver_ sein!
-Ich wusste, ich hätte =thief_ Euch
-töten lassen sollen. Mein weiches Herz,
-es bringt mich immer in Schwierigkeiten ...
-Wachen! Tötet diesen Eindringling!!
+<ce> %oth, wer seid Ihr und wie seid Ihr
+<ce> hier hereingekommen?! Ihr müsst dieser
+<ce> verdammte Kurier von _questgiver_ sein!
+<ce> Ich wusste, ich hätte =thief_ Euch
+<ce> töten lassen sollen. Mein weiches Herz,
+<ce> es bringt mich immer in Schwierigkeiten ...
+<ce> Wachen! Tötet diesen Eindringling!!
 
 Message:  1035
 Das Pergament beschreibt die Lage des

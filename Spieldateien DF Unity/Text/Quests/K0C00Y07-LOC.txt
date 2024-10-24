@@ -3,80 +3,80 @@ DisplayName: Das Lösegeld
 QRC:
 
 QuestorOffer:  [1000]
-Mein armer Liebling, _victim_,
-wurde von der Diebesgilde entführt.
-Könnt Ihr mir helfen?
+<ce> Mein armer Liebling, _victim_,
+<ce> wurde von der Diebesgilde entführt.
+<ce> Könnt Ihr mir helfen?
 <--->
-Die Diebesgilde hat mir meine liebste
-_victim_ weggenommen und
-verlangen nun Lösegeld. Ich brauche
-jemanden, der meine Geliebte zu mir
-zurückbringt, koste es, was es wolle.
-Bitte, werdet Ihr mir helfen?
+<ce> Die Diebesgilde hat mir meine liebste
+<ce> _victim_ weggenommen und
+<ce> verlangen nun Lösegeld. Ich brauche
+<ce> jemanden, der meine Geliebte zu mir
+<ce> zurückbringt, koste es, was es wolle.
+<ce> Bitte, werdet Ihr mir helfen?
 
 RefuseQuest:  [1001]
-Ihr habt ein Herz aus Stein,
-%pcf. Dann werde ich wohl
-selbst mit diesen Entführern
-verhandeln müssen.
+<ce> Ihr habt ein Herz aus Stein,
+<ce> %pcf. Dann werde ich wohl
+<ce> selbst mit diesen Entführern
+<ce> verhandeln müssen.
 <--->
-Dann werde ich jemand anderen
-finden, %pcn.
+<ce> Dann werde ich jemand anderen
+<ce> finden, %pcn.
 
 AcceptQuest:  [1002]
-Ich habe leider nicht mehr viel, mit dem ich
-Euch bezahlen könnte, %pcf.
-Ich habe den Großteil meines Golds dazu
-gebraucht, diesen Edelstein zu kaufen, den
-die Entführer als Lösegeld bekommen wollen,
-doch Ihr bekommt den Rest meiner Ersparnisse,
-_gold_ Goldstücke, wenn meine geliebte
-_victim_ wieder bei mir ist.
-Die Entführer wollen, dass ich ihnen den _gem_
-an einem ruhigen Ort namens __kidnapper_
-in ___kidnapper_ übergebe und zwar innerhalb
-der nächsten =2ransom_ Tage. Ich soll dort nach
-einem =kidnapper_ mit dem Namen
-_kidnapper_ suchen.
-Für mich ist nur von Bedeutung, dass _victim_
-in Sicherheit ist, doch wenn Ihr dies erreichen könnt,
-ohne das Lösegeld zu bezahlen, wäre ich Euch
-sehr dankbar. Wie gesagt ist es beinahe alles, was
-ich habe. Viel Glück und möge %god Euch segnen.
+<ce> Ich habe leider nicht mehr viel, mit dem ich
+<ce> Euch bezahlen könnte, %pcf.
+<ce> Ich habe den Großteil meines Golds dazu
+<ce> gebraucht, diesen Edelstein zu kaufen, den
+<ce> die Entführer als Lösegeld bekommen wollen,
+<ce> doch Ihr bekommt den Rest meiner Ersparnisse,
+<ce> _gold_ Goldstücke, wenn meine geliebte
+<ce> _victim_ wieder bei mir ist.
+<ce> Die Entführer wollen, dass ich ihnen den _gem_
+<ce> an einem ruhigen Ort namens __kidnapper_
+<ce> in ___kidnapper_ übergebe und zwar innerhalb
+<ce> der nächsten =2ransom_ Tage. Ich soll dort nach
+<ce> einem =kidnapper_ mit dem Namen
+<ce> _kidnapper_ suchen.
+<ce> Für mich ist nur von Bedeutung, dass _victim_
+<ce> in Sicherheit ist, doch wenn Ihr dies erreichen könnt,
+<ce> ohne das Lösegeld zu bezahlen, wäre ich Euch
+<ce> sehr dankbar. Wie gesagt ist es beinahe alles, was
+<ce> ich habe. Viel Glück und möge %god Euch segnen.
 <--->
-%god sei Dank. Hier ist der _gem_,
-den die Entführer als Lösegeld wollen.
-Ich wäre sehr denkbar, wenn Ihr einen
-Weg finden könntet, _victim_ zu retten,
-ohne das Lösegeld zu bezahlen. Nach dem
-Kauf des Edelsteins habe ich kaum noch Gold
-übrig. Dennoch werde ich Euch natürlich
-gerne mit den restlichen _gold_ Goldstücken
-bezahlen, die ich noch habe, sobald _victim_
-wieder bei mir ist -- es ist eine lohnende Investition.
-Wenn Ihr das Lösegeld bezahlen müsst, wartet
-nicht länger als =2ransom_ Tage, um es zu tun. Die
-Entführer haben einen Kontaktmann im
-__kidnapper_ in ___kidnapper_,
-einen =kidnapper_ namens
-_kidnapper_. In =2ransom_ Tagen
-wird %g %g3 Freunden, die _victim_
-bewachen, Bescheid geben und sie werden %g2
-töten. Bitte lasst nicht zu, dass das passiert.
-Viel Glück, Freund.
+<ce> %god sei Dank. Hier ist der _gem_,
+<ce> den die Entführer als Lösegeld wollen.
+<ce> Ich wäre sehr denkbar, wenn Ihr einen
+<ce> Weg finden könntet, _victim_ zu retten,
+<ce> ohne das Lösegeld zu bezahlen. Nach dem
+<ce> Kauf des Edelsteins habe ich kaum noch Gold
+<ce> übrig. Dennoch werde ich Euch natürlich
+<ce> gerne mit den restlichen _gold_ Goldstücken
+<ce> bezahlen, die ich noch habe, sobald _victim_
+<ce> wieder bei mir ist -- es ist eine lohnende Investition.
+<ce> Wenn Ihr das Lösegeld bezahlen müsst, wartet
+<ce> nicht länger als =2ransom_ Tage, um es zu tun. Die
+<ce> Entführer haben einen Kontaktmann im
+<ce> __kidnapper_ in ___kidnapper_,
+<ce> einen =kidnapper_ namens
+<ce> _kidnapper_. In =2ransom_ Tagen
+<ce> wird %g %g3 Freunden, die _victim_
+<ce> bewachen, Bescheid geben und sie werden %g2
+<ce> töten. Bitte lasst nicht zu, dass das passiert.
+<ce> Viel Glück, Freund.
 
 Message:  1099
-_victim_! Oh, %god sei Dank,
-du lebst. Und Ihr, mein guter %pcf,
-habt nicht einmal den _gem_ gebraucht.
-Ich kann Euch nicht genug danken. Hier sind
-die _gold_ Goldstücke, die ich Euch versprochen
-habe, auch wenn sie kaum genug sind, für das,
-was Ihr für mich getan habt. Ich danke Euch von
-ganzem Herzen, mein Freund.
+<ce> _victim_! Oh, %god sei Dank,
+<ce> du lebst. Und Ihr, mein guter %pcf,
+<ce> habt nicht einmal den _gem_ gebraucht.
+<ce> Ich kann Euch nicht genug danken. Hier sind
+<ce> die _gold_ Goldstücke, die ich Euch versprochen
+<ce> habe, auch wenn sie kaum genug sind, für das,
+<ce> was Ihr für mich getan habt. Ich danke Euch von
+<ce> ganzem Herzen, mein Freund.
 
 QuestComplete:  [1004]
-Nehmt sie. Sie gehören Euch, mein Freund.
+<ce> Nehmt sie. Sie gehören Euch, mein Freund.
 
 RumorsDuringQuest:  [1005]
 _qgiver_ kann das Lösegeld für _victim_ kaum aufbringen.
@@ -87,15 +87,15 @@ RumorsPostfailure:  [1006]
 Die Diebe, die _victim_ entführt haben, werden wohl nie Gerechtigkeit erfahren.
 
 RumorsPostsuccess:  [1007]
-_victim_ wurde von einem wunderbaren %ra-Söldner  aus den Händen dieser Entführer befreit.
+_victim_ wurde von einem wunderbaren %ra-Söldner aus den Händen dieser Entführer befreit.
 
 QuestorPostsuccess:  [1008]
 Ihr habt _victim_ gerettet, %pcf. Natürlich helfe ich Euch, wo ich nur kann.
 
 QuestorPostfailure:  [1009]
-Hört zu, ich will momentan weder mit
-Euch, noch mit sonst jemandem sprechen.
-Warum haut Ihr nicht ab?
+<ce> Hört zu, ich will momentan weder mit
+<ce> Euch, noch mit sonst jemandem sprechen.
+<ce> Warum haut Ihr nicht ab?
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -113,25 +113,25 @@ QuestLogEntry:  [1010]
  ohne das Lösegeld zu bezahlen.
 
 Message:  1011
-Gebt Ihr _kidnapper_
-den _gem_?
+<ce> Gebt Ihr _kidnapper_
+<ce> den _gem_?
 
 Message:  1012
-Ihr seid %pcf, nicht wahr? Die Diebesgilde
-ist Euch wohlgesinnt, Kindchen. Oh, %oth,
-ich sehe schon, Ihr arbeitet für _qgiver_,
-um sicherzugehen, dass %g nicht versucht,
-uns mit billigem Tand abzuspeisen, richtig?
+<ce> Ihr seid %pcf, nicht wahr? Die Diebesgilde
+<ce> ist Euch wohlgesinnt, Kindchen. Oh, %oth,
+<ce> ich sehe schon, Ihr arbeitet für _qgiver_,
+<ce> um sicherzugehen, dass %g nicht versucht,
+<ce> uns mit billigem Tand abzuspeisen, richtig?
 
 Message:  1013
-_victim_ wird für Eure
-Dummheit den Preis zahlen! %oth,
-schon in =queston_ Tagen wird %g tot sein!
-=thug_! Nehmt diesen %ra auseinander!
+<ce> _victim_ wird für Eure
+<ce> Dummheit den Preis zahlen! %oth,
+<ce> schon in =queston_ Tagen wird %g tot sein!
+<ce> =thug_! Nehmt diesen %ra auseinander!
 <--->
-=thug_! Tötet diesen außerordentlich
-dummen %ra, während ich dasselbe
-mit _victim_ mache.
+<ce> =thug_! Tötet diesen außerordentlich
+<ce> dummen %ra, während ich dasselbe
+<ce> mit _victim_ mache.
 
 Message:  1014
 _qgiver_ hat Euch geschickt?
@@ -148,61 +148,61 @@ Message:  1015
  aus %g3 Zuhause im __qgiver_
  in ___qgiver_ geholt habt, heißt
  ___mondung_.
-
+ 
       Die Wegbeschreibung nach ___mondung_
  liegt bei. Ich hoffe, dieser Plan ist nicht zu
  kompliziert für Euch.
  
- _kidnapper_
+<ce> _kidnapper_
 
 Message:  1016
-%pcf, ich hoffe nur, Ihr wisst,
-was Ihr tut. Ich bin froh, dass ich
-meinen _gem_ wiederhabe, aber
-nicht auf Kosten von _victim_.
-Erwartet keine Dankbarkeit von mir,
-wenn %g getötet wird.
+<ce> %pcf, ich hoffe nur, Ihr wisst,
+<ce> was Ihr tut. Ich bin froh, dass ich
+<ce> meinen _gem_ wiederhabe, aber
+<ce> nicht auf Kosten von _victim_.
+<ce> Erwartet keine Dankbarkeit von mir,
+<ce> wenn %g getötet wird.
 
 Message:  1017
-_victim_! %god sei Dank,
-es geht dir gut! Ich danke Euch,
-mein Freund. Ich wünschte zwar,
-Ihr hättet das Lösegeld nicht zahlen
-muessen, %pcf, aber das Wichtigste ist,
-dass meine liebste _victim_
-zurück ist. Hier sind die _gold_Goldstücke,
-die ich Euch versprochen habe.
+<ce> _victim_! %god sei Dank,
+<ce> es geht dir gut! Ich danke Euch,
+<ce> mein Freund. Ich wünschte zwar,
+<ce> Ihr hättet das Lösegeld nicht zahlen
+<ce> müssen, %pcf, aber das Wichtigste ist,
+<ce> dass meine liebste _victim_
+<ce> zurück ist. Hier sind die _gold_Goldstücke,
+<ce> die ich Euch versprochen habe.
 
 Message:  1018
-Kein Wunder, dass die Gilde Euch gern hat.
-Ich werde sicherstellen, dass sie auch hiervon
-hört, %pcf. Jetzt, kehrt zu _qgiver_ zurück
-und sagt %g2, dass _victim_ auch bald
-da sein wird. War nett, Geschäfte mit Euch
-zu machen.
+<ce> Kein Wunder, dass die Gilde Euch gern hat.
+<ce> Ich werde sicherstellen, dass sie auch hiervon
+<ce> hört, %pcf. Jetzt, kehrt zu _qgiver_ zurück
+<ce> und sagt %g2, dass _victim_ auch bald
+<ce> da sein wird. War nett, Geschäfte mit Euch
+<ce> zu machen.
 
 Message:  1019
-Ah, gut. Lass _qgiver_ wissen,
-dass %g3 _victim_ sehr bald in
-___qgiver_ sicher sein wird.
-Lebe wohl.
+<ce> Ah, gut. Lass _qgiver_ wissen,
+<ce> dass %g3 _victim_ sehr bald in
+<ce> ___qgiver_ sicher sein wird.
+<ce> Lebe wohl.
 
 Message:  1020
-Ja, _victim_ wurde
-gerade geliefert, bevor Ihr ankamt,
-%pcf. Vielen Dank, dass Ihr
-Euch diesem schrecklichen Entführer
-für mich gestellt habt. Hier sind
-die _gold_ Goldstücke, die ich Ihnen
-versprochen habe.
+<ce> Ja, _victim_ wurde
+<ce> gerade geliefert, bevor Ihr ankamt,
+<ce> %pcf. Vielen Dank, dass Ihr
+<ce> Euch diesem schrecklichen Entführer
+<ce> für mich gestellt habt. Hier sind
+<ce> die _gold_ Goldstücke, die ich Ihnen
+<ce> versprochen habe.
 
 Message:  1021
-_victim_ teilt Euch mit, dass
-%g den Weg zu %g3 geliebten
-_qgiver_ von hier aus alleine
-fände, dankt Euch und hastet los.
+<ce> _victim_ teilt Euch mit, dass
+<ce> %g den Weg zu %g3 geliebten
+<ce> _qgiver_ von hier aus alleine
+<ce> fände, dankt Euch und hastet los.
 
 Message:  1022
-Inzwischen ist _victim_
-bestimmt tot.
+<ce> Inzwischen ist _victim_
+<ce> bestimmt tot.
 

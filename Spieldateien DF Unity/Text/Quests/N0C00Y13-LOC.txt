@@ -3,40 +3,40 @@ DisplayName: Die alte Schriftrolle
 QRC:
 
 QuestorOffer:  [1000]
-Hmmm. Ihr seid kein Gildenmitglied.
-Ich sollte eigentlich keine Arbeit
-an Nichtmitglieder vergeben.
-Andererseits will ich etwas erledigt
-haben, wovon eigentlich niemand in
-der Gilde erfahren muss. Wenn Ihr
-das für mich umsonst erledigt, werde
-ich alle hier wissen lassen, dass
-Ihr ein %ra von unserem Schlag seid.
-Was sagt Ihr, %pcf?
+<ce> Hmmm. Ihr seid kein Gildenmitglied.
+<ce> Ich sollte eigentlich keine Arbeit
+<ce> an Nichtmitglieder vergeben.
+<ce> Andererseits will ich etwas erledigt
+<ce> haben, wovon eigentlich niemand in
+<ce> der Gilde erfahren muss. Wenn Ihr
+<ce> das für mich umsonst erledigt, werde
+<ce> ich alle hier wissen lassen, dass
+<ce> Ihr ein %ra von unserem Schlag seid.
+<ce> Was sagt Ihr, %pcf?
 
 RefuseQuest:  [1001]
-Verschwindet. Ihr seid eine Plage.
+<ce> Verschwindet. Ihr seid eine Plage.
 <--->
-Wie undankbar.
+<ce> Wie undankbar.
 
 AcceptQuest:  [1002]
-Mein Name ist _questgiver_.
-Es gibt da einen alten Text,
-der vermutlich in ___dungeon_
-versteckt ist. Bringt ihn mir
-in =traveltime_ Tagen und ich werde
-den Auftrag als erledigt ansehen.
+<ce> Mein Name ist _questgiver_.
+<ce> Es gibt da einen alten Text,
+<ce> der vermutlich in ___dungeon_
+<ce> versteckt ist. Bringt ihn mir
+<ce> in =traveltime_ Tagen und ich werde
+<ce> den Auftrag als erledigt ansehen.
 
 QuestComplete:  [1004]
-Ausgezeichnet. Ich habe doch daran gedacht
-Euch davor zu warnen, den Text zu lesen,
-oder? Hätte recht gefährlich werden können,
-wenn Ihr "nagog" mit einem harten G
-ausgesprochen hättet, wie das Laien oft tun.
-Nun, danke für Eure Hilfe, %pcn.
-Macht weiter so, dann werden wir Euch für
-die Mitgliedschaft in der Magiergilde in
-Betracht ziehen. 
+<ce> Ausgezeichnet. Ich habe doch daran gedacht
+<ce> Euch davor zu warnen, den Text zu lesen,
+<ce> oder? Hätte recht gefährlich werden können,
+<ce> wenn Ihr "nagog" mit einem harten G
+<ce> ausgesprochen hättet, wie das Laien oft tun.
+<ce> Nun, danke für Eure Hilfe, %pcn.
+<ce> Macht weiter so, dann werden wir Euch für
+<ce> die Mitgliedschaft in der Magiergilde in
+<ce> Betracht ziehen. 
 
 RumorsDuringQuest:  [1005]
 Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
@@ -126,16 +126,16 @@ Ich habe neulich einen großartigen Witz gehört. %jok
 Das Rechtssystem in %reg hat seine guten und seine schlechten Seiten.
 
 QuestorPostsuccess:  [1008]
-Natürlich erinnere ich mich an Euch, %pcf.
-Ihr habt mir diesen Text gebracht, richtig?
+<ce> Natürlich erinnere ich mich an Euch, %pcf.
+<ce> Ihr habt mir diesen Text gebracht, richtig?
 
 QuestorPostfailure:  [1009]
-Ich kann mir keine simplere Aufgabe
-vorstellen als die, die ich Euch gegeben
-habe - eine seltene alte Schriftrolle
-finden, nicht mehr. Daher fällt mir auch
-kein Grund ein, warum ich noch mit Euch
-reden sollte.
+<ce> Ich kann mir keine einfachere Aufgabe
+<ce> vorstellen als die, die ich Euch gegeben
+<ce> habe - eine seltene alte Schriftrolle
+<ce> finden, nicht mehr. Daher fällt mir auch
+<ce> kein Grund ein, warum ich noch mit Euch
+<ce> reden sollte.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -156,9 +156,9 @@ n' nagog. Charlaq gimle n' maluk
 Zephrim qork.
 
 Message:  1040
-Das muss das Pergament sein,
-wegen dem Euch _questgiver_
-hergeschickt hat.
+<ce> Das muss das Pergament sein,
+<ce> wegen dem Euch _questgiver_
+<ce> hergeschickt hat.
 
 Message:  1045
 Als Ihr das letzte Wort lest,

@@ -46,8 +46,8 @@ AcceptQuest:  [1002]
 <ce> in Dolchsturz ein. %g könnte überall in der
 <ce> Region sein und Botschaften übermitteln.
 <ce> Jedoch ist _messenger_ auch ein Mitglied
-<ce> der Ritter des Drachen. Geht nach __dispatcher_
-<ce> in ___dispatcher_ und fragt
+<ce> der Ritter des Drachen. Geht nach _location_
+<ce> in __location_ und fragt
 <ce> _dispatcher_, wo _messenger_ zu
 <ce> finden ist. Versucht herauszufinden, warum Aubk-i
 <ce> ein an mich adressierter Brief zugestellt wurde.
@@ -110,7 +110,7 @@ Message:  1016
 
 Message:  1017
 <ce> Der %ra muss sterben. Ein Hinterhalt
-<ce> auf dem Weg nach  ___dispatcher_
+<ce> auf dem Weg nach  __location_
 <ce> ist Eure beste Gelegenheit. Der Narr hat
 <ce> vor, dort _dispatcher_ zu befragen.
  
@@ -137,7 +137,7 @@ Message:  1021
 <ce> eine List ist, um mich hinterhältig zu überfallen,
 <ce> werdet Ihr nicht lange genug leben, um es zu bereuen.
  
-<ce> Hmmm. Ja, ich bin _dispatcher_. Dieser
+<ce> Hmmm. Ja, ich bin _messenger_. Dieser
 <ce> Siegelring beweist, dass Ihr tatsächlich in Myniseras
 <ce> Diensten steht. Vor einiger Zeit überbrachte ich
 <ce> einen Brief des Kaisers, der an die Königin von

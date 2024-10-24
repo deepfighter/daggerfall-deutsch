@@ -3,58 +3,58 @@ DisplayName: Häuslicher Zwist
 QRC:
 
 QuestorOffer:  [1000]
-Es gibt da einen kleinen häuslichen Zwist,
-%pcf. Sieht so aus, dass eine Frau
-in __house_ jemanden
-sucht, um ihren Ehemann rauszuwerfen.
-Das Problem ist nur, dass er schon tot ist.
-Würdet Ihr das übernehmen?
+<ce> Es gibt da einen kleinen häuslichen Zwist,
+<ce> %pcf. Sieht so aus, dass eine Frau
+<ce> in __house_ jemanden
+<ce> sucht, um ihren Ehemann rauszuwerfen.
+<ce> Das Problem ist nur, dass er schon tot ist.
+<ce> Würdet Ihr das übernehmen?
 
 RefuseQuest:  [1001]
-Zu schade. Im Normalfall bekommen nur
-die Tempel solche Aufträge. Ihr habt
-gerade eine gute Arbeit ausgeschlagen,
-%pcn.
+<ce> Zu schade. Im Normalfall bekommen nur
+<ce> die Tempel solche Aufträge. Ihr habt
+<ce> gerade eine gute Arbeit ausgeschlagen,
+<ce> %pcn.
 
 AcceptQuest:  [1002]
-Ihr Gatte ist ein Zombie. Den Tag über
-hält er sich irgendwo versteckt.
-Dann sieht sie ihn nie in ihrem Haus
-[_house_]. Nachts aber geht
-er dort um. Erlöst ihn von seinem Elend
-und seid in den nächsten =2dung_ Tagen wieder hier.
-Das wäre mir _gold_ Goldstücke für Euch wert.
+<ce> Ihr Gatte ist ein Zombie. Den Tag über
+<ce> hält er sich irgendwo versteckt.
+<ce> Dann sieht sie ihn nie in ihrem Haus
+<ce> [_house_]. Nachts aber geht
+<ce> er dort um. Erlöst ihn von seinem Elend
+<ce> und seid in den nächsten =2dung_ Tagen wieder hier.
+<ce> Das wäre mir _gold_ Goldstücke für Euch wert.
 
 QuestComplete:  [1004]
-Hat der alte Junge wirklich so übel gestunken
-wie man sagt? Wie eine Unterhosenschublade,
-die einen Monat im Regen gestanden hat?
-Egal, hier ist Eure Bezahlung, %pcn.
+<ce> Hat der alte Junge wirklich so übel gestunken
+<ce> wie man sagt? Wie eine Unterhosenschublade,
+<ce> die einen Monat im Regen gestanden hat?
+<ce> Egal, hier ist Eure Bezahlung, %pcn.
 
 RumorsDuringQuest:  [1005]
-Habt Ihr das gehört? Ein altes Mütterchen
-behauptet, ihr Gatte sei aus dem Grab
-zurückgekehrt, um sie heimzusuchen.
+<ce> Habt Ihr das gehört? Ein altes Mütterchen
+<ce> behauptet, ihr Gatte sei aus dem Grab
+<ce> zurückgekehrt, um sie heimzusuchen.
 
 RumorsPostfailure:  [1006]
-Man hat eine Frau tot in ihrem eigenen
-Haus gefunden. Die verfaulte Leiche ihres
-lange verstorbenen Ehemannes fand man
-direkt neben ihr.
+<ce> Man hat eine Frau tot in ihrem eigenen
+<ce> Haus gefunden. Die verfaulte Leiche ihres
+<ce> lange verstorbenen Ehemannes fand man
+<ce> direkt neben ihr.
 
 RumorsPostsuccess:  [1007]
-Ich hörte, dass die Kriegergilde einen
-harten Burschen geschickt hat, um den
-Zombie zu erledigen. Ist ein guter
-Haufen, diese Gilde.
+<ce> Ich hörte, dass die Kriegergilde einen
+<ce> harten Burschen geschickt hat, um den
+<ce> Zombie zu erledigen. Ist ein guter
+<ce> Haufen, diese Gilde.
 
 QuestorPostsuccess:  [1008]
-Das mit dem Zombie habt ihr gut gemacht, %pcn.
+<ce> Das mit dem Zombie habt ihr gut gemacht, %pcn.
 
 QuestorPostfailure:  [1009]
-Der Zombie war zu viel, hm?
-Ihr solltet nie einen Auftrag annehmen,
-den Ihr nicht abschließen könnt.
+<ce> Der Zombie war zu viel, hm?
+<ce> Ihr solltet nie einen Auftrag annehmen,
+<ce> den Ihr nicht abschließen könnt.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -65,14 +65,14 @@ QuestLogEntry:  [1010]
  Ich habe =2dung_ Tage Zeit.
 
 Message:  1011
-Der _monster_ ist tot.
-Seine Frau kann jetzt sicher schlafen.
+<ce> Der _monster_ ist tot.
+<ce> Seine Frau kann jetzt sicher schlafen.
 
 Message:  1080
-Ach %pcf, wenn Ihr meint,
-Zombietöten macht Spaß, dann
-nehmt diese Karte zu einem
-monsterverseuchten Ort namens
-___newdung_. Ein
-%ra wie ihr macht da Ferien!
+<ce> Ach %pcf, wenn Ihr meint,
+<ce> Zombietöten macht Spaß, dann
+<ce> nehmt diese Karte zu einem
+<ce> monsterverseuchten Ort namens
+<ce> ___newdung_. Ein
+<ce> %ra wie ihr macht da Ferien!
 

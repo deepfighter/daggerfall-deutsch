@@ -3,33 +3,33 @@ DisplayName: Lykanthropenjagd
 QRC:
 
 QuestorOffer:  [1000]
-Wir haben hier einen kleinen Auftrag, der Euch
-interessieren könnte. Sieht aus, als ob ein Isegrim
-unterwegs wäre -  so nennt man den gewöhnlichen
-Werwolf - oder ein Wereber oder sonst ein Werbiest,
-das vielen Bauern der Region Sorgen macht. Wir
-brauchen jemanden, der es erlegt. Dafür würden
-_reward_ Gold in Eure Tasche wandern.
+<ce> Wir haben hier einen kleinen Auftrag, der Euch
+<ce> interessieren könnte. Sieht aus, als ob ein Isegrim
+<ce> unterwegs wäre -- so nennt man den gewöhnlichen
+<ce> Werwolf -- oder ein Wereber oder sonst ein Werbiest,
+<ce> das vielen Bauern der Region Sorgen macht. Wir
+<ce> brauchen jemanden, der es erlegt. Dafür würden
+<ce> _reward_ Gold in Eure Tasche wandern.
  
-Klingt das für Euch interessant?
+<ce> Klingt das für Euch interessant?
 
 RefuseQuest:  [1001]
-Gut. Ich schätze, dann muss es wohl ein anderer tun.
+<ce> Gut. Ich schätze, dann muss es wohl ein anderer tun.
 
 AcceptQuest:  [1002]
-Großartig. Ihr findet den Isegrim drüben
-in ___mondung_. Wir wollen
-die armselige Brut in =1stparton_ Tagen tot sehen,
-also macht Euch besser auf den Weg, Jungchen.
+<ce> Großartig. Ihr findet den Isegrim drüben
+<ce> in ___mondung_. Wir wollen
+<ce> die armselige Brut in =1stparton_ Tagen tot sehen,
+<ce> also macht Euch besser auf den Weg, Jungchen.
 
 QuestFail:  [1003]
-Der Isegrim war wohl zu viel für Euch,
-Jungchen. Habt Ihr es überhaupt versucht?
-Nun gut, wahrscheinlich ist er inzwischen
-sowieso weitergezogen. Zu schade.
+<ce> Der Isegrim war wohl zu viel für Euch,
+<ce> Jungchen. Habt Ihr es überhaupt versucht?
+<ce> Nun gut, wahrscheinlich ist er inzwischen
+<ce> sowieso weitergezogen. Zu schade.
 
 QuestComplete:  [1004]
-Gute Arbeit, Isegrimtöter. Viel Spaß mit Eurem Gold.
+<ce> Gute Arbeit, Isegrimtöter. Viel Spaß mit Eurem Gold.
 
 RumorsDuringQuest:  [1005]
 Ich habe gehört, dass sich hier eine Art Werwolf herumtreibt.
@@ -51,19 +51,19 @@ Viele Leute fühlen sich nun sicherer, weil sie wissen, dass das Werbiest tot is
 Ihr habt von diesem Werwolf gehört, den so ein %ra erlegt hat?
 
 QuestorPostsuccess:  [1008]
-Danke, dass Ihr Euch um dieses Werviech gekümmert habt, %pcf.
+<ce> Danke, dass Ihr Euch um dieses Werviech gekümmert habt, %pcf.
 
 QuestorPostfailure:  [1009]
-Verschwindet von hier. Es ist zum Heulen!
-Ihr konntet Euch nichtmal um einen Werwolf kümmern.
+<ce> Verschwindet von hier. Es ist zum Heulen!
+<ce> Ihr konntet Euch nichtmal um einen Werwolf kümmern.
 
 Message:  1020
-Die Bedrohung durch den Lykanthropen ist beendet.
+<ce> Die Bedrohung durch den Lykanthropen ist beendet.
 
 Message:  1021
-Das muss die "Werbestie" sein,
-vor der jeder so viel Angst hat.
-Nur ein gewöhnlicher Grizzlybär.
+<ce> Das muss die "Werbestie" sein,
+<ce> vor der jeder so viel Angst hat.
+<ce> Nur ein gewöhnlicher Grizzlybär.
 
 Message:  1030
 %qdt:
@@ -75,8 +75,8 @@ Message:  1030
  kann ich meine Belohnung abholen.
 
 Message:  1080
-Hier ist eine Karte zu einem Ort
-namens ___newdung_. So viele
-Feinde und Schätze, wie Ihr schaffen
-könnt. Tut Euch keinen Zwang an!
+<ce> Hier ist eine Karte zu einem Ort
+<ce> namens ___newdung_. So viele
+<ce> Feinde und Schätze, wie Ihr schaffen
+<ce> könnt. Tut Euch keinen Zwang an!
 

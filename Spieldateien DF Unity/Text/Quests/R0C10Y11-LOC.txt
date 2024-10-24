@@ -3,44 +3,44 @@ DisplayName: Konterbandewaren
 QRC:
 
 QuestorOffer:  [1000]
-Seid Ihr zufällig frei, um für mich
-eine kleine Besorgung zu erledigen?
-Es ist sehr einfach, ich würde es
-selbst tun oder einen meiner Boten
-damit beauftragen, aber wir sind alle
-so sehr beschäftigt. Es würde Euch
-zusätzliche _reward_ Goldstücke einbringen.
-Das ist nicht zu schlecht. Seid Ihr
-verfügbar?
+<ce> Seid Ihr zufällig frei, um für mich
+<ce> eine kleine Besorgung zu erledigen?
+<ce> Es ist sehr einfach, ich würde es
+<ce> selbst tun oder einen meiner Boten
+<ce> damit beauftragen, aber wir sind alle
+<ce> so sehr beschäftigt. Es würde Euch
+<ce> zusätzliche _reward_ Goldstücke einbringen.
+<ce> Das ist nicht zu schlecht. Seid Ihr
+<ce> verfügbar?
 
 RefuseQuest:  [1001]
-Nein? %god bewahre mich vor
-untätigen %ra-Händen.
+<ce> Nein? %god bewahre mich vor
+<ce> untätigen %ra-Händen.
 
 AcceptQuest:  [1002]
-Welch ein Glück. Nun, nehmt _item_
-und geht nach ___qgfriend_
-an einen Ort namens __qgfriend_.
-Dort gibt es einen eigenartigen
-=qgfriend_ der _qgfriend_
-genannt wird. Gebt %g2  _item_
-und %g wird Euch die _reward_ Goldstücke
-geben. Oh, und Ihr müsst dort in =queston_ Tagen
-sein, aber das sollte kein Problem
-darstellen. Ihr habt kräftige junge
-Beine. Nun los mit Euch, okay?
+<ce> Welch ein Glück. Nun, nehmt _item_
+<ce> und geht nach ___qgfriend_
+<ce> an einen Ort namens __qgfriend_.
+<ce> Dort gibt es einen eigenartigen
+<ce> =qgfriend_ der _qgfriend_
+<ce> genannt wird. Gebt %g2 _item_
+<ce> und %g wird Euch die _reward_ Goldstücke
+<ce> geben. Oh, und Ihr müsst dort in =queston_ Tagen
+<ce> sein, aber das sollte kein Problem
+<ce> darstellen. Ihr habt kräftige junge
+<ce> Beine. Nun los mit Euch, okay?
 
 QuestFail:  [1003]
-Ihr seht aus wie %pcf,
-aber Ihr könnt es nicht sein.
-%pcn ist auf dem Weg nach
-__qgfriend.
+<ce> Ihr seht aus wie %pcf,
+<ce> aber Ihr könnt es nicht sein.
+<ce> %pcn ist auf dem Weg nach
+<ce> __qgfriend.
 
 QuestComplete:  [1004]
-_questgiver_ hat Euch als Bote
-angeheuert? Ah, _item_,
-wie ich erwartet habe. Sehr gut.
-Hier ist Euer Gold. Ich danke Euch.
+<ce> _questgiver_ hat Euch als Bote
+<ce> angeheuert? Ah, _item_,
+<ce> wie ich erwartet habe. Sehr gut.
+<ce> Hier ist Euer Gold. Ich danke Euch.
 
 RumorsDuringQuest:  [1005]
 _questgiver_ ist immer noch im Schmugglergewerbe, sagt man sich.
@@ -58,16 +58,18 @@ Ein =qgfriend_ war gerade hier und hat mit _item_ herumgewedelt.
 Ich nehme an, _questgiver_ hat _item_ doch nicht gestohlen, sonst müsste %g es schon gegessen haben.
 
 QuestorPostsuccess:  [1008]
-Ich erkenne diese kräftigen jungen Beine. Wie geht es Euch, mein ehemaliger Kurier?
+<ce> Ich erkenne diese kräftigen jungen Beine.
+<ce> Wie geht es Euch, mein ehemaliger Kurier?
 <--->
-Ihr seid zurückgekommen, um Euren ehemaligen Arbeitgeber zu besuchen, nicht wahr, %pcf?
+<ce> Ihr seid zurückgekommen, um Euren ehemaligen
+<ce> Arbeitgeber zu besuchen, nicht wahr, %pcf?
 
 QuestorPostfailure:  [1009]
-Ich erinnere mich an Euch. Ihr
-seid der %ra, welcher bei
-dieser einfachen Lieferaufgabe
-versagt hat. %oth, ich
-habe keine Zeit für euresgleichen.
+<ce> Ich erinnere mich an Euch. Ihr
+<ce> seid der %ra, welcher bei
+<ce> dieser einfachen Lieferaufgabe
+<ce> versagt hat. %oth, ich
+<ce> habe keine Zeit für euresgleichen.
 
 Message:  1011
 %g ist ein durch und durch respektabler Herrscher, jedoch mit kleptomanischen Neigungen.

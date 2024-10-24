@@ -3,36 +3,36 @@ DisplayName: Orkprobleme
 QRC:
 
 QuestorOffer:  [1000]
-Ich bin _qgiver_. Ihr
-gehört diesem Ritterorden nicht
-an. Wir sind uns nicht sicher,
-ob wir Euch schon vertrauen können.
-Aber vielleicht würden wir unsere
-Meinung ändern, wenn Ihr den Anführer
-einer Orkbanditenbande töten könnt,
-die unsere Gegend plagt. Habt Ihr
-den Schneid für solche Arbeit?
+<ce> Ich bin _qgiver_. Ihr
+<ce> gehört diesem Ritterorden nicht
+<ce> an. Wir sind uns nicht sicher,
+<ce> ob wir Euch schon vertrauen können.
+<ce> Aber vielleicht würden wir unsere
+<ce> Meinung ändern, wenn Ihr den Anführer
+<ce> einer Orkbanditenbande töten könnt,
+<ce> die unsere Gegend plagt. Habt Ihr
+<ce> den Schneid für solche Arbeit?
 
 RefuseQuest:  [1001]
-Warum überrascht mich das nicht?
-Kommt wieder, wenn Ihr bereit seid,
-Euch unseren Respekt zu verdienen.
+<ce> Warum überrascht mich das nicht?
+<ce> Kommt wieder, wenn Ihr bereit seid,
+<ce> Euch unseren Respekt zu verdienen.
 
 AcceptQuest:  [1002]
-Tötet so viele Orks wie Ihr könnt,
-aber stellt vor allem sicher, dass
-Ihr den Anführer =monster_
-erwischt. Die üble Bande versteckt
-sich in ___dungeon_. Wenn
-Ihr nicht in =2dung_ Tagen zurück seid,
-werde ich wissen, dass Ihr wie jeder
-sagt Feigling seid.
+<ce> Tötet so viele Orks wie Ihr könnt,
+<ce> aber stellt vor allem sicher, dass
+<ce> Ihr den Anführer =monster_
+<ce> erwischt. Die üble Bande versteckt
+<ce> sich in ___dungeon_. Wenn
+<ce> Ihr nicht in =2dung_ Tagen zurück seid,
+<ce> werde ich wissen, dass Ihr wie jeder
+<ce> sagt Feigling seid.
 
 QuestComplete:  [1004]
-Hmmm. Vielleicht sollten wir Euch
-für die Mitgliedschaft in Betracht
-ziehen. Das war keine schlechte
-Arbeit, %pcn.
+<ce> Hmmm. Vielleicht sollten wir Euch
+<ce> für die Mitgliedschaft in Betracht
+<ce> ziehen. Das war keine schlechte
+<ce> Arbeit, %pcn.
 
 RumorsDuringQuest:  [1005]
 Dieser Orkstamm ist den Rittern bis jetzt ausgewichen.
@@ -49,7 +49,7 @@ QuestorPostsuccess:  [1008]
 Was kann ich für Euch tun, Orktöter?
 
 QuestorPostfailure:  [1009]
-Ihr seid meine Zeit nicht wert,  Orkfreund.
+Ihr seid meine Zeit nicht wert, Orkfreund.
 <--->
 Warum sollte ich mit einem lausigen Orkliebchen reden?
 
@@ -66,7 +66,7 @@ QuestLogEntry:  [1010]
  Feigling halten.
 
 Message:  1011
-=monster_ ist tot.
-Ohne Anführer werden diese Orks
-kaum mehr als ein Ärgernis sein.
+<ce> =monster_ ist tot.
+<ce> Ohne Anführer werden diese Orks
+<ce> kaum mehr als ein Ärgernis sein.
 

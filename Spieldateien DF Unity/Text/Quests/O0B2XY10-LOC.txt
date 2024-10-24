@@ -3,29 +3,29 @@ DisplayName: Ein geschätzter Trank
 QRC:
 
 QuestorOffer:  [1000]
-%pcn, mein Name ist _qgiver_.
-Ich habe einen Wink erhalten über den
-Verbleib einer Phiole _potion_.
-Ich brauche nur jemanden, der sie für
-mich entwendet. Ich zahle Euch _gold_ Goldstücke,
-wenn Ihr es tut. Was sagt Ihr?
+<ce> %pcn, mein Name ist _qgiver_.
+<ce> Ich habe einen Wink erhalten über den
+<ce> Verbleib einer Phiole _potion_.
+<ce> Ich brauche nur jemanden, der sie für
+<ce> mich entwendet. Ich zahle Euch _gold_ Goldstücke,
+<ce> wenn Ihr es tut. Was sagt Ihr?
 
 RefuseQuest:  [1001]
-Lasst es mich wissen, wenn Ihr wirklich
-nach Arbeit sucht, %pcn.
+<ce> Lasst es mich wissen, wenn Ihr wirklich
+<ce> nach Arbeit sucht, %pcn.
 
 AcceptQuest:  [1002]
-Im _alchemyshop_ in
-__alchemyshop_ werdet Ihr die Phiole
-_potion_ finden. Nehmt sie und bringt
-sie binnen =traveltime_ Tagen zu mir, und
-ich werde Euch entlohnen. Das sollte doch
-keine allzu große Herausforderung für Euch
-sein, oder?
+<ce> Im _alchemyshop_ in
+<ce> __alchemyshop_ werdet Ihr die Phiole
+<ce> _potion_ finden. Nehmt sie und bringt
+<ce> sie binnen =traveltime_ Tagen zu mir, und
+<ce> ich werde Euch entlohnen. Das sollte doch
+<ce> keine allzu große Herausforderung für Euch
+<ce> sein, oder?
 
 QuestComplete:  [1004]
-Nicht übel, %pcn.
-Hier sind Eure _gold_ Goldstücke.
+<ce> Nicht übel, %pcn.
+<ce> Hier sind Eure _gold_ Goldstücke.
 
 RumorsDuringQuest:  [1005]
 _alchemyshop_ hat die feinsten Zutaten in ganz __alchemyshop_.
@@ -39,16 +39,16 @@ RumorsPostsuccess:  [1007]
 Jemand hat einfach eine Flasche _potion_ aus dem _alchemyshop_ entwendet. Was für eine Frechheit!
 
 QuestorPostsuccess:  [1008]
-Sicher, ich erinnere mich an Euch, %pcf.
-Die Phiole _potion_, nicht wahr?
+<ce> Sicher, ich erinnere mich an Euch, %pcf.
+<ce> Die Phiole _potion_, nicht wahr?
 
 QuestorPostfailure:  [1009]
-Lasst mich raten. Ihr seid den ganzen Weg zum
-_alchemyshop_ gelaufen, habt die
-Phiole _potion_ gefunden und habt
-sie dann versehentlich selbst geleert,
-nicht wahr? %oth, verschiedene Diebe,
-aber immer dieselbe Geschichte.
+<ce> Lasst mich raten. Ihr seid den ganzen Weg zum
+<ce> _alchemyshop_ gelaufen, habt die
+<ce> Phiole _potion_ gefunden und habt
+<ce> sie dann versehentlich selbst geleert,
+<ce> nicht wahr? %oth, verschiedene Diebe,
+<ce> aber immer dieselbe Geschichte.
 
 QuestLogEntry:  [1010]
 %qdt:

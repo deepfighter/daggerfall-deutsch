@@ -3,84 +3,85 @@ DisplayName: Adelsmord
 QRC:
 
 QuestorOffer:  [1000]
-Dieser kleine Ausflug ist nicht für jedermann,
-aber ich spüre, dass Euch die Herausforderung
-dieser Erfahrung gefallen würde. Wir haben da
-einen Klienten, der Abrechnung mit einem
-Mitglied der Königsfamilie von __mondung_
-wünscht. Als ich das hörte, dachte ich an Euch.
-Interessiert?
+<ce> Dieser kleine Ausflug ist nicht für jedermann,
+<ce> aber ich spüre, dass Euch die Herausforderung
+<ce> dieser Erfahrung gefallen würde. Wir haben da
+<ce> einen Klienten, der Abrechnung mit einem
+<ce> Mitglied der Königsfamilie von ___mondung_
+<ce> wünscht. Als ich das hörte, dachte ich an Euch.
+<ce> Interessiert?
 
 RefuseQuest:  [1001]
-Oh, nun gut. Vermutlich klug, aber es hat
-einen Beigeschmack von ... ich wage zu sagen,
-Feigheit?
+<ce> Oh, nun gut. Vermutlich klug, aber es hat
+<ce> einen Beigeschmack von ... ich wage zu sagen,
+<ce> Feigheit?
 
 AcceptQuest:  [1002]
-Ich wusste, das Ihr nicht widerstehen könntet.
-Aber eine faire Warnung: Euer Ziel, =knight_
-ist kein verhätscheltes Prinzlein. Unser Klient,
-ebenfalls ein Mitglied der Königsfamilie, ist
-besorgt, dass sich =knight_ seinen Weg bis zum
-Thron bahnen könnte. Und nach allem was ich höre,
-hat %g auch wirklich die Befähigung dazu. Unser
-Klient wünscht, dass %g in =1stparton_ Tagen liquidier
-ist. Wir werden Euch diese Zeit bis zur Abrechnung
-geben, um zurückzukehren und zu berichten.
-Möge Mephala mit Euch sein, %pcf.
+<ce> Ich wusste, das Ihr nicht widerstehen könntet.
+<ce> Aber eine faire Warnung: Euer Ziel, _knight_
+<ce> ist kein verhätscheltes Prinzlein. Unser Klient,
+<ce> ebenfalls ein Mitglied der Königsfamilie, ist
+<ce> besorgt, dass sich _knight_ seinen Weg bis zum
+<ce> Thron bahnen könnte. Und nach allem was ich höre,
+<ce> hat %g auch wirklich die Befähigung dazu. Unser
+<ce> Klient wünscht, dass %g in =1stparton_ Tagen liquidier
+<ce> ist. Wir werden Euch diese Zeit bis zur Abrechnung
+<ce> geben, um zurückzukehren und zu berichten.
+<ce> Möge Mephala mit Euch sein, %pcf.
 
 QuestFail:  [1003]
-Ich weiß nicht, wen Ihr geglaubt habt zu töten,
-aber es war nicht =knight_. Bewegt
-Euren Hintern zum Palast und erledigt, was
-unser Kontrakt verlangt.
+<ce> Ich weiß nicht, wen Ihr geglaubt habt zu töten,
+<ce> aber es war nicht _knight_. Bewegt
+<ce> Euren Hintern zum Palast und erledigt, was
+<ce> unser Kontrakt verlangt.
 
 QuestComplete:  [1004]
-Wirklich wunderschön, %pcf.
-Ich habe Tränen in meinen müden Augen.
-Die schönste Abrechnung, die ich je
-gesehen habe. Versetzt einen in die
-Stimmung, ein Gedicht zu schreiben.
-Warum nehmt Ihr nicht Eure _reward_ Goldstücke
-Belohnung und verschwindet endlich,
-damit ich eine Ballade darüber schreiben
-kann? Ernsthaft, ich bin sehr stolz
-auf Euch, %pcf.
+<ce> Wirklich wunderschön, %pcf.
+<ce> Ich habe Tränen in meinen müden Augen.
+<ce> Die schönste Abrechnung, die ich je
+<ce> gesehen habe. Versetzt einen in die
+<ce> Stimmung, ein Gedicht zu schreiben.
+<ce> Warum nehmt Ihr nicht Eure _reward_ Goldstücke
+<ce> Belohnung und verschwindet endlich,
+<ce> damit ich eine Ballade darüber schreiben
+<ce> kann? Ernsthaft, ich bin sehr stolz
+<ce> auf Euch, %pcf.
 
 RumorsDuringQuest:  [1005]
-Ich weiß, wovon ich rede. =knight_ wird unser nächster Herrscher.
+Ich weiß, wovon ich rede. _knight_ wird unser nächster Herrscher.
 <--->
-Eines Tages wird =knight_ unser nächster Herrscher. Dann werden wir echte Tyrannei kennenlernen.
+Eines Tages wird _knight_ unser nächster Herrscher. Dann werden wir echte Tyrannei kennenlernen.
 
 RumorsPostfailure:  [1006]
-=knight_ hat den Hof für eine Weile verlassen, aber %g wird zurückkehren. Soviel ist sicher.
+_knight_ hat den Hof für eine Weile verlassen, aber %g wird zurückkehren. Soviel ist sicher.
 <--->
-Und die königliche Oper geht weiter. Ich frage mich, was =knight_ dazu veranlasst hat, den Hof zu verlassen.
+Und die königliche Oper geht weiter. Ich frage mich, was _knight_ dazu veranlasst hat, den Hof zu verlassen.
 
 RumorsPostsuccess:  [1007]
-Sie sollten es in %reg zu einem Festtag erklären. Der Todestag von =knight_! Hurra!
+Sie sollten es in %reg zu einem Festtag erklären. Der Todestag von _knight_! Hurra!
 <--->
-Ich kann mir nicht helfen, aber bei dem plötzlichen Tod von =knight_ bleibe ich misstrauisch. Das kam zu gelegen.
+Ich kann mir nicht helfen, aber bei dem plötzlichen Tod von _knight_ bleibe ich misstrauisch. Das kam zu gelegen.
 
 QuestorPostsuccess:  [1008]
 Ich denke immer noch an die Abrechnung mit diesem Ritter. Das war wirklich sublim, %pcf.
 
 QuestorPostfailure:  [1009]
-Ich weiß, dass es ein schwieriger Einsatz
-war. So gut wie unmöglich. Trotzdem seid
-Ihr gescheitert, und dafür habe ich kein
-Verständnis.
+<ce> Ich weiß, dass es ein schwieriger Einsatz
+<ce> war. So gut wie unmöglich. Trotzdem seid
+<ce> Ihr gescheitert, und dafür habe ich kein
+<ce> Verständnis.
 
 Message:  1020
 %qdt:
  Mein neuester Kontrakt für die Dunkle Bruderschaft
  in ___questgiver_ bezieht sich auf
- einen Adligen namens =knight_ auf
- seinem Sitz [_mondung_] in __mondung_.
+ einen Adligen namens _knight_ auf
+ seinem Sitz [_mondung_] in ___mondung_.
  Die Tat muss in =1stparton_ Tagen vollbracht sein.
 
 Message:  1021
-"Ich hätte ... Euer nächster ... Herrscher
- ...sein könnnen", stöhnt =knight_.
- Der Kontrakt wurde erfüllt.
+<ce> "Ich hätte ... Euer nächster ... Herrscher
+<ce> ...sein könnnen",
+stöhnt _knight_.
+Der Kontrakt wurde erfüllt.
 

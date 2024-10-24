@@ -3,34 +3,34 @@ DisplayName: Befallenes Haus
 QRC:
 
 QuestorOffer:  [1000]
-Warum sollte ich Euch trauen, %pcn?
-Ich nehme an, eine kleine Waffenprobe geht
-in Ordnung. Ich sehe, dass Ihr nicht dem
-Ritterorden angehört, also werde ich Euch
-auch nichts wichtiges geben. Aber ich besitze
-da ein Gebäude, das von Ungeziefer befallen
-ist. Tötet es für mich, dann werde ich
-womöglich ein gutes Wort für Euch einlegen.
+<ce> Warum sollte ich Euch trauen, %pcn?
+<ce> Ich nehme an, eine kleine Waffenprobe geht
+<ce> in Ordnung. Ich sehe, dass Ihr nicht dem
+<ce> Ritterorden angehört, also werde ich Euch
+<ce> auch nichts wichtiges geben. Aber ich besitze
+<ce> da ein Gebäude, das von Ungeziefer befallen
+<ce> ist. Tötet es für mich, dann werde ich
+<ce> womöglich ein gutes Wort für Euch einlegen.
 
 RefuseQuest:  [1001]
-Ich schätze, ich werde es wohl selbst machen müssen.
-Ihr seid sogar noch nutzloser als ich dachte.
+<ce> Ich schätze, ich werde es wohl selbst machen müssen.
+<ce> Ihr seid sogar noch nutzloser als ich dachte.
 
 AcceptQuest:  [1002]
-Ich gebe Euch nur einen Tag, um das Gebäude
-[_house_] zu säubern. Sonst werde
-ich es selbst erledigen und allen sagen, was
-für ein Feigling Ihr wirklich seid.
+<ce> Ich gebe Euch nur einen Tag, um das Gebäude
+<ce> [_house_] zu säubern. Sonst werde
+<ce> ich es selbst erledigen und allen sagen, was
+<ce> für ein Feigling Ihr wirklich seid.
 
 QuestComplete:  [1004]
-Recht annehmbar, %pcn.
-Ich werde für Euch ein gutes Wort
-bei meinem Ritterorden einlegen.
+<ce> Recht annehmbar, %pcn.
+<ce> Ich werde für Euch ein gutes Wort
+<ce> bei meinem Ritterorden einlegen.
 
 RumorsDuringQuest:  [1005]
 Sehr seltsame Geräusche dringen aus diesem Haus [_house_].
 <--->
-Das Haus von _qgiver_  grenzt wirklich an das Reich des Vergessens.
+Das Haus von _qgiver_ grenzt wirklich an das Reich des Vergessens.
 
 RumorsPostfailure:  [1006]
 Der arme _qgiver_ muss einen Kammerjäger anstellen.
@@ -61,5 +61,10 @@ QuestLogEntry:  [1010]
  befreie.
 
 Message:  1011
-Ihr habt das Haus von _qgiver_ gesäubert.
+<ce> Ihr habt das Haus von _qgiver_ gesäubert.
+
+Message:  1012
+<ce> Ihr hört ein Kratzen, das aus den Wänden dringt.
+<ce> Die Kreaturen werden gewiss schlecht
+<ce> auf Euren Übergriff in ihr Gebiet reagieren.
 

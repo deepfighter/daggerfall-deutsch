@@ -3,36 +3,36 @@ DisplayName: Das Kopfgeld
 QRC:
 
 QuestorOffer:  [1000]
-Falls Ihr für eine Anstellung zur Verfügung
-stündet, hätte ich wohlmöglich eine Aufgabe
-für Euch. Es handelt sich um eine schmutzige
-Angelegenheit, die die Bestrafung eines Diebes
-umfasst. Dafür gäbe es eine Belohnung von
-_reward_ Goldstücken. Klingt dies nach etwas,
-woran Ihr Interesse hättet?
+<ce> Falls Ihr für eine Anstellung zur Verfügung
+<ce> stündet, hätte ich wohlmöglich eine Aufgabe
+<ce> für Euch. Es handelt sich um eine schmutzige
+<ce> Angelegenheit, die die Bestrafung eines Diebes
+<ce> umfasst. Dafür gäbe es eine Belohnung von
+<ce> _reward_ Goldstücken. Klingt dies nach etwas,
+<ce> woran Ihr Interesse hättet?
 
 RefuseQuest:  [1001]
-Enttäuschend. Nun gut, zweifellos werden
-wir jemand anderen finden.
+<ce> Enttäuschend. Nun gut, zweifellos werden
+<ce> wir jemand anderen finden.
 
 AcceptQuest:  [1002]
-Wir lassen selten Bürger unsere Angelegenheiten
-regeln, doch in diesem Falle scheint es gerechtfertigt.
-Dieser Dieb hat eine unserer Karawanen bestohlen und
-verlangt zudem noch Wegezoll von uns. Welch eine
-Frechheit! Ihr findet diesen kleinen Schurken in
-einem Versteck namens _mondung.
-Seid in =1stparton Tagen zurück.
+<ce> Wir lassen selten Bürger unsere Angelegenheiten
+<ce> regeln, doch in diesem Falle scheint es gerechtfertigt.
+<ce> Dieser Dieb hat eine unserer Karawanen bestohlen und
+<ce> verlangt zudem noch Wegezoll von uns. Welch eine
+<ce> Frechheit! Ihr findet diesen kleinen Schurken in
+<ce> einem Versteck namens _mondung.
+<ce> Seid in =1stparton Tagen zurück.
 
 QuestFail:  [1003]
-Ihr solltet besser eilen, %pcf.
-Ihr habt nur noch =1stparton_ Tage,
-um den Gauner zu töten.
+<ce> Ihr solltet besser eilen, %pcf.
+<ce> Ihr habt nur noch =1stparton_ Tage,
+<ce> um den Gauner zu töten.
 
 QuestComplete:  [1004]
-Sehr gut gemacht, %pcf.
-Dies sollte weitere Wegelagerer abschrecken.
-Hier sind Eure _reward_ Goldstücke. Habt Dank.
+<ce> Sehr gut gemacht, %pcf.
+<ce> Dies sollte weitere Wegelagerer abschrecken.
+<ce> Hier sind Eure _reward_ Goldstücke. Habt Dank.
 
 RumorsDuringQuest:  [1005]
 Dieser Straßenräuber zerstört die Wirtschaft im Handumdrehen.
@@ -64,8 +64,8 @@ Die Resolution verliert immer noch Geld an diesen
 Wegelagerer. Das ist nicht sehr erfreulich.
 
 Message:  1020
-Ihr müsst von der Resolution sein.
-Seid bereit zu sterben, Kopfgeldjäger!
+<ce> Ihr müsst von der Resolution sein.
+<ce> Seid bereit zu sterben, Kopfgeldjäger!
 
 Message:  1030
 %qdt:

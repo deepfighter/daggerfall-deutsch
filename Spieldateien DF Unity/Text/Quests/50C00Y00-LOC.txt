@@ -3,67 +3,67 @@ DisplayName: Unangenehmes Geschäft
 QRC:
 
 QuestorOffer:  [1000]
-Man kann gar nicht genug Macht haben,
-nicht wahr, %pcf? Ihr ähnelt
-stark jemandem, den ich einst kannte.
-Aber das war damals in Eurer Ersten Ära,
-also könnt Ihr das wohl nicht sein, oder?
-Nun denn, wenn Ihr mögt, kann ich Euch
-einen kleinen Schild geben, den Zauber-
-brecher. Es wird Euch sicher die Macht
-gewähren, nach der Ihr sucht. Aber erst
-müsst Ihr beweisen, dass Ihr es ernst
-meint. Ihr meint es doch ernst?
+<ce> Man kann gar nicht genug Macht haben,
+<ce> nicht wahr, %pcf? Ihr ähnelt
+<ce> stark jemandem, den ich einst kannte.
+<ce> Aber das war damals in Eurer Ersten Ära,
+<ce> also könnt Ihr das wohl nicht sein, oder?
+<ce> Nun denn, wenn Ihr mögt, kann ich Euch
+<ce> einen kleinen Schild geben, den Zauber-
+<ce> brecher. Es wird Euch sicher die Macht
+<ce> gewähren, nach der Ihr sucht. Aber erst
+<ce> müsst Ihr beweisen, dass Ihr es ernst
+<ce> meint. Ihr meint es doch ernst?
 
 RefuseQuest:  [1001]
-Habt Eure Meinung geändert, ja?
-Fühlt Euch deswegen nicht schlecht.
-Es zeugt von Reife, auch einmal
-Nein sagen zu können. Beschwört
-mich nur herauf, wenn Ihr Eure
-Meinung ändert. Ich weiß, dass
-Ihr das noch werdet.
+<ce> Habt Eure Meinung geändert, ja?
+<ce> Fühlt Euch deswegen nicht schlecht.
+<ce> Es zeugt von Reife, auch einmal
+<ce> Nein sagen zu können. Beschwört
+<ce> mich nur herauf, wenn Ihr Eure
+<ce> Meinung ändert. Ich weiß, dass
+<ce> Ihr das noch werdet.
 
 AcceptQuest:  [1002]
-Ausgezeichnet. Es ist wunderbar, einen
-%ra mit klaren Zielen zu sehen.
-Sehr selten dieser Tage und dieser Ära.
-Nun denn, es gibt da diesen _monster_,
-offen gesagt ein Vampir, den Ihr hassen
-würdet. Durch und durch töricht, hässlich
-und engstirnig. Er muss auf eine Reise
-ohne Wiederkehr geschickt werden. Wenn
-Ihr Euch um dieses unangenehme Geschäft
-gekümmert habt, solltet Ihr meinen Freund
-_qgfriend_ aufsuchen, einen charmanten
-=qgfriend_ in __qgfriend_
-in ___qgfriend_. Ich möchte Euch
-nicht drängen, aber ich kann nicht
-länger als =1stparton_ Tage auf Euch warten.
-Und allein nach ___mondung_ zu
-gelangen wird eine Weile dauern, also
-säumt besser nicht auf Eurem Weg.
-Es wird _qgfriend_ eine Freude
-sein, Euch den Zauberbrecher zu über-
-reichen. Jetzt habe ich aber lang genug
-geplappert. Es war mir eine Freude.
+<ce> Ausgezeichnet. Es ist wunderbar, einen
+<ce> %ra mit klaren Zielen zu sehen.
+<ce> Sehr selten dieser Tage und dieser Ära.
+<ce> Nun denn, es gibt da diesen _monster_,
+<ce> offen gesagt ein Vampir, den Ihr hassen
+<ce> würdet. Durch und durch töricht, hässlich
+<ce> und engstirnig. Er muss auf eine Reise
+<ce> ohne Wiederkehr geschickt werden. Wenn
+<ce> Ihr Euch um dieses unangenehme Geschäft
+<ce> gekümmert habt, solltet Ihr meinen Freund
+<ce> _qgfriend_ aufsuchen, einen charmanten
+<ce> =qgfriend_ in __qgfriend_
+<ce> in ___qgfriend_. Ich möchte Euch
+<ce> nicht drängen, aber ich kann nicht
+<ce> länger als =1stparton_ Tage auf Euch warten.
+<ce> Und allein nach ___mondung_ zu
+<ce> gelangen wird eine Weile dauern, also
+<ce> säumt besser nicht auf Eurem Weg.
+<ce> Es wird _qgfriend_ eine Freude
+<ce> sein, Euch den Zauberbrecher zu über-
+<ce> reichen. Jetzt habe ich aber lang genug
+<ce> geplappert. Es war mir eine Freude.
 
 QuestFail:  [1003]
-Ihr müsst nach einem anderen
-=qgfriend_ suchen.
+<ce> Ihr müsst nach einem anderen
+<ce> =qgfriend_ suchen.
 
 QuestComplete:  [1004]
-Da seid Ihr ja, %pct.
-Ich bin _qgfriend_,
-Ich glaube, der Meister schickte Euch zu mir?
-Der Meister ist sehr zufrieden, wie Ihr die
-Arbeit mit diesem fürchterlichen _monster_
-erledigt habt, wenn ich das so sagen darf.
-Der Meister scheint ohnehin ziemlich vernarrt
-in Euch zu sein. Hier ist der Schild, den
-Ihr wolltet, der Zauberbrecher.
-Magier werden Euch damit fürchten.
-Ich hoffe er gefällt Euch, %pct.
+<ce> Da seid Ihr ja, %pct.
+<ce> Ich bin _qgfriend_,
+<ce> Ich glaube, der Meister schickte Euch zu mir?
+<ce> Der Meister ist sehr zufrieden, wie Ihr die
+<ce> Arbeit mit diesem fürchterlichen _monster_
+<ce> erledigt habt, wenn ich das so sagen darf.
+<ce> Der Meister scheint ohnehin ziemlich vernarrt
+<ce> in Euch zu sein. Hier ist der Schild, den
+<ce> Ihr wolltet, der Zauberbrecher.
+<ce> Magier werden Euch damit fürchten.
+<ce> Ich hoffe er gefällt Euch, %pct.
 
 RumorsDuringQuest:  [1005]
 =monster_ aus ___mondung_, hat sich, wie es heißt, sowohl mächtige Feinde als auch Freunde gesucht.
@@ -79,18 +79,6 @@ RumorsPostsuccess:  [1007]
 Man sagt, =monster_ würde sich mächtiger als die Daedra selbst fühlen.
 <--->
 =monster_ hat den Lohn dafür erhalten, dass %g sich der Macht über Leben und Tod rühmte.
-
-QuestorPostsuccess:  [1008]
-Error: Quest 50c00y00.q tried to display text
-
-QuestorPostsuccess:  [1008]
-
-
-QuestorPostfailure:  [1009]
-Error: Quest 50c00y00.q tried to display text
-
-QuestorPostfailure:  [1009]
-
 
 Message:  1011
 Man sagt, _qgfriend_ sei ein sehr freundlicher und charmanter =qgfriend_, der außerdem die Daedra anbetet.
@@ -108,8 +96,8 @@ Der Zauberbrecher ist die ultimative Verteidigung gegen Zauber.
 Zauberbrecher kann Zauber auflösen oder sogar auf den Angreifer zurückwerfen.
 
 Message:  1014
-Ihr habt =monster_ getötet.
-Peryites Rache ist vollbracht.
+<ce> Ihr habt =monster_ getötet.
+<ce> Peryites Rache ist vollbracht.
 
 Message:  1015
 %qdt:

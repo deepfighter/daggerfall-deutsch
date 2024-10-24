@@ -3,40 +3,40 @@ DisplayName: Der Kriegsveteran
 QRC:
 
 QuestorOffer:  [1000]
-Das könnte selbst für Euch ein harter
-Brocken sein, %pcf. Es handelt
-sich um einen der besten Kämpfer in
-ganz %reg. Seid Ihr sicher,
-dass Ihr den Auftrag wollt?
+<ce> Das könnte selbst für Euch ein harter
+<ce> Brocken sein, %pcf. Es handelt
+<ce> sich um einen der besten Kämpfer in
+<ce> ganz %reg. Seid Ihr sicher,
+<ce> dass Ihr den Auftrag wollt?
 
 RefuseQuest:  [1001]
-Ich mache Euch keine Vorwürfe.
-Das wäre wirklich ein bisschen
-zu gefährlich gewesen.
+<ce> Ich mache Euch keine Vorwürfe.
+<ce> Das wäre wirklich ein bisschen
+<ce> zu gefährlich gewesen.
 
 AcceptQuest:  [1002]
-Irgendwie wusste ich, dass Ihr es versuchen
-würdet. Das ist Eure Beisetzung. Dieses
-Ziel ist kein Arena-Gladiator. Wir reden
-hier über einen Veteranen des Betonienkrieges.
-Hat neun Männer getötet, wenn die Geschichten
-wahr sind. Sucht die Waffenschmiede [_mondung_]
-in __mondung_ auf. Ihr werdet Euer Ziel
-leicht an seinem Hinken erkennen. Ein Speer
-ins Knie hat im Krieg dafür gesorgt. Kehrt
-dann binnen =1stparton_ Tagen hierher zurück.
+<ce> Irgendwie wusste ich, dass Ihr es versuchen
+<ce> würdet. Das ist Eure Beisetzung. Dieses
+<ce> Ziel ist kein Arena-Gladiator. Wir reden
+<ce> hier über einen Veteranen des Betonienkrieges.
+<ce> Hat neun Männer getötet, wenn die Geschichten
+<ce> wahr sind. Sucht die Waffenschmiede [_mondung_]
+<ce> in ___mondung_ auf. Ihr werdet Euer Ziel
+<ce> leicht an seinem Hinken erkennen. Ein Speer
+<ce> ins Knie hat im Krieg dafür gesorgt. Kehrt
+<ce> dann binnen =1stparton_ Tagen hierher zurück.
 
 QuestFail:  [1003]
-Ich weiß nicht, wen Ihr geglaubt habt zu
-töten, aber es war nicht das Ziel. Kehrt
-nach  __mondung_ zurück und schließt
-Euren Kontrakt ab.
+<ce> Ich weiß nicht, wen Ihr geglaubt habt zu
+<ce> töten, aber es war nicht das Ziel. Kehrt
+<ce> nach ___mondung_ zurück und schließt
+<ce> Euren Kontrakt ab.
 
 QuestComplete:  [1004]
-Was für ein Kampf! Ich habe schon davon
-gehört. Straßenklatsch ist schneller als
-ein Rennpferd. Hier sind die _reward_ Goldstücke
-für den Auftrag, %pcf.
+<ce> Was für ein Kampf! Ich habe schon davon
+<ce> gehört. Straßenklatsch ist schneller als
+<ce> ein Rennpferd. Hier sind die _reward_ Goldstücke
+<ce> für den Auftrag, %pcf.
 
 RumorsDuringQuest:  [1005]
 So eine Schande was da in Dolchsturz vor sich geht.
@@ -57,20 +57,20 @@ Message:  1020
 %qdt:
  Mein Kontrakt für die Bruderschaft in ___questgiver_
  ist ein Kriegsheld in einer Schmiede [_mondung_]
- in __mondung_. Die Tat muss in =1stparton_ Tagen
+ in ___mondung_. Die Tat muss in =1stparton_ Tagen
  vollbracht sein.
 
 Message:  1021
-"Ihr habt darin Erfolg ... wo alle ... Soldaten
-im Betonienkrieg ... gescheitert sind."
+<ce> "Ihr habt darin Erfolg ... wo alle ... Soldaten
+<ce> im Betonienkrieg ... gescheitert sind."
  
 Der Kontrakt wurde erfüllt.
 
 Message:  1022
-"Haltet mich nicht für einen Krüppel nur
- weil ich hinke. Ich werde Euch trotzdem
- in Stücke reißen!"
+<ce> "Haltet mich nicht für einen Krüppel nur
+<ce> weil ich hinke. Ich werde Euch trotzdem
+<ce> in Stücke reißen!"
 
 Message:  1023
-Das ist kein Mensch! Es ist ein Vampir!
+<ce> Das ist kein Mensch! Es ist ein Vampir!
 

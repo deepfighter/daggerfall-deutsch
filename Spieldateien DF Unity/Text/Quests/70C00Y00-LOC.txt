@@ -3,56 +3,54 @@ DisplayName: Mönchischer Frömmler
 QRC:
 
 QuestorOffer:  [1000]
-Macht ist so ein schönes Wort, nicht wahr?
-Es fließt wie Honig von der Zunge. Wenn
-Macht Euer Aphrodisiakum ist, wäre ich
-ganz entzückt, Euch Sanguines Rose zu schenken.
-Ihr müsst für mich nur einen ganz furchtbaren
-Priester bestrafen, der es gewagt hat, mich
-herauszufordern. Klingt das gut für Euch?
- 
+<ce> Macht ist so ein schönes Wort, nicht wahr?
+<ce> Es fließt wie Honig von der Zunge. Wenn
+<ce> Macht Euer Aphrodisiakum ist, wäre ich
+<ce> ganz entzückt, Euch Sanguines Rose zu schenken.
+<ce> Ihr müsst für mich nur einen ganz furchtbaren
+<ce> Priester bestrafen, der es gewagt hat, mich
+<ce> herauszufordern. Klingt das gut für Euch?
 
 RefuseQuest:  [1001]
-Die Pocken über Euch, %pcn!
-Wie könnt Ihr es wagen, mich heraufzubeschwören
-und dann mein großzügiges Angebot auszuschlagen?
-Betet, dass ich Euch vergeben werde,
-%pcf. Sanguine ist
-niemand, den man zum Feind haben sollte.
+<ce> Die Pocken über Euch, %pcn!
+<ce> Wie könnt Ihr es wagen, mich heraufzubeschwören
+<ce> und dann mein großzügiges Angebot auszuschlagen?
+<ce> Betet, dass ich Euch vergeben werde,
+<ce> %pcf. Sanguine ist
+<ce> niemand, den man zum Feind haben sollte.
 
 AcceptQuest:  [1002]
-Ihr werdet es nicht bereuen, %pcf,
-vorausgesetzt, Ihr erfüllt Euren Teil
-der Abmachung. Dieser frömmlerische
-Mönch ist nicht harmlos; %g3 Name ist
-=monster_ und %g hat meine
-geliebten Anhänger in Asche verwandelt.
-Geht zu dem verlassenen Tempel ___mondung_,
-wo %g herumlungert und reißt %g2 das Herz
-aus %g3 Brust. Mein Agent _contact_
-wird Euch in ___contact_ erwarten.
-_contact_ verweilt aber nur ungern, also
-begeht den Mord in =1stparton_ oder weniger
-Tagen. Ich habe das köstliche Gefühl, dass
-wir uns wiedersehen werden, %pcf.
-Ich hoffe es.
- 
+<ce> Ihr werdet es nicht bereuen, %pcf,
+<ce> vorausgesetzt, Ihr erfüllt Euren Teil
+<ce> der Abmachung. Dieser frömmlerische
+<ce> Mönch ist nicht harmlos; %g3 Name ist
+<ce> =monster_ und %g hat meine
+<ce> geliebten Anhänger in Asche verwandelt.
+<ce> Geht zu dem verlassenen Tempel ___mondung_,
+<ce> wo %g herumlungert und reißt %g2 das Herz
+<ce> aus %g3 Brust. Mein Agent _contact_
+<ce> wird Euch in ___contact_ erwarten.
+<ce> _contact_ verweilt aber nur ungern, also
+<ce> begeht den Mord in =1stparton_ oder weniger
+<ce> Tagen. Ich habe das köstliche Gefühl, dass
+<ce> wir uns wiedersehen werden, %pcf.
+<ce> Ich hoffe es.
 
 QuestFail:  [1003]
-Dieser frömmelnde Reaktionär ist
-noch am Leben und Ihr wisst das,
-%pcf. Spielt mit Sanguine
-keine Spielchen, %pct.
-Die Regeln würden Euch nicht gefallen.
+<ce> Dieser frömmelnde Reaktionär ist
+<ce> noch am Leben und Ihr wisst das,
+<ce> %pcf. Spielt mit Sanguine
+<ce> keine Spielchen, %pct.
+<ce> Die Regeln würden Euch nicht gefallen.
 
 QuestComplete:  [1004]
-Freut mich, Eure Bekanntschaft zu machen,
-%pcn. Ich bin _contact_.
-Sanguine muss von Euch wirklich hingerissen
-sein. Er hat die Rose für seine
-Lieblingsschüler zurückgelegt.
-Und nun ist sie Euer. Ich hoffe,
-Ihr werdet sie ausgiebig genießen.
+<ce> Freut mich, Eure Bekanntschaft zu machen,
+<ce> %pcn. Ich bin _contact_.
+<ce> Sanguine muss von Euch wirklich hingerissen
+<ce> sein. Er hat die Rose für seine
+<ce> Lieblingsschüler zurückgelegt.
+<ce> Und nun ist sie Euer. Ich hoffe,
+<ce> Ihr werdet sie ausgiebig genießen.
 
 RumorsDuringQuest:  [1005]
 All die Orgien, die hier stattzufinden pflegten, wurden von =monster_ unterdrückt.
@@ -69,18 +67,6 @@ Viele Leute freuen sich über den Tod von =monster_. Genau das, was %g3 Sorte ve
 <--->
 Die Orgien haben wieder eingesetzt, nun da =monster_ von der Bildfläche verschwunden ist.
 
-QuestorPostsuccess:  [1008]
-Error: Quest 70c00y00.q tried to display text
-
-QuestorPostsuccess:  [1008]
-
-
-QuestorPostfailure:  [1009]
-Error: Quest 70c00y00.q tried to display text
-
-QuestorPostfailure:  [1009]
-
-
 Message:  1011
 Sanguine ist der Daedrafürst der Lust. "Stets im Exzess" ist sein Motto.
 <--->
@@ -92,15 +78,17 @@ Nur ein schielender =contact_ %di von hier in __contact_.
 _contact_ ist der Name eines nichtsnutzigen =contact_ in __contact_.
 
 Message:  1014
-Sanguines Rose beschwört einen Daedra, der für Euch kämpft. Im besten Fall ist das noch ein riskantes Unterfangen.
+<ce> Sanguines Rose beschwört einen Daedra, der für Euch kämpft.
+<ce> Im besten Fall ist das noch ein riskantes Unterfangen.
 <--->
-Der Besitzer von Sanguines Rose soll die Macht haben, Hilfe aus dem Reich des Vergessens zu beschwören.
+<ce> Der Besitzer von Sanguines Rose soll die Macht haben,
+<ce> Hilfe aus dem Reich des Vergessens zu beschwören.
 
 Message:  1015
-=monster_ ist tot.
-Ihr hofft, dass sich
-Sanguine darüber
-ekstatisch freut.
+<ce> =monster_ ist tot.
+<ce> Ihr hofft, dass sich
+<ce> Sanguine darüber
+<ce> ekstatisch freut.
 
 Message:  1020
 %qdt:

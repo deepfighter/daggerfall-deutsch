@@ -3,55 +3,55 @@ DisplayName: Wohltätiger Esel
 QRC:
 
 QuestorOffer:  [1000]
-Macht, ha! Würde denn ein durch Mundus kriechender
-%ra etwas mit wahrer Macht anzufangen
-wissen? Ihr meint, dass Ihr noch ein paar andere
-Sterbliche herumstoßen möchtet, nicht wahr? Nun,
-das lässt sich bewerkstelligen. Beweist mir, dass
-ihr den Mut habt, auch wirklich zu gebrauchen
-was ich Euch gewähre.
+<ce> Macht, ha! Würde denn ein durch Mundus kriechender
+<ce> %ra etwas mit wahrer Macht anzufangen
+<ce> wissen? Ihr meint, dass Ihr noch ein paar andere
+<ce> Sterbliche herumstoßen möchtet, nicht wahr? Nun,
+<ce> das lässt sich bewerkstelligen. Beweist mir, dass
+<ce> ihr den Mut habt, auch wirklich zu gebrauchen
+<ce> was ich Euch gewähre.
  
-Werdet Ihr jemanden für mich töten?
+<ce> Werdet Ihr jemanden für mich töten?
 
 RefuseQuest:  [1001]
-Pah, Ihr macht mich krank. Beschwört mich
-nicht wieder, %pcf, bis
-Ihr erwachsen seid oder einen Kampf sucht.
+<ce> Pah, Ihr macht mich krank. Beschwört mich
+<ce> nicht wieder, %pcf, bis
+<ce> Ihr erwachsen seid oder einen Kampf sucht.
 
 AcceptQuest:  [1002]
-Gut, das ist zumindest ein Schritt in die
-richtige Richtung. Der Magierkrieger, den ich
-im Sinn habe, damit Ihr ihn um der Macht willen
-töten könnt ist =monster_, ein wirklich
-bezaubernder und barmherziger Arsch, der mich
-seit Jahren zur Hölle ärgert. Ihr werdet %g2
-in %g3 Festung finden, einem ___mondung_
-genannten Ort. Aber glaubt nicht, dass
-=monster_ nicht kämpfen kann, nur weil %g
-so feine Manieren hat. Ich möchte Euch schon
-in bisschen für mein Geschenk arbeiten lassen.
-Nach dem Mord solltet Ihr _qgfriend_
-treffen, meinen Agenten, der sich in __qgfriend_
-in ___qgfriend_ herumtreibt. Sucht dort
-einfach nach einem =qgfriend_. Und lasst %g2
-nicht warten. Ich werde %g2 sagen, dass Ihr in =1stparton_ Tagen
-eintrefft. Das ist mehr als genug Zeit. Ich beobachte Euch.
+<ce> Gut, das ist zumindest ein Schritt in die
+<ce> richtige Richtung. Der Magierkrieger, den ich
+<ce> im Sinn habe, damit Ihr ihn um der Macht willen
+<ce> töten könnt ist =monster_, ein wirklich
+<ce> bezaubernder und barmherziger Arsch, der mich
+<ce> seit Jahren zur Hölle ärgert. Ihr werdet %g2
+<ce> in %g3 Festung finden, einem ___mondung_
+<ce> genannten Ort. Aber glaubt nicht, dass
+<ce> =monster_ nicht kämpfen kann, nur weil %g
+<ce> so feine Manieren hat. Ich möchte Euch schon
+<ce> in bisschen für mein Geschenk arbeiten lassen.
+<ce> Nach dem Mord solltet Ihr _qgfriend_
+<ce> treffen, meinen Agenten, der sich in __qgfriend_
+<ce> in ___qgfriend_ herumtreibt. Sucht dort
+<ce> einfach nach einem =qgfriend_. Und lasst %g2
+<ce> nicht warten. Ich werde %g2 sagen, dass Ihr in =1stparton_ Tagen
+<ce> eintrefft. Das ist mehr als genug Zeit. Ich beobachte Euch.
 
 QuestFail:  [1003]
-Geht weiter, %ra. Wir
-haben nichts zu bereden.
+<ce> Geht weiter, %ra. Wir
+<ce> haben nichts zu bereden.
 
 QuestComplete:  [1004]
-Ihr seid also %pcn. Hmm,
-Ihr seid gar nicht so kümmerlich wie
-Boethiah meinte. Nehmt das als
-Anerkennung. Und nehmt auch das hier.
-Boethiah hat die Ebenerzrüstung selbst
-erschaffen. Sie glaubt, das Artefakt würde
-Euch bei Eurer Suche nach Macht helfen.
-Sie hat Interesse an Euch, soviel ist sicher.
-Ich habe es an ihrem Lächeln gesehen,
-als sie Euch ''kümmerlich'' nannte.
+<ce> Ihr seid also %pcn. Hmm,
+<ce> Ihr seid gar nicht so kümmerlich wie
+<ce> Boethiah meinte. Nehmt das als
+<ce> Anerkennung. Und nehmt auch das hier.
+<ce> Boethiah hat die Ebenerzrüstung selbst
+<ce> erschaffen. Sie glaubt, das Artefakt würde
+<ce> Euch bei Eurer Suche nach Macht helfen.
+<ce> Sie hat Interesse an Euch, soviel ist sicher.
+<ce> Ich habe es an ihrem Lächeln gesehen,
+<ce> als sie Euch ''kümmerlich'' nannte.
 
 RumorsDuringQuest:  [1005]
 Bei der nächsten Bürgermeisterwahl werde ich für =monster_ abstimmen.
@@ -67,18 +67,6 @@ RumorsPostsuccess:  [1007]
 Es ist eine Tragödie für ganz %reg. Welches Monster würde =monster_ töten?
 <--->
 %oth, ich kann nicht glauben, dass =monster_ tot ist. Was für ein tragischer, entsetzlicher Verlust.
-
-QuestorPostsuccess:  [1008]
-Error: u0c00y00.q tried to display text
-
-QuestorPostsuccess:  [1008]
-.
-
-QuestorPostfailure:  [1009]
-Error: u0c00y00.q tried to display text
-
-QuestorPostfailure:  [1009]
-.
 
 Message:  1011
 _qgfriend_ ist der Name dieses grobschlächtigen =qgfriend_ drüben in __qgfriend_.
@@ -132,16 +120,16 @@ Message:  1040
 <ce>___mfriend_
 
 Message:  1041
-Wie seid Ihr hier hereingekommen?
-%oth! Ich wusste, dass
-=monster_ mich eines Tages
-töten würde. Hört zu, da %g mein
-Leben offenbar kaum genug schätzt,
-um nicht meinen Brief herumliegen
-zu lassen, ist %g es auch nicht
-wert, länger von mir beschützt zu werden.
-Ihr könnt %g2 in ___hideout_
-finden. %g geht mich nichts mehr an.
+<ce> Wie seid Ihr hier hereingekommen?
+<ce> %oth! Ich wusste, dass
+<ce> =monster_ mich eines Tages
+<ce> töten würde. Hört zu, da %g mein
+<ce> Leben offenbar kaum genug schätzt,
+<ce> um nicht meinen Brief herumliegen
+<ce> zu lassen, ist %g es auch nicht
+<ce> wert, länger von mir beschützt zu werden.
+<ce> Ihr könnt %g2 in ___hideout_
+<ce> finden. %g geht mich nichts mehr an.
 
 Message:  1042
 %qdt:

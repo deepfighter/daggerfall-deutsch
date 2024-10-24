@@ -3,77 +3,77 @@ DisplayName: Das Geburtstagsgeschenk
 QRC:
 
 QuestorOffer:  [1000]
-Entschuldigt? _questg_ ist mein Name.
-Ich bin mir nicht sicher, wie ich zu Euch
-stehe, doch ich bedarf Eurer Hilfe. Meine
-Schwester _sister_ hat nächsten
-Monat ihren Ehrentag, und ich benötige
-dringend etwas _item_ für die Feierlichkeiten.
-Es wäre mir _gold_ Goldstücke wert. Was sagt Ihr?
+<ce> Entschuldigt? _questg_ ist mein Name.
+<ce> Ich bin mir nicht sicher, wie ich zu Euch
+<ce> stehe, doch ich bedarf Eurer Hilfe. Meine
+<ce> Schwester _sister_ hat nächsten
+<ce> Monat ihren Ehrentag, und ich benötige
+<ce> dringend etwas _item_ für die Feierlichkeiten.
+<ce> Es wäre mir _gold_ Goldstücke wert. Was sagt Ihr?
 
 RefuseQuest:  [1001]
-Auch gut, denke ich. Einen schönen Tag wünsche ich.
+<ce> Auch gut, denke ich. Einen schönen Tag wünsche ich.
 <--->
-Verzeiht, dass ich Euch belästigt habe.
+<ce> Verzeiht, dass ich Euch belästigt habe.
 <--->
-Dann haben wir nie gesprochen. Ich würde
-es hassen, die Überraschung zu verderben.
+<ce> Dann haben wir nie gesprochen. Ich würde
+<ce> es hassen, die Überraschung zu verderben.
 <--->
-Wie auch immer, es wäre leicht
-verdientes Gold für Euch gewesen.
+<ce> Wie auch immer, es wäre leicht
+<ce> verdientes Gold für Euch gewesen.
 <--->
-Nun, verlasst mich, ich muss eine Feier planen.
+<ce> Nun, verlasst mich, ich muss eine Feier planen.
 
 AcceptQuest:  [1002]
-Ausgezeichnet! Ihr seid ein kluger Kopf.
-Das ist leicht verdientes Gold.
-Begebt Euch zu _store_
-und sucht nach _merchant_, %g
-besitzt das besondere _item_,
-welches ich benötige. Bedenkt, es sind
-nur noch wenige Tage bis zur Feier.
+<ce> Ausgezeichnet! Ihr seid ein kluger Kopf.
+<ce> Das ist leicht verdientes Gold.
+<ce> Begebt Euch zu _store_
+<ce> und sucht nach _merchant_, %g
+<ce> besitzt das besondere _item_,
+<ce> welches ich benötige. Bedenkt, es sind
+<ce> nur noch wenige Tage bis zur Feier.
 <--->
-Sehr gut. Das ist einfach verdientes Gold.
-Ihr werdet zu _store_ gehen müssen,
-um genau das zu finden, was ich suche.
-Redet mit _merchant_, %g
-betreibt den Laden.
+<ce> Sehr gut. Das ist einfach verdientes Gold.
+<ce> Ihr werdet zu _store_ gehen müssen,
+<ce> um genau das zu finden, was ich suche.
+<ce> Redet mit _merchant_, %g
+<ce> betreibt den Laden.
 
 QuestComplete:  [1004]
-Sehr gut. Hier ist das Gold, das ich Euch versprach.
+<ce> Sehr gut. Hier ist das Gold, das ich Euch versprach.
 
 RumorsDuringQuest:  [1005]
-Ich hörte, dass _questg_ seine
-Schwester _sister_ nicht ausstehen kann.
-Und dabei soll sie bald heiraten.
+<ce> Ich hörte, dass _questg_ seine
+<ce> Schwester _sister_ nicht ausstehen kann.
+<ce> Und dabei soll sie bald heiraten.
 
 RumorsPostfailure:  [1006]
-Habt Ihr vernommen, dass _sister_
-einen Versuch aufgedeckt hat, %g2 zu
-vergiften?
+<ce> Habt Ihr vernommen, dass _sister_
+<ce> einen Versuch aufgedeckt hat, %g2 zu
+<ce> vergiften?
 
 RumorsPostsuccess:  [1007]
-_sister_ wurde tot aufgefunden.
-Und das am Vorabend ihrer Hochzeit.
+<ce> _sister_ wurde tot aufgefunden.
+<ce> Und das am Vorabend ihrer Hochzeit.
 
 QuestorPostsuccess:  [1008]
-Ähm. Nun ja, ich denke, nachdem
-Ihr dieses... Ding für meiner
-Schwester Hochzeit besorgt habt,
-schulde ich Euch etwas.
+<ce> Ähm. Nun ja, ich denke, nachdem
+<ce> Ihr dieses... Ding für meiner
+<ce> Schwester Hochzeit besorgt habt,
+<ce> schulde ich Euch etwas.
 
 QuestorPostfailure:  [1009]
-Verräter! Ich gebe Euch einen einfachen Auftrag,
-und Ihr plaudert es an _sister_ aus.
-Von mir braucht Ihr keine Hilfe zu erwarten.
+<ce> Verräter! Ich gebe Euch einen einfachen Auftrag,
+<ce> und Ihr plaudert es an _sister_ aus.
+<ce> Von mir braucht Ihr keine Hilfe zu erwarten.
 
 Message:  1011
-Ihr habt _item_.
-Wollt Ihr es _sister_ geben?
+<ce> Ihr habt _item_.
+<ce> Wollt Ihr es _sister_ geben?
 
 Message:  1013
-Ihr habt _item_.
-Wollt Ihr es _questg_ geben?
+<ce> Ihr habt _item_.
+<ce> Wollt Ihr es _questg_ geben?
 
 Message:  1025
 %qdt:
@@ -86,47 +86,47 @@ Message:  1025
  wieder da sein. Diese ist in einem Monat.
 
 Message:  1040
-Seid gegrüßt. Ja, ich bin _merchant_.
-Ein _item_? Ja, das habe ich.
-Gebt mir Eure 20 Goldstücke, und Ihr
-könnt das _item_ haben. Danke,
-dass Ihr vorbeigeschaut habt.
+<ce> Seid gegrüßt. Ja, ich bin _merchant_.
+<ce> Ein _item_? Ja, das habe ich.
+<ce> Gebt mir Eure 20 Goldstücke, und Ihr
+<ce> könnt das _item_ haben. Danke,
+<ce> dass Ihr vorbeigeschaut habt.
 
 Message:  1041
-Seid gegrüßt. Ja, ich bin _merchant_.
-Ein _item_? Ja, das habe ich.
-Gebt mir Eure 20 Goldstücke, und Ihr
-könnt das _item_ haben. Oh,
-verzeiht. Es scheint, als hättet Ihr
-nicht genug Gold dafür.
+<ce> Seid gegrüßt. Ja, ich bin _merchant_.
+<ce> Ein _item_? Ja, das habe ich.
+<ce> Gebt mir Eure 20 Goldstücke, und Ihr
+<ce> könnt das _item_ haben. Oh,
+<ce> verzeiht. Es scheint, als hättet Ihr
+<ce> nicht genug Gold dafür.
 
 Message:  1050
-Hallo? Warum seid Ihr hier? Ihr sagt,
-_questg_ sucht nach einem _item_
-für meine Geburtstagsfeier? Oh, was
-für eine wundervolle Idee! Ich verspreche,
-die Überraschung nicht zu verderben!
+<ce> Hallo? Warum seid Ihr hier? Ihr sagt,
+<ce> _questg_ sucht nach einem _item_
+<ce> für meine Geburtstagsfeier? Oh, was
+<ce> für eine wundervolle Idee! Ich verspreche,
+<ce> die Überraschung nicht zu verderben!
 
 Message:  1051
-Hallo? Wie seid Ihr hier hereingekommen?
-Was? _questg_ bat Euch, ihm ein _item_
-zu bringen? Oh mein... Habt Ihr eine Ahnung,
-was er damit vorhat? Ich schon. _item_
-ist Teil eines Trankes, den mein „liebender“
-Bruder gern herstellt. Ein tödlicher Trank.
-Ihr dürft es ihm nicht geben! Bitte! Bringt
-_item_ zu mir. Ihr müsst es tun, oder
-ich könnte sterben!
+<ce> Hallo? Wie seid Ihr hier hereingekommen?
+<ce> Was? _questg_ bat Euch, ihm ein _item_
+<ce> zu bringen? Oh mein... Habt Ihr eine Ahnung,
+<ce> was er damit vorhat? Ich schon. _item_
+<ce> ist Teil eines Trankes, den mein „liebender“
+<ce> Bruder gern herstellt. Ein tödlicher Trank.
+<ce> Ihr dürft es ihm nicht geben! Bitte! Bringt
+<ce> _item_ zu mir. Ihr müsst es tun, oder
+<ce> ich könnte sterben!
 
 Message:  1060
-Ich nehme es, denke ich.
-Aber verdirbt das nicht
-die Überraschung?
-Ihr seid seltsam,
-%pcn.
+<ce> Ich nehme es, denke ich.
+<ce> Aber verdirbt das nicht
+<ce> die Überraschung?
+<ce> Ihr seid seltsam,
+<ce> %pcn.
 
 Message:  1061
-Vielen Dank, mein Bruder kann es
-jetzt nicht mehr benutzen. Ihr habt
-weise gehandelt. Vielen Dank.
+<ce> Vielen Dank, mein Bruder kann es
+<ce> jetzt nicht mehr benutzen. Ihr habt
+<ce> weise gehandelt. Vielen Dank.
 

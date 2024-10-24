@@ -3,52 +3,52 @@ DisplayName: Zwei Feiglinge
 QRC:
 
 QuestorOffer:  [1000]
-Ich befinde mich in einer misslichen Lage, fürchte
-ich. Neulich habe ich bei _lover_ ... 
-übernachtet und %g3 Geliebter ist furchtbar
-altmodisch in solcherlei Angelegenheiten. Ich wurde
-zu einem Duell herausgefordert. Glücklicherweise
-weiß _competitor_, das ist der Name
-meines Rivalen, nicht, wie ich aussehe. Ihr
-könntet mich vertreten. Für _gold_ Goldstücke, würdet
-Ihr das tun? Ich wäre Euch überaus dankbar.
+<ce> Ich befinde mich in einer misslichen Lage, fürchte
+<ce> ich. Neulich habe ich bei _lover_ ... 
+<ce> übernachtet und %g3 Geliebter ist furchtbar
+<ce> altmodisch in solcherlei Angelegenheiten. Ich wurde
+<ce> zu einem Duell herausgefordert. Glücklicherweise
+<ce> weiß _competitor_, das ist der Name
+<ce> meines Rivalen, nicht, wie ich aussehe. Ihr
+<ce> könntet mich vertreten. Für _gold_ Goldstücke, würdet
+<ce> Ihr das tun? Ich wäre Euch überaus dankbar.
 <--->
-Dieser =competitor_ hier aus %cn
-hat mich herausgefordert. Ich nehme an, es hat sich
-nun schon bis zu ihm herumgesprochen, dass ich die
-Ehre %g3 Geliebten befleckt habe, _lover_.
-Ist ja nicht so, als hätte nicht bereits ganz
-%reg bei der guten _lover_ gelegen. Einfach
-ausgedrückt, ich brauche jemanden wie Euch, der sich
-bei dem Duell für mich ausgibt. Würden Euch
-_gold_ Goldstücke Belohnung interessieren?
+<ce> Dieser =competitor_ hier aus %cn
+<ce> hat mich herausgefordert. Ich nehme an, es hat sich
+<ce> nun schon bis zu ihm herumgesprochen, dass ich die
+<ce> Ehre %g3 Geliebten befleckt habe, _lover_.
+<ce> Ist ja nicht so, als hätte nicht bereits ganz
+<ce> %reg bei der guten _lover_ gelegen. Einfach
+<ce> ausgedrückt, ich brauche jemanden wie Euch, der sich
+<ce> bei dem Duell für mich ausgibt. Würden Euch
+<ce> _gold_ Goldstücke Belohnung interessieren?
 
 RefuseQuest:  [1001]
-Nein? Welch ein Bedauern. Nun ja, ich
-sollte vielleicht ohnehin jemanden finden,
-der meiner Erscheinung ähnlicher ist.
+<ce> Nein? Welch ein Bedauern. Nun ja, ich
+<ce> sollte vielleicht ohnehin jemanden finden,
+<ce> der meiner Erscheinung ähnlicher ist.
 
 AcceptQuest:  [1002]
-Gute Antwort, %pcf. Bringt diesen
-Antwortbrief zu _competitor_.
-Ihr werdet %g2 in der __competitor_
-finden. Ich erwarte Euch siegreich zurück
-in =queston_ Tagen, für eine angemessene Belohnung.
-Viel Glück, mein Freund.
+<ce> Gute Antwort, %pcf. Bringt diesen
+<ce> Antwortbrief zu _competitor_.
+<ce> Ihr werdet %g2 in der __competitor_
+<ce> finden. Ich erwarte Euch siegreich zurück
+<ce> in =queston_ Tagen, für eine angemessene Belohnung.
+<ce> Viel Glück, mein Freund.
 
 QuestComplete:  [1004]
-Die Ehre wurde wiederhergestellt,
-eh, mein guter %ra? Hier sind
-Eure _gold_ Goldstücke. Und jetzt sollte
-ich meine liebe _lover_ besuchen gehen
-und %g2 die Ereignisse schildern ... mit
-ein paar kleinen Änderungen der Fakten,
-natürlich.
+<ce> Die Ehre wurde wiederhergestellt,
+<ce> eh, mein guter %ra? Hier sind
+<ce> Eure _gold_ Goldstücke. Und jetzt sollte
+<ce> ich meine liebe _lover_ besuchen gehen
+<ce> und %g2 die Ereignisse schildern ... mit
+<ce> ein paar kleinen Änderungen der Fakten,
+<ce> natürlich.
 
 RumorsDuringQuest:  [1005]
 _lover_, sagt man, habe mehr Tode verursacht als jede Seuche.
 <--->
-Der letzte von _lover_s Geliebten starb in %g2 Armen, während er versuchte, %g3 ... zufriedenzustellen.
+Der letzte von _lover_s Geliebten starb in %g3 Armen, während er versuchte, %g3 ... zufriedenzustellen.
 <--->
 Wenn _lover_ herausfindet, dass ein Duell um %g2 stattfindet ... %oth, dann wird es das gewesen sein.
 
@@ -77,7 +77,7 @@ QuestLogEntry:  [1010]
  _competitor_ überbringen und das Duell bestreiten.
  Ich kann diesen _competitor_ in __competitor_
  hier in ___competitor_ finden. Nach dem Duell soll
- ich zu  _qgiver_ im __qgiver_ zurückkehren.
+ ich zu _qgiver_ im __qgiver_ zurückkehren.
  Und das alles für die Liebe von _lover_.
 
 Message:  1011
@@ -97,70 +97,70 @@ fortwährenden Verlust der Ehre.
  _qgiver_ von ___qgiver_
 
 Message:  1012
-Ihr seid, uh, _qgiver_? Ihr
-sucht sicher nach dieser anderen Person
-namens _competitor_, einem
-wirklich starken, uh, _duelist_.
-Ihr findet %g2 in der _arena_.
-Viel Glück, _qgiver_. Ich
-hoffe, Ihr gewinnt!
+<ce> Ihr seid, uh, _qgiver_? Ihr
+<ce> sucht sicher nach dieser anderen Person
+<ce> namens _competitor_, einem
+<ce> wirklich starken, uh, _duelist_.
+<ce> Ihr findet %g2 in der _arena_.
+<ce> Viel Glück, _qgiver_. Ich
+<ce> hoffe, Ihr gewinnt!
 <--->
-Wenn Ihr _qgiver_ seid...
-%oth, wir treffen uns
-der _arena_. Lasst mich bloß,
-ah, meine _duelist_-Sachen anlegen.
-Auf gleich!
+<ce> Wenn Ihr _qgiver_ seid...
+<ce> %oth, wir treffen uns
+<ce> der _arena_. Lasst mich bloß,
+<ce> ah, meine _duelist_-Sachen anlegen.
+<ce> Auf gleich!
 
 Message:  1013
-Ihr seid in der _arena_,
-wo _competitor_ sagte, dass %g
-sich mit Euch treffen will.
+<ce> Ihr seid in der _arena_,
+<ce> wo _competitor_ sagte, dass %g
+<ce> sich mit Euch treffen will.
 
 Message:  1014
-Ihr habt, im Austausch für _qgiver_,
-einen _duelist_ erschlagen, der
-an _competitor_s Stelle erschienen ist.
-Ihr müsst bloß noch zu Eurem Auftraggeber
-zurückkehren und die Ehre ist wiederhergestellt.
+<ce> Ihr habt, im Austausch für _qgiver_,
+<ce> einen _duelist_ erschlagen, der
+<ce> an _competitor_s Stelle erschienen ist.
+<ce> Ihr müsst bloß noch zu Eurem Auftraggeber
+<ce> zurückkehren und die Ehre ist wiederhergestellt.
 
 Message:  1015
-Das ist ja absurd! Zum einen ist
-_competitor_ ein richtiger Armleuchter,
-_qgiver_ zu einem Duell zu
-fordern. Und  _qgiver_ wiederum ist
-wirklich ein Feigling, Euch zu schicken,
-um %g3 Platz einzunehmen. Danke,
-dass Ihr mir das vor Augen geführt habt.
-Keiner von ihnen soll mich haben, aber Ihr
-könnt diese _lovgold_ Goldstücke haben,
-wenn dieser Narr schon versprochen hat, Euch
-zu bezahlen.
+<ce> Das ist ja absurd! Zum einen ist
+<ce> _competitor_ ein richtiger Armleuchter,
+<ce> _qgiver_ zu einem Duell zu
+<ce> fordern. Und _qgiver_ wiederum ist
+<ce> wirklich ein Feigling, Euch zu schicken,
+<ce> um %g3 Platz einzunehmen. Danke,
+<ce> dass Ihr mir das vor Augen geführt habt.
+<ce> Keiner von ihnen soll mich haben, aber Ihr
+<ce> könnt diese _lovgold_ Goldstücke haben,
+<ce> wenn dieser Narr schon versprochen hat, Euch
+<ce> zu bezahlen.
 <--->
-Das ist zu romantisch! Stellt Euch nur vor --
-_competitor_ und _qgiver_ reißen
-sich gegenseitig in Stücke, nur meinetwegen.
-%oth, wie aufmerksam diese Geste auch
-sein mag, ich kann das nicht zulassen. Ich werde
-___lover_ verlassen, für immer; aber vorher,
-bitte nehmt diese _lovgold_ Goldstücke
-um die Belohnung zu ersetzen, die
-_qgiver_ Euch angeboten hat. Ich kann
-Euch nicht leer ausgehen lassen, nur weil kein
-Duell stattfindet.
-Gehabt Euch wohl, %pcf.
+<ce> Das ist zu romantisch! Stellt Euch nur vor --
+<ce> _competitor_ und _qgiver_ reißen
+<ce> sich gegenseitig in Stücke, nur meinetwegen.
+<ce> %oth, wie aufmerksam diese Geste auch
+<ce> sein mag, ich kann das nicht zulassen. Ich werde
+<ce> ___lover_ verlassen, für immer; aber vorher,
+<ce> bitte nehmt diese _lovgold_ Goldstücke
+<ce> um die Belohnung zu ersetzen, die
+<ce> _qgiver_ Euch angeboten hat. Ich kann
+<ce> Euch nicht leer ausgehen lassen, nur weil kein
+<ce> Duell stattfindet.
+<ce> Gehabt Euch wohl, %pcf.
 <--->
-Verstehe ich das richtig? Dieser idiotische
-_competitor_ ist eifersüchtig
-auf mich und _qgiver_ und hat
-%g2 zu einem Duell herausgefordert. Und
-_qgiver_, dieser verdammte Feigling,
-hat Euch gebeten, Euch bei diesem Duell
-für %g2 auszugeben? Ist es verwunderlich,
-dass ich keinen von beiden liebe? Ich werde
-mich darum kümmern. Hier sind _lovgold_ Goldstücke
-anstelle der Belohnung, die _qgiver_ 
-Euch angeboten hat. Es wird
-kein Duell stattfinden.
+<ce> Verstehe ich das richtig? Dieser idiotische
+<ce> _competitor_ ist eifersüchtig
+<ce> auf mich und _qgiver_ und hat
+<ce> %g2 zu einem Duell herausgefordert. Und
+<ce> _qgiver_, dieser verdammte Feigling,
+<ce> hat Euch gebeten, Euch bei diesem Duell
+<ce> für %g2 auszugeben? Ist es verwunderlich,
+<ce> dass ich keinen von beiden liebe? Ich werde
+<ce> mich darum kümmern. Hier sind _lovgold_ Goldstücke
+<ce> anstelle der Belohnung, die _qgiver_ 
+<ce> Euch angeboten hat. Es wird
+<ce> kein Duell stattfinden.
 
 Message:  1016
 %qdt:

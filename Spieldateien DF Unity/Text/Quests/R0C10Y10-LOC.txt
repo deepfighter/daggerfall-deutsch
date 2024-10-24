@@ -3,42 +3,42 @@ DisplayName: Waffennachschub
 QRC:
 
 QuestorOffer:  [1000]
-Wenn Ihr daran interessiert seid, _reward_ Goldstücke
-für nichts weiter als die Lieferung eines kleinen
-Pakets an einen Agenten von mir zu verdienen, dann
-sprecht jetzt.
+<ce> Wenn Ihr daran interessiert seid, _reward_ Goldstücke
+<ce> für nichts weiter als die Lieferung eines kleinen
+<ce> Pakets an einen Agenten von mir zu verdienen, dann
+<ce> sprecht jetzt.
 <--->
-Ich könnte die Dienste einer Person mit
-angemessenen Talent, überdurchschnittlicher
-Diskretion und der Bereitschaft für
-_reward_ Goldstücke die Position eines niederen
-Kuriers anzunehmen. Seid Ihr diese Person?
+<ce> Ich könnte die Dienste einer Person mit
+<ce> angemessenen Talent, überdurchschnittlicher
+<ce> Diskretion und der Bereitschaft für
+<ce> _reward_ Goldstücke die Position eines niederen
+<ce> Kuriers anzunehmen. Seid Ihr diese Person?
 
 RefuseQuest:  [1001]
-Wirklich? Zu Beschäftigt? Euer Pech.
+<ce> Wirklich? Zu Beschäftigt? Euer Pech.
 
 AcceptQuest:  [1002]
-Ausgezeichnet. Hier ist _weapon_.
-Nun, _contact_ muss sie
-___contact_ in =queston_ Tagen
-haben. Das sollte gerade genug Zeit
-sein, hoffe ich. Ihr werdet __contact_
-erkennen - sucht einfach nach einem
-=contact_. Viel Glück und danke.
+<ce> Ausgezeichnet. Hier ist _weapon_.
+<ce> Nun, _contact_ muss sie
+<ce> ___contact_ in =queston_ Tagen
+<ce> haben. Das sollte gerade genug Zeit
+<ce> sein, hoffe ich. Ihr werdet __contact_
+<ce> erkennen - sucht einfach nach einem
+<ce> =contact_. Viel Glück und danke.
 
 QuestFail:  [1003]
-Konntet Ihr nicht einmal eine einfache
-kleine Lieferung bewältigen, %pcf?
-Ich hoffe eindringlichst, dass Ihr nicht
-gekommen seid und eine Belohnung erwartet.
+<ce> Konntet Ihr nicht einmal eine einfache
+<ce> kleine Lieferung bewältigen, %pcf?
+<ce> Ich hoffe eindringlichst, dass Ihr nicht
+<ce> gekommen seid und eine Belohnung erwartet.
 
 QuestComplete:  [1004]
-Ah, gut Euch zu sehen, %pcf.
-Und die _weapon_ ebenfalls.
-Ausgezeichnet. Hier sind die
-_reward_ Goldstücke, die Euch,
-glaube ich, von _questgiver_
-versprochen wurden.
+<ce> Ah, gut Euch zu sehen, %pcf.
+<ce> Und die _weapon_ ebenfalls.
+<ce> Ausgezeichnet. Hier sind die
+<ce> _reward_ Goldstücke, die Euch,
+<ce> glaube ich, von _questgiver_
+<ce> versprochen wurden.
 
 RumorsDuringQuest:  [1005]
 _questgiver_ ist immer noch im Schmugglergewerbe, sagt man sich.
@@ -61,16 +61,16 @@ Oh, mein alter Kurier. Wie charmant. Wie kann ich Euch helfen?
 Ihr kommt mir bekannt vor. Ihr habt unkängst eine kleine Lieferung für mich getätigt, nicht wahr?
 
 QuestorPostfailure:  [1009]
-Ihr seht fast genau aus wie ein
-%ra, der eine Lieferung
-für mich vermasselt hat.
-Merkwürdig. Geht jetzt.
+<ce> Ihr seht fast genau aus wie ein
+<ce> %ra, der eine Lieferung
+<ce> für mich vermasselt hat.
+<ce> Merkwürdig. Geht jetzt.
 
 QuestLogEntry:  [1010]
 %qdt:
  _questgiver_ aus
  __questgiver_, ___questgiver_
- hat mich beauftragt eine  _weapon_
+ hat mich beauftragt eine _weapon_
  an einen Verbündeten namens _contact_
  zu liefern. Ich muss _weapon_
  in =queston_ Tagen in _contact_s

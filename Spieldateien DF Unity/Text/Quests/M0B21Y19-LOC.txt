@@ -3,46 +3,46 @@ DisplayName: Standardschutz
 QRC:
 
 QuestorOffer:  [1000]
-Wie geht es Euch, %pcf?
-Wenn Ihr Arbeit braucht, habe ich etwas
-für Euch. Einfacher Standardschutz.
-Interessiert?
+<ce> Wie geht es Euch, %pcf?
+<ce> Wenn Ihr Arbeit braucht, habe ich etwas
+<ce> für Euch. Einfacher Standardschutz.
+<ce> Interessiert?
 
 RefuseQuest:  [1001]
-Sicher. Ihr sucht bestimmt nach den
-hochwertigeren Aufträgen, oder?
+<ce> Sicher. Ihr sucht bestimmt nach den
+<ce> hochwertigeren Aufträgen, oder?
 
 AcceptQuest:  [1002]
-Alles klar. Der Klient ist _victim_
-in einem Haus [_victimhouse_]
-gleich hier die Straße runter. Ihr
-sollt auf der Stelle rüberkommen,
-%g wirkte ziemlich aufgewühlt. Ihr
-kennt das ja. Man wird Euch mit den
-Einzelheiten vertraut machen, sobald
-Ihr dort seid.
+<ce> Alles klar. Der Klient ist _victim_
+<ce> in einem Haus [_victimhouse_]
+<ce> gleich hier die Straße runter. Ihr
+<ce> sollt auf der Stelle rüberkommen,
+<ce> %g wirkte ziemlich aufgewühlt. Ihr
+<ce> kennt das ja. Man wird Euch mit den
+<ce> Einzelheiten vertraut machen, sobald
+<ce> Ihr dort seid.
 
 QuestFail:  [1003]
-Tot? Das ist übel. Ihr müsst diesem auf den
-Grund gehen, auf die eine oder andere Weise,
-also haltet stand und gebt nicht auf.
+<ce> Tot? Das ist übel. Ihr müsst diesem auf den
+<ce> Grund gehen, auf die eine oder andere Weise,
+<ce> also haltet stand und gebt nicht auf.
 
 QuestComplete:  [1004]
-Ich weiß nicht wie ich Euch danken soll,
-dass Ihr mein Leben gerettet und den Tod
-meines Vaters gerächt habt. Bitte nehmt
-diesen Gegenstand an [_reward_].
-Er gehörte meinem Vater, und ich möchte,
-dass nun Ihr ihn bekommt.
+<ce> Ich weiß nicht wie ich Euch danken soll,
+<ce> dass Ihr mein Leben gerettet und den Tod
+<ce> meines Vaters gerächt habt. Bitte nehmt
+<ce> diesen Gegenstand an [_reward_].
+<ce> Er gehörte meinem Vater, und ich möchte,
+<ce> dass nun Ihr ihn bekommt.
 
 QuestorPostsuccess:  [1008]
-Zu schade um _victim_, was? Er war offenbar
-in größerer Gefahr, als ihm bewusst war.
+<ce> Zu schade um _victim_, was? Er war offenbar
+<ce> in größerer Gefahr, als ihm bewusst war.
 
 QuestorPostfailure:  [1009]
-Ich weiß, dass es nicht Eure Schuld war, aber ich fühle mich
-immer noch schlecht wegen der Sache mit _victim_.
-Ich hätte den armen Tropf wohl ernst nehmen sollen.
+<ce> Ich weiß, dass es nicht Eure Schuld war, aber ich fühle mich
+<ce> immer noch schlecht wegen der Sache mit _victim_.
+<ce> Ich hätte den armen Tropf wohl ernst nehmen sollen.
 
 Message:  1015
 _darkb_ lebt in ___darkb_, glaube ich. Hängt immer mit so
@@ -89,7 +89,7 @@ Message:  1023
  dem Weg zu ihrem Haus [_safehouse_]
  in __safehouse_.
 
-Message:  1023
+Message:  1024
 %qdt:
  _victim_ wurde von der Dunklen
  Bruderschaft erschlagen. Die Spur ist
@@ -99,7 +99,7 @@ Message:  1030
 Das passiert mit Leuten, die
 nicht auf meine Warnungen hören.
  
- _darkb_
+<ce> _darkb_
 
 Message:  1031
 An %pcn:
@@ -117,15 +117,15 @@ An %pcn:
  __daughterhouse_
 
 Message:  1035
-Verschwindet, Kollege, oder wir werden mit Euch
-dasselbe machen wie mit _victim_ da drüben.
+<ce> Verschwindet, Kollege, oder wir werden mit Euch
+<ce> dasselbe machen wie mit _victim_ da drüben.
 
 Message:  1036
-Ihr solltet Euren Verstand besser
-so gut wie Eure Klinge schärfen,
-%pcn. Nichts ist leichter als
-Euch Schlägertypen von der Kriegergilde
-in einen Hinterhalt zu locken.
+<ce> Ihr solltet Euren Verstand besser
+<ce> so gut wie Eure Klinge schärfen,
+<ce> %pcn. Nichts ist leichter als
+<ce> Euch Schlägertypen von der Kriegergilde
+<ce> in einen Hinterhalt zu locken.
 
 Message:  1040
 Habt Ihr das von _victim_ gehört? Am hellichten Tag
@@ -145,31 +145,31 @@ eingebrochen ist. Was bin ich froh, dass sie nicht
 hinter mir her sind.
 
 Message:  1050
-Ja...? Moment, Ihr seid doch dieser
-Kriegergildenschläger, dem der arme
-alte _victim_ seinen Schutz
-anvertraut hatte! Wer hat diesen
-%ra hier reingelassen?!
+<ce> Ja...? Moment, Ihr seid doch dieser
+<ce> Kriegergildenschläger, dem der arme
+<ce> alte _victim_ seinen Schutz
+<ce> anvertraut hatte! Wer hat diesen
+<ce> %ra hier reingelassen?!
 
 Message:  1051
-%pcn, passt auf!
-Es ist eine Falle!
+<ce> %pcn, passt auf!
+<ce> Es ist eine Falle!
 
 Message:  1052
-Danke, dass Ihr mich vor den Assassinen
-gerettet habt. Wenn Ihr mich in ein
-bestimmtes Haus [_safehouse_]
-in _safehouse_ bringen könntet?
-Von dort aus würde ich allein aus
-%reg fliehen können.
+<ce> Danke, dass Ihr mich vor den Assassinen
+<ce> gerettet habt. Wenn Ihr mich in ein
+<ce> bestimmtes Haus [_safehouse_]
+<ce> in _safehouse_ bringen könntet?
+<ce> Von dort aus würde ich allein aus
+<ce> %reg fliehen können.
 
 Message:  1070
 Ein staubiger Bote hält Euch an.
  
- "%pcn? %god sei Dank, endlich.
- Dieser Brief ist für Euch."
+<ce> "%pcn? %god sei Dank, endlich.
+<ce> Dieser Brief ist für Euch."
 
 Message:  1071
-Danke für Eure Hilfe, aber von
-hier an gehe ich allein weiter.
+<ce> Danke für Eure Hilfe, aber von
+<ce> hier an gehe ich allein weiter.
 

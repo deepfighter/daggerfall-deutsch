@@ -3,32 +3,32 @@ DisplayName: Das Große Übel
 QRC:
 
 QuestorOffer:  [1000]
-%pcn, mein Name ist _qgiver_.
-%god hat ein großes Übel prophezeit,
-das im Herzen eines nahen Dungeons wächst.
-Wir benötigen Eure Hilfe, um dieses Unheil
-zu zerstören. Werdet Ihr uns helfen?
+<ce> %pcn, mein Name ist _qgiver_.
+<ce> %god hat ein großes Übel prophezeit,
+<ce> das im Herzen eines nahen Dungeons wächst.
+<ce> Wir benötigen Eure Hilfe, um dieses Unheil
+<ce> zu zerstören. Werdet Ihr uns helfen?
 
 RefuseQuest:  [1001]
-Ich habe keine Zeit zu verlieren.
-Ich muss jemanden finden, der
-diese Aufgabe übernimmt.
+<ce> Ich habe keine Zeit zu verlieren.
+<ce> Ich muss jemanden finden, der
+<ce> diese Aufgabe übernimmt.
 
 AcceptQuest:  [1002]
-Es gibt keine Zeit zu verlieren. Reiset
-zum ___dungeon_. Dort werdet
-Ihr das _evilfocus_ finden.
-Zerstört es innerhalb von =traveltime Tagen,
-und alles wird wieder gut sein. Ein
-Zeichen wird im Tempel erscheinen, wenn
-dies vollbracht ist. Kehret zu mir zurück,
-und ich werde Euch reichlich belohnen.
+<ce> Es gibt keine Zeit zu verlieren. Reiset
+<ce> zum ___dungeon_. Dort werdet
+<ce> Ihr das _evilfocus_ finden.
+<ce> Zerstört es innerhalb von =traveltime Tagen,
+<ce> und alles wird wieder gut sein. Ein
+<ce> Zeichen wird im Tempel erscheinen, wenn
+<ce> dies vollbracht ist. Kehret zu mir zurück,
+<ce> und ich werde Euch reichlich belohnen.
 
 QuestComplete:  [1004]
-%pcn, Ihr habt den Dank aller
-unserer Geistlichen. Das Übel ist
-zerstört worden. Wie versprochen,
-hier sind _gold_ Goldstücke als Euer Lohn.
+<ce> %pcn, Ihr habt den Dank aller
+<ce> unserer Geistlichen. Das Übel ist
+<ce> zerstört worden. Wie versprochen,
+<ce> hier sind _gold_ Goldstücke als Euer Lohn.
 
 RumorsDuringQuest:  [1005]
 __qgiver_ zeigen plötzlich großes Interesse am ___dungeon_.
@@ -60,17 +60,25 @@ QuestLogEntry:  [1010]
 Message:  1011
 Als Ihr nach dem _evilfocus_ greift,
 verwandelt es sich in eine schöne Frau.
-
-Was für ein schmackhafter junger Sterblicher!
-Ich sehe, Ihr seid gekommen, um das _evilfocus_
-zu zerstören. Ich habe eine bessere Idee. Wenn
-ich Euch diesen magischen _magicitem_ gebe,
-geht Ihr zurück zum Tempel und sagt ihnen,
-dass Ihr das _evilfocus_ nicht finden konntet.
-Sie können Euch kaum die Schuld geben, und Ihr
-behaltet den _magicitem_.
+ 
+  "Was für ein schmackhafter junger Sterblicher!
+  Ich sehe, Ihr seid gekommen, um das _evilfocus_
+  zu zerstören. Ich habe eine bessere Idee. Wenn
+  ich Euch diesen magischen _magicitem_ gebe,
+  geht Ihr zurück zum Tempel und sagt ihnen,
+  dass Ihr das _evilfocus_ nicht finden konntet.
+  Sie können Euch kaum die Schuld geben, und Ihr
+  behaltet den _magicitem_.
 
 Message:  1012
-Dann sterbt als der fromme
-Sterbliche, der Ihr seid!
+<ce> "Dann sterbt als der fromme
+<ce> Sterbliche, der Ihr seid!"
+
+Message:  1013
+<ce> Der Fluch ist gebannt. Ihr solltet
+<ce> Bericht erstatten bei _qgiver_.
+
+Message:  1014
+<ce> Der Zorn von __qgiver_ wird durch
+<ce> diesen Verrat nicht leicht besänftigt werden.
 

@@ -3,29 +3,29 @@ DisplayName: Ein wertvoller Gegenstand
 QRC:
 
 QuestorOffer:  [1000]
-Sprecht leiser. Mein Name ist... nun,
-nennt mich einfach _qgiver_.
-Die Gilde hat einen Auftrag für Euch,
-mit der üblichen Entlohnung. Interessiert?
+<ce> Sprecht leiser. Mein Name ist... nun,
+<ce> nennt mich einfach _qgiver_.
+<ce> Die Gilde hat einen Auftrag für Euch,
+<ce> mit der üblichen Entlohnung. Interessiert?
 
 RefuseQuest:  [1001]
-Bin ich froh, dass ich Euch keine weiteren
-Einzelheiten offenbarte. Nun, verschwindet
-von hinnen.
+<ce> Bin ich froh, dass ich Euch keine weiteren
+<ce> Einzelheiten offenbarte. Nun, verschwindet
+<ce> von hinnen.
 
 AcceptQuest:  [1002]
-Ihr müsst den _magicitem_ aus der
-_mansion_ in __mansion_
-entwenden. Euch verbleiben =traveltime_ Tage,
-oder unser Abkommen ist zunichte. Hab' ich
-erwähnt, dass der Ort wohlbewacht ist? Ich
-könnte schwören, ich hätte es getan.
+<ce> Ihr müsst den _magicitem_ aus der
+<ce> _mansion_ in __mansion_
+<ce> entwenden. Euch verbleiben =traveltime_ Tage,
+<ce> oder unser Abkommen ist zunichte. Hab' ich
+<ce> erwähnt, dass der Ort wohlbewacht ist? Ich
+<ce> könnte schwören, ich hätte es getan.
 
 QuestComplete:  [1004]
-Habt Ihr die Ware? Ah! Gut gemacht.
-Die Standardbezahlung für solch einen
-Auftrag beträgt _gold_ Goldstücke. Gebt
-nicht alles auf einmal aus.
+<ce> Habt Ihr die Ware? Ah! Gut gemacht.
+<ce> Die Standardbezahlung für solch einen
+<ce> Auftrag beträgt _gold_ Goldstücke. Gebt
+<ce> nicht alles auf einmal aus.
 
 RumorsDuringQuest:  [1005]
 _mansion_ in __mansion_ beherbergt eine umfangreiche Sammlung magischer Kuriositäten.
@@ -37,14 +37,14 @@ RumorsPostsuccess:  [1007]
 _magicitem_ wurde aus _mansion_ geraubt. Ein wahrer Skandal, sage ich Euch.
 
 QuestorPostsuccess:  [1008]
-Überrascht, mich zu sehen, %pcf? Dachtet Ihr, ich würde mit dem _magicitem_ verschwinden?
+<ce> Überrascht, mich zu sehen, %pcf? Dachtet Ihr, ich würde mit dem _magicitem_ verschwinden?
 
 QuestorPostfailure:  [1009]
-Sie haben den _magicitem_ bereits
-aus der _mansion_ weggeschafft,
-%pcf. Mit anderen Worten,
-Ihr habt versagt. Jetzt verschwindet
-aus meinem Blickfeld.
+<ce> Sie haben den _magicitem_ bereits
+<ce> aus der _mansion_ weggeschafft,
+<ce> %pcf. Mit anderen Worten,
+<ce> Ihr habt versagt. Jetzt verschwindet
+<ce> aus meinem Blickfeld.
 
 QuestLogEntry:  [1010]
 %qdt:

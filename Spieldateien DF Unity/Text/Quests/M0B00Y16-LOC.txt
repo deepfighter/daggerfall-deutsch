@@ -3,40 +3,40 @@ DisplayName: Riesentöter
 QRC:
 
 QuestorOffer:  [1000]
-Hallo %pcf. Wenn Ihr ein paar Tage
-Zeit habt; gerade kam ein Riesenkopfgeld
-rein, und ich hatte dabei an Euch
-gedacht. Interessiert?
+<ce> Hallo %pcf. Wenn Ihr ein paar Tage
+<ce> Zeit habt; gerade kam ein Riesenkopfgeld
+<ce> rein, und ich hatte dabei an Euch
+<ce> gedacht. Interessiert?
 
 RefuseQuest:  [1001]
-Zu beschäftigt, ja? Ich hätte es mir in
-Eurem Alter nie entgehen lassen, einen
-oder zwei Riesen zu erschlagen. Ich
-sag's Euch, die Kinder heutzutage ...
+<ce> Zu beschäftigt, ja? Ich hätte es mir in
+<ce> Eurem Alter nie entgehen lassen, einen
+<ce> oder zwei Riesen zu erschlagen. Ich
+<ce> sag's Euch, die Kinder heutzutage ...
 
 AcceptQuest:  [1002]
-So ist es recht. Es gibt da also diesen Riesen,
-der vor einiger Zeit in ___mondung_
-eingezogen ist. Macht sich ein schönes Leben
-und frisst sich an den Schafen von _dummy_
-in dem Gebiet satt. Ich schätze mal, er wird
-auch ein paar Dorfbewohner gefressen haben,
-aber das scheint _dummy_ relativ egal zu
-sein. Wie dem auch sei, %g will, dass
-sich in den nächsten =qtime_ Tagen jemand
-um diesen Riesen kümmert. Dann wird %g auch
-_gold_ Goldstücke bezahlen. Man sieht sich!
+<ce> So ist es recht. Es gibt da also diesen Riesen,
+<ce> der vor einiger Zeit in ___mondung_
+<ce> eingezogen ist. Macht sich ein schönes Leben
+<ce> und frisst sich an den Schafen von _dummy_
+<ce> in dem Gebiet satt. Ich schätze mal, er wird
+<ce> auch ein paar Dorfbewohner gefressen haben,
+<ce> aber das scheint _dummy_ relativ egal zu
+<ce> sein. Wie dem auch sei, %g will, dass
+<ce> sich in den nächsten =qtime_ Tagen jemand
+<ce> um diesen Riesen kümmert. Dann wird %g auch
+<ce> _gold_ Goldstücke bezahlen. Man sieht sich!
 
 QuestFail:  [1003]
-Was, der Riese ist an Überfressen gestorben?
-Bewegt Euch, %pcf. Ihr habt einen
-Auftrag zu erledigen!
+<ce> Was, der Riese ist an Überfressen gestorben?
+<ce> Bewegt Euch, %pcf. Ihr habt einen
+<ce> Auftrag zu erledigen!
 
 QuestComplete:  [1004]
-Hoch lebe der Riesentöter! Ich wusste,
-dass Ihr für diesen Auftrag genau
-richtig sein würdet. Hier sind
-Eure _gold_ Goldstuecke.
+<ce> Hoch lebe der Riesentöter! Ich wusste,
+<ce> dass Ihr für diesen Auftrag genau
+<ce> richtig sein würdet. Hier sind
+<ce> Eure _gold_ Goldstuecke.
 
 RumorsDuringQuest:  [1005]
 Ein Riese in ___mondung_ terrorisiert die Bevölkerung, aber_dummy_
@@ -45,9 +45,9 @@ scheint das egal zu sein.
 Der Riese in ___mondung_ hat erst gestern wieder einen Dorfbewohner verschleppt.
 
 RumorsPostfailure:  [1006]
-Ich bin froh, dass der Riese endlich ___mondung_
-verlassen hat. Ich schätze, er hatte keine Lust mehr,
-nachtein, nachtaus nur Dorfbewohner zu fressen.
+<ce> Ich bin froh, dass der Riese endlich ___mondung_
+<ce> verlassen hat. Ich schätze, er hatte keine Lust mehr,
+<ce> nachtein, nachtaus nur Dorfbewohner zu fressen.
 
 RumorsPostsuccess:  [1007]
 %god sei Dank, dass _dummy_ endlich
@@ -56,13 +56,13 @@ ___mondung_ zu erschlagen. Er muss wohl
 eines der ach so wertvollen Schafe gefressen haben.
 
 QuestorPostsuccess:  [1008]
-Ah, da ist %pcf Riesentöter!
+<ce> Ah, da ist %pcf Riesentöter!
 
 QuestorPostfailure:  [1009]
-Zu meiner Zeit konnte man aus der Kriegergilde
-geworfen werden, wenn man nicht einmal einen
-einfachen Riesen töten konnte. Die Zeiten
-ändern sich, schätze ich mal.
+<ce> Zu meiner Zeit konnte man aus der Kriegergilde
+<ce> geworfen werden, wenn man nicht einmal einen
+<ce> einfachen Riesen töten konnte. Die Zeiten
+<ce> ändern sich, schätze ich mal.
 
 Message:  1020
 %qdt:
@@ -83,51 +83,51 @@ Message:  1021
  in __store_ gebeten.
 
 Message:  1030
-Der Riese brüllt vor Schmerz. Ihr hört
-den Klang von schweren Schritten
-auf Euch zukommen. Vielleicht hat
-der Riese ein paar Freunde zum Essen
-eingeladen ...
+<ce> Der Riese brüllt vor Schmerz. Ihr hört
+<ce> den Klang von schweren Schritten
+<ce> auf Euch zukommen. Vielleicht hat
+<ce> der Riese ein paar Freunde zum Essen
+<ce> eingeladen ...
 
 Message:  1031
 Ihr habt den Riesen erschlagen,
 für den Ihr gekommen seid.
 
 Message:  1040
-%god sei Dank, dass Ihr da seid.
-Ich war gestern gerade auf dem Weg
-zum Markt, als mich der Riese zusammen
-mit vier mitreisenden Händlern verschleppt
-hat. Die hat er schon gefressen! Ich
-schätze, er wollte mich für später aufheben.
-Würdet Ihr mir bitte hier raushelfen?
-Allein schaffe ich das nie!
+<ce> %god sei Dank, dass Ihr da seid.
+<ce> Ich war gestern gerade auf dem Weg
+<ce> zum Markt, als mich der Riese zusammen
+<ce> mit vier mitreisenden Händlern verschleppt
+<ce> hat. Die hat er schon gefressen! Ich
+<ce> schätze, er wollte mich für später aufheben.
+<ce> Würdet Ihr mir bitte hier raushelfen?
+<ce> Allein schaffe ich das nie!
 
 Message:  1041
-Ihr seid ein wahrer Held. Darf ich mich
-vorstellen: _villager_ aus
-___villager_. Ich war gerade
-auf dem Weg in den Laden [_store_]
-in __store_. Wenn Ihr mich dort
-absetzen könntet, stünde ich auf
-ewig in Eurer Schuld.
+<ce> Ihr seid ein wahrer Held. Darf ich mich
+<ce> vorstellen: _villager_ aus
+<ce> ___villager_. Ich war gerade
+<ce> auf dem Weg in den Laden [_store_]
+<ce> in __store_. Wenn Ihr mich dort
+<ce> absetzen könntet, stünde ich auf
+<ce> ewig in Eurer Schuld.
 
 Message:  1042
-Ich weiß Eure Hilfe zu schätzen, aber ich
-glaube, von hier finde ich meinen Weg selbst.
+<ce> Ich weiß Eure Hilfe zu schätzen, aber ich
+<ce> glaube, von hier finde ich meinen Weg selbst.
 
 Message:  1043
-Ihr seid wirklich herzlos.
+<ce> Ihr seid wirklich herzlos.
 
 Message:  1044
-Ich habe Eure Gesellschaft genossen, %pcf.
-Ihr habt mein Leben gerettet und ich werde
-es Euch nicht vergessen.
+<ce> Ich habe Eure Gesellschaft genossen, %pcf.
+<ce> Ihr habt mein Leben gerettet und ich werde
+<ce> es Euch nicht vergessen.
 
 Message:  1080
-He, hier ist eine Karte nach _newdung_.
-Die hat einer der anderen Kerle vor ein
-paar Tagen gefunden. Wenn ich ein paar
-Jahre jünger wäre, könnten wir uns da
-wie in alten Zeiten zusammen durchschlagen.
+<ce> He, hier ist eine Karte nach _newdung_.
+<ce> Die hat einer der anderen Kerle vor ein
+<ce> paar Tagen gefunden. Wenn ich ein paar
+<ce> Jahre jünger wäre, könnten wir uns da
+<ce> wie in alten Zeiten zusammen durchschlagen.
 

@@ -3,33 +3,33 @@ DisplayName: Der Arm des Zorns
 QRC:
 
 QuestorOffer:  [1000]
-Unser Orden verlangt Vergeltung an einem
-ehemaligen Mitglied, das zum Verräter geworden
-ist. Werdet Ihr der starke Arm unserer Rache
-sein, %pcf?
+<ce> Unser Orden verlangt Vergeltung an einem
+<ce> ehemaligen Mitglied, das zum Verräter geworden
+<ce> ist. Werdet Ihr der starke Arm unserer Rache
+<ce> sein, %pcf?
 <--->
-Die Göttin hat in unseren Augurien zu uns
-gesprochen und verlangt das Blut des verdorbenen
-Schurken, der ihren Namen gelästert hat. Helft
-uns, unsere verärgerte Herrin Kynareth zu besänftigen.
+<ce> Die Göttin hat in unseren Augurien zu uns
+<ce> gesprochen und verlangt das Blut des verdorbenen
+<ce> Schurken, der ihren Namen gelästert hat. Helft
+<ce> uns, unsere verärgerte Herrin Kynareth zu besänftigen.
 
 RefuseQuest:  [1001]
-Eine unwürdige  Antwort. Ich erwartete Besseres.
+<ce> Eine unwürdige Antwort. Ich erwartete Besseres.
 
 AcceptQuest:  [1002]
-Sehr gut. Der Verräter ist ein Mörder, der sich
-in ___mondun_ versteckt, %di'lich
-von hier. Wenn Ihr in =queston_ Tagen nicht wieder hier
-seid, ist Eure Ehre verwirkt und ein anderer wird Euren
-Platz einnehmen. Enttäuscht uns nicht, %pcf.
+<ce> Sehr gut. Der Verräter ist ein Mörder, der sich
+<ce> in ___mondun_ versteckt, %di'lich
+<ce> von hier. Wenn Ihr in =queston_ Tagen nicht wieder hier
+<ce> seid, ist Eure Ehre verwirkt und ein anderer wird Euren
+<ce> Platz einnehmen. Enttäuscht uns nicht, %pcf.
 
 QuestFail:  [1003]
-Der Verräter ist nicht tot.
-Versucht nicht, mir etwas
-anderes weiszumachen.
+<ce> Der Verräter ist nicht tot.
+<ce> Versucht nicht, mir etwas
+<ce> anderes weiszumachen.
 
 QuestComplete:  [1004]
-Gut gemacht. Ihr habt allen Grund, stolz zu sein.
+<ce> Gut gemacht. Ihr habt allen Grund, stolz zu sein.
 
 RumorsDuringQuest:  [1005]
 Dieser Feigling rannte nach ___mondun_, als wären
@@ -58,16 +58,16 @@ Ich habe Euch nichts zu sagen.
 
 QuestLogEntry:  [1010]
 %qdt:
- Der Kynarische Orden in  ___qgiver_
+ Der Kynarische Orden in ___qgiver_
  hat mich entsandt, einen Verräter am Orden
  aufzuspüren und zu töten, der sich in
  ___mondun_ versteckt. Ich habe
  =queston_ Tage Zeit, das zu erledigen.
 
 Message:  1020
-"Der Kynarische Orden ... schickt
-Euch also ... um mich zu töten. Sagt
-ihnen ... ich spucke auf ihre ..."
+<ce> "Der Kynarische Orden ... schickt
+<ce> Euch also ... um mich zu töten. Sagt
+<ce> ihnen ... ich spucke auf ihre ..."
  
 Der Verräter ist tot.
 

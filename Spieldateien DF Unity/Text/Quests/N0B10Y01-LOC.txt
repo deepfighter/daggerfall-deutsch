@@ -3,64 +3,64 @@ DisplayName: Golemausbruch
 QRC:
 
 QuestorOffer:  [1000]
-Ziemlich peinlich, aber eines unserer Experimente
-hat das Laboratorium verlassen, bevor es an der
-Zeit war. Zu allem Übel ist es vor der
-Fütterungszeit geflohen, hat also ganz sicher
-schlechte Laune. Glücklicherweise ist es eine
-entbehrliche Kreatur, nur ein gemeiner Golem.
-Aber wir müssen auch nicht unbedingt durch
-das Wüten eines rasenden Golems unseren Ruf
-verlieren. Wenn Ihr bereit wärt, das arme Biest
-zu verfolgen und es aus seiner und unserer
-misslichen Lage zu befreien, könnten wir Euch,
-sagen wir, _reward_ Goldstücke als Gegenleistung
-anbieten. Interessiert?
+<ce> Ziemlich peinlich, aber eines unserer Experimente
+<ce> hat das Laboratorium verlassen, bevor es an der
+<ce> Zeit war. Zu allem Übel ist es vor der
+<ce> Fütterungszeit geflohen, hat also ganz sicher
+<ce> schlechte Laune. Glücklicherweise ist es eine
+<ce> entbehrliche Kreatur, nur ein gemeiner Golem.
+<ce> Aber wir müssen auch nicht unbedingt durch
+<ce> das Wüten eines rasenden Golems unseren Ruf
+<ce> verlieren. Wenn Ihr bereit wärt, das arme Biest
+<ce> zu verfolgen und es aus seiner und unserer
+<ce> misslichen Lage zu befreien, könnten wir Euch,
+<ce> sagen wir, _reward_ Goldstücke als Gegenleistung
+<ce> anbieten. Interessiert?
 <--->
-Wir hatten vor kurzem ein bisschen Aufregung in
-diesen langweiligen alten Hallen. In einer ganz
-routinemäßigen Golemachieklasse hat es eines der
-Subjekte geschafft ... nun ja, die Einzelheiten
-sind unwichtig. Wichtig ist, dass ein Golem
-ungebunden in %reg herumläuft, was sich
-leicht auf diese Gilde und unsere Missverwaltung
-zurückführen lässt. Aber Ihr seid jemand, der
-diese Angelegenheit so unauffällig wie möglich
-aus der Welt schaffen kann, ja?
+<ce> Wir hatten vor kurzem ein bisschen Aufregung in
+<ce> diesen langweiligen alten Hallen. In einer ganz
+<ce> routinemäßigen Golemachieklasse hat es eines der
+<ce> Subjekte geschafft ... nun ja, die Einzelheiten
+<ce> sind unwichtig. Wichtig ist, dass ein Golem
+<ce> ungebunden in %reg herumläuft, was sich
+<ce> leicht auf diese Gilde und unsere Missverwaltung
+<ce> zurückführen lässt. Aber Ihr seid jemand, der
+<ce> diese Angelegenheit so unauffällig wie möglich
+<ce> aus der Welt schaffen kann, ja?
 
 RefuseQuest:  [1001]
-Wirklich schade. Tja, ich schätze,
-irgendein anderer eifriger Abenteurer
-wird uns schon helfen.
+<ce> Wirklich schade. Tja, ich schätze,
+<ce> irgendein anderer eifriger Abenteurer
+<ce> wird uns schon helfen.
 
 AcceptQuest:  [1002]
-Ihr macht es? %oth, was für eine
-Erleichterung. Diese elende Kreatur hat
-sich offenbar in einem dreckigen, kleinen
-Loch niedergelassen, das ___mondung_
-genannt wird. Um unseres guten Rufes willen
-ist es unerlässlich, dass diese Sache schnell
-und leise erledigt wird. Wenn Ihr es also
-nicht schafft, den Golem in den nächsten
-=1stparton_ Tagen loszuwerden, braucht Ihr nicht
-mehr für Eure Belohnung zurückzukommen.
-Guten Tag.
+<ce> Ihr macht es? %oth, was für eine
+<ce> Erleichterung. Diese elende Kreatur hat
+<ce> sich offenbar in einem dreckigen, kleinen
+<ce> Loch niedergelassen, das ___mondung_
+<ce> genannt wird. Um unseres guten Rufes willen
+<ce> ist es unerlässlich, dass diese Sache schnell
+<ce> und leise erledigt wird. Wenn Ihr es also
+<ce> nicht schafft, den Golem in den nächsten
+<ce> =1stparton_ Tagen loszuwerden, braucht Ihr nicht
+<ce> mehr für Eure Belohnung zurückzukommen.
+<ce> Guten Tag.
 
 QuestFail:  [1003]
-Trage ich einen dummen Hut und grinse
-wie irre? Nein? Warum haltet Ihr mich
-dann zum Narren? Ich weiß ganz genau,
-dass der Golem immer noch lebt. Fragt
-in Zukunft gar nicht erst nach Aufträgen,
-die Ihr nicht erfüllen könnt oder wollt.
+<ce> Trage ich einen dummen Hut und grinse
+<ce> wie irre? Nein? Warum haltet Ihr mich
+<ce> dann zum Narren? Ich weiß ganz genau,
+<ce> dass der Golem immer noch lebt. Fragt
+<ce> in Zukunft gar nicht erst nach Aufträgen,
+<ce> die Ihr nicht erfüllen könnt oder wollt.
 
 QuestComplete:  [1004]
-Der Jäger kehrt zurück! Ihr habt uns
-durch Eure unverzügliche Abhilfe in
-der Golemkrise einige Unannehmlichkeiten
-erspart. Rundum erstklassige Arbeit.
-Nehmt Euer Gold und meine Dankbarkeit
-entgegen.
+<ce> Der Jäger kehrt zurück! Ihr habt uns
+<ce> durch Eure unverzügliche Abhilfe in
+<ce> der Golemkrise einige Unannehmlichkeiten
+<ce> erspart. Rundum erstklassige Arbeit.
+<ce> Nehmt Euer Gold und meine Dankbarkeit
+<ce> entgegen.
 
 RumorsDuringQuest:  [1005]
 Ich hörte, dass neulich nachts irgendetwas aus dem Laboratorium der Magiergilde entkommen ist.
@@ -83,15 +83,15 @@ QuestorPostsuccess:  [1008]
 Ich habe die Golemkrise nicht vergessen, falls Euch das beunruhigt.
 
 QuestorPostfailure:  [1009]
-Ich habe Euch losgeschickt, um diesen
-Golem aufzuhalten und Ihr habt versagt.
-Keine Ausreden, %pcf.
-Lasst mich mit meiner Trübsal allein.
+<ce> Ich habe Euch losgeschickt, um diesen
+<ce> Golem aufzuhalten und Ihr habt versagt.
+<ce> Keine Ausreden, %pcf.
+<ce> Lasst mich mit meiner Trübsal allein.
 
 QuestLogEntry:  [1010]
- "Ich würde lieber sterben als
- ins Laboratorium der Magiergilde
- zurückzukehren."
+<ce> "Ich würde lieber sterben als
+<ce> ins Laboratorium der Magiergilde
+<ce> zurückzukehren."
  
 Das Leben schwindet aus den
 Augen des Golems.
@@ -102,7 +102,7 @@ Message:  1020
  Die Magiergilde von ___questgiver_ hat
  mich angeheuert, einen Golem aufzuspüren,
  der aus ihrem Laboratorium entkommen ist.
- Er hat in  ___mondung_ Unterschlupf gefunden.
+ Er hat in ___mondung_ Unterschlupf gefunden.
  Ich muss die Kreatur töten und innerhalb von
  =1stparton_ Tagen wieder in ___questgiver_ sein.
 

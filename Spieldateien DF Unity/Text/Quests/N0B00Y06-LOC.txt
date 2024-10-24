@@ -3,50 +3,50 @@ DisplayName: Mumienbinden
 QRC:
 
 QuestorOffer:  [1000]
-%oth, gibt es etwas ärgerlicheres
-als festzustellen, dass die Mumienbandagen,
-die man für einen Trank nutzen wollte, allesamt
-diverse Grüntöne angenommen haben? Ich könnte
-natürlich die Gildenbandagen verwenden, aber die
-Rezeptur verlangt ausdrücklich nach "unübertrefflich
-frischen Mumienbandagen", was auch immer das heißt.
-Ich nehme ja nicht an, dass Ihr gewillt wäret, mir
-etwas Leinen von einer Mumie zu besorgen, die mehr
-Bandagen hat als sie gebrauchen kann?
+<ce> %oth, gibt es etwas ärgerlicheres
+<ce> als festzustellen, dass die Mumienbandagen,
+<ce> die man für einen Trank nutzen wollte, allesamt
+<ce> diverse Grüntöne angenommen haben? Ich könnte
+<ce> natürlich die Gildenbandagen verwenden, aber die
+<ce> Rezeptur verlangt ausdrücklich nach "unübertrefflich
+<ce> frischen Mumienbandagen", was auch immer das heißt.
+<ce> Ich nehme ja nicht an, dass Ihr gewillt wäret, mir
+<ce> etwas Leinen von einer Mumie zu besorgen, die mehr
+<ce> Bandagen hat als sie gebrauchen kann?
 <--->
-Rezepturen sind eine dumme Sache, %pct.
-Ich arbeite an einer Formel, die nach einem
-"ansehnlichen Stück =mummy_" verlangt. Was ist
-ein =mummy_? Ein Kraut? Ein Mineral? Nun, ich
-habe Nachforschungen angestellt und herausgefunden,
-dass =mummy_ eine Mumie ist. Stellt Euch das vor!
-Und diese besondere Mumie ist genau hier in %reg
-zu finden. Ob ich Euch wohl bitten könnte, in dieses
-Grab einzudringen und mir für, sagen wir, _gold_ Goldstücke
-ein Stück von =mummy_ mitzubringen?
+<ce> Rezepturen sind eine dumme Sache, %pct.
+<ce> Ich arbeite an einer Formel, die nach einem
+<ce> "ansehnlichen Stück =mummy_" verlangt. Was ist
+<ce> ein =mummy_? Ein Kraut? Ein Mineral? Nun, ich
+<ce> habe Nachforschungen angestellt und herausgefunden,
+<ce> dass =mummy_ eine Mumie ist. Stellt Euch das vor!
+<ce> Und diese besondere Mumie ist genau hier in %reg
+<ce> zu finden. Ob ich Euch wohl bitten könnte, in dieses
+<ce> Grab einzudringen und mir für, sagen wir, _gold_ Goldstücke
+<ce> ein Stück von =mummy_ mitzubringen?
 
 RefuseQuest:  [1001]
-Oh, %oth. Ich weiß ja, dass
-es kein Abstecher zum hiesigen
-Handelshaus ist, aber ich hatte
-mir schon etwas mehr Enthusiasmus
-und Abenteuerlust erhofft.
+<ce> Oh, %oth. Ich weiß ja, dass
+<ce> es kein Abstecher zum hiesigen
+<ce> Handelshaus ist, aber ich hatte
+<ce> mir schon etwas mehr Enthusiasmus
+<ce> und Abenteuerlust erhofft.
 
 AcceptQuest:  [1002]
-Sehr schön, %pct. Ihr werdet Euch
-damit _gold_ Goldstücke verdienen.
-Die Grabstätte dieser Mumie ist nicht
-allzu weit entfernt, es sollte also
-nicht länger als =queston_ Tage brauchen,
-dorthin zu gelangen, zu holen, wofür Ihr
-gekommen seid und wieder zurückzukehren.
-Denkt daran, es muss frisch sein - am
-Besten direkt vom Leichnam. Der Name des
-Ortes ist ___mondung_ oder so
-ähnlich. Es wird dort ganz sicher schaurig
-sein. Ihr tätet vielleicht gut daran, ein
-Schwert oder etwas in der Art mitzunehmen.
-Nun, dann viel Glück, junger %ra.
+<ce> Sehr schön, %pct. Ihr werdet Euch
+<ce> damit _gold_ Goldstücke verdienen.
+<ce> Die Grabstätte dieser Mumie ist nicht
+<ce> allzu weit entfernt, es sollte also
+<ce> nicht länger als =queston_ Tage brauchen,
+<ce> dorthin zu gelangen, zu holen, wofür Ihr
+<ce> gekommen seid und wieder zurückzukehren.
+<ce> Denkt daran, es muss frisch sein - am
+<ce> Besten direkt vom Leichnam. Der Name des
+<ce> Ortes ist ___mondung_ oder so
+<ce> ähnlich. Es wird dort ganz sicher schaurig
+<ce> sein. Ihr tätet vielleicht gut daran, ein
+<ce> Schwert oder etwas in der Art mitzunehmen.
+<ce> Nun, dann viel Glück, junger %ra.
 
 QuestComplete:  [1004]
 Das ist wirklich ein schönes Stück
@@ -93,12 +93,13 @@ RumorsPostsuccess:  [1007]
 _qgiver_ kann nun dank =mummy_s Beitrag endlich den Trank vollenden.
 
 QuestorPostsuccess:  [1008]
-Wie geht es Euch, %pcf? Ich hoffe, dass Ihr nicht an Mumienfäule oder so erkrankt seid.
+<ce> Wie geht es Euch, %pcf? Ich hoffe,
+<ce> dass Ihr nicht an Mumienfäule oder so erkrankt seid.
 
 QuestorPostfailure:  [1009]
-Ich hätte diese Bandagen gebraucht, %pcf.
-Es ist wirklich ärgerlich, etwas zu brauchen
-und nicht zu haben.
+<ce> Ich hätte diese Bandagen gebraucht, %pcf.
+<ce> Es ist wirklich ärgerlich, etwas zu brauchen
+<ce> und nicht zu haben.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -111,8 +112,8 @@ QuestLogEntry:  [1010]
  Aufgabe zu vollenden.
 
 Message:  1011
-Ihr nehmt die Bandagen
-die _qgiver_
-von =mummy_ wollte.
+<ce> Ihr nehmt die Bandagen
+<ce> die _qgiver_
+<ce> von =mummy_ wollte.
 
 

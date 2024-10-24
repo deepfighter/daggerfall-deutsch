@@ -1,15 +1,15 @@
 Quest: S0000500
-DisplayName: S0000500
+DisplayName: K'avars Komplott, Teil 2
 QRC:
 
 QuestComplete:  [1004]
-%pcf, Ihr habt mir das Leben gerettet,
-als mich die meisten meiner angeblichen
-Freunde bereits aufgegeben hatten. Ich
-stehe tief in Eurer Schuld. Mein Vermögen
-ist nicht mehr das, was es einmal war, aber
-nehmt diese _gold_ Goldstücke als kleines
-Zeichen meiner Dankbarkeit.
+<ce> %pcf, Ihr habt mir das Leben gerettet,
+<ce> als mich die meisten meiner angeblichen
+<ce> Freunde bereits aufgegeben hatten. Ich
+<ce> stehe tief in Eurer Schuld. Mein Vermögen
+<ce> ist nicht mehr das, was es einmal war, aber
+<ce> nehmt diese _gold_ Goldstücke als kleines
+<ce> Zeichen meiner Dankbarkeit.
 
 RumorsDuringQuest:  [1005]
 Einer von Königin Akorithis Granden wurde
@@ -61,75 +61,80 @@ Seid gegrüßt %pcn,
  ____tavern_.
  
  Es geht um Leben und Tod!
+ Findet mich binnen =firsttimer_ Tagen!
  
 _contact1_
- 
 
 Message:  1040
-%pcn? Ihr seid meine letzte Hoffnung!
-Fürst K'avars Freunde und Verbündete
-haben sich allesamt als treulos erwiesen,
-nachdem er von der Tyrannenkönigin
-Akorithi wegen erfundener Vorwürfe des
-Hochverrats festgenommen wurde.
+<ce> %pcn? Ihr seid meine letzte Hoffnung!
+<ce> Fürst K'avars Freunde und Verbündete
+<ce> haben sich allesamt als treulos erwiesen,
+<ce> nachdem er von der Tyrannenkönigin
+<ce> Akorithi wegen erfundener Vorwürfe des
+<ce> Hochverrats festgenommen wurde.
  
-Er ist nun im Kerker des Palastes von
-Schildwacht eingesperrt, wo er auf seine
-Hinrichtung wartet. Bitte, wenn Ihr auch
-nur ein wenig Achtung vor dem Mann habt,
-rettet ihn vor dem sicheren Tode. Er
-sprach oft von Euren Fertigkeiten und Eurem
-Mut. Ich weiß, dass Ihr uns helfen werdet.
+<ce> <ce> Er ist nun im Kerker des Palastes von
+<ce> Schildwacht eingesperrt, wo er auf seine
+<ce> Hinrichtung wartet. Bitte, wenn Ihr auch
+<ce> nur ein wenig Achtung vor dem Mann habt,
+<ce> rettet ihn vor dem sicheren Tode. Er
+<ce> sprach oft von Euren Fertigkeiten und Eurem
+<ce> Mut. Ich weiß, dass Ihr uns helfen werdet.
+<ce> Er hat nur noch =executiondelay_ Tage zu leben!
+<ce> Eilt!
 
 Message:  1041
-%oth, bin ich froh, Euch zu sehen.
-Wir müssen hier rauskommen, bevor Alarm
-geschlagen wird. Ich plante gerade meine
-Flucht, als Ihr aufgetaucht seid, aber
-das ist wohl jetzt nicht mehr nötig, was?
+<ce> <ce> %oth, bin ich froh, Euch zu sehen.
+<ce> Wir müssen hier rauskommen, bevor Alarm
+<ce> geschlagen wird. Ich plante gerade meine
+<ce> Flucht, als Ihr aufgetaucht seid, aber
+<ce> das ist wohl jetzt nicht mehr nötig, was?
  
-Meinen starken rechten Arm, so habe ich
-Euch immer genannt. Ich verspreche Euch,
-wenn ich erst König von Schildwacht bin,
-werdet Ihr als reichster aller Fürsten
-des Königreichs an meiner Seite stehen!
-Klingt gut, was? Sobald wir unsere
-Verfolger abgehängt haben, bringt Ihr
-mich nach __safehouse_
-in ____safehouse_.
+<ce> Meinen starken rechten Arm, so habe ich
+<ce> Euch immer genannt. Ich verspreche Euch,
+<ce> wenn ich erst König von Schildwacht bin,
+<ce> werdet Ihr als reichster aller Fürsten
+<ce> des Königreichs an meiner Seite stehen!
+<ce> Klingt gut, was? Sobald wir unsere
+<ce> Verfolger abgehängt haben, bringt Ihr
+<ce> mich nach __safehouse_
+<ce> in ____safehouse_.
  
-Ich habe dort einen Freund mit einem
-sicheren Haus [_safehouse_],
-der mir helfen wird, meine Eroberung
-von Schildwacht neu zu organisieren.
-Geht voran, Freund %pcn, lasst
-uns von hier verschwinden! 
+<ce> <ce> Ich habe dort einen Freund mit einem
+<ce> sicheren Haus [_safehouse_],
+<ce> der mir helfen wird, meine Eroberung
+<ce> von Schildwacht neu zu organisieren.
+<ce> Geht voran, Freund %pcn, lasst
+<ce> <ce> uns von hier verschwinden!
+<ce> Wir haben nur =escapetime_ Tage, um
+<ce> die Verbindung herzustellen.
 
 Message:  1050
-Schlagt Alarm! Fürst K'avar entkommt!
-=guards_, kommt schnell!
+<ce> Schlagt Alarm! Fürst K'avar entkommt!
+<ce> =guards_, kommt schnell!
 
 Message:  1051
 Fürst K'avar ergreift Eure Hand
 und sagt aufrichtig:
-  
- "Ich danke Euch dafür, dass Ihr mich aus
- dieser schwarzen Grube der Verzweiflung
- gerettet habt, aber hier werde ich mich
- von Euch trennen müssen." 
+ 
+<ce> "Ich danke Euch dafür, dass Ihr mich aus
+<ce> dieser schwarzen Grube der Verzweiflung
+<ce> gerettet habt, aber hier werde ich mich
+<ce> von Euch trennen müssen." 
 
 Message:  1060
-Habt Ihr gehört, dass Fürst K'avar von Schildwacht wegen
-Verrats hingerichtet wurde? Das war wohl ein ganz
-schönes Spektakel - sie haben ihn auf dem öffentlichen
-Platz vor Königin Akorithis Palast gehängt.
+<ce> Habt Ihr gehört, dass Fürst K'avar von Schildwacht wegen
+<ce> Verrats hingerichtet wurde? Das war wohl ein ganz
+<ce> schönes Spektakel - sie haben ihn auf dem öffentlichen
+<ce> Platz vor Königin Akorithis Palast gehängt.
 <--->
-Fürst K'avar von Schildwacht wurde wegen Verrats gehängt.
-Sie sagen, er habe vor seinem Tod ziemlich schmachvoll
-um sein Leben gefleht.
+<ce> Fürst K'avar von Schildwacht wurde wegen Verrats gehängt.
+<ce> Sie sagen, er habe vor seinem Tod ziemlich schmachvoll
+<ce> um sein Leben gefleht.
 
 Message:  1070
 Ein Kurier ruft, dass Ihr auf Ihn warten sollt.
-"%pcn, richtig? Dieser Brief ist für Euch.
-Ich muss los!"
+ 
+<ce> "%pcn, richtig? Dieser Brief ist für Euch.
+<ce> Ich muss los!"
 

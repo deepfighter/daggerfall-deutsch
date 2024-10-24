@@ -3,54 +3,54 @@ DisplayName: Harpyiennest
 QRC:
 
 QuestorOffer:  [1000]
-Ich befinde mich in einer nicht ungewöhnlichen
-Lage. Ein Nest von Harpyien hat sich in einem
-meiner alten Besitztumer niedergelassen und
-obgleich mir dies persönlich gleichgültig ist,
-hat unser weiser und gütiger %rt verfügt,
-dass der Eigentümer jeglicher von Harpyien
-befallenen Baulichkeit für deren Ausrottung
-verantwortlich ist. Es scheint, dass bei
-Nichtbefolgung eine Strafe droht. Offen gesagt,
-habe ich keine Zeit für derlei; doch wenn es
-Euch genehm wäre, Euer Schwert etwas zu besudeln,
-könnte ich Eure Hilfe gut gebrauchen. Der letzte
-Söldner, den ich anheuerte, vermochte es nicht,
-diese Aufgabe zu erfüllen, daher würde ich verstehen,
-wenn Ihr zögert. Ich wäre bereit, Euch für Eure
-Mühen, sagen wir, _reward_ Goldstücke zu zahlen.
+<ce> Ich befinde mich in einer nicht ungewöhnlichen
+<ce> Lage. Ein Nest von Harpyien hat sich in einem
+<ce> meiner alten Besitztumer niedergelassen und
+<ce> obgleich mir dies persönlich gleichgültig ist,
+<ce> hat unser weiser und gütiger %rt verfügt,
+<ce> dass der Eigentümer jeglicher von Harpyien
+<ce> befallenen Baulichkeit für deren Ausrottung
+<ce> verantwortlich ist. Es scheint, dass bei
+<ce> Nichtbefolgung eine Strafe droht. Offen gesagt,
+<ce> habe ich keine Zeit für derlei; doch wenn es
+<ce> Euch genehm wäre, Euer Schwert etwas zu besudeln,
+<ce> könnte ich Eure Hilfe gut gebrauchen. Der letzte
+<ce> Söldner, den ich anheuerte, vermochte es nicht,
+<ce> diese Aufgabe zu erfüllen, daher würde ich verstehen,
+<ce> wenn Ihr zögert. Ich wäre bereit, Euch für Eure
+<ce> Mühen, sagen wir, _reward_ Goldstücke zu zahlen.
 
 RefuseQuest:  [1001]
-%oth. Nun gut, ich kann Euch keinen
-Vorwurf machen. Ich könnte den Gestank von
-Harpyien selbst nicht ertragen.
+<ce> %oth. Nun gut, ich kann Euch keinen
+<ce> Vorwurf machen. Ich könnte den Gestank von
+<ce> Harpyien selbst nicht ertragen.
 
 AcceptQuest:  [1002]
-Würdet Ihr? Wunderbar. Nun, der Haken ist, dass
-ich einen Beweis benötige, dass ein ernsthafter
-Versuch unternommen wurde, ___mondung_
-in =2mondung Tagen zu säubern. Wie Ihr seht,
-bleibt dafür nicht mehr viel Zeit. Ich hatte gehofft,
-dass _contact_, der Söldner, den ich zuvor von
-der Kriegergilde angeworben hatte, fähiger wäre.
-Und, hört, %pcf, Ihr müsst nicht alle
-___mondung_ töten. Tötet nur vier oder fünf
-dieser Viecher und kommt zurück. Ah, jetzt weiß
-ich! Die Clanführer tragen speziell gefärbte
-Greifenfedern. Bringt eine davon zurück, und
-ich habe den Beweis, den ich benötige. Stellt
-nur sicher, dass Ihr in =2mondung Tagen nicht
-versäumt zurückzukehren, %pcf.
+<ce> Würdet Ihr? Wunderbar. Nun, der Haken ist, dass
+<ce> ich einen Beweis benötige, dass ein ernsthafter
+<ce> Versuch unternommen wurde, ___mondung_
+<ce> in =2mondung Tagen zu säubern. Wie Ihr seht,
+<ce> bleibt dafür nicht mehr viel Zeit. Ich hatte gehofft,
+<ce> dass _contact_, der Söldner, den ich zuvor von
+<ce> der Kriegergilde angeworben hatte, fähiger wäre.
+<ce> Und, hört, %pcf, Ihr müsst nicht alle
+<ce> ___mondung_ töten. Tötet nur vier oder fünf
+<ce> dieser Viecher und kommt zurück. Ah, jetzt weiß
+<ce> ich! Die Clanführer tragen speziell gefärbte
+<ce> Greifenfedern. Bringt eine davon zurück, und
+<ce> ich habe den Beweis, den ich benötige. Stellt
+<ce> nur sicher, dass Ihr in =2mondung Tagen nicht
+<ce> versäumt zurückzukehren, %pcf.
 
 QuestFail:  [1003]
-%oth. Ihr habt Euch nicht besonders angestrengt.
+<ce> %oth. Ihr habt Euch nicht besonders angestrengt.
 
 QuestComplete:  [1004]
-Gut gemacht, %pcf. Nun kann ich dem
-%rt beweisen, dass ich meine bürgerliche
-Pflicht erfüllt habe, oder es zumindest
-versucht habe. Ihr habt Euch Eure
-_reward_ Goldstücke wahrlich verdient. Danke.
+<ce> Gut gemacht, %pcf. Nun kann ich dem
+<ce> %rt beweisen, dass ich meine bürgerliche
+<ce> Pflicht erfüllt habe, oder es zumindest
+<ce> versucht habe. Ihr habt Euch Eure
+<ce> _reward_ Goldstücke wahrlich verdient. Danke.
 
 RumorsDuringQuest:  [1005]
 Der %rt verlangt einen physischen Beweis für die Ausrottung der Harpyien von einigen Söldnern.
@@ -88,8 +88,8 @@ Message:  1033
 Eine graue Feder, mattblau gefärbt.
 
 Message:  1011
-Danke, %pcf. Ich kenne
-meinen Weg von hier aus.
+<ce> Danke, %pcf. Ich kenne
+<ce> meinen Weg von hier aus.
 
 Message:  1012
 __qgiver_, ___qgiver_
@@ -118,19 +118,19 @@ ob Ihr diesen Brief wegwerft und _contact_ in __mondung verrotten lasst.
  _qgiver_
 
 Message:  1013
-Ihr seid von _qgiver_?
-Dank %god, dass Ihr gekommen
-seid, %pcf. Ich hoffe,
-es macht Euch nichts aus,
-wenn ich Euch begleite.
-Nehmt diesen Schmuck
-[_jewelry_] als Zeichen
-meiner Dankbarkeit.
+<ce> Ihr seid von _qgiver_?
+<ce> Dank %god, dass Ihr gekommen
+<ce> seid, %pcf. Ich hoffe,
+<ce> es macht Euch nichts aus,
+<ce> wenn ich Euch begleite.
+<ce> Nehmt diesen Schmuck
+<ce> [_jewelry_] als Zeichen
+<ce> meiner Dankbarkeit.
 
 Message:  1014
-Ein junger Bote erscheint an Eurer
-Seite, überreicht Euch einen Brief
-und verschwindet ohne ein Wort.
+<ce> Ein junger Bote erscheint an Eurer
+<ce> Seite, überreicht Euch einen Brief
+<ce> und verschwindet ohne ein Wort.
 
 Message:  1020
 %qdt:
@@ -148,21 +148,21 @@ Message:  1020
  zurückkehren, um eine Belohnung von
  _reward_ Goldstücken zu erhalten.
 
-Message:  1030
-1 Harpyie tot
+Message:  1050
+<ce> 1 Harpyie tot
 
-Message:  1031
-2 Harpyie tot
+Message:  1051
+<ce> 2 Harpyie tot
 
-Message:  1032
-3 Harpyie tot
+Message:  1052
+<ce> 3 Harpyie tot
 
-Message:  1033
-4 Harpyie tot
+Message:  1053
+<ce> 4 Harpyie tot
 
 Message:  1040
-Ich benötige einen Beweis, bevor ich Euch bezahlen kann.
+<ce> Ich benötige einen Beweis, bevor ich Euch bezahlen kann.
 
 Message:  1099
-Ihr habt eine Clanfeder gefunden.
+<ce> Ihr habt eine Clanfeder gefunden.
 

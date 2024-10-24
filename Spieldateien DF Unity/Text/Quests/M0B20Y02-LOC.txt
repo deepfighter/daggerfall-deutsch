@@ -3,38 +3,38 @@ DisplayName: Riesenhorde
 QRC:
 
 QuestorOffer:  [1000]
-Ja, ich habe da einen kleinen Auftrag für
-Euch. Ich würde ihn jedermann geben, aber
-ich weiß, dass Ihr gute Arbeit leistet.
-Es gibt da eine Riesenbande, die getötet
-werden will. Die Bezahlung ist ziemlich
-durchschnittlich, _reward_ Goldstücke.
-Seid Ihr dabei?
+<ce> Ja, ich habe da einen kleinen Auftrag für
+<ce> Euch. Ich würde ihn jedermann geben, aber
+<ce> ich weiß, dass Ihr gute Arbeit leistet.
+<ce> Es gibt da eine Riesenbande, die getötet
+<ce> werden will. Die Bezahlung ist ziemlich
+<ce> durchschnittlich, _reward_ Goldstücke.
+<ce> Seid Ihr dabei?
 
 RefuseQuest:  [1001]
-Na gut, dann eben nicht.
-Hörte sich so an, als ob
-das was für Euch wäre.
+<ce> Na gut, dann eben nicht.
+<ce> Hörte sich so an, als ob
+<ce> das was für Euch wäre.
 
 AcceptQuest:  [1002]
-Gutes Geschäft, %pcf. Laut
-unserem Klienten sind die Riesen in
-ihrer Festung  ___mondung_.
-Er sagt, dass es sechs sind, und das
-er nicht zahlen wird, wenn nicht alle
-sechs in den nächsten =1stparton_ Tagen
-erledigt sind. Habt Ihr verstanden,
-%pcf? Gut.
+<ce> Gutes Geschäft, %pcf. Laut
+<ce> unserem Klienten sind die Riesen in
+<ce> ihrer Festung ___mondung_.
+<ce> Er sagt, dass es sechs sind, und das
+<ce> er nicht zahlen wird, wenn nicht alle
+<ce> sechs in den nächsten =1stparton_ Tagen
+<ce> erledigt sind. Habt Ihr verstanden,
+<ce> %pcf? Gut.
 
 QuestFail:  [1003]
-Ihr habt keine Zeit für Geschwätz,
-solange diese sechs Riesen noch atmen.
+<ce> Ihr habt keine Zeit für Geschwätz,
+<ce> solange diese sechs Riesen noch atmen.
 
 QuestComplete:  [1004]
-%oth, diese Riesen wussten
-gar nicht, wie ihnen geschah,
-nicht wahr, %pcf? Hier sind
-Eure _reward_ Goldstücke, wie versprochen.
+<ce> %oth, diese Riesen wussten
+<ce> gar nicht, wie ihnen geschah,
+<ce> nicht wahr, %pcf? Hier sind
+<ce> Eure _reward_ Goldstücke, wie versprochen.
 
 RumorsDuringQuest:  [1005]
 In ___mondung_ gibt es einen Haufen Riesen, aber sie machen keinen Ärger.
@@ -52,27 +52,27 @@ Ich frage mich, wie lange es wohl dauert, bis eine neue Schar Riesen in ___mondu
 Irgendwie tun mir die Riesen leid. Sie haben nie wirklich jemanden gestört.
 
 QuestorPostsuccess:  [1008]
-Riesen sind zäh. Das habt Ihr gut
-gemacht, %pcf. Ihr werdet
-es in der Gilde weit bringen.
+<ce> Riesen sind zäh. Das habt Ihr gut
+<ce> gemacht, %pcf. Ihr werdet
+<ce> es in der Gilde weit bringen.
 
 QuestorPostfailure:  [1009]
-Die Riesen waren zu viel für Euch, hm?
-Vielleicht sollte Euch die Gilde lieber
-auf Pygmäen ansetzen.
+<ce> Die Riesen waren zu viel für Euch, hm?
+<ce> Vielleicht sollte Euch die Gilde lieber
+<ce> auf Pygmäen ansetzen.
 
 QuestLogEntry:  [1010]
-Alle Riesen sind tot.
+<ce> Alle Riesen sind tot.
 
 Message:  1020
-Das ist RIESENGEBIET!
-Ab in Euer Winzingsland,
+<ce> Das ist RIESENGEBIET!
+<ce> Ab in Euer Winzingsland,
 %ra!
 <--->
-Ich hatte gestern %ra.
-War echt lecker.
+<ce> Ich hatte gestern %ra.
+<ce> War echt lecker.
 <--->
-Hau Euch! Hau Euch platt!
+<ce> Hau Euch! Hau Euch platt!
 
 Message:  1030
 %qdt:
@@ -86,8 +86,8 @@ Message:  1030
  erhalten.
 
 Message:  1080
-He, %pct, wenn Ihr auf's
-Töten aus seid, nehmt diese
-Karte nach ___newdung_.
-Da gibt es viel zu tun.
+<ce> He, %pct, wenn Ihr auf's
+<ce> Töten aus seid, nehmt diese
+<ce> Karte nach ___newdung_.
+<ce> Da gibt es viel zu tun.
 

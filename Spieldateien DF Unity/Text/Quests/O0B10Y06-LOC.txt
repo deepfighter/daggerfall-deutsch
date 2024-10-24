@@ -3,28 +3,28 @@ DisplayName: Der Juwelenraub
 QRC:
 
 QuestorOffer:  [1000]
-Hier ist ein Auftrag, der Eurem Geschmack
-entsprechen dürfte. Ein geplanter Juwelenraub
-steht bevor. Wollt Ihr dabei sein? Die
-übliche Gildenzahlung beträgt dieser
-Tage _gold_ Goldstücke.
+<ce> Hier ist ein Auftrag, der Eurem Geschmack
+<ce> entsprechen dürfte. Ein geplanter Juwelenraub
+<ce> steht bevor. Wollt Ihr dabei sein? Die
+<ce> übliche Gildenzahlung beträgt dieser
+<ce> Tage _gold_ Goldstücke.
 
 RefuseQuest:  [1001]
-Auf bald. Ich muss noch ein anderes
-Gildenmitglied finden, das diesen
-Auftrag übernehmen möchte.
+<ce> Auf bald. Ich muss noch ein anderes
+<ce> Gildenmitglied finden, das diesen
+<ce> Auftrag übernehmen möchte.
 
 AcceptQuest:  [1002]
-%oth, bei den Göttern, hervorragend!
-Begebt Euch zur _mansion_ in
-__mansion_. Findet das _jewelry_
-und bringt es her. Haltet die Augen offen.
-Wir vermuten, dass das Anwesen nicht
-unbewacht ist.
+<ce> %oth, bei den Göttern, hervorragend!
+<ce> Begebt Euch zur _mansion_ in
+<ce> __mansion_. Findet das _jewelry_
+<ce> und bringt es her. Haltet die Augen offen.
+<ce> Wir vermuten, dass das Anwesen nicht
+<ce> unbewacht ist.
 
 QuestComplete:  [1004]
-Gute Arbeit, %pcn.
-Hier ist Euer Gold.
+<ce> Gute Arbeit, %pcn.
+<ce> Hier ist Euer Gold.
 
 RumorsDuringQuest:  [1005]
 Man sagt, _mansion_ sei einbruchsicher.
@@ -38,17 +38,17 @@ Unglaublich! _mansion_ wurde ausgeraubt.
 Wenn sogar _mansion_ ausgeraubt werden kann, ist kein Ort mehr sicher.
 
 QuestorPostsuccess:  [1008]
-Wie geht es Euch, %pcf?
-Ihr habt doch hoffentlich nicht
-schon all Eure _gold_ Goldstücke
-ausgegeben, oder?
+<ce> Wie geht es Euch, %pcf?
+<ce> Ihr habt doch hoffentlich nicht
+<ce> schon all Eure _gold_ Goldstücke
+<ce> ausgegeben, oder?
 
 QuestorPostfailure:  [1009]
-%oth, Ihr seid es. Der Besitzer
-von _mansion_ hat das _jewelry_
-bereits an einen anderen Ort bringen lassen,
-sodass die ganze Aktion für die Katz war.
-Vielen Dank für Eure sogenannte 'harte' Arbeit.
+<ce> %oth, Ihr seid es. Der Besitzer
+<ce> von _mansion_ hat das _jewelry_
+<ce> bereits an einen anderen Ort bringen lassen,
+<ce> sodass die ganze Aktion für die Katz war.
+<ce> Vielen Dank für Eure sogenannte 'harte' Arbeit.
 
 QuestLogEntry:  [1010]
 %qdt:

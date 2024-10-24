@@ -3,30 +3,30 @@ DisplayName: Das heimgesuchte Haus
 QRC:
 
 QuestorOffer:  [1000]
-Ein Anwesen jenseits von __house_
-wird von Untoten heimgesucht. Wir benötigen
-jemanden, der diese Geister vertreibt. Seid
-Ihr dieser Aufgabe gewachsen? Euch winken
-_gold_ Goldstücke als Belohnung.
+<ce> Ein Anwesen jenseits von __house_
+<ce> wird von Untoten heimgesucht. Wir benötigen
+<ce> jemanden, der diese Geister vertreibt. Seid
+<ce> Ihr dieser Aufgabe gewachsen? Euch winken
+<ce> _gold_ Goldstücke als Belohnung.
 
 RefuseQuest:  [1001]
-Es ist keine Schande, diese Herausforderung
-abzulehnen. Ich werde nach Aufgaben Ausschau
-halten, die eher Eurem Geschmack entsprechen.
+<ce> Es ist keine Schande, diese Herausforderung
+<ce> abzulehnen. Ich werde nach Aufgaben Ausschau
+<ce> halten, die eher Eurem Geschmack entsprechen.
 
 AcceptQuest:  [1002]
-Denkt daran: Wenn der Spuk zu stark für Euch wird,
-versucht einfach, dort herauszukommen. Niemand wird
-Euch etwas vorwerfen, weil Ihr Eure Haut gerettet
-habt. Der Ort heißt _house_ und befindet
-sich in __house_. Ihr habt =traveltime_ Tage
-Zeit, dann schicken wir einen anderen, um die Aufgabe
-zu erledigen.
+<ce> Denkt daran: Wenn der Spuk zu stark für Euch wird,
+<ce> versucht einfach, dort herauszukommen. Niemand wird
+<ce> Euch etwas vorwerfen, weil Ihr Eure Haut gerettet
+<ce> habt. Der Ort heißt _house_ und befindet
+<ce> sich in __house_. Ihr habt =traveltime_ Tage
+<ce> Zeit, dann schicken wir einen anderen, um die Aufgabe
+<ce> zu erledigen.
 
 QuestComplete:  [1004]
-Der Spuk ist also gebannt. Ich werde am Altar
-Räucherwerk für seine Seele entzünden. Hier ist Euer
-Entgelt des Tempels.
+<ce> Der Spuk ist also gebannt. Ich werde am Altar
+<ce> Räucherwerk für seine Seele entzünden. Hier ist Euer
+<ce> Entgelt des Tempels.
 
 RumorsDuringQuest:  [1005]
 Man sagt, der Geist von _house_ könne nicht getötet werden.
@@ -57,11 +57,13 @@ QuestLogEntry:  [1010]
  die Aufgabe zu erledigen.
 
 Message:  1011
-Ich bin der Urahn der Erbauer dieses Hauses. Es gehört nun den Toten. Lasst alle lebenden Kreaturen diesen Ort fürchten.
+<ce> Ich bin der Urahn der Erbauer dieses Hauses.
+<ce> Es gehört nun den Toten. Lasst alle lebenden
+<ce> Kreaturen diesen Ort fürchten.
 
 Message:  1012
-Ich kann verstehen, warum Ihr nicht geblieben seid,
-um dieses Wesen zu bekämpfen, %pcn. Ihr habt
-den Dank des Tempels dafür, dass Ihr etwas über diesen
-Ort herausgefunden habt. Hier sind zwei Goldmünzen.
+<ce> Ich kann verstehen, warum Ihr nicht geblieben seid,
+<ce> um dieses Wesen zu bekämpfen, %pcn. Ihr habt
+<ce> den Dank des Tempels dafür, dass Ihr etwas über diesen
+<ce> Ort herausgefunden habt. Hier sind zwei Goldmünzen.
 

@@ -3,53 +3,53 @@ DisplayName: Mein Anästhetikum
 QRC:
 
 QuestorOffer:  [1000]
-Ihr strebt nach Macht, %pcn.
-Damit könntet Ihr auf Schatten einschlagen
-und Hoffnung haben. Was würdet Ihr mir bringen,
-wenn ich Euch diese Hoffnung gebe?
+<ce> Ihr strebt nach Macht, %pcn.
+<ce> Damit könntet Ihr auf Schatten einschlagen
+<ce> und Hoffnung haben. Was würdet Ihr mir bringen,
+<ce> wenn ich Euch diese Hoffnung gebe?
  
-Würdet Ihr jemanden töten der mir Schmerz bereitet?
+<ce> Würdet Ihr jemanden töten der mir Schmerz bereitet?
 
 RefuseQuest:  [1001]
-Wie ich vermutet habe, überhaupt kein Herz.
-Wir werden also keinen Pakt schließen,
-Ihr und ich. Und enttäuscht kehre ich in
-meinen kalten Palast zurück. Die Seelen
-dort sind zwar auch nicht freundlicher
-als hier, aber zumindest folgen sie mir.
+<ce> Wie ich vermutet habe, überhaupt kein Herz.
+<ce> Wir werden also keinen Pakt schließen,
+<ce> Ihr und ich. Und enttäuscht kehre ich in
+<ce> meinen kalten Palast zurück. Die Seelen
+<ce> dort sind zwar auch nicht freundlicher
+<ce> als hier, aber zumindest folgen sie mir.
 
 AcceptQuest:  [1002]
-Würdet Ihr? Ihr würdet meine nächtliche
-Beruhigung sein? Ihr werdet zum Lager des
-_monster_ =monster_ in ___mondung_
-gehen, und %g2 töten? Ah, %pcf, dafür
-würde ich Euch meinen Skelettschlüssel geben,
-den ich meinem Sklaven _qgfriend_
-anvertraut habe. Wenn =monster_
-tot ist, geht nach ___qgfriend_ und
-trefft meinen Sklaven in __qgfriend_.
-Ihr werdet %g2 gleich erkennen; ein
-=qgfriend_. Dort erhaltet Ihr den
-Skelettschlüssel. Und nun muss ich in
-meinen kalten Palast im Reich des Vergessens
-zurück. Ich werde auf Neuigkeiten warten.
+<ce> Würdet Ihr? Ihr würdet meine nächtliche
+<ce> Beruhigung sein? Ihr werdet zum Lager des
+<ce> _monster_ =monster_ in ___mondung_
+<ce> gehen, und %g2 töten? Ah, %pcf, dafür
+<ce> würde ich Euch meinen Skelettschlüssel geben,
+<ce> den ich meinem Sklaven _qgfriend_
+<ce> anvertraut habe. Wenn =monster_
+<ce> tot ist, geht nach ___qgfriend_ und
+<ce> trefft meinen Sklaven in __qgfriend_.
+<ce> Ihr werdet %g2 gleich erkennen; ein
+<ce> =qgfriend_. Dort erhaltet Ihr den
+<ce> Skelettschlüssel. Und nun muss ich in
+<ce> meinen kalten Palast im Reich des Vergessens
+<ce> zurück. Ich werde auf Neuigkeiten warten.
 
 QuestFail:  [1003]
-Nein. Ihr müsst einen anderen
-=qgfriend_ suchen.
-Mein Name ist nicht _qgfriend_.
+<ce> Nein. Ihr müsst einen anderen
+<ce> =qgfriend_ suchen.
+<ce> Mein Name ist nicht _qgfriend_.
 
 QuestComplete:  [1004]
-So, Ihr seid also %pcn, stimmts?
-Ich bin _qgfriend_.
-Ich habe mich schon gefragt, was für einen
-%ra es brauchen würde, um in die Burg
-eines _monster_ einzudringen,
-den Besitzer zu erschlagen und dann wieder
-herauszumarschieren. Wirklich sehr beeindruckend.
-Nocturnal ist gleichfalls von Euch fasziniert,
-daher ihr Geschenk, der Skelettschlüssel.
-Seid vorsichtig damit, %pcf.
+<ce> So, Ihr seid also %pcn, stimmts?
+<ce> Ich bin _qgfriend_.
+<ce> Ich habe mich schon gefragt, was für einen
+<ce> %ra es brauchen würde, um in die Burg
+<ce> eines _monster_ einzudringen,
+<ce> den Besitzer zu erschlagen und dann wieder
+<ce> herauszumarschieren. Wirklich sehr beeindruckend.
+<ce> Nocturnal ist gleichfalls von Euch fasziniert,
+<ce> daher ihr Geschenk, der Skelettschlüssel.
+<ce> Seid vorsichtig damit, %pcf.
 
 RumorsDuringQuest:  [1005]
 =monster_ ist ziemlich heimtückisch; %g bringt die ganze Magiergilde in Verruf.
@@ -72,19 +72,7 @@ Die Magiergilde muss entschieden haben, dass =monster_ eine Gefahr für ihr Anse
 RumorsPostsuccess:  [1007]
 Nun, ich kann wirklich nicht sagen dass ich überrascht wäre, was =monster_ angeht; %g3 Vergangenheit hat %g2 eingeholt.
 <--->
-Ich glaube nicht einmal, dass es den Erzmagister sehr betrübt, von =monster_s Tod zu hören.
-
-QuestorPostsuccess:  [1008]
-Error: Quest 40c00y00.q tried to display text
-
-QuestorPostsuccess:  [1008]
- 
-
-QuestorPostfailure:  [1009]
-Error: Quest 40c00y00.q tried to display text
-
-QuestorPostfailure:  [1009]
- 
+Ich glaube nicht einmal, dass es den Erzmagister sehr betrübt, von =monster_s Tod zu hören. 
 
 Message:  1011
 _qgfriend_ ist einer der Stammgäste in __qgfriend_, %di von hier.
@@ -124,10 +112,10 @@ diesem lästigen %ra fertig geworden seid.
 <ce>N.
 
 Message:  1017
-Eine Stimme scheint in Eurem
-Ohr widerzuhallen: =monster_
-... sicher ... besonderer Ort ...
-Neuigkeiten...
+<ce> Eine Stimme scheint in Eurem
+<ce> Ohr widerzuhallen: =monster_
+<ce> ... sicher ... besonderer Ort ...
+<ce> Neuigkeiten...
 
 Message:  1018
 %qdt:
@@ -187,108 +175,108 @@ Message:  1023
  ihn zu finden.
 
 Message:  1030
-Wartet! Ich weiß, dass Nocturnal Euch
-geschickt hat, und dass sie Euch den
-Skelettschlüssel versprochen hat. Aber
-wenn Ihr wahre Macht sucht, kann ich ihr
-Angebot überbieten - wenn Ihr Euren Angriff
-einstellt, werde ich Euch verraten, wo
-Ihr Auriels Bogen finden könnt.
-Seid Ihr damit einverstanden?
+<ce> Wartet! Ich weiß, dass Nocturnal Euch
+<ce> geschickt hat, und dass sie Euch den
+<ce> Skelettschlüssel versprochen hat. Aber
+<ce> wenn Ihr wahre Macht sucht, kann ich ihr
+<ce> Angebot überbieten - wenn Ihr Euren Angriff
+<ce> einstellt, werde ich Euch verraten, wo
+<ce> Ihr Auriels Bogen finden könnt.
+<ce> Seid Ihr damit einverstanden?
 
 Message:  1031
-Wartet! Ich weiß, dass Nocturnal Euch
-geschickt hat, und dass sie Euch den
-Skelettschlüssel versprochen hat. Aber
-wenn Ihr wahre Macht sucht, kann ich ihr
-Angebot überbieten - wenn Ihr Euren Angriff
-einstellt, werde ich Euch verraten, wo
-Ihr den Ring des Hexenmeisters finden könnt.
-Seid Ihr damit einverstanden?
+<ce> Wartet! Ich weiß, dass Nocturnal Euch
+<ce> geschickt hat, und dass sie Euch den
+<ce> Skelettschlüssel versprochen hat. Aber
+<ce> wenn Ihr wahre Macht sucht, kann ich ihr
+<ce> Angebot überbieten - wenn Ihr Euren Angriff
+<ce> einstellt, werde ich Euch verraten, wo
+<ce> Ihr den Ring des Hexenmeisters finden könnt.
+<ce> Seid Ihr damit einverstanden?
 
 Message:  1032
-Wartet! Ich weiß, dass Nocturnal Euch
-geschickt hat, und dass sie Euch den
-Skelettschlüssel versprochen hat. Aber
-wenn Ihr wahre Macht sucht, kann ich ihr
-Angebot überbieten - wenn Ihr Euren Angriff
-einstellt, werde ich Euch verraten, wo
-Ihr den Stab des Magnus finden könnt.
-Seid Ihr damit einverstanden?
+<ce> Wartet! Ich weiß, dass Nocturnal Euch
+<ce> geschickt hat, und dass sie Euch den
+<ce> Skelettschlüssel versprochen hat. Aber
+<ce> wenn Ihr wahre Macht sucht, kann ich ihr
+<ce> Angebot überbieten - wenn Ihr Euren Angriff
+<ce> einstellt, werde ich Euch verraten, wo
+<ce> Ihr den Stab des Magnus finden könnt.
+<ce> Seid Ihr damit einverstanden?
 
 Message:  1035
-Ihr habt =monster_ getötet.
-Fürstin Nocturnal wird nun
-ruhiger schlafen.
+<ce> Ihr habt =monster_ getötet.
+<ce> Fürstin Nocturnal wird nun
+<ce> ruhiger schlafen.
 
 Message:  1040
-Ausgezeichnet. Ich wusste, dass
-Ihr eine Söldnerseele habt.
-Auriels Bogen liegt versteckt
-in ___bowdung_.
-Wenn Ihr ihn findet werdet Ihr
-tatsächlich eine Macht sein, mit
-der man rechnen muss. Jetzt
-entbiete ich Euch einen guten Tag,
-bevor Ihr auf die Idee kommt, Euch
-den Bogen und den Schlüssel zu
-sichern, indem Ihr mich umbringt.
-Einer Söldnerseele wie Euch sollte
-man nicht zu sehr vertrauen!
+<ce> Ausgezeichnet. Ich wusste, dass
+<ce> Ihr eine Söldnerseele habt.
+<ce> Auriels Bogen liegt versteckt
+<ce> in ___bowdung_.
+<ce> Wenn Ihr ihn findet werdet Ihr
+<ce> tatsächlich eine Macht sein, mit
+<ce> der man rechnen muss. Jetzt
+<ce> entbiete ich Euch einen guten Tag,
+<ce> bevor Ihr auf die Idee kommt, Euch
+<ce> den Bogen und den Schlüssel zu
+<ce> sichern, indem Ihr mich umbringt.
+<ce> Einer Söldnerseele wie Euch sollte
+<ce> man nicht zu sehr vertrauen!
 
 Message:  1041
-Ausgezeichnet. Ich wusste, dass
-Ihr eine Söldnerseele habt.
-Der Ring des Hexenmeisters liegt versteckt
-in ___ringdung_.
-Wenn Ihr ihn findet werdet Ihr
-tatsächlich eine Macht sein, mit
-der man rechnen muss. Jetzt
-entbiete ich Euch einen guten Tag,
-bevor Ihr auf die Idee kommt, Euch
-den Ring und den Schlüssel zu
-sichern, indem Ihr mich umbringt.
-Einer Söldnerseele wie Euch sollte
-man nicht zu sehr vertrauen!
+<ce> Ausgezeichnet. Ich wusste, dass
+<ce> Ihr eine Söldnerseele habt.
+<ce> Der Ring des Hexenmeisters liegt versteckt
+<ce> in ___ringdung_.
+<ce> Wenn Ihr ihn findet werdet Ihr
+<ce> tatsächlich eine Macht sein, mit
+<ce> der man rechnen muss. Jetzt
+<ce> entbiete ich Euch einen guten Tag,
+<ce> bevor Ihr auf die Idee kommt, Euch
+<ce> den Ring und den Schlüssel zu
+<ce> sichern, indem Ihr mich umbringt.
+<ce> Einer Söldnerseele wie Euch sollte
+<ce> man nicht zu sehr vertrauen!
 
 Message:  1042
-Ausgezeichnet. Ich wusste, dass
-Ihr eine Söldnerseele habt.
-Der Stab des Magnus liegt versteckt
-in ___staffdung_.
-Wenn Ihr ihn findet werdet Ihr
-tatsächlich eine Macht sein, mit
-der man rechnen muss. Jetzt
-entbiete ich Euch einen guten Tag,
-bevor Ihr auf die Idee kommt, Euch
-den Stab und den Schlüssel zu
-sichern, indem Ihr mich umbringt.
-Einer Söldnerseele wie Euch sollte
-man nicht zu sehr vertrauen!
+<ce> Ausgezeichnet. Ich wusste, dass
+<ce> Ihr eine Söldnerseele habt.
+<ce> Der Stab des Magnus liegt versteckt
+<ce> in ___staffdung_.
+<ce> Wenn Ihr ihn findet werdet Ihr
+<ce> tatsächlich eine Macht sein, mit
+<ce> der man rechnen muss. Jetzt
+<ce> entbiete ich Euch einen guten Tag,
+<ce> bevor Ihr auf die Idee kommt, Euch
+<ce> den Stab und den Schlüssel zu
+<ce> sichern, indem Ihr mich umbringt.
+<ce> Einer Söldnerseele wie Euch sollte
+<ce> man nicht zu sehr vertrauen!
 
 Message:  1045
 Spöttisches Gelächter hallt in Eurem Kopf wider:
  
- "Ihr hättet es besser wissen sollen als
- mir zu vertrauen, %pcn. Vielleicht kann
- dieser Schatten der Macht Euer Verlangen
- für eine Weile stillen, während Ihr vergebens
- gegen jene wütet, die sie tatsächlich besitzen.
- Mich zum Beispiel. Ich hoffe, die gute Nocturnal
- wird von Eurem Verrat nicht zu enttäuscht sein."
+<ce> "Ihr hättet es besser wissen sollen als
+<ce> mir zu vertrauen, %pcn. Vielleicht kann
+<ce> dieser Schatten der Macht Euer Verlangen
+<ce> für eine Weile stillen, während Ihr vergebens
+<ce> gegen jene wütet, die sie tatsächlich besitzen.
+<ce> Mich zum Beispiel. Ich hoffe, die gute Nocturnal
+<ce> wird von Eurem Verrat nicht zu enttäuscht sein."
  
 Auriels Bogen zerfällt in Euren Händen zu Staub.
 
 Message:  1046
 Spöttisches Gelächter hallt in Eurem Kopf wider:
  
- "Ihr hättet es besser wissen sollen als
- mir zu vertrauen, %pcn. Vielleicht kann
- dieser Schatten der Macht Euer Verlangen
- für eine Weile stillen, während Ihr vergebens
- gegen jene wütet, die sie tatsächlich besitzen.
- Mich zum Beispiel. Ich hoffe, die gute Nocturnal
- wird von Eurem Verrat nicht zu enttäuscht sein."
+<ce> "Ihr hättet es besser wissen sollen als
+<ce> mir zu vertrauen, %pcn. Vielleicht kann
+<ce> dieser Schatten der Macht Euer Verlangen
+<ce> für eine Weile stillen, während Ihr vergebens
+<ce> gegen jene wütet, die sie tatsächlich besitzen.
+<ce> Mich zum Beispiel. Ich hoffe, die gute Nocturnal
+<ce> wird von Eurem Verrat nicht zu enttäuscht sein."
  
 Der Ring des Hexenmeisters zerfällt in Euren Händen
 zu Staub.
@@ -296,19 +284,19 @@ zu Staub.
 Message:  1047
 Spöttisches Gelächter hallt in Eurem Kopf wider:
  
- "Ihr hättet es besser wissen sollen als
- mir zu vertrauen, %pcn. Vielleicht kann
- dieser Schatten der Macht Euer Verlangen
- für eine Weile stillen, während Ihr vergebens
- gegen jene wütet, die sie tatsächlich besitzen.
- Mich zum Beispiel. Ich hoffe, die gute Nocturnal
- wird von Eurem Verrat nicht zu enttäuscht sein."
+<ce> "Ihr hättet es besser wissen sollen als
+<ce> mir zu vertrauen, %pcn. Vielleicht kann
+<ce> dieser Schatten der Macht Euer Verlangen
+<ce> für eine Weile stillen, während Ihr vergebens
+<ce> gegen jene wütet, die sie tatsächlich besitzen.
+<ce> Mich zum Beispiel. Ich hoffe, die gute Nocturnal
+<ce> wird von Eurem Verrat nicht zu enttäuscht sein."
  
 Der Stab des Magnus zerfällt in Euren Händen zu Staub.
 
 Message:  1050
-Nocturnal war von Eurem Wagemut
-höchst beeindruckt, %pcn.
-Sie hat mich gebeten, Euch zur Belohnung
-solch kühnes Verrats schnell zu töten.
+<ce> Nocturnal war von Eurem Wagemut
+<ce> höchst beeindruckt, %pcn.
+<ce> Sie hat mich gebeten, Euch zur Belohnung
+<ce> solch kühnes Verrats schnell zu töten.
 

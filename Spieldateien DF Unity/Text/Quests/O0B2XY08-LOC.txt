@@ -3,34 +3,34 @@ DisplayName: Ein geschätztes Kraut
 QRC:
 
 QuestorOffer:  [1000]
-_qgiver_ ist mein Name.
-Dieser Auftrag ist von heikler Natur,
-%pcf. Ich biete Euch _gold_ Goldstücke
-als Lohn, wenn Ihr für mich ein gewisses
-Etwas namens _drugs_ stehlen könnt.
-Ich nehme an, Ihr kennt dieses _drugs_
-bereits? Es ist ein Kraut, das starkes Verlangen
-erzeugt. Seid Ihr bereit, diesen Auftrag zu übernehmen?
+<ce> _qgiver_ ist mein Name.
+<ce> Dieser Auftrag ist von heikler Natur,
+<ce> %pcf. Ich biete Euch _gold_ Goldstücke
+<ce> als Lohn, wenn Ihr für mich ein gewisses
+<ce> Etwas namens _drugs_ stehlen könnt.
+<ce> Ich nehme an, Ihr kennt dieses _drugs_
+<ce> bereits? Es ist ein Kraut, das starkes Verlangen
+<ce> erzeugt. Seid Ihr bereit, diesen Auftrag zu übernehmen?
 
 RefuseQuest:  [1001]
-Wenn irgendjemand von diesem Vorhaben erfährt,
-so wisst Ihr, wen ich zur Rechenschaft ziehen
-werde, %pcn.
+<ce> Wenn irgendjemand von diesem Vorhaben erfährt,
+<ce> so wisst Ihr, wen ich zur Rechenschaft ziehen
+<ce> werde, %pcn.
 
 AcceptQuest:  [1002]
-Begebt Euch nach __mansion_.
-Findet _mansion_.
-Stehlt das _drugs_.
-Bringt es mir innerhalb
-von =traveltime_ Tagen und
-Euer Lohn wird Euch sicher sein.
+<ce> Begebt Euch nach __mansion_.
+<ce> Findet _mansion_.
+<ce> Stehlt das _drugs_.
+<ce> Bringt es mir innerhalb
+<ce> von =traveltime_ Tagen und
+<ce> Euer Lohn wird Euch sicher sein.
 
 QuestComplete:  [1004]
-Lasst es einfach unauffällig in meine
-Taschen gleiten. Gut. Ich glaube nicht,
-dass Euch jemand dabei gesehen hat.
-Hier sind Eure _gold_ Goldstücke,
-%pcn.
+<ce> Lasst es einfach unauffällig in meine
+<ce> Taschen gleiten. Gut. Ich glaube nicht,
+<ce> dass Euch jemand dabei gesehen hat.
+<ce> Hier sind Eure _gold_ Goldstücke,
+<ce> %pcn.
 
 RumorsDuringQuest:  [1005]
 Man fragt sich allenthalben, woher der Handel mit
@@ -47,19 +47,19 @@ ausgeraubt, doch der Eigentümer
 wagt es nicht, den Diebstahl zu melden.
 
 QuestorPostsuccess:  [1008]
-Benehmt Euch unauffällig, %pcf.
-Der Handel mit _drugs_
-ist noch immer in aller Munde.
+<ce> Benehmt Euch unauffällig, %pcf.
+<ce> Der Handel mit _drugs_
+<ce> ist noch immer in aller Munde.
 
 QuestorPostfailure:  [1009]
-%oth, %pcf. Ich dachte,
-ich könnte mich darauf verlassen, dass
-Ihr mir _drugs_ beschafft.
-Doch offenbar sollte man, wenn man
-einen Auftrag wirklich ordnungsgemäß
-erledigt haben will, zuerst den %ra
-hinrichten, den man einweihte.
-Fahrt ins Reich des Vergessens, Balg.
+<ce> %oth, %pcf. Ich dachte,
+<ce> ich könnte mich darauf verlassen, dass
+<ce> Ihr mir _drugs_ beschafft.
+<ce> Doch offenbar sollte man, wenn man
+<ce> einen Auftrag wirklich ordnungsgemäß
+<ce> erledigt haben will, zuerst den %ra
+<ce> hinrichten, den man einweihte.
+<ce> Fahrt ins Reich des Vergessens, Balg.
 
 QuestLogEntry:  [1010]
 %qdt:

@@ -3,80 +3,80 @@ DisplayName: Der Meuchelmörder
 QRC:
 
 QuestorOffer:  [1000]
-Mein Name ist unwichtig. Ihr müsst nur wissen,
-dass ich jemanden benötige, der nicht davor
-zurückschreckt, ein wenig Blut zu vergießen,
-für, sagen wir, _gold_ Goldstücke. Sagt mir
-unverzüglich, wenn Ihr kein Interesse habt.
-Seid Ihr bereit, diese Art von Arbeit zu übernehmen?
+<ce> Mein Name ist unwichtig. Ihr müsst nur wissen,
+<ce> dass ich jemanden benötige, der nicht davor
+<ce> zurückschreckt, ein wenig Blut zu vergießen,
+<ce> für, sagen wir, _gold_ Goldstücke. Sagt mir
+<ce> unverzüglich, wenn Ihr kein Interesse habt.
+<ce> Seid Ihr bereit, diese Art von Arbeit zu übernehmen?
 <--->
-Shhh! Sprecht gefälligst leiser. Bevor ich
-irgendetwas anderes sage, seid Ihr die Art
-von %ra, die für Gold töten würde?
-Für _gold_ Goldstücke, wie klingt das?
+<ce> Shhh! Sprecht gefälligst leiser. Bevor ich
+<ce> irgendetwas anderes sage, seid Ihr die Art
+<ce> von %ra, die für Gold töten würde?
+<ce> Für _gold_ Goldstücke, wie klingt das?
 <--->
-Ich suche nach jemandem, der nicht gleich
-das Bewusstsein verliert beim Anblick von
-Blut. Menschenblut. Für _gold_ Goldstücke,
-würdet Ihr jemanden töten?
+<ce> Ich suche nach jemandem, der nicht gleich
+<ce> das Bewusstsein verliert beim Anblick von
+<ce> Blut. Menschenblut. Für _gold_ Goldstücke,
+<ce> würdet Ihr jemanden töten?
 
 RefuseQuest:  [1001]
-Ihr habt mich nie gesehen.
+<ce> Ihr habt mich nie gesehen.
 <--->
-Dann verschwindet. Ich will nicht, dass man uns miteinander sprechen sieht.
+<ce> Dann verschwindet. Ich will nicht, dass man uns miteinander sprechen sieht.
 <--->
-Gut. Eure Sache.
+<ce> Gut. Eure Sache.
 
 AcceptQuest:  [1002]
-Ich will _darkb_ tot sehen.
-Das Problem ist, dass die Dunkle
-Bruderschaft den Auftrag nicht
-übernehmen wird. Hat etwas mit
-einem Gefallen zu tun, den sie
-irgendwen schulden. Ich brauche
-jemanden, der unabhängig ist.
-Erledigt den Auftrag und meldet
-Euch innerhalb einer Woche wieder
-bei mir und ich bezahle Euch die
-_gold_ Goldstücke. Fragt einfach nach
-_questgiver_, ich werde genau
-hier auf Euch warten.
+<ce> Ich will _darkb_ tot sehen.
+<ce> Das Problem ist, dass die Dunkle
+<ce> Bruderschaft den Auftrag nicht
+<ce> übernehmen wird. Hat etwas mit
+<ce> einem Gefallen zu tun, den sie
+<ce> irgendwen schulden. Ich brauche
+<ce> jemanden, der unabhängig ist.
+<ce> Erledigt den Auftrag und meldet
+<ce> Euch innerhalb einer Woche wieder
+<ce> bei mir und ich bezahle Euch die
+<ce> _gold_ Goldstücke. Fragt einfach nach
+<ce> _questgiver_, ich werde genau
+<ce> hier auf Euch warten.
 
 QuestComplete:  [1004]
-Die Rache ist mein! Übrigens, Ihr solltet
-wohl lieber die Stadt verlassen. Wie ich
-höre, hat die Bruderschaft hiervon Wind
-bekommen. Hier ist Euer Geld, %pcf.
+<ce> Die Rache ist mein! Übrigens, Ihr solltet
+<ce> wohl lieber die Stadt verlassen. Wie ich
+<ce> höre, hat die Bruderschaft hiervon Wind
+<ce> bekommen. Hier ist Euer Geld, %pcf.
 
 RumorsDuringQuest:  [1005]
-Wie ich so höre, hasst _questgiver_ _darkb_.
+<ce> Wie ich so höre, hasst _questgiver_ _darkb_.
 <--->
-_darkb_ hat Verbindungen zur Dunklen Bruderschaft.
+<ce> _darkb_ hat Verbindungen zur Dunklen Bruderschaft.
 
 RumorsPostsuccess:  [1007]
-Jemand hat _darkb_ ermordet, und das auch noch
-mitten in der Öffentlichkeit!
+<ce> Jemand hat _darkb_ ermordet, und das auch noch
+<ce> mitten in der Öffentlichkeit!
 <--->
-Habt Ihr von dem Mord gehört? _darkb_
-wurde von einem Meuchelmörder ermordet.
+<ce> Habt Ihr von dem Mord gehört? _darkb_
+<ce> wurde von einem Meuchelmörder ermordet.
 <--->
-Ich konnte _darkb_ nie leiden.
-Ich bin froh, dass %g2 endlich jemand
-erledigt hat. Ich habe gehört, es war
-die Dunkle Bruderschaft.
+<ce> Ich konnte _darkb_ nie leiden.
+<ce> Ich bin froh, dass %g2 endlich jemand
+<ce> erledigt hat. Ich habe gehört, es war
+<ce> die Dunkle Bruderschaft.
 
 QuestorPostsuccess:  [1008]
-Sprecht nicht zu laut. Ihr habt _darkb_
-für mich getötet und ich erkenne meine Schuld an,
-aber ich will nicht, dass die Leute denken, ich
-hätte irgendetwas damit zu tun gehabt.
+<ce> Sprecht nicht zu laut. Ihr habt _darkb_
+<ce> für mich getötet und ich erkenne meine Schuld an,
+<ce> aber ich will nicht, dass die Leute denken, ich
+<ce> hätte irgendetwas damit zu tun gehabt.
 
 QuestorPostfailure:  [1009]
-Ich habe Euch für einen einzigen Auftrag angeheuert,
-aber Ihr habt versagt. Ihr hättet nichts weiter tun
-müssen, als _darkb_ zu töten. Und jetzt
-ist es zu spät dafür und die Dunkle Bruderschaft ist
-mir auf den Fersen. Lasst mich einfach nur alleine.
+<ce> Ich habe Euch für einen einzigen Auftrag angeheuert,
+<ce> aber Ihr habt versagt. Ihr hättet nichts weiter tun
+<ce> müssen, als _darkb_ zu töten. Und jetzt
+<ce> ist es zu spät dafür und die Dunkle Bruderschaft ist
+<ce> mir auf den Fersen. Lasst mich einfach nur alleine.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -86,37 +86,37 @@ QuestLogEntry:  [1010]
  ___questgiver_ zurückzukehren.
 
 Message:  1015
-_darkb_ ist nicht tot!
-Für wie dumm haltet Ihr mich, %pcf?
+<ce> _darkb_ ist nicht tot!
+<ce> Für wie dumm haltet Ihr mich, %pcf?
 
 Message:  1021
-Hilfe! Mörder! Hilfe!
+<ce> Hilfe! Mörder! Hilfe!
 
 Message:  1022
-Ihr Köter! Was seid Ihr denn für ein Auftragsmörder?
-Zu den Waffen! Zu den Waffen!
+<ce> Ihr Köter! Was seid Ihr denn für ein Auftragsmörder?
+<ce> Zu den Waffen! Zu den Waffen!
 
 Message:  1023
-Ich bin getroffen! %oth.
+<ce> Ich bin getroffen! %oth.
 
 Message:  1024
-Feigling! Ihr greift mich an ohne Grund oder Provokation.
+<ce> Feigling! Ihr greift mich an ohne Grund oder Provokation.
 
 Message:  1030
-_questgiver_? Ich weiß nicht viel
-über %g2. %g bleibt gerne für sich.
+<ce> _questgiver_? Ich weiß nicht viel
+<ce> über %g2. %g bleibt gerne für sich.
 
 Message:  1031
-Wie ich höre, hat _questgiver_
-ein paar ziemlich zwielichtige Freunde.
-Aber das habt Ihr nicht von mir.
+<ce> Wie ich höre, hat _questgiver_
+<ce> ein paar ziemlich zwielichtige Freunde.
+<ce> Aber das habt Ihr nicht von mir.
 
 Message:  1032
-Ein guter, aufrichtiger Bürger. Das kann jeder bestätigen.
+<ce> Ein guter, aufrichtiger Bürger. Das kann jeder bestätigen.
 
 Message:  1033
-_darkb_ hält sich für gewöhnlich im
-_place_ auf, aber ich würde mich nicht
-in seine Angelegenheiten einmischen.
-Nur ein freundschaftlicher Ratschlag.
+<ce> _darkb_ hält sich für gewöhnlich im
+<ce> _place_ auf, aber ich würde mich nicht
+<ce> in seine Angelegenheiten einmischen.
+<ce> Nur ein freundschaftlicher Ratschlag.
 

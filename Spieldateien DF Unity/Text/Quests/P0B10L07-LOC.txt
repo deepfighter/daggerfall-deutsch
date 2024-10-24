@@ -9,15 +9,15 @@ AcceptQuest:  [1002]
 Error: Questtext 1002 Called.
 
 QuestComplete:  [1004]
-_knight_ ist halb verrückt
-vor Angst, %pcf.
-Welch Schrecken Ihr doch verbreitet!
-Die %vam sind der Auffassung,
-dass Ihr Euch diesen _jewelry_
-in Anerkennung Eurer Treue und Eurer
-bemerkenswerten ... Selbstbeherrschung
-in dieser Sache verdient habt.
-Gut gemacht, Blutsverwandter.
+<ce> _knight_ ist halb verrückt
+<ce> vor Angst, %pcf.
+<ce> Welch Schrecken Ihr doch verbreitet!
+<ce> Die %vam sind der Auffassung,
+<ce> dass Ihr Euch diesen _jewelry_
+<ce> in Anerkennung Eurer Treue und Eurer
+<ce> bemerkenswerten ... Selbstbeherrschung
+<ce> in dieser Sache verdient habt.
+<ce> Gut gemacht, Blutsverwandter.
 
 RumorsDuringQuest:  [1005]
 Wenn _knight_ sich nicht vorsieht, werden sich diese Vampire gegen %g2 wenden.
@@ -57,28 +57,28 @@ QuestLogEntry:  [1010]
                _vamp_
 
 Message:  1011
-Ah, guten Abend, mein Blutsverwandter.
-Wir haben Schwierigkeiten mit einem
-lokalen Kriegsherrn, der es trotz
-unserer vielen, vielen höflichen
-verbalen und schriftlichen Drohungen
-weiterhin wagt, einen Krieg gegen die
-%vam zu führen. Für gewöhnlich
-würde dieser lästige Ritter schon
-seit Wochen im Jenseits verweilen.
-Aber unsere Nachsicht rührt nicht von
-Empfindlichkeit her. Wir könnten
-_knight_ als Verbündeten
-in %reg brauchen, aber %g2 muss
-gehorsam beigebracht werden.
+<ce> Ah, guten Abend, mein Blutsverwandter.
+<ce> Wir haben Schwierigkeiten mit einem
+<ce> lokalen Kriegsherrn, der es trotz
+<ce> unserer vielen, vielen höflichen
+<ce> verbalen und schriftlichen Drohungen
+<ce> weiterhin wagt, einen Krieg gegen die
+<ce> %vam zu führen. Für gewöhnlich
+<ce> würde dieser lästige Ritter schon
+<ce> seit Wochen im Jenseits verweilen.
+<ce> Aber unsere Nachsicht rührt nicht von
+<ce> Empfindlichkeit her. Wir könnten
+<ce> _knight_ als Verbündeten
+<ce> in %reg brauchen, aber %g2 muss
+<ce> gehorsam beigebracht werden.
  
-Ich möchte, dass Ihr mit %g2 in
-___mondung_ sprecht, dort, wo
-%g sich am sichersten fühlt. Tötet
-%g3 nicht - mischt %g3 nur etwas auf.
-Ich erwarte Euch innerhalb von =queston_ Tagen
-zurück, nachdem Ihr _knight_ ...
-erweicht habt.
+<ce> Ich möchte, dass Ihr mit %g2 in
+<ce> ___mondung_ sprecht, dort, wo
+<ce> %g sich am sichersten fühlt. Tötet
+<ce> %g3 nicht - mischt %g3 nur etwas auf.
+<ce> Ich erwarte Euch innerhalb von =queston_ Tagen
+<ce> zurück, nachdem Ihr _knight_ ...
+<ce> erweicht habt.
 
 Message:  1012
 %qdt:
@@ -89,7 +89,7 @@ Message:  1012
  in __vamp_ gebraucht.
 
 Message:  1013
-%dat:
+%qdt:
  _vamp_ will, dass ich zu einem
  Ort namens ___mondung_ reise
  und dort _knight_ zusetze,
@@ -101,14 +101,14 @@ Message:  1013
  ___vamp_ zu sein.
 
 Message:  1014
-Bei %god, sagt den
-%vam, ich mache alles!
-Nur tötet mich nicht!
+<ce> Bei %god, sagt den
+<ce> %vam, ich mache alles!
+<ce> Nur tötet mich nicht!
 <--->
-%oth, ich ergebe mich!
-Ich werde alles tun, was
-sie wollen, nur bitte, im Namen
-von %god, tötet mich nicht!
+<ce> %oth, ich ergebe mich!
+<ce> Ich werde alles tun, was
+<ce> sie wollen, nur bitte, im Namen
+<ce> von %god, tötet mich nicht!
 
 Message:  1015
 _knight_ ist tot.
@@ -116,14 +116,14 @@ _vamp_ wird nicht
 erfreut sein.
 
 Message:  1016
-Ich habe es schon gehört, %pcf.
-Ihr habt _knight_ umgebracht,
-obwohl ich Euch ausdrücklich gesagt
-gesagt habe, %g2 nur Angst einzujagen.
-%oth, Ihr seid nicht besser
-als ein Schlägertyp, stimmt's?
-Die %vam und ich sind sehr
-enttäuscht, %pcf.
+<ce> Ich habe es schon gehört, %pcf.
+<ce> Ihr habt _knight_ umgebracht,
+<ce> obwohl ich Euch ausdrücklich gesagt
+<ce> gesagt habe, %g2 nur Angst einzujagen.
+<ce> %oth, Ihr seid nicht besser
+<ce> als ein Schlägertyp, stimmt's?
+<ce> Die %vam und ich sind sehr
+<ce> enttäuscht, %pcf.
 
 Message:  1017
 Ein bleicher, junger Knabe händigt Euch

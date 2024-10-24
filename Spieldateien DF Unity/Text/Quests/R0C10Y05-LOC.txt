@@ -3,50 +3,50 @@ DisplayName: Monsterdiplomatie
 QRC:
 
 QuestorOffer:  [1000]
-Ihr habt vielleicht davon gehört,
-dass ich ein Bündnis mit _qgfriend_
-einzugehen gedenke. Um unsere Freundschaft
-zu besiegeln habe ich zugestimmt, mich
-einer Bedrohung anzunehmen, die _qgfriend_
-ständig zusetzt - irgendeine Art Monster.
-Dieses üble Ungeziefer haust in einer
-verfallenen Stätte namens ___mondung_.
-Im Gegenzug hat %g sich bereiterklärt,
-dem Monstertöter _reward_ Gold zu zahlen.
-Was nicht zu knapp ist, da werdet Ihr mir
-zustimmen. Klingt das nach einem Abenteuer
-für Euch, %pcn?
+<ce> Ihr habt vielleicht davon gehört,
+<ce> dass ich ein Bündnis mit _qgfriend_
+<ce> einzugehen gedenke. Um unsere Freundschaft
+<ce> zu besiegeln habe ich zugestimmt, mich
+<ce> einer Bedrohung anzunehmen, die _qgfriend_
+<ce> ständig zusetzt - irgendeine Art Monster.
+<ce> Dieses üble Ungeziefer haust in einer
+<ce> verfallenen Stätte namens ___mondung_.
+<ce> Im Gegenzug hat %g sich bereiterklärt,
+<ce> dem Monstertöter _reward_ Gold zu zahlen.
+<ce> Was nicht zu knapp ist, da werdet Ihr mir
+<ce> zustimmen. Klingt das nach einem Abenteuer
+<ce> für Euch, %pcn?
 
 RefuseQuest:  [1001]
-Wirklich? Wie unbedarft von Euch,
-mich so im Stich zu lassen.
+<ce> Wirklich? Wie unbedarft von Euch,
+<ce> mich so im Stich zu lassen.
 
 AcceptQuest:  [1002]
-Ihr erkennt eine gutes Gelegenheit wenn sie
-sich bietet, oder? Ich habe _qgfriend_
-versichert, dass das Monster in =1stparton_ Tagen
-tot ist. Danach könnte er sich jemand anderen
-suchen. Ihr tötet also die Kreatur, begebt
-Euch nach ___qgfriend_ und sucht
-_qgfriend_ auf, bevor die Zeit
-verstrichen ist.
+<ce> Ihr erkennt eine gutes Gelegenheit wenn sie
+<ce> sich bietet, oder? Ich habe _qgfriend_
+<ce> versichert, dass das Monster in =1stparton_ Tagen
+<ce> tot ist. Danach könnte er sich jemand anderen
+<ce> suchen. Ihr tötet also die Kreatur, begebt
+<ce> Euch nach ___qgfriend_ und sucht
+<ce> _qgfriend_ auf, bevor die Zeit
+<ce> verstrichen ist.
 
 QuestFail:  [1003]
-Macht Euch besser auf den Weg, %pcf.
-Die Zeit ist knapp.
+<ce> Macht Euch besser auf den Weg, %pcf.
+<ce> Die Zeit ist knapp.
 
 QuestComplete:  [1004]
-Ja, ich habe schon gehört, dass diese Plage
-von einem _giant_ ein Ende gefunden
-hat. Ich weiß nicht, wo _questgiver_
-Euch aufgetrieben hat, aber ich bin froh, dass
-%g es getan hat. Hier sind Eure _reward_ Goldstücke.
-Ich danke Euch für diesen Dienst, %pcf.
+<ce> Ja, ich habe schon gehört, dass diese Plage
+<ce> von einem _giant_ ein Ende gefunden
+<ce> hat. Ich weiß nicht, wo _questgiver_
+<ce> Euch aufgetrieben hat, aber ich bin froh, dass
+<ce> %g es getan hat. Hier sind Eure _reward_ Goldstücke.
+<ce> Ich danke Euch für diesen Dienst, %pcf.
 
 RumorsDuringQuest:  [1005]
 Es gibt ein Monster in ___mondung_, das_qgfriend_ beunruhigt.
 <--->
-Dieses Monster in  ___mondung_ scheint über eine ganze Horde Fledermäuse und Ratten zu verfügen.
+Dieses Monster in ___mondung_ scheint über eine ganze Horde Fledermäuse und Ratten zu verfügen.
 
 RumorsPostfailure:  [1006]
 Dieses Monster =giant_ wusste, dass seine Zuflucht bekannt ist, und ist weitergezogen.
@@ -55,28 +55,30 @@ Das Monster =giant_ ist aus ___mondung_
 abgezogen, sucht _qgfriend_ aber immer noch heim.
 
 RumorsPostsuccess:  [1007]
-Der Fluch von  =giant_ wurde aus %reg getilgt.
+Der Fluch von =giant_ wurde aus %reg getilgt.
 <--->
 Ein heiliger Krieger hat =giant_ vernichtet
 und diese Plage von unserem Land genommen.
 
 QuestorPostsuccess:  [1008]
-Ah, die Nemesis von =giant_! Was kann ich für Euch tun?
+<ce> Ah, Nemesis von =giant_!
+<ce> Was kann ich für Euch tun?
 <--->
-Ihr habt mir dabei geholfen, meine Bündnisse zu schmieden,
-%pcf. Wie kann ich Euch helfen?
+<ce> Ihr habt mir dabei geholfen, meine
+<ce> Bündnisse zu schmieden, %pcf.
+<ce> Wie kann ich Euch helfen?
 
 QuestorPostfailure:  [1009]
-Euer Versagen dabei, das Monster zu töten,
-hat die ganze Sache verkompliziert. Ich
-habe keine Zeit für Euresgleichen.
+<ce> Euer Versagen dabei, das Monster zu töten,
+<ce> hat die ganze Sache verkompliziert. Ich
+<ce> habe keine Zeit für Euresgleichen.
 
 Message:  1011
-=qgfriend_? Ein möglicher Bündnispartner für
-_questgiver_ mit einem Problem
-in ___mondung_.
+<ce> =qgfriend_? Ein möglicher Bündnispartner für
+<ce> _questgiver_ mit einem Problem
+<ce> in ___mondung_.
 <--->
-_qgfriend_ ist ein geschworener Feind von  =giant_.
+<ce> _qgfriend_ ist ein geschworener Feind von=giant_.
 
 Message:  1012
 Ihr habt =giant_ getötet.
@@ -87,21 +89,21 @@ Message:  1015
  hat mich im Auftrag eines Bündnispartners,
  _qgfriend_ aus ___qgfriend_,
  angeheuert, um ein Monster zu töten, das
- als =giant_  bekannt ist und die Ländereien
+ als =giant_ bekannt ist und die Ländereien
  um ___mondung_ terrorisiert. Wenn
  das Monster tot ist und ich es innerhalb
  von =1stparton_ Tagen zu _qgfriend_
  schaffe, werde ich meine Belohnung erhalten.
 
 Message:  1021
-Oh, fast vergessen: Ich weiß nicht, welche
-Art Monster ___mondung_ heimsucht,
-doch Gerüchten steckt der name Name
-=giant_ hinter diesem Schrecken.
+<ce> Oh, fast vergessen: Ich weiß nicht, welche
+<ce> Art Monster ___mondung_ heimsucht,
+<ce> doch Gerüchten steckt der name Name
+<ce> =giant_ hinter diesem Schrecken.
 
 Message:  1030
-Wer wagt es, =giant_ den
-Schrecklichen zu stören?
-Euer Schädel soll als Trophäe
-an meiner Wand hängen!
+<ce> Wer wagt es, =giant_ den
+<ce> Schrecklichen zu stören?
+<ce> Euer Schädel soll als Trophäe
+<ce> an meiner Wand hängen!
 

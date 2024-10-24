@@ -3,39 +3,39 @@ DisplayName: Nachtwächter der Gilde
 QRC:
 
 QuestorOffer:  [1000]
-Die Magiergilde braucht jemanden,
-der heute Nacht unsere magischen
-Relikte beschützt. Wäre es möglich,
-dass Ihr dieser Jemand seid? Es
-würde auch für Euch etwas dabei
-herausspringen [_potion_].
+<ce> Die Magiergilde braucht jemanden,
+<ce> der heute Nacht unsere magischen
+<ce> Relikte beschützt. Wäre es möglich,
+<ce> dass Ihr dieser Jemand seid? Es
+<ce> würde auch für Euch etwas dabei
+<ce> herausspringen [_potion_].
 <--->
-Die Gildenhalle - wie soll man sagen?
-Ihr werdet mir zustimmen, dass es im
-Leben immer ein paar Leute gibt, die
-einfach nur ... nun, die Gilde stand
-immer für, oder, sagen wir, hatte immer
-schon Probleme mit ... hört zu,
-%pct, wir brauchen eine Wache.
-Würdet Ihr das übernehmen?
+<ce> Die Gildenhalle - wie soll man sagen?
+<ce> Ihr werdet mir zustimmen, dass es im
+<ce> Leben immer ein paar Leute gibt, die
+<ce> einfach nur ... nun, die Gilde stand
+<ce> immer für, oder, sagen wir, hatte immer
+<ce> schon Probleme mit ... hört zu,
+<ce> %pct, wir brauchen eine Wache.
+<ce> Würdet Ihr das übernehmen?
 
 RefuseQuest:  [1001]
-Kein Problem. Es gibt immer
-andere Gildenmitglieder,
-die nach Arbeit suchen.
+<ce> Kein Problem. Es gibt immer
+<ce> andere Gildenmitglieder,
+<ce> die nach Arbeit suchen.
 
 AcceptQuest:  [1002]
-Seid um Mitternacht
-hier in der Magiergilde.
-Eure Schicht als Wachposten
-endet um 3 Uhr morgens.
+<ce> Seid um Mitternacht
+<ce> hier in der Magiergilde.
+<ce> Eure Schicht als Wachposten
+<ce> endet um 3 Uhr morgens.
 
 QuestComplete:  [1004]
-Gut gemacht, %pcf.
-Diese Diebe hatten keine
-Chance gegen Euch. Hier,
-nehmt das hier [_potion_].
-Das ist wirklich das Mindeste.
+<ce> Gut gemacht, %pcf.
+<ce> Diese Diebe hatten keine
+<ce> Chance gegen Euch. Hier,
+<ce> nehmt das hier [_potion_].
+<ce> Das ist wirklich das Mindeste.
 
 RumorsDuringQuest:  [1005]
 Die Diebe müssen diesen Schatz [_treasure_] in der Magiergilde für sehr wertvoll halten.
@@ -53,13 +53,14 @@ Ich wette, diese Diebe werden nicht noch einmal versuchen, diesen magischen Gege
 Die Diebe, die versucht haben, den Gegenstand [_treasure_] zu stehlen, haben nicht mit einer richtigen Wache gerechnet, darauf wette ich.
 
 QuestorPostsuccess:  [1008]
-Wie geht es Euch, %pcf? Schon eine Verwendung für Eure Belohnung gefunden?
+<ce> Wie geht es Euch, %pcf?
+<ce> Schon eine Verwendung für Eure Belohnung gefunden?
 
 QuestorPostfailure:  [1009]
-Der magische Gegenstand [_treasure_]
-ist weg, aber Ihr seid noch hier? Das
-ist wohl kaum ein gleichwertiger Tausch.
-Verlasst mich auf der Stelle, %pcn.
+<ce> Der magische Gegenstand [_treasure_]
+<ce> ist weg, aber Ihr seid noch hier? Das
+<ce> ist wohl kaum ein gleichwertiger Tausch.
+<ce> Verlasst mich auf der Stelle, %pcn.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -77,15 +78,15 @@ Message:  1011
  sollte. Sie werden mich bestimmt verfolgen.
 
 Message:  1012
-Schaut mal her, Jungs. Ein Wachposten!
-Oh Mann, ich zittere vor Angst. Lasst
-uns seine Zunge als Warnung an die Tür
-nageln, sich nicht mit der Diebesgilde
-anzulegen. Angriff!
+<ce> Schaut mal her, Jungs. Ein Wachposten!
+<ce> Oh Mann, ich zittere vor Angst. Lasst
+<ce> uns seine Zunge als Warnung an die Tür
+<ce> nageln, sich nicht mit der Diebesgilde
+<ce> anzulegen. Angriff!
 
 Message:  1013
-Ich bin hier, um das Kopfgeld
-einzustreichen, dass auf den
-Dieb und Verräter an der
-Magiergilde ausgesetzt wurde.
+<ce> Ich bin hier, um das Kopfgeld
+<ce> einzustreichen, dass auf den
+<ce> Dieb und Verräter an der
+<ce> Magiergilde ausgesetzt wurde.
 

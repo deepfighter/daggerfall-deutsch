@@ -3,62 +3,62 @@ DisplayName: Gnadenstoß
 QRC:
 
 QuestorOffer:  [1000]
-Wenn es Euch nichts ausmacht, mir eine
-kleinen Gefallen zu erweisen, könnte
-ich Eurem Besitz mit Hircines Ring
-eine ganz ausgezeichnete Belohnung
-hinzufügen. Ich habe ein Kind, das
-offensichtlich mit all meinen Segnungen
-unglücklich ist. Es braucht ... wie
-lautet der Euphemismus? ... eine Lektion!
-Eine sehr ernste Lektion. Klingt das
-für Euch nach einem annehmbaren Pakt,
-%pct?
+<ce> Wenn es Euch nichts ausmacht, mir eine
+<ce> kleinen Gefallen zu erweisen, könnte
+<ce> ich Eurem Besitz mit Hircines Ring
+<ce> eine ganz ausgezeichnete Belohnung
+<ce> hinzufügen. Ich habe ein Kind, das
+<ce> offensichtlich mit all meinen Segnungen
+<ce> unglücklich ist. Es braucht ... wie
+<ce> lautet der Euphemismus? ... eine Lektion!
+<ce> Eine sehr ernste Lektion. Klingt das
+<ce> für Euch nach einem annehmbaren Pakt,
+<ce> %pct?
 
 RefuseQuest:  [1001]
-Ich bin schwer enttäuscht %pct.
+<ce> Ich bin schwer enttäuscht %pct.
 <--->
-Selten werde ich beschworen und
-noch seltener bin ich in der Lage,
-eine Beschwörung auch zu beantworten.
-Das war, um es frei heraus zu sagen,
-eine Verschwendung meiner sehr
-kostbaren Zeit.
+<ce> Selten werde ich beschworen und
+<ce> noch seltener bin ich in der Lage,
+<ce> eine Beschwörung auch zu beantworten.
+<ce> Das war, um es frei heraus zu sagen,
+<ce> eine Verschwendung meiner sehr
+<ce> kostbaren Zeit.
 
 AcceptQuest:  [1002]
-Ah, gut. Dieses mein Kind ist ein
-Wereber, der sein Lager an einem
-Ort, der ___mondung_ genannt
-wird, aufgeschlagen hat. Ihr solltet
-keine Schwierigkeiten haben, es
-zu finden. Nachdem Ihr ihn von
-seinem offensichtlichen Elend erlöst
-habt, was nicht länger als =1stparton_ Tage
-einnehmen sollte, geht Ihr nach einem
-__contact_ genannten Ort in
-___contact_ und sucht eine
-Person namens _contact_ auf.
-Wenn Ihr dort innerhalb der nächsten
-=1stparton_ Tage eintrefft, und vorher den
-Wereber erschlagen habt, wird %g Euch
-den Ring von Hircine aushändigen. Es ist
-wahrlich eine Freude, mit Euch Geschäfte
-zu machen, %pct.
-Viel Glück und lebt wohl.
+<ce> Ah, gut. Dieses mein Kind ist ein
+<ce> Wereber, der sein Lager an einem
+<ce> Ort, der ___mondung_ genannt
+<ce> wird, aufgeschlagen hat. Ihr solltet
+<ce> keine Schwierigkeiten haben, es
+<ce> zu finden. Nachdem Ihr ihn von
+<ce> seinem offensichtlichen Elend erlöst
+<ce> habt, was nicht länger als =1stparton_ Tage
+<ce> einnehmen sollte, geht Ihr nach einem
+<ce> __contact_ genannten Ort in
+<ce> ___contact_ und sucht eine
+<ce> Person namens _contact_ auf.
+<ce> Wenn Ihr dort innerhalb der nächsten
+<ce> =1stparton_ Tage eintrefft, und vorher den
+<ce> Wereber erschlagen habt, wird %g Euch
+<ce> den Ring von Hircine aushändigen. Es ist
+<ce> wahrlich eine Freude, mit Euch Geschäfte
+<ce> zu machen, %pct.
+<ce> Viel Glück und lebt wohl.
 
 QuestFail:  [1003]
-Hört zu, %pcf,
-Ihr und ich, wir beide wissen, dass
-der Wereber noch atmet. Pakt ist Pakt!
+<ce> Hört zu, %pcf,
+<ce> Ihr und ich, wir beide wissen, dass
+<ce> der Wereber noch atmet. Pakt ist Pakt!
 
 QuestComplete:  [1004]
-Willkommen, %pcf.
-Ihr habt es geschafft. Hircine
-ist von Euch beeindruckt, was
-keine geringe Leistung ist.
-Hier ist Hircines Ring, der
-Euch versprochen wurde.
-Achtet wohl darauf!
+<ce> Willkommen, %pcf.
+<ce> Ihr habt es geschafft. Hircine
+<ce> ist von Euch beeindruckt, was
+<ce> keine geringe Leistung ist.
+<ce> Hier ist Hircines Ring, der
+<ce> Euch versprochen wurde.
+<ce> Achtet wohl darauf!
 
 RumorsDuringQuest:  [1005]
 Aus ___mondung_ %di von hier ertönt ein echt scheußliches Quieken und Grunzen.
@@ -75,18 +75,6 @@ In letzter Zeit ist es um ___mondung_ herum wirklich still.
 <--->
 Ich frage mich, was mit dem Schweinsvieh passiert ist, dass sich hier immer herumgetrieben hat.
 
-QuestorPostsuccess:  [1008]
-Error: x0c00y00.q tried to display text
-
-QuestorPostsuccess:  [1008]
-.
-
-QuestorPostfailure:  [1009]
-Error: x0c00y00.q tried to display text
-
-QuestorPostfailure:  [1009]
-.
-
 Message:  1011
 Der niederste der Daedrafürsten. Er ist ihr Meister der Jagd.
 <--->
@@ -95,10 +83,10 @@ Es wird gesagt, Hircine sei der Schöpfer aller Lykanthropen.
 Message:  1012
 So ein sich seltsam aufführender =contact_ in __contact_ %di von hier.
 <--->
-Ein =contact_ mit diesem Namen war unlängst in  __contact_ %di von hier.
+Ein =contact_ mit diesem Namen war unlängst in __contact_ %di von hier.
 
 Message:  1013
-Ich habe keine Ahnung, was Hircines Ring bewirkt.
+<ce> Ich habe keine Ahnung, was Hircines Ring bewirkt.
 
 Message:  1020
 %qdt:
@@ -109,7 +97,7 @@ Message:  1020
  Der Wereber muss in =1stparton_ Tagen tot
  und ich in in =1stparton_ Tagen zu
  __contact_ in ___contact_
- sein, um mich mit  _contact_,
+ sein, um mich mit _contact_,
  eine, =contact_ zu treffen
  und Hircines Ring zu erhalten.
 

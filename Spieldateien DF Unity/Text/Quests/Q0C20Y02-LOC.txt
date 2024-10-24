@@ -3,45 +3,45 @@ DisplayName: Teure Magie
 QRC:
 
 QuestorOffer:  [1000]
-Ihr seid den ==questgiver_ Freund,
-dies wissen wir. Aber um Euch zu
-helfen, muss ein Zauber gewoben
-werden; ein Zauber, der zuerst
-zerstören muss, bevor er erschafft.
-Werdet Ihr uns einen Gegenstand
-namens _magicitem_ für unser
-Gebräu bringen, auf dass Euch durch
-seine Vernichtung Segen zuteil wird?
+<ce> Ihr seid den ==questgiver_ Freund,
+<ce> dies wissen wir. Aber um Euch zu
+<ce> helfen, muss ein Zauber gewoben
+<ce> werden; ein Zauber, der zuerst
+<ce> zerstören muss, bevor er erschafft.
+<ce> Werdet Ihr uns einen Gegenstand
+<ce> namens _magicitem_ für unser
+<ce> Gebräu bringen, auf dass Euch durch
+<ce> seine Vernichtung Segen zuteil wird?
 
 RefuseQuest:  [1001]
-Ihr seid für diese Aufgabe zu beschäftigt,
-obwohl Ihr Euch ihrer Bedeutung gewahr seid?
-Bedauerlich für die ==questgiver_ und
-bedauerlich für Euch, %pcn.
+<ce> Ihr seid für diese Aufgabe zu beschäftigt,
+<ce> obwohl Ihr Euch ihrer Bedeutung gewahr seid?
+<ce> Bedauerlich für die ==questgiver_ und
+<ce> bedauerlich für Euch, %pcn.
 
 AcceptQuest:  [1002]
-Die Zutat _magicitem_,
-die wir brauchen, ist im Besitz der
-==other_. Wir benötigen es,
-bevor der Tag =1stparton_ mal gedämmert hat.
-Die Gemeinschaft der ==other_
-kann in ___other_ angetroffen
-werden. Fragt nach _other_.
-Mögen die Götter und Geister Eure Schritte
-leiten, %pcf.
+<ce> Die Zutat _magicitem_,
+<ce> die wir brauchen, ist im Besitz der
+<ce> ==other_. Wir benötigen es,
+<ce> bevor der Tag =1stparton_ mal gedämmert hat.
+<ce> Die Gemeinschaft der ==other_
+<ce> kann in ___other_ angetroffen
+<ce> werden. Fragt nach _other_.
+<ce> Mögen die Götter und Geister Eure Schritte
+<ce> leiten, %pcf.
 
 QuestFail:  [1003]
-_magicitem_, %pcf ...
-Habt Ihr vergessen?
+<ce> _magicitem_, %pcf ...
+<ce> Habt Ihr vergessen?
 
 QuestComplete:  [1004]
-Ah, _magicitem_, die fehlende Zutat
-für unser Gebräu. Geschwind, Schwestern.
-Biegt und brecht und kocht es im
-verschlossenen Bottich. Hier haben wir
-eine _reward_gemme für Euch,
-%pcn, um Euch für Eure
-Eile und Tapferkeit zu entlohnen.
+<ce> Ah, _magicitem_, die fehlende Zutat
+<ce> für unser Gebräu. Geschwind, Schwestern.
+<ce> Biegt und brecht und kocht es im
+<ce> verschlossenen Bottich. Hier haben wir
+<ce> eine _reward_gemme für Euch,
+<ce> %pcn, um Euch für Eure
+<ce> Eile und Tapferkeit zu entlohnen.
 
 RumorsDuringQuest:  [1005]
 Erinnert Ihr Euch noch daran, wie die Hexen einst %t in eine Schnecke verwandelt haben?
@@ -62,15 +62,15 @@ QuestorPostsuccess:  [1008]
 Mögt Ihr Euren _reward_, %pcf? Ich denke, er wird Euch zufriedenstellen.
 
 QuestorPostfailure:  [1009]
-Habt Ihr das _magicitem_ vergessen?
-%oth, nun ist es zu spät.
-Die ==questgiver_ sind enttäuscht,
-%pcf. Wahrlich, das sind wir.
+<ce> Habt Ihr das _magicitem_ vergessen?
+<ce> %oth, nun ist es zu spät.
+<ce> Die ==questgiver_ sind enttäuscht,
+<ce> %pcf. Wahrlich, das sind wir.
 
 QuestLogEntry:  [1010]
-Das _magicitem_ wollt Ihr?
-Es soll für tausend Euer sein.
-Sehr gut, hier habt Ihr.
+<ce> Das _magicitem_ wollt Ihr?
+<ce> Es soll für tausend Euer sein.
+<ce> Sehr gut, hier habt Ihr.
 
 Message:  1011
 Sie ist eine sehr weise Frau der ==questgiver_.
@@ -78,10 +78,10 @@ Sie ist eine sehr weise Frau der ==questgiver_.
 Sie ist eine Frau von den ==questgiver_, mit der nicht zu spaßen ist.
 
 Message:  1020
-Ich gebe dieses _magicitem_
-nicht für weniger als eintausend Goldstücke
-aus den Händen. Und selbst das tue ich
-nur für die ==questgiver_.
+<ce> Ich gebe dieses _magicitem_
+<ce> nicht für weniger als eintausend Goldstücke
+<ce> aus den Händen. Und selbst das tue ich
+<ce> nur für die ==questgiver_.
 
 Message:  1025
 %qdt:

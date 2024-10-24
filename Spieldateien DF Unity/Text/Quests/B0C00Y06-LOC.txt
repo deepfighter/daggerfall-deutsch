@@ -3,38 +3,38 @@ DisplayName: Riesenjagd
 QRC:
 
 QuestorOffer:  [1000]
-Ich traue Euch nicht, %pcn.
-Ihr seid kein Mitglied des Ordens.
-Wenn Ihr mein Vertrauen, vielleicht
-sogar ein wenig Respekt gewinnen
-wollt, dann macht Euch auf und tötet
-den Riesen, der die Höfe überfällt.
-Seid Ihr dem gewachsen?
+<ce> Ich traue Euch nicht, %pcn.
+<ce> Ihr seid kein Mitglied des Ordens.
+<ce> Wenn Ihr mein Vertrauen, vielleicht
+<ce> sogar ein wenig Respekt gewinnen
+<ce> wollt, dann macht Euch auf und tötet
+<ce> den Riesen, der die Höfe überfällt.
+<ce> Seid Ihr dem gewachsen?
 
 RefuseQuest:  [1001]
-Das dachte ich mir. In Eurer Brust
-schlägt das Herz eines Feiglings.
-Euer Anblick widert mich an.
+<ce> Das dachte ich mir. In Eurer Brust
+<ce> schlägt das Herz eines Feiglings.
+<ce> Euer Anblick widert mich an.
 
 AcceptQuest:  [1002]
-Der Riese hat sein Quartier in
-___dungeon_ aufgeschlagen.
-Geht hin und tötet ihn. Es wird
-dort wohl noch andere geben, aber
-die sind mir egal. Ich bin nur an
-dem mit der Brandnarbe auf dem
-Rücken interessiert. Er war es,
-der die Bauern überfallen hat.
-Ihr habt =2dung_ Tage Zeit.
+<ce> Der Riese hat sein Quartier in
+<ce> ___dungeon_ aufgeschlagen.
+<ce> Geht hin und tötet ihn. Es wird
+<ce> dort wohl noch andere geben, aber
+<ce> die sind mir egal. Ich bin nur an
+<ce> dem mit der Brandnarbe auf dem
+<ce> Rücken interessiert. Er war es,
+<ce> der die Bauern überfallen hat.
+<ce> Ihr habt =2dung_ Tage Zeit.
 
 QuestComplete:  [1004]
-Hmm. Ihr schlugt Euch besser als
-erwartet, %pcn. Vielleicht werdet
-Ihr eines Tages doch noch würdig
-sein, diesem Ritterorden anzugehören.
+<ce> Hmm. Ihr schlugt Euch besser als
+<ce> erwartet, %pcn. Vielleicht werdet
+<ce> Ihr eines Tages doch noch würdig
+<ce> sein, diesem Ritterorden anzugehören.
 
 RumorsDuringQuest:  [1005]
-Dieser Riese ist für %cn ein echtes Ärgernis.
+Dieser Riese ist für ___qgiver_ ein echtes Ärgernis.
 <--->
 Viele wünschen sich, dass die Ritter etwas wegen des Riesen unternehmen.
 
@@ -65,7 +65,7 @@ QuestLogEntry:  [1010]
  Ich habe nur =2dung_ Tage Zeit.
 
 Message:  1011
-Auf seinem Rücken ist eine große,
-verbrannte Stelle. Das muss der sein,
-von dem _qgiver_ gesprochen hat.
+<ce> Auf seinem Rücken ist eine große,
+<ce> verbrannte Stelle. Das muss der sein,
+<ce> von dem _qgiver_ gesprochen hat.
 

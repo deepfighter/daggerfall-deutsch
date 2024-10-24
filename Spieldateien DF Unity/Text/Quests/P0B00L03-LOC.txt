@@ -3,57 +3,57 @@ DisplayName: Gebietskämpfe
 QRC:
 
 QuestorOffer:  [1000]
-Kann ich Euch für eine
-gefährliche Mission zum höheren
-Ruhm der %vam interessieren?
+<ce> Kann ich Euch für eine
+<ce> gefährliche Mission zum höheren
+<ce> Ruhm der %vam interessieren?
 
 RefuseQuest:  [1001]
-Ihr wollt es einem anderen Angehörigen
-der %vam überlassen und auf die
-Ehre verzichten? Ganz wie Ihr wünscht,
-doch ich muss zugeben, dass mich Euer
-Ungehorsam enttäuscht.
+<ce> Ihr wollt es einem anderen Angehörigen
+<ce> der %vam überlassen und auf die
+<ce> Ehre verzichten? Ganz wie Ihr wünscht,
+<ce> doch ich muss zugeben, dass mich Euer
+<ce> Ungehorsam enttäuscht.
 
 AcceptQuest:  [1002]
-Ihr seid wunderbar gehorsam, %pcf.
-Ein rivalisierender Vampir hat sich
-in meinem Territorium niedergelassen.
-Ihr werdet ihn töten, solltet aber
-mit Bedacht vorgehen, %pcf. Ein
-vampirischer Ältester ist selbst dann
-ein nicht zu unterschätzender Gegner,
-wenn er aus einem den %vam
-unterlegenen Clans stammt. Zieht nicht
-unvorbereitet in diesen Kampf. Der
-Vampir trägt den Namen _vampname_,
-sein neuer Unterschlupf wird ___mondung_
-genannt. Er ist dafür bekannt, übermäßig
-stolz auf seine aus der Haut seiner Opfer
-gemachte  _vampproof_ zu sein.
-Bringt sie mit Euch zurück. Ich werde Euch
-in den nächsten =1stparton_ Nächten erwarten.
-Lasst Euch nicht töten, %pcf.
+<ce> Ihr seid wunderbar gehorsam, %pcf.
+<ce> Ein rivalisierender Vampir hat sich
+<ce> in meinem Territorium niedergelassen.
+<ce> Ihr werdet ihn töten, solltet aber
+<ce> mit Bedacht vorgehen, %pcf. Ein
+<ce> vampirischer Ältester ist selbst dann
+<ce> ein nicht zu unterschätzender Gegner,
+<ce> wenn er aus einem den %vam
+<ce> unterlegenen Clans stammt. Zieht nicht
+<ce> unvorbereitet in diesen Kampf. Der
+<ce> Vampir trägt den Namen _vampname_,
+<ce> sein neuer Unterschlupf wird ___mondung_
+<ce> genannt. Er ist dafür bekannt, übermäßig
+<ce> stolz auf seine aus der Haut seiner Opfer
+<ce> gemachte _vampproof_ zu sein.
+<ce> Bringt sie mit Euch zurück. Ich werde Euch
+<ce> in den nächsten =1stparton_ Nächten erwarten.
+<ce> Lasst Euch nicht töten, %pcf.
 
 QuestFail:  [1003]
-Habt Ihr vielleicht gehofft,
-_vampname_ würde
-Selbstmord begehen? Unwahrscheinlich.
-Ihr müsst ihm den Tod bringen.
+<ce> Habt Ihr vielleicht gehofft,
+<ce> _vampname_ würde
+<ce> Selbstmord begehen? Unwahrscheinlich.
+<ce> Ihr müsst ihm den Tod bringen.
 
 QuestComplete:  [1004]
-Willkommen zurück, %pcf, mein
-Kind. Seltsam, ich war tatsächlich
-etwas um Euer Wohlergehen besorgt.
-Wie absurd - Sentimentalität bei einem
-Vampir der %vam! Ich überbringe
-Euch die Glückwünsche der %vam-Ältesten.
-Sie hießen mich, Euch diesen _reward_
-zu geben. Haltet es nicht für so etwas
-abgeschmacktes wie Bezahlung. Es ist
-nur ein Geschenk von Eurer Familie.
+<ce> Willkommen zurück, %pcf, mein
+<ce> Kind. Seltsam, ich war tatsächlich
+<ce> etwas um Euer Wohlergehen besorgt.
+<ce> Wie absurd - Sentimentalität bei einem
+<ce> Vampir der %vam! Ich überbringe
+<ce> Euch die Glückwünsche der %vam-Ältesten.
+<ce> Sie hießen mich, Euch diesen _reward_
+<ce> zu geben. Haltet es nicht für so etwas
+<ce> abgeschmacktes wie Bezahlung. Es ist
+<ce> nur ein Geschenk von Eurer Familie.
 
 RumorsDuringQuest:  [1005]
-In  ___mondung_ ist einiges los gewesen, obwohl es seit Jahren verlassen liegt.
+In ___mondung_ ist einiges los gewesen, obwohl es seit Jahren verlassen liegt.
 <--->
 Dieser _vampname_ ist ein Aristokrat. Sagt, %g würde in ___mondung_ und ganz %reg aufräumen.
 
@@ -68,15 +68,16 @@ Es hat sich herausgestellt, dass dieser nette _vampname_ ein Vampir war! Ich hat
 %god sei Dank hat dieser wunderbare %ra-Söldner den Vampir in ___mondung_ getötet.
 
 QuestorPostsuccess:  [1008]
-Grüße, %pcf. Ich hoffe Euch gefällt Euer neuer  _reward_.
+<ce> Grüße, %pcf.
+<ce> Ich hoffe Euch gefällt Euer neuer _reward_.
 
 QuestorPostfailure:  [1009]
-_vampname_ wandelt noch
-immer durch die Nacht, %pcf.
-Ihr seid diesen Auftrag auf
-inakezptable Weise angegangen.
-Die gesamte %vam-Familie ist
-von Euch ... enttäuscht.
+<ce> _vampname_ wandelt noch
+<ce> immer durch die Nacht, %pcf.
+<ce> Ihr seid diesen Auftrag auf
+<ce> inakezptable Weise angegangen.
+<ce> Die gesamte %vam-Familie ist
+<ce> von Euch ... enttäuscht.
 
 Message:  1020
 %pcn,
@@ -108,12 +109,12 @@ Message:  1021
 Ihr habt einen Brief erhalten.
 
 Message:  1022
-Ich bin schon einmal vom Tode
-wiedergekehrt. Ich werde es wieder
-tun. Und sobald ich zurück bin,
-werde ich Euch und _vampire_
-als die widerlichen Blutegel, die
-Ihr seid, zur Strecke bringen!
+<ce> Ich bin schon einmal vom Tode
+<ce> wiedergekehrt. Ich werde es wieder
+<ce> tun. Und sobald ich zurück bin,
+<ce> werde ich Euch und _vampire_
+<ce> als die widerlichen Blutegel, die
+<ce> Ihr seid, zur Strecke bringen!
 
 Message:  1025
 %qdt:

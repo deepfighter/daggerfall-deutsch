@@ -3,39 +3,39 @@ DisplayName: Armee der Untoten
 QRC:
 
 QuestorOffer:  [1000]
-Ich bin _qgiver_, ==qgiver_.
-Ich habe eine sehr gefährliche Quest
-für Euch, %pcn. Ihr gehört zu
-den wenigen, die es vielleicht schaffen
-könnten. Ein Lich hebt eine Armee der
-Untoten aus. Wir brauchen jemanden,
-der loszieht und dem ein Ende setzt.
+<ce> Ich bin _qgiver_, ==qgiver_.
+<ce> Ich habe eine sehr gefährliche Quest
+<ce> für Euch, %pcn. Ihr gehört zu
+<ce> den wenigen, die es vielleicht schaffen
+<ce> könnten. Ein Lich hebt eine Armee der
+<ce> Untoten aus. Wir brauchen jemanden,
+<ce> der loszieht und dem ein Ende setzt.
 
 RefuseQuest:  [1001]
-Ich verstehe, %pcn.
-Das ist sogar für Euch zu
-gefährlich. Es gibt da noch
-ein oder zwei andere Helden,
-die das durchziehen könnten.
-Ich werde sie fragen gehen. 
+<ce> Ich verstehe, %pcn.
+<ce> Das ist sogar für Euch zu
+<ce> gefährlich. Es gibt da noch
+<ce> ein oder zwei andere Helden,
+<ce> die das durchziehen könnten.
+<ce> Ich werde sie fragen gehen. 
 
 AcceptQuest:  [1002]
-Ihr seid wirklich mutig.
-Der Lich hat ___dungeon_
-zu seiner Zuflucht gemacht.
-Geht dorthin und vernichtet
-dieses verfaulte Etwas. Wir
-werden erst jemand anderen
-senden, wenn Ihr in  =2dung_ Tagen
-nicht zurückgekehrt sein. 
+<ce> Ihr seid wirklich mutig.
+<ce> Der Lich hat ___dungeon_
+<ce> zu seiner Zuflucht gemacht.
+<ce> Geht dorthin und vernichtet
+<ce> dieses verfaulte Etwas. Wir
+<ce> werden erst jemand anderen
+<ce> senden, wenn Ihr in =2dung_ Tagen
+<ce> nicht zurückgekehrt sein. 
 
 QuestComplete:  [1004]
-Hoch lebe der Held %pcn!
-Gut gemacht! Euer Name wird
-in die Geschichte eingehen.
+<ce> Hoch lebe der Held %pcn!
+<ce> Gut gemacht! Euer Name wird
+<ce> in die Geschichte eingehen.
 
 RumorsDuringQuest:  [1005]
-Der Große Lich von ___dungeon_ ist wieder erwacht.
+<ce> Der Große Lich von ___dungeon_ ist wieder erwacht.
 
 RumorsPostfailure:  [1006]
 Der Lich von ___dungeon_ ist über die Bucht gegangen, wie ich höre.
@@ -64,7 +64,7 @@ QuestLogEntry:  [1010]
  um die Aufgabe zu erfüllen.
 
 Message:  1011
-Der Lich ist tot. Ohne seine
-magischen Kräfte wird die Armee
-der Untoten ins Grab zurückkehren.
+<ce> Der Lich ist tot. Ohne seine
+<ce> magischen Kräfte wird die Armee
+<ce> der Untoten ins Grab zurückkehren.
 

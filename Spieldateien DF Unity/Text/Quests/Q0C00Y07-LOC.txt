@@ -3,27 +3,27 @@ DisplayName: Gefangene Hexe
 QRC:
 
 QuestorOffer:  [1000]
-Unsere Schwester _witch_ wurde
-gefangen genommen. Wir brauchen jemanden
-wie Euch, um sie zu retten. Willigt Ihr ein?
+<ce> Unsere Schwester _witch_ wurde
+<ce> gefangen genommen. Wir brauchen jemanden
+<ce> wie Euch, um sie zu retten. Willigt Ihr ein?
 
 RefuseQuest:  [1001]
-Ihr habt ein Herz aus Eis, %pcf.
-Welch eine Schande!
+<ce> Ihr habt ein Herz aus Eis, %pcf.
+<ce> Welch eine Schande!
 
 AcceptQuest:  [1002]
-Wenn Ihr das für uns tut, werden wir Euch
-sehr dankbar sein. Gebt ihr dieses Gewand
-zur Verkleidung, sobald Ihr sie in
-___mondung_ findet. Wir erwarten
-Euch beide in =queston_ Tagen zurück, wenn nicht
-schon früher.
+<ce> Wenn Ihr das für uns tut, werden wir Euch
+<ce> sehr dankbar sein. Gebt ihr dieses Gewand
+<ce> zur Verkleidung, sobald Ihr sie in
+<ce> ___mondung_ findet. Wir erwarten
+<ce> Euch beide in =queston_ Tagen zurück, wenn nicht
+<ce> schon früher.
 
 QuestComplete:  [1004]
-_witch_, es tut meinem Herzen gut,
-Euch wohlbehalten hier zu sehen. %pcf,
-Ihr habt Euch heute den Respekt der
-==qgiver_ verdient.
+<ce> _witch_, es tut meinem Herzen gut,
+<ce> Euch wohlbehalten hier zu sehen. %pcf,
+<ce> Ihr habt Euch heute den Respekt der
+<ce> ==qgiver_ verdient.
 
 RumorsDuringQuest:  [1005]
 Wenn sie mit der Befragung von _witch_ fertig sind, warten die Flammen auf sie.
@@ -45,12 +45,12 @@ _witch_ erholt sich prächtig, %pcf,
 es wird Euch sicher freuen, das zu hören.
 
 QuestorPostfailure:  [1009]
-Unsere Schwester _witch_ ist tot,
-bei lebendigem Leibe verbrannt. Vielleicht
-hättet Ihr sie retten können, vielleicht
-auch nicht. Aber Ihr seid hier nicht länger
-willkommen. Vielleicht für sehr lange Zeit
-nicht mehr.
+<ce> Unsere Schwester _witch_ ist tot,
+<ce> bei lebendigem Leibe verbrannt. Vielleicht
+<ce> hättet Ihr sie retten können, vielleicht
+<ce> auch nicht. Aber Ihr seid hier nicht länger
+<ce> willkommen. Vielleicht für sehr lange Zeit
+<ce> nicht mehr.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -61,26 +61,26 @@ QuestLogEntry:  [1010]
  gehalten. Ich soll ihr _clothes_
  geben, um sie zu verkleiden, und
  zu den ==qgiver_ zurückkehren,
- bevor  =queston_ Tage verstrichen sind.
+ bevor =queston_ Tage verstrichen sind.
 
 Message:  1011
-Die ==qgiver_ haben Euch geschickt?
-==daedra_ sei gepriesen! Ich werde
-die _clothes_  anziehen, dann können
-wir von hier verschwinden.
+<ce> Die ==qgiver_ haben Euch geschickt?
+<ce> ==daedra_ sei gepriesen! Ich werde
+<ce> die _clothes_ anziehen, dann können
+<ce> wir von hier verschwinden.
 
 Message:  1012
-"Es ist _witch_, die Gefangene!
-Bleibt stehen! Hexenweib!"
+<ce> "Es ist _witch_, die Gefangene!
+<ce> Bleibt stehen! Hexenweib!"
 <--->
-"Schluss mit Gefängnis, _witch_!
-Diesmal geht es geradewegs zur Exekution!"
+<ce> "Schluss mit Gefängnis, _witch_!
+<ce> Diesmal geht es geradewegs zur Exekution!"
 <--->
-"Halt! Ihr seid _witch_!"
+<ce> "Halt! Ihr seid _witch_!"
 
 Message:  1013
-"Ich denke ich schaffe es von hier
-aus alleine zu den ==qgiver_,"
+<ce> "Ich denke ich schaffe es von hier
+<ce> aus alleine zu den ==qgiver_,"
  
 _witch_ dankt Euch und
 schreitet ihres Weges.

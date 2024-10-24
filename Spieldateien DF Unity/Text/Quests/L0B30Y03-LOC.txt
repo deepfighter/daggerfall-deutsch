@@ -3,44 +3,44 @@ DisplayName: Magiermord
 QRC:
 
 QuestorOffer:  [1000]
-Ich kenne diesen Gesichtsausdruck, %pcf.
-Ihr werdet arrogant, egoistisch und eingebildet.
-Wunderbar mitanzusehen. Trotzdem müsst Ihr Euch
-in Bescheidenheit üben und einen Auftrag mit
-gefährlich politischem Beigeschmack annehmen.
-Wir haben einen Kontrakt auf ein hochrangiges
-Mitglied der Magiergilde. Seid Ihr bereit? 
+<ce> Ich kenne diesen Gesichtsausdruck, %pcf.
+<ce> Ihr werdet arrogant, egoistisch und eingebildet.
+<ce> Wunderbar mitanzusehen. Trotzdem müsst Ihr Euch
+<ce> in Bescheidenheit üben und einen Auftrag mit
+<ce> gefährlich politischem Beigeschmack annehmen.
+<ce> Wir haben einen Kontrakt auf ein hochrangiges
+<ce> Mitglied der Magiergilde. Seid Ihr bereit? 
 
 RefuseQuest:  [1001]
-Dann wischt Euch das fette Grinsen aus dem
-Gesicht, bis Ihr etwas Schneid entwickelt habt.
+<ce> Dann wischt Euch das fette Grinsen aus dem
+<ce> Gesicht, bis Ihr etwas Schneid entwickelt habt.
 
 AcceptQuest:  [1002]
-Ihr enttäuscht mich nicht, %pcf. Ja,
-wir wurden beauftragt, mit diesem Zauberer
-abzurechnen, der übrigens kein Funkensprüher
-ist. Um die Sache etwas interessanter zu
-gestalten, verlässt dieser Zauberer nie die
-Magiergilde - Ihr lauft also Gefahr, ein
-paar Dutzend der zerstörerischsten Hexenmeister
-im Reich aufzustören. Ihr werdet den Zauberer
-in der Magiergilde von __mondung_
-finden. Der Kontrakt gilt für =1stparton_ Tage, dann
-müsst Ihr zurück und der Zauberer tot sein.
-Viel Glück dabei und möge Ihre fürchterliche
-Hoheit Mephala Eure Hände und Fuße lenken.
+<ce> Ihr enttäuscht mich nicht, %pcf. Ja,
+<ce> wir wurden beauftragt, mit diesem Zauberer
+<ce> abzurechnen, der übrigens kein Funkensprüher
+<ce> ist. Um die Sache etwas interessanter zu
+<ce> gestalten, verlässt dieser Zauberer nie die
+<ce> Magiergilde - Ihr lauft also Gefahr, ein
+<ce> paar Dutzend der zerstörerischsten Hexenmeister
+<ce> im Reich aufzustören. Ihr werdet den Zauberer
+<ce> in der Magiergilde von ___mondung_
+<ce> finden. Der Kontrakt gilt für =1stparton_ Tage, dann
+<ce> müsst Ihr zurück und der Zauberer tot sein.
+<ce> Viel Glück dabei und möge Ihre fürchterliche
+<ce> Hoheit Mephala Eure Hände und Fuße lenken.
 
 QuestFail:  [1003]
-Der Hexer lebt noch, %pcf. 
-Scheitert nicht an diesem Auftrag.
+<ce> Der Hexer lebt noch, %pcf. 
+<ce> Scheitert nicht an diesem Auftrag.
 
 QuestComplete:  [1004]
-Der stolze Abrechner kehrt zurück, die Hände
-rot vom Blut des verhassten Zauberers. Jetzt
-habt Ihr etwas erreicht, %pcf. Ihr
-habt nun allen Grund stolz zu sein. Genießt
-Eure _reward_ Goldstücke, %pcf.
-Und grinst ruhig weiter so fett. 
+<ce> Der stolze Abrechner kehrt zurück, die Hände
+<ce> rot vom Blut des verhassten Zauberers. Jetzt
+<ce> habt Ihr etwas erreicht, %pcf. Ihr
+<ce> habt nun allen Grund stolz zu sein. Genießt
+<ce> Eure _reward_ Goldstücke, %pcf.
+<ce> Und grinst ruhig weiter so fett. 
 
 RumorsDuringQuest:  [1005]
 Nun, der Magier hat die Magiergilde verlassen, aber ich bin sicher, dass wir diesen Schurkel wiedersehen. 
@@ -61,9 +61,9 @@ QuestorPostsuccess:  [1008]
 Dieses __mondung_ muss ein elender Ort gewesen sein, %pcf. Wie reizend.
 
 QuestorPostfailure:  [1009]
-Ihr habt diesen Magier am Leben gelassen und glaubt
-immer noch, dass Ihr meine Zeit verdient. Ihr seid
-wirklich egoistisch, %pcf.
+<ce> Ihr habt diesen Magier am Leben gelassen und glaubt
+<ce> immer noch, dass Ihr meine Zeit verdient. Ihr seid
+<ce> wirklich egoistisch, %pcf.
 
 Message:  1020
 %qdt:
@@ -73,6 +73,6 @@ Message:  1020
  bei der Bruderschaft in ___questgiver_ sein.
 
 Message:  1011
-Ihr habt den Magier getötet.
-Die Bruderschaft wird stolz sein.
+<ce> Ihr habt den Magier getötet.
+<ce> Die Bruderschaft wird stolz sein.
 

@@ -3,76 +3,75 @@ DisplayName: Azimutwinkel
 QRC:
 
 QuestorOffer:  [1000]
-%pct, ich bin verwirrt. Vielleicht
-könnt Ihr mir bei meinen Nachforschungen
-behilflich sein.
+<ce> %pct, ich bin verwirrt. Vielleicht
+<ce> könnt Ihr mir bei meinen Nachforschungen
+<ce> behilflich sein.
 <--->
-Hmm, ja, wenn sich die inneren Azimutwinkel
-wirklich am vorderen Pol kreuzen, sollte
-es möglich sein ... was? Oh, %pct,
-ich habe Euch gar nicht dastehen sehen.
-Was für ein Zufall! Ich brauche jemanden,
-der mir bei meiner Forschung hilft.
-Wärt Ihr dafür abkömmlich?
+<ce> Hmm, ja, wenn sich die inneren Azimutwinkel
+<ce> wirklich am vorderen Pol kreuzen, sollte
+<ce> es möglich sein ... was? Oh, %pct,
+<ce> ich habe Euch gar nicht dastehen sehen.
+<ce> Was für ein Zufall! Ich brauche jemanden,
+<ce> der mir bei meiner Forschung hilft.
+<ce> Wärt Ihr dafür abkömmlich?
 
 RefuseQuest:  [1001]
-Oh, das ist schade. Nun, wo war ich?
-Mmm, richtig, die Azimutwinkel. Mal sehen ...
+<ce> Oh, das ist schade. Nun, wo war ich?
+<ce> Mmm, richtig, die Azimutwinkel. Mal sehen ...
 
 AcceptQuest:  [1002]
-Vortrefflich! Ich arbeite, wie Ihr seht, an einem
-besonders heiklen Problem in theoretischer
-angewandter Magie und brauche einen besonderen
-magischen Gegenstsand [_item_], den
-_maker_ höchstselbst hergestellt hat!
-Allen Berichten zufolge eine meisterhafte
-kleine Arbeit, aber meinen Forschungen zufolge
-unmöglich. Die internen Azimutwinkel sind so
-beschaffen, dass ich die extern manifestierten
-lateralen Flusslinien nicht damit übereinbringen
-kann ... Nun, es wäre unschätzbar, das Stück
-für Studienzwecke in meinem Besitz zu wissen,
-aber ich hatte bislang kein Glück dabei, es
-aufzustöbern. Die einzige Referenz, auf die
-ich gestoßen bin, erwähnte einen Katalog in
-der Bibliothek von ... oh ja, heute ist der
-Ort als  ___hintdung_ bekannt.
-Ihr könntet es auch bei  _scholar_
-versuchen, einem meiner Kollegen. _scholar_
-kennt sich mit _maker_ sehr gut aus.
-Hat die definitive Biographie geschrieben,
-obwohl meiner Meinung nach ... ah, nun ja,
-keine Zeit für diese alte Debatte. Ihr findet
-_scholar_ in einem dunklen Loch namens
-___scholardung_. Ich verstehe nicht, wie
-%g es ertragen kann, an einem solchen Ort zu
-arbeiten. Hmm, ja, kommt in, sagen wir, =time1_ Tagen
-zu mir zurück und berichtet mir von Euren Funden.
-Ja? Vortrefflich.
+<ce> Vortrefflich! Ich arbeite, wie Ihr seht, an einem
+<ce> besonders heiklen Problem in theoretischer
+<ce> angewandter Magie und brauche einen besonderen
+<ce> magischen Gegenstsand [_item_], den
+<ce> _maker_ höchstselbst hergestellt hat!
+<ce> Allen Berichten zufolge eine meisterhafte
+<ce> kleine Arbeit, aber meinen Forschungen zufolge
+<ce> unmöglich. Die internen Azimutwinkel sind so
+<ce> beschaffen, dass ich die extern manifestierten
+<ce> lateralen Flusslinien nicht damit übereinbringen
+<ce> kann ... Nun, es wäre unschätzbar, das Stück
+<ce> für Studienzwecke in meinem Besitz zu wissen,
+<ce> aber ich hatte bislang kein Glück dabei, es
+<ce> aufzustöbern. Die einzige Referenz, auf die
+<ce> ich gestoßen bin, erwähnte einen Katalog in
+<ce> der Bibliothek von ... oh ja, heute ist der
+<ce> Ort als ___hintdung_ bekannt.
+<ce> Ihr könntet es auch bei _scholar_
+<ce> versuchen, einem meiner Kollegen. _scholar_
+<ce> kennt sich mit _maker_ sehr gut aus.
+<ce> Hat die definitive Biographie geschrieben,
+<ce> obwohl meiner Meinung nach ... ah, nun ja,
+<ce> keine Zeit für diese alte Debatte. Ihr findet
+<ce> _scholar_ in einem dunklen Loch namens
+<ce> ___scholardung_. Ich verstehe nicht, wie
+<ce> %g es ertragen kann, an einem solchen Ort zu
+<ce> arbeiten. Hmm, ja, kommt in, sagen wir, =time1_ Tagen
+<ce> zu mir zurück und berichtet mir von Euren Funden.
+<ce> Ja? Vortrefflich.
 
 QuestFail:  [1003]
-Was denkt Ihr über diese Vektorlinien?
-Ich habe versucht, Menciphas Theorem zum
-Koeffizientenabgleich anzuwenden, aber
-damit bekomme ich nur Durcheinander.
-Wenn ich vielleicht ...
+<ce> Was denkt Ihr über diese Vektorlinien?
+<ce> Ich habe versucht, Menciphas Theorem zum
+<ce> Koeffizientenabgleich anzuwenden, aber
+<ce> damit bekomme ich nur Durcheinander.
+<ce> Wenn ich vielleicht ...
 
 QuestComplete:  [1004]
-Wer seid Ihr? Oh, beim Himmel, jetzt
-erinnere ich mich. Der magische Gegenstand
-von _maker_, natürlich! Und da ist er.
-Nun, wie es sich so trifft habe ich in
-Eurer Abwesenheit einen Forschungsdurchbruch
-erzielt. Es waren überhaupt nicht die
-Azimutwinkel, der Schlüssel zu dem ganzen
-Problem ist eigentlich ... also, der Punkt ist,
-ich brauche diesen Gegenstand [_item_]
-nicht mehr. Obwohl es ein schönes Stück ist,
-oder? Warum behaltet Ihr es nicht, da Ihr Euch
-schon die Mühe gemacht habt, es für mich zu
-finden. Wenn Ihr mich nun entschuldigen
-würdet, ich muss zurück an die Arbeit.
- 
+<ce> Wer seid Ihr? Oh, beim Himmel, jetzt
+<ce> erinnere ich mich. Der magische Gegenstand
+<ce> von _maker_, natürlich! Und da ist er.
+<ce> Nun, wie es sich so trifft habe ich in
+<ce> Eurer Abwesenheit einen Forschungsdurchbruch
+<ce> erzielt. Es waren überhaupt nicht die
+<ce> Azimutwinkel, der Schlüssel zu dem ganzen
+<ce> Problem ist eigentlich ... also, der Punkt ist,
+<ce> ich brauche diesen Gegenstand [_item_]
+<ce> nicht mehr. Obwohl es ein schönes Stück ist,
+<ce> oder? Warum behaltet Ihr es nicht, da Ihr Euch
+<ce> schon die Mühe gemacht habt, es für mich zu
+<ce> finden. Wenn Ihr mich nun entschuldigen
+<ce> würdet, ich muss zurück an die Arbeit.
 
 RumorsDuringQuest:  [1005]
 Habt Ihr gesehen, wie _questgiver_ letzte Nacht
@@ -83,17 +82,17 @@ RumorsPostfailure:  [1006]
 _questgiver_ ist alt und verrückt, scheint aber noch verzagter als sonst zu sein.
 
 RumorsPostsuccess:  [1007]
-Ein  %ra hat die gesamte Forschung gerettet,
-hat _questgiver_  erzählt.
+Ein %ra hat die gesamte Forschung gerettet,
+hat _questgiver_ erzählt.
 Hey, das wart Ihr, stimmt's?
 
 QuestorPostsuccess:  [1008]
-Hm? Oh, mein guter Freund %pcf.
-Ihr habt überall nach diesem Gegenstand
-[_item_] gesucht, den ich wollte.
+<ce> Hm? Oh, mein guter Freund %pcf.
+<ce> Ihr habt überall nach diesem Gegenstand
+<ce> [_item_] gesucht, den ich wollte.
 
 QuestorPostfailure:  [1009]
-Hm? Sind wir uns schon einmal begegnet?
+<ce> Hm? Sind wir uns schon einmal begegnet?
 
 Message:  1020
 %qdt:
@@ -103,10 +102,10 @@ Message:  1020
  Objekt [_item_] geschickt, das von
  jemandem namens _maker_ hergestellt
  wurde. _questgiver_ schlug vor,
- entweder in ___hintdung_  nach
+ entweder in ___hintdung_ nach
  einem alten Katalog zu suchen oder
  _scholar_, einen Experten in
- Sachen  _maker_, in ___scholardung_
+ Sachen _maker_, in ___scholardung_
  zu Rate zu ziehen. Ich soll _questgiver_
  innerhalb von =time1_ Tagen über meine
  Funde berichten.
@@ -122,7 +121,7 @@ Message:  1022
 %qdt:
  _scholar_ deutete an, dass ich das
  Objekt [_item_] von _maker_
-  möglicherweise irgendwo an einem Ort
+ möglicherweise irgendwo an einem Ort
  namens ___itemdung_ finden könnte.
 
 Message:  1023
@@ -148,7 +147,7 @@ Message:  1025
  nach dem Gegenstand [_item_] zwar nicht
  weiterhelfen, aber ich habe eingewilligt,
  %g2 einige Alchemiezutaten von _contact_,
- __contact_ in  ___contact_,
+ __contact_ in ___contact_,
  zu besorgen und in =time2_ Tagen zurückzukehren.
 
 Message:  1030
@@ -216,104 +215,104 @@ _contact_ --
  -- _scholar_
 
 Message:  1040
-Hallöchen. Das Objekt [_item_] von _maker_,
-sagt Ihr? Ja, ich glaube, ich bin erst letzte
-Woche auf eine Referenz zu genau diesem Ding
-gestoßen. Wo habe ich nur die Notizen hingelegt ...
-da sind sie, mmm - hmm, "besonders das weiche
-Gedanit, das entlang der äußeren Flusslinien
-funkelt" - ein klassischer _maker_, gar
-kein Zweifel. Sieht aus, als hätte es sich in
-___itemdung_ befunden. Zumindest,
-als das hier geschrieben wurde. Viel Glück!
+<ce> Hallöchen. Das Objekt [_item_] von _maker_,
+<ce> sagt Ihr? Ja, ich glaube, ich bin erst letzte
+<ce> Woche auf eine Referenz zu genau diesem Ding
+<ce> gestoßen. Wo habe ich nur die Notizen hingelegt ...
+<ce> da sind sie, mmm - hmm, "besonders das weiche
+<ce> Gedanit, das entlang der äußeren Flusslinien
+<ce> funkelt" - ein klassischer _maker_, gar
+<ce> kein Zweifel. Sieht aus, als hätte es sich in
+<ce> ___itemdung_ befunden. Zumindest,
+<ce> als das hier geschrieben wurde. Viel Glück!
 
 Message:  1041
-Guten Morgen! Hat Euch _contact_ mit
-der Lieferung geschickt, die ich geordert
-hatte? Oh, _questgiver_ sagte, ich
-wüsste vielleicht, wo der magische Gegenstand
-[_item_] von _maker_ zu finden sei?
-Es tut mir Leid, aber dieses Objekt scheint
-kurz nach dem Tod von _maker_ verschwunden
-zu sein und niemand hat seither etwas davon
-gehört. Wirklich schade. Aber könnt Ihr mir
-einen Gefallen tun, wenn Ihr schon einmal hier
-seid? Ich brauche einige Dinge für meine Arbeit
-hier und wäre sehr dankbar, wenn Ihr mir sie
-beschaffen könntet.
+<ce> Guten Morgen! Hat Euch _contact_ mit
+<ce> der Lieferung geschickt, die ich geordert
+<ce> hatte? Oh, _questgiver_ sagte, ich
+<ce> wüsste vielleicht, wo der magische Gegenstand
+<ce> [_item_] von _maker_ zu finden sei?
+<ce> Es tut mir Leid, aber dieses Objekt scheint
+<ce> kurz nach dem Tod von _maker_ verschwunden
+<ce> zu sein und niemand hat seither etwas davon
+<ce> gehört. Wirklich schade. Aber könnt Ihr mir
+<ce> einen Gefallen tun, wenn Ihr schon einmal hier
+<ce> seid? Ich brauche einige Dinge für meine Arbeit
+<ce> hier und wäre sehr dankbar, wenn Ihr mir sie
+<ce> beschaffen könntet.
 
 Message:  1042
-Ausgezeichnet. Lasst mich nur schnell notieren,
-was ich brauche ... hier. Bringt diese Liste zu
-_contact_, __contact_ in
-___contact_. Ich traue keinem anderen zu
-mir genau die Zutaten zu beschaffen, die ich
-benötige. Ich erwarte Euch in  =time2_ Tagen
-zurück. Seid bitte pünktlich.
+<ce> Ausgezeichnet. Lasst mich nur schnell notieren,
+<ce> was ich brauche ... hier. Bringt diese Liste zu
+<ce> _contact_, __contact_ in
+<ce> ___contact_. Ich traue keinem anderen zu
+<ce> mir genau die Zutaten zu beschaffen, die ich
+<ce> benötige. Ich erwarte Euch in =time2_ Tagen
+<ce> zurück. Seid bitte pünktlich.
 
 Message:  1043
-Zu beschäftigt, was? Nun, es war schön,
-mit Euch zu sprechen. Ich werde Euch nicht
-zur Tür zeigen, wenn es Euch nichts ausmacht.
+<ce> Zu beschäftigt, was? Nun, es war schön,
+<ce> mit Euch zu sprechen. Ich werde Euch nicht
+<ce> zur Tür zeigen, wenn es Euch nichts ausmacht.
  
- Guten Tag!
+<ce> Guten Tag!
 
 Message:  1044
-Noch eine Einkaufsliste von _scholar_, hm?
-Ich schwöre, wenn ich %g2 noch eine Lieferung
-schicke, ohne bezahlt zu werden ... "Setzt es
-auf meine Rechnung", ha! Das reicht. Hört zu,
-ich werde Euch die Probe _ingredient_ geben,
-die %g verlangt, aber der Rest wird extra bestellt
-werden müssen, was ich nicht tun werde, bis %g
-mich für alles andere bezahlt, das ich %g2 geschickt
-habe. Es tut mir Leid, aber mehr geht nicht.
+<ce> Noch eine Einkaufsliste von _scholar_, hm?
+<ce> Ich schwöre, wenn ich %g2 noch eine Lieferung
+<ce> schicke, ohne bezahlt zu werden ... "Setzt es
+<ce> auf meine Rechnung", ha! Das reicht. Hört zu,
+<ce> ich werde Euch die Probe _ingredient_ geben,
+<ce> die %g verlangt, aber der Rest wird extra bestellt
+<ce> werden müssen, was ich nicht tun werde, bis %g
+<ce> mich für alles andere bezahlt, das ich %g2 geschickt
+<ce> habe. Es tut mir Leid, aber mehr geht nicht.
 
 Message:  1045
-Oh, Ihr seid es. Habt Ihr mir die Vorräte
-mitgebracht, um die ich gebeten hatte?
-Was, _contact_ wollte Euch nur _ingredient_
-geben? So was von starrköpfig! Ich werde %g2
-meine Meinung sagen, wenn ich hier rauskomme.
-Aber naja, besser als nichts, nehme ich an.
-Sucht Ihr immer noch nach diesem Gegenstand
-[_item_]? Ich habe einen Verweis auf
-einen alten Ausstellungskatalog der Arbeiten
-von _maker_ gefunden. Dieser Katalog
-befindet sich in ___hintdung_.
-Tatsächlich kann ich Euch sogar gleich dorthin
-teleportieren, wenn Ihr wollt. Den Weg hinaus
-müsst Ihr dann natürlich selbst finden.
+<ce> Oh, Ihr seid es. Habt Ihr mir die Vorräte
+<ce> mitgebracht, um die ich gebeten hatte?
+<ce> Was, _contact_ wollte Euch nur _ingredient_
+<ce> geben? So was von starrköpfig! Ich werde %g2
+<ce> meine Meinung sagen, wenn ich hier rauskomme.
+<ce> Aber naja, besser als nichts, nehme ich an.
+<ce> Sucht Ihr immer noch nach diesem Gegenstand
+<ce> [_item_]? Ich habe einen Verweis auf
+<ce> einen alten Ausstellungskatalog der Arbeiten
+<ce> von _maker_ gefunden. Dieser Katalog
+<ce> befindet sich in ___hintdung_.
+<ce> Tatsächlich kann ich Euch sogar gleich dorthin
+<ce> teleportieren, wenn Ihr wollt. Den Weg hinaus
+<ce> müsst Ihr dann natürlich selbst finden.
  
-Soll ich Euch nach ___hintdung_
-teleportieren?
+<ce> Soll ich Euch nach ___hintdung_
+<ce> teleportieren?
 
 Message:  1046
-Dann haltet Euch fest! Und nehmt auch noch
-das hier [_scholarreward_] mit!
-Ich weiß es sehr zu schätzen, dass Ihr
-mir diese Portion _ingredient_
-beschafft habt. Und jetzt ab mit Euch
-nach ___hintdung_.
+<ce> Dann haltet Euch fest! Und nehmt auch noch
+<ce> das hier [_scholarreward_] mit!
+<ce> Ich weiß es sehr zu schätzen, dass Ihr
+<ce> mir diese Portion _ingredient_
+<ce> beschafft habt. Und jetzt ab mit Euch
+<ce> nach ___hintdung_.
 
 Message:  1047
-Wie Ihr wünscht. Nehmt auch noch das
-hier [_scholarreward_] mit, bevor
-ihr geht. Ich weiß es sehr zu schätzen,
-dass Ihr mir diese Portion _ingredient_
-beschafft habt. Ich hoffe, Ihr findet
-Euer Objekt [_item_].
+<ce> Wie Ihr wünscht. Nehmt auch noch das
+<ce> hier [_scholarreward_] mit, bevor
+<ce> ihr geht. Ich weiß es sehr zu schätzen,
+<ce> dass Ihr mir diese Portion _ingredient_
+<ce> beschafft habt. Ich hoffe, Ihr findet
+<ce> Euer Objekt [_item_].
 
 Message:  1050
-Das ist ohne jeden Zweifel das Objekt
-[_item_] von _maker_.
+<ce> Das ist ohne jeden Zweifel das Objekt
+<ce> [_item_] von _maker_.
 
 Message:  1060
-Hallo %pcn. Konntet Ihr das Objekt
-[_item_] von _maker_ aufzustöbern?
-Ach je, das ist zu schade, aber ich
-bin sicher, dass ich das Problem auch
-irgendwie umgehen kann. Ich weiß, Ihr
-habt Euer Bestes gegeben. Hier sind
-_gold_ Goldstücke für Eure Mühen.
- 
+<ce> Hallo %pcn. Konntet Ihr das Objekt
+<ce> [_item_] von _maker_ aufzustöbern?
+<ce> Ach je, das ist zu schade, aber ich
+<ce> bin sicher, dass ich das Problem auch
+<ce> irgendwie umgehen kann. Ich weiß, Ihr
+<ce> habt Euer Bestes gegeben. Hier sind
+<ce> _gold_ Goldstücke für Eure Mühen.
+

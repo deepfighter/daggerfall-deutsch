@@ -3,66 +3,66 @@ DisplayName: Ungezieferjagd
 QRC:
 
 QuestorOffer:  [1000]
-Ich bin _qgiver_.
-Ich hätte da einen relativ schlichten
-Auftrag, falls Ihr Euch dazu bereiterklärt.
-Es gibt tatsächlich Mitglieder, die solche
-Aufträge vorziehen würden, denn sie sind
-fast so gut bezahlt wie echte Herausforderungen.
-Ein Haus hier in der Stadt ist von riesigen
-Nagern befallen. Die Frau behauptet, es sind
-Ratten, der Mann sagt, es sind Fledermäuse.
-In jedem Fall wollen sie, dass sie verschwinden.
-Seid Ihr interessiert?
+<ce> Ich bin _qgiver_.
+<ce> Ich hätte da einen relativ schlichten
+<ce> Auftrag, falls Ihr Euch dazu bereiterklärt.
+<ce> Es gibt tatsächlich Mitglieder, die solche
+<ce> Aufträge vorziehen würden, denn sie sind
+<ce> fast so gut bezahlt wie echte Herausforderungen.
+<ce> Ein Haus hier in der Stadt ist von riesigen
+<ce> Nagern befallen. Die Frau behauptet, es sind
+<ce> Ratten, der Mann sagt, es sind Fledermäuse.
+<ce> In jedem Fall wollen sie, dass sie verschwinden.
+<ce> Seid Ihr interessiert?
 
 RefuseQuest:  [1001]
-Offensichtlich habt Ihr nichts für
-die Kriegergilde übrig. Ich werde
-dafür sorgen, dass alle erfahren,
-was Ihr wirklich denkt.
+<ce> Offensichtlich habt Ihr nichts für
+<ce> die Kriegergilde übrig. Ich werde
+<ce> dafür sorgen, dass alle erfahren,
+<ce> was Ihr wirklich denkt.
 
 AcceptQuest:  [1002]
-Die Fledermäuse haben dieses Gebäude
-[_house_] hier befallen.
-Geht hin, tötet alle und Ihr werdet
-bezahlt. Ich kann Euch dafür aber
-nur einen Tag Zeit geben.
+<ce> Die Fledermäuse haben dieses Gebäude
+<ce> [_house_] hier befallen.
+<ce> Geht hin, tötet alle und Ihr werdet
+<ce> bezahlt. Ich kann Euch dafür aber
+<ce> nur einen Tag Zeit geben.
 
 QuestComplete:  [1004]
-Fledermäuse zu töten ist zwar nicht
-sehr schwierig, selbst wenn es
-Riesenfledermäuse sind - wird aber
-auch nicht schlechter bezahlt, was?
+<ce> Fledermäuse zu töten ist zwar nicht
+<ce> sehr schwierig, selbst wenn es
+<ce> Riesenfledermäuse sind - wird aber
+<ce> auch nicht schlechter bezahlt, was?
 
 RumorsDuringQuest:  [1005]
-Irgendeine Idiotin hat monatelang
-ihr Dach nicht repariert. Jetzt
-hat sie Riesenfledermäuse im Haus.
+<ce> Irgendeine Idiotin hat monatelang
+<ce> ihr Dach nicht repariert. Jetzt
+<ce> hat sie Riesenfledermäuse im Haus.
 
 RumorsPostfailure:  [1006]
-Habt Ihr von der Frau gehört,
-die ihr Haus verlassen musste?
-Riesenfledermäuse hatten es
-besetzt und ihr fehlte das Geld,
-um die Kriegergilde zu bezahlen.
+<ce> Habt Ihr von der Frau gehört,
+<ce> die ihr Haus verlassen musste?
+<ce> Riesenfledermäuse hatten es
+<ce> besetzt und ihr fehlte das Geld,
+<ce> um die Kriegergilde zu bezahlen.
 
 RumorsPostsuccess:  [1007]
-Ein %ra wurde von der Kriegergilde losgeschickt,
-um die Fledermäuse im Haus dieser Frau zu töten.
-Hat sie zwar eine Stange Geld gekostet, aber
-ich schätze, das ist besser als auszuziehen.
+<ce> Ein %ra wurde von der Kriegergilde losgeschickt,
+<ce> um die Fledermäuse im Haus dieser Frau zu töten.
+<ce> Hat sie zwar eine Stange Geld gekostet, aber
+<ce> ich schätze, das ist besser als auszuziehen.
 
 QuestorPostsuccess:  [1008]
-Ihr habt also die Riesenfledermäuse
-getötet. Bildet Euch nur nicht zu
-viel darauf ein. Das waren nur
-riesige Fledermäuse.
+<ce> Ihr habt also die Riesenfledermäuse
+<ce> getötet. Bildet Euch nur nicht zu
+<ce> viel darauf ein. Das waren nur
+<ce> riesige Fledermäuse.
 
 QuestorPostfailure:  [1009]
-Ihr konntet Euch nichtmal um
-Riesenfledermäuse kümmern. Ihr
-seid ein hoffnungsloser Fall,
-%pcn.
+<ce> Ihr konntet Euch nichtmal um
+<ce> Riesenfledermäuse kümmern. Ihr
+<ce> seid ein hoffnungsloser Fall,
+<ce> %pcn.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -71,7 +71,15 @@ QuestLogEntry:  [1010]
  von Riesenfledermäusen oder -ratten
  zu säubern. Ich habe dafür einen Tag Zeit.
 
+Message:  1011
+<ce> Ihr vernehmt leise das Kratzen mehrerer Rattenkrallen, wie
+<ce> sie über den Boden schaben. Sie scheinen näher zu kommen.
+
+Message:  1012
+<ce> Ihr hört schwach das Zirpen mehrerer Fledermäuse, die
+<ce> in der Ferne flattern. Sie scheinen näher zu kommen.
+
 Message:  1020
-Das waren die allermeisten. Die Kriegergilde
-wird wegen dem Rest nicht kleinlich sein.
+<ce> Das waren die allermeisten. Die Kriegergilde
+<ce> wird wegen dem Rest nicht kleinlich sein.
 

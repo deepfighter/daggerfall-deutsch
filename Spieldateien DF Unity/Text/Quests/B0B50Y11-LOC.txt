@@ -3,33 +3,33 @@ DisplayName: Exorzismus
 QRC:
 
 QuestorOffer:  [1000]
-Ich bin _qgiver_.
-Einer der hier ansässigen
-Adligen, _nobleman_,
-hat soeben die Besitzurkunde
-für ein herrenloses Grundstück
-erhalten. Leider hat %g zu spät
-gemerkt, dass es dort spukt.
-Jemand muss hingehen und den
-Geist austreiben. Wollt Ihr
-diese Quest übernehmen?
+<ce> Ich bin _qgiver_.
+<ce> Einer der hier ansässigen
+<ce> Adligen, _nobleman_,
+<ce> hat soeben die Besitzurkunde
+<ce> für ein herrenloses Grundstück
+<ce> erhalten. Leider hat %g zu spät
+<ce> gemerkt, dass es dort spukt.
+<ce> Jemand muss hingehen und den
+<ce> Geist austreiben. Wollt Ihr
+<ce> diese Quest übernehmen?
 
 RefuseQuest:  [1001]
-Geister sind normalerweise
-auch ein Tempelproblem.
-Vielleicht sollte ich die
-Sache denen überlassen.
+<ce> Geister sind normalerweise
+<ce> auch ein Tempelproblem.
+<ce> Vielleicht sollte ich die
+<ce> Sache denen überlassen.
 
 AcceptQuest:  [1002]
-_nobleman_ will in =2dung_ Tagen
-mit dem Wiederaufbau beginnen.
-Der Ort heißt ___dungeon_,
-dort findet Ihr den Geist.
+<ce> _nobleman_ will in =2dung_ Tagen
+<ce> mit dem Wiederaufbau beginnen.
+<ce> Der Ort heißt ___dungeon_,
+<ce> dort findet Ihr den Geist.
 
 QuestComplete:  [1004]
-_nobleman_ wird erfreut
-sein und hat sogar angeboten,
-Euch einen Brunnen zu widmen.
+<ce> _nobleman_ wird erfreut
+<ce> sein und hat sogar angeboten,
+<ce> Euch einen Brunnen zu widmen.
 
 RumorsDuringQuest:  [1005]
 _nobleman_ muss verrückt gewesen sein, einen Kaufvertrag über ___dungeon_ abzuschließen.Verrückt oder dumm.
@@ -49,14 +49,14 @@ QuestorPostfailure:  [1009]
 QuestLogEntry:  [1010]
 %qdt:
  _qgiver_, ==qgiver_
- in  ___qgiver_,  hat mich
- gebeten,  mich um einen Geist
+ in ___qgiver_, hat mich
+ gebeten, mich um einen Geist
  zu kümmern, der ___dungeon_
  heimsucht. In =2dung_ Tagen müssen
  sie mit dem Wiederaufbau beginnen.
 
 Message:  1011
-Der Geist wurde zur letzten Ruhe 
-gebracht. _nobleman _ kann
-___dungeon_ nun wiederaufbauen.
+<ce> Der Geist wurde zur letzten Ruhe 
+<ce> gebracht. _nobleman _ kann
+<ce> ___dungeon_ nun wiederaufbauen.
 

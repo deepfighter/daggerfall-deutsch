@@ -3,88 +3,88 @@ DisplayName: Die Heilung
 QRC:
 
 QuestorOffer:  [1000]
-Verzeihet, seid Ihr ein Medicus oder
-verfügt Ihr über heilende Fähigkeiten?
-Ich bedarf dringend der Hilfe eines
-kundigen Heilers, um meinen Vetter zu
-retten.
+<ce> Verzeihet, seid Ihr ein Medicus oder
+<ce> verfügt Ihr über heilende Fähigkeiten?
+<ce> Ich bedarf dringend der Hilfe eines
+<ce> kundigen Heilers, um meinen Vetter zu
+<ce> retten.
 <--->
-Mein Vetter schwebt in höchster
-Lebensgefahr! Könnt Ihr mir beistehen?
+<ce> Mein Vetter schwebt in höchster
+<ce> Lebensgefahr! Könnt Ihr mir beistehen?
 
 RefuseQuest:  [1001]
-Ach, wie bedauerlich. Ich hätte Eure
-Hilfe gut gebrauchen können.
+<ce> Ach, wie bedauerlich. Ich hätte Eure
+<ce> Hilfe gut gebrauchen können.
 <--->
-Mein gewohntes Pech, so scheint es.
-Doch dennoch, habt Dank für Eure Zeit.
+<ce> Mein gewohntes Pech, so scheint es.
+<ce> Doch dennoch, habt Dank für Eure Zeit.
 <--->
-Verzeiht, dass ich Euch bemüht habe.
+<ce> Verzeiht, dass ich Euch bemüht habe.
 
 AcceptQuest:  [1002]
-Mein tiefster Dank gebührt Euch!
-Mein Name ist _giver_.
-Soeben habe ich erfahren, dass mein
-Vetter, _cousin_, in ___cousin_
-schwerlich erkrankt ist und in den
-kommenden =questtime_ Tagen womöglich das
-Zeitliche segnen wird! Ich wäre Euch
-überaus dankbar für jede Hilfe, die
-Ihr ihm zukommen lassen könnt. Hier
-sind _gold1_ Goldstücke. Ich werde Euch
-weitere _gold2_ Goldstücke überreichen,
-solltet Ihr %g2 von seiner Krankheit
-befreien können.
+<ce> Mein tiefster Dank gebührt Euch!
+<ce> Mein Name ist _giver_.
+<ce> Soeben habe ich erfahren, dass mein
+<ce> Vetter, _cousin_, in ___cousin_
+<ce> schwerlich erkrankt ist und in den
+<ce> kommenden =questtime_ Tagen womöglich das
+<ce> Zeitliche segnen wird! Ich wäre Euch
+<ce> überaus dankbar für jede Hilfe, die
+<ce> Ihr ihm zukommen lassen könnt. Hier
+<ce> sind _gold1_ Goldstücke. Ich werde Euch
+<ce> weitere _gold2_ Goldstücke überreichen,
+<ce> solltet Ihr %g2 von seiner Krankheit
+<ce> befreien können.
 
 QuestComplete:  [1004]
-Habt Dank, dass Ihr mir den heilenden
-Talisman gebracht habt, %pcn.
-Hier ist das restliche Gold, das mein
-Vetter Euch versprochen hat. Ich kann
-Euch wahrlich nicht genug danken. Möge
-Euch auf all Euren zukünftigen Reisen
-stets Glück und Sicherheit begleiten.
+<ce> Habt Dank, dass Ihr mir den heilenden
+<ce> Talisman gebracht habt, %pcn.
+<ce> Hier ist das restliche Gold, das mein
+<ce> Vetter Euch versprochen hat. Ich kann
+<ce> Euch wahrlich nicht genug danken. Möge
+<ce> Euch auf all Euren zukünftigen Reisen
+<ce> stets Glück und Sicherheit begleiten.
 
 RumorsDuringQuest:  [1005]
-Es ist wahrlich bedauerlich um
-_giver_s Vetter. Man sagt,
-es war eine tödliche Krankheit.
+<ce> Es ist wahrlich bedauerlich um
+<ce> _giver_s Vetter. Man sagt,
+<ce> es war eine tödliche Krankheit.
 
 RumorsPostfailure:  [1006]
-_cousin_ aus ___cousin_
-ist dem Zaubererfluch erlegen. Es heißt,
-die Seuche könnte nun auch hier um sich
-greifen.
+<ce> _cousin_ aus ___cousin_
+<ce> ist dem Zaubererfluch erlegen. Es heißt,
+<ce> die Seuche könnte nun auch hier um sich
+<ce> greifen.
 <--->
-_giver_ ist völlig erschöpft
-vor Trauer. %g3 Vetter in ___cousin_
-hat vor Kurzem das Zeitliche gesegnet.
+<ce> _giver_ ist völlig erschöpft
+<ce> vor Trauer. %g3 Vetter in ___cousin_
+<ce> hat vor Kurzem das Zeitliche gesegnet.
 
 RumorsPostsuccess:  [1007]
-Habt Ihr gehört? Es geschah ein wahres
-Wunder in ___cousin_!
+<ce> Habt Ihr gehört? Es geschah ein wahres
+<ce> Wunder in ___cousin_!
 <--->
-_giver_ hat dem Tempel eine
-großzügige Summe Gold gespendet. Man
-munkelt, %g3 Vetter sei auf wundersame
-Weise genesen.
+<ce> _giver_ hat dem Tempel eine
+<ce> großzügige Summe Gold gespendet. Man
+<ce> munkelt, %g3 Vetter sei auf wundersame
+<ce> Weise genesen.
 <--->
-Seid Ihr nicht der edle %ra, der
-diese arme Seele in ___cousin_
-geheilt hat?
+<ce> Seid Ihr nicht der edle %ra, der
+<ce> diese arme Seele in ___cousin_
+<ce> geheilt hat?
 
 QuestorPostsuccess:  [1008]
-Gesegnet seiet Ihr, %pcf.
-Ich werde niemals vergessen, was
-Ihr für _cousin_ und mich
-getan habt. %g hat sich endlich
-vom Zaubererfluch erholt.
+<ce> Gesegnet seiet Ihr, %pcf.
+<ce> Ich werde niemals vergessen, was
+<ce> Ihr für _cousin_ und mich
+<ce> getan habt. %g hat sich endlich
+<ce> vom Zaubererfluch erholt.
 
 QuestorPostfailure:  [1009]
-%pcn! Ihr befleckt mit Eurem
-Atem unsere Luft. Meinetwegen ist
-mein Vetter gestorben. Verschwindet!
-Hinaus mit Euch!
+<ce> %pcn! Ihr befleckt mit Eurem
+<ce> Atem unsere Luft. Meinetwegen ist
+<ce> mein Vetter gestorben. Verschwindet!
+<ce> Hinaus mit Euch!
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -106,47 +106,47 @@ Message:  1011
  Heilmittel besitzt.
 
 Message:  1012
-Ich habe von %g3 Übel vernommen. Bislang
-hat keiner der hiesigen Balsamierer ein
-Heilmittel ersinnen können.
+<ce> Ich habe von %g3 Übel vernommen. Bislang
+<ce> hat keiner der hiesigen Balsamierer ein
+<ce> Heilmittel ersinnen können.
 <--->
-Ich vernahm wohl etwas über %g2 und die
-unheimliche, tödliche Krankheit, die %g3
-befallen hat. Ein trauriges Los, wahrlich.
+<ce> Ich vernahm wohl etwas über %g2 und die
+<ce> unheimliche, tödliche Krankheit, die %g3
+<ce> befallen hat. Ein trauriges Los, wahrlich.
 <--->
-Ja, die Kunde ist mir zu Ohren gekommen.
-Es dünkt mir, als handele es sich um einen
-Zaubererfluch.
+<ce> Ja, die Kunde ist mir zu Ohren gekommen.
+<ce> Es dünkt mir, als handele es sich um einen
+<ce> Zaubererfluch.
 <--->
-Niemand weiß, was %g2 fehlt, doch es wird
-gemunkelt, dass %g nur noch wenige Tage zu
-leben habe.
+<ce> Niemand weiß, was %g2 fehlt, doch es wird
+<ce> gemunkelt, dass %g nur noch wenige Tage zu
+<ce> leben habe.
 <--->
-Ein höchst unglückseliger Fall. Niemand
-vermag zu sagen, was %g2 fehlt. Vielleicht
-solltet Ihr einen Heiler namens _healer_
-aufsuchen. Es heißt, %g habe ein enzyklopädisches
-Wissen um seltene Krankheiten.
+<ce> Ein höchst unglückseliger Fall. Niemand
+<ce> vermag zu sagen, was %g2 fehlt. Vielleicht
+<ce> solltet Ihr einen Heiler namens _healer_
+<ce> aufsuchen. Es heißt, %g habe ein enzyklopädisches
+<ce> Wissen um seltene Krankheiten.
 <--->
-Oh ja, derjenige mit dem zehrenden Fieber.
+<ce> Oh ja, derjenige mit dem zehrenden Fieber.
 
 Message:  1013
-Seid gegrüßt. Ja, ich habe von _cousin_
-in ___cousin_ und %g3 Leiden gehört. Es
-ist ein Zaubererfluch, dies weiß ich wohl.
-Wie dem auch sei, ich besitze einen besonderen
-Talisman, der jene Krankheit zu heilen vermag.
-Doch kann er nur einmalig genutzt werden.
-Ich biete ihn Euch für 20 Goldstücke an.
-Bitte sehr. Ich danke Euch von Herzen.
+<ce> Seid gegrüßt. Ja, ich habe von _cousin_
+<ce> in ___cousin_ und %g3 Leiden gehört. Es
+<ce> ist ein Zaubererfluch, dies weiß ich wohl.
+<ce> Wie dem auch sei, ich besitze einen besonderen
+<ce> Talisman, der jene Krankheit zu heilen vermag.
+<ce> Doch kann er nur einmalig genutzt werden.
+<ce> Ich biete ihn Euch für 20 Goldstücke an.
+<ce> Bitte sehr. Ich danke Euch von Herzen.
 
 Message:  1015
-Seid gegrüßt. Ja, ich habe von _cousin_
-in ___cousin_ und %g3 Übel gehört. Es
-ist ein Zaubererfluch, dies weiß ich wohl.
-Doch seht, ich habe einen Talisman, der die Krankheit
-heilen könnte. Allein, Ihr besitzt nicht genügend
-Gold, um diesen zu erwerben.
+<ce> Seid gegrüßt. Ja, ich habe von _cousin_
+<ce> in ___cousin_ und %g3 Übel gehört. Es
+<ce> ist ein Zaubererfluch, dies weiß ich wohl.
+<ce> Doch seht, ich habe einen Talisman, der die Krankheit
+<ce> heilen könnte. Allein, Ihr besitzt nicht genügend
+<ce> Gold, um diesen zu erwerben.
 
 Message:  1017
 %qdt:
@@ -156,29 +156,29 @@ Message:  1017
  leidet.
 
 Message:  1019
-Ihr nutzt den Talisman, und er verschwindet auf magische Weise.
+<ce> Ihr nutzt den Talisman, und er verschwindet auf magische Weise.
 
 Message:  1030
-Ich fühle mich so schwach. Ich weiß nicht, was
-mich plagt. Mein Vetter, _giver_,
-hat Euch gesandt, um mir zu helfen? Oh, danke,
-danke! Ich habe erst jüngst von einem Heiler
-namens _healer_ in ___healer_
-gehört, der mir möglicherweise Heilung bringen
-kann. Bitte, eilet zu %g2 und bringt mir das
-Heilmittel, ehe es zu spät ist!
+<ce> Ich fühle mich so schwach. Ich weiß nicht, was
+<ce> mich plagt. Mein Vetter, _giver_,
+<ce> hat Euch gesandt, um mir zu helfen? Oh, danke,
+<ce> danke! Ich habe erst jüngst von einem Heiler
+<ce> namens _healer_ in ___healer_
+<ce> gehört, der mir möglicherweise Heilung bringen
+<ce> kann. Bitte, eilet zu %g2 und bringt mir das
+<ce> Heilmittel, ehe es zu spät ist!
 
 Message:  1040
-Es heißt, _healer_ sei in den
-obskursten Künsten der Heilkunde bewandert.
+<ce> Es heißt, _healer_ sei in den
+<ce> obskursten Künsten der Heilkunde bewandert.
 <--->
-_healer_? Lebt in ___healer_, soviel ich weiß.
+<ce> _healer_? Lebt in ___healer_, soviel ich weiß.
 
 Message:  1041
-_healer_ ist weithin als der beste Medicus bekannt,
-so sagt man. Ihr findet %g2 in ___healer_.
+<ce> _healer_ ist weithin als der beste Medicus bekannt,
+<ce> so sagt man. Ihr findet %g2 in ___healer_.
 <--->
-Ich habe von _healer_ in ___healer_ gehört.
-%g hat sich einen Namen gemacht, indem %g selbst
-die schwersten Fälle heilte.
+<ce> Ich habe von _healer_ in ___healer_ gehört.
+<ce> %g hat sich einen Namen gemacht, indem %g selbst
+<ce> die schwersten Fälle heilte.
 

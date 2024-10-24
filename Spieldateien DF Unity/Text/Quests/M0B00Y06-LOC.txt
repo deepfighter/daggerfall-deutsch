@@ -3,34 +3,35 @@ DisplayName: Wildtier
 QRC:
 
 QuestorOffer:  [1000]
-Ich bin _qgiver_.
-Wir haben da eine Anfrage von einem
-hiesigen Bürger. Sieht aus, als wäre
-ein Wildtier in sein Haus eingedrungen.
-Wir suchen jemanden, der das Viech tötet.
-Die Gilde wird _gold_ Goldstücke zahlen.
-Wollt Ihr das übernehmen, %pcn?
+<ce> Ich bin _qgiver_.
+<ce> Wir haben da eine Anfrage von einem
+<ce> hiesigen Bürger. Sieht aus, als wäre
+<ce> ein Wildtier in sein Haus eingedrungen.
+<ce> Wir suchen jemanden, der das Viech tötet.
+<ce> Die Gilde wird _gold_ Goldstücke zahlen.
+<ce> Wollt Ihr das übernehmen, %pcn?
 
 RefuseQuest:  [1001]
-Jemand anderes ist sicher
-bereit, sich um dieses
-Problem zu kümmern.
+<ce> Jemand anderes ist sicher
+<ce> bereit, sich um dieses
+<ce> Problem zu kümmern.
 
 AcceptQuest:  [1002]
-"Gut, %pcf. Geht rüber zu diesem
-Haus [_house_] hier in
-der Stadt und erledigt das innerhalb
-eines Tages. Keiner hat gerne ein Tier
-in seinem Haus herumstreunen. Kommt wieder,
-wenn das Biest tot ist, dann halte ich
-Eure Bezahlung bereit."
+<ce> "Gut, %pcf. Geht rüber zu diesem
+<ce> Haus [_house_] hier in
+<ce> der Stadt und erledigt das innerhalb
+<ce> eines Tages. Keiner hat gerne ein Tier
+<ce> in seinem Haus herumstreunen. Kommt wieder,
+<ce> wenn das Biest tot ist, dann halte ich
+<ce> Eure Bezahlung bereit."
  
-_qgiver_ ruft: "He, was für ein Tier
-ist das überhaupt?"
+_qgiver_ ruft:
+ 
+<ce> "He, was für ein Tier ist das überhaupt?"
 
 QuestComplete:  [1004]
-Gut gemacht, %pcf.
-Hier sind Eure _gold_ Goldstücke.
+<ce> Gut gemacht, %pcf.
+<ce> Hier sind Eure _gold_ Goldstücke.
 
 RumorsDuringQuest:  [1005]
 Habt Ihr schon gehört? Ein Tier ist hier in der Stadt in ein Haus eingedrungen. Ich hoffe, dass sie es bald erlegen.
@@ -42,10 +43,12 @@ RumorsPostsuccess:  [1007]
 Die Kriegergilde hat den Bären getötet, der in _house_ eingedrungen war. Gut, dass es sie hier gibt!
 
 QuestorPostsuccess:  [1008]
-Gute Arbeit mit dem Biest. Was kann ich für Euch tun?
+<ce> Gute Arbeit mit dem Biest. Was kann ich für Euch tun?
 
 QuestorPostfailure:  [1009]
-Das Viech hat den Kerl gefressen, dem das Haus gehörte. Das lässt uns ziemlich schlecht dastehen. Strengt Euch nächstes Mal mehr an.
+<ce> Das Viech hat den Kerl gefressen, dem das Haus gehörte.
+<ce> Das lässt uns ziemlich schlecht dastehen. Strengt Euch
+<ce> nächstes Mal mehr an.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -56,37 +59,37 @@ QuestLogEntry:  [1010]
  Tag erledigt sein.
 
 Message:  1011
-Der Bär ist tot.
+<ce> Der Bär ist tot.
 
 Message:  1012
-Die Harpyie ist tot.
+<ce> Die Harpyie ist tot.
 
 Message:  1013
-Die Spinne ist tot.
+<ce> Die Spinne ist tot.
 
 Message:  1014
-Der Tiger ist tot.
+<ce> Der Tiger ist tot.
 
 Message:  1021
-Ihr hört eine Stimme aus dem
-oberen Stockwerk: "Ein Bär!"
+<ce> Ihr hört eine Stimme aus dem
+<ce> oberen Stockwerk: "Ein Bär!"
 
 Message:  1022
-Ihr hört eine Stimme aus dem
-oberen Stockwerk: "Eine Harpyie!"
+<ce> Ihr hört eine Stimme aus dem
+<ce> oberen Stockwerk: "Eine Harpyie!"
 
 Message:  1023
-Ihr hört eine Stimme aus dem
-oberen Stockwerk: "Eine Spinne!"
+<ce> Ihr hört eine Stimme aus dem
+<ce> oberen Stockwerk: "Eine Spinne!"
 
 Message:  1024
-Ihr hört eine Stimme aus dem
-oberen Stockwerk: "Ein Tiger!"
+<ce> Ihr hört eine Stimme aus dem
+<ce> oberen Stockwerk: "Ein Tiger!"
 
 Message:  1080
-Ach übrigens, da Ihr offensichtlich
-soviel Spaß mit dem Biest hattet,
-gebe ich Euch diese Karte nach
-___newdung_. Tut Euch
-keinen Zwang an.
+<ce> Ach übrigens, da Ihr offensichtlich
+<ce> soviel Spaß mit dem Biest hattet,
+<ce> gebe ich Euch diese Karte nach
+<ce> ___newdung_. Tut Euch
+<ce> keinen Zwang an.
 

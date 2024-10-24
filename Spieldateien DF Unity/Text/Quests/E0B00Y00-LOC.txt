@@ -3,60 +3,60 @@ DisplayName: Der entweihte Tempel
 QRC:
 
 QuestorOffer:  [1000]
-Jemanden wir Euch können wir tatsächlich gut
-gebrauchen. Es gibt hier in der Nähe einen
-entweihten Tempel namens ___mondung_,
-vielleicht habt Ihr schon davon gehört. Seit
-einiger Zeit ist er eine Heimstatt des Bösen.
-Als Ausgleich für andere Kräfte haben wir
-diesen Einfluss bis jetzt ignoriert. Aber nun
-wurde das Gleichgewicht gestört. Ich brauche
-jemanden, um es wieder geradezurücken.
+<ce> Jemanden wir Euch können wir tatsächlich gut
+<ce> gebrauchen. Es gibt hier in der Nähe einen
+<ce> entweihten Tempel namens ___mondung_,
+<ce> vielleicht habt Ihr schon davon gehört. Seit
+<ce> einiger Zeit ist er eine Heimstatt des Bösen.
+<ce> Als Ausgleich für andere Kräfte haben wir
+<ce> diesen Einfluss bis jetzt ignoriert. Aber nun
+<ce> wurde das Gleichgewicht gestört. Ich brauche
+<ce> jemanden, um es wieder geradezurücken.
  
-Könnt Ihr mir dabei helfen?
+<ce> Könnt Ihr mir dabei helfen?
 <--->
-Das Gleichgewicht in ___mondung_ wurde
-durch das Eindringen einer neuen Macht gestört,
-die unsere Anstrengungen bedroht, Harmonie nach
-%reg zu bringen. Wir brauchen einen Helden, um
-die Dinge in ___mondung_ wieder
-geradezurücken. Würdet Ihr das tun?
+<ce> Das Gleichgewicht in ___mondung_ wurde
+<ce> durch das Eindringen einer neuen Macht gestört,
+<ce> die unsere Anstrengungen bedroht, Harmonie nach
+<ce> %reg zu bringen. Wir brauchen einen Helden, um
+<ce> die Dinge in ___mondung_ wieder
+<ce> geradezurücken. Würdet Ihr das tun?
 
 RefuseQuest:  [1001]
-Schade. Aber gut, wir werden
-sicher jemand anderen finden.
+<ce> Schade. Aber gut, wir werden
+<ce> sicher jemand anderen finden.
 
 AcceptQuest:  [1002]
-Ausgezeichnet, %pcf. Wir möchten einen
-bestimmten mächtigen Lykanthropen tot sehen,
-der sein Versteck im unheiligen ___mondung_
-hat. Er bedroht die Ausbreitung unseres Tempels
-in diesem Gebiet. Wenn Ihr nicht in =1stparton_ Tagen
-wieder hier seid, werden wir selbst gegen ihn
-vorgehen und Eure Belohnung verfällt. Ihr solltet
-Euch also besser auf den Weg machen. Viel Glück
-und lebt wohl!
+<ce> Ausgezeichnet, %pcf. Wir möchten einen
+<ce> bestimmten mächtigen Lykanthropen tot sehen,
+<ce> der sein Versteck im unheiligen ___mondung_
+<ce> hat. Er bedroht die Ausbreitung unseres Tempels
+<ce> in diesem Gebiet. Wenn Ihr nicht in =1stparton_ Tagen
+<ce> wieder hier seid, werden wir selbst gegen ihn
+<ce> vorgehen und Eure Belohnung verfällt. Ihr solltet
+<ce> Euch also besser auf den Weg machen. Viel Glück
+<ce> und lebt wohl!
 <--->
-%oth, das ist gut, %pcf.
-Nun, wir können Euch nur =1stparton_ Tage geben, um
-das Equilibrium in ___mondung_
-wiederherzustellen. Der schnellste und beste Weg
-besteht darin, den Lykanthropen zu töten, der
-___mondung_ zu seiner verkommenen
-Zuflucht gemacht hat. Eile ist geboten, %pcf.
-Wenn Ihr nicht wieder hier seid, bevor =1stparton_ Sonnen
-untergegangen sind, ist Eure Belohnung verwirkt.
+<ce> %oth, das ist gut, %pcf.
+<ce> Nun, wir können Euch nur =1stparton_ Tage geben, um
+<ce> das Equilibrium in ___mondung_
+<ce> wiederherzustellen. Der schnellste und beste Weg
+<ce> besteht darin, den Lykanthropen zu töten, der
+<ce> ___mondung_ zu seiner verkommenen
+<ce> Zuflucht gemacht hat. Eile ist geboten, %pcf.
+<ce> Wenn Ihr nicht wieder hier seid, bevor =1stparton_ Sonnen
+<ce> untergegangen sind, ist Eure Belohnung verwirkt.
 
 QuestFail:  [1003]
-Ihr solltet besser losziehen, %pcf.
-Ihr habt nicht mehr viel Zeit, um das Wermonster
-zu töten. =1stparton_ Tage, um genau zu sein.
+<ce> Ihr solltet besser losziehen, %pcf.
+<ce> Ihr habt nicht mehr viel Zeit, um das Wermonster
+<ce> zu töten. =1stparton_ Tage, um genau zu sein.
 
 QuestComplete:  [1004]
-Ihr habt dem Tempel des Arkay einem großen Dienst
-erwiesen, %pcf. Das soll nicht vergessen werden.
-Viel Spaß mit Euren _reward_ Goldstücken -- Ihr
-habt sie Euch verdient.
+<ce> Ihr habt dem Tempel des Arkay einem großen Dienst
+<ce> erwiesen, %pcf. Das soll nicht vergessen werden.
+<ce> Viel Spaß mit Euren _reward_ Goldstücken -- Ihr
+<ce> habt sie Euch verdient.
 
 RumorsDuringQuest:  [1005]
 Ich habe gehört, dass sich hier eine Art Werwolf herumtreibt.
@@ -88,15 +88,15 @@ QuestLogEntry:  [1010]
 %qdt:
  _questgiver_ vom
  Tempel des Arkay bot mir
-  _reward_ Goldstücke an, wenn
-  ich eine Werkreatur töte, die
-  in ___mondung_,
-  einem ihrer früheren Tempel,
-  herumschleicht. Ich habe =1stparton_ Tage,
-  um das zu erledigen und nach
-  ___questgiver_ zurückzukehren
+ _reward_ Goldstücke an, wenn
+ ich eine Werkreatur töte, die
+ in ___mondung_,
+ einem ihrer früheren Tempel,
+ herumschleicht. Ich habe =1stparton_ Tage,
+ um das zu erledigen und nach
+ ___questgiver_ zurückzukehren
 
 Message:  1020
-Ihr habt den Lykanthropen von
-___mondung_ getötet.
+<ce> Ihr habt den Lykanthropen von
+<ce> ___mondung_ getötet.
 

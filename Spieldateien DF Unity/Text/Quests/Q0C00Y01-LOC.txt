@@ -3,55 +3,55 @@ DisplayName: Die Schmähschrift
 QRC:
 
 QuestorOffer:  [1000]
-Wir könnten Eure Hilfe bei der Suche
-nach einem perfiden Dokument
-gebrauchen, das von unseren Feinden
-in Umlauf gebracht wurde, um unserem
-Bund Schaden zuzufügen. Ich weiß,
-wo sich diese Anhäufung gedruckter
-Lügen befindet, jedoch benötigen
-wir jemanden wie Euch, der gegen
-ihren Wächter antritt und ihn zu
-uns bringt. Würdet Ihr den
-==qgiver_ solcherart
-behilflich sein?
+<ce> Wir könnten Eure Hilfe bei der Suche
+<ce> nach einem perfiden Dokument
+<ce> gebrauchen, das von unseren Feinden
+<ce> in Umlauf gebracht wurde, um unserem
+<ce> Bund Schaden zuzufügen. Ich weiß,
+<ce> wo sich diese Anhäufung gedruckter
+<ce> Lügen befindet, jedoch benötigen
+<ce> wir jemanden wie Euch, der gegen
+<ce> ihren Wächter antritt und ihn zu
+<ce> uns bringt. Würdet Ihr den
+<ce> ==qgiver_ solcherart
+<ce> behilflich sein?
 
 RefuseQuest:  [1001]
-So würdet Ihr nicht helfen?
-%oth, dann ersucht die
-==qgiver_ nicht
-um weitere Gefallen.
+<ce> So würdet Ihr nicht helfen?
+<ce> %oth, dann ersucht die
+<ce> ==qgiver_ nicht
+<ce> um weitere Gefallen.
 
 AcceptQuest:  [1002]
-So wollt Ihr helfen? Dann seid Euch
-unserer unverbrüchlichen Dankbarkeit
-gewiss. Das Schriftstück befindet
-sich in einem Tempel hier in %reg,
-in einer Stadt, __temple_
-genannt. _temple_ verwahrt
-es wohl hinter verschlossenen Türen,
-bewacht durch einen _guardian_
-von erheblicher Macht. Bringt Ihr
-mir das Schriftstück, so gewähre
-ich Euch etwas aus der Manufaktur
-unseres Zirkels, das man _mitem_
-nennt. Kehrt nicht später als in
-=queston_ Tagen zurück!
+<ce> So wollt Ihr helfen? Dann seid Euch
+<ce> unserer unverbrüchlichen Dankbarkeit
+<ce> gewiss. Das Schriftstück befindet
+<ce> sich in einem Tempel hier in %reg,
+<ce> in einer Stadt, __temple_
+<ce> genannt. _temple_ verwahrt
+<ce> es wohl hinter verschlossenen Türen,
+<ce> bewacht durch einen _guardian_
+<ce> von erheblicher Macht. Bringt Ihr
+<ce> mir das Schriftstück, so gewähre
+<ce> ich Euch etwas aus der Manufaktur
+<ce> unseres Zirkels, das man _mitem_
+<ce> nennt. Kehrt nicht später als in
+<ce> =queston_ Tagen zurück!
 
 QuestComplete:  [1004]
-Ah, das verfluchte Dokument.
-Ihr empfehlt Euch durch Euren
-Dienst an der Schwesternschaft,
-%pct. Hier, nehmt Eure
-Belohnung -- _mitem_ , ganz
-wie ich es Euch versprach. Die
-Dankbarkeit des Zirkels der
-==qgiver_ muss nicht
-physisch sein, um gespürt zu werden.
+<ce> Ah, das verfluchte Dokument.
+<ce> Ihr empfehlt Euch durch Euren
+<ce> Dienst an der Schwesternschaft,
+<ce> %pct. Hier, nehmt Eure
+<ce> Belohnung -- _mitem_ , ganz
+<ce> wie ich es Euch versprach. Die
+<ce> Dankbarkeit des Zirkels der
+<ce> ==qgiver_ muss nicht
+<ce> physisch sein, um gespürt zu werden.
 
 RumorsDuringQuest:  [1005]
 Habt Ihr die Geschichte des Zirkels
-der ==qgiver_  gelesen? Schockierend!
+der ==qgiver_ gelesen? Schockierend!
 
 RumorsPostfailure:  [1006]
 Die Geschichte des Zirkels der ==qgiver_
@@ -64,17 +64,17 @@ die einzige Niederschrift ist
 verschwunden.
 
 QuestorPostsuccess:  [1008]
-Seid Ihr mit dem Rüstzeug, das wir Euch zur
-Belohnung gaben, zufrieden, %pcf?
-Ihr habt es Euch redlich verdient.
+<ce> Seid Ihr mit dem Rüstzeug, das wir Euch zur
+<ce> Belohnung gaben, zufrieden, %pcf?
+<ce> Ihr habt es Euch redlich verdient.
 
 QuestorPostfailure:  [1009]
-Das verfluchte Dokument wurde
-in die Kaiserstadt verbracht,
-um dort für die unwissenden
-Massen vervielfältigt zu werden,
-%pcf. Ihr habt versagt.
-Verschwindet von diesem Ort!
+<ce> Das verfluchte Dokument wurde
+<ce> in die Kaiserstadt verbracht,
+<ce> um dort für die unwissenden
+<ce> Massen vervielfältigt zu werden,
+<ce> %pcf. Ihr habt versagt.
+<ce> Verschwindet von diesem Ort!
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -91,30 +91,30 @@ Das ist augenscheinlich das Dokument,
 dass die ==qgiver_ haben wollten.
 
 Message:  1012
-Unter den teuflischeren Praktiken der
-==qgiver_ findet sich der Ritus,
-den sie zu Ehren ==daedra_s vollziehen.
-Das Fleisch eines neugeborenen Säuglings
-wird für dreieinhalb Tage über den
-Flammen brennenden Schwefels gekocht,
-bis es hart und ledrig ist. Der
-resultierende Faserstoff wird über den
-Kopf einer schwarzen Katze genäht, die
-in einem Käfig gehalten wird, bis sie
-sich entweder durch diese Haube gekaut
-hat oder daran erstickt ist. Stirbt
-die Katze, wissen die Hexen, dass
-==daedra_ ihre Bitten nicht erhören
-wird, überlebt die Katze jedoch,
-dürfen die ==qgiver_
-==daedra_ um alles bitten - Tod
-oder Verstümmelung von Fürsten,
-Wirtschaftskatastrophen, Hungersnöte,
-Plagen, Kriege ...
+<ce> Unter den teuflischeren Praktiken der
+<ce> ==qgiver_ findet sich der Ritus,
+<ce> den sie zu Ehren ==daedra_s vollziehen.
+<ce> Das Fleisch eines neugeborenen Säuglings
+<ce> wird für dreieinhalb Tage über den
+<ce> Flammen brennenden Schwefels gekocht,
+<ce> bis es hart und ledrig ist. Der
+<ce> resultierende Faserstoff wird über den
+<ce> Kopf einer schwarzen Katze genäht, die
+<ce> in einem Käfig gehalten wird, bis sie
+<ce> sich entweder durch diese Haube gekaut
+<ce> hat oder daran erstickt ist. Stirbt
+<ce> die Katze, wissen die Hexen, dass
+<ce> ==daedra_ ihre Bitten nicht erhören
+<ce> wird, überlebt die Katze jedoch,
+<ce> dürfen die ==qgiver_
+<ce> ==daedra_ um alles bitten - Tod
+<ce> oder Verstümmelung von Fürsten,
+<ce> Wirtschaftskatastrophen, Hungersnöte,
+<ce> Plagen, Kriege ...
 
 Message:  1013
-Handlanger der Teufelinnen!
-Sklave der ==qgiver_!
-Die rechtschaffende Hand von
-%god wird Euch zermalmen!
+<ce> Handlanger der Teufelinnen!
+<ce> Sklave der ==qgiver_!
+<ce> Die rechtschaffende Hand von
+<ce> %god wird Euch zermalmen!
 

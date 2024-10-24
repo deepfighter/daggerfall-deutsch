@@ -3,49 +3,49 @@ DisplayName: Der Herzlose Daedra
 QRC:
 
 QuestorOffer:  [1000]
-Ich habe einen Bekannten, einen begabten
-Alchemisten namens _chemist_, der an
-einem wichtigen Projekt für mich arbeitet.
-%g braucht allerdings noch eine eher seltene
-Ingredienz, um es fertigzustellen -- das
-Herz eines Daedra. Ich werde Euch nicht
-belügen; die Daedra wollen dieses Herz
-zurück es könnte sein, dass Ihr auf einige
-von Ihnen stoßen werdet. Seid Ihr gewillt
-dieses Risiko für eine angemessen großzügige
-Belohnung einzugehen?
+<ce> Ich habe einen Bekannten, einen begabten
+<ce> Alchemisten namens _chemist_, der an
+<ce> einem wichtigen Projekt für mich arbeitet.
+<ce> %g braucht allerdings noch eine eher seltene
+<ce> Ingredienz, um es fertigzustellen -- das
+<ce> Herz eines Daedra. Ich werde Euch nicht
+<ce> belügen; die Daedra wollen dieses Herz
+<ce> zurück es könnte sein, dass Ihr auf einige
+<ce> von Ihnen stoßen werdet. Seid Ihr gewillt
+<ce> dieses Risiko für eine angemessen großzügige
+<ce> Belohnung einzugehen?
 
 RefuseQuest:  [1001]
-Ich bin enttäuscht, aber ich kann nicht sagen,
-dass ich Euch nicht verstehe. Sich freiwillig
-für einen Auftrag zu melden, der Daedra
-betrifft, verlangt sicherlich mehr Mut und
-Tapferkeit, als gemeinhin in den meisten
-%ra-Abenteurern zu finden ist.
+<ce> Ich bin enttäuscht, aber ich kann nicht sagen,
+<ce> dass ich Euch nicht verstehe. Sich freiwillig
+<ce> für einen Auftrag zu melden, der Daedra
+<ce> betrifft, verlangt sicherlich mehr Mut und
+<ce> Tapferkeit, als gemeinhin in den meisten
+<ce> %ra-Abenteurern zu finden ist.
 
 AcceptQuest:  [1002]
-Ihr macht es? Dann viel Glück. Hier ist das Herz
-des Daedra. Wenn es nicht innerhalb von =1stparton_ Tagen
-in den Händen meines Freundes _chemist_ ist, wird
-es zu alt sein, um verwendet zu werden. Nachdem
-Ihr es übergeben habt, kehrt für Eure Belohnung
-zurück. Viel Glück und gute Reise!
+<ce> Ihr macht es? Dann viel Glück. Hier ist das Herz
+<ce> des Daedra. Wenn es nicht innerhalb von =1stparton_ Tagen
+<ce> in den Händen meines Freundes _chemist_ ist, wird
+<ce> es zu alt sein, um verwendet zu werden. Nachdem
+<ce> Ihr es übergeben habt, kehrt für Eure Belohnung
+<ce> zurück. Viel Glück und gute Reise nach ___chemist_!
 
 QuestFail:  [1003]
-Glaubt Ihr wirklich, ich wüsste nicht, dass Ihr
-das Herz des Daedra nicht zu meinem Alchemisten
-gebracht habt? Ich hoffe, Ihr erwartet keine
-Belohnung für Euer offenkundiges Versagen.
-Ohne ein frisches Daedraherz verzögert sich die
-Fertigstellung des Projekts erneut. Ach, fahrt
-doch ins Reich des Vergessens!
+<ce> Glaubt Ihr wirklich, ich wüsste nicht, dass Ihr
+<ce> das Herz des Daedra nicht zu meinem Alchemisten
+<ce> gebracht habt? Ich hoffe, Ihr erwartet keine
+<ce> Belohnung für Euer offenkundiges Versagen.
+<ce> Ohne ein frisches Daedraherz verzögert sich die
+<ce> Fertigstellung des Projekts erneut. Ach, fahrt
+<ce> doch ins Reich des Vergessens!
 
 QuestComplete:  [1004]
-Herausragende Arbeit, %pcf. Ich wusste,
-dass diese Daedra Euch nicht aufhalten würden.
-Eure überragenden Fähigkeiten wurdne gebührend
-zur Kenntnis genommen. Ich danke Euch und hier
-sind _reward_ Goldstücke, die wir vereinbart hatten.
+<ce> Herausragende Arbeit, %pcf. Ich wusste,
+<ce> dass diese Daedra Euch nicht aufhalten würden.
+<ce> Eure überragenden Fähigkeiten wurdne gebührend
+<ce> zur Kenntnis genommen. Ich danke Euch und hier
+<ce> sind =reward_ Goldstücke, die wir vereinbart hatten.
 
 RumorsDuringQuest:  [1005]
 Düstere Omen wurden am Himmel beobachtet. Die daedrischen Sterne leuchten hell.
@@ -68,20 +68,20 @@ Und was kann ich für meinen tapferen, jungen %ra tun?
 Seid gegrüßt, Held. Ich hoffe, Ihr macht Euch keine Sorgen, dass die Daedra einen Groll gegen Euch hegen.
 
 QuestorPostfailure:  [1009]
-Ich war enttäuscht über Euer Scheitern, das Herz
-des Daedra zu überbringen. Ich nehme an, Ihr
-dachtet, ich hätte es vergessen. Das ist die
-einzige Erklärung für Eure Entscheidung, an
-diesen Hof zurückzukehren.
+<ce> Ich war enttäuscht über Euer Scheitern, das Herz
+<ce> des Daedra zu überbringen. Ich nehme an, Ihr
+<ce> dachtet, ich hätte es vergessen. Das ist die
+<ce> einzige Erklärung für Eure Entscheidung, an
+<ce> diesen Hof zurückzukehren.
 
 QuestLogEntry:  [1010]
-Oh, fantastisch. Ein herausragendes Aortas Daedrae,
-mit minimaler Zersetzung. Macht Euch jetzt auf den
-zurück zu _questgiver_, %pcf,
-und beeilt Euch besser. %g hat für gewöhnlich den
-Kopf voll und wenn Ihr nicht innerhalb von =2ndparton_ Tagen
-zurück seid, könnte %g vergessen, dass Ihr überhaupt
-aufgebrochen seid.
+<ce> Oh, fantastisch. Ein herausragendes Aortas Daedrae,
+<ce> mit minimaler Zersetzung. Macht Euch jetzt auf den
+<ce> zurück zu _questgiver_, %pcf,
+<ce> und beeilt Euch besser. %g hat für gewöhnlich den
+<ce> Kopf voll und wenn Ihr nicht innerhalb von =2ndparton_ Tagen
+<ce> zurück seid, könnte %g vergessen, dass Ihr überhaupt
+<ce> aufgebrochen seid.
 
 Message:  1011
 _chemist_? Er scheint eine Art =chemist_ zu sein? Ich glaube, %g ist %di von hier.
@@ -120,14 +120,14 @@ Message:  1015
 
 Message:  1020
 Der Daedra zischt:
-
-   "%pcn, Ihr mischt Euch in
-   Angelegenheiten ein, die über Euer
-   Verständnis hinausgehen. Ja, Euer
-   Name ist uns nun bekannt. Und wir
-   werden nicht ruhen, bis sich das
-   Herz unseres Bruders wieder in
-   unseren Händen befindet. Bereitet
-   Euch darauf vor, Euer Schicksal
-   zu erfüllen, Sterblicher..."
+ 
+<ce> "%pcn, Ihr mischt Euch in
+<ce> Angelegenheiten ein, die über Euer
+<ce> Verständnis hinausgehen. Ja, Euer
+<ce> Name ist uns nun bekannt. Und wir
+<ce> werden nicht ruhen, bis sich das
+<ce> Herz unseres Bruders wieder in
+<ce> unseren Händen befindet. Bereitet
+<ce> Euch darauf vor, Euer Schicksal
+<ce> zu erfüllen, Sterblicher..."
 

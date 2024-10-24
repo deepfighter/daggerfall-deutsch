@@ -3,50 +3,50 @@ DisplayName: Goldschmuggel
 QRC:
 
 QuestorOffer:  [1000]
-Ich benötige jemanden, der einen
-Gegenstand zu meiner Kontaktperson
-in ___contact_ bringt.
-Ihr werdet im Gegenzug einen anderen
-Gegenstand erhalten. Wenn Ihr mir
-diesen Gegenstand bringt, würde ich
-mich freuen Euch mit _reward_ Goldstücken
-zu entlohnen. Seid Ihr einverstanden?
+<ce> Ich benötige jemanden, der einen
+<ce> Gegenstand zu meiner Kontaktperson
+<ce> in ___contact_ bringt.
+<ce> Ihr werdet im Gegenzug einen anderen
+<ce> Gegenstand erhalten. Wenn Ihr mir
+<ce> diesen Gegenstand bringt, würde ich
+<ce> mich freuen Euch mit _reward_ Goldstücken
+<ce> zu entlohnen. Seid Ihr einverstanden?
 
 RefuseQuest:  [1001]
-Nein? Was für eine Schande. Ich war
-bereit, mich sehr großzügig zu zeigen.
+<ce> Nein? Was für eine Schande. Ich war
+<ce> bereit, mich sehr großzügig zu zeigen.
 
 AcceptQuest:  [1002]
-Sehr gut. Nehmt diesen Goldbarren und
-bringt ihn zu einem gewissen _contact_
-- =contact_, welcher an einem Ort
-namens __contact_ in ___contact_
-zu finden sein wird. Ihr werdet Euch
-beeilen müssen. Solltet Ihr nicht
-innerhalb von =1stparton_ Tagen in ___contact_
-auftauchen, wird _contact_ weiterziehen
-und wir alle haben Pecht gehabt. Ihr
-ganz besonders. Nun denn, viel Glück, 
-%pcf.
+<ce> Sehr gut. Nehmt diesen Goldbarren und
+<ce> bringt ihn zu einem gewissen _contact_
+<ce> - =contact_, welcher an einem Ort
+<ce> namens __contact_ in ___contact_
+<ce> zu finden sein wird. Ihr werdet Euch
+<ce> beeilen müssen. Solltet Ihr nicht
+<ce> innerhalb von =1stparton_ Tagen in ___contact_
+<ce> auftauchen, wird _contact_ weiterziehen
+<ce> und wir alle haben Pecht gehabt. Ihr
+<ce> ganz besonders. Nun denn, viel Glück, 
+<ce> %pcf.
 
 QuestFail:  [1003]
-Ihr habt entweder noch gar nicht angefangen
-oder Ihr seid gekommen, um Euch für Euer
-Versagen zu entschuldigen. So ist es doch,
-nicht wahr, %pcf? Nun, ich bin
-tatsächlich tief enttäuscht. Eure Unfähigkeit
-macht die ganze Angelegenheit kompliziert.
-Aber nächstes Mal weiß ich es besser. Jetzt
-los mit Euch, %pcf. Jetzt!
+<ce> Ihr habt entweder noch gar nicht angefangen
+<ce> oder Ihr seid gekommen, um Euch für Euer
+<ce> Versagen zu entschuldigen. So ist es doch,
+<ce> nicht wahr, %pcf? Nun, ich bin
+<ce> tatsächlich tief enttäuscht. Eure Unfähigkeit
+<ce> macht die ganze Angelegenheit kompliziert.
+<ce> Aber nächstes Mal weiß ich es besser. Jetzt
+<ce> los mit Euch, %pcf. Jetzt!
 
 QuestComplete:  [1004]
-Ausgezeichnet, %pcf, ihr seid
-zurückgekehrt mit meinem _item2_,
-wie versprochen. Euer Mut und Eure Tapferkeit
-sind in der Tat groß. Ich bin mir sicher,
-dass wir Eure weiteren Dienste in der nahen
-Zukunft zu schätzen wissen werden. Ich
-danke euch.
+<ce> Ausgezeichnet, %pcf, ihr seid
+<ce> zurückgekehrt mit meinem _item2_,
+<ce> wie versprochen. Euer Mut und Eure Tapferkeit
+<ce> sind in der Tat groß. Ich bin mir sicher,
+<ce> dass wir Eure weiteren Dienste in der nahen
+<ce> Zukunft zu schätzen wissen werden. Ich
+<ce> danke euch.
 
 RumorsDuringQuest:  [1005]
 Es war vor kurzem ein =contact_ hier,
@@ -69,18 +69,18 @@ _questgiver_ hatte Loblieder üer irgendeinen
 %ra-Söldner gesungen.
 
 QuestorPostsuccess:  [1008]
-Willkommen zurück. Ich habe Eure
-Dienste nicht vergessen.
+<ce> Willkommen zurück. Ich habe Eure
+<ce> Dienste nicht vergessen.
 <--->
-Ah, %pcf. Wie schön Euch wiederzusehen!
+<ce> Ah, %pcf. Wie schön Euch wiederzusehen!
 
 QuestorPostfailure:  [1009]
-Ein Ausbund an Unfähigkeit! Ihr habt
-vielleicht Nerven, hierher zurückzukehren,
-%ra!
+<ce> Ein Ausbund an Unfähigkeit! Ihr habt
+<ce> vielleicht Nerven, hierher zurückzukehren,
+<ce> %ra!
 <--->
-Ah, wenn das nicht der unzuverlässige Kurier ist?
-Warum kriecht ihr jetzt nichtl einfach weg, okay?
+<ce> Ah, wenn das nicht der unzuverlässige Kurier ist?
+<ce> Warum kriecht ihr jetzt nichtl einfach weg, okay?
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -89,7 +89,7 @@ QuestLogEntry:  [1010]
  aus ___contact_ um einen Barren Gold in
  des =contact_'s Basis in __contact_
  zu bringen. Das Gold muss innerhalb von
- =1stparton_  Tagen in %g3 Händen sein damit
+ =1stparton_ Tagen in %g3 Händen sein damit
  ich meine Belohnung bekomme
 
 Message:  1011
@@ -97,24 +97,23 @@ Message:  1011
  Ich lieferte das Gold zu _contact_,
  welcher mir ein _item2_ gab um es
  zurück zu _questgiver_ zu bringen.
- 
+
 Message:  1020
-Dieser Goldbarren muss ja richtig
-schwer sein. Wie wär's, wenn ich
-Euch davon erleichterte? Gebt ihn
-her und ich lasse Euch ziehen!
+<ce> Dieser Goldbarren muss ja richtig
+<ce> schwer sein. Wie wär's, wenn ich
+<ce> Euch davon erleichterte? Gebt ihn
+<ce> her und ich lasse Euch ziehen!
 
 Message:  1021
-So eine tapfere kleine Kurierseele!
-Ich werde ganz sicher all meinen
-Freunden erzählen, wie hilfsbereit
-Ihr für sie sein könnt.
+<ce> So eine tapfere kleine Kurierseele!
+<ce> Ich werde ganz sicher all meinen
+<ce> Freunden erzählen, wie hilfsbereit
+<ce> Ihr für sie sein könnt.
 
 Message:  1030
-Ah, Ihr seid der Kurier. Ausgezeichnet.
-Nun, nehmt dieses _item2_  sofort zurück
-zu _questgiver_ , und %g wird Euch
-wie versprochen belohnen. Es war mir
-eine Freude mit Euch Geschäfte zu machen,
-%pcf!
-
+<ce> Ah, Ihr seid der Kurier. Ausgezeichnet.
+<ce> Nun, nehmt dieses _item2_  sofort zurück
+<ce> zu _questgiver_ , und %g wird Euch
+<ce> wie versprochen belohnen. Es war mir
+<ce> eine Freude mit Euch Geschäfte zu machen,
+<ce> %pcf!

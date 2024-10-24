@@ -3,62 +3,62 @@ DisplayName: Haustiger
 QRC:
 
 QuestorOffer:  [1000]
-%pcn, nicht wahr?
-Nach Euch habe ich gesucht.
-Wir hätten da einen ziemlich
-interessanten Auftrag, für den
-es ein bisschen mehr Hirn als
-Muskelkraft braucht. Seid Ihr interessiert?
+<ce> %pcn, nicht wahr?
+<ce> Nach Euch habe ich gesucht.
+<ce> Wir hätten da einen ziemlich
+<ce> interessanten Auftrag, für den
+<ce> es ein bisschen mehr Hirn als
+<ce> Muskelkraft braucht. Seid Ihr interessiert?
 
 RefuseQuest:  [1001]
-Ja, Ihr habt recht. Ich habe schließlich gesagt,
-dass man für diesen Auftrag Verstand braucht.
+<ce> Ja, Ihr habt recht. Ich habe schließlich gesagt,
+<ce> dass man für diesen Auftrag Verstand braucht.
 
 AcceptQuest:  [1002]
-Die Situation ist die: _dummy_
-hält sich einen Säbelzahntiger als
-Haustier - fragt nicht - der vor ein
-paar Tagen davongelaufen ist. Nun hat
-%g ihn bis nach  ___mondung_
-verfolgt, wir brauchen aber jemanden,
-der da rein geht und ihn rausholt.
-Lebendig! Der Trick ist, dass er darauf
-dressiert wurde, auf diese Glocke zu
-reagieren. Der Tiger sollte zur Schmusekatze
-werden, wenn Ihr ihm mit damit vor der
-Fratze klingelt. Natürlich hat _dummy_
-auch erwähnt, dass er noch nicht zu gut
-gezähmt ist - wundert Euch das noch? - so
-dass Ihr ihm wohl erst ein, zwei Schläge
-auf den Schädel verpassen müsst, um seine
-Aufmerksamkeit zu erringen. Nur bringt
-ihn nicht um, ja? Schafft ihn in den
-nächsten =qtime_ Tagen in einem Stück zu
-_dummy_ in __dummy_, dann wird %g
-Euch mit _gold_ Gold bezahlen. Viel Glück!
+<ce> Die Situation ist die: _dummy_
+<ce> hält sich einen Säbelzahntiger als
+<ce> Haustier - fragt nicht - der vor ein
+<ce> paar Tagen davongelaufen ist. Nun hat
+<ce> %g ihn bis nach ___mondung_
+<ce> verfolgt, wir brauchen aber jemanden,
+<ce> der da rein geht und ihn rausholt.
+<ce> Lebendig! Der Trick ist, dass er darauf
+<ce> dressiert wurde, auf diese Glocke zu
+<ce> reagieren. Der Tiger sollte zur Schmusekatze
+<ce> werden, wenn Ihr ihm mit damit vor der
+<ce> Fratze klingelt. Natürlich hat _dummy_
+<ce> auch erwähnt, dass er noch nicht zu gut
+<ce> gezähmt ist - wundert Euch das noch? - so
+<ce> dass Ihr ihm wohl erst ein, zwei Schläge
+<ce> auf den Schädel verpassen müsst, um seine
+<ce> Aufmerksamkeit zu erringen. Nur bringt
+<ce> ihn nicht um, ja? Schafft ihn in den
+<ce> nächsten =qtime_ Tagen in einem Stück zu
+<ce> _dummy_ in __dummy_, dann wird %g
+<ce> Euch mit _gold_ Gold bezahlen. Viel Glück!
 
 QuestFail:  [1003]
-Sieht nicht mich an. Der Tiger ist
-ist in ___mondung_.
-Nehmt Euer Glöckchen und bewegt Euch.
+<ce> Sieht nicht mich an. Der Tiger ist
+<ce> ist in ___mondung_.
+<ce> Nehmt Euer Glöckchen und bewegt Euch.
 
 QuestComplete:  [1004]
-Oh, =tiger_, Schätzchen, du
-bist in Sicherheit! Vielen Dank,
-dass Ihr meinen Liebling zurück
-nach Hause gebracht habt. Ich bin
-mir sicher, es gab keine Probleme
-mit ihm, oder? Im Herzen ist er nur
-eine große Miezekatze, er würde keiner
-Fliege etwas zuleide tun. Hier sind
-Eure _gold_ Goldstücke, genau wie ich
-es diesem netten _questgiver_
-in der Kriegergilde versprochen habe.
+<ce> Oh, =tiger_, Schätzchen, du
+<ce> bist in Sicherheit! Vielen Dank,
+<ce> dass Ihr meinen Liebling zurück
+<ce> nach Hause gebracht habt. Ich bin
+<ce> mir sicher, es gab keine Probleme
+<ce> mit ihm, oder? Im Herzen ist er nur
+<ce> eine große Miezekatze, er würde keiner
+<ce> Fliege etwas zuleide tun. Hier sind
+<ce> Eure _gold_ Goldstücke, genau wie ich
+<ce> es diesem netten _questgiver_
+<ce> in der Kriegergilde versprochen habe.
 
 RumorsDuringQuest:  [1005]
-Habt Ihr gehört, dass der Tiger von _dummy_
-schon wieder ausgerissen ist? Diesmal hat er drei
-Menschen getötet und gefressen.
+<ce> Habt Ihr gehört, dass der Tiger von _dummy_
+<ce> schon wieder ausgerissen ist? Diesmal hat er drei
+<ce> Menschen getötet und gefressen.
 
 RumorsPostfailure:  [1006]
 Der Tiger von _dummy_ scheint endgültig verschwunden zu sein.
@@ -70,17 +70,17 @@ um %g3 den Haustiger wieder einzufangen. Was für ein Trottel
 würde denn so einen lächerlichen Auftrag annehmen?
 
 QuestorPostsuccess:  [1008]
-Hallo, wie geht's, %pcf, Ihr alter Tigerfreund!
+<ce> Hallo, wie geht's, %pcf, Ihr alter Tigerfreund!
 
 QuestorPostfailure:  [1009]
-Ich kann mir wirklich nichts leichteres vorstellen,
-als einen Haustiger aufzuspüren, aber Ihr habt es
-geschafft, das in den Sand zu setzen.
-Was wollt Ihr jetzt noch?
+<ce> Ich kann mir wirklich nichts leichteres vorstellen,
+<ce> als einen Haustiger aufzuspüren, aber Ihr habt es
+<ce> geschafft, das in den Sand zu setzen.
+<ce> Was wollt Ihr jetzt noch?
 
 Message:  1020
 %qdt:
- Die Kriegergilde von ___dummy_
+ Die Kriegergilde von ___questgiver_
  hat mich angeheuert, einen als Haustier
  gehaltenen Säbelzahntiger aufzuspüren,
  der in Richtung ___mondung_ verschwunden
@@ -100,38 +100,47 @@ Message:  1021
  gefunden. Er scheint mich nun zu mögen.
  Schlussendlich habe ich es geschafft,
  dass er mir folgt. Nun muss ich ihn nur
- noch zu _dummy_ in  ___dummy_ bringen.
+ noch zu _dummy_ in ___dummy_ bringen.
+
+Message:  1022
+%qdt:
+ Ich fand den Tiger in ___mondung_,
+ doch ich erschlug ihn. Das Beste, was
+ ich nun tun kann, ist nach __dummy_
+ von ___dummy_ zu gehen und bei _dummy_
+ um Vergebung für den verpatzten Auftrag
+ zu bitten.
 
 Message:  1030
-Hoppla! Ihr habt den Tiger getötet.
-Was wird wohl _dummy_ dazu sagen?
+<ce> Hoppla! Ihr habt den Tiger getötet.
+<ce> Was wird wohl _dummy_ dazu sagen?
 
 Message:  1040
-Ihr schlagt die Glocke laut, aber das 
-scheint keinerlei Effekt zu haben.
+<ce> Ihr schlagt die Glocke laut, aber das 
+<ce> scheint keinerlei Effekt zu haben.
 
 Message:  1041
-Beim Klang der Glocke spitzt der
-Tiger die Ohren. Er bewegt seinen
-Kopf von rechts nach links und stößt
-ein tiefes, knurrendes Geräusch aus.
-Ist das ein Schnurren? Der Tiger
-tappt auf Euch zu und beginnt, sich
-an Euren Beinen zu reiben, wobei er
-Euch fast umwirft.
+<ce> Beim Klang der Glocke spitzt der
+<ce> Tiger die Ohren. Er bewegt seinen
+<ce> Kopf von rechts nach links und stößt
+<ce> ein tiefes, knurrendes Geräusch aus.
+<ce> Ist das ein Schnurren? Der Tiger
+<ce> tappt auf Euch zu und beginnt, sich
+<ce> an Euren Beinen zu reiben, wobei er
+<ce> Euch fast umwirft.
  
-Der Tiger wird Euch nun folgen.
+<ce> Der Tiger wird Euch nun folgen.
 
 Message:  1050
-Ihr schrecklicher, schrecklicher
-%ra! Ich kann nicht glauben,
-dass Ihr meinen armen unschuldigen
-=tiger_ umgebracht habt. Er war
-nur eine süße verlorene Miezekatze,
-und Ihr musstet ihn abschlachten!
-Verschwindet auf der Stelle oder
-ich lasse Euch wegen Mordes verhaften!
-VERSCHWINDET!
+<ce> Ihr schrecklicher, schrecklicher
+<ce> %ra! Ich kann nicht glauben,
+<ce> dass Ihr meinen armen unschuldigen
+<ce> =tiger_ umgebracht habt. Er war
+<ce> nur eine süße verlorene Miezekatze,
+<ce> und Ihr musstet ihn abschlachten!
+<ce> Verschwindet auf der Stelle oder
+<ce> ich lasse Euch wegen Mordes verhaften!
+<ce> VERSCHWINDET!
 
 Message:  1060
 _love_,
@@ -156,18 +165,18 @@ _love_,
  zu sagen ...
 
 Message:  1061
-Ja, was möchtet Ihr? Oh meine Güte,
-ein Brief von _victim_!
-Warum ist er voller Blut? Was, %g ist
-tot? Meine Güte, %g war immer so süß
-zu mir, ich fürchte, %g hatte sich
-eingebildet, wir wären ein Liebespaar.
-Die arme Seele, was für ein tragisches
-Ende. Ich bin Euch sehr dankbar, dass
-Ihr mir erzählt habt, was passiert ist.
-Ich werde mich darum kümmern, dass die
-Familie es auch erfährt. Warum nehmt Ihr
-nicht dieses Geschenk [_magic_],
-dass %g mir gegeben hat. Ich habe sowieso
-keine Verwendung dafür.
+<ce> Ja, was möchtet Ihr? Oh meine Güte,
+<ce> ein Brief von _victim_!
+<ce> Warum ist er voller Blut? Was, %g ist
+<ce> tot? Meine Güte, %g war immer so süß
+<ce> zu mir, ich fürchte, %g hatte sich
+<ce> eingebildet, wir wären ein Liebespaar.
+<ce> Die arme Seele, was für ein tragisches
+<ce> Ende. Ich bin Euch sehr dankbar, dass
+<ce> Ihr mir erzählt habt, was passiert ist.
+<ce> Ich werde mich darum kümmern, dass die
+<ce> Familie es auch erfährt. Warum nehmt Ihr
+<ce> nicht dieses Geschenk [_magic_],
+<ce> dass %g mir gegeben hat. Ich habe sowieso
+<ce> keine Verwendung dafür.
 

@@ -3,56 +3,56 @@ DisplayName: Besser als ihr Ruf
 QRC:
 
 QuestorOffer:  [1000]
-Die ==qgiver_ könnten
-tatsächlich Euren Beistand in einer
-höchst absurden und doch ernsthaften
-Angelegenheit gebrauchen. Ihr macht
-Euch keine Illusionen darüber, dass
-die Hexen aus %reg verachtet
-werden. Niemand traut uns über längere
-Zeit, denn unsere Macht und
-Abgeschiedenheit machen uns zu einem
-Einflussfaktor, der für andere nur
-schwierig zu manipulieren ist.
-Man hat uns eine Falle gestellt, die
-schon bald zuschnappen könnte, und wir
-brauchen jemanden wie Euch, um sie
-zu entschärfen. Wäret Ihr an solch
-einer Aufgabe im Austausch für einen
-_gem_ interessiert?
+<ce> Die ==qgiver_ könnten
+<ce> tatsächlich Euren Beistand in einer
+<ce> höchst absurden und doch ernsthaften
+<ce> Angelegenheit gebrauchen. Ihr macht
+<ce> Euch keine Illusionen darüber, dass
+<ce> die Hexen aus %reg verachtet
+<ce> werden. Niemand traut uns über längere
+<ce> Zeit, denn unsere Macht und
+<ce> Abgeschiedenheit machen uns zu einem
+<ce> Einflussfaktor, der für andere nur
+<ce> schwierig zu manipulieren ist.
+<ce> Man hat uns eine Falle gestellt, die
+<ce> schon bald zuschnappen könnte, und wir
+<ce> brauchen jemanden wie Euch, um sie
+<ce> zu entschärfen. Wäret Ihr an solch
+<ce> einer Aufgabe im Austausch für einen
+<ce> _gem_ interessiert?
 
 RefuseQuest:  [1001]
-So wollt Ihr nicht? %oth,
-die ==qgiver_ sind an die
-Feigheit unserer Verbündeten gewöhnt.
+<ce> So wollt Ihr nicht? %oth,
+<ce> die ==qgiver_ sind an die
+<ce> Feigheit unserer Verbündeten gewöhnt.
 
 AcceptQuest:  [1002]
-So wollt Ihr helfen? Dann nehmt dieses Kind!
-Es sagt, es sei _child_ geheißen.
-Wir haben es vor ein paar Tagen alleingelassen
-gefunden. Ganz gewiss wurde es dort ausgesetzt,
-damit uns unsere Feinde unterstellen können,
-dass wir in gewisse Vorgänge verwickelt wären -
-Was glaubt Ihr? Menschenopfer? Verderbung der
-Unschuldigen? Nichts so Alltägliches wie
-Entführung, würde ich wetten. _child_
-sagte uns, dass %g3 Eltern an einem Ort namens
-_home_ in __home_ leben.
-Bringt das Kind zurück, aber seht Euch vor.
-Unsere guten Freunde würden Euch beide lieber
-tot sehen, als das Kind nach Hause zurückkehren
-zu lassen. Kehrt in =queston_ oder weniger Tagen
-zurück und wir werden die _gem_-Gemme
-für Euch bereit halten. Auf dass es Euch gelingen mag!
+<ce> So wollt Ihr helfen? Dann nehmt dieses Kind!
+<ce> Es sagt, es sei _child_ geheißen.
+<ce> Wir haben es vor ein paar Tagen alleingelassen
+<ce> gefunden. Ganz gewiss wurde es dort ausgesetzt,
+<ce> damit uns unsere Feinde unterstellen können,
+<ce> dass wir in gewisse Vorgänge verwickelt wären -
+<ce> Was glaubt Ihr? Menschenopfer? Verderbung der
+<ce> Unschuldigen? Nichts so Alltägliches wie
+<ce> Entführung, würde ich wetten. _child_
+<ce> sagte uns, dass %g3 Eltern an einem Ort namens
+<ce> _home_ in __home_ leben.
+<ce> Bringt das Kind zurück, aber seht Euch vor.
+<ce> Unsere guten Freunde würden Euch beide lieber
+<ce> tot sehen, als das Kind nach Hause zurückkehren
+<ce> zu lassen. Kehrt in =queston_ oder weniger Tagen
+<ce> zurück und wir werden die _gem_-Gemme
+<ce> für Euch bereit halten. Auf dass es Euch gelingen mag!
 
 QuestComplete:  [1004]
-Gut, dass _child_
-wieder zuhause ist. Vielleicht wird die Güte,
-welche die ==qgiver_ erwiesen
-haben, für die nächste Generation mit einigen
-Mythen über unsere Missetaten aufräumen.
-Hier ist Eure _gem_-Gemme.
-Euch gebührt Dank, %pcf.
+<ce> Gut, dass _child_
+<ce> wieder zuhause ist. Vielleicht wird die Güte,
+<ce> welche die ==qgiver_ erwiesen
+<ce> haben, für die nächste Generation mit einigen
+<ce> Mythen über unsere Missetaten aufräumen.
+<ce> Hier ist Eure _gem_-Gemme.
+<ce> Euch gebührt Dank, %pcf.
 
 RumorsDuringQuest:  [1005]
 Die ==qgiver_ sollen noch schlimmer als gemeine Entführer sein.
@@ -60,26 +60,28 @@ Die ==qgiver_ sollen noch schlimmer als gemeine Entführer sein.
 Wenn man _child_ nicht findet, wird der Zirkel der ==qgiver_ brennen.
 
 RumorsPostfailure:  [1006]
-Man sagt, der Bund der ==qgiver_ habe ein  =child_ entführt. Armes Ding.
+Man sagt, der Bund der ==qgiver_ habe ein =child_ entführt. Armes Ding.
 <--->
 Die ==qgiver_ können nicht widerlegen, dass sie ein Kind entführt haben.
 
 RumorsPostsuccess:  [1007]
-Die ==qgiver_ haben  _child_ gar nicht entführt - das Kind selbst sagt, dass sie das nicht getan haben.
+Die ==qgiver_ haben _child_ gar nicht entführt - das Kind selbst sagt, dass sie das nicht getan haben.
 <--->
 Wenn man _child_s Worten trauen kann, wurde dem Kind von den ==qgiver_ sogar geholfen statt geschadet.
 
 QuestorPostsuccess:  [1008]
-Angesichts Eurer Güte gegenüber _child_ und den ==qgiver_ schätze ich mich glücklich, mit Euch zu sprechen.
+<ce> Angesichts Eurer Güte gegenüber _child_
+<ce> und den ==qgiver_ schätze ich mich glücklich,
+<ce> mit Euch zu sprechen.
 
 QuestorPostfailure:  [1009]
-Wir baten Euch, klein
-_child_ nach Hause
-zu geleiten, doch Ihr habt versagt.
-Das war weder ein müßiges Ansinnen
-noch sind die Schuldzuweisungen harmlos.
-Verlasst auf der Stelle die ==qgiver_,
-verfluchter %ra.
+<ce> Wir baten Euch, klein
+<ce> _child_ nach Hause
+<ce> zu geleiten, doch Ihr habt versagt.
+<ce> Das war weder ein müßiges Ansinnen
+<ce> noch sind die Schuldzuweisungen harmlos.
+<ce> Verlasst auf der Stelle die ==qgiver_,
+<ce> verfluchter %ra.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -96,31 +98,33 @@ QuestLogEntry:  [1010]
  zu empfangen.
 
 Message:  1011
-"Hier wohne ich!
-Hier ist mein Zuhause!"
-_child_ gibt Euch
-einen Kuss auf die Wange.
-"Danke, %pcf!"
+<ce> "Hier wohne ich!
+<ce> Hier ist mein Zuhause!"
+ 
+<ce> _child_ gibt Euch
+<ce> einen Kuss auf die Wange.
+ 
+<ce> "Danke, %pcf!"
 
 Message:  1012
-"Hexenliebhaber!
-Kind von _daedra_!",
-kreischt eine Stimme.
+<ce> "Hexenliebhaber!
+<ce> Kind von _daedra_!",
+<ce> kreischt eine Stimme.
 <--->
-"Lasst nicht zu, dass das Kind
-von ==daedra_ und den
-==qgiver_ am Leben
-bleibt!", ruft jemand.
+<ce> "Lasst nicht zu, dass das Kind
+<ce> von ==daedra_ und den
+<ce> ==qgiver_ am Leben
+<ce> bleibt!", ruft jemand.
 <--->
-"%god stärke meine Hand
-gegen den Handlanger und
-das Kind dieser höllischen
-==qgiver_!", schreit
-eine Stimme.
+<ce> "%god stärke meine Hand
+<ce> gegen den Handlanger und
+<ce> das Kind dieser höllischen
+<ce> ==qgiver_!", schreit
+<ce> eine Stimme.
 
 Message:  1013
-"Ich werde den Rest meines Weges
-alleine zurücklegen", sagt das Kind,
-entwischt Euch und verschwindet mit
-erstaunlicher Geschicklichkeit.
+<ce> "Ich werde den Rest meines Weges
+<ce> alleine zurücklegen", sagt das Kind,
+<ce> entwischt Euch und verschwindet mit
+<ce> erstaunlicher Geschicklichkeit.
 

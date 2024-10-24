@@ -3,7 +3,7 @@ DisplayName: Höllischer Funkensprüher
 QRC:
 
 QuestorOffer:  [1000]
-Ihr wollt also Macht, %pcn. Macht ist sehr viel greifbarer
+<ce> Ihr wollt also Macht, %pcn. Macht ist sehr viel greifbarer
 als Weisheit, meint Ihr nicht auch? Damit wir Euren Wert
 beurteilen können, müssen wir Euch eine kleine Aufgabe
 stellen. Natürlich nichts unangenehmes. Es wird Euch gefallen.
@@ -12,32 +12,32 @@ Molag Bal belohnt werdet. Dann sehen wir, ob Ihr für wahre
 Macht bereit seid! Geht Ihr darauf ein?
 
 RefuseQuest:  [1001]
-Ihr habt unsere Zeit vergeudet. Wir sind nicht erfreut.
+<ce> Ihr habt unsere Zeit vergeudet. Wir sind nicht erfreut.
 
 AcceptQuest:  [1002]
-Wir dachten uns schon, dass Euch das gefallen würde.
-Also hört gut zu: Euer Ziel heißt =monster_.
-Dieser höllische Funkensprüher hat unseren Namen
-angerufen und von unserer Macht gezehrt, ohne einen
-Pakt geschlossen zu haben. Das mag aus Unwissenheit
-geschehen sein, aber wir kennen keine Gnade. Besucht
-das Laboratorium in ___mondung_ und tötet =monster_.
-Trefft Euch dann binnen =1stparton_ Tagen mit unserem Agenten
-_contact_ in __tavern_ in der Taverne
-[_tavern_]. _contact_ erscheint als =contact_
-und wird Euch den Streitkolben von Molag Bal aushändigen.
-Lasst Euch nicht aufhalten, die Zeit ist knapp.
-Wir werden Euch beobachten. Und versagt nicht.
+<ce> Wir dachten uns schon, dass Euch das gefallen würde.
+<ce> Also hört gut zu: Euer Ziel heißt =monster_.
+<ce> Dieser höllische Funkensprüher hat unseren Namen
+<ce> angerufen und von unserer Macht gezehrt, ohne einen
+<ce> Pakt geschlossen zu haben. Das mag aus Unwissenheit
+<ce> geschehen sein, aber wir kennen keine Gnade. Besucht
+<ce> das Laboratorium in ___mondung_ und tötet =monster_.
+<ce> Trefft Euch dann binnen =1stparton_ Tagen mit unserem Agenten
+<ce> _contact_ in __tavern_ in der Taverne
+<ce> [_tavern_]. _contact_ erscheint als =contact_
+<ce> und wird Euch den Streitkolben von Molag Bal aushändigen.
+<ce> Lasst Euch nicht aufhalten, die Zeit ist knapp.
+<ce> Wir werden Euch beobachten. Und versagt nicht.
 
 QuestFail:  [1003]
-Hört zu, %pcf, wir wissen beide, dass =monster_
-noch atmet. Pakt ist Pakt und Molag Bal vergisst nie.
+<ce> Hört zu, %pcf, wir wissen beide, dass =monster_
+<ce> noch atmet. Pakt ist Pakt und Molag Bal vergisst nie.
 
 QuestComplete:  [1004]
-Hallo %pcf. Ihr habt es geschafft.
-Molag Bal schickt seine Grüße und
-natürlich seinen Streitkolben.
-Habt Freude daran und lebt wohl.
+<ce> Hallo %pcf. Ihr habt es geschafft.
+<ce> Molag Bal schickt seine Grüße und
+<ce> natürlich seinen Streitkolben.
+<ce> Habt Freude daran und lebt wohl.
 
 RumorsDuringQuest:  [1005]
 Jeder flüstert von den Experimenten, die in ___mondung_ stattfinden.
@@ -53,18 +53,6 @@ RumorsPostsuccess:  [1007]
 In letzter Zeit ist es still um ___mondung_ geworden.
 <--->
 Es gab einige Unruhen um ___mondung_, aber das hat sich wieder gelegt. 
-
-QuestorPostsuccess:  [1008]
-Error: Quest 20c00y00.q tried to display text
-
-QuestorPostsuccess:  [1008]
-
-
-QuestorPostfailure:  [1009]
-Error: Quest 20c00y00.q tried to display text
-
-QuestorPostfailure:  [1009]
-
 
 Message:  1011
 Ein hoher Daedrafürst, angeblich der machtgierigste aller Daedra.
@@ -92,18 +80,19 @@ Message:  1020
  treffe, werde ich den Streitkolben von Molag Bal erhalten.
 
 Message:  1030
-=monster_ ist tot.
-Ihr habt Euren Pakt
-mit Molag Bal erfüllt.
-Holt jetzt Eure Belohnung ab.
+<ce> =monster_ ist tot.
+<ce> Ihr habt Euren Pakt
+<ce> mit Molag Bal erfüllt.
+<ce> Holt jetzt Eure Belohnung ab.
 
 Message:  1040
-=monster_ hebt den Stab
-und verschwindet mit einem Donnerknall.
+<ce> =monster_ hebt den Stab
+<ce> und verschwindet mit einem Donnerknall.
 
 Message:  1060
 Auf dieser Karte ist die Position von ___hideout_
 markiert und mit einer Notiz versehen:
-"_dummy_ erinnern, Vorräte anzulegen. Anzeichen,
-dass Molag Bal mich aufgespürt hat."
+ 
+<ce> "_dummy_ erinnern, Vorräte anzulegen. Anzeichen,
+<ce> dass Molag Bal mich aufgespürt hat."
 

@@ -3,127 +3,127 @@ DisplayName: Der Betrüger
 QRC:
 
 QuestorOffer:  [1000]
-Mein Name ist _agent_.
-Ich vertrete jemanden, der sich gerne
-ein bestimmtes Etwas aneignen möchte.
-Wer auch immer es beschafft, wird mit
-_artifact_ belohnt werden.
-Ich weiß nicht, was das ist, doch mir
-wurde versichert, es sei ein Artefakt
-von großer Macht. Schlagt Ihr ein?
+<ce> Mein Name ist _agent_.
+<ce> Ich vertrete jemanden, der sich gerne
+<ce> ein bestimmtes Etwas aneignen möchte.
+<ce> Wer auch immer es beschafft, wird mit
+<ce> _artifact_ belohnt werden.
+<ce> Ich weiß nicht, was das ist, doch mir
+<ce> wurde versichert, es sei ein Artefakt
+<ce> von großer Macht. Schlagt Ihr ein?
 
 RefuseQuest:  [1001]
-Vergesst, dass Ihr mich jemals getroffen
-habt. Ich habe mächtige Freunde. Wenn Ihr
-mir auf irgendeine Weise Ärger bereitet,
-werden sie Euch zur Strecke bringen wie
-einen räudigen Dieb.
+<ce> Vergesst, dass Ihr mich jemals getroffen
+<ce> habt. Ich habe mächtige Freunde. Wenn Ihr
+<ce> mir auf irgendeine Weise Ärger bereitet,
+<ce> werden sie Euch zur Strecke bringen wie
+<ce> einen räudigen Dieb.
 
 AcceptQuest:  [1002]
-Ihr müsst den daedrischen _ingredient_
-aus ___dungeon_ bergen. Ich weiß nicht,
-wo sich dieser Ort befindet, aber ich
-bin sicher, Ihr könnt ihn finden. Sobald
-Ihr den daedrischen _ingredient_ gefunden
-habt, bringt ihn zu _meetingplace_, hier
-in der Stadt. Dort werdet Ihr _qgiver_
-treffen und %g wird Euch _artifact_
-aushändigen.
+<ce> Ihr müsst den daedrischen _ingredient_
+<ce> aus ___dungeon_ bergen. Ich weiß nicht,
+<ce> wo sich dieser Ort befindet, aber ich
+<ce> bin sicher, Ihr könnt ihn finden. Sobald
+<ce> Ihr den daedrischen _ingredient_ gefunden
+<ce> habt, bringt ihn zu _meetingplace_, hier
+<ce> in der Stadt. Dort werdet Ihr _qgiver_
+<ce> treffen und %g wird Euch _artifact_
+<ce> aushändigen.
 
 RumorsDuringQuest:  [1005]
-Man hört, der König wird nächste Woche
-eine wichtige Verlautbarung verlesen.
+<ce> Man hört, der König wird nächste Woche
+<ce> eine wichtige Verlautbarung verlesen.
 
 RumorsPostfailure:  [1006]
-Irgendein armer Dummkopf hat sich in
-___dungeon_ gewagt. Ich habe
-gehört, der Ort sei voll von Dämonen.
+<ce> Irgendein armer Dummkopf hat sich in
+<ce> ___dungeon_ gewagt. Ich habe
+<ce> gehört, der Ort sei voll von Dämonen.
 
 RumorsPostsuccess:  [1007]
-Haltet Euch von _qgiver_ fern.
-Man hört, %g sei ein Lügner und Betrüger.
+<ce> Haltet Euch von _qgiver_ fern.
+<ce> Man hört, %g sei ein Lügner und Betrüger.
 
 QuestorPostsuccess:  [1008]
-Dieser Vorfall mit _qgiver_ tut
-mir furchtbar leid. Ich sollte Euch wohl
-behilflich sein, um es wiedergutzumachen.
+<ce> Dieser Vorfall mit _qgiver_ tut
+<ce> mir furchtbar leid. Ich sollte Euch wohl
+<ce> behilflich sein, um es wiedergutzumachen.
 
 QuestorPostfailure:  [1009]
-Euer Ärger mit _qgiver_ war nicht meine
-Schuld. Ich habe nicht vor, mich jetzt mit Euch
-einzulassen, also lasst mich einfach alleine.
+<ce> Euer Ärger mit _qgiver_ war nicht meine
+<ce> Schuld. Ich habe nicht vor, mich jetzt mit Euch
+<ce> einzulassen, also lasst mich einfach alleine.
 
 QuestLogEntry:  [1010]
 %qdt:
-Ich begegnete _agent_ von ___agent_.
-%g erzählte mir, dass ein geheimnisvoller Kunde
-nach einem daedrischen _ingredient_ sucht.
-Falls ich ihn finden kann, wird mich _artifact_
-als Belohnung erwarten. Der daedrische _ingredient_
-befindet sich irgendwo in ___dungeon_.
-Wenn ich ihn finde, soll ich _qgiver_
-im _meetingplace_ hier in __meetingplace_
-treffen.
+ Ich begegnete _agent_ von ___agent_.
+ %g erzählte mir, dass ein geheimnisvoller Kunde
+ nach einem daedrischen _ingredient_ sucht.
+ Falls ich ihn finden kann, wird mich _artifact_
+ als Belohnung erwarten. Der daedrische _ingredient_
+ befindet sich irgendwo in ___dungeon_.
+ Wenn ich ihn finde, soll ich _qgiver_
+ im _meetingplace_ hier in __meetingplace_
+ treffen.
 
 Message:  1011
 %qdt:
-Der Wächter des daedrischen _ingredient_
-offenbarte mir, dass _agent_s geheimnisvoller
-Kunde _artifact_ gar nicht besitzt.
-Sollte ich den daedrischen _ingredient_
-übergeben, wird meine einzige Belohnung
-der Tod sein. Der Wächter gab mir ein
-magisches Juwel, das _qgiver_s
-Kräfte blockieren wird.
+ Der Wächter des daedrischen _ingredient_
+ offenbarte mir, dass _agent_s geheimnisvoller
+ Kunde _artifact_ gar nicht besitzt.
+ Sollte ich den daedrischen _ingredient_
+ übergeben, wird meine einzige Belohnung
+ der Tod sein. Der Wächter gab mir ein
+ magisches Juwel, das _qgiver_s
+ Kräfte blockieren wird.
 
 Message:  1012
-Ich werde Euch bis zum Tod bekämpfen,
-um den daedrischen _ingredient_
-zu schützen. Ihr solltet wissen, dass
-_qgiver_ nicht ist, wer %g zu
-sein scheint. _artifact_ ist ein
-seit langem verschollenes Artefakt, welches
-%g nie besessen hat. %g beabsichtigt, Euch
-zu töten, sobald %g in Besitz des daedrischen
-_ingredient_ gelangt. Lasst von Eurem
-sinnlosen Angriff ab und ich werde Euch einen
-magischen Edelstein geben, der _qgiver_
-Kräfte blockieren kann. Wenn Ihr %g2 tötet,
-kann ich dafür sorgen, dass die Magiergilde
-Euch für einige Zeit wohlgesinnt sein wird.
-Akzeptiert Ihr mein Angebot?
+<ce> Ich werde Euch bis zum Tod bekämpfen,
+<ce> um den daedrischen _ingredient_
+<ce> zu schützen. Ihr solltet wissen, dass
+<ce> _qgiver_ nicht ist, wer %g zu
+<ce> sein scheint. _artifact_ ist ein
+<ce> seit langem verschollenes Artefakt, welches
+<ce> %g nie besessen hat. %g beabsichtigt, Euch
+<ce> zu töten, sobald %g in Besitz des daedrischen
+<ce> _ingredient_ gelangt. Lasst von Eurem
+<ce> sinnlosen Angriff ab und ich werde Euch einen
+<ce> magischen Edelstein geben, der _qgiver_
+<ce> Kräfte blockieren kann. Wenn Ihr %g2 tötet,
+<ce> kann ich dafür sorgen, dass die Magiergilde
+<ce> Euch für einige Zeit wohlgesinnt sein wird.
+<ce> Akzeptiert Ihr mein Angebot?
 
 Message:  1013
-Narr! Dachtet Ihr wirklich, ich würde Euch
-für diesen _ingredient_ mit _artifact_
-belohnen? Den einzigen Lohn, den ich für Euch
-habe, ist der Tod! Erkennt, wer ich wirklich
-bin und erzittert vor Angst. Ich bin =orc_.
-Tötet ihn!
+<ce> Narr! Dachtet Ihr wirklich, ich würde Euch
+<ce> für diesen _ingredient_ mit _artifact_
+<ce> belohnen? Den einzigen Lohn, den ich für Euch
+<ce> habe, ist der Tod! Erkennt, wer ich wirklich
+<ce> bin und erzittert vor Angst. Ich bin =monster_.
+<ce> Tötet ihn!
 
 Message:  1014
-Wa... ich wurde betrogen! Ihr habt meine
-Illusion gebrochen und einen Zauber der
-Stille auf mich gelegt. Diese verfluchte
-_guardian_ =guardian_ hat
-Euch hierzu verleitet, ist es nicht so?
-Zu den Waffen! Helft mir! Zu den Waffen!
+<ce> Wa... ich wurde betrogen! Ihr habt meine
+<ce> Illusion gebrochen und einen Zauber der
+<ce> Stille auf mich gelegt. Diese verfluchte
+<ce> _guardian_ =guardian_ hat
+<ce> Euch hierzu verleitet, ist es nicht so?
+<ce> Zu den Waffen! Helft mir! Zu den Waffen!
 
 Message:  1015
-In Euren Gedanken hört Ihr das sanfte Wispern
-einer fremden Stimme: „Gut gemacht, %pcn.
-Mit dem Tod von _qgiver_, oder =monster_,
-wie %g dem Volk der Orks bekannt ist, habt Ihr
-Euch eine Belohnung verdient. Mitglieder der
-Magiergilde vertrauen Euch nun weitaus mehr
-als zuvor.“
+<ce> In Euren Gedanken hört Ihr das sanfte Wispern
+<ce> einer fremden Stimme: „Gut gemacht, %pcn.
+<ce> Mit dem Tod von _qgiver_, oder =monster_,
+<ce> wie %g dem Volk der Orks bekannt ist, habt Ihr
+<ce> Euch eine Belohnung verdient. Mitglieder der
+<ce> Magiergilde vertrauen Euch nun weitaus mehr
+<ce> als zuvor.“
 
 Message:  1020
-Ihr seid wahrlich ein hinterhältiges Exemplar.
-Ich bewundere das. Doch Ihr solltet besser wissen,
-dass Ihr nicht leichtfertig mit mir umgehen solltet.
-Ich nehme mein Juwel zurück und verfluche Euch mit
-dem Argwohn meiner engsten Verbündeten.
+<ce> Ihr seid wahrlich ein hinterhältiges Exemplar.
+<ce> Ich bewundere das. Doch Ihr solltet besser wissen,
+<ce> dass Ihr nicht leichtfertig mit mir umgehen solltet.
+<ce> Ich nehme mein Juwel zurück und verfluche Euch mit
+<ce> dem Argwohn meiner engsten Verbündeten.
 
 Message:  1025
 Chrysamere ist ein uraltes Artefakt von großer Macht.

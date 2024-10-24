@@ -3,37 +3,37 @@ DisplayName: Spezialmixtur
 QRC:
 
 QuestorOffer:  [1000]
-Die ==qgiver_ wurden von
-der Magiergilde kontaktiert und nach
-einem speziellen Trank gefragt, einer
-sehr heiligen Formel, die in %reg
-äußerst begehrt ist. Sie wären gewillt,
-_gold_ Goldstücke dafür zu bezahlen,
-die Euch gehören sollen. Uns ist nur
-am Respekt der Magiergilde gelegen.
-Die Reise wird nicht einfach werden.
-Seid Ihr interessiert?
+<ce> Die ==qgiver_ wurden von
+<ce> der Magiergilde kontaktiert und nach
+<ce> einem speziellen Trank gefragt, einer
+<ce> sehr heiligen Formel, die in %reg
+<ce> äußerst begehrt ist. Sie wären gewillt,
+<ce> _gold_ Goldstücke dafür zu bezahlen,
+<ce> die Euch gehören sollen. Uns ist nur
+<ce> am Respekt der Magiergilde gelegen.
+<ce> Die Reise wird nicht einfach werden.
+<ce> Seid Ihr interessiert?
 
 RefuseQuest:  [1001]
-Ich verstehe.
-Ich bin enttäuscht,
-aber ich verstehe.
+<ce> Ich verstehe.
+<ce> Ich bin enttäuscht,
+<ce> aber ich verstehe.
 
 AcceptQuest:  [1002]
-Sehr gut, %pcf. Hier ist der
-Trank. Nun, Ihr solltet während des
-Tages sicher sein, denn jene, die ihn
-sich aneignen wollen, reisen stets nur
-bei Nacht. Sie erwarten den Trank in
-der Magiergilde von ___mguild_
-in =queston_ Tagen oder weniger, also
-verweilt nicht zu lange. Fragt nach
-einem Magier namens _mage_.
+<ce> Sehr gut, %pcf. Hier ist der
+<ce> Trank. Nun, Ihr solltet während des
+<ce> Tages sicher sein, denn jene, die ihn
+<ce> sich aneignen wollen, reisen stets nur
+<ce> bei Nacht. Sie erwarten den Trank in
+<ce> der Magiergilde von ___mguild_
+<ce> in =queston_ Tagen oder weniger, also
+<ce> verweilt nicht zu lange. Fragt nach
+<ce> einem Magier namens _mage_.
 
 QuestComplete:  [1004]
-Ah, eine sehr seltene und wundersame Formel.
-Hier sind Eure _gold_ Goldstücke.
-Kein zu hoher Preis für diesen Trank.
+<ce> Ah, eine sehr seltene und wundersame Formel.
+<ce> Hier sind Eure _gold_ Goldstücke.
+<ce> Kein zu hoher Preis für diesen Trank.
 
 RumorsDuringQuest:  [1005]
 Der Frieden zwischen der Magiergilde und den ==qgiver_ ist erstaunlich.
@@ -51,17 +51,18 @@ Der Zaubertrank, den die Schwesternschaft der ==qgiver_ der Magiergilde gab, hei
 Der Zaubertrank, den die ==qgiver_ der Magiergilde übergaben heilt Lykanthropie!
 
 QuestorPostsuccess:  [1008]
-Die Magiergilde teilte uns mit, dass die Übergabe geglückt ist. Dank Euch, %pcf.
+<ce> Die Magiergilde teilte uns mit, dass die
+<ce> Übergabe geglückt ist. Dank Euch, %pcf.
 
 QuestorPostfailure:  [1009]
-Wir haben daran gearbeitet, die
-Beziehungen zur Magiergilde zu
-festigen, aber Ihr habt alles
-zunichte gemacht, indem Ihr versäumt
-habt, diesen Trank abzuliefern,
-%pcf. Geht mir aus den Augen.
-Ich kann es nicht ertragen, Euch
-weiter ansehen zu müssen.
+<ce> Wir haben daran gearbeitet, die
+<ce> Beziehungen zur Magiergilde zu
+<ce> festigen, aber Ihr habt alles
+<ce> zunichte gemacht, indem Ihr versäumt
+<ce> habt, diesen Trank abzuliefern,
+<ce> %pcf. Geht mir aus den Augen.
+<ce> Ich kann es nicht ertragen, Euch
+<ce> weiter ansehen zu müssen.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -78,49 +79,49 @@ QuestLogEntry:  [1010]
  die Zustellung zu erledigen.
 
 Message:  1012
-Eine vom Grabesdreck raue Stimme
-faucht: "Ihr! Dieser Trunk gehört uns!"
+<ce> Eine vom Grabesdreck raue Stimme
+<ce> faucht: "Ihr! Dieser Trunk gehört uns!"
 <--->
-"Gebt mir den Trank", knurrt jemand.
-"Er gehört Euch nicht!"
+<ce> "Gebt mir den Trank", knurrt jemand.
+<ce> "Er gehört Euch nicht!"
 <--->
-Ihr hört, wie jemand einen unnatürlichen,
-wilden Schrei des Verlangens heult.
-"Der Trank! Der Trank!"
+<ce> Ihr hört, wie jemand einen unnatürlichen,
+<ce> wilden Schrei des Verlangens heult.
+<ce> "Der Trank! Der Trank!"
 
 Message:  1013
-Das Geheul eines Wolfes erklingt.
+<ce> Das Geheul eines Wolfes erklingt.
 <--->
-Ihr hört, wie etwas einen
-herzzereißenden Schrei
-der Sehnsucht ausstößt.
+<ce> Ihr hört, wie etwas einen
+<ce> herzzereißenden Schrei
+<ce> der Sehnsucht ausstößt.
 <--->
-Der Ruf eines Wolfes durchdringt
-die Nacht. Es ist kein Geheul vor
-Hunger, sondern vor Sehnsucht.
+<ce> Der Ruf eines Wolfes durchdringt
+<ce> die Nacht. Es ist kein Geheul vor
+<ce> Hunger, sondern vor Sehnsucht.
 
 Message:  1014
-Der schrille Laut eines Ebers
-durchdringt die Nacht.
+<ce> Der schrille Laut eines Ebers
+<ce> durchdringt die Nacht.
 <--->
-Ihr hört das kehlige Knurren
-eines Ebers, das mit dem Klang
-der Verzweiflung zittert.
+<ce> Ihr hört das kehlige Knurren
+<ce> eines Ebers, das mit dem Klang
+<ce> der Verzweiflung zittert.
 <--->
-Die Stille der Nacht wird plötzlich
-durch das schrille Knurren eines
-wütenden Ebers unterbrochen.
+<ce> Die Stille der Nacht wird plötzlich
+<ce> durch das schrille Knurren eines
+<ce> wütenden Ebers unterbrochen.
 
 Message:  1015
-Ihr fühlt Euch merkwürdig.
+<ce> Ihr fühlt Euch merkwürdig.
 
 Message:  1016
 Error: Questtext 1016 Called.
 
 Message:  1017
-Was soll das? Die Formel wurde
-entweiht! Ich bin enttäuscht,
-dass Ihr nicht einmal diese
-eine simple Erledigung für
-mich tätigen konntet.
+<ce> Was soll das? Die Formel wurde
+<ce> entweiht! Ich bin enttäuscht,
+<ce> dass Ihr nicht einmal diese
+<ce> eine simple Erledigung für
+<ce> mich tätigen konntet.
 

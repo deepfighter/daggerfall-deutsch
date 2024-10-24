@@ -3,42 +3,42 @@ DisplayName: Kräuterlieferung
 QRC:
 
 QuestorOffer:  [1000]
-Wenn Ihr die Hilfe der ==qgiver_
-wünscht, müsst zunächst Ihr uns einen
-Dienst erweisen. Werdet Ihr uns die
-drei Zutaten bringen, die wir brauchen,
-um unser Gebräu zu vollenden?
+<ce> Wenn Ihr die Hilfe der ==qgiver_
+<ce> wünscht, müsst zunächst Ihr uns einen
+<ce> Dienst erweisen. Werdet Ihr uns die
+<ce> drei Zutaten bringen, die wir brauchen,
+<ce> um unser Gebräu zu vollenden?
 
 RefuseQuest:  [1001]
-Dann verschwindet vom Grund unseres Zirkels!
-Unglück folgt jenen, die Alles für Nichts erwarten.
+<ce> Dann verschwindet vom Grund unseres Zirkels!
+<ce> Unglück folgt jenen, die Alles für Nichts erwarten.
 
 AcceptQuest:  [1002]
-Wir Hexen brauchen der Zutaten drei für
-unser Gebräu des Wetterweberei, doch sie
-aufzutreiben blieb uns bisher verwehrt.
-Zuerst, etwas _item1_ aus ___dungeon1_.
-Durchsucht zum zweiten ___dungeon2_
-nach ein wenig _item2_, was die Wolken
-zum Kochen bringen wird. Zuletzt müsst
-Ihr uns das wirksame Ingredienz _item3_
-aus ___dungeon3_ bringen.
-Beschafft uns diese Dinge in =queston_ Tagen,
-bevor sich unser Kessel erkaltet.
+<ce> Wir Hexen brauchen der Zutaten drei für
+<ce> unser Gebräu des Wetterweberei, doch sie
+<ce> aufzutreiben blieb uns bisher verwehrt.
+<ce> Zuerst, etwas _item1_ aus ___dungeon1_.
+<ce> Durchsucht zum zweiten ___dungeon2_
+<ce> nach ein wenig _item2_, was die Wolken
+<ce> zum Kochen bringen wird. Zuletzt müsst
+<ce> Ihr uns das wirksame Ingredienz _item3_
+<ce> aus ___dungeon3_ bringen.
+<ce> Beschafft uns diese Dinge in =queston_ Tagen,
+<ce> bevor sich unser Kessel erkaltet.
 
 QuestFail:  [1003]
-Wir benötigen _item1_, _item2_,
-und _item3_, %pcn.
-Wir haben keine Zeit für Geschwätz.
+<ce> Wir benötigen _item1_, _item2_,
+<ce> und _item3_, %pcn.
+<ce> Wir haben keine Zeit für Geschwätz.
 
 QuestComplete:  [1004]
-Geschwind, Schwester, nehmt die Last von
-diesem %ra. _item1_ zerstückelt,
-_item2_ geschält und zerstoßen
-das _item3_. Hier haben wir drei
-glitzernde Murmeln, für die wir keine
-Verwendung haben. Nehmt sie, %pcn,
-als Zeichen unserer Dankbarkeit.
+<ce> Geschwind, Schwester, nehmt die Last von
+<ce> diesem %ra. _item1_ zerstückelt,
+<ce> _item2_ geschält und zerstoßen
+<ce> das _item3_. Hier haben wir drei
+<ce> glitzernde Murmeln, für die wir keine
+<ce> Verwendung haben. Nehmt sie, %pcn,
+<ce> als Zeichen unserer Dankbarkeit.
 
 RumorsDuringQuest:  [1005]
 Das Wetter war in letzter Zeit ziemlich vorhersehbar. Die Hexen müssen wohl schlafen.
@@ -56,12 +56,14 @@ Man kann die Energie fast spüren. Als würde sich die Luft bereit machen, zu ex
 Wer auch immer behauptet, die ==qgiver_ verstünden nichts von ihrem Handwerk, ist ein verdammter Narr.
 
 QuestorPostsuccess:  [1008]
-Wegen der von Euch besorgten Zutaten - _item1_, _item2_ und _item3_ - stehe ich Euch zu Diensten, %pcf.
+<ce> Wegen der von Euch besorgten Zutaten -- _item1_,
+<ce> _item2_ und _item3_ -- stehe ich Euch zu Diensten,
+<ce> %pcf.
 
 QuestorPostfailure:  [1009]
-Ich ersuchte Euch um drei Zutaten,
-Ihr aber habt die ==qgiver_ enttäuscht.
-Geht mir aus den Augen!
+<ce> Ich ersuchte Euch um drei Zutaten,
+<ce> Ihr aber habt die ==qgiver_ enttäuscht.
+<ce> Geht mir aus den Augen!
 
 Message:  1011
 Sie ist eine der ==qgiver_. Jemand, zu dem man höflich sein sollte.
@@ -82,14 +84,23 @@ Message:  1015
  voll zu tun.
 
 Message:  1021
-Ihr habt die Zutat _item1_ gefunden.
-_qgiver_ hatte Euch darum gebeten.
+<ce> Ihr habt die Zutat _item1_ gefunden.
+<ce> _qgiver_ hatte Euch darum gebeten.
 
 Message:  1022
-Das muss das bisschen _item2_
-sein, das _qgiver_ wünschte.
+<ce> Das muss das bisschen _item2_
+<ce> sein, das _qgiver_ wünschte.
 
 Message:  1023
-Dies sieht aus wie die Probe _item3_,
-die _qgiver_ benötigte.
+<ce> Dies sieht aus wie die Probe _item3_,
+<ce> die _qgiver_ benötigte.
+
+Message:  1024
+<ce> Ihr bietet _item1_ dar.
+
+Message:  1025
+<ce> Ihr bietet _item2_ dar
+
+Message:  1026
+<ce> Ihr bietet _item3_ dar
 

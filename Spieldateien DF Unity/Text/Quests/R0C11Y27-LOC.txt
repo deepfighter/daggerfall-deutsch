@@ -3,61 +3,61 @@ DisplayName: Der Irre Schlächter
 QRC:
 
 QuestorOffer:  [1000]
-Ich versuche verzweifelt, meine unsicheren
-Beziehungen zu _ally_ zu festigen,
-aber ich finde, dass meine Position als
-starker und fähiger Herrscher infrage gestellt
-wird, weil ich unfähig bin, einen Irren in
-Schach zu halten. Mein Volk nennt diesen
-Wahnsinnigen den Schlächter von %reg. So sehr
-sich auch meine Wachen und die Polizei bemühen,
-sie sind ihm hilflos ausgeliefert. Sie haben
-keinerlei Hinweise auf seine Identität. Ich
-weiß, dass Ihr einige Ressourcen und eher
-unkonventionelle Kontakte habt. Werdet Ihr
-mir in dieser Angelegenheit helfen, zum Wohle
-von ganz %reg -- und für eine beträchtliche
-Summe Gold?
+<ce> Ich versuche verzweifelt, meine unsicheren
+<ce> Beziehungen zu _ally_ zu festigen,
+<ce> aber ich finde, dass meine Position als
+<ce> starker und fähiger Herrscher infrage gestellt
+<ce> wird, weil ich unfähig bin, einen Irren in
+<ce> Schach zu halten. Mein Volk nennt diesen
+<ce> Wahnsinnigen den Schlächter von %reg. So sehr
+<ce> sich auch meine Wachen und die Polizei bemühen,
+<ce> sie sind ihm hilflos ausgeliefert. Sie haben
+<ce> keinerlei Hinweise auf seine Identität. Ich
+<ce> weiß, dass Ihr einige Ressourcen und eher
+<ce> unkonventionelle Kontakte habt. Werdet Ihr
+<ce> mir in dieser Angelegenheit helfen, zum Wohle
+<ce> von ganz %reg -- und für eine beträchtliche
+<ce> Summe Gold?
 
 RefuseQuest:  [1001]
-Eine nicht ungewöhnliche Reaktion. Dann
-bleibt mir wohl nichts anderes übrig, als
-einige meiner weniger angenehmen Kontakte
-um Hilfe zu bitten -- eine Option, die ich
-zu vermeiden hoffte.
+<ce> Eine nicht ungewöhnliche Reaktion. Dann
+<ce> bleibt mir wohl nichts anderes übrig, als
+<ce> einige meiner weniger angenehmen Kontakte
+<ce> um Hilfe zu bitten -- eine Option, die ich
+<ce> zu vermeiden hoffte.
 
 AcceptQuest:  [1002]
-Danke %god dafür. Ich plane, mich in
-=total_ Tagen mit _ally_ zu treffen,
-und wenn diese Situation bis dahin
-nicht gelöst ist, wird meine Position
-kompromittiert sein. Ganz zu schweigen
-von der möglichen Unruhesituation, die
-sich hier in ___qgiver_ entwickelt,
-während die Morde weitergehen. Die
-einzige andere Person, die ich inoffiziell
-für diese Angelegenheit engagiert habe,
-ist _contact_, ein Gelehrter in
-_bookstore_, der einige der Briefe
-analysiert hat, die mir zugesandt wurden.
-Sprecht zuerst mit %g2 und überprüft seinen
-Fortschritt. Und kein Wort davon zu _ally_,
-falls Ihr zufällig auf %g2 in ___ally_
-trefft. %g2 muss glauben, dass die Situation
-nicht außer Kontrolle geraten ist.
+<ce> Danke %god dafür. Ich plane, mich in
+<ce> =total_ Tagen mit _ally_ zu treffen,
+<ce> und wenn diese Situation bis dahin
+<ce> nicht gelöst ist, wird meine Position
+<ce> kompromittiert sein. Ganz zu schweigen
+<ce> von der möglichen Unruhesituation, die
+<ce> sich hier in ___qgiver_ entwickelt,
+<ce> während die Morde weitergehen. Die
+<ce> einzige andere Person, die ich inoffiziell
+<ce> für diese Angelegenheit engagiert habe,
+<ce> ist _contact_, ein Gelehrter in
+<ce> _bookstore_, der einige der Briefe
+<ce> analysiert hat, die mir zugesandt wurden.
+<ce> Sprecht zuerst mit %g2 und überprüft seinen
+<ce> Fortschritt. Und kein Wort davon zu _ally_,
+<ce> falls Ihr zufällig auf %g2 in ___ally_
+<ce> trefft. %g2 muss glauben, dass die Situation
+<ce> nicht außer Kontrolle geraten ist.
 
 QuestFail:  [1003]
-Der Schlächter von %reg ist immer
-noch auf freiem Fuß. Ich habe keine Zeit
-zum Plaudern, und Ihr solltet auch nicht.
+<ce> Der Schlächter von %reg ist immer
+<ce> noch auf freiem Fuß. Ich habe keine Zeit
+<ce> zum Plaudern, und Ihr solltet auch nicht.
 
 QuestComplete:  [1004]
-%reg ist wieder friedlich, %pcf,
-dank Euch. Hier sind die versprochenen
-_reward_ Goldstücke -- gerne gebe ich es
-für das Ende dieses Wahnsinnigen. %god
-hat uns wahrlich gesegnet, als Ihr nach
-%reg gekommen seid.
+<ce> %reg ist wieder friedlich, %pcf,
+<ce> dank Euch. Hier sind die versprochenen
+<ce> _reward_ Goldstücke -- gerne gebe ich es
+<ce> für das Ende dieses Wahnsinnigen. %god
+<ce> hat uns wahrlich gesegnet, als Ihr nach
+<ce> %reg gekommen seid.
 
 RumorsDuringQuest:  [1005]
 Es ist nicht mehr sicher, auf die Straßen von %cn zu gehen. Nicht mit dem Schlächter von %reg.
@@ -85,35 +85,39 @@ Es ist seltsam, dass _qgiver_ niemandem den Namen des Schlächters verraten will
 Die %t nennt uns die Namen getöteter Verbrecher, aber nicht im Fall des Schlächters.
 
 QuestorPostsuccess:  [1008]
-Natürlich erinnere ich mich an Euch. Die ganze Sache mit dem Schlächter. Wie geht es Euch?
+<ce> Natürlich erinnere ich mich an Euch.
+<ce> Die ganze Sache mit dem Schlächter.
+<ce> Wie geht es Euch?
 <--->
-Hallo erneut, %pcf. Jetzt, wo der Schlächter hinter uns liegt, wie kann ich Euch helfen?
+<ce> Hallo erneut, %pcf.
+<ce> Jetzt, wo der Schlächter hinter uns liegt,
+<ce> wie kann ich Euch helfen?
 
 QuestorPostfailure:  [1009]
-Die Angelegenheit des Schlächter von
-%reg ist vorbei, aber es gibt
-noch viel zu tun. Ich habe wirklich
-keine Zeit und kein Interesse, jetzt
-mit Euch zu sprechen.
+<ce> Die Angelegenheit des Schlächter von
+<ce> %reg ist vorbei, aber es gibt
+<ce> noch viel zu tun. Ich habe wirklich
+<ce> keine Zeit und kein Interesse, jetzt
+<ce> mit Euch zu sprechen.
 
 QuestLogEntry:  [1010]
-%pcn? Ich bin _contact_.
-Ich war gerade auf dem Weg zu
-_hookerhouse_, um jemanden zu
-treffen, der vielleicht Licht
-in diese Angelegenheit bringen
-kann. Ein entfernter Cousin von
-_qgiver_, eine =hooker_ namens
-_hooker_, hat Briefe erhalten,
-die %g meint, ich sollte sehen
-und mit denen vergleichen, die
-_qgiver_ erhalten hat. Das ist
-alles, was ich weiß. Da ich hier
-so beschäftigt bin, warum lauft
-Ihr nicht rüber zu _hookerhouse_
-und seht nach, ob _hooker_
-aufhören wird, so geheimnisvoll
-zu sein.
+<ce> %pcn? Ich bin _contact_.
+<ce> Ich war gerade auf dem Weg zu
+<ce> _hookerhouse_, um jemanden zu
+<ce> treffen, der vielleicht Licht
+<ce> in diese Angelegenheit bringen
+<ce> kann. Ein entfernter Cousin von
+<ce> _qgiver_, eine =hooker_ namens
+<ce> _hooker_, hat Briefe erhalten,
+<ce> die %g meint, ich sollte sehen
+<ce> und mit denen vergleichen, die
+<ce> _qgiver_ erhalten hat. Das ist
+<ce> alles, was ich weiß. Da ich hier
+<ce> so beschäftigt bin, warum lauft
+<ce> Ihr nicht rüber zu _hookerhouse_
+<ce> und seht nach, ob _hooker_
+<ce> aufhören wird, so geheimnisvoll
+<ce> zu sein.
 
 Message:  1011
 _qgiver_, der letzte war So LECKER,
@@ -123,7 +127,7 @@ aus -- vielleicht wird der Schlächter Euch
 als Näcchstes besuchn. Den Schlächter zu machen, um das Fleisch zu dann noch ein bisschen mehr abzurechnen.
 Mit freundlichen Grüßen,
 Der Schlächtr von %reg
-
+ 
 _qgiver_, the last
  one was So Tasty, I eveN toke a bite. Yor
  WHole family looks juicy too -- may be the
@@ -138,14 +142,14 @@ _qgiver_, fnagt mich, wenn ihr KÖNNT.
 Könnt ihr mich nicht finden, vielleicht
 bin ich TOT. Was wist IHR übrehuapt
 übre den Tod?
-
+ 
 Eeur Fruend,
 Der Schlächtr von %reg
 
 Message:  1013
 _contact_,
  
-
+ 
  Ich habe kürzlich einen Brief erhalten,
  den ich zunächst nur für einen kranken
  Scherz hielt und fast weggeworfen hätte.
@@ -156,14 +160,14 @@ _contact_,
  Handschrift mit der in den Briefen
  übereinstimmt, die mein Cousin _qgiver_
  erhalten hat?
-
+ 
  _lovechild_ und ich werden hier sein
  und auf Euch warten. Ich würde es
  vorziehen, schriftlich nicht mehr Details
  zu besprechen, da das Thema ziemlich
  peinlich ist und nicht für die Diskussion
  mit anderen als engen Freunden geeignet ist.
-
+ 
  Mit freundlichen Grüßen,
  _hooker_
  _hookerhouse_
@@ -181,33 +185,33 @@ _hooker_,
  _rippername_
 
 Message:  1015
-%pcf, nehme ich an? _hooker_.
-Ich glaube, _contact_ wollte,
-dass Ihr mich findet, nicht wahr?
-Ich werde ehrlich mit Euch sein -- ich
-wollte mit einem alten Freund der
-Familie über diesen Vorfall sprechen,
-nicht, mit allem gebotenen Respekt, mit
-einem Söldner. Aller Wahrscheinlichkeit
-nach ist der Name des Schlächter von
-%reg _rippername_, ein armer kranker
-Cousin der %t's und meiner, der vor
-Jahren in eine Irrenanstalt eingewiesen
-wurde. Zum Wohle der Familie ist es
-essentiell, dass dies so dezent wie
-möglich gehalten wird und dass Verbündete
-wie _ally_ davon abgehalten werden, die
-Wahrheit zu erfahren. _rippername_
-muss zum Schweigen gebracht werden, bevor
-%g beschließt, jemand anderem als meinem
-Cousin und mir zu schreiben. Ich habe
-bereits den Kurier gefunden und bestochen,
-der mir den Brief gebracht hat, und ich
-denke, ich weiß, wo _rippername_ lebt.
-Wenn Ihr wirklich ernsthaft daran
-interessiert seid, diesen Wahnsinnigen
-zu fangen, ist _ripperhouse_ der Ort,
-an den Ihr als Nächstes gehen solltet.
+<ce> %pcf, nehme ich an? _hooker_.
+<ce> Ich glaube, _contact_ wollte,
+<ce> dass Ihr mich findet, nicht wahr?
+<ce> Ich werde ehrlich mit Euch sein -- ich
+<ce> wollte mit einem alten Freund der
+<ce> Familie über diesen Vorfall sprechen,
+<ce> nicht, mit allem gebotenen Respekt, mit
+<ce> einem Söldner. Aller Wahrscheinlichkeit
+<ce> nach ist der Name des Schlächter von
+<ce> %reg _rippername_, ein armer kranker
+<ce> Cousin der %t's und meiner, der vor
+<ce> Jahren in eine Irrenanstalt eingewiesen
+<ce> wurde. Zum Wohle der Familie ist es
+<ce> essentiell, dass dies so dezent wie
+<ce> möglich gehalten wird und dass Verbündete
+<ce> wie _ally_ davon abgehalten werden, die
+<ce> Wahrheit zu erfahren. _rippername_
+<ce> muss zum Schweigen gebracht werden, bevor
+<ce> %g beschließt, jemand anderem als meinem
+<ce> Cousin und mir zu schreiben. Ich habe
+<ce> bereits den Kurier gefunden und bestochen,
+<ce> der mir den Brief gebracht hat, und ich
+<ce> denke, ich weiß, wo _rippername_ lebt.
+<ce> Wenn Ihr wirklich ernsthaft daran
+<ce> interessiert seid, diesen Wahnsinnigen
+<ce> zu fangen, ist _ripperhouse_ der Ort,
+<ce> an den Ihr als Nächstes gehen solltet.
 
 Message:  1016
 _hooker_ ist ein Adliger, ein =hooker_, der irgendwie mit %t verwandt ist, glaube ich.
@@ -221,32 +225,32 @@ _hooker_ ist ein =hooker_, der mit _qgiver_ verwandt ist. Ihr findet sie in _hoo
 
 Message:  1018
 _qgiver_,
-
+ 
  ich gee mein MessR zuürck, denn ihc weiß, dass ihr mich nei fangn werded. Abr ich werd Euhc und nur Euch sagen, dass der WAHNSINNIGE Schlitzer von %cn der Schlächter von %reg ist _rippername_.
  
  Kontet IHR nihct raten, Cuosin? IHR HABT MICH ZUM VERROTTEN IN EIN LOCH GESTECKT! EIN DAMPFENDES LOCH, GEFÜLLT MIT DEN SCHWARZEN LEICHEN EURER EIGENEN VERWANDTEN!! Wei könt Ihr mid Euh seblst lebn, wisend, was Ihr Eurn Cuosins angetan habt, um %t zu werden ...
  
  _rippername_ hoft, Euhc im REICH DES VERGESSENS zu sehn, _qgiver_, wo ich Ecuh in ein dunkles Loch steckn werde und Ihr Erue Kinder essn könnt, um zu überlebn. Eines Tages werde Eure Freunde es wissn, ja, ich hoff, sie werdn es wissen. Und dann werden sie Euch zerreißen und zu mir hinabwerfen, und Ihr werdet schreien und schreien, abre anders als ihc, werdet Ihr DOD sein!
-
+ 
  Mit freundlichen Grüßen
  _rippername_,
  Der Schlächtr von %reg
 
 Message:  1019
- %oth! Der Schlächter von %reg
- ist ein Cousin von _qgiver_?
- Ich habe gehört, dass es verdächtige
- Umstände hinter dem Aufstieg der %t
- gab. Das wird vollständig untersucht,
- merkt Euch meine Worte. Ihr seid ein
- wahrer Patriot, dass Ihr mir das zur
- Kenntnis gebracht habt, %pcf.
- Hier, bitte akzeptiert _reward2_
- als Geschenk für Eure Dienste.
+<ce> %oth! Der Schlächter von %reg
+<ce> ist ein Cousin von _qgiver_?
+<ce> Ich habe gehört, dass es verdächtige
+<ce> Umstände hinter dem Aufstieg der %t
+<ce> gab. Das wird vollständig untersucht,
+<ce> merkt Euch meine Worte. Ihr seid ein
+<ce> wahrer Patriot, dass Ihr mir das zur
+<ce> Kenntnis gebracht habt, %pcf.
+<ce> Hier, bitte akzeptiert _reward2_
+<ce> als Geschenk für Eure Dienste.
 
 Message:  1020
 %qdt:
-
+ 
  Ich bin auf der Spur des Schlächter
  von %reg. _qgiver_ will
  den Schlächter in =total_ Tagen gefasst
@@ -295,7 +299,7 @@ Message:  1024
  gesprochen, das mir erzählte, dass ein
  Cousin zu Besuch kam und _hookerhouse_
  nach _ripperhouse_ brachte. Ich schätze,
- das  wird mein nächstes Ziel.
+ das wird mein nächstes Ziel.
  
 Message:  1025
 Das alte Gerücht ist zurück, dass _qgiver_ %g3's Cousins getötet hat, um die %t zu werden.
@@ -307,16 +311,16 @@ Man sagt, _ally_ versuche, einen von _qgiver_'s Cousins als neuen %t einzusetzen
 _ally_ wandte sich plötzlich gegen _qgiver_, sobald der Schlächter aus dem Weg war.
 
 Message:  1026
-Mein großer Cousin _rippername_
-kam vorbei, und %g sagte, %g wollte
-meine Mutter sehen. Ich glaube nicht,
-dass ihr das gefiel, denn sie schrie
-viel. _rippername_ nahm sie mit und
-sagte mir, ich solle nach ein bisschen
-zu %g3's Haus kommen, nachdem er mit
-dem Besuch bei meiner Mutter fertig war,
-aber ich will nicht gehen, weil jeder
-weiß, dass _ripperhouse_ verflucht ist.
+<ce> Mein großer Cousin _rippername_
+<ce> kam vorbei, und %g sagte, %g wollte
+<ce> meine Mutter sehen. Ich glaube nicht,
+<ce> dass ihr das gefiel, denn sie schrie
+<ce> viel. _rippername_ nahm sie mit und
+<ce> sagte mir, ich solle nach ein bisschen
+<ce> zu %g3's Haus kommen, nachdem er mit
+<ce> dem Besuch bei meiner Mutter fertig war,
+<ce> aber ich will nicht gehen, weil jeder
+<ce> weiß, dass _ripperhouse_ verflucht ist.
 
 Message:  1027
 _contact_ ist ein recht gelehrter Gelehrter in _bookstore_.
@@ -329,8 +333,7 @@ _contact_ ist ein Narr, der eines Tages in Schwierigkeiten geraten wird, wenn er
 _contact_ ist ein Gelehrter in _bookstore_, der gefährlich nah in die Schlächter-Geschäfte verwickelt ist.
 
 Message:  1050
-Ihr müsst weglaufen, wenn Ihr leben wollt.
-Ich kenne meinen Cousin _qgiver_ ...
-gesendet ... _qgiver_ ... mein Messer
-hier ist es schön, gefällt es Euch?!
-
+<ce> Ihr müsst weglaufen, wenn Ihr leben wollt.
+<ce> Ich kenne meinen Cousin _qgiver_ ...
+<ce> gesendet ... _qgiver_ ... mein Messer
+<ce> hier ist es schön, gefällt es Euch?!

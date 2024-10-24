@@ -3,16 +3,17 @@ DisplayName: Der rebellische Magier, Teil 2
 QRC:
 
 QuestComplete:  [1004]
-Hier ist eine Kleinigkeit, an der ich
-gearbeitet habe. Schaut mal, ob es
-Euch gefällt. Ich bin weg!
+<ce> Hier ist eine Kleinigkeit, an der ich
+<ce> gearbeitet habe. Schaut mal, ob es
+<ce> Euch gefällt. Ich bin weg!
 
 Message:  1020
 %qdt:
  Baltham Graumann, der rebellische Magier,
  den ich damals verfolgt habe, hat mich
  gebeten, seinen Boten in der Taverne
- [_tavern_] in __tavern_ zu treffen.
+ [_tavern_] in __tavern_
+ ____tavern_ zu treffen.
 
 Message:  1021
 %qdt:
@@ -25,7 +26,7 @@ Message:  1021
 
 Message:  1030
 %pcn: Seid gegrüßt!
-  
+ 
     Ich hoffe, diese Nachricht findet
  Euch wohlbehalten. Seid Ihr an einem
  kleinen Abenteuer interessiert?
@@ -43,64 +44,63 @@ als Ihr durch die Tür tretet. Ist das da
 drüben ein Golem? Mit einem Zettel auf
 dem Rücken, auf dem "SCHLAGT MICH"
 geschrieben steht?
- 
 
 Message:  1032
 Der Golem intoniert mit versteinertem Ausdruck:
  
- "Hallo %pcn. Ich bin =atronach_,
- bescheidener Diener von Baltham Graumann.
- Er lässt fragen, ob Ihr mit ihm den Direnni-Turm
- auf der Insel Balfiera erkunden wollt. Ein
- magischer Ort voller Wunder jenseits aller
- Vorstellungskraft. Mein Meister wird Euch dort
- in =towertime_ Tagen treffen."
+<ce> "Hallo %pcn. Ich bin =atronach_,
+<ce> bescheidener Diener von Baltham Graumann.
+<ce> Er lässt fragen, ob Ihr mit ihm den Direnni-Turm
+<ce> auf der Insel Balfiera erkunden wollt. Ein
+<ce> magischer Ort voller Wunder jenseits aller
+<ce> Vorstellungskraft. Mein Meister wird drinnen für
+<ce> =towertime_ Tage auf Euch warten."
  
 Damit verschwindet =atronach_ in einer Rauchwolke.
 
 Message:  1040
-%pcf, schön Euch wiederzusehen!
-Ihr scheint ohne mich angefangen zu
-haben - diese Kiste, die Ihr da tragt,
-ist genau das, wonach ich gesucht habe.
-Es macht Euch doch nichts, wenn ich sie
-mir ausborge, oder? Danke vielmals!
+<ce> %pcf, schön Euch wiederzusehen!
+<ce> Ihr scheint ohne mich angefangen zu
+<ce> haben - diese Kiste, die Ihr da tragt,
+<ce> ist genau das, wonach ich gesucht habe.
+<ce> Es macht Euch doch nichts, wenn ich sie
+<ce> mir ausborge, oder? Danke vielmals!
 
 Message:  1041
-%pcf, wie schön, dass Ihr Euch
-meiner kleinen Feier anschließt.
-Hört zu, ich suche eine große Truhe,
-die sich, glaube ich, irgendwo hier
-im Direnni-Turm befindet. Ihr könnt
-alles behalten, das wir finden, ich
-will nur diese Truhe. Gut, wollen
-wir dann aufbrechen?
+<ce> %pcf, wie schön, dass Ihr Euch
+<ce> meiner kleinen Feier anschließt.
+<ce> Hört zu, ich suche eine große Truhe,
+<ce> die sich, glaube ich, irgendwo hier
+<ce> im Direnni-Turm befindet. Ihr könnt
+<ce> alles behalten, das wir finden, ich
+<ce> will nur diese Truhe. Gut, wollen
+<ce> wir dann aufbrechen?
 
 Message:  1042
-Ah, das ist die große Truhe, nach der
-ich gesucht habe. Hmm, eigentlich
-hatte ich irgendeine Art von Wächter
-erwartet ... uh oh ...
+<ce> Ah, das ist die große Truhe, nach der
+<ce> ich gesucht habe. Hmm, eigentlich
+<ce> hatte ich irgendeine Art von Wächter
+<ce> erwartet ... uh oh ...
 
 Message:  1043
-Nun gut, es hat Spaß gemacht.
-Vielleicht können wir das
-irgendwann wiederholen. Ta ta!
+<ce> Nun gut, es hat Spaß gemacht.
+<ce> Vielleicht können wir das
+<ce> irgendwann wiederholen. Ta ta!
 
 Message:  1050
-Nehmt das! Und das!
-Modriges altes Ding!
+<ce> Nehmt das! Und das!
+<ce> Modriges altes Ding!
 
 Message:  1051
-So macht man das!
-Und nehmt auch noch
-ein bisschen hiervon!
+<ce> So macht man das!
+<ce> Und nehmt auch noch
+<ce> ein bisschen hiervon!
 
 Message:  1052
-Verdammter Mist, lasst uns
-hier verschwinden! Wenn ich
-es nur schaffe, dass dieser
-Spruch funktioniert ... 
+<ce> Verdammter Mist, lasst uns
+<ce> hier verschwinden! Wenn ich
+<ce> es nur schaffe, dass dieser
+<ce> Spruch funktioniert ... 
 
 Message:  1070
 Ein Rabe kreist über Euch und lässt

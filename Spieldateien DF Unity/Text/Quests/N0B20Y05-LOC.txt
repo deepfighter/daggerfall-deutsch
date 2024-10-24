@@ -3,58 +3,58 @@ DisplayName: Der wahnsinnige Zauberer
 QRC:
 
 QuestorOffer:  [1000]
-Ihr habt sicherlich von dem irren Magier
-_wizard_ gehört. Wegen der enormen
-Macht, über die %g verfügt, hat es %rt
-%rn bisher hinausgezögert, offensiv
-gegen _wizard_ vorzugehen, aber mit
-dieser Strategie ist es nun vorbei.
-Die Hoheit hat uns gebeten, jemanden
-zu schicken, um diesen psychopathischen
-Magier auszuschalten. Würdet Ihr das im
-Austausch für einen magischen Gegenstand
-[_reward_] erledigen?
+<ce> Ihr habt sicherlich von dem irren Magier
+<ce> _wizard_ gehört. Wegen der enormen
+<ce> Macht, über die %g verfügt, hat es %rt
+<ce> %rn bisher hinausgezögert, offensiv
+<ce> gegen _wizard_ vorzugehen, aber mit
+<ce> dieser Strategie ist es nun vorbei.
+<ce> Die Hoheit hat uns gebeten, jemanden
+<ce> zu schicken, um diesen psychopathischen
+<ce> Magier auszuschalten. Würdet Ihr das im
+<ce> Austausch für einen magischen Gegenstand
+<ce> [_reward_] erledigen?
 <--->
-Die Bewohner von %reg verlangen,
-dass die Magiergilde etwas gegen den
-wahnsinnigen Zauberer unternimmt, der
-das Land schon seit geraumer Zeit
-terrorisiert. Nun, auf Befehl des
-Erzmagisters persönlich werden wir
-genau das tun. Ich weiß, das ist kaum
-die Aufgabe, die eine akademische
-Institution vergeben sollte, aber wärt
-Ihr gewillt und in der Lage, dem irren
-Zauberer einen Besuch abzustatten und
-dann Hackfleisch aus ihm zu machen?
+<ce> Die Bewohner von %reg verlangen,
+<ce> dass die Magiergilde etwas gegen den
+<ce> wahnsinnigen Zauberer unternimmt, der
+<ce> das Land schon seit geraumer Zeit
+<ce> terrorisiert. Nun, auf Befehl des
+<ce> Erzmagisters persönlich werden wir
+<ce> genau das tun. Ich weiß, das ist kaum
+<ce> die Aufgabe, die eine akademische
+<ce> Institution vergeben sollte, aber wärt
+<ce> Ihr gewillt und in der Lage, dem irren
+<ce> Zauberer einen Besuch abzustatten und
+<ce> dann Hackfleisch aus ihm zu machen?
 
 RefuseQuest:  [1001]
-Verflucht. Ich hatte gehofft, dass wir
-in dieser Sache auf Euch zählen könnten.
+<ce> Verflucht. Ich hatte gehofft, dass wir
+<ce> in dieser Sache auf Euch zählen könnten.
 
 AcceptQuest:  [1002]
-Ausgezeichnet. Ich wusste, dass Ihr uns
-nicht im Stich lassen würdet, %pcf.
-Nun denn, _wizard_ wird höchstens noch
-=1stparton_ Tage im Laboratorium ___mondung_
-verweilen, bevor %g in einem anderen Unterschlupf
-weiterzieht. Die Hoheit besteht darauf, dass wir
-binnen =1stparton_ Tagen vom Tod dieses Magiers
-berichten, säumt also nicht, nachdem es vollbracht
-ist. Ich sehe Euch in =1stparton_ Tagen.
-Habt Dank und viel Glück, %pcf.
+<ce> Ausgezeichnet. Ich wusste, dass Ihr uns
+<ce> nicht im Stich lassen würdet, %pcf.
+<ce> Nun denn, _wizard_ wird höchstens noch
+<ce> =1stparton_ Tage im Laboratorium ___mondung_
+<ce> verweilen, bevor %g in einem anderen Unterschlupf
+<ce> weiterzieht. Die Hoheit besteht darauf, dass wir
+<ce> binnen =1stparton_ Tagen vom Tod dieses Magiers
+<ce> berichten, säumt also nicht, nachdem es vollbracht
+<ce> ist. Ich sehe Euch in =1stparton_ Tagen.
+<ce> Habt Dank und viel Glück, %pcf.
 
 QuestFail:  [1003]
-Ich denke, Ihr solltet diese Sache vorantreiben,
-von der wir gesprochen hatten, nicht wahr?
+<ce> Ich denke, Ihr solltet diese Sache vorantreiben,
+<ce> von der wir gesprochen hatten, nicht wahr?
 
 QuestComplete:  [1004]
-Einmal mehr erstaunt Ihr mich mit Eurem
-Können und Eurer Kompetenz, %pcf.
-Hervorragende Arbeit - die Hoheit
-wird ebenso zufrieden sein wie ich.
-Hier ist die Belohnung [_reward_],
-die ich versprochen habe. Viel Vergnügen damit.
+<ce> Einmal mehr erstaunt Ihr mich mit Eurem
+<ce> Können und Eurer Kompetenz, %pcf.
+<ce> Hervorragende Arbeit - die Hoheit
+<ce> wird ebenso zufrieden sein wie ich.
+<ce> Hier ist die Belohnung [_reward_],
+<ce> die ich versprochen habe. Viel Vergnügen damit.
 
 RumorsDuringQuest:  [1005]
 Die Magiergilde hat jemanden geschickt, der sich dieses verrückten Zauberers in ___mondung_ annehmen wird.
@@ -72,14 +72,15 @@ Das war hoffentlich das letzte Mal, dass wir von dem wahnsinnigen Zauberer aus _
 Es scheint ziemlich ruhig zu sein, da wir uns nicht mehr um einen wahnsinnigen Zauberer sorgen müssen.
 
 QuestorPostsuccess:  [1008]
-Hallo, %pcf. Ich hoffe, dieser irre Zauberer hat Euch nicht allzu schwer verletzt.
+<ce> Hallo, %pcf. Ich hoffe, dieser
+<ce> irre Zauberer hat Euch nicht allzu schwer verletzt.
 
 QuestorPostfailure:  [1009]
-So, Ihr seid zurück, habt aber
-den wahnsinnigen Zauberer von
-___mondung_ nicht getötet? Es
-ist hoffnungslos, %pcf,
-hoffnungslos.
+<ce> So, Ihr seid zurück, habt aber
+<ce> den wahnsinnigen Zauberer von
+<ce> ___mondung_ nicht getötet? Es
+<ce> ist hoffnungslos, %pcf,
+<ce> hoffnungslos.
 
 Message:  1030
 %qdt:
@@ -91,5 +92,5 @@ Message:  1030
 
 Message:  1040
 Ihr habt _wizard_ getötet,
-den verrückten Magierg von ___mondung_.
+den verrückten Magier von ___mondung_.
 

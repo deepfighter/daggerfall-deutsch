@@ -27,7 +27,7 @@ Message:  1022
 Message:  1023
 %qdt:
  Wir haben die Karte. Ich habe angeboten,
- nach ___keydung_  zu gehen, um
+ nach ___keydung_ zu gehen, um
  einen speziellen Schlüssel [_key_]
  zu finden, den wir brauchen, um ___itemdung_
  betreten zu können. Ich werde mich in
@@ -38,126 +38,126 @@ Message:  1030
 Eine zerschlissene Karte nach ___itemdung_.
 
 Message:  1040
-Es ist gut, dass Ihr hergekommen seid.
-Ich habe ein neues Projekt, das Euch
-glaube ich interessieren wird. Es
-würde allerdings einen kleinen Überfall
-auf unsere Freunde von der Magiergilde
-einschließen. Was sagt Ihr?
+<ce> Es ist gut, dass Ihr hergekommen seid.
+<ce> Ich habe ein neues Projekt, das Euch
+<ce> glaube ich interessieren wird. Es
+<ce> würde allerdings einen kleinen Überfall
+<ce> auf unsere Freunde von der Magiergilde
+<ce> einschließen. Was sagt Ihr?
 
 Message:  1041
-Wie Ihr wollt. Ich dachte nur,
-Ihr und ich wären Freunde.
+<ce> Wie Ihr wollt. Ich dachte nur,
+<ce> Ihr und ich wären Freunde.
 
 Message:  1042
-Ich wusste, Ihr würdet nicht widerstehen können!
+<ce> Ich wusste, Ihr würdet nicht widerstehen können!
  
-Hier ist der Plan: Ich suche nun schon seit
-geraumer Zeit nach der Lage von ___itemdung_,
-angeblich die letzte Bleibe für einen ganzen
-Hort magischer Gegenstände. Darunter ist
-auch ein Gegenstand, den ich für meine eigenen
-Zwecke benötige [_item_] - eine Geschichte
-für ein andermal. Der Punkt: Ich habe
-herausgefunden, dass die Magiergilde von
-__magesguild_ in den Besitz einer
-Karte gelangt ist, die uns nach ___itemdung_
-führen kann. Trotz meiner offiziellen
-Verbannung habe ich immer noch ein paar
-Freunde in der Gilde ... Die Gilde hat
-keine Ahnung, auf was sie da eigentlich
-sitzen, also liegt es an uns, die Karte zu
-befreien und zu ihrem vollen Potential
-einzusetzen.
+<ce> Hier ist der Plan: Ich suche nun schon seit
+<ce> geraumer Zeit nach der Lage von ___itemdung_,
+<ce> angeblich die letzte Bleibe für einen ganzen
+<ce> Hort magischer Gegenstände. Darunter ist
+<ce> auch ein Gegenstand, den ich für meine eigenen
+<ce> Zwecke benötige [_item_] - eine Geschichte
+<ce> für ein andermal. Der Punkt: Ich habe
+<ce> herausgefunden, dass die Magiergilde von
+<ce> __magesguild_ in den Besitz einer
+<ce> Karte gelangt ist, die uns nach ___itemdung_
+<ce> führen kann. Trotz meiner offiziellen
+<ce> Verbannung habe ich immer noch ein paar
+<ce> Freunde in der Gilde ... Die Gilde hat
+<ce> keine Ahnung, auf was sie da eigentlich
+<ce> sitzen, also liegt es an uns, die Karte zu
+<ce> befreien und zu ihrem vollen Potential
+<ce> einzusetzen.
 
 Message:  1043
-Ja, das ist die Karte!
+<ce> Ja, das ist die Karte!
 
 Message:  1044
 Baltham Graumann hebt seinen Stab.
  
- "Hochgeschätzte Damen und Herren, leider
- leider müssen wir Euch nun wirklich verlassen!"
+<ce> "Hochgeschätzte Damen und Herren, leider
+<ce> leider müssen wir Euch nun wirklich verlassen!"
  
 Eine Lichtkugel explodiert aus dem Stab heraus
 und blendet Euch für einen Augenblick.
 
 Message:  1045
-Ich denke, es wäre das Beste, wenn wir uns
-erstmal trennen und dieses Wespennest ein
-bisschen zur Ruhe kommen lassen. Ich muss
-mich noch um eine andere Sache kümmern,
-bevor wir ___itemdung_ betreten
-können ... es sei denn, Ihr wollt das
-für mich erledigen?
+<ce> Ich denke, es wäre das Beste, wenn wir uns
+<ce> erstmal trennen und dieses Wespennest ein
+<ce> bisschen zur Ruhe kommen lassen. Ich muss
+<ce> mich noch um eine andere Sache kümmern,
+<ce> bevor wir ___itemdung_ betreten
+<ce> können ... es sei denn, Ihr wollt das
+<ce> für mich erledigen?
 
 Message:  1046
-Sehr schön. ___itemdung_ kann nicht ohne
-den Schlüssel [_key_] betreten werden,
-der sich, wie ich herausgefunden habe, irgendwo
-in ___keydung_ befindet.  Wenn Ihr den Schlüssel
-[_key_] gefunden habt, trefft mich in der Taverne
-[_tavern_] in __tavern_,
-sagen wir, in =keytime_ Tagen.
+<ce> Sehr schön. ___itemdung_ kann nicht ohne
+<ce> den Schlüssel [_key_] betreten werden,
+<ce> der sich, wie ich herausgefunden habe, irgendwo
+<ce> in ___keydung_ befindet. Wenn Ihr den Schlüssel
+<ce> [_key_] gefunden habt, trefft mich in der Taverne
+<ce> [_tavern_] in __tavern_,
+<ce> sagen wir, in =keytime_ Tagen.
 
 Message:  1047
-Kein Problem. Ich brauche, sagen wir,
-=keytime_ Tage, um mich um diese Sache
-zu kümmern. Ich treffe Euch in __tavern_
-in der Taverne [_tavern_] wieder,
-sobald ich den Schlüssel zu ___itemdung_
-beschafft habe. Viel Glück!
+<ce> Kein Problem. Ich brauche, sagen wir,
+<ce> =keytime_ Tage, um mich um diese Sache
+<ce> zu kümmern. Ich treffe Euch in __tavern_
+<ce> in der Taverne [_tavern_] wieder,
+<ce> sobald ich den Schlüssel zu ___itemdung_
+<ce> beschafft habe. Viel Glück!
 
 Message:  1050
 Das muss der magische Schlüssel [_key_]
 zu ___itemdung_ sein.
 
 Message:  1051
-Mit diesem magischen Schlüssel [_key_]
-in unserem Besitz sind wir endlich
-bereit, ___itemdung_ zu trotzen.
+<ce> Mit diesem magischen Schlüssel [_key_]
+<ce> in unserem Besitz sind wir endlich
+<ce> bereit, ___itemdung_ zu trotzen.
  
-Nach Euch!
+<ce> Nach Euch!
 
 Message:  1052
 Eine dumpfe Stimme dröhnt:
  
- "Eindringlinge sind hier nicht willkommen!"
+<ce> "Eindringlinge sind hier nicht willkommen!"
 
 Message:  1053
-Ihr kommt zu spät, Baltham Graumann!
-Es war ein Leichtes, Euch hierher nach
-___itemdung_ zu folgen, nachdem
-Ihr den Schlüssel für mich gefunden hattet.
-Euer magischer Gegenstand [_item_]
-gehört jetzt mir, und nur mir!
+<ce> Ihr kommt zu spät, Baltham Graumann!
+<ce> Es war ein Leichtes, Euch hierher nach
+<ce> ___itemdung_ zu folgen, nachdem
+<ce> Ihr den Schlüssel für mich gefunden hattet.
+<ce> Euer magischer Gegenstand [_item_]
+<ce> gehört jetzt mir, und nur mir!
 
 Message:  1054
-"Nun denn, %pcf, ein vergnüglicher kleiner Ausflug,
-nicht wahr? Ich werde den Gegenstand [ _item_]
-nehmen und mich auf den Weg machen."
+<ce> "Nun denn, %pcf, ein vergnüglicher kleiner Ausflug,
+<ce> nicht wahr? Ich werde den Gegenstand [ _item_]
+<ce> nehmen und mich auf den Weg machen."
  
 Gebt Ihr Baltham Graumann das Objekt [ _item_]?
 
 Message:  1055
-Bis zum nächsten Mal!
+<ce> Bis zum nächsten Mal!
 
 Message:  1056
-Dann zeigt Ihr also Euer wahres Gesicht.
-Ich habe nur um ein kleines Ding gebeten,
-doch Eure Gier kennt scheinbar keine Grenzen. 
+<ce> Dann zeigt Ihr also Euer wahres Gesicht.
+<ce> Ich habe nur um ein kleines Ding gebeten,
+<ce> doch Eure Gier kennt scheinbar keine Grenzen. 
 
 Message:  1070
 Ein Schatten huscht über Euch hinweg.
 Über Euch kreist ein Rabe. Bevor er gen
 Westen verschwindet, krächzt er unfreundlich:
-  
- "Keine Zeit! Keine Zeit!
- _tavern_,
- __tavern_,
- ____tavern_!"
+ 
+<ce> "Keine Zeit! Keine Zeit!
+<ce> _tavern_,
+<ce> __tavern_,
+<ce> ____tavern_!"
 
 Message:  1071
-%pcf, habt Ihr Euch verlaufen?
-Ich fürchte, ich muss Euch nun verlassen.
+<ce> %pcf, habt Ihr Euch verlaufen?
+<ce> Ich fürchte, ich muss Euch nun verlassen.
 

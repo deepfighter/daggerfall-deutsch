@@ -3,38 +3,38 @@ DisplayName: Vampirprobleme
 QRC:
 
 QuestorOffer:  [1000]
-Ich fürchte, wir haben womöglich ein Problem.
-Ein Vampir-Ältester, der Hexen hasst, hat ein
-verlassenes Schloss in unserem Gebiet bezogen.
-Offensichtlich ist das eine Situation, der wir
-Abhilfe schaffen müssen, meint Ihr nicht auch,
-%pcf?
+<ce> Ich fürchte, wir haben womöglich ein Problem.
+<ce> Ein Vampir-Ältester, der Hexen hasst, hat ein
+<ce> verlassenes Schloss in unserem Gebiet bezogen.
+<ce> Offensichtlich ist das eine Situation, der wir
+<ce> Abhilfe schaffen müssen, meint Ihr nicht auch,
+<ce> %pcf?
 
 RefuseQuest:  [1001]
-Ich kann Eure Furcht nachvollziehen. Nur die
-sehr Fähigen oder sehr Törichten würden einstimmen,
-einen Vampir-Ältesten zu töten.
+<ce> Ich kann Eure Furcht nachvollziehen. Nur die
+<ce> sehr Fähigen oder sehr Törichten würden einstimmen,
+<ce> einen Vampir-Ältesten zu töten.
 
 AcceptQuest:  [1002]
-So würdet Ihr? Und doch ist ein Vampir-Ältester
-alles andere als ein schwacher Widersacher. Zieht
-nicht ohne Vorbereitung in die Schlacht. Die Kreatur
-wird =vamprival_ genannt und ihr neuer
-Zufluchtsort ist ein Ort namens ___mondung_.
-Ihr findet es in ____mondung_. Ich erwarte
-Euch in =1stparton_ Nächten zurück. Auf dass Ihr
-Euch nicht töten lasst, %pcf.
+<ce> So würdet Ihr? Und doch ist ein Vampir-Ältester
+<ce> alles andere als ein schwacher Widersacher. Zieht
+<ce> nicht ohne Vorbereitung in die Schlacht. Die Kreatur
+<ce> wird =vamprival_ genannt und ihr neuer
+<ce> Zufluchtsort ist ein Ort namens ___mondung_.
+<ce> Ihr findet es in ____mondung_. Ich erwarte
+<ce> Euch in =1stparton_ Nächten zurück. Auf dass Ihr
+<ce> Euch nicht töten lasst, %pcf.
 
 QuestFail:  [1003]
-Vielleicht habt Ihr darauf gehofft, dass
-=vamprival_ Selbstmord begeht?
-Unwahrscheinlich. Dann müsst Ihr der Bote
-%g3 Todes sein.
+<ce> Vielleicht habt Ihr darauf gehofft, dass
+<ce> =vamprival_ Selbstmord begeht?
+<ce> Unwahrscheinlich. Dann müsst Ihr der Bote
+<ce> %g3 Todes sein.
 
 QuestComplete:  [1004]
-Wir konnten selbst hier noch die Schreie
-des Ältesten vernehmen, %pcf.
-Ihr habt die Dankbarkeit der Hexen.
+<ce> Wir konnten selbst hier noch die Schreie
+<ce> des Ältesten vernehmen, %pcf.
+<ce> Ihr habt die Dankbarkeit der Hexen.
 
 RumorsDuringQuest:  [1005]
 Es gab ziemlich viel Bewegung in ___mondung_, aber der Ort wurde schon vor Jahren verlassen.
@@ -42,34 +42,35 @@ Es gab ziemlich viel Bewegung in ___mondung_, aber der Ort wurde schon vor Jahre
 =vamprival_ ist Aristokrat. Sagt, dass %g in ___mondung_ und %reg aufräumt.
 
 RumorsPostfailure:  [1006]
-Wie man hört ist =vamprival_ endlich aus  ___mondung_ fortgezogen. Das war kein Ort für einen Adeligen.
+Wie man hört ist =vamprival_ endlich aus ___mondung_ fortgezogen. Das war kein Ort für einen Adeligen.
 <--->
-Nun, da =vamprival_  ___mondung_ verlassen hat, ist %g häufig drüben in den Hallen.
+Nun, da =vamprival_ ___mondung_ verlassen hat, ist %g häufig drüben in den Hallen.
 
 RumorsPostsuccess:  [1007]
-Es hat sich herausgestellt, dass  =vamprival_ ein Vampir war! Das hätte ich nie gedacht!
+Es hat sich herausgestellt, dass =vamprival_ ein Vampir war! Das hätte ich nie gedacht!
 <--->
-%god sei Dank hat dieser wunderbare %ra-Söldner den Vampir in  ___mondung_ getötet.
+%god sei Dank hat dieser wunderbare %ra-Söldner den Vampir in ___mondung_ getötet.
 
 QuestorPostsuccess:  [1008]
-Wir haben =vamprival_ nicht vergessen, %pcf. Was können wir für Euch tun?
+<ce> Wir haben =vamprival_ nicht vergessen,
+<ce> %pcf. Was können wir für Euch tun?
 
 QuestorPostfailure:  [1009]
-=vamprival_ durchstreift noch immer
-die Nacht und zehrt von unseren Schwestern.
-Ihr hättet erkennen und erklären sollen,
-dass Ihr der Kreatur nicht gewachsen seid.
-Verlasst uns jetzt. Wir werden nicht weitersprechen.
+<ce> =vamprival_ durchstreift noch immer
+<ce> die Nacht und zehrt von unseren Schwestern.
+<ce> Ihr hättet erkennen und erklären sollen,
+<ce> dass Ihr der Kreatur nicht gewachsen seid.
+<ce> Verlasst uns jetzt. Wir werden nicht weitersprechen.
 
 Message:  1011
-_witch_ ist eine sehr freundliche und intelligente =witch_ in  __witch_.
+_witch_ ist eine sehr freundliche und intelligente =witch_ in __witch_.
 <--->
-_witch_ ist diese nette =witch_,  die Ihr in __witch_ findet, %di von hier.
+_witch_ ist diese nette =witch_, die Ihr in __witch_ findet, %di von hier.
 
 Message:  1012
-_witch_ gehört dem Hexenkult von  ___witch_ an.
+_witch_ gehört dem Hexenkult von ___witch_ an.
 <--->
-_witch_ ist eine  ___witch_-Hexe, eine =witch_.
+_witch_ ist eine ___witch_-Hexe, eine =witch_.
 
 Message:  1015
 %qdt:
@@ -78,9 +79,9 @@ Message:  1015
  zu töten, der auf die Vernichtung der Hexen
  von %reg versessen ist. Ich habe versprochen,
  dass ich der untoten Kreatur in ___mondung_
- binnen  =1stparton_ Tagen einen dauerhaften Tod
+ binnen =1stparton_ Tagen einen dauerhaften Tod
  bereite und dann nach ___witch_ zurückkehre.
 
 Message:  1020
-Ihr habt =vamprival_ getötet.
+<ce> Ihr habt =vamprival_ getötet.
 

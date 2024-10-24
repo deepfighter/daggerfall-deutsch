@@ -3,43 +3,43 @@ DisplayName: Brief eines Vampirs
 QRC:
 
 QuestorOffer:  [1000]
-Habt Ihr ein paar Nächte für die
-Angelegenheiten der %vam frei?
+<ce> Habt Ihr ein paar Nächte für die
+<ce> Angelegenheiten der %vam frei?
 
 RefuseQuest:  [1001]
-Ein "Nein" war nicht die Antwort,
-die ich erwartet hätte. Versucht,
-zukünftig mehr Zeit und Mühen für
-die %vam-Familie aufzubringen,
-Welpe. Ihr würdet nicht wünschen,
-dass sie Euch den Rücken kehrt.
+<ce> Ein "Nein" war nicht die Antwort,
+<ce> die ich erwartet hätte. Versucht,
+<ce> zukünftig mehr Zeit und Mühen für
+<ce> die %vam-Familie aufzubringen,
+<ce> Welpe. Ihr würdet nicht wünschen,
+<ce> dass sie Euch den Rücken kehrt.
 
 AcceptQuest:  [1002]
-%pcf, Ihr müsst einen Brief an
-einen Verbündeten der %vam
-überbringen. _pawn_ wird
-nicht länger als =1stparton_ Nächte im
-__pawn_ in ___pawn_ auf
-Euch warten. Lasst diese Frist
-nicht verstreichen! Ich erwarte Euch
-in =1stparton_ Nächten wieder hier zurück.
-Lebt wohl.
+<ce> %pcf, Ihr müsst einen Brief an
+<ce> einen Verbündeten der %vam
+<ce> überbringen. _pawn_ wird
+<ce> nicht länger als =1stparton_ Nächte im
+<ce> __pawn_ in ___pawn_ auf
+<ce> Euch warten. Lasst diese Frist
+<ce> nicht verstreichen! Ich erwarte Euch
+<ce> in =1stparton_ Nächten wieder hier zurück.
+<ce> Lebt wohl.
 
 QuestFail:  [1003]
-Ich bin erst wieder an einem
-Gespräch mit Euch interessiert,
-wenn sich mein Brief in den
-verschwitzten Händen von
-_pawn_ befindet,
-%pcf.
+<ce> Ich bin erst wieder an einem
+<ce> Gespräch mit Euch interessiert,
+<ce> wenn sich mein Brief in den
+<ce> verschwitzten Händen von
+<ce> _pawn_ befindet,
+<ce> %pcf.
 
 QuestComplete:  [1004]
-Ich danke Euch für die umgehende
-Überbringung meines Briefes, %pcf.
-Er war ziemlich wichtig und ich
-anderweitig beschäftigt. Nehmt
-_reward_ als Geschenk für
-einen gut ausgeführten Auftrag.
+<ce> Ich danke Euch für die umgehende
+<ce> Überbringung meines Briefes, %pcf.
+<ce> Er war ziemlich wichtig und ich
+<ce> anderweitig beschäftigt. Nehmt
+<ce> _reward_ als Geschenk für
+<ce> einen gut ausgeführten Auftrag.
 
 RumorsDuringQuest:  [1005]
 Dieser =pawn_ im __pawn_ wartet auf jemanden. Jemanden, der des Nachts eintrifft.
@@ -57,28 +57,28 @@ Der %rt hat anscheinend seine Meinung zur Existenz von Vampiren in %reg geänder
 Der %rt wollte nachts eigentlich mehr Wachen aufstellen, hat sich dann aber dagegen entschieden.
 
 QuestorPostsuccess:  [1008]
-Ich grüße Euch, %pcf. 
-Ich hoffe, _pawn_ hat
-der Höflichkeit Genüge getan.
+<ce> Ich grüße Euch, %pcf. 
+<ce> Ich hoffe, _pawn_ hat
+<ce> der Höflichkeit Genüge getan.
 
 QuestorPostfailure:  [1009]
-Als ich Euch zu _pawn_
-geschickt habe, erwartete ich
-bereits, dass Ihr zu %g2 geht, %pcf
-Macht mich nicht ... wütend.
+<ce> Als ich Euch zu _pawn_
+<ce> geschickt habe, erwartete ich
+<ce> bereits, dass Ihr zu %g2 geht, %pcf
+<ce> Macht mich nicht ... wütend.
 
 QuestLogEntry:  [1010]
-Ja, mein Name ist _pawn_.
-I-Ihr müsst %pcn sein.
-Sagt _vampire_, dass
-ich mich um alles kümmern werde.
-Lasst %g bitte wissen, dass
-ich loyal bin. Es hat sich nichts
-geändert. Ich danke Euch. Ich werde
-sicherstellen, dass alles gut läuft.
+<ce> Ja, mein Name ist _pawn_.
+<ce> I-Ihr müsst %pcn sein.
+<ce> Sagt _vampire_, dass
+<ce> ich mich um alles kümmern werde.
+<ce> Lasst %g bitte wissen, dass
+<ce> ich loyal bin. Es hat sich nichts
+<ce> geändert. Ich danke Euch. Ich werde
+<ce> sicherstellen, dass alles gut läuft.
 
 Message:  1011
-_vampire_?  Ein charmanter =vampire_, der sich im __vampire_ aufhält, glaube ich.
+_vampire_? Ein charmanter =vampire_, der sich im __vampire_ aufhält, glaube ich.
 <--->
 _vampire_ ist dieser =vampire_ im __vampire_.
 
@@ -153,4 +153,4 @@ Message:  1026
  _vampire_ aus ___vampire_
  hat mich in einer Angelegenheit der %vam
  zum __vampire_ gerufen.
- 
+

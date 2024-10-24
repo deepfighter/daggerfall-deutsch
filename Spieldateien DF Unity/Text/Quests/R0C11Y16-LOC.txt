@@ -3,47 +3,47 @@ DisplayName: Spionageausrüstung
 QRC:
 
 QuestorOffer:  [1000]
-Falls Ihr ein paar Tage erübrigen könnt
-und nichts dagegen habt, _reward_ Goldstücke
-reicher zu sein, habe ich eine Mission,
-für Euch, die Schnelligkeit und Feingefühl
-erfordert.
+<ce> Falls Ihr ein paar Tage erübrigen könnt
+<ce> und nichts dagegen habt, _reward_ Goldstücke
+<ce> reicher zu sein, habe ich eine Mission,
+<ce> für Euch, die Schnelligkeit und Feingefühl
+<ce> erfordert.
 
 RefuseQuest:  [1001]
-Nein? Ich hatte nicht erwartet,
-dass Ihr _reward_ Gold für ein paar
-Tage Arbeit ausschlagen würdet. Wie
-viele Bauern würden dafür morden?
-Nun gut. Euer Leben, Eure Entscheidung.
+<ce> Nein? Ich hatte nicht erwartet,
+<ce> dass Ihr _reward_ Gold für ein paar
+<ce> Tage Arbeit ausschlagen würdet. Wie
+<ce> viele Bauern würden dafür morden?
+<ce> Nun gut. Euer Leben, Eure Entscheidung.
 
 AcceptQuest:  [1002]
-Ausgezeichnet, %pcf.
-Ich habe einen Spion, _npc1_
-in __npc1_, der ein Teleskop
-benötigt, um %g3 Überwachungstätigkeiten
-fortzusetzen. Es wurde mir mitgeteilt,
-dass %g etwas von Interesse für einen
-gemeinsamen Freund von uns gefunden hat,
-das ebenfalls geliefert werden muss.
-Hier ist also das Teleskop. Bringt
-es zu einem =npc1_ in einem Ort
-namens __npc1_ in ___npc1_,
-und dort werdet Ihr weitere Anweisungen
-erhalten. Viel Glück, %pcf.
+<ce> Ausgezeichnet, %pcf.
+<ce> Ich habe einen Spion, _npc1_
+<ce> in __npc1_, der ein Teleskop
+<ce> benötigt, um %g3 Überwachungstätigkeiten
+<ce> fortzusetzen. Es wurde mir mitgeteilt,
+<ce> dass %g etwas von Interesse für einen
+<ce> gemeinsamen Freund von uns gefunden hat,
+<ce> das ebenfalls geliefert werden muss.
+<ce> Hier ist also das Teleskop. Bringt
+<ce> es zu einem =npc1_ in einem Ort
+<ce> namens __npc1_ in ___npc1_,
+<ce> und dort werdet Ihr weitere Anweisungen
+<ce> erhalten. Viel Glück, %pcf.
 
 QuestFail:  [1003]
-Hier herumzulungern wird Euch nicht
-wohlhabender machen, %pcf.
+<ce> Hier herumzulungern wird Euch nicht
+<ce> wohlhabender machen, %pcf.
 
 QuestComplete:  [1004]
-Ihr müsst %pcn sein.
-_npc1_ sagte mir, dass
-ich Euch erwarten soll. Ich bin
-_npc2_. Lasst mich einen
-Blick auf dieses Relikt werfen.
-Sehr interessant in der Tat. Nun, hier
-sind Eure _reward_ Goldstücke. Ihr habt
-mich nie gesehen, verstanden?
+<ce> Ihr müsst %pcn sein.
+<ce> _npc1_ sagte mir, dass
+<ce> ich Euch erwarten soll. Ich bin
+<ce> _npc2_. Lasst mich einen
+<ce> Blick auf dieses Relikt werfen.
+<ce> Sehr interessant in der Tat. Nun, hier
+<ce> sind Eure _reward_ Goldstücke. Ihr habt
+<ce> mich nie gesehen, verstanden?
 
 RumorsDuringQuest:  [1005]
 Wenn _questgiver_ wirklich ein Spionagenetzwerk hat, muss es ziemlich gut versteckt sein.
@@ -61,33 +61,35 @@ Ich habe immer das Gefühl, dass ich überall in ___npc1_ beobachtet werde.
 Ich frage mich, ob sie jemals dieses Relikt finden werden, das aus dem Palast gestohlen wurde.
 
 QuestorPostsuccess:  [1008]
-Nun, wenn das nicht mein Lieblingsspion ist. Wie geht es Euch, junger %pcf?
+<ce> Nun, wenn das nicht mein Lieblingsspion ist.
+<ce> Wie geht es Euch, junger %pcf?
 <--->
-Ich höre, dass das Vorhaben reibungslos verlief. Gut gemacht, %pcf.
+<ce> Ich höre, dass das Vorhaben reibungslos verlief.
+<ce> Gut gemacht, %pcf.
 
 QuestorPostfailure:  [1009]
-Diese Aufgabe, auf die ich Euch geschickt
-habe war eher ein Fehlschlag, oder etwa
-nicht? Es gibt nicht wirklich einen
-zwingenden Grund, weshalb ich überhaupt
-mit Euch sprechen sollte, oder?
+<ce> Diese Aufgabe, auf die ich Euch geschickt
+<ce> habe war eher ein Fehlschlag, oder etwa
+<ce> nicht? Es gibt nicht wirklich einen
+<ce> zwingenden Grund, weshalb ich überhaupt
+<ce> mit Euch sprechen sollte, oder?
 
 QuestLogEntry:  [1010]
-Ihr kommt genau richtig, %pcf.
-Erlaubt mir, mich vorzustellen.
-Mein Name ist _npc1_ und
-ich glaube, das ist mein Teleskop,
-das Ihr da habt. _questgiver_,
-nehme ich an, hat Euch gesagt,
-dass ich eine kleine Aufgabe für
-Euch habe. Bringt dieses Relikt zu
-einem =npc2_ in ___npc2_.
-Der Name ist _npc2_ und
-Ihr werdet %g2 bei __npc2_
-finden. Euer Gold wird dort ebenfalls
-auf Euch warten. Ihr solltet Euch
-auf den Weg machen; %g erwartet
-Euch dort in =2ndparton_ Tagen.
+<ce> Ihr kommt genau richtig, %pcf.
+<ce> Erlaubt mir, mich vorzustellen.
+<ce> Mein Name ist _npc1_ und
+<ce> ich glaube, das ist mein Teleskop,
+<ce> das Ihr da habt. _questgiver_,
+<ce> nehme ich an, hat Euch gesagt,
+<ce> dass ich eine kleine Aufgabe für
+<ce> Euch habe. Bringt dieses Relikt zu
+<ce> einem =npc2_ in ___npc2_.
+<ce> Der Name ist _npc2_ und
+<ce> Ihr werdet %g2 bei __npc2_
+<ce> finden. Euer Gold wird dort ebenfalls
+<ce> auf Euch warten. Ihr solltet Euch
+<ce> auf den Weg machen; %g erwartet
+<ce> Euch dort in =2ndparton_ Tagen.
 
 Message:  1015
 %qdt:

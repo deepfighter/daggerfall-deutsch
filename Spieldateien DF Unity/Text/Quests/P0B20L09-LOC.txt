@@ -15,11 +15,11 @@ QuestFail:  [1003]
 Error: Questtext 1003 Called
 
 QuestComplete:  [1004]
-Ich grüße Euch, Jäger der Werbestien.
-Euer Blutsvater wird erfreut sein zu hören,
-mit welcher Effizienz Ihr diese Bestien
-ausgelöscht habt. Behaltet =wereboar_s
-Stoßzahn als Ehrenzeichen unter den %vam.
+<ce> Ich grüße Euch, Jäger der Werbestien.
+<ce> Euer Blutsvater wird erfreut sein zu hören,
+<ce> mit welcher Effizienz Ihr diese Bestien
+<ce> ausgelöscht habt. Behaltet =wereboar_s
+<ce> Stoßzahn als Ehrenzeichen unter den %vam.
 
 RumorsDuringQuest:  [1005]
 ___mondung_ ist das eine Verlies, das niemand jemals betreten sollte. Niemals.
@@ -53,21 +53,21 @@ QuestLogEntry:  [1010]
                _vamp_
 
 Message:  1011
-Ich grüße Euch in Ehre, %pcn, guten Abend.
-Die Ältesten der %vam wollen sich in
-Kürze hier in %reg treffen, doch
-eine Gruppe Lykanthropen hat sich, als wollten
-sie uns verspotten, in ___mondung_
-niedergelassen, wo die Ältesten zusammenzukommen
-gedenken. Ich bitte Euch, zeigt diesem Pack
-und anderen ihrer Art, dass ___mondung_
-den %vam gehört und wir keine Eindringlinge
-dulden werden. Tötet so viele von ihnen wie
-möglich, einschließlich ihres Anführers,
-einen Wereber. Kommt innerhalb von =queston_ Nächten
-mit einem seiner Stoßzähne zurück und die
-%vam werden Euch höchst dankbar sein.
-Nun gehabt Euch wohl.
+<ce> Ich grüße Euch in Ehre, %pcn, guten Abend.
+<ce> Die Ältesten der %vam wollen sich in
+<ce> Kürze hier in %reg treffen, doch
+<ce> eine Gruppe Lykanthropen hat sich, als wollten
+<ce> sie uns verspotten, in ___mondung_
+<ce> niedergelassen, wo die Ältesten zusammenzukommen
+<ce> gedenken. Ich bitte Euch, zeigt diesem Pack
+<ce> und anderen ihrer Art, dass ___mondung_
+<ce> den %vam gehört und wir keine Eindringlinge
+<ce> dulden werden. Tötet so viele von ihnen wie
+<ce> möglich, einschließlich ihres Anführers,
+<ce> einen Wereber. Kommt innerhalb von =queston_ Nächten
+<ce> mit einem seiner Stoßzähne zurück und die
+<ce> %vam werden Euch höchst dankbar sein.
+<ce> Nun gehabt Euch wohl.
 
 Message:  1012
 %qdt:
@@ -76,10 +76,10 @@ Message:  1012
  einem Vampir der %vam, der
  dringend um meine Anwesenheit
  an einem Ort namens __vamp_
- in  ___vamp_  ersucht.
+ in ___vamp_ ersucht.
 
 Message:  1013
-%dat:
+%qdt:
  _vamp_ hat mich nach
  ___mondung_ geschickt, wo es eine
  Gruppe vermessener Werkreaturen gewagt hat,
@@ -103,9 +103,9 @@ Sie werden es fortan besser wissen als
 in eine Festung der %vam einzudringen.
 
 Message:  1021
-Zwingt mich nicht, Euch zu töten,
-Blutsauger. Geht zurück und richtet
-den %vam aus, dass =wereboar_
-Euch nach Hause geschickt hat, weil
-Ihr Euch nicht benehmen konntet.
+<ce> Zwingt mich nicht, Euch zu töten,
+<ce> Blutsauger. Geht zurück und richtet
+<ce> den %vam aus, dass =wereboar_
+<ce> Euch nach Hause geschickt hat, weil
+<ce> Ihr Euch nicht benehmen konntet.
 

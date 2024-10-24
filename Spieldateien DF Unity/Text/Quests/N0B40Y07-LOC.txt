@@ -3,60 +3,60 @@ DisplayName: Daedrabannung
 QRC:
 
 QuestorOffer:  [1000]
-Ich bin mir nicht sicher, ob Ihr mir
-überhaupt helfen könnt, %pcf.
-Ich suche nach einem Magier, der
-erfahren genug ist, mit großer Sicherheit
-den Zauberspruch "Daedra bannen" zu wirken.
-Könnt Ihr das?
+<ce> Ich bin mir nicht sicher, ob Ihr mir
+<ce> überhaupt helfen könnt, %pcf.
+<ce> Ich suche nach einem Magier, der
+<ce> erfahren genug ist, mit großer Sicherheit
+<ce> den Zauberspruch "Daedra bannen" zu wirken.
+<ce> Könnt Ihr das?
 <--->
-"Daedra bannen" ist einer der komplexesten
-Sprüche unter den üblichen Zirkulierzaubern.
-Nur wenige Zauber setzen ein so hohes Maß an
-inhärenter Magie und solches Können voraus.
-Ihr seid nicht zufällig in der Lage, den Zauber
-"Daedra bannen" zu wirken, oder?
+<ce> "Daedra bannen" ist einer der komplexesten
+<ce> Sprüche unter den üblichen Zirkulierzaubern.
+<ce> Nur wenige Zauber setzen ein so hohes Maß an
+<ce> inhärenter Magie und solches Können voraus.
+<ce> Ihr seid nicht zufällig in der Lage, den Zauber
+<ce> "Daedra bannen" zu wirken, oder?
 <--->
-Was für eine Ironie, dass es relativ einfach ist,
-Daedra zu beschwören, nicht aber, sie wieder zu
-verbannen. Ihr verfügt nicht zufällig über die
-Fähigkeit, den üblichen Zirkulierzauber "Daedra
-bannen" zu wirken, oder?
+<ce> Was für eine Ironie, dass es relativ einfach ist,
+<ce> Daedra zu beschwören, nicht aber, sie wieder zu
+<ce> verbannen. Ihr verfügt nicht zufällig über die
+<ce> Fähigkeit, den üblichen Zirkulierzauber "Daedra
+<ce> bannen" zu wirken, oder?
 
 RefuseQuest:  [1001]
-Ach, nun denn, die Suche geht weiter.
+<ce> Ach, nun denn, die Suche geht weiter.
 
 AcceptQuest:  [1002]
-Ich hoffe ehrlich, dass Ihr die Wahrheit
-sagt. Ich möchte nicht, dass dieser
-besondere Daedra getötet wird, weil ich
-in der Zukunft möglicherweise noch auf
-seine Dienste angewiesen sein werde, aber
-im Augenblick ist seine Gegenwart lästig.
-Und dass Ihr mir nicht selbst am Zauberspruchaltar
-einen Spruch zum "Daedra bannen" erstellt!
-Es muss der übliche, standardmäßige Zirkulierzauber
-aus den Lehrbüchern sein. Da ich es war, der diesen
-Daedra beschworen hat, kann ich Euch die Aufgabe
-etwas erleichtern, aber Ihr müsst meinen Anweisungen
-genau Folge leisten. Nehmt diese Schriftrolle. Sie
-enthält einen Zauber, der den wahren Namen des Daedra
-benutzt, um ihn kurzzeitig gefangenzusetzen. Bevor
-Ihr die Schriftrolle benutzt, müsst Ihr jedoch
-sichergehen, dass Euer Ziel verwundet wurde,
-ansonsten könnte der Zauber mit unvorhersehbaren
-Nebeneffekten scheitern. Wenn der Daedra einmal
-gefangen wurde, ist die Wahrscheinlichkeit, dass
-"Daedra bannen" misslingt, ziemlich gering. Der
-besagte Daedra befindet sich in  ___mondung_.
-Ich erwarte Euch in den nächsten =queston_ Tage zurück.
-Viel Glück, %pct.
+<ce> Ich hoffe ehrlich, dass Ihr die Wahrheit
+<ce> sagt. Ich möchte nicht, dass dieser
+<ce> besondere Daedra getötet wird, weil ich
+<ce> in der Zukunft möglicherweise noch auf
+<ce> seine Dienste angewiesen sein werde, aber
+<ce> im Augenblick ist seine Gegenwart lästig.
+<ce> Und dass Ihr mir nicht selbst am Zauberspruchaltar
+<ce> einen Spruch zum "Daedra bannen" erstellt!
+<ce> Es muss der übliche, standardmäßige Zirkulierzauber
+<ce> aus den Lehrbüchern sein. Da ich es war, der diesen
+<ce> Daedra beschworen hat, kann ich Euch die Aufgabe
+<ce> etwas erleichtern, aber Ihr müsst meinen Anweisungen
+<ce> genau Folge leisten. Nehmt diese Schriftrolle. Sie
+<ce> enthält einen Zauber, der den wahren Namen des Daedra
+<ce> benutzt, um ihn kurzzeitig gefangenzusetzen. Bevor
+<ce> Ihr die Schriftrolle benutzt, müsst Ihr jedoch
+<ce> sichergehen, dass Euer Ziel verwundet wurde,
+<ce> ansonsten könnte der Zauber mit unvorhersehbaren
+<ce> Nebeneffekten scheitern. Wenn der Daedra einmal
+<ce> gefangen wurde, ist die Wahrscheinlichkeit, dass
+<ce> "Daedra bannen" misslingt, ziemlich gering. Der
+<ce> besagte Daedra befindet sich in ___mondung_.
+<ce> Ich erwarte Euch in den nächsten =queston_ Tage zurück.
+<ce> Viel Glück, %pct.
 
 QuestComplete:  [1004]
-Gut gemacht, %pct.
-Ich kann Euch zwar kein Gold
-anbieten, aber hier ist ein Buch,
-das mir besonders gefallen hat.
+<ce> Gut gemacht, %pct.
+<ce> Ich kann Euch zwar kein Gold
+<ce> anbieten, aber hier ist ein Buch,
+<ce> das mir besonders gefallen hat.
 
 RumorsDuringQuest:  [1005]
 Daedra scheinen von ___mondung_ angezogen zu werden. Muss irgendetwas Spirituelles sein.
@@ -72,13 +72,14 @@ Der Daedra von _qgiver_ ist vorerst vertrieben. Aber Daedra haben die Angewohnhe
 ___mondung_ ist größtenteils von daedrischen Einflüssen gereinigt, jedenfalls fürs Erste.
 
 QuestorPostsuccess:  [1008]
-Gefällt Euch das Buch, %pcf? Ich selbst fand es sehr aufschlussreich.
+<ce> Gefällt Euch das Buch, %pcf?
+<ce> Ich selbst fand es sehr aufschlussreich.
 
 QuestorPostfailure:  [1009]
-Wenn Ihr den Zauberspruch "Daedra
-bannen" nicht beherrscht, hättet
-Ihr den Auftrag nicht annehmen
-sollen. Nun geht.
+<ce> Wenn Ihr den Zauberspruch "Daedra
+<ce> bannen" nicht beherrscht, hättet
+<ce> Ihr den Auftrag nicht annehmen
+<ce> sollen. Nun geht.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -100,25 +101,25 @@ Zanoth na' ==dummydaedra_.
 Senet seneth mor.
 
 Message:  1040
-Ihr ungeschickter Narr, ich habe
-Euch doch klar und deutlich instruiert,
-=daedra_ zu bannen und nicht zu töten.
-Jetzt werde ich mir die Mühe machen müssen,
-den wahren Namen eines anderen Daedra zu
-erlernen. Eure Anwesenheit hier ist mir
-unangenehm, %pcf. Verschwindet unverzüglich.
+<ce> Ihr ungeschickter Narr, ich habe
+<ce> Euch doch klar und deutlich instruiert,
+<ce> =daedra_ zu bannen und nicht zu töten.
+<ce> Jetzt werde ich mir die Mühe machen müssen,
+<ce> den wahren Namen eines anderen Daedra zu
+<ce> erlernen. Eure Anwesenheit hier ist mir
+<ce> unangenehm, %pcf. Verschwindet unverzüglich.
 
 Message:  1050
 Die Schriftrolle geht in Flammen auf,
 als Ihr das letzte Wort lest.
 
 Message:  1051
-Ich bin =firedaedra_.
-Wer hat mich aus meiner Heimat
-im Reich des Vergessens gerufen?
+<ce> Ich bin =firedaedra_.
+<ce> Wer hat mich aus meiner Heimat
+<ce> im Reich des Vergessens gerufen?
 
 Message:  1060
 Der Daedra =daedra_
-wurde wieder gebührend zurück
+wurde wieder ordnungsgemäß zurück
 ins Reich des Vergessens gebannt.
 

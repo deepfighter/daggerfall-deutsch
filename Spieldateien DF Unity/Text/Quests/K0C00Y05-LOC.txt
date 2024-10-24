@@ -3,54 +3,54 @@ DisplayName: Das verlorene Kind
 QRC:
 
 QuestorOffer:  [1000]
-Ich habe mich schon an die Kriegergilde
-gewendet, aber dort haben sie anscheinend
-alle Hände voll damit zu tun, vornehme
-Jungfrauen und Knaben in Not zu retten,
-als dass das Verschwinden eines Kindes
-niedriger Geburt sie kümmern würde.
-Aber _child_ ist alles, was ich habe.
-Bitte, Ihr werdet %g2 für mich finden,
-das werdet Ihr doch. Oder, mein Freund?
+<ce> Ich habe mich schon an die Kriegergilde
+<ce> gewendet, aber dort haben sie anscheinend
+<ce> alle Hände voll damit zu tun, vornehme
+<ce> Jungfrauen und Knaben in Not zu retten,
+<ce> als dass das Verschwinden eines Kindes
+<ce> niedriger Geburt sie kümmern würde.
+<ce> Aber _child_ ist alles, was ich habe.
+<ce> Bitte, Ihr werdet %g2 für mich finden,
+<ce> das werdet Ihr doch. Oder, mein Freund?
 <--->
-Diese teuflischen Orks haben mir meinen
-kleinen Cousin geraubt und unsere sogenannten
-Beschützer, die Kriegergilde, weigern sich, mich
-ernst zu nehmen. _child_ ist doch nur ein
-=child_, ihre Aufmerksamkeit nicht wert,
-aber %g ist alles, was ich habe. Bitte,
-werter %ra, werdet Ihr mir helfen?
+<ce> Diese teuflischen Orks haben mir meinen
+<ce> kleinen Cousin geraubt und unsere sogenannten
+<ce> Beschützer, die Kriegergilde, weigern sich, mich
+<ce> ernst zu nehmen. _child_ ist doch nur ein
+<ce> =child_, ihre Aufmerksamkeit nicht wert,
+<ce> aber %g ist alles, was ich habe. Bitte,
+<ce> werter %ra, werdet Ihr mir helfen?
 
 RefuseQuest:  [1001]
-Ein Herz aus Stein, genau wie
-die Kriegergilde. Was ist das
-Leben eines unschuldigen Kindes
-schon wert?
+<ce> Ein Herz aus Stein, genau wie
+<ce> die Kriegergilde. Was ist das
+<ce> Leben eines unschuldigen Kindes
+<ce> schon wert?
 
 AcceptQuest:  [1002]
-Ich danke Euch, Ich danke Euch. Ich
-gebe Euch _gold_ Goldstücke, wenn
-Ihr _child_ findet -- das ist alles,
-was ich habe. Also, die Orks, die
-%g2 mitgenommen haben, haben ihr
-Lager im stinkenden ___mondung_ aufgeschlagen.
-Ich muss innerhalb von =queston_ Tagen
-wissen, ob es _child_ gut geht,
-ansonsten schicke ich jemand anderen. Bitte
-lasst mich nicht so tief sinken. %god sei
-mit Euch, werter %pcn.
+<ce> Ich danke Euch, Ich danke Euch. Ich
+<ce> gebe Euch _gold_ Goldstücke, wenn
+<ce> Ihr _child_ findet -- das ist alles,
+<ce> was ich habe. Also, die Orks, die
+<ce> %g2 mitgenommen haben, haben ihr
+<ce> Lager im stinkenden ___mondung_ aufgeschlagen.
+<ce> Ich muss innerhalb von =queston_ Tagen
+<ce> wissen, ob es _child_ gut geht,
+<ce> ansonsten schicke ich jemand anderen. Bitte
+<ce> lasst mich nicht so tief sinken. %god sei
+<ce> mit Euch, werter %pcn.
 
 QuestComplete:  [1004]
-_child_, oh %god sei Dank!
-%oth, mein guter, guter %pcn,
-Ihr seid mein Retter. Hier, nehmt
-Eure _gold_ Goldstücke.
+<ce> _child_, oh %god sei Dank!
+<ce> %oth, mein guter, guter %pcn,
+<ce> Ihr seid mein Retter. Hier, nehmt
+<ce> Eure _gold_ Goldstücke.
 
 RumorsDuringQuest:  [1005]
 _qgiver_ ist ziemlich verzweifelt, seit _child_ verschwunden ist.
 
 RumorsPostfailure:  [1006]
-_qgiver_ hat  es aufgegeben, _child_ jemals wiederzufinden.
+_qgiver_ hat es aufgegeben, _child_ jemals wiederzufinden.
 
 RumorsPostsuccess:  [1007]
 _qgiver_ und _child_ sind wieder vereint, dank diesem %ra-Söldner.
@@ -59,12 +59,12 @@ QuestorPostsuccess:  [1008]
 Ihr habt _child_ zu mir zurückgebracht, %pcf. Wie kann ich Euch im Gegenzug helfen?
 
 QuestorPostfailure:  [1009]
-Erinnert Ihr Euch nicht an mich, %pcf?
-_qgiver_? Ihr sagtet, Ihr würdet
-_child_ für mich zurückholen,
-aber Ihr habt versagt. Ich habe Euch
-nichts zu sagen. Fahrt ins Reich
-des Vergessens.
+<ce> Erinnert Ihr Euch nicht an mich, %pcf?
+<ce> _qgiver_? Ihr sagtet, Ihr würdet
+<ce> _child_ für mich zurückholen,
+<ce> aber Ihr habt versagt. Ich habe Euch
+<ce> nichts zu sagen. Fahrt ins Reich
+<ce> des Vergessens.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -96,75 +96,75 @@ Message:  1011
                             _knight_
 
 Message:  1012
-Ein Kurier, der das Wappen der
-Kriegergilde trägt, erscheint an
-Eurer Seite. Er übergibt Euch
-einen Brief und eilt davon.
+<ce> Ein Kurier, der das Wappen der
+<ce> Kriegergilde trägt, erscheint an
+<ce> Eurer Seite. Er übergibt Euch
+<ce> einen Brief und eilt davon.
 
 Message:  1013
 %qdt:
  Ich habe einen Brief von _knight_,
  einem Ritter von der Kriegergilde, erhalten,
  in dem steht, dass %g das Kind, dass ich
- aus ___mondung_ retten soll, hat.  _knight_
+ aus ___mondung_ retten soll, hat. _knight_
  zufolge wurde _child_ aus der Gewahrsam
  von _qgiver_ genommen, weil dieser =qgiver_
  ein Trinker ist. Wenn ich mich davon überzeugen
- will,  _knight_ ist im __knight_
+ will, _knight_ ist im __knight_
  in ___knight_.
 
 Message:  1014
-Ich nehme an, Ihr habt meinen Brief
-erhalten, %pcf. Das ist gut. Es
-wäre nicht gut, wenn Ihr, wenn auch
-nur aus den besten Beweggründen,
-in eine unschöne Angelegenheit verwickelt
-werden würdet. _child_ ist der Cousin
-von _qgiver_, aber viel wichtiger, dieses
-=child_ ist der Erbe des Vermögens
-seines Großvaters. Zu %g3 eigenen
-Sicherheit haben wir %g2 an einen sicheren
-Ort in __childlocale_ gebracht. Ich denke,
-ich kann Euch den Namen verraten -- _childlocale_.
-Es würde Euer ohnehin schon gutes Ansehen in der
-Kriegergilde noch weiter verbessern, wenn Ihr
-_child_ einfach in Frieden lasst.
+<ce> Ich nehme an, Ihr habt meinen Brief
+<ce> erhalten, %pcf. Das ist gut. Es
+<ce> wäre nicht gut, wenn Ihr, wenn auch
+<ce> nur aus den besten Beweggründen,
+<ce> in eine unschöne Angelegenheit verwickelt
+<ce> werden würdet. _child_ ist der Cousin
+<ce> von _qgiver_, aber viel wichtiger, dieses
+<ce> =child_ ist der Erbe des Vermögens
+<ce> seines Großvaters. Zu %g3 eigenen
+<ce> Sicherheit haben wir %g2 an einen sicheren
+<ce> Ort in __childlocale_ gebracht. Ich denke,
+<ce> ich kann Euch den Namen verraten -- _childlocale_.
+<ce> Es würde Euer ohnehin schon gutes Ansehen in der
+<ce> Kriegergilde noch weiter verbessern, wenn Ihr
+<ce> _child_ einfach in Frieden lasst.
 
 Message:  1015
-Hi, ich bin _child_.
-Ich bin sieben Jahre alt.
+<ce> Hi, ich bin _child_.
+<ce> Ich bin sieben Jahre alt.
 <--->
-Hi. Mein Name ist _child_.
-Willst du einen Witz hören?
-Okay, hier kommt er.
-%jok.
+<ce> Hi. Mein Name ist _child_.
+<ce> Willst du einen Witz hören?
+<ce> Okay, hier kommt er.
+<ce> %jok.
 <--->
-Mein Großpfater ist reicher als du.
+<ce> Mein Großpfater ist reicher als du.
 <--->
-Hallo, ich soll nicht mit Fremden reden.
-Aber wenn ich nicht mit Fremden rede,
-dann kann ich mit gar keinem reden.
-Mein Name ist _child_.
+<ce> Hallo, ich soll nicht mit Fremden reden.
+<ce> Aber wenn ich nicht mit Fremden rede,
+<ce> dann kann ich mit gar keinem reden.
+<ce> Mein Name ist _child_.
 <--->
-Hallo, bist du ein %ra? Ich bin auch
-einer, und mein Name ist _child_.
+<ce> Hallo, bist du ein %ra? Ich bin auch
+<ce> einer, und mein Name ist _child_.
 
 Message:  1016
-_child_ läuft davon,
-als Ihr Euch von %g2 abwendet.
+<ce> _child_ läuft davon,
+<ce> als Ihr Euch von %g2 abwendet.
 
 Message:  1017
-Nehmt Ihr _child_ mit?
+<ce> Nehmt Ihr _child_ mit?
 
 Message:  1018
-Der Krieger trägt das
-Wappen der Kriegergilde.
+<ce> Der Krieger trägt das
+<ce> Wappen der Kriegergilde.
 
 Message:  1019
 %qdt:
  Ich habe mich mit _knight_ von
  der Kriegergilde getroffen. %g verriet mir,
- dass _child_  sicher im
+ dass _child_ sicher im
  _childlocale_ in __childlocale_
  untergebracht ist.
 

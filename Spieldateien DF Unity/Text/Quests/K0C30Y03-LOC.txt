@@ -3,58 +3,58 @@ DisplayName: Schulden eines Adligen
 QRC:
 
 QuestorOffer:  [1000]
-Ah, mein Freund. Es schmerzt mich, eingestehen
-zu müssen, dass ich meinen geschäftlichen
-Angelegenheiten betreffend eine Fehlentscheidung
-getroffen habe, aber es ist, wie es ist. Ich habe
-einem Adeligen namens _patsy_ -- vielleicht
-ist Euch dieser Name geläufig, vielleicht auch
-nicht -- eine beträchtliche Summe Gold geliehen.
-Als Sicherheit für das Darlehen diente eine Urkunde
-über ein wertvolles Grundstück. Nun sind sowohl
-_patsy_ als auch die Urkunde spurlos
-verschwunden. Gerüchten zufolge befindet %g2 sich
-in finanziellen Nöten, doch die Summe, die %g mir
-schuldet, ist zu groß, um sie einfach abzuschreiben.
-Die Verbindung mit Leuten wie _patsy_ kann
-gefährlich sein, daher bedarf ich der Dienste eines
-tapferen Kriegers. Werdet Ihr mir beistehen, mein
-Freund, im Austausch für einen großen ungeschliffenen
-Diamanten?
+<ce> Ah, mein Freund. Es schmerzt mich, eingestehen
+<ce> zu müssen, dass ich meinen geschäftlichen
+<ce> Angelegenheiten betreffend eine Fehlentscheidung
+<ce> getroffen habe, aber es ist, wie es ist. Ich habe
+<ce> einem Adeligen namens _patsy_ -- vielleicht
+<ce> ist Euch dieser Name geläufig, vielleicht auch
+<ce> nicht -- eine beträchtliche Summe Gold geliehen.
+<ce> Als Sicherheit für das Darlehen diente eine Urkunde
+<ce> über ein wertvolles Grundstück. Nun sind sowohl
+<ce> _patsy_ als auch die Urkunde spurlos
+<ce> verschwunden. Gerüchten zufolge befindet %g2 sich
+<ce> in finanziellen Nöten, doch die Summe, die %g mir
+<ce> schuldet, ist zu groß, um sie einfach abzuschreiben.
+<ce> Die Verbindung mit Leuten wie _patsy_ kann
+<ce> gefährlich sein, daher bedarf ich der Dienste eines
+<ce> tapferen Kriegers. Werdet Ihr mir beistehen, mein
+<ce> Freund, im Austausch für einen großen ungeschliffenen
+<ce> Diamanten?
 
 RefuseQuest:  [1001]
-Es betrübt mich, dies zu vernehmen. Ich verstehe
-es wohl, doch bleibt es dennoch enttäuschend.
+<ce> Es betrübt mich, dies zu vernehmen. Ich verstehe
+<ce> es wohl, doch bleibt es dennoch enttäuschend.
 
 AcceptQuest:  [1002]
-Das ist erfreulich zu hören. Nun denn, ich habe
-dreißig Tage Zeit, bevor ich gezwungen bin, meine
-Finanzen genauer zu prüfen. Die Urkunde wurde,
-zusammen mit anderen Wertgegenständen, aus der
-örtlichen _bank_ in __bank_
-gestohlen. Doch das "zufällige" Verschwinden von
-_patsy_ zur selben Zeit wie die Urkunde
-verdient weitere Nachforschungen.
+<ce> Das ist erfreulich zu hören. Nun denn, ich habe
+<ce> dreißig Tage Zeit, bevor ich gezwungen bin, meine
+<ce> Finanzen genauer zu prüfen. Die Urkunde wurde,
+<ce> zusammen mit anderen Wertgegenständen, aus der
+<ce> örtlichen _bank_ in __bank_
+<ce> gestohlen. Doch das "zufällige" Verschwinden von
+<ce> _patsy_ zur selben Zeit wie die Urkunde
+<ce> verdient weitere Nachforschungen.
  
-Vor seinem Verschwinden lebte _patsy_
-in _house2_ in __house2_,
-welche, wie ich hörte, nun leer steht. Darüber
-hinaus habe ich keine Anhaltspunkte. Ich benötige
-entweder das Gold, das ich _patsy_
-geborgt habe, die Urkunde für das Grundstück oder
-seinen Kopf auf einem Spieß -- und das wie gesagt
-innerhalb von dreißig Tagen. Enttäuscht mich nicht,
-%pcf.
+<ce> Vor seinem Verschwinden lebte _patsy_
+<ce> in _house2_ in __house2_,
+<ce> welche, wie ich hörte, nun leer steht. Darüber
+<ce> hinaus habe ich keine Anhaltspunkte. Ich benötige
+<ce> entweder das Gold, das ich _patsy_
+<ce> geborgt habe, die Urkunde für das Grundstück oder
+<ce> seinen Kopf auf einem Spieß -- und das wie gesagt
+<ce> innerhalb von dreißig Tagen. Enttäuscht mich nicht,
+<ce> %pcf.
 
 QuestFail:  [1003]
-Ihr könntet zumindest versuchen die Ehre zu
-wahren und Euer gegebenes Versprechen einlösen.
+<ce> Ihr könntet zumindest versuchen die Ehre zu
+<ce> wahren und Euer gegebenes Versprechen einlösen.
 
 QuestComplete:  [1004]
-Der Versuch von _patsy_, Euch
-zu hintergehen, war vergebens, nicht wahr,
-%pcf? Hier ist der Diamant, den ich
-Euch versprochen habe. Wohlgetan, mein Freund.
+<ce> Der Versuch von _patsy_, Euch
+<ce> zu hintergehen, war vergebens, nicht wahr,
+<ce> %pcf? Hier ist der Diamant, den ich
+<ce> Euch versprochen habe. Wohlgetan, mein Freund.
 
 RumorsDuringQuest:  [1005]
 _qgiver_ war nicht der Einzige, den _patsy_ betrogen hat. Viele Leute haben %g2 Geld geliehen.
@@ -96,28 +96,28 @@ Message:  1011
 Gebt Ihr _hooker_ das Geld?
 
 Message:  1012
-Danke, Schätzchen. Ich hörte, Ihr seid von
-der anständigen Sorte und bin zu dem Entschluss
-gekommen, Euch eine Chance zu geben. Vor ein paar
-Wochen wurde ich von _patsy_ angeheuert --
-aber nicht für das, was Ihr jetzt vielleicht denkt.
-Ich sollte bloß mit irgendeinem alten Sack flirten
-und ihn dazu bringen, mich an einem bestimmten Tag
-zum Abendessen auszuführen. Ich nehme an, das war
-nur, um ihn aus dem Weg zu haben, denn wie ich später
-herausfand, wurde das Haus des Alten in derselben
-Nacht ausgeraubt, in der wir zusammen aus waren.
-Eine ganze Menge Zeug wurde mitgenommen, habe ich
-gehört. Der alte Kerl war niedlich und nett und ich
-habe mich deswegen schlecht gefühlt. Ihr wollt
-möglicherweise mit ihm sprechen. Sein Name ist
-_gaffer_. Ihr könntet auch zu dem Ort gehen, 
-wo ich diesen _patsy_ getroffen habe, die
-_house2_ in __house2_, und
-nachsehen, ob dort irgendjemand etwas weiß. Ich
-hoffe, all das hilft Euch, %pcf. Ich
-würde gerne selbst sehen, wie dem alten
-_patsy_ das Handwerk gelegt wird.
+<ce> Danke, Schätzchen. Ich hörte, Ihr seid von
+<ce> der anständigen Sorte und bin zu dem Entschluss
+<ce> gekommen, Euch eine Chance zu geben. Vor ein paar
+<ce> Wochen wurde ich von _patsy_ angeheuert --
+<ce> aber nicht für das, was Ihr jetzt vielleicht denkt.
+<ce> Ich sollte bloß mit irgendeinem alten Sack flirten
+<ce> und ihn dazu bringen, mich an einem bestimmten Tag
+<ce> zum Abendessen auszuführen. Ich nehme an, das war
+<ce> nur, um ihn aus dem Weg zu haben, denn wie ich später
+<ce> herausfand, wurde das Haus des Alten in derselben
+<ce> Nacht ausgeraubt, in der wir zusammen aus waren.
+<ce> Eine ganze Menge Zeug wurde mitgenommen, habe ich
+<ce> gehört. Der alte Kerl war niedlich und nett und ich
+<ce> habe mich deswegen schlecht gefühlt. Ihr wollt
+<ce> möglicherweise mit ihm sprechen. Sein Name ist
+<ce> _gaffer_. Ihr könntet auch zu dem Ort gehen, 
+<ce> wo ich diesen _patsy_ getroffen habe, die
+<ce> _house2_ in __house2_, und
+<ce> nachsehen, ob dort irgendjemand etwas weiß. Ich
+<ce> hoffe, all das hilft Euch, %pcf. Ich
+<ce> würde gerne selbst sehen, wie dem alten
+<ce> _patsy_ das Handwerk gelegt wird.
 
 Message:  1013
 %pcn,
@@ -154,61 +154,61 @@ _banker_ arbeitet in der _bank_ in __bank_. Ein wahrhaft respektabler Herr.
 Ein Bankier von typischer Langweiligkeit. _banker_ arbeitet in der _bank_ in __bank_.
 
 Message:  1016
-Ich werde Euch dasselbe sagen, was ich auch
-_patsy_ mitgeteilt habe. __banker_
-wird das gesamte beim Einbruch verlorene Gold
-erstatten -- bis auf den letzten Groschen.
-Es gilt lediglich, einige Fragen zum Hergang
-des Einbruchs zu klären. Angelegenheiten, die
-besser nicht mit Fremden erörtert werden sollten,
-Ihr versteht.
+<ce> Ich werde Euch dasselbe sagen, was ich auch
+<ce> _patsy_ mitgeteilt habe. __banker_
+<ce> wird das gesamte beim Einbruch verlorene Gold
+<ce> erstatten -- bis auf den letzten Groschen.
+<ce> Es gilt lediglich, einige Fragen zum Hergang
+<ce> des Einbruchs zu klären. Angelegenheiten, die
+<ce> besser nicht mit Fremden erörtert werden sollten,
+<ce> Ihr versteht.
 
 Message:  1017
-Ah, schön Euch zu sehen, %pcf.
-Wir sind hier alle in gewisser Aufruhr wegen
-des jüngsten Einbruchs und all dem. Nur bestimmte
-Konten und Depots sind betroffen, daher stellt
-_guard_, unser Sicherheitsbeauftragter,
-gerade Nachforschungen über die Inhaber dieser
-Konten an. %g könnte Euch möglicherweise mehr
-Informationen geben, %pcf. Ihr findet
-_guard_ im __guard_ in
-___guard_.
+<ce> Ah, schön Euch zu sehen, %pcf.
+<ce> Wir sind hier alle in gewisser Aufruhr wegen
+<ce> des jüngsten Einbruchs und all dem. Nur bestimmte
+<ce> Konten und Depots sind betroffen, daher stellt
+<ce> _guard_, unser Sicherheitsbeauftragter,
+<ce> gerade Nachforschungen über die Inhaber dieser
+<ce> Konten an. %g könnte Euch möglicherweise mehr
+<ce> Informationen geben, %pcf. Ihr findet
+<ce> _guard_ im __guard_ in
+<ce> ___guard_.
 
 Message:  1018
-Ich fürchte, ich kann diese Angelegenheit nicht
-mit Euch besprechen, %pcn. Diese Sache
-betrifft ausschließlich _patsy_ und
-mich selbst, sonst niemanden. Wenn Ihr wirklich
-daran interessiert seid, zu helfen, begebt Euch
-zu _hooker_, einer Liebesdienerin, die
-irgendwie mit _patsy_ in Verbindung
-steht. Sie wird zehn Goldstücke ür Ihre Kooperation
-verlangen. Ihr findet sie in __house1_,
-einem Ort, der _house1_ genannt wird.
-Viel Glück, %pcf. Ich werde wahrscheinlich
-nicht mehr hier sein, wenn Ihr zurückkehrt, doch
-Ihr seid sicherlich in der Lage, die Untersuchungen
-selbst weiterzuführen.
+<ce> Ich fürchte, ich kann diese Angelegenheit nicht
+<ce> mit Euch besprechen, %pcn. Diese Sache
+<ce> betrifft ausschließlich _patsy_ und
+<ce> mich selbst, sonst niemanden. Wenn Ihr wirklich
+<ce> daran interessiert seid, zu helfen, begebt Euch
+<ce> zu _hooker_, einer Liebesdienerin, die
+<ce> irgendwie mit _patsy_ in Verbindung
+<ce> steht. Sie wird zehn Goldstücke ür Ihre Kooperation
+<ce> verlangen. Ihr findet sie in __house1_,
+<ce> einem Ort, der _house1_ genannt wird.
+<ce> Viel Glück, %pcf. Ich werde wahrscheinlich
+<ce> nicht mehr hier sein, wenn Ihr zurückkehrt, doch
+<ce> Ihr seid sicherlich in der Lage, die Untersuchungen
+<ce> selbst weiterzuführen.
 
 Message:  1019
-Ah, %pcn, mein Freund. Ich denke, wir
-könnten uns in dieser Angelegenheit gegenseitig
-von Nutzen sein. Ich weiß, wo sich _patsy_
-verbirgt, doch %g3 Verbündeten erschweren den
-Zugang zu %g2. Millionen von Goldstücken können
-mächtige Freunde erkaufen. Ihr müsst für mich
-diese Verbindungen trennen, danach werden wir
-uns erneut treffen, um _patsy_ gemeinsam
-das Handwerk zu legen. Bringt diesen Brief in
-die Festung %g3 Verbündeten, ___mondung_,
-und lasst ihn dort zufällig herumliegen. Danach
-begebt Ihr Euch nach ___mondung2_.
-Mit etwas Glück wird dieser Brief die Soldaten
-ablenken, sodass _patsy_ relativ ungeschützt
-sein wird, abgesehen von %g3 eigenen Wachen,
-natürlich. Sehr gut, %pcf, wir sehen
-uns bald wieder.
+<ce> Ah, %pcn, mein Freund. Ich denke, wir
+<ce> könnten uns in dieser Angelegenheit gegenseitig
+<ce> von Nutzen sein. Ich weiß, wo sich _patsy_
+<ce> verbirgt, doch %g3 Verbündeten erschweren den
+<ce> Zugang zu %g2. Millionen von Goldstücken können
+<ce> mächtige Freunde erkaufen. Ihr müsst für mich
+<ce> diese Verbindungen trennen, danach werden wir
+<ce> uns erneut treffen, um _patsy_ gemeinsam
+<ce> das Handwerk zu legen. Bringt diesen Brief in
+<ce> die Festung %g3 Verbündeten, ___mondung_,
+<ce> und lasst ihn dort zufällig herumliegen. Danach
+<ce> begebt Ihr Euch nach ___mondung2_.
+<ce> Mit etwas Glück wird dieser Brief die Soldaten
+<ce> ablenken, sodass _patsy_ relativ ungeschützt
+<ce> sein wird, abgesehen von %g3 eigenen Wachen,
+<ce> natürlich. Sehr gut, %pcf, wir sehen
+<ce> uns bald wieder.
 
 Message:  1020
 _guard_ hat __guard_ verlassen. Anscheinend weiß %g, wohin _patsy_ gegangen ist.
@@ -226,11 +226,11 @@ lassen sollte.
 -- _patsy_
 
 Message:  1023
-Ihr wisst sofort, das dies
-_patsy_ sein muss.
+<ce> Ihr wisst sofort, das dies
+<ce> _patsy_ sein muss.
 
 Message:  1024
-Ihr habt _patsy_ erschlagen, ohne Zweifel.
+<ce> Ihr habt _patsy_ erschlagen, ohne Zweifel.
 
 Message:  1025
 Ich werde Verstärkung benötigen, sollten die Gerüchte
@@ -243,15 +243,15 @@ besprechen, sobald Ihr hier eingetroffen seid.
  -- _patsy_
 
 Message:  1026
-Auf diesem Klumpen _rock_ ist eine Markierung.
-Dort steht ___mondung_.
+<ce> Auf diesem Klumpen _rock_ ist eine Markierung.
+<ce> Dort steht ___mondung_.
 
 Message:  1027
 Nur ein Klumpen _rock_. Seltsam, dass so etwas in der ___house2_ herumliegt.
 <--->
 Auf dem Klumpen _rock_ scheint eine Art Markierung zu sein, oder eine Gravur.
 <--->
-Sieht aus wie das Zeug, das man früher in  ___mondung_ abgebaut hat.
+Sieht aus wie das Zeug, das man früher in ___mondung_ abgebaut hat.
 
 Message:  1028
 Da steht ___mondung_ auf dem Klumpen _rock_; das ist eine verlassene Mine im %di.
@@ -259,12 +259,12 @@ Da steht ___mondung_ auf dem Klumpen _rock_; das ist eine verlassene Mine im %di
 Dieser Klumpen _rock_ muss vor Jahren abgebaut worden sein, als ___mondung_ noch eine Mine war.
 
 Message:  1029
-Dies scheint die Urkunde zu sein, welche _patsy_
-_qgiver_ als Pfand hinterlassen hat.
+<ce> Dies scheint die Urkunde zu sein, welche _patsy_
+<ce> _qgiver_ als Pfand hinterlassen hat.
 
 Message:  1030
-Dies scheint jenes Gold zu sein, welches
-_qgiver_ an _patsy_ geliehen hat.
+<ce> Dies scheint jenes Gold zu sein, welches
+<ce> _qgiver_ an _patsy_ geliehen hat.
 
 Message:  1031
                                    Nachtseitenzuflucht
@@ -292,11 +292,11 @@ Seid gegrüßt %pcf,
  -- Die Bruderschaft
 
 Message:  1032
-Ihr bemerkt den jungen Boten erst, als Ihr
-spürt wie der Brief in Eure Hand gleitet.
-In dem Augenblick, in dem Ihr Euch umwendet,
-ist er bereits verschwunden -- so rasch,
-dass eine Verfolgung vergebens wäre.
+<ce> Ihr bemerkt den jungen Boten erst, als Ihr
+<ce> spürt wie der Brief in Eure Hand gleitet.
+<ce> In dem Augenblick, in dem Ihr Euch umwendet,
+<ce> ist er bereits verschwunden -- so rasch,
+<ce> dass eine Verfolgung vergebens wäre.
 
 Message:  1033
 %pcn,
@@ -318,32 +318,32 @@ Viel Glück, %pcf, und möge Baan Dar Euch begleiten.
 -- Die Gilde                          
 
 Message:  1034
-Ah, %pcf, mein Freund. Wieder einmal wurde
-ich verführt und betrogen. Vielleicht sollte ich
-wahrlich einem Kloster beitreten, denn mein Leben
-wäre ohne die Verlockungen der Frauen um vieles
-leichter, %oth. Hier, nehmt dieses Gold
-als meinen Beitrag zur Ergreifung des niederträchtigen
-_patsy_. Ich wünschte, ich könnte mehr geben,
-aber nach den jüngsten Ereignissen bin ich etwas
-verarmt. Zu Eurer Information, _patsy_
-hat zwei Verstecke in %reg, eines in ___mondung_
-und eines in __mondung2. Ich weiß nicht,
-welches davon, wenn überhaupt, derzeit genutzt wird,
-aber ich würde Euch raten, Euer bestes Schwert
-vorzubereiten. _patsy_ wird nicht ohne
-Widerstand zu Fall gebracht werden. Viel Glück und
-möge %god mit Euch sein.
+<ce> Ah, %pcf, mein Freund. Wieder einmal wurde
+<ce> ich verführt und betrogen. Vielleicht sollte ich
+<ce> wahrlich einem Kloster beitreten, denn mein Leben
+<ce> wäre ohne die Verlockungen der Frauen um vieles
+<ce> leichter, %oth. Hier, nehmt dieses Gold
+<ce> als meinen Beitrag zur Ergreifung des niederträchtigen
+<ce> _patsy_. Ich wünschte, ich könnte mehr geben,
+<ce> aber nach den jüngsten Ereignissen bin ich etwas
+<ce> verarmt. Zu Eurer Information, _patsy_
+<ce> hat zwei Verstecke in %reg, eines in ___mondung_
+<ce> und eines in __mondung2. Ich weiß nicht,
+<ce> welches davon, wenn überhaupt, derzeit genutzt wird,
+<ce> aber ich würde Euch raten, Euer bestes Schwert
+<ce> vorzubereiten. _patsy_ wird nicht ohne
+<ce> Widerstand zu Fall gebracht werden. Viel Glück und
+<ce> möge %god mit Euch sein.
 
 Message:  1035
-Warum sollte ich Euch auch nur ein Wort von dem
-erzählen, was ich weiß? Ihr seid nichts weiter als
-ein Spielgefährte von _qgiver_, der
-mich ebenso betrügen würde wie _patsy_
-es tat oder wie jene verfluchte _hooker_.
-Sucht Euch eine dunkle Höhle wie ___mondung_,
-um Euch zu verkriechen, zu verkümmern und zu sterben,
-Ihr Kind einer niederträchtigen %ra-Schankmagd.
+<ce> Warum sollte ich Euch auch nur ein Wort von dem
+<ce> erzählen, was ich weiß? Ihr seid nichts weiter als
+<ce> ein Spielgefährte von _qgiver_, der
+<ce> mich ebenso betrügen würde wie _patsy_
+<ce> es tat oder wie jene verfluchte _hooker_.
+<ce> Sucht Euch eine dunkle Höhle wie ___mondung_,
+<ce> um Euch zu verkriechen, zu verkümmern und zu sterben,
+<ce> Ihr Kind einer niederträchtigen %ra-Schankmagd.
 
 Message:  1036
 Seid gegrüßt %pcn,
@@ -361,10 +361,13 @@ Seid gegrüßt %pcn,
 _hooker_
 
 Message:  1037
-"Das stammt von _hooker_," wispert eine
-Stimme, als ein junger Bote Euch eine Nachricht
-überreicht. Bevor Ihr zu einer Antwort ansetzen
-könnt, eilt er bereits davon.
+<ce> "Das stammt von _hooker_," wispert eine
+<ce> Stimme, als ein junger Bote Euch eine Nachricht
+<ce> überreicht. Bevor Ihr zu einer Antwort ansetzen
+<ce> könnt, eilt er bereits davon.
+
+Message:  1055
+<ce> Verzeiht, Süßheit, mein Wissen hat seinen Preis.
 
 Message:  1038
 %qdt:
@@ -411,9 +414,9 @@ Message:  1042
  das andere in ___mondung2_.
 
 Message:  1050
-Dieses Dokument enthält die Eigentumsrechte
-über _house3_ in __house3_, %reg.
-Lasst es allen, die dies lesen, bekannt sein,
-dass _patsy_ der alleinige und rechtmäßige
-Eigentuemer des zuvor erwaehnten Grundstücks ist.
+<ce> Dieses Dokument enthält die Eigentumsrechte
+<ce> über _house3_ in __house3_, %reg.
+<ce> Lasst es allen, die dies lesen, bekannt sein,
+<ce> dass _patsy_ der alleinige und rechtmäßige
+<ce> Eigentuemer des zuvor erwaehnten Grundstücks ist.
 

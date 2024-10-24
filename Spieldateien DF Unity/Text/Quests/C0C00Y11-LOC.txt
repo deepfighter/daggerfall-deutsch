@@ -3,31 +3,31 @@ DisplayName: Der Spuk
 QRC:
 
 QuestorOffer:  [1000]
-Ihr seid kein Mitglied von __qgiver_,
-%pcn. Gleichwohl scheint Ihr redlich
-genug zu sein. So will ich Euch etwas
-offenbaren: Ein Haus drüben in __house_
-wird von irgendeiner Art von Untoten heimgesucht.
-Wir benötigen jemanden, der diesen Geist 
-austreibt. Verrichtet diese Aufgabe, und
-vielleicht ändere ich mein Urteil über Euch.
+<ce> Ihr seid kein Mitglied von __qgiver_,
+<ce> %pcn. Gleichwohl scheint Ihr redlich
+<ce> genug zu sein. So will ich Euch etwas
+<ce> offenbaren: Ein Haus drüben in __house_
+<ce> wird von irgendeiner Art von Untoten heimgesucht.
+<ce> Wir benötigen jemanden, der diesen Geist 
+<ce> austreibt. Verrichtet diese Aufgabe, und
+<ce> vielleicht ändere ich mein Urteil über Euch.
 
 RefuseQuest:  [1001]
-Dies wird dem __qgiver_
-keineswegs gefallen.
+<ce> Dies wird dem __qgiver_
+<ce> keineswegs gefallen.
 
 AcceptQuest:  [1002]
-Ist die Heimsuchung zu stark für Euch
-allein, tut nichts Unbedachtes! Begebt
-Euch zu _house_ in __house_.
-Ihr habt =traveltime_ Tage Zeit, andernfalls
-werden wir jemanden anderen entsenden,
-um diese Aufgabe zu erfüllen.
+<ce> Ist die Heimsuchung zu stark für Euch
+<ce> allein, tut nichts Unbedachtes! Begebt
+<ce> Euch zu _house_ in __house_.
+<ce> Ihr habt =traveltime_ Tage Zeit, andernfalls
+<ce> werden wir jemanden anderen entsenden,
+<ce> um diese Aufgabe zu erfüllen.
 
 QuestComplete:  [1004]
-Ihr habt also den Ort gereinigt, ja?
-Dies wird Euch zugutekommen, wenn ich
-mit den Hierarchen des Tempels spreche.
+<ce> Ihr habt also den Ort gereinigt, ja?
+<ce> Dies wird Euch zugutekommen, wenn ich
+<ce> mit den Hierarchen des Tempels spreche.
 
 RumorsDuringQuest:  [1005]
 _house_ wird von vielen mächtigen, bösen Geistern heimgesucht, so sagt man.
@@ -56,21 +56,21 @@ QuestLogEntry:  [1010]
  =traveltime_ Tage für diese Aufgabe.
 
 Message:  1011
-Im Leben habe ich dieses Haus erbaut.
-Mit welchem Recht stören mich die
-Sterblichen in meinen Todesträumen?
+<ce> Im Leben habe ich dieses Haus erbaut.
+<ce> Mit welchem Recht stören mich die
+<ce> Sterblichen in meinen Todesträumen?
 
 Message:  1012
-Nun, wenigstens habt Ihr es versucht.
-Ich werde nicht schlecht über Euch reden.
-Doch das ist alles, was ich versprechen
-kann, %pcn.
+<ce> Nun, wenigstens habt Ihr es versucht.
+<ce> Ich werde nicht schlecht über Euch reden.
+<ce> Doch das ist alles, was ich versprechen
+<ce> kann, %pcn.
 
 Message:  1080
-Des weiteren ist hier eine Karte
-zu ___newdung_, einem
-unreinen Ort, wie es ihn selten gibt.
-Erweist %reg einen Gefallen
-und vertilgt das Ungeziefer, das
-diesen Ort befällt.
+<ce> Des weiteren ist hier eine Karte
+<ce> zu ___newdung_, einem
+<ce> unreinen Ort, wie es ihn selten gibt.
+<ce> Erweist %reg einen Gefallen
+<ce> und vertilgt das Ungeziefer, das
+<ce> diesen Ort befällt.
 

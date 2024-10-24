@@ -3,51 +3,51 @@ DisplayName: Schmuggelwaren
 QRC:
 
 QuestorOffer:  [1000]
-Hmn, das ist eine potenziell heikle
-Situation, in der ich mich befinde.
-Nicht die schlimmste, aber in der Tat
-heikel. Ich besitze einen bestimmten
-... Gegenstand, der, um es deutlich zu
-sagen, nicht legal mein Eigen ist.
-Wenn Ihr ihn zu einem Kontakt von mir
-in __contact bringen würdet, werdet
-Ihr fürstlich belohnt. Höhren sich
-_reward_ Goldstücke fair für Euch an?
+<ce> Hmn, das ist eine potenziell heikle
+<ce> Situation, in der ich mich befinde.
+<ce> Nicht die schlimmste, aber in der Tat
+<ce> heikel. Ich besitze einen bestimmten
+<ce> ... Gegenstand, der, um es deutlich zu
+<ce> sagen, nicht legal mein Eigen ist.
+<ce> Wenn Ihr ihn zu einem Kontakt von mir
+<ce> in __contact bringen würdet, werdet
+<ce> Ihr fürstlich belohnt. Höhren sich
+<ce> _reward_ Goldstücke fair für Euch an?
 
 RefuseQuest:  [1001]
-Ihr lasst mich in der Stunde
-meiner Not im Stich, junger %ra.
-Ihr bringt mich in Harnisch.
+<ce> Ihr lasst mich in der Stunde
+<ce> meiner Not im Stich, junger %ra.
+<ce> Ihr bringt mich in Harnisch.
 
 AcceptQuest:  [1002]
-Ihr wollt mir helfen?
-%god sei gelobt.
-Nun, eilt, nehmt _item_
-und geht nach __contact_
-in ___contact_. Sucht
-nach einem =contact_
-namens _contact_.
-Kommt nicht auf die Idee,
-_item_ irgendwem anders zu
-bringen. Wenn Ihr nicht in
-=queston_ Tagen in __contact_
-seid, wird _contact_ nach Euch
-suchen. Nun, beeilt Euch, die
-Zeit drängt.
+<ce> Ihr wollt mir helfen?
+<ce> %god sei gelobt.
+<ce> Nun, eilt, nehmt _item_
+<ce> und geht nach __contact_
+<ce> in ___contact_. Sucht
+<ce> nach einem =contact_
+<ce> namens _contact_.
+<ce> Kommt nicht auf die Idee,
+<ce> _item_ irgendwem anders zu
+<ce> bringen. Wenn Ihr nicht in
+<ce> =queston_ Tagen in __contact_
+<ce> seid, wird _contact_ nach Euch
+<ce> suchen. Nun, beeilt Euch, die
+<ce> Zeit drängt.
 
 QuestFail:  [1003]
-Warum seid Ihr noch hier?
-Meine Anweisungen waren klar
-und deutlich, nun führt sie aus.
+<ce> Warum seid Ihr noch hier?
+<ce> Meine Anweisungen waren klar
+<ce> und deutlich, nun führt sie aus.
 
 QuestComplete:  [1004]
-Guten Tag, %pcf.
-Ich bin _contact_.
-Ich danke Euch für Eure Diskretion
-in dieser Angelegenheit. Ihr werdet
-feststellen, dass Diskretion eine
-wertvolle Eigenschaft ist. Hier ist
-Eure Bezahlung. Einen guten Tag.
+<ce> Guten Tag, %pcf.
+<ce> Ich bin _contact_.
+<ce> Ich danke Euch für Eure Diskretion
+<ce> in dieser Angelegenheit. Ihr werdet
+<ce> feststellen, dass Diskretion eine
+<ce> wertvolle Eigenschaft ist. Hier ist
+<ce> Eure Bezahlung. Einen guten Tag.
 
 RumorsDuringQuest:  [1005]
 Die Wachen durchsuchen sogar _questgiver_s Haus nach dieser _item_-Lieferung.
@@ -65,15 +65,17 @@ Die Wachen haben ihre Suche nach dem gestohlenen _item_ aufgegeben.
 Stellt Euch vor, sie haben _questgiver_ verdächtigt, dass er etwas mit diesem _item_ zu tun hatte.
 
 QuestorPostsuccess:  [1008]
-Schön, Euch wiederzusehen, %pcf. Ich weiß, dass Eure Mission erfolgreich war.
+<ce> Schön, Euch wiederzusehen, %pcf.
+<ce> Ich weiß, dass Eure Mission erfolgreich war.
 <--->
-Ich bin froh, dass Ihr zurückgekehrt seid, %pcf. Ihr habt mich vor einer potenziellen Peinlichkeit bewahrt.
+<ce> Ich bin froh, dass Ihr zurückgekehrt seid, %pcf.
+<ce> Ihr habt mich vor einer potenziellen Peinlichkeit bewahrt.
 
 QuestorPostfailure:  [1009]
-Mein Kontakt sagt, Ihr seid nie
-bei Ihm gewesen. Das war sehr
-unprofessionell, %pcf.
-Nun verlasst mich. Ich habe zu tun.
+<ce> Mein Kontakt sagt, Ihr seid nie
+<ce> bei Ihm gewesen. Das war sehr
+<ce> unprofessionell, %pcf.
+<ce> Nun verlasst mich. Ich habe zu tun.
 
 Message:  1011
 _questgiver_ ist ein eher unbedeutender Herrscher, aber ein Großschmuggler von _item_.

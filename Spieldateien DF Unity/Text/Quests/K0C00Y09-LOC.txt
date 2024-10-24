@@ -3,89 +3,89 @@ DisplayName: Wiedergutmachung
 QRC:
 
 QuestorOffer:  [1000]
-Mein ehemaliger Geschäftspartner hier im
-__qgiver_, ein _enemy_, hat
-sich einen größeren Teil unserer Einnahmen,
-als %g2 zusteht, unter den Nagel gerissen und
-___qgiver_ überstürzt verlassen.
-Wie dem auch sei, ich bin kein rachsüchtiger
-Mensch, aber ich würde es zu schätzen wissen,
-wenn Ihr den _enemy_ zu mir bringen könntet,
-damit %g mir eine Erklärung für %g3 Verhalten
-liefern kann. Ich bezahle Euch _gold_ Goldstücke,
-wenn Ihr %g2 mir lebend bringt und _lessgold_ Goldstücke,
-solltet Ihr %g2 versehentlich umbringen.
+<ce> Mein ehemaliger Geschäftspartner hier im
+<ce> __qgiver_, ein _enemy_, hat
+<ce> sich einen größeren Teil unserer Einnahmen,
+<ce> als %g2 zusteht, unter den Nagel gerissen und
+<ce> ___qgiver_ überstürzt verlassen.
+<ce> Wie dem auch sei, ich bin kein rachsüchtiger
+<ce> Mensch, aber ich würde es zu schätzen wissen,
+<ce> wenn Ihr den _enemy_ zu mir bringen könntet,
+<ce> damit %g mir eine Erklärung für %g3 Verhalten
+<ce> liefern kann. Ich bezahle Euch _gold_ Goldstücke,
+<ce> wenn Ihr %g2 mir lebend bringt und _lessgold_ Goldstücke,
+<ce> solltet Ihr %g2 versehentlich umbringen.
 <--->
-Dieser abscheuliche _enemy_ hat sich mein
-Vertrauen erschlichen, mich fröhlich an der
-Nase herumgeführt und ist dann ohne ein Wort
-abgehauen, mit einem ansehnlichen Teil meines
-Vermögens. Der Diebstahl des Geldes stört mich
-zwar, doch nicht so sehr wie der Verrat. Ich will,
-dass Ihr %g2 aufspürt und zu mir bringt und
-bin bereit, Euch dafür _gold_ Goldstücke
-zu bezahlen. Seid Ihr fähig und bereit dazu?
+<ce> Dieser abscheuliche _enemy_ hat sich mein
+<ce> Vertrauen erschlichen, mich fröhlich an der
+<ce> Nase herumgeführt und ist dann ohne ein Wort
+<ce> abgehauen, mit einem ansehnlichen Teil meines
+<ce> Vermögens. Der Diebstahl des Geldes stört mich
+<ce> zwar, doch nicht so sehr wie der Verrat. Ich will,
+<ce> dass Ihr %g2 aufspürt und zu mir bringt und
+<ce> bin bereit, Euch dafür _gold_ Goldstücke
+<ce> zu bezahlen. Seid Ihr fähig und bereit dazu?
 <--->
-Ich benötige die Dienste eines Menschenjägers,
-oder, um genau zu sein, eines _enemy_-Jägers.
-Seht, %g hat die Stadt verlassen, ohne %g3 Schulden
-bei mir zu begleichen. Hier geht es ums Prinzip.
-Es würde mir nichts ausmachen, Euch _gold_ Goldstücke
-für %g3 Gefangennahme zu bezahlen, aber mein
-Ruf wäre ruiniert, wuerde ich zulassen, dass meine
-Schuldner ___qgiver_ verlassen, solange sie mir
-noch Geld schulden. Werdet Ihr diesen Versager
-für mich jagen?
+<ce> Ich benötige die Dienste eines Menschenjägers,
+<ce> oder, um genau zu sein, eines _enemy_-Jägers.
+<ce> Seht, %g hat die Stadt verlassen, ohne %g3 Schulden
+<ce> bei mir zu begleichen. Hier geht es ums Prinzip.
+<ce> Es würde mir nichts ausmachen, Euch _gold_ Goldstücke
+<ce> für %g3 Gefangennahme zu bezahlen, aber mein
+<ce> Ruf wäre ruiniert, wuerde ich zulassen, dass meine
+<ce> Schuldner ___qgiver_ verlassen, solange sie mir
+<ce> noch Geld schulden. Werdet Ihr diesen Versager
+<ce> für mich jagen?
 
 RefuseQuest:  [1001]
-Nein? Gut, dann werde ich einfach
-zur Kriegergilde gehen und jemand
-anderen anheuern.
+<ce> Nein? Gut, dann werde ich einfach
+<ce> zur Kriegergilde gehen und jemand
+<ce> anderen anheuern.
 <--->
-Zu schade. Lasst es mich wissen,
-wenn Ihr Eure Meinung ändert.
+<ce> Zu schade. Lasst es mich wissen,
+<ce> wenn Ihr Eure Meinung ändert.
 
 AcceptQuest:  [1002]
-Gut. Der _enemy_ trägt den Namen
-=enemy_ und Gerüchten zufolge hat
-%g sich in ___mondung_ verkrochen,
-allerdings nur für höchstens =queston_ Tage.
-Ich will, dass Ihr Euch bis dahin wieder bei mir
-gemeldet habt. Denkt daran, =enemy_ ist
-ein zäher _enemy_, also erwartet einen Kampf,
-doch versucht, %g2 nicht zu töten. Ich will %g2
-lebend, nicht tot. Viel Glück, %pcf.
+<ce> Gut. Der _enemy_ trägt den Namen
+<ce> =enemy_ und Gerüchten zufolge hat
+<ce> %g sich in ___mondung_ verkrochen,
+<ce> allerdings nur für höchstens =queston_ Tage.
+<ce> Ich will, dass Ihr Euch bis dahin wieder bei mir
+<ce> gemeldet habt. Denkt daran, =enemy_ ist
+<ce> ein zäher _enemy_, also erwartet einen Kampf,
+<ce> doch versucht, %g2 nicht zu töten. Ich will %g2
+<ce> lebend, nicht tot. Viel Glück, %pcf.
 <--->
-Das ist gut. Meine Quellen berichten mir,
-dass der _enemy_ Zuflucht in
-___mondung_ gesucht hat und
-vermutlich für ungefähr =queston_ Tage dort verweilen
-wird. Ich bin mir sicher, dass =enemy_,
-so heißt dieser verfluchte _enemy_, nicht
-ohne Kampf mit Euch kommen wird, aber versucht,
-%g2 nicht umzubringen. Ich erwarte Euch innerhalb von
-=queston_ Tagen zurück. Viel Glück.
+<ce> Das ist gut. Meine Quellen berichten mir,
+<ce> dass der _enemy_ Zuflucht in
+<ce> ___mondung_ gesucht hat und
+<ce> vermutlich für ungefähr =queston_ Tage dort verweilen
+<ce> wird. Ich bin mir sicher, dass =enemy_,
+<ce> so heißt dieser verfluchte _enemy_, nicht
+<ce> ohne Kampf mit Euch kommen wird, aber versucht,
+<ce> %g2 nicht umzubringen. Ich erwarte Euch innerhalb von
+<ce> =queston_ Tagen zurück. Viel Glück.
 <--->
-Das ist erschreckend hilfsbereit von Euch, %pcf.
-Ich habe selbst ein paar Nachforschungen
-angestellt und es scheint, als würde unser
-_enemy_-Freund sich in der Nähe von
-___mondung_ herumtreiben, ohne Schutz
-und alleine, abgesehen von den üblichen,
-anäessigen Rohlingen. %g3 Name ist
-=enemy_  und ich erwarte %g2 hier
-innerhalb von =queston_ Tage, vorzugsweise
-lebend. Enttäuscht mich nicht.
+<ce> Das ist erschreckend hilfsbereit von Euch, %pcf.
+<ce> Ich habe selbst ein paar Nachforschungen
+<ce> angestellt und es scheint, als würde unser
+<ce> _enemy_-Freund sich in der Nähe von
+<ce> ___mondung_ herumtreiben, ohne Schutz
+<ce> und alleine, abgesehen von den üblichen,
+<ce> anäessigen Rohlingen. %g3 Name ist
+<ce> =enemy_ und ich erwarte %g2 hier
+<ce> innerhalb von =queston_ Tage, vorzugsweise
+<ce> lebend. Enttäuscht mich nicht.
 
 QuestComplete:  [1004]
-Ah, guten Tag, =enemy_.
-Mir scheint, wir müssen uns ber
-Geschaeftliches unterhalten, nicht wahr?
-%pcf, ich danke Euch, dass Ihr diesem
-_enemy_ die Reise so gemütlich wie
-möglich gemacht habt. Hier sind die
-_gold_ Goldstücke, die ich Euch
-versprochen habe.
+<ce> Ah, guten Tag, =enemy_.
+<ce> Mir scheint, wir müssen uns ber
+<ce> Geschaeftliches unterhalten, nicht wahr?
+<ce> %pcf, ich danke Euch, dass Ihr diesem
+<ce> _enemy_ die Reise so gemütlich wie
+<ce> möglich gemacht habt. Hier sind die
+<ce> _gold_ Goldstücke, die ich Euch
+<ce> versprochen habe.
 
 RumorsDuringQuest:  [1005]
 _qgiver_ war ein Narr, Geschäfte mit jemandem wie =enemy_ zu machen.
@@ -104,7 +104,7 @@ QuestorPostsuccess:  [1008]
 Oh hallo, %pcf. =enemy_ würde auch hallo sagen ... wenn %g noch eine Zunge hätte.
 
 QuestorPostfailure:  [1009]
-Ihr denkt doch nicht wirklich, dass ich Euch etwas zu sagen hätte, oder, %pcf?
+<ce> Ihr denkt doch nicht wirklich, dass ich Euch etwas zu sagen hätte, oder, %pcf?
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -119,30 +119,30 @@ QuestLogEntry:  [1010]
  %g =enemy_ lebend will.
 
 Message:  1011
-_qgiver_ wollte =enemy_
-lebend, aber Ihr habt %g2 erschlagen.
+<ce> _qgiver_ wollte =enemy_
+<ce> lebend, aber Ihr habt %g2 erschlagen.
 
 Message:  1012
-Au! %oth,
-ich ergebe mich!
+<ce> Au! %oth,
+<ce> ich ergebe mich!
 <--->
-Ich gebe auf!
-Ich gebe auf!
+<ce> Ich gebe auf!
+<ce> Ich gebe auf!
 <--->
-Tötet mich nicht!
-Ich  ergebe mich!
+<ce> Tötet mich nicht!
+<ce> Ich ergebe mich!
 
 Message:  1013
-=enemy_ schleicht davon,
-als Ihr nicht hinseht.  Wie dem auch
-sei, es ist ohnehin zu spät, um
-die Belohnung abzuholen.
+<ce> =enemy_ schleicht davon,
+<ce> als Ihr nicht hinseht. Wie dem auch
+<ce> sei, es ist ohnehin zu spät, um
+<ce> die Belohnung abzuholen.
 
 Message:  1014
-Nun gut, ich hätte =enemy_
-gerne lebendig gehabt, aber vermutlich
-hätte ich %g2 letzten Endes selbst
-umgebracht. Hier sind _lessgold_ Goldstücke.
-Nicht der volle Betrag, aber ich bin nicht
-undankbar.
+<ce> Nun gut, ich hätte =enemy_
+<ce> gerne lebendig gehabt, aber vermutlich
+<ce> hätte ich %g2 letzten Endes selbst
+<ce> umgebracht. Hier sind _lessgold_ Goldstücke.
+<ce> Nicht der volle Betrag, aber ich bin nicht
+<ce> undankbar.
 

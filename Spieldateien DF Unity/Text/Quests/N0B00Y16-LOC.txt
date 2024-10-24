@@ -3,59 +3,59 @@ DisplayName: Die Trickkiste
 QRC:
 
 QuestorOffer:  [1000]
-%pct, ich brauche jemanden,
-der den Zauber "Öffnen" beherrscht.
-Bitte sagt mir, dass Ihr ihn
-inzwischen gelernt habt.
+<ce> %pct, ich brauche jemanden,
+<ce> der den Zauber "Öffnen" beherrscht.
+<ce> Bitte sagt mir, dass Ihr ihn
+<ce> inzwischen gelernt habt.
 
 RefuseQuest:  [1001]
-Wenn Ihr erwartet, jemals in der Gilde
-aufzusteigen, solltet Ihr Euch wirklich
-mehr Euren Studien widmen.
+<ce> Wenn Ihr erwartet, jemals in der Gilde
+<ce> aufzusteigen, solltet Ihr Euch wirklich
+<ce> mehr Euren Studien widmen.
 
 AcceptQuest:  [1002]
-Nun, das ist ein Anfang. Die Arbeit, für
-die ich Euch brauche, ist ganz einfach.
-Vermutlich könnte sie sogar ein Kind erledigen,
-aber da Ihr schon mal hier seid ... ein
-örtlicher Händler, _merchant_,
-hat eine antike Truhe gekauft, war aber bisher
-nicht in der Lage, sie zu öffnen. Die besten
-Schlosser in __shop_ haben es
-versucht und sind gescheitert, also wurden
-wir um Hilfe gebeten. Eigentlich haben wir
-nicht wirklich die Zeit für solche
-Belanglosigkeiten, aber die Gilde könnte
-Unterstützung gut gebrauchen. Ich habe also
-zugesagt, jemanden loszuschicken. Nach allem,
-was ich gehört habe, klingt das nach einer
-der Trickkisten von _mage_.
-Damals hat %g Hunderte davon hergestellt,
-hauptsächlich als Geschenke für Freunde.
-Sie tauchen immer wieder auf, da die Ausführung
-wirklich hervorragend ist ... wo war ich?
-Ach ja, nun, das Geheimnis dieser Kisten ist,
-dass es beinahe unmöglich ist, sie zu öffnen,
-es sei denn, man benutzt den simplen,
-Standardzauber "Öffnen". _mage_
-hat sie vor allem gegen die ausgefallenen
-Alternativsprüche resistent gemacht, wie
-sie die Freunde gerne benutzten. Ja, %g
-neigte dazu, beachtliches Talent auf derlei
-Scherze zu verschwenden. Wirklich eine Schande.
-So, und jetzt macht Euch auf den Weg.
+<ce> Nun, das ist ein Anfang. Die Arbeit, für
+<ce> die ich Euch brauche, ist ganz einfach.
+<ce> Vermutlich könnte sie sogar ein Kind erledigen,
+<ce> aber da Ihr schon mal hier seid ... ein
+<ce> örtlicher Händler, _merchant_,
+<ce> hat eine antike Truhe gekauft, war aber bisher
+<ce> nicht in der Lage, sie zu öffnen. Die besten
+<ce> Schlosser in __shop_ haben es
+<ce> versucht und sind gescheitert, also wurden
+<ce> wir um Hilfe gebeten. Eigentlich haben wir
+<ce> nicht wirklich die Zeit für solche
+<ce> Belanglosigkeiten, aber die Gilde könnte
+<ce> Unterstützung gut gebrauchen. Ich habe also
+<ce> zugesagt, jemanden loszuschicken. Nach allem,
+<ce> was ich gehört habe, klingt das nach einer
+<ce> der Trickkisten von _mage_.
+<ce> Damals hat %g Hunderte davon hergestellt,
+<ce> hauptsächlich als Geschenke für Freunde.
+<ce> Sie tauchen immer wieder auf, da die Ausführung
+<ce> wirklich hervorragend ist ... wo war ich?
+<ce> Ach ja, nun, das Geheimnis dieser Kisten ist,
+<ce> dass es beinahe unmöglich ist, sie zu öffnen,
+<ce> es sei denn, man benutzt den simplen,
+<ce> Standardzauber "Öffnen". _mage_
+<ce> hat sie vor allem gegen die ausgefallenen
+<ce> Alternativsprüche resistent gemacht, wie
+<ce> sie die Freunde gerne benutzten. Ja, %g
+<ce> neigte dazu, beachtliches Talent auf derlei
+<ce> Scherze zu verschwenden. Wirklich eine Schande.
+<ce> So, und jetzt macht Euch auf den Weg.
 
 QuestFail:  [1003]
-%pct, lasst mich in Frieden und
- macht Euch auf den Weg. Ich muss hier
- arbeiten und Ihr eigentlich auch,
- wenn ich mich nicht irre.
+<ce> %pct, lasst mich in Frieden und
+<ce> macht Euch auf den Weg. Ich muss hier
+<ce> arbeiten und Ihr eigentlich auch,
+<ce> wenn ich mich nicht irre.
 
 QuestComplete:  [1004]
-Wie? Was wollt Ihr? Oh ja, die Trickkiste.
- Ich schätze, sie hat Euch keine Probleme
- gemacht. Gute Werbung für die Magiergilde
- und solcher Blödsinn. Ganz toll.
+<ce> Wie? Was wollt Ihr? Oh ja, die Trickkiste.
+<ce> Ich schätze, sie hat Euch keine Probleme
+<ce> gemacht. Gute Werbung für die Magiergilde
+<ce> und solcher Blödsinn. Ganz toll.
 
 RumorsDuringQuest:  [1005]
 Habt Ihr das von _merchant_ gehört?
@@ -72,13 +72,13 @@ _merchant_ hat die Trickkiste von der Magiergilde
 leer war! Habe ich zumindest gehört.
 
 QuestorPostsuccess:  [1008]
-Hallo, %pcn. Ich erinnere mich an Euch.
-Die magische Kiste von _mage_, richtig?
+<ce> Hallo, %pcn. Ich erinnere mich an Euch.
+<ce> Die magische Kiste von _mage_, richtig?
 
 QuestorPostfailure:  [1009]
-Beim Himmel, was wollt Ihr nun schon wieder?
-Ihr seid der Dummkopf, der nicht einmal diese
-Trickkiste von _merchant_ öffnen konnte.
+<ce> Beim Himmel, was wollt Ihr nun schon wieder?
+<ce> Ihr seid der Dummkopf, der nicht einmal diese
+<ce> Trickkiste von _merchant_ öffnen konnte.
 
 Message:  1020
 %qdt
@@ -90,15 +90,15 @@ Message:  1020
  eine Trickkiste handelt, die nur mit
  dem Standardzauber "Öffnen" entriegelt
  werden kann. Wenn ich damit fertig bin,
- sollte ich zu  _questgiver_ zurückkehren.
+ sollte ich zu _questgiver_ zurückkehren.
 
 Message:  1030
-Die Magiergilde hat Euch geschickt?
-Sehr gut. Ich wusste, mein alter Freund
-_questgiver_ würde mich nicht hängen
-lassen. Hier ist die Truhe. Ich hoffe, Ihr
-habt eine Idee, wie man die Kiste öffnen
-könnte. Ich bin mit meiner Weisheit am Ende.
+<ce> Die Magiergilde hat Euch geschickt?
+<ce> Sehr gut. Ich wusste, mein alter Freund
+<ce> _questgiver_ würde mich nicht hängen
+<ce> lassen. Hier ist die Truhe. Ich hoffe, Ihr
+<ce> habt eine Idee, wie man die Kiste öffnen
+<ce> könnte. Ich bin mit meiner Weisheit am Ende.
 
 Message:  1040
 Als Ihr den Öffnen-Zauber auf die Truhe
@@ -113,6 +113,7 @@ Message:  1041
 Ihr hört das Schloss klicken, als Ihr
 den Öffnen-Zauber auf die Kiste sprecht.
 Darin ist ein beschriebener Zauberstab:
+ 
 "Für =mage3_ zu deinem 110. Geburtstag.
 Benutze mich für eine Vorschau auf deinen
 120. Geburtstag!"
@@ -133,20 +134,20 @@ fliegt auf und offenbart eine gestochene Karte:
 <ce>_mage_
 
 Message:  1043
-Der Deckel der Kiste fliegt auf.
-Darin ist nichts außer ein paar
-Schnipseln verblichenen Konfettis.
+<ce> Der Deckel der Kiste fliegt auf.
+<ce> Darin ist nichts außer ein paar
+<ce> Schnipseln verblichenen Konfettis.
 
 Message:  1050
-Sagt _questgiver_, ich weiß es
-zu schätzen, dass %g Euch zu meiner
-Hilfe geschickt hat ... nehme ich an.
-Wenn ich gewusst hätte, was darin war,
-wäre ich vermutlich nicht so versessen
-darauf gewesen, die Kiste zu öffnen!
+<ce> Sagt _questgiver_, ich weiß es
+<ce> zu schätzen, dass %g Euch zu meiner
+<ce> Hilfe geschickt hat ... nehme ich an.
+<ce> Wenn ich gewusst hätte, was darin war,
+<ce> wäre ich vermutlich nicht so versessen
+<ce> darauf gewesen, die Kiste zu öffnen!
 
 Message:  1051
-Wenn Ihr sie nicht öffnen könnt,
-dürft Ihr sie auch gleich behalten.
-Ich habe keine Verwendung mehr dafür.
+<ce> Wenn Ihr sie nicht öffnen könnt,
+<ce> dürft Ihr sie auch gleich behalten.
+<ce> Ich habe keine Verwendung mehr dafür.
 

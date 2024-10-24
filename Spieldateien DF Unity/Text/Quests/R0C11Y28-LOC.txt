@@ -3,61 +3,61 @@ DisplayName: Der Irre Mörder
 QRC:
 
 QuestorOffer:  [1000]
-Ein Alptraum treibt sich auf den Straßen
-von %cn herum. Die Leute nennen
-ihn den %cn-Mörder, und bislang
-konnte man mir noch nicht einmal bestätigen,
-ob wir es mit einem Mann oder einem Ungeheuer
-zu tun haben. Einer meiner fähigsten Weisen,
-_contact_, ist damit beauftragt,
-die Körper der Opfer zu untersuchen, bekommt
-aber seit Kurzem %g Briefe verstörenden Inhalts
-und fürchtet offen gesagt um %g3 Leben. Ich
-brauche jemanden, der die Ergebnisse %g3
-Nachforschungen untersucht, um zu sehen, ob
-%g3 Befürchtungen gerechtfertigt sind. Werdet
-Ihr mir bei dieser Sache helfen, %pcf?
-Ich biete Euch _reward_ Goldstücke an als
-Gegenleistung für den frühzeitigen Ruhestand
-des %cn-Mörders.
+<ce> Ein Alptraum treibt sich auf den Straßen
+<ce> von %cn herum. Die Leute nennen
+<ce> ihn den %cn-Mörder, und bislang
+<ce> konnte man mir noch nicht einmal bestätigen,
+<ce> ob wir es mit einem Mann oder einem Ungeheuer
+<ce> zu tun haben. Einer meiner fähigsten Weisen,
+<ce> _contact_, ist damit beauftragt,
+<ce> die Körper der Opfer zu untersuchen, bekommt
+<ce> aber seit Kurzem %g Briefe verstörenden Inhalts
+<ce> und fürchtet offen gesagt um %g3 Leben. Ich
+<ce> brauche jemanden, der die Ergebnisse %g3
+<ce> Nachforschungen untersucht, um zu sehen, ob
+<ce> %g3 Befürchtungen gerechtfertigt sind. Werdet
+<ce> Ihr mir bei dieser Sache helfen, %pcf?
+<ce> Ich biete Euch _reward_ Goldstücke an als
+<ce> Gegenleistung für den frühzeitigen Ruhestand
+<ce> des %cn-Mörders.
 
 RefuseQuest:  [1001]
-Keine ungewöhnliche Antwort. Dann
-habe ich kaum eine andere Wahl als
-ein paar meiner weniger angenehmen
-Kontake um Hilfe zu bitten -- eine Option,
-die ich hoffte, vermeiden zu können.
+<ce> Keine ungewöhnliche Antwort. Dann
+<ce> habe ich kaum eine andere Wahl als
+<ce> ein paar meiner weniger angenehmen
+<ce> Kontake um Hilfe zu bitten -- eine Option,
+<ce> die ich hoffte, vermeiden zu können.
 
 AcceptQuest:  [1002]
-%god sei dafür gedankt.
-Die Bewohner von %reg werden langsam
-unruhig aufgrund des mangelnden
-Fortschritts in den offiziellen Untersuchungen.
-Ich befürchte, wir werden es bald mit
-einem ausgewachsenen Mob zu tun haben,
-möglicherweise bereits innerhalb der
-nächsten =total_ Tage, vielleicht sogar früher.
-_contact_ arbeitet vom _bookstore_
-aus und ich habe %g2 wissen lassen, dass
-ich bald jemanden dorthin schicken werde.
-Nehmt Euch in Acht dort draußen, %pcf.
-Bis diese Situation aufgeklärt wurde, denkt
-daran, dass die Nächte in %cn
-eine Klinge führen.
+<ce> %god sei dafür gedankt.
+<ce> Die Bewohner von %reg werden langsam
+<ce> unruhig aufgrund des mangelnden
+<ce> Fortschritts in den offiziellen Untersuchungen.
+<ce> Ich befürchte, wir werden es bald mit
+<ce> einem ausgewachsenen Mob zu tun haben,
+<ce> möglicherweise bereits innerhalb der
+<ce> nächsten =total_ Tage, vielleicht sogar früher.
+<ce> _contact_ arbeitet vom _bookstore_
+<ce> aus und ich habe %g2 wissen lassen, dass
+<ce> ich bald jemanden dorthin schicken werde.
+<ce> Nehmt Euch in Acht dort draußen, %pcf.
+<ce> Bis diese Situation aufgeklärt wurde, denkt
+<ce> daran, dass die Nächte in %cn
+<ce> eine Klinge führen.
 
 QuestFail:  [1003]
-Der %cn-Mörder ist immer
-noch auf freiem Fuß. Ich habe keine Zeit
-für Geplauder und Ihr solltet das auch nicht.
+<ce> Der %cn-Mörder ist immer
+<ce> noch auf freiem Fuß. Ich habe keine Zeit
+<ce> für Geplauder und Ihr solltet das auch nicht.
 
 QuestComplete:  [1004]
-Der Frieden in %reg ist wiederhergestellt,
-%pcf, dank Euch. Hier sind die _reward_ Goldstücke,
-die ich Euch versprochen hatte -- gerne gebe
-ich sie für das Ende dieses Wahnsinnigen und
-Eure Verschwiegenheit in diesem Fall.
-%god hat uns wahrlich gesegnet, als Ihr
-nach %reg kamt.
+<ce> Der Frieden in %reg ist wiederhergestellt,
+<ce> %pcf, dank Euch. Hier sind die _reward_ Goldstücke,
+<ce> die ich Euch versprochen hatte -- gerne gebe
+<ce> ich sie für das Ende dieses Wahnsinnigen und
+<ce> Eure Verschwiegenheit in diesem Fall.
+<ce> %god hat uns wahrlich gesegnet, als Ihr
+<ce> nach %reg kamt.
 
 RumorsDuringQuest:  [1005]
 Auf den Straßen von %cn ist es nicht mehr sicher. Nicht mit dem Mörder von %cn.
@@ -87,34 +87,35 @@ Schätze, der %cn-Mörder war nur irgendein armer Irrer. Rein gar nichts Romanti
 Das neueste Gerücht besagt, dass der %cn-Mörder kein Vampir war, aber er sich für einen gehalten hat.
 
 QuestorPostsuccess:  [1008]
-Ich erinnere mich noch an Euch, %pcf, und Euer Taktgefühl, dass Ihr mit dem %cn-Mörder bewiesen habt.
+<ce> Ich erinnere mich noch an Euch, %pcf,
+<ce> und Euer Taktgefühl, dass Ihr mit dem %cn-Mörder bewiesen habt.
 
 QuestorPostfailure:  [1009]
-Ihr habt mich in der Affäre um den
-%cn-Mörder enttäuscht,
-%pcf. Und ich sehe keinen Grund
-zu der Annahme, dass Ihr mich nicht
-noch ein weiteres Mal enttäuschen würdet.
+<ce> Ihr habt mich in der Affäre um den
+<ce> %cn-Mörder enttäuscht,
+<ce> %pcf. Und ich sehe keinen Grund
+<ce> zu der Annahme, dass Ihr mich nicht
+<ce> noch ein weiteres Mal enttäuschen würdet.
 
 QuestLogEntry:  [1010]
-Ah, %pcf, mein geschätzter %ra,
-welch Freude erfüllt mich, Euch hier zu sehen.
-Man hat Euch sicherlich davon berichtet, dass
-ich mich ein wenig wie ein Eremit verhalte,
-seitdem ich diese bedrohlichen Schreiben erhalte,
-welche mir mit Mord drohen, falls ich meine
-Nachforschungen nicht aufgebe. Doch nun,
-weilt ein alter Kollege von mir in der Stadt,
-und mit seiner Unterstützung könnte es mir gelingen,
-diese Morde aufzuklären. Ich bitte Euch,
-diese Notizen zu einem gewissen _vamp_
-zu bringen, einem =vamp_, den Ihr im
-_hookerhouse_ antreffen werdet.
-Sollte mir etwas zustoßen, so wünsche ich,
-dass jemand in der Lage ist, die Untersuchungen
-weiterzuführen. Ihr und _vamp_ werdet
-diese Personen sein, %pcf. Also seid
-vorsichtig und lasst Euch nicht töten da draußen.
+<ce> Ah, %pcf, mein geschätzter %ra,
+<ce> welch Freude erfüllt mich, Euch hier zu sehen.
+<ce> Man hat Euch sicherlich davon berichtet, dass
+<ce> ich mich ein wenig wie ein Eremit verhalte,
+<ce> seitdem ich diese bedrohlichen Schreiben erhalte,
+<ce> welche mir mit Mord drohen, falls ich meine
+<ce> Nachforschungen nicht aufgebe. Doch nun,
+<ce> weilt ein alter Kollege von mir in der Stadt,
+<ce> und mit seiner Unterstützung könnte es mir gelingen,
+<ce> diese Morde aufzuklären. Ich bitte Euch,
+<ce> diese Notizen zu einem gewissen _vamp_
+<ce> zu bringen, einem =vamp_, den Ihr im
+<ce> _hookerhouse_ antreffen werdet.
+<ce> Sollte mir etwas zustoßen, so wünsche ich,
+<ce> dass jemand in der Lage ist, die Untersuchungen
+<ce> weiterzuführen. Ihr und _vamp_ werdet
+<ce> diese Personen sein, %pcf. Also seid
+<ce> vorsichtig und lasst Euch nicht töten da draußen.
 
 Message:  1011
 _contact_,
@@ -165,7 +166,7 @@ _contact_,
  Antwort mit großer Vorfreude entgegen.
  
  In aufrichtiger Bewunderung,
-
+ 
  _vamp_
 
 Message:  1014
@@ -208,23 +209,23 @@ Message:  1014
  Hintergrund des Opfers überprüfen).
 
 Message:  1015
-Also, _contact_ hat ganze Tage
-mit diesen von Maden zerfressenen Kadavern
-verbracht und alles, was %g vorzuweisen hat,
-ist das. %god, bei solchen Ergebnissen
-wird _contact_ Wochen brauchen,
-bis %g auch nur eine Vermutung über die
-Identität des Mörders anstellen kann.
-Hört zu, %pcf, wenn Ihr _qgiver_
-helfen wollt, bringt diese Blume hier zu
-_widow_ in __widow_ -- %g
-ist die Schwester von %mn, einem
-der Opfer des Mörders. Das mag zwar wie
-eine banale Sentimentalität erscheinen,
-aber es wird Euch der Ergreifung des
-%cn-Mörders näher bringen, als jede
-von _contact_s wissenschaftlichen
-Katalysen. Vertraut mir, %pcf.
+<ce> Also, _contact_ hat ganze Tage
+<ce> mit diesen von Maden zerfressenen Kadavern
+<ce> verbracht und alles, was %g vorzuweisen hat,
+<ce> ist das. %god, bei solchen Ergebnissen
+<ce> wird _contact_ Wochen brauchen,
+<ce> bis %g auch nur eine Vermutung über die
+<ce> Identität des Mörders anstellen kann.
+<ce> Hört zu, %pcf, wenn Ihr _qgiver_
+<ce> helfen wollt, bringt diese Blume hier zu
+<ce> _widow_ in __widow_ -- %g
+<ce> ist die Schwester von %mn, einem
+<ce> der Opfer des Mörders. Das mag zwar wie
+<ce> eine banale Sentimentalität erscheinen,
+<ce> aber es wird Euch der Ergreifung des
+<ce> %cn-Mörders näher bringen, als jede
+<ce> von _contact_s wissenschaftlichen
+<ce> Katalysen. Vertraut mir, %pcf.
 
 Message:  1016
 _vamp_ ist der =vamp_, den ich drüben im _hookerhouse_ getroffen habe. Scheint nett zu sein, wenn auch etwas gespenstisch.
@@ -242,32 +243,32 @@ Die arme _widow_ wohnt im __widow_, seit der Mörder ihren Bruder erwischt hat.
 Der %reg-Mörder hat _widow_s Bruder getötet, und jetzt verlässt %g __widow_ nicht mehr.
 
 Message:  1019
-Eine Mohnblume? Oh, Ihr müsst der Freund
-meines Bruders sein, _rippername_,
-ja? Ich bin Euch überaus dankbar für die
-tröstenden Worte, die Ihr mir nach seinem
-bedauerlichen Ableben übermittelt habt. Er
-hatte nur wenige Freunde, und ehrlich gesagt,
-hat er Euren Namen nie erwähnt. Dennoch danke
-ich Euch von Herzen für die prächtigen Blumen
-und die freundliche Einladung, Euch in
-_ripperhouse_ zu besuchen. Ich habe
-dieses Anwesen stets bewundert und würde es
-gerne von innen sehen.
+<ce> Eine Mohnblume? Oh, Ihr müsst der Freund
+<ce> meines Bruders sein, _rippername_,
+<ce> ja? Ich bin Euch überaus dankbar für die
+<ce> tröstenden Worte, die Ihr mir nach seinem
+<ce> bedauerlichen Ableben übermittelt habt. Er
+<ce> hatte nur wenige Freunde, und ehrlich gesagt,
+<ce> hat er Euren Namen nie erwähnt. Dennoch danke
+<ce> ich Euch von Herzen für die prächtigen Blumen
+<ce> und die freundliche Einladung, Euch in
+<ce> _ripperhouse_ zu besuchen. Ich habe
+<ce> dieses Anwesen stets bewundert und würde es
+<ce> gerne von innen sehen.
  
-Wie bitte, Ihr seid nicht _rippername_?
-Oh, das betrübt mich sehr. Bitte verzeiht
-mir, ich bin seit dem Verlust meines Bruders
-nicht mehr ganz bei mir...  Nein, ich fürchte,
-ich habe keine Informationen, die Euch bei
-der Suche nach diesem mörderischen Teufel
-helfen könnte. Glaubt mir, ich würde Euch
-unterstützen, wenn ich könnte. Aber Ihr
-werdet doch sicher den Unmenschen finden, der
-meinen Bruder ermordet hat, oder?
+<ce> Wie bitte, Ihr seid nicht _rippername_?
+<ce> Oh, das betrübt mich sehr. Bitte verzeiht
+<ce> mir, ich bin seit dem Verlust meines Bruders
+<ce> nicht mehr ganz bei mir... Nein, ich fürchte,
+<ce> ich habe keine Informationen, die Euch bei
+<ce> der Suche nach diesem mörderischen Teufel
+<ce> helfen könnte. Glaubt mir, ich würde Euch
+<ce> unterstützen, wenn ich könnte. Aber Ihr
+<ce> werdet doch sicher den Unmenschen finden, der
+<ce> meinen Bruder ermordet hat, oder?
 
 Message:  1020
-%qdat:
+%qdt:
  Ich bin auf der Spur nach dem
  Mörder von %cn. %rt
  will, dass der %cn-Mörder innerhalb
@@ -283,7 +284,7 @@ Message:  1020
  arbeitet vom _bookstore_ aus.
 
 Message:  1021
-%qdat:
+%qdt:
  _contact_ hat mich zum
  _hookerhouse_ geschickt, um dort
  einen alten Kollegen namens _vamp_
@@ -292,11 +293,11 @@ Message:  1021
  zu unterstützen.
 
 Message:  1022
-%qdat:
+%qdt:
  Ich bin zu spät im _bookstore_
  eingetroffen. Offenbar waren die
  Morddrohungen an _contact_ ernst
- gemeint. Unter den Briefen  war
+ gemeint. Unter den Briefen war
  einer von einem Kollegen, der sich
  an einem Treffen mit _contact_
  interessiert zeigte, jemandem namens
@@ -304,7 +305,7 @@ Message:  1022
  _hookerhouse_.
 
 Message:  1023
-%qdat:
+%qdt:
  Ich habe mich mit _vamp_ getroffen,
  der von der Arbeit seines Kollegen
  _contact_ über die Opfer des 
@@ -319,7 +320,7 @@ Message:  1023
  wo _widow_ lebt.
 
 Message:  1024
-%qdat:
+%qdt:
  Der Kollege des verstorbenen _contact_s
  und sein Mörder sind ein und dieselbe Person.
  _vamp_ ist ein Vampir, versichert mir
@@ -332,7 +333,7 @@ Message:  1024
  von _ripperhouse_.
 
 Message:  1025
-%qdat:
+%qdt:
  _widow_, die =widow_,
  zu der mich _vamp_ geschickt hat,
  hielt mich für jemanden namens _rippername_.
@@ -343,30 +344,30 @@ Message:  1025
  eine Falle des Mörders wie sie im Buche steht.
 
 Message:  1026
-Welcher der Briefe hat Euch zu mir geführt,
-%pcn? Es ist Euch möglicherweise bewusst,
-dass ich sie alle geschrieben habe. Als
-_contact_ sich weigerte, meinen höflichen
-Warnungen über die Untersuchung von Tatbeständen,
-die über menschliches Verständnis hinausgehen,
-Gehör zu schenken, habe ich ihn als Freund
-hierher eingeladen. Ich kannte ihn, wisst Ihr,
-vor vielen Jahren, bevor ich ein Vampir wurde.
-Wir haben uns getroffen und sind gemeinsam zurück
-zum _bookstore_ gegangen, um die Körper
-zu betrachten Dort habe ich ihn getötet, völlig
-schmerzlos. Ich erkannte, dass %g seine Studien
-niemals eingestellt hätte. Mehr als das kann ich
-Euch nicht sagen, außer dass der Mörder, wie
-ich, ein Vampir ist, jedoch durch den Segen der
-Unsterblichkeit in den Wahnsinn getrieben wurde. 
-_rippername_ ist der wahre Name des Mörders
-und %g lebt im _ripperhouse_. Wenn Ihr
-dorthin geht und ihn für mich erschlagt, werde ich
-Euch reichlich belohnen. Solltet Ihr beabsichtigen,
-_contact_s Studien fortzuführen, werde
-ich keine andere Wahl haben, als Euch ebenfalls
-zu töten. Das ist mein simples Angebot.
+<ce> Welcher der Briefe hat Euch zu mir geführt,
+<ce> %pcn? Es ist Euch möglicherweise bewusst,
+<ce> dass ich sie alle geschrieben habe. Als
+<ce> _contact_ sich weigerte, meinen höflichen
+<ce> Warnungen über die Untersuchung von Tatbeständen,
+<ce> die über menschliches Verständnis hinausgehen,
+<ce> Gehör zu schenken, habe ich ihn als Freund
+<ce> hierher eingeladen. Ich kannte ihn, wisst Ihr,
+<ce> vor vielen Jahren, bevor ich ein Vampir wurde.
+<ce> Wir haben uns getroffen und sind gemeinsam zurück
+<ce> zum _bookstore_ gegangen, um die Körper
+<ce> zu betrachten Dort habe ich ihn getötet, völlig
+<ce> schmerzlos. Ich erkannte, dass %g seine Studien
+<ce> niemals eingestellt hätte. Mehr als das kann ich
+<ce> Euch nicht sagen, außer dass der Mörder, wie
+<ce> ich, ein Vampir ist, jedoch durch den Segen der
+<ce> Unsterblichkeit in den Wahnsinn getrieben wurde. 
+<ce> _rippername_ ist der wahre Name des Mörders
+<ce> und %g lebt im _ripperhouse_. Wenn Ihr
+<ce> dorthin geht und ihn für mich erschlagt, werde ich
+<ce> Euch reichlich belohnen. Solltet Ihr beabsichtigen,
+<ce> _contact_s Studien fortzuführen, werde
+<ce> ich keine andere Wahl haben, als Euch ebenfalls
+<ce> zu töten. Das ist mein simples Angebot.
 
 Message:  1027
 _contact_ ist ein durchaus gut belesener Wissenschaftler, drüben im _bookstore_, %di von hier.
@@ -379,15 +380,15 @@ _contact_ seziert die Opfer des Mörders und irgendjemandem missfällt das.
 _contact_ ist ein Wissenschaftler im _bookstore_, der Drohbriefe erhalten hat.
 
 Message:  1029
-Der Irre Mörder ist tot.
+<ce> Der Irre Mörder ist tot.
 
 Message:  1050
-Indem Ihr _rippername_ getötet habt,
-habt Ihr sowohl %reg als auch mir
-selbst geholfen. Dafür gebe ich Euch dieses
-_reward2_. Vielleicht treffen wir
-uns eines Tages erneut, %pcn.
-Ihr habt mich wahrlich fasziniert, in
-unserer kurzen Bekanntschaft. Möge die
-Nacht Euch beschützen.
+<ce> Indem Ihr _rippername_ getötet habt,
+<ce> habt Ihr sowohl %reg als auch mir
+<ce> selbst geholfen. Dafür gebe ich Euch dieses
+<ce> _reward2_. Vielleicht treffen wir
+<ce> uns eines Tages erneut, %pcn.
+<ce> Ihr habt mich wahrlich fasziniert, in
+<ce> unserer kurzen Bekanntschaft. Möge die
+<ce> Nacht Euch beschützen.
 

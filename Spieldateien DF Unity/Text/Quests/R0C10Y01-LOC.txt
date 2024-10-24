@@ -3,34 +3,34 @@ DisplayName: Rubinschmuggel
 QRC:
 
 QuestorOffer:  [1000]
-Wenn Ihr Arbeit sucht, brauche ich
-jemanden, der einer Bekanntschaften
-von mir diesen Rubin bringt. Die
-Belohnung wird sehr großzügig sein.
-Interessiert?
+<ce> Wenn Ihr Arbeit sucht, brauche ich
+<ce> jemanden, der einer Bekanntschaften
+<ce> von mir diesen Rubin bringt. Die
+<ce> Belohnung wird sehr großzügig sein.
+<ce> Interessiert?
 
 RefuseQuest:  [1001]
-Wirklich? Ihr seid wohl zu beschäftigt. Das ist schade.
+<ce> Wirklich? Ihr seid wohl zu beschäftigt. Das ist schade.
 
 AcceptQuest:  [1002]
-Ausgezeichnet. Da habt Ihr den Rubin.
-Nun, _contact_ möchte ihn in
-=queston_  Tagen in  ___contact_ sehen.
-Das sollte gerade genug Zeit sein. Ihr
-werdet _contact_  sofort erkennen
-=contact_ an einem Ort namens
-__contact_. Viel Glück und meinen Dank. 
+<ce> Ausgezeichnet. Da habt Ihr den Rubin.
+<ce> Nun, _contact_ möchte ihn in
+<ce> =queston_ Tagen in ___contact_ sehen.
+<ce> Das sollte gerade genug Zeit sein. Ihr
+<ce> werdet _contact_ sofort erkennen
+<ce> =contact_ an einem Ort namens
+<ce> __contact_. Viel Glück und meinen Dank. 
 
 QuestFail:  [1003]
-Ihr solltet Euch besser um unsere kleine
-Vereinbarung kümmern, %pcf.
+<ce> Ihr solltet Euch besser um unsere kleine
+<ce> Vereinbarung kümmern, %pcf.
 
 QuestComplete:  [1004]
-Ah, schön Euch zu sehen, %pcf.
-Und der Rubin ebenfalls. Ausgezeichnet.
-Hier ist ein kleines Trinkgeld für Eure
-Mühen. Ich hoffe Ihr mögt rot. Passt
-auf Euch auf.
+<ce> Ah, schön Euch zu sehen, %pcf.
+<ce> Und der Rubin ebenfalls. Ausgezeichnet.
+<ce> Hier ist ein kleines Trinkgeld für Eure
+<ce> Mühen. Ich hoffe Ihr mögt rot. Passt
+<ce> auf Euch auf.
 
 RumorsDuringQuest:  [1005]
 _questgiver_ soll immer noch im Schmugglergeschäft sein.
@@ -48,18 +48,18 @@ So jemand [=contact_] war gerade hier. Hat mit einem Edelstein herumgespielt.
 Ein Juwelier hat den Diebstahl eines sehr großen Rubins gemeldet.
 
 QuestorPostsuccess:  [1008]
-Ah, %pcf. Ich hoffe, Ihr passt gut auf den Rubin auf.
+<ce> Ah, %pcf. Ich hoffe, Ihr passt gut auf den Rubin auf.
 <--->
-Nochmal hallo, %pcf!
+<ce> Nochmal hallo, %pcf!
 
 QuestorPostfailure:  [1009]
-Ihr seid wohl gekommen, um Euch für das
-geplatzte Schmuggelgeschäft zu entschuldigen.
-Entschuldigung abgelehnt! 
+<ce> Ihr seid wohl gekommen, um Euch für das
+<ce> geplatzte Schmuggelgeschäft zu entschuldigen.
+<ce> Entschuldigung abgelehnt! 
 <--->
-Ihr seid ein %ra, der nichtmal eine
-einfache Lieferung erledigen konnte. Warum
-sollte ich weitere Worte an Euch verschwenden?
+<ce> Ihr seid ein %ra, der nichtmal eine
+<ce> einfache Lieferung erledigen konnte. Warum
+<ce> sollte ich weitere Worte an Euch verschwenden?
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -71,12 +71,12 @@ QuestLogEntry:  [1010]
  verliere ich meine Belohnung.
 
 Message:  1020
-Her mit dem Klunker! Ich weiß, was Ihr da
-habt. Die Gilde weiß Bescheid. Ich muss
-Euch töten, wenn Ihr ihn nicht rausrückt.
-Schön langsam.
+<ce> Her mit dem Klunker! Ich weiß, was Ihr da
+<ce> habt. Die Gilde weiß Bescheid. Ich muss
+<ce> Euch töten, wenn Ihr ihn nicht rausrückt.
+<ce> Schön langsam.
 
 Message:  1021
-Sehr hübsch. Und jetzt haut ab, 
-bevor ich es mir anders überlege.
+<ce> Sehr hübsch. Und jetzt haut ab, 
+<ce> bevor ich es mir anders überlege.
 

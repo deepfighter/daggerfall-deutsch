@@ -3,37 +3,37 @@ DisplayName: Das verlorene Artefakt
 QRC:
 
 QuestorOffer:  [1000]
-Ich bin _qgiver_ aus
-diesem Ritterorden. Ich habe
-eine sehr gefährliche Quest
-für Euch, %pcn. Ihr
-gehört zu den wenigen, die
-es vielleicht schaffen könnten.
-Ein Lich hebt eine Armee der
-Untoten aus. Wir brauchen
-jemanden, der loszieht und
-dem ein Ende setzt.
+<ce> Ich bin _qgiver_ aus
+<ce> diesem Ritterorden. Ich habe
+<ce> eine sehr gefährliche Quest
+<ce> für Euch, %pcn. Ihr
+<ce> gehört zu den wenigen, die
+<ce> es vielleicht schaffen könnten.
+<ce> Ein Lich hebt eine Armee der
+<ce> Untoten aus. Wir brauchen
+<ce> jemanden, der loszieht und
+<ce> dem ein Ende setzt.
 
 RefuseQuest:  [1001]
-Ich verstehe, %pcn.
-Das ist sogar für Euch zu gefährlich.
-Es gibt da noch ein oder zwei andere
-Helden, die das durchziehen könnten.
-Ich werde sie fragen gehen. 
+<ce> Ich verstehe, %pcn.
+<ce> Das ist sogar für Euch zu gefährlich.
+<ce> Es gibt da noch ein oder zwei andere
+<ce> Helden, die das durchziehen könnten.
+<ce> Ich werde sie fragen gehen. 
 
 AcceptQuest:  [1002]
-Ihr seid wirklich mutig. Der Lich
-hat ___dungeon_ zu seiner
-Zuflucht gemacht. Geht dorthin und
-vernichtet dieses verfaulte Etwas.
-Wir werden erst jemand anderen
-senden, wenn Ihr in  =2dung_ Tagen nicht
-zurückgekehrt seid. 
+<ce> Ihr seid wirklich mutig. Der Lich
+<ce> hat ___dungeon_ zu seiner
+<ce> Zuflucht gemacht. Geht dorthin und
+<ce> vernichtet dieses verfaulte Etwas.
+<ce> Wir werden erst jemand anderen
+<ce> senden, wenn Ihr in =2dung_ Tagen nicht
+<ce> zurückgekehrt seid. 
 
 QuestComplete:  [1004]
-Hoch lebe der Held %pcn!
-Gut gemacht! Euer Name wird
-in die Geschichte eingehen.
+<ce> Hoch lebe der Held %pcn!
+<ce> Gut gemacht! Euer Name wird
+<ce> in die Geschichte eingehen.
 
 RumorsDuringQuest:  [1005]
 %reg rüstet sich gegen den Angriff des Lichs. 
@@ -68,15 +68,15 @@ QuestLogEntry:  [1010]
  um die Aufgabe zu erfüllen.
 
 Message:  1011
-Der Lich ist tot. Ohne seine
-magischen Kräfte wird die Armee
-der Untoten ins Grab zurückkehren.
+<ce> Der Lich ist tot. Ohne seine
+<ce> magischen Kräfte wird die Armee
+<ce> der Untoten ins Grab zurückkehren.
 
 Message:  1020
 ... habe ich doch noch einen Hinweis
 gefunden! Ich wage nicht einmal, den
 Namen dieses verlorenen Artefaktes
-von uralter Macht  zu nennen. Es ist
+von uralter Macht zu nennen. Es ist
 für mich zu spät. Ich werde hier unten
 in ___dungeon2_ sterben,
 verloren in diesen dunklen Gängen.
@@ -84,93 +84,93 @@ Aber zuerst werde ich meinen Hinweis
 verstecken. Wenn ich nicht ...
 
 Message:  1028
-Verzeiht mir, %pcn. Ihr seid
-so lange nicht zurückgekehrt, dass
-wir Euch für tot hielten. Ein anderer
-Ritter hat die Aufgabe übernommen.
+<ce> Verzeiht mir, %pcn. Ihr seid
+<ce> so lange nicht zurückgekehrt, dass
+<ce> wir Euch für tot hielten. Ein anderer
+<ce> Ritter hat die Aufgabe übernommen.
 
 Message:  1030
-Ihr seid den ganzen weiten Weg hier
-runter gekommen, nur um mich zu sprechen,
-und dann wollt Ihr nicht weitermachen?
-Unfassbar! Geht mir aus den Augen!
+<ce> Ihr seid den ganzen weiten Weg hier
+<ce> runter gekommen, nur um mich zu sprechen,
+<ce> und dann wollt Ihr nicht weitermachen?
+<ce> Unfassbar! Geht mir aus den Augen!
 
 Message:  1031
-Die Pest soll Euch holen, weil Ihr mich
-stört, %pcn. %oth, natürlich
-kenne ich Euren Namen, und nein, ich
-werde Euch meinen nicht verraten. Was
-ist der Sinn des Zaubererdaseins, wenn
-man nicht Dinge weiß, die normale Leute
-nicht wissen. Ich weiß auch, warum Ihr
-hier seid. Ihr wollt Chrysamere, es sei
-denn, dass Euch dieser Name nichts sagt?
-Ihr werdet es nur bekommen, wenn Ihr mir
-zuerst einen Gefallen tut.
+<ce> Die Pest soll Euch holen, weil Ihr mich
+<ce> stört, %pcn. %oth, natürlich
+<ce> kenne ich Euren Namen, und nein, ich
+<ce> werde Euch meinen nicht verraten. Was
+<ce> ist der Sinn des Zaubererdaseins, wenn
+<ce> man nicht Dinge weiß, die normale Leute
+<ce> nicht wissen. Ich weiß auch, warum Ihr
+<ce> hier seid. Ihr wollt Chrysamere, es sei
+<ce> denn, dass Euch dieser Name nichts sagt?
+<ce> Ihr werdet es nur bekommen, wenn Ihr mir
+<ce> zuerst einen Gefallen tut.
 
 Message:  1032
-Die Pest soll Euch holen, weil Ihr mich
-stört, %pcn. %oth, natürlich
-kenne ich Euren Namen, und nein, ich
-werde Euch meinen nicht verraten. Was
-ist der Sinn des Zaubererdaseins, wenn
-man nicht Dinge weiß, die normale Leute
-nicht wissen. Ich weiß auch, warum Ihr
-hier seid. Ihr wollt das Amulett des
-Totenbeschwörers, es sei denn, dass Euch
-dieser Name nichts sagt? Ihr werdet es
-nur bekommen, wenn Ihr mir zuerst einen
-Gefallen tut.
+<ce> Die Pest soll Euch holen, weil Ihr mich
+<ce> stört, %pcn. %oth, natürlich
+<ce> kenne ich Euren Namen, und nein, ich
+<ce> werde Euch meinen nicht verraten. Was
+<ce> ist der Sinn des Zaubererdaseins, wenn
+<ce> man nicht Dinge weiß, die normale Leute
+<ce> nicht wissen. Ich weiß auch, warum Ihr
+<ce> hier seid. Ihr wollt das Amulett des
+<ce> Totenbeschwörers, es sei denn, dass Euch
+<ce> dieser Name nichts sagt? Ihr werdet es
+<ce> nur bekommen, wenn Ihr mir zuerst einen
+<ce> Gefallen tut.
 
 Message:  1033
-Die Pest soll Euch holen, weil Ihr mich
-stört, %pcn. %oth, natürlich
-kenne ich Euren Namen, und nein, ich
-werde Euch meinen nicht verraten. Was
-ist der Sinn des Zaubererdaseins, wenn
-man nicht Dinge weiß, die normale Leute
-nicht wissen. Ich weiß auch, warum Ihr
-hier seid. Ihr wollt den Stab des Magnus,
-es sei denn, dass Euch dieser Name nichts
-sagt? Ihr werdet ihn nur bekommen, wenn
-Ihr mir zuerst einen Gefallen tut.
+<ce> Die Pest soll Euch holen, weil Ihr mich
+<ce> stört, %pcn. %oth, natürlich
+<ce> kenne ich Euren Namen, und nein, ich
+<ce> werde Euch meinen nicht verraten. Was
+<ce> ist der Sinn des Zaubererdaseins, wenn
+<ce> man nicht Dinge weiß, die normale Leute
+<ce> nicht wissen. Ich weiß auch, warum Ihr
+<ce> hier seid. Ihr wollt den Stab des Magnus,
+<ce> es sei denn, dass Euch dieser Name nichts
+<ce> sagt? Ihr werdet ihn nur bekommen, wenn
+<ce> Ihr mir zuerst einen Gefallen tut.
 
 Message:  1034
-Die Pest soll Euch holen, weil Ihr mich
-stört, %pcn. %oth, natürlich
-kenne ich Euren Namen, und nein, ich
-werde Euch meinen nicht verraten. Was
-ist der Sinn des Zaubererdaseins, wenn
-man nicht Dinge weiß, die normale Leute
-nicht wissen. Ich weiß auch, warum Ihr
-hier seid. Ihr wollt den Ring des
-Hexenmeisters, es sei denn, dass Euch
-dieser Name nichts sagt? Ihr werdet ihn
-nur bekommen, wenn Ihr mir zuerst einen
-Gefallen tut.
+<ce> Die Pest soll Euch holen, weil Ihr mich
+<ce> stört, %pcn. %oth, natürlich
+<ce> kenne ich Euren Namen, und nein, ich
+<ce> werde Euch meinen nicht verraten. Was
+<ce> ist der Sinn des Zaubererdaseins, wenn
+<ce> man nicht Dinge weiß, die normale Leute
+<ce> nicht wissen. Ich weiß auch, warum Ihr
+<ce> hier seid. Ihr wollt den Ring des
+<ce> Hexenmeisters, es sei denn, dass Euch
+<ce> dieser Name nichts sagt? Ihr werdet ihn
+<ce> nur bekommen, wenn Ihr mir zuerst einen
+<ce> Gefallen tut.
 
 Message:  1035
-Nun, ich weiß eigentlich nicht wirklich,
-wo Euer Artefakt ist. Mein Ururgroßvater
-suchte einst danach. Der Familiengeschichte
-zufolge nahm es ihm die Magiergilde ab,
-als er es gefunden hatte und versteckte
-es irgendwo. Seitdem ist sein Geist nicht
-mehr zur Ruhe gekommen. Wenn Ihr diese
-Locke meines Haares bei Euch tragt,
-während Ihr seinen Geist zur letzten
-Ruhe schickt, wird er Euch vielleicht
-sagen, wo Ihr finden könnt, wonach Ihr
-sucht. Er spukt in ___dungeon3_.
+<ce> Nun, ich weiß eigentlich nicht wirklich,
+<ce> wo Euer Artefakt ist. Mein Ururgroßvater
+<ce> suchte einst danach. Der Familiengeschichte
+<ce> zufolge nahm es ihm die Magiergilde ab,
+<ce> als er es gefunden hatte und versteckte
+<ce> es irgendwo. Seitdem ist sein Geist nicht
+<ce> mehr zur Ruhe gekommen. Wenn Ihr diese
+<ce> Locke meines Haares bei Euch tragt,
+<ce> während Ihr seinen Geist zur letzten
+<ce> Ruhe schickt, wird er Euch vielleicht
+<ce> sagen, wo Ihr finden könnt, wonach Ihr
+<ce> sucht. Er spukt in ___dungeon3_.
 
 Message:  1040
-Ihr tragt ein Zeichen meines Geschlechts
-bei Euch, ein wenig Haar von einem meiner
-Nachfahren. So wisset denn, dass ich seit
-langen Dekaden durch diese Hallen streife
-und auf dieses Zeichen warte. Geht zur
-_mageguild_ in __mageguild_.
-Dort werdet Ihr finden, was ich einst verlor.
+<ce> Ihr tragt ein Zeichen meines Geschlechts
+<ce> bei Euch, ein wenig Haar von einem meiner
+<ce> Nachfahren. So wisset denn, dass ich seit
+<ce> langen Dekaden durch diese Hallen streife
+<ce> und auf dieses Zeichen warte. Geht zur
+<ce> _mageguild_ in __mageguild_.
+<ce> Dort werdet Ihr finden, was ich einst verlor.
 
 Message:  1041
 %qdt:
@@ -185,8 +185,8 @@ Message:  1041
 
 Message:  1042
 %qdt:
- Der Urgroßvater von  _wizard_
+ Der Urgroßvater von _wizard_
  sagte mir, dass ich das Artefakt in der
- _mageguild_  von __mageguild_
+ _mageguild_ von __mageguild_
  finden kann.
 

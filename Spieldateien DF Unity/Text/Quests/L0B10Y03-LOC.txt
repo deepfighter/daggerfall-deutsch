@@ -3,42 +3,42 @@ DisplayName: Unentschuldigt
 QRC:
 
 QuestorOffer:  [1000]
-Die Dunkle Bruderschaft ist stolz darauf,
-immer zu wissen, wo sich jeder Bruder gerade
-befindet. Ich könnte Euch bis auf den Fußbreit
-genau sagen, wo Ihr letzten Tirdas gewesen
-seid. Aber nun ist einer unserer Brüder während
-eines Auftrags verschwunden. Ihr sollt versuchen,
-=target_  zu finden und falls %g keine
-passende Entschuldigung für %g3 Fehlen hat, mit
-=target_  abrechnen. Ich hoffe, dass Ihr
-Zeit dafür habt?
+<ce> Die Dunkle Bruderschaft ist stolz darauf,
+<ce> immer zu wissen, wo sich jeder Bruder gerade
+<ce> befindet. Ich könnte Euch bis auf den Fußbreit
+<ce> genau sagen, wo Ihr letzten Tirdas gewesen
+<ce> seid. Aber nun ist einer unserer Brüder während
+<ce> eines Auftrags verschwunden. Ihr sollt versuchen,
+<ce> =target_ zu finden und falls %g keine
+<ce> passende Entschuldigung für %g3 Fehlen hat, mit
+<ce> =target_ abrechnen. Ich hoffe, dass Ihr
+<ce> Zeit dafür habt?
 <--->
-Wie Ihr wisst, verlässt niemand je die Dunkle
-Bruderschaft. Nun ist ein Bruder während eines
-Auftrages verschwunden und wir müssen erfahren,
-ob =target_ tot oder am Leben ist.
-Für diesen Auftrag wurdet Ihr ausgesucht.
+<ce> Wie Ihr wisst, verlässt niemand je die Dunkle
+<ce> Bruderschaft. Nun ist ein Bruder während eines
+<ce> Auftrages verschwunden und wir müssen erfahren,
+<ce> ob =target_ tot oder am Leben ist.
+<ce> Für diesen Auftrag wurdet Ihr ausgesucht.
 
 RefuseQuest:  [1001]
-Wirklich? Nun gut, ich schätze Ihr habt das Recht,
-einen gelegentlichen Auftrag abzulehnen.
+<ce> Wirklich? Nun gut, ich schätze Ihr habt das Recht,
+<ce> einen gelegentlichen Auftrag abzulehnen.
 
 AcceptQuest:  [1002]
-Gut. =target_ hat Verwandschaft in
-___contact_ - eine Gestalt namens
-_contact_, die sich als =contact_
-beschreiben lässt -  zu finden für gewöhnlich in
-diesem Gebäude [__contact_].
-Sprecht mit %g2 - mit Nachdruck - und findet heraus,
-wo %g3 Cousin ist. Ich gebe Euch =queston_ Tage Zeit dafür,
-dass Ihr Euch um diese Sache kümmert und zurückkehrt.
+<ce> Gut. =target_ hat Verwandschaft in
+<ce> ___contact_ -- eine Gestalt namens
+<ce> _contact_, die sich als =contact_
+<ce> beschreiben lässt -- zu finden für gewöhnlich in
+<ce> diesem Gebäude [__contact_].
+<ce> Sprecht mit %g2 - mit Nachdruck - und findet heraus,
+<ce> wo %g3 Cousin ist. Ich gebe Euch =queston_ Tage Zeit dafür,
+<ce> dass Ihr Euch um diese Sache kümmert und zurückkehrt.
 
 QuestComplete:  [1004]
-=target_ war ein Vampir? Gut, das erklärt
-so einiges. Falls Ihr nicht schon dort wart, wollt Ihr
-Euch vermutlich im Tempel heilen lassen, damit Ihr
-nicht in der blutsaugenden Familie von  =target_ endet.
+<ce> =target_ war ein Vampir? Gut, das erklärt
+<ce> so einiges. Falls Ihr nicht schon dort wart, wollt Ihr
+<ce> Euch vermutlich im Tempel heilen lassen, damit Ihr
+<ce> nicht in der blutsaugenden Familie von =target_ endet.
 
 RumorsDuringQuest:  [1005]
 Niemand, wirklich niemand, legt die Dunkle Bruderschaft herein.
@@ -57,9 +57,9 @@ QuestorPostsuccess:  [1008]
 Hallo %pcf. Ich hoffe, Ihr habt Euch nach diesem Vampirkampf von einem Priester anschauen lassen.
 
 QuestorPostfailure:  [1009]
-Ich habe nichts als Verachtung für jene übrig,
-die bei ihren Aufträgen versagen. Angefangen
-mit Euch, %pcf.
+<ce> Ich habe nichts als Verachtung für jene übrig,
+<ce> die bei ihren Aufträgen versagen. Angefangen
+<ce> mit Euch, %pcf.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -76,28 +76,28 @@ QuestLogEntry:  [1010]
  zu finden und zur Bruderschaft zurückzukehren.
 
 Message:  1011
-Ich habe nichts von =target_ gehört, seit %g
-ausgezogen ist, um nach dem Baron in ___mondung_
-zu suchen. Seltsamer Kauz, dieser Baron. Kommt nie
-tagsüber raus und lebt an diesem schaurigen Ort.
-Kein Wunder, dass ihn jemand tot sehen will.
-Trotzdem, wenn schon jemand die Karriere meines Cousin
-in der Bruderschaft beenden sollte, hätte ich nicht
-erwartet, dass es dieser ausgemergelte, bleiche Baron ist. 
+<ce> Ich habe nichts von =target_ gehört, seit %g
+<ce> ausgezogen ist, um nach dem Baron in ___mondung_
+<ce> zu suchen. Seltsamer Kauz, dieser Baron. Kommt nie
+<ce> tagsüber raus und lebt an diesem schaurigen Ort.
+<ce> Kein Wunder, dass ihn jemand tot sehen will.
+<ce> Trotzdem, wenn schon jemand die Karriere meines Cousin
+<ce> in der Bruderschaft beenden sollte, hätte ich nicht
+<ce> erwartet, dass es dieser ausgemergelte, bleiche Baron ist. 
 
 Message:  1012
 %qdt:
  _contact_ berichtete mir, dass sich =target_
  nach ___mondung_ begeben hat, wo er nach einem
  geheimnisvollen Baron suchte, mit dem er abrechnen
- wollte.  ___mondung_ wird meine nächste Station sein.
+ wollte. ___mondung_ wird meine nächste Station sein.
 
 Message:  1013
-"Lasst mich mit Euch die Unsterblichkeit
- teilen, die mir der Baron gewährte",
- zischt =target_.
+<ce> "Lasst mich mit Euch die Unsterblichkeit
+<ce> teilen, die mir der Baron gewährte",
+zischt =target_.
 
 Message:  1014
-Der Vampir =target_ 
-wurde endlich zur Ruhe gebracht.
+<ce> Der Vampir =target_ 
+<ce> wurde endlich zur Ruhe gebracht.
 

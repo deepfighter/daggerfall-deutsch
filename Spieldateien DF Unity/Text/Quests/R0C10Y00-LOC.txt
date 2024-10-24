@@ -3,40 +3,40 @@ DisplayName: Smaragdschmuggel
 QRC:
 
 QuestorOffer:  [1000]
-Falls Ihr Euch anheuern lasst: Ich suche
-jemand Zuverlässiges, um eine bestimmte
-verdeckte Mission durchzuführen. Es könnte
-sehr zeitraubend sein, doch ich versichere
-Euch, dass Ihr angemessen entschädigt werdet.
-Interesse?
+<ce> Falls Ihr Euch anheuern lasst: Ich suche
+<ce> jemand Zuverlässiges, um eine bestimmte
+<ce> verdeckte Mission durchzuführen. Es könnte
+<ce> sehr zeitraubend sein, doch ich versichere
+<ce> Euch, dass Ihr angemessen entschädigt werdet.
+<ce> Interesse?
 
 RefuseQuest:  [1001]
-Wirklich? Ihr seid wohl zu beschäftigt. Das ist schade.
+<ce> Wirklich? Ihr seid wohl zu beschäftigt. Das ist schade.
 
 AcceptQuest:  [1002]
-Sehr gut. Ich gebe Euch nun einen Smaragd, den
-Ihr meinem Kontakt, _npc1_ von ___npc1_
-überbringen sollt. _npc1_  wird in einem
-Gebäude [__npc1_] dort auf Euch warten. Der
-Edelstein muss in =1stparton_ Tagen dort sein. Das
-ist sehr wichtig. Solltet Ihr so weit kommen,
-wird _npc1_ weitere Instruktionen für Euch
-haben. Ich zähle auf Eure Diskretion, %pcf.
-Man wird Euch beobachten. Viel Glück und meinen Dank!
+<ce> Sehr gut. Ich gebe Euch nun einen Smaragd, den
+<ce> Ihr meinem Kontakt, _npc1_ von ___npc1_
+<ce> überbringen sollt. _npc1_ wird in einem
+<ce> Gebäude [__npc1_] dort auf Euch warten. Der
+<ce> Edelstein muss in =1stparton_ Tagen dort sein. Das
+<ce> ist sehr wichtig. Solltet Ihr so weit kommen,
+<ce> wird _npc1_ weitere Instruktionen für Euch
+<ce> haben. Ich zähle auf Eure Diskretion, %pcf.
+<ce> Man wird Euch beobachten. Viel Glück und meinen Dank!
 
 QuestFail:  [1003]
-Ich glaube nicht, dass wir gerade jetzt etwas zu
-besprechen haben.
+<ce> Ich glaube nicht, dass wir gerade jetzt etwas zu
+<ce> besprechen haben.
 <--->
-Kenne ich Euch?
+<ce> Kenne ich Euch?
 
 QuestComplete:  [1004]
-Ah, gut Euch zu sehen, %pcf.
-Und den Edelstein auch. Ausgezeichnet.
-Und hier sind _reward_ Gold für Eure
-Anstrengungen und, möchte ich hinzufügen,
-Eure Diskretion. Man wird Euren Namen
-nicht vergessen.
+<ce> Ah, gut Euch zu sehen, %pcf.
+<ce> Und den Edelstein auch. Ausgezeichnet.
+<ce> Und hier sind _reward_ Gold für Eure
+<ce> Anstrengungen und, möchte ich hinzufügen,
+<ce> Eure Diskretion. Man wird Euren Namen
+<ce> nicht vergessen.
 
 RumorsDuringQuest:  [1005]
 _questgiver_ soll immer noch im Schmugglergeschäft sein.
@@ -50,24 +50,27 @@ RumorsPostsuccess:  [1007]
 Niemand weiß, wer der Kopf hinter dem Juwelenschmuggel ist.
 
 QuestorPostsuccess:  [1008]
-Ah, mein Gelegenheitsschmuggler. Wie kann ich Euch helfen?
+<ce> Ah, mein Gelegenheitsschmuggler. Wie kann ich Euch helfen?
 <--->
-Nochmal hallo! Ich fürchte, dass ich gerade keine weiteren Lieferungen habe.
+<ce> Nochmal hallo! Ich fürchte, dass ich gerade keine weiteren Lieferungen habe.
 
 QuestorPostfailure:  [1009]
-Kommt Ihr angekrochen, um Euch für Euer Versagen bei dieser Mission zu entschuldigen? Tja, dafür ist es jetzt zu spät!
+<ce> Kommt Ihr angekrochen, um Euch für Euer
+<ce> Versagen bei dieser Mission zu entschuldigen?
+<ce> Tja, dafür ist es jetzt zu spät!
 <--->
-Ihr seid der %ra, der diese Lieferung nicht geschafft hat, stimmt's? Fahrt ins Reich des Vergessens!
+Ihr seid der %ra, der diese Lieferung nicht
+geschafft hat, stimmt's? Fahrt ins Reich des Vergessens!
 
 QuestLogEntry:  [1010]
-Oh, gut. Der letzte Auslieferer, den
-_questgiver_ angeheuert hat,
-ist nie bei mir angekommen und wir
-mussten ihn zur Strecke bringen.
-Sehr unerfreulich. Hier ist der Smaragd.
-Geht damit zu _npc2_ - =npc2_
-aus ___npc2_. Ihr müsst binnen =2ndparton_ Tagen
-ankommen. Viel Glück, %pcf.
+<ce> Oh, gut. Der letzte Auslieferer, den
+<ce> _questgiver_ angeheuert hat,
+<ce> ist nie bei mir angekommen und wir
+<ce> mussten ihn zur Strecke bringen.
+<ce> Sehr unerfreulich. Hier ist der Smaragd.
+<ce> Geht damit zu _npc2_ - =npc2_
+<ce> aus ___npc2_. Ihr müsst binnen =2ndparton_ Tagen
+<ce> ankommen. Viel Glück, %pcf.
 
 Message:  1011
 %qdt:
@@ -85,21 +88,21 @@ Message:  1012
  _npc1_ entsandte mich mit einem
  Juwel [_item2_] nach ___npc2_,
  um ihn _npc2_ an einem Ort
- auszuhändigen, der  __npc2_
- genannt  wird. _npc1_  beschreibt
+ auszuhändigen, der __npc2_
+ genannt wird. _npc1_ beschreibt
  _npc2_ so: =npc2_.
  _npc2_ wird mir meine Belohnung
  geben, wenn ich es in =2ndparton_ Tagen
  zu %g2 schaffe.
 
 Message:  1020
-Die Diebesgilde hat erfahren, dass
-Ihr einen Edelstein von hohem Wert
-bei Euch tragt. Übergebt ihn mir
-und ich werde Euch davonkommen lassen.
+<ce> Die Diebesgilde hat erfahren, dass
+<ce> Ihr einen Edelstein von hohem Wert
+<ce> bei Euch tragt. Übergebt ihn mir
+<ce> und ich werde Euch davonkommen lassen.
 
 Message:  1021
-Das ist, als würde man einem Kind
-eine Münze klauen. Und jetzt geht
-mir aus den Augen, Ihr feige Kurierseele.
+<ce> Das ist, als würde man einem Kind
+<ce> eine Münze klauen. Und jetzt geht
+<ce> mir aus den Augen, Ihr feige Kurierseele.
 

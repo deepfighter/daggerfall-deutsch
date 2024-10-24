@@ -3,61 +3,61 @@ DisplayName: Der Leibwächter
 QRC:
 
 QuestorOffer:  [1000]
-%pcn, Ich fürchte um mein Leben.
-Könnt Ihr mich schützen? _villains_s
-drohen, mich heute Nacht zu töten, weil
-ich es abgelehnt habe, mein Land zu verkaufen.
-Ich kann Euch _gold_ Goldstücke zahlen.
+<ce> %pcn, Ich fürchte um mein Leben.
+<ce> Könnt Ihr mich schützen? _villains_s
+<ce> drohen, mich heute Nacht zu töten, weil
+<ce> ich es abgelehnt habe, mein Land zu verkaufen.
+<ce> Ich kann Euch _gold_ Goldstücke zahlen.
 <--->
-Sie finden mich in großer Not, mein lieber
-%ra. Ich habe von einigen Schlägern
-in %cn gehört, dass sie heute Nacht
-beabsichtigen, mein Haus zu plündern. Steht
-Ihr mir zur Verfügung?
+<ce> Sie finden mich in großer Not, mein lieber
+<ce> %ra. Ich habe von einigen Schlägern
+<ce> in %cn gehört, dass sie heute Nacht
+<ce> beabsichtigen, mein Haus zu plündern. Steht
+<ce> Ihr mir zur Verfügung?
 
 RefuseQuest:  [1001]
-Fürchtet nicht um meine Sicherheit, %pcn.
-Ich werde jemand anderen finden... irgendwie.
+<ce> Fürchtet nicht um meine Sicherheit, %pcn.
+<ce> Ich werde jemand anderen finden... irgendwie.
 
 AcceptQuest:  [1002]
-Ich danke und segne Euch! Sie werden
-_qgiverhome_ drei Stunden vor
-Mitternacht angreifen. Seid dort und
-wartet mit mir bis dahin. Sobald sie
-besiegt wurden, werde ich wieder
-sicher sein.
+<ce> Ich danke und segne Euch! Sie werden
+<ce> _qgiverhome_ drei Stunden vor
+<ce> Mitternacht angreifen. Seid dort und
+<ce> wartet mit mir bis dahin. Sobald sie
+<ce> besiegt wurden, werde ich wieder
+<ce> sicher sein.
 
 QuestComplete:  [1004]
-Ihr habt mir das Leben gerettet, %pcf.
-Ich will Euch gerne die vereinbarte Summe zahlen.
+<ce> Ihr habt mir das Leben gerettet, %pcf.
+<ce> Ich will Euch gerne die vereinbarte Summe zahlen.
 
 RumorsDuringQuest:  [1005]
-_qgiver_ hat Ärger mit der
-Diebesgilde. Ich hörte, sie können
-sehr grob werden.
+<ce> _qgiver_ hat Ärger mit der
+<ce> Diebesgilde. Ich hörte, sie können
+<ce> sehr grob werden.
 
 RumorsPostfailure:  [1006]
-Ich sah _qgiver_ vor kurzem.
-%g wurde brutal fertiggemacht von
-so ein paar Kerlen.
+<ce> Ich sah _qgiver_ vor kurzem.
+<ce> %g wurde brutal fertiggemacht von
+<ce> so ein paar Kerlen.
 
 RumorsPostsuccess:  [1007]
-Seid Ihr nicht der %ra,
-der diese Schläger verjagte,
-die versucht haben, _qgiver_
-zu verprügeln?
+<ce> Seid Ihr nicht der %ra,
+<ce> der diese Schläger verjagte,
+<ce> die versucht haben, _qgiver_
+<ce> zu verprügeln?
 
 QuestorPostsuccess:  [1008]
-Ich habe nicht vergessen, was
-Ihr für mich getan habt, %pcf.
-Diese Schläger zu verjagen, lässt
-Euch tief in meiner Schuld stehen.
+<ce> Ich habe nicht vergessen, was
+<ce> Ihr für mich getan habt, %pcf.
+<ce> Diese Schläger zu verjagen, lässt
+<ce> Euch tief in meiner Schuld stehen.
 
 QuestorPostfailure:  [1009]
-Ich habe immer noch Narben von diesen
-Schlägern. Ich heuerte Euch an, mich
-zu schützen, und Ihr habt versagt.
-Geht bloß weg von mir.
+<ce> Ich habe immer noch Narben von diesen
+<ce> Schlägern. Ich heuerte Euch an, mich
+<ce> zu schützen, und Ihr habt versagt.
+<ce> Geht bloß weg von mir.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -68,13 +68,13 @@ QuestLogEntry:  [1010]
  _qgiverhome_ anzugreifen.
 
 Message:  1011
-Das ist nicht Euer Problem, Fremder.
-Überlasst _qgiver_ uns oder
-wir werden Euch niederstrecken,
-wo Ihr steht!
+<ce> Das ist nicht Euer Problem, Fremder.
+<ce> Überlasst _qgiver_ uns oder
+<ce> wir werden Euch niederstrecken,
+<ce> wo Ihr steht!
 
 Message:  1013
-Dies muss der Ort sein.
-Er passt zu der Beschreibung,
-die _qgiver_ Euch gab.
+<ce> Dies muss der Ort sein.
+<ce> Er passt zu der Beschreibung,
+<ce> die _qgiver_ Euch gab.
 

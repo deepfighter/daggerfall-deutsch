@@ -3,85 +3,85 @@ DisplayName: Der Begleitschutz
 QRC:
 
 QuestorOffer:  [1000]
-Ich bin _questgiver_.
-Ich benötige eine Eskorte. Würdet Ihr
-mich auf meiner Reise nach __destination_
-beschützen? Es wären keine =traveltime_ Tagesreisen
-von hier.
+<ce> Ich bin _questgiver_.
+<ce> Ich benötige eine Eskorte. Würdet Ihr
+<ce> mich auf meiner Reise nach __destination_
+<ce> beschützen? Es wären keine =traveltime_ Tagesreisen
+<ce> von hier.
 <--->
-Mein Name ist _questgiver_.
-Ich muss ___questgiver_ verlassen,
-und zwar auf der Stelle. Ich würde Euch
-gern für meine Reise nach __destination_
-als meinen Beschützer anstellen.
-Ich kann Euch _gold_ Goldstücke bezahlen.
+<ce> Mein Name ist _questgiver_.
+<ce> Ich muss ___questgiver_ verlassen,
+<ce> und zwar auf der Stelle. Ich würde Euch
+<ce> gern für meine Reise nach __destination_
+<ce> als meinen Beschützer anstellen.
+<ce> Ich kann Euch _gold_ Goldstücke bezahlen.
 <--->
-Ihr müsst mir helfen! Mein Name ist
-_questgiver_. Ich muss nach
-_destination_, innerhalb von
-=traveltime_ Tagen, und ich brauche
-eine Eskorte.
+<ce> Ihr müsst mir helfen! Mein Name ist
+<ce> _questgiver_. Ich muss nach
+<ce> _destination_, innerhalb von
+<ce> =traveltime_ Tagen, und ich brauche
+<ce> eine Eskorte.
 
 RefuseQuest:  [1001]
-Ich schätze, ich werde jemand anderes finden
-müssen, der mich auf meiner Reise beschützt
+<ce> Ich schätze, ich werde jemand anderes finden
+<ce> müssen, der mich auf meiner Reise beschützt
 <--->
-Herzloses Schwein!
+<ce> Herzloses Schwein!
 
 AcceptQuest:  [1002]
-Seid gesegnet, %pcn.
-Ich reise ohne Gepäck, wir können also
-sofort aufbrechen. Ich weiß, dass Ihr
-nicht umsonst arbeitet. Bringt mich zum
-_destination_ in __destination_
-und ich werde Euch _gold_ Goldstücke bezahlen,
-sobald wir dort angekommen sind.
+<ce> Seid gesegnet, %pcn.
+<ce> Ich reise ohne Gepäck, wir können also
+<ce> sofort aufbrechen. Ich weiß, dass Ihr
+<ce> nicht umsonst arbeitet. Bringt mich zum
+<ce> _destination_ in __destination_
+<ce> und ich werde Euch _gold_ Goldstücke bezahlen,
+<ce> sobald wir dort angekommen sind.
 
 QuestComplete:  [1004]
-Ah! _destination_! 
-Ihr habt Euren Teil unserer
-Vereinbarung eingehalten.
-Hier ist das Gold, das ich
-Euch versprochen habe.
+<ce> Ah! _destination_! 
+<ce> Ihr habt Euren Teil unserer
+<ce> Vereinbarung eingehalten.
+<ce> Hier ist das Gold, das ich
+<ce> Euch versprochen habe.
 
 RumorsDuringQuest:  [1005]
-Man hört, die Wachen wären auf der Suche
-nach _questgiver_. %g musste
-aus der Stadt fliehen.
+<ce> Man hört, die Wachen wären auf der Suche
+<ce> nach _questgiver_. %g musste
+<ce> aus der Stadt fliehen.
 <--->
-Wisst Ihr es denn nicht? Die Diebesgilde
-ist hinter _questgiver_ her.
-Oder war es die Dunkle Bruderschaft?
-Ich habe es vergessen.
+<ce> Wisst Ihr es denn nicht? Die Diebesgilde
+<ce> ist hinter _questgiver_ her.
+<ce> Oder war es die Dunkle Bruderschaft?
+<ce> Ich habe es vergessen.
 <--->
-Ich hörte, _questgiver_
-wurde zu einer Heirat gezwungen.
-%g muss nach __destination_,
-bevor man ihr die Schwangerschaft
-ansieht.
+<ce> Ich hörte, _questgiver_
+<ce> wurde zu einer Heirat gezwungen.
+<ce> %g muss nach __destination_,
+<ce> bevor man ihr die Schwangerschaft
+<ce> ansieht.
 
 RumorsPostfailure:  [1006]
-Sie haben _questgiver_
-geschnappt. %g wird nächste Woche
-vor Gericht stehen.
+<ce> Sie haben _questgiver_
+<ce> geschnappt. %g wird nächste Woche
+<ce> vor Gericht stehen.
 
 RumorsPostsuccess:  [1007]
-Habt Ihr gehört? Ein %ra hat
-_questgiver_ gerade rechtzeitig
-aus der Stadt geschmuggelt. Andernfalls
-hätten sie %g2 bestimmt geköpft.
+<ce> Habt Ihr gehört? Ein %ra hat
+<ce> _questgiver_ gerade rechtzeitig
+<ce> aus der Stadt geschmuggelt. Andernfalls
+<ce> hätten sie %g2 bestimmt geköpft.
 
 QuestorPostsuccess:  [1008]
-Danke, dass Ihr mich aus dieser Stadt
-herausgeschafft habt, %pcf.
-Ich habe Euch an einige meiner Freunde
-weiterempfohlen.
+<ce> Danke, dass Ihr mich aus dieser Stadt
+<ce> herausgeschafft habt, %pcf.
+<ce> Ich habe Euch an einige meiner Freunde
+<ce> weiterempfohlen.
 
 QuestorPostfailure:  [1009]
-Ihr! Weil Ihr mir nicht geholfen habt,
-aus der Stadt zu verschwinden, hat die
-Diebesgilde meinen Laden übernommen!
-Geht weg.
+<ce> Ihr! Weil Ihr mir nicht geholfen habt,
+<ce> aus der Stadt zu verschwinden, hat die
+<ce> Diebesgilde meinen Laden übernommen!
+<ce> Geht weg.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -98,53 +98,53 @@ QuestLogEntry:  [1010]
 Message:  1019
 _questgiver_ sagt:
 
- "Ha! Ich habe diesen %ra angeheuert,
- um mich hiervor zu beschützen.
- %pcn, werdet Ihr mich
- diesen Leuten ausliefern?"
+<ce> "Ha! Ich habe diesen %ra angeheuert,
+<ce> um mich hiervor zu beschützen.
+<ce> %pcn, werdet Ihr mich
+<ce> diesen Leuten ausliefern?"
 
 Message:  1020
-Halt! Ich habe einen Befehl zur
-Gefangennahme von _questgiver_
-im Namen von %reg. Wir wollen
-nicht Euch, nur %g2. Liefert %g2
-aus und es steht Euch frei, zu gehen.
+<ce> Halt! Ich habe einen Befehl zur
+<ce> Gefangennahme von _questgiver_
+<ce> im Namen von %reg. Wir wollen
+<ce> nicht Euch, nur %g2. Liefert %g2
+<ce> aus und es steht Euch frei, zu gehen.
 
 Message:  1021
-Es besteht kein Grund für uns, zu kämpfen.
-Unser Disput betrifft nur _questgiver_.
-Die Magiergilde nimmt Verrat nicht so
-einfach hin. Gebt %g2 uns und wir werden
-Euch nicht länger im Wege stehen.
+<ce> Es besteht kein Grund für uns, zu kämpfen.
+<ce> Unser Disput betrifft nur _questgiver_.
+<ce> Die Magiergilde nimmt Verrat nicht so
+<ce> einfach hin. Gebt %g2 uns und wir werden
+<ce> Euch nicht länger im Wege stehen.
 
 Message:  1022
-Aus dem Weg, %ra. Wir wollen
-_questgiver_ und Ihr könnt
-uns nicht aufhalten. Übergebt %g2
-uns einfach. Hey, _questgiver_.
-Ihr habt doch nicht wirklich gedacht,
-Ihr könntet die Diebesgilde betrügen
-und weiterleben, oder etwa doch?
+<ce> Aus dem Weg, %ra. Wir wollen
+<ce> _questgiver_ und Ihr könnt
+<ce> uns nicht aufhalten. Übergebt %g2
+<ce> uns einfach. Hey, _questgiver_.
+<ce> Ihr habt doch nicht wirklich gedacht,
+<ce> Ihr könntet die Diebesgilde betrügen
+<ce> und weiterleben, oder etwa doch?
 
 Message:  1023
-Tretet beiseite, %ra.
-_questgiver_ wird von der
-Dunklen Bruderschaft gesucht.
-Ihr seid doch nicht solch ein Narr,
-als dass Ihr %g2 beschützen würdet,
-oder?
+<ce> Tretet beiseite, %ra.
+<ce> _questgiver_ wird von der
+<ce> Dunklen Bruderschaft gesucht.
+<ce> Ihr seid doch nicht solch ein Narr,
+<ce> als dass Ihr %g2 beschützen würdet,
+<ce> oder?
 
 Message:  1030
-_questgiver_ wird direkt
-vor Euren Augen erschlagen.
+<ce> _questgiver_ wird direkt
+<ce> vor Euren Augen erschlagen.
 
 Message:  1040
-Wie Ihr wollt. Tötet sie beide!
+<ce> Wie Ihr wollt. Tötet sie beide!
 
 Message:  1050
-Habt Ihr Euch verlaufen, %pcn?
-Ich schätze, ich werde meinen Weg
-nach __destination_ alleine
-finden müssen. Danke für nichts,
-Ihr nutzloser Klotz.
+<ce> Habt Ihr Euch verlaufen, %pcn?
+<ce> Ich schätze, ich werde meinen Weg
+<ce> nach __destination_ alleine
+<ce> finden müssen. Danke für nichts,
+<ce> Ihr nutzloser Klotz.
 

@@ -1,13 +1,13 @@
 Quest: S0000501
-DisplayName: K'avars Komplott, Teil 3 
+DisplayName: K'avars Komplott, Teil 3
 QRC:
 
 QuestComplete:  [1004]
-%pcn, ich wusste, dass ich mich
-auf Euch verlassen kann. Die Freundschaft
-der Königin von Schildwacht ist zwar
-Belohnung genug, aber ich habe auch noch
-ein paar greifbare Geschenke vorbereitet.
+<ce> %pcn, ich wusste, dass ich mich
+<ce> auf Euch verlassen kann. Die Freundschaft
+<ce> der Königin von Schildwacht ist zwar
+<ce> Belohnung genug, aber ich habe auch noch
+<ce> ein paar greifbare Geschenke vorbereitet.
 
 RumorsDuringQuest:  [1005]
 Ich habe gehört, dass Fürst K'avar aus dem Kerker
@@ -37,8 +37,8 @@ Message:  1021
  Er versteckt sich irgendwo in den
  Verliesen des königlichen Schlosses.
  Ich soll ihn finden und für seine
- Hinrichtung zurück nach Schildwacht
- bringen.
+ Hinrichtung in =time2_ Tagen zurück nach
+ Schildwacht bringen.
 
 Message:  1022
 %qdt:
@@ -59,7 +59,7 @@ Message:  1030
      Ich wäre Euch sehr dankbar, wenn Ihr
  mir helfen würdet, diese Angelegenheit ein
  für alle Mal aus der Welt zu schaffen.
- Bitte sucht mich sobald wie möglich auf.
+ Bitte sucht mich innerhalb von =patsy_ Tagen auf.
  
  Eure Freundin,
  
@@ -69,32 +69,32 @@ Message:  1031
 Ein stämmiger Ritter im Wappenrock von Schildwacht
 bleibt vor Euch stehen und grüßt.
  
- "%pcn? Brief für Euch - eine persönliche
-  Botschaft von Königin Akorithi höchselbst."
+<ce> "%pcn? Brief für Euch - eine persönliche
+<ce> Botschaft von Königin Akorithi höchselbst."
 
 Message:  1040
-Ah, %pcn, ich hatte gehofft, dass Ihr kommen
-würdet. Meine Spione haben den flüchtigen Fürst
-K'avar ausfindig gemacht. Von allen Orten ist er
-ausgerechnet am Hof von Wegesruh aufgetaucht,
-wo er anscheinend versucht, Unterstützung für
-seinen lächerlichen Anspruch auf meinen Thron
-zu finden. Wegesruh würde es nicht wagen,
-einem verurteilten Hochverräter an Schildwacht
-offen Zuflucht zu gewähren, aber er versteckt
-sich irgendwo in Schloss Wegesruh. Ich will,
-dass Ihr ihn findet und zurückbringt. Wenn
-möglich lebend, aber tötet ihn, wenn es
-notwendig ist. Lasst ihn nicht ein weiteres
-Mal entkommen.
+<ce> Ah, %pcn, ich hatte gehofft, dass Ihr kommen
+<ce> würdet. Meine Spione haben den flüchtigen Fürst
+<ce> K'avar ausfindig gemacht. Von allen Orten ist er
+<ce> ausgerechnet am Hof von Wegesruh aufgetaucht,
+<ce> wo er anscheinend versucht, Unterstützung für
+<ce> seinen lächerlichen Anspruch auf meinen Thron
+<ce> zu finden. Wegesruh würde es nicht wagen,
+<ce> einem verurteilten Hochverräter an Schildwacht
+<ce> offen Zuflucht zu gewähren, aber er versteckt
+<ce> sich irgendwo in Schloss Wegesruh. Ich will,
+<ce> dass Ihr ihn findet und zurückbringt. Wenn
+<ce> möglich lebend, aber tötet ihn, wenn es
+<ce> notwendig ist. Lasst ihn nicht ein weiteres
+<ce> Mal entkommen. Ihr abt =time2_ Tage.
 
 Message:  1041
-Ihr schon wieder! %oth,
-werdet Ihr mich nie in Frieden lassen?
-Diesmal werde ich Euch erledigen!
+<ce> Ihr schon wieder! %oth,
+<ce> werdet Ihr mich nie in Frieden lassen?
+<ce> Diesmal werde ich Euch erledigen!
 
 Message:  1042
-"Halt! Tötet mich nicht! Ich ergebe mich!"
+<ce> "Halt! Tötet mich nicht! Ich ergebe mich!"
  
 Nehmt Ihr Fürst K'avars Kapitulation an?
 
@@ -109,35 +109,35 @@ um weitere Tricksereien zu verhindern.
 Nun zu Eurer Flucht aus Wegesruh ...
 
 Message:  1045
-Dann, bei %god, sollen wir zusammen sterben!
+<ce> Dann, bei %god, sollen wir zusammen sterben!
 
 Message:  1050
-Sieh an, wenn das nicht mein treuer Fürst
-K'avar ist, endlich zu mir zurückgekehrt.
-Habt Ihr wirklich geglaubt, Ihr könntet
-meinem Zorn entkommen?
+<ce> Sieh an, wenn das nicht mein treuer Fürst
+<ce> K'avar ist, endlich zu mir zurückgekehrt.
+<ce> Habt Ihr wirklich geglaubt, Ihr könntet
+<ce> meinem Zorn entkommen?
  
 Wachen, bringt ihn nach unten! Er soll
 unverzüglich exekutiert werden.
 
 Message:  1051
-Fürst K'avar hat den Tod verdient.
-Ich hätte es vorgezogen, ihn als
-Exempel für seinesgleichen öffentlich
-hinrichten zu lassen, aber es freut mich,
-dass diese schmutzige Angelegenheit
-endlich beendet ist.
+<ce> Fürst K'avar hat den Tod verdient.
+<ce> Ich hätte es vorgezogen, ihn als
+<ce> Exempel für seinesgleichen öffentlich
+<ce> hinrichten zu lassen, aber es freut mich,
+<ce> dass diese schmutzige Angelegenheit
+<ce> endlich beendet ist.
 
 Message:  1060
-Habt Ihr wirklich geglaubt, Ihr könntet
-Fürst K'avar so einfach loswerden?
-Einen Fürst von Schildwacht macht
-man sich besser nicht zum Feind!
+<ce> Habt Ihr wirklich geglaubt, Ihr könntet
+<ce> Fürst K'avar so einfach loswerden?
+<ce> Einen Fürst von Schildwacht macht
+<ce> man sich besser nicht zum Feind!
 
 Message:  1061
 Ein Ritter im Wappenrock von
 Schildwacht tritt auf Euch zu.
  
- "Ich werde Euch diesen verräterischen
-  Schweinehund K'avar jetzt abnehmen."
+<ce> "Ich werde Euch diesen verräterischen
+<ce> Schweinehund K'avar jetzt abnehmen."
  

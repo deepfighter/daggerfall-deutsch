@@ -3,45 +3,45 @@ DisplayName: Der irre Orksöldner
 QRC:
 
 QuestorOffer:  [1000]
-Willkommen, %pcn.
-Mein Name ist _qgiver_.
-Der Orden hat gerade von einem
-irren Orksöldner erfahren, den
-es aufzuhalten gilt. Seid Ihr
-gewillt, diese Quest anzunehmen?
+<ce> Willkommen, %pcn.
+<ce> Mein Name ist _qgiver_.
+<ce> Der Orden hat gerade von einem
+<ce> irren Orksöldner erfahren, den
+<ce> es aufzuhalten gilt. Seid Ihr
+<ce> gewillt, diese Quest anzunehmen?
 
 RefuseQuest:  [1001]
-Eure Bescheidenheit wird Euch
-gerecht, %pcf. Kommt 
-wieder, wenn Ihr nicht so zaghaft seid.
+<ce> Eure Bescheidenheit wird Euch
+<ce> gerecht, %pcf. Kommt 
+<ce> wieder, wenn Ihr nicht so zaghaft seid.
 
 AcceptQuest:  [1002]
-Nun gut. In einem dunklen Abgrund nicht weit
-von hier, an einem Ort namens ___mondung_,
-hat sich ein _soldier_ namens =soldier_
-mit einer Gruppe abtrünniger Magier,
-schlimmer als die Totenbeschwörer, verschworen,
-um %reg auszulöschen. Vielleicht glaubt
-er, dass die Herrschaft von %reg ihm Unrecht
-getan hat, vielleicht ist es aber auch der
-grundlose Hass, den Orks oft gegen Menschen
-hegen. Entscheidend ist, dass er aufgehalten
-wird, bevor seine blinde Wut und die Zauberei
-dieser Magier zur Katastrophe führen. Haltet
-ihn auf, %pcf, egal wie. Wenn Ihr in
-=2mondung_ Tagen nicht zurück seid und die Lage noch
-nicht geklärt ist, werden wir Ritter uns selbst
-der Sache annehmen. Betet, dass es nicht soweit kommt.
+<ce> Nun gut. In einem dunklen Abgrund nicht weit
+<ce> von hier, an einem Ort namens ___mondung_,
+<ce> hat sich ein _soldier_ namens =soldier_
+<ce> mit einer Gruppe abtrünniger Magier,
+<ce> schlimmer als die Totenbeschwörer, verschworen,
+<ce> um %reg auszulöschen. Vielleicht glaubt
+<ce> er, dass die Herrschaft von %reg ihm Unrecht
+<ce> getan hat, vielleicht ist es aber auch der
+<ce> grundlose Hass, den Orks oft gegen Menschen
+<ce> hegen. Entscheidend ist, dass er aufgehalten
+<ce> wird, bevor seine blinde Wut und die Zauberei
+<ce> dieser Magier zur Katastrophe führen. Haltet
+<ce> ihn auf, %pcf, egal wie. Wenn Ihr in
+<ce> =2mondung_ Tagen nicht zurück seid und die Lage noch
+<ce> nicht geklärt ist, werden wir Ritter uns selbst
+<ce> der Sache annehmen. Betet, dass es nicht soweit kommt.
 
 QuestFail:  [1003]
-Solltet ihr nicht schon in
-__mondung_ sein, %pcf?
+<ce> Solltet ihr nicht schon in
+<ce> __mondung_ sein, %pcf?
 
 QuestComplete:  [1004]
-Gut gemacht, %pcf. Die Orks verschwinden
-aus __mondung_, also muss Eure Mission
-von Erfolg gekrönt gewesen sein. Ihr seid
-wahrlich ein würdiges Mitglied unseres Ordens
+<ce> Gut gemacht, %pcf. Die Orks verschwinden
+<ce> aus __mondung_, also muss Eure Mission
+<ce> von Erfolg gekrönt gewesen sein. Ihr seid
+<ce> wahrlich ein würdiges Mitglied unseres Ordens
 
 RumorsDuringQuest:  [1005]
 __mondung_ ist für die Orks der perfekte Ort, um sich zu sammeln - so abgeschieden ist es.
@@ -77,37 +77,37 @@ QuestLogEntry:  [1010]
  diese Bedrohung zu kümmern und zurückzukehren.
 
 Message:  1013
-Ein schmutziger Zettel wird Euch
-von einem sogar noch schmutzigeren
-kleinen Jungen überreicht. Er ist
-offensichtlich kein Berufskurier,
-aber fast genauso schnell, als er
-davonläuft.
+<ce> Ein schmutziger Zettel wird Euch
+<ce> von einem sogar noch schmutzigeren
+<ce> kleinen Jungen überreicht. Er ist
+<ce> offensichtlich kein Berufskurier,
+<ce> aber fast genauso schnell, als er
+<ce> davonläuft.
 
 Message:  1014
-Der _soldier_ wurde von Euch getötet.
+<ce> Der _soldier_ wurde von Euch getötet.
 
 Message:  1015
-Ah, dieses Haar. Sie lebt also noch ...
-ich muss Schädelspalter berichten, dass
-sein Liebe %reg nicht verlassen hat.
-Danke, dass Ihr mir das mitgeteilt habt.
-Wenn mein Meister mit seinen Magierverbündeten
-den Tod nach %reg gebracht hätte,
-dann hätte er womöglich die Frau ermordet,
-die ihm mehr bedeutet als selbst die
-blutigste Rache an der Hoheit. Nochmals
-vielen Dank!
+<ce> Ah, dieses Haar. Sie lebt also noch ...
+<ce> ich muss Schädelspalter berichten, dass
+<ce> sein Liebe %reg nicht verlassen hat.
+<ce> Danke, dass Ihr mir das mitgeteilt habt.
+<ce> Wenn mein Meister mit seinen Magierverbündeten
+<ce> den Tod nach %reg gebracht hätte,
+<ce> dann hätte er womöglich die Frau ermordet,
+<ce> die ihm mehr bedeutet als selbst die
+<ce> blutigste Rache an der Hoheit. Nochmals
+<ce> vielen Dank!
 
 Message:  1017
-Ich hörte schon, dass Ihr ein Geschenk
-der Götter seid, %pct. %god segne und
-schütze Euch. Ich wünschte, ich könnte
-Euch etwas geben, um meiner Dankbarkeit
-Ausdruck zu verleihen. Hier, das habe
-ich von einer Dame, die Mitleid mit mir
-hatte. Es ist so schön und liebreizend,
-ich konnte es selbst dann nicht verkaufen,
-als ich vor Hunger fast gestorben wäre.
-Bitte nehmt es als Zeichen meiner Dankbarkeit.
+<ce> Ich hörte schon, dass Ihr ein Geschenk
+<ce> der Götter seid, %pct. %god segne und
+<ce> schütze Euch. Ich wünschte, ich könnte
+<ce> Euch etwas geben, um meiner Dankbarkeit
+<ce> Ausdruck zu verleihen. Hier, das habe
+<ce> ich von einer Dame, die Mitleid mit mir
+<ce> hatte. Es ist so schön und liebreizend,
+<ce> ich konnte es selbst dann nicht verkaufen,
+<ce> als ich vor Hunger fast gestorben wäre.
+<ce> Bitte nehmt es als Zeichen meiner Dankbarkeit.
 

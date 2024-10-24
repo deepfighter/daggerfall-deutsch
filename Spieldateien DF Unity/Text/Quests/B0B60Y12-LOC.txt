@@ -3,50 +3,50 @@ DisplayName: Letzte Ruhe
 QRC:
 
 QuestorOffer:  [1000]
-Da habe ich etwas Gutes für Euch.
-_nobleman_ hat vor
-kurzem offenbar etwas von einem alten
-Familienfluch gelesen. Jetzt hat %g
-schreckliche Angst und möchte, dass
-jemand loszieht und die Überbleibsel
-einer Ur-Ur-Urgroßmutter vernichtet,
-von der %g fürchtet, dass sie als
-untotes Monster wieder über die Erde
-wandeln könnte. Seid Ihr interessiert,
-%pct?
+<ce> Da habe ich etwas Gutes für Euch.
+<ce> _nobleman_ hat vor
+<ce> kurzem offenbar etwas von einem alten
+<ce> Familienfluch gelesen. Jetzt hat %g
+<ce> schreckliche Angst und möchte, dass
+<ce> jemand loszieht und die Überbleibsel
+<ce> einer Ur-Ur-Urgroßmutter vernichtet,
+<ce> von der %g fürchtet, dass sie als
+<ce> untotes Monster wieder über die Erde
+<ce> wandeln könnte. Seid Ihr interessiert,
+<ce> %pct?
 <--->
-Am Ende läuft es vielleicht nur darauf
-hinaus, sich mal ein bisschen in einer
-Gruft umzuschauen. _nobleman_
-hat uns gebeten, uns die Ruhestätte
-einer gewissen Ur-Ur-Urgrossmuter anzusehen.
-Scheinbar hat %g geträumt, das ihr
-Leichnahm in =2dung_ Tagen der Familiengruft
-entsteigt. Vielleicht ist dort schon alles
-verwest, vielleicht auch nicht. Würdet
-Ihr dort einmal nachforschen, %pct?
+<ce> Am Ende läuft es vielleicht nur darauf
+<ce> hinaus, sich mal ein bisschen in einer
+<ce> Gruft umzuschauen. _nobleman_
+<ce> hat uns gebeten, uns die Ruhestätte
+<ce> einer gewissen Ur-Ur-Urgrossmuter anzusehen.
+<ce> Scheinbar hat %g geträumt, das ihr
+<ce> Leichnahm in =2dung_ Tagen der Familiengruft
+<ce> entsteigt. Vielleicht ist dort schon alles
+<ce> verwest, vielleicht auch nicht. Würdet
+<ce> Ihr dort einmal nachforschen, %pct?
 
 RefuseQuest:  [1001]
-Wenn Ihr zufällig Ritter trefft, die
-dieser Aufgabe gewachsen wären, dann
-schickt sie zu mir.
+<ce> Wenn Ihr zufällig Ritter trefft, die
+<ce> dieser Aufgabe gewachsen wären, dann
+<ce> schickt sie zu mir.
 
 AcceptQuest:  [1002]
-Diese uralte Vorfahrin von _nobleman_
-liegt an einem Ort namens ___dungeon_,
-der entworfen wurde, um Grabräuberei zu verhindern.
-Es gibt keinen Beweis, dass sie überhaupt untot ist.
-Gut möglich, dass Ihr nur eine Leiche findet. In
-dem Fall verbrennt Ihr was von ihr übrig ist auf
-einem ordentlichen Scheiterhaufen. Und kehrt in
-=2dung_ Tagen zurück. _nobleman_ sagt, dass
-sonst der Fluch über uns kommt.
+<ce> Diese uralte Vorfahrin von _nobleman_
+<ce> liegt an einem Ort namens ___dungeon_,
+<ce> der entworfen wurde, um Grabräuberei zu verhindern.
+<ce> Es gibt keinen Beweis, dass sie überhaupt untot ist.
+<ce> Gut möglich, dass Ihr nur eine Leiche findet. In
+<ce> dem Fall verbrennt Ihr was von ihr übrig ist auf
+<ce> einem ordentlichen Scheiterhaufen. Und kehrt in
+<ce> =2dung_ Tagen zurück. _nobleman_ sagt, dass
+<ce> sonst der Fluch über uns kommt.
 
 QuestComplete:  [1004]
-Ich soll verdammt sein. Nie hätte ich geglaubt,
-dass die Vorfahrin von _nobleman_ wirklich
-eine der lebenden Toten sein könnte! Ihr habt
-den Leuten hier viel Leid und Elend erspart.
+<ce> Ich soll verdammt sein. Nie hätte ich geglaubt,
+<ce> dass die Vorfahrin von _nobleman_ wirklich
+<ce> eine der lebenden Toten sein könnte! Ihr habt
+<ce> den Leuten hier viel Leid und Elend erspart.
 
 RumorsDuringQuest:  [1005]
 _nobleman_ folgt abergläubischem Unfug, aber diese Ur-Ur-Urgroßmutter war schon seltsam.
@@ -65,7 +65,7 @@ Was kann ich für Euch tun, nachdem Ihr %reg vor einer untoten Bedrohung gerette
 QuestorPostfailure:  [1009]
 Mir war tatsächlich schon von vornherein klar, dass die Geschichte von _nobleman_ kein Scherz war, Ihr Nichtsnutz! 
 <--->
-Ihr seid ein Siebenschläfer! Ich wusste, dass wirklich etwas in ___dungeon_  sein Unwesen treibt!
+Ihr seid ein Siebenschläfer! Ich wusste, dass wirklich etwas in ___dungeon_ sein Unwesen treibt!
 <--->
 %kno steht jetzt dank Eures Versagens bei _nobleman_ für eine herbe Enttäuschung, %pcf.
 
@@ -73,7 +73,7 @@ QuestLogEntry:  [1010]
 %qdt:
  _qgiver_, ==qgiver_
  in ___qgiver_, hat mich
- damit beauftragt, die  Leiche
+ damit beauftragt, die Leiche
  der Urahnin von _nobleman_
  in ___dungeon_ zu verbrennen.
  Möglicherweise handelt es sich um
@@ -82,8 +82,8 @@ QuestLogEntry:  [1010]
  =2dung_ Tage, um die Quest abzuschließen.
 
 Message:  1011
-Die _monster_ wurde zur letzten
-Ruhe gebracht. _nobleman_
-braucht sich wegen dem Fluch
-nicht mehr zu sorgen.
+<ce> Die _monster_ wurde zur letzten
+<ce> Ruhe gebracht. _nobleman_
+<ce> braucht sich wegen dem Fluch
+<ce> nicht mehr zu sorgen.
 

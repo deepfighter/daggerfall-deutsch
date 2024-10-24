@@ -3,41 +3,41 @@ DisplayName: Die verfluchte Waffe
 QRC:
 
 QuestorOffer:  [1000]
-%pcn, wir haben eine gar gefährliche Aufgabe
-für Euch. Der Tempel ist in den Besitz einer uralten,
-bösen Waffe gelangt, welche seit langem von den Orks
-begehrt wird. Der Tempel ward bereits zweimal von
-diesen Kreaturen angegriffen. Diese Waffe muss an
-einen sicheren Ort gebracht werden. Werdet Ihr diese
-Aufgabe für uns übernehmen? Der Tempel wird Euch
-_gold_ Goldstücke zahlen.
+<ce> %pcn, wir haben eine gar gefährliche Aufgabe
+<ce> für Euch. Der Tempel ist in den Besitz einer uralten,
+<ce> bösen Waffe gelangt, welche seit langem von den Orks
+<ce> begehrt wird. Der Tempel ward bereits zweimal von
+<ce> diesen Kreaturen angegriffen. Diese Waffe muss an
+<ce> einen sicheren Ort gebracht werden. Werdet Ihr diese
+<ce> Aufgabe für uns übernehmen? Der Tempel wird Euch
+<ce> _gold_ Goldstücke zahlen.
 
 RefuseQuest:  [1001]
-Es enttäuscht mich, dass Eure Treue zum Tempel so
-gering ist. Doch angesichts der Gefahr sei Euch
-vergeben.
+<ce> Es enttäuscht mich, dass Eure Treue zum Tempel so
+<ce> gering ist. Doch angesichts der Gefahr sei Euch
+<ce> vergeben.
 
 AcceptQuest:  [1002]
-Nehmet dieses _evilitem_.
-In ___dungeon_ werdet
-Ihr _custodian_ finden,
-einen langjährigen Diener des
-Tempels. %g wird das Artefakt
-in Gewahrsam nehmen und es vor
-den Orks verbergen. Wir haben
-es mit einem magischen Schutz
-belegt, um Euch vor seiner bösen
-Aura zu bewahren. Diese Zauber
-jedoch werden in =traveltime Tagen
-verblassen.
+<ce> Nehmet dieses _evilitem_.
+<ce> In ___dungeon_ werdet
+<ce> Ihr _custodian_ finden,
+<ce> einen langjährigen Diener des
+<ce> Tempels. %g wird das Artefakt
+<ce> in Gewahrsam nehmen und es vor
+<ce> den Orks verbergen. Wir haben
+<ce> es mit einem magischen Schutz
+<ce> belegt, um Euch vor seiner bösen
+<ce> Aura zu bewahren. Diese Zauber
+<ce> jedoch werden in =traveltime Tagen
+<ce> verblassen.
 
 QuestComplete:  [1004]
-Ah, dies ist also das böse _evilitem_,
-von dem _qgiver_ gesprochen hat.
-Ich werde es hier verwahren, wo viele Verteidigungsmechanismen es schützen.
-_qgiver_ sagte, ich solle Euch
-_gold_ Goldstücke für den sicheren Transport
-überreichen.
+<ce> Ah, dies ist also das böse _evilitem_,
+<ce> von dem _qgiver_ gesprochen hat.
+<ce> Ich werde es hier verwahren, wo viele Verteidigungsmechanismen es schützen.
+<ce> _qgiver_ sagte, ich solle Euch
+<ce> _gold_ Goldstücke für den sicheren Transport
+<ce> überreichen.
 
 RumorsDuringQuest:  [1005]
 Die Orks haben Karawanen aus __qgiver_ überfallen.
@@ -68,13 +68,13 @@ QuestLogEntry:  [1010]
  =traveltime_ Tage Zeit, es zu übergeben.
 
 Message:  1011
-Ihr müsst der Träger von Manshrieker,
-der heiligen Ork-Kriegswaffe, sein.
-Tötet den Menschen! Wir müssen dieses
-_evilitem_ haben.
+<ce> Ihr müsst der Träger von Manshrieker,
+<ce> der heiligen Ork-Kriegswaffe, sein.
+<ce> Tötet den Menschen! Wir müssen dieses
+<ce> _evilitem_ haben.
 
 Message:  1012
-Das böse _evilitem_ sprüht
-Funken und löst sich auf. Ihr
-fühlt Euch plötzlich sehr krank.
+<ce> Das böse _evilitem_ sprüht
+<ce> Funken und löst sich auf. Ihr
+<ce> fühlt Euch plötzlich sehr krank.
 

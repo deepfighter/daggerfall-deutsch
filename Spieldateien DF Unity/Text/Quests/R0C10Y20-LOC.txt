@@ -3,42 +3,42 @@ DisplayName: Eine seltene Zutat
 QRC:
 
 QuestorOffer:  [1000]
-Wie wäre es mit einer feinen _reward_
-aus meiner Schatzkammer, %pcf?
-Mein Alchemist hat nach einer sehr
-seltenen Zutat verlangt, die er für
-ein wichtiges Experiment benötigt,
-und wir brauchen jemanden, der sie
-abholt. Denkt Ihr, Ihr könntet Euch
-darum kümmern, %pcf?
+<ce> Wie wäre es mit einer feinen _reward_
+<ce> aus meiner Schatzkammer, %pcf?
+<ce> Mein Alchemist hat nach einer sehr
+<ce> seltenen Zutat verlangt, die er für
+<ce> ein wichtiges Experiment benötigt,
+<ce> und wir brauchen jemanden, der sie
+<ce> abholt. Denkt Ihr, Ihr könntet Euch
+<ce> darum kümmern, %pcf?
 
 RefuseQuest:  [1001]
-Nun, das war unerwartet. Ihr solltet versuchen,
-etwas weniger auf Euer Söldnerherz zu hören,
-%pcf.
+<ce> Nun, das war unerwartet. Ihr solltet versuchen,
+<ce> etwas weniger auf Euer Söldnerherz zu hören,
+<ce> %pcf.
 
 AcceptQuest:  [1002]
-Ausgezeichnet, %pcf, ich wusste, Ihr wärt
-dafür zu haben. Nehmt dieses _item1_ und bringt
-es nach __contact_ in ___contact_.
-Dort gibt es einen =contact_ namens
-_contact_. Bittet %g2, Euch das _item2_
-zu geben, das %g aus dem Süden gebracht hat.
-Sorgt dafür, dass Ihr rechtzeitig zurück seid,
-in =1stparton_ Tagen. Nun denn, %pcf,
-ich verlasse mich auf Euch. Enttäuscht mich nicht.
+<ce> Ausgezeichnet, %pcf, ich wusste, Ihr wärt
+<ce> dafür zu haben. Nehmt dieses _item1_ und bringt
+<ce> es nach __contact_ in ___contact_.
+<ce> Dort gibt es einen =contact_ namens
+<ce> _contact_. Bittet %g2, Euch das _item2_
+<ce> zu geben, das %g aus dem Süden gebracht hat.
+<ce> Sorgt dafür, dass Ihr rechtzeitig zurück seid,
+<ce> in =1stparton_ Tagen. Nun denn, %pcf,
+<ce> ich verlasse mich auf Euch. Enttäuscht mich nicht.
 
 QuestFail:  [1003]
-Das _item2_, %pcf?
-Erinnert Ihr Euch? Und trödelt nicht.
+<ce> Das _item2_, %pcf?
+<ce> Erinnert Ihr Euch? Und trödelt nicht.
 
 QuestComplete:  [1004]
-Gutes Timing, %pcf.
-Mein Alchemist wird sehr erfreut
-sein – es ist ein ausgezeichnetes
-_item2_. Wie versprochen,
-hier ist Eure _reward_.
-Hübsch, nicht wahr?
+<ce> Gutes Timing, %pcf.
+<ce> Mein Alchemist wird sehr erfreut
+<ce> sein – es ist ein ausgezeichnetes
+<ce> _item2_. Wie versprochen,
+<ce> hier ist Eure _reward_.
+<ce> Hübsch, nicht wahr?
 
 RumorsDuringQuest:  [1005]
 _questgiver_'s Alchemist hat einmal einen Splitter Ebonium zurückgewiesen – er war nicht "frisch".
@@ -56,31 +56,33 @@ In letzter Zeit kommen wirklich seltsame Gerüche aus dem Palast von _questgiver
 Ich sah eine rote Rauchwolke aus dem Palast von _questgiver_ aufsteigen, wie ein Vogel.
 
 QuestorPostsuccess:  [1008]
-Denkt nicht, dass ich Euch vergessen habe, %pcf. Wie geht es Euch, mein Freund?
+<ce> Denkt nicht, dass ich Euch vergessen habe, %pcf.
+<ce> Wie geht es Euch, mein Freund?
 <--->
-Mein Alchemist wollte Euch persönlich danken, %pcf, aber er ist beschäftigt. Wie geht es Euch?
+<ce> Mein Alchemist wollte Euch persönlich danken, %pcf,
+<ce> aber er ist beschäftigt. Wie geht es Euch?
 
 QuestorPostfailure:  [1009]
-Wenn mein Alchemist hier wäre, würde
-er das _item2_ verlangen,
-das Ihr holen solltet, und Euch dann
-damit erschlagen. Aber so, wie es ist,
-betrachtet dies als Warnung. Enttäuscht
-mich zukünftig nicht mehr, sollte ich
-Eure Dienste benötigen. Das ist alles.
+<ce> Wenn mein Alchemist hier wäre, würde
+<ce> er das _item2_ verlangen,
+<ce> das Ihr holen solltet, und Euch dann
+<ce> damit erschlagen. Aber so, wie es ist,
+<ce> betrachtet dies als Warnung. Enttäuscht
+<ce> mich zukünftig nicht mehr, sollte ich
+<ce> Eure Dienste benötigen. Das ist alles.
 
 QuestLogEntry:  [1010]
-Und Ihr müsst %pcf sein, geschickt
-von _questgiver_, richtig?
-Nun, hier ist das _item2_,
-das %g wollte. Ihr solltet besser
-schnell damit zurückkehren – %g3
-Alchemist legt großen Wert auf die
-Frische seiner Zutaten. Natürlich zu
-Unrecht. _item2_ verderben nicht.
-Dennoch, Ihr wisst, was man über
-des einen Mannes Gift sagt...
-Jetzt los, beeilt Euch.
+<ce> Und Ihr müsst %pcf sein, geschickt
+<ce> von _questgiver_, richtig?
+<ce> Nun, hier ist das _item2_,
+<ce> das %g wollte. Ihr solltet besser
+<ce> schnell damit zurückkehren – %g3
+<ce> Alchemist legt großen Wert auf die
+<ce> Frische seiner Zutaten. Natürlich zu
+<ce> Unrecht. _item2_ verderben nicht.
+<ce> Dennoch, Ihr wisst, was man über
+<ce> des einen Mannes Gift sagt...
+<ce> Jetzt los, beeilt Euch.
 
 Message:  1015
 %qdt:

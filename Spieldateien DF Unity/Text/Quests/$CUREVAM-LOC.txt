@@ -86,7 +86,7 @@ Message:  1020
      Ich bin sicher, dass Eure "Verwandtschaft"
  Euch nichts davon erzählt hat, aber Vampirismus
  
-(weiter...)
+<ce> (weiter...)
  
  kann geheilt werden. Dazu müsst Ihr Euren "Bluts-
  vater" vernichten, jenes uralte Böse, das die
@@ -109,97 +109,97 @@ Message:  1020
  =huntstart_ Tage, danach werden wir Euch und
  den Rest der %vam wie Ungeziefer vernichten.
  
- _hunter_
+<ce> _hunter_
 
 Message:  1021
-Wollt Ihr _vamp1_
-den Brief von _hunter_ zeigen?
+<ce> Wollt Ihr _vamp1_
+<ce> den Brief von _hunter_ zeigen?
 
 Message:  1022
-Ihr tatet gut daran, dies zu mir zu bringen,
-%pcn. _hunter_ ist seit vielen
-Jahren ein Fluch für die %vam. Dank dieser
-vorzeitigen Warnung können wir viele der
-Unseren retten. Ihr solltet nicht die Gefahr
-unterschätzen, in der Ihr Euch befindet, %pcf.
-_hunter_ ist unbarmherzig und erfahren, %g3
-Spione sind überall. %g würde einen hervorragenden
-Zuwachs der %vam darstellen - vielleicht
-wird %g das auch noch. Sei es, wie es sei,
-%g kennt Euren Namen, und ohne jeden Zweifel
-wird %g versuchen, %g3 Drohungen wahrzumachen.
-Möge die Nacht Euch beschützen.
+<ce> Ihr tatet gut daran, dies zu mir zu bringen,
+<ce> %pcn. _hunter_ ist seit vielen
+<ce> Jahren ein Fluch für die %vam. Dank dieser
+<ce> vorzeitigen Warnung können wir viele der
+<ce> Unseren retten. Ihr solltet nicht die Gefahr
+<ce> unterschätzen, in der Ihr Euch befindet, %pcf.
+<ce> _hunter_ ist unbarmherzig und erfahren, %g3
+<ce> Spione sind überall. %g würde einen hervorragenden
+<ce> Zuwachs der %vam darstellen - vielleicht
+<ce> wird %g das auch noch. Sei es, wie es sei,
+<ce> %g kennt Euren Namen, und ohne jeden Zweifel
+<ce> wird %g versuchen, %g3 Drohungen wahrzumachen.
+<ce> Möge die Nacht Euch beschützen.
 
 Message:  1023
-%pcn, nicht wahr? Ich habe vom Rest der
-%vam viel Gutes über Euch gehört.
-Also, Ihr wollt Euren Blutsvater finden.
-Ein nachvollziehbares Verlangen, obwohl
-dieses Privileg jemandem von Eurer Jugend
-für gewöhnlich nicht eingeräumt wird. Doch
-ich glaube angesichts Eurer Verdienste
-für die %vam kann ich eine Ausnahme
-machen. Lasst mich überlegen; es müsste
-entweder =elder_ oder =bloodfather_ sein.
-Ersteren könnt Ihr in ___wrongdung_
-finden und Letzteren in ___fatherdung_.
-Ich würde allerdings davon abraten, die
-Ruhe eines Stammesältesten leichtfertig zu
-stören. Es wäre wohl das Beste, wenn Ihr
-_vamp2_ in ___vamp2_ aufsuchen würdet.
-%g ist der Hüter der Blutlinie und wird Euch
-mit Sicherheit sagen können, welcher der
-beiden %vam-Ältesten Euer Blutsvater ist.
-Nehmt diesen Armreif mit zu %g2, so weiß
-%g, dass ich Euch geschickt habe.
+<ce> %pcn, nicht wahr? Ich habe vom Rest der
+<ce> %vam viel Gutes über Euch gehört.
+<ce> Also, Ihr wollt Euren Blutsvater finden.
+<ce> Ein nachvollziehbares Verlangen, obwohl
+<ce> dieses Privileg jemandem von Eurer Jugend
+<ce> für gewöhnlich nicht eingeräumt wird. Doch
+<ce> ich glaube angesichts Eurer Verdienste
+<ce> für die %vam kann ich eine Ausnahme
+<ce> machen. Lasst mich überlegen; es müsste
+<ce> entweder =elder_ oder =bloodfather_ sein.
+<ce> Ersteren könnt Ihr in ___wrongdung_
+<ce> finden und Letzteren in ___fatherdung_.
+<ce> Ich würde allerdings davon abraten, die
+<ce> Ruhe eines Stammesältesten leichtfertig zu
+<ce> stören. Es wäre wohl das Beste, wenn Ihr
+<ce> _vamp2_ in ___vamp2_ aufsuchen würdet.
+<ce> %g ist der Hüter der Blutlinie und wird Euch
+<ce> mit Sicherheit sagen können, welcher der
+<ce> beiden %vam-Ältesten Euer Blutsvater ist.
+<ce> Nehmt diesen Armreif mit zu %g2, so weiß
+<ce> %g, dass ich Euch geschickt habe.
 
 Message:  1024
-Hmph. Ihr seid viel zu jung, als dass Euch
-solcherlei Informationen anvertraut werden sollten.
-Doch da Ihr das Zeichen von _vamp1_
-bei Euch tragt, werde ich Euch verraten, wo
-Euer Blutvater =bloodfather_ residiert.
-Ihr werdet ihn in seinem Unterschlupf in
-___fatherdung_ finden. Seid Euch
-bewusst, dass die Stammesältesten um
-diese Zeit des Jahres von niemandem gestört
-werden möchten. Verletzt die Abgeschiedenheit
-von =bloodfather_ auf eigene Gefahr.
+<ce> Hmph. Ihr seid viel zu jung, als dass Euch
+<ce> solcherlei Informationen anvertraut werden sollten.
+<ce> Doch da Ihr das Zeichen von _vamp1_
+<ce> bei Euch tragt, werde ich Euch verraten, wo
+<ce> Euer Blutvater =bloodfather_ residiert.
+<ce> Ihr werdet ihn in seinem Unterschlupf in
+<ce> ___fatherdung_ finden. Seid Euch
+<ce> bewusst, dass die Stammesältesten um
+<ce> diese Zeit des Jahres von niemandem gestört
+<ce> werden möchten. Verletzt die Abgeschiedenheit
+<ce> von =bloodfather_ auf eigene Gefahr.
 
 Message:  1025
-Blutsverräter! Wir haben von Eurem Verrat
-erfahren. Ihr werdet =bloodfather_ niemals
-finden. Wenn Eure Tage unter den %vam
-auch gezählt sind, braucht Ihr Euch doch nicht
-zu sorgen. _hunter_ wird Euch nicht
-zur Strecke bringen müssen.
+<ce> Blutsverräter! Wir haben von Eurem Verrat
+<ce> erfahren. Ihr werdet =bloodfather_ niemals
+<ce> finden. Wenn Eure Tage unter den %vam
+<ce> auch gezählt sind, braucht Ihr Euch doch nicht
+<ce> zu sorgen. _hunter_ wird Euch nicht
+<ce> zur Strecke bringen müssen.
 
 Message:  1030
-Jungchen, störet meine Meditationen nicht!
-Fort mit Euch, oder mein Hunger wird mich
-zwingen, Euch zu töten!
+<ce> Jungchen, störet meine Meditationen nicht!
+<ce> Fort mit Euch, oder mein Hunger wird mich
+<ce> zwingen, Euch zu töten!
 
 Message:  1031
-Ihr habt =elder_ getötet,
-einen Stammesältesten der %vam.
+<ce> Ihr habt =elder_ getötet,
+<ce> einen Stammesältesten der %vam.
 
 Message:  1032
-%pcn, Euer Blut spricht zu mir.
-Warum greift Ihr Euren eigenen Vater an?
-Die %vam bestrafen Vatermord
-mit dem Tod. Zwingt mich nicht, dieses
-Urteil selbst zu vollstrecken.
-Flieht, mein Kind!
+<ce> %pcn, Euer Blut spricht zu mir.
+<ce> Warum greift Ihr Euren eigenen Vater an?
+<ce> Die %vam bestrafen Vatermord
+<ce> mit dem Tod. Zwingt mich nicht, dieses
+<ce> Urteil selbst zu vollstrecken.
+<ce> Flieht, mein Kind!
 
 Message:  1040
-_hunter_ sagte mir, dass ich Euch
-hier finden würde. Sterbt, Nachtwandler!
+<ce> _hunter_ sagte mir, dass ich Euch
+<ce> hier finden würde. Sterbt, Nachtwandler!
 
 Message:  1045
-Ein unbekannter Gegenstand in Eurem Gepäck
-fällt Euch ins Auge. Es ist ein Brief, der
-in elegant flüssiger Handschrift an Euch
-adressiert wurde. Wie ist er dorthin gelangt?
+<ce> Ein unbekannter Gegenstand in Eurem Gepäck
+<ce> fällt Euch ins Auge. Es ist ein Brief, der
+<ce> in elegant flüssiger Handschrift an Euch
+<ce> adressiert wurde. Wie ist er dorthin gelangt?
 
 
 Message:  1050

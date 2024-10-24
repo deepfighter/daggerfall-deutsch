@@ -3,39 +3,39 @@ DisplayName: Der Schmuck des Adligen
 QRC:
 
 QuestorOffer:  [1000]
-Wir haben Euch im Auge, %pcf.
-Versucht erst gar nicht, Euch den
-Kopf darüber zu zerbrechen, wer
-'wir' sind. Ihr seid ein aufstrebendes
-Mitglied dieser Gilde, und wenn Ihr
-bereit seid, einen besonderen Auftrag
-ohne Bezahlung zu übernehmen, könnten
-wir uns in Zukunft vielleicht wohlwollend
-gegenüber Euch erweisen. Was sagt Ihr dazu?
+<ce> Wir haben Euch im Auge, %pcf.
+<ce> Versucht erst gar nicht, Euch den
+<ce> Kopf darüber zu zerbrechen, wer
+<ce> 'wir' sind. Ihr seid ein aufstrebendes
+<ce> Mitglied dieser Gilde, und wenn Ihr
+<ce> bereit seid, einen besonderen Auftrag
+<ce> ohne Bezahlung zu übernehmen, könnten
+<ce> wir uns in Zukunft vielleicht wohlwollend
+<ce> gegenüber Euch erweisen. Was sagt Ihr dazu?
 
 RefuseQuest:  [1001]
-Seid vorsichtig, Ihr kleiner,
-niederträchtiger Verräter!
+<ce> Seid vorsichtig, Ihr kleiner,
+<ce> niederträchtiger Verräter!
 
 AcceptQuest:  [1002]
-Eure Aufgabe ist recht simpel. Der %rt
-von __palace_ hat kürzlich ein
-_jewelry_ 'erworben', das so gut verarbeitet
-ist, dass wir großes Interesse daran haben,
-es uns genauer anzusehen. Ihr habt genau
-=2palace_ Tage, um einen Weg in den Palast zu
-finden, das besagte Schmuckstück an Euch zu
-bringen und hierher zurückzukehren. Dies
-sollte für ein wahres Mitglied der Diebesgilde
-keineswegs unmöglich sein. Also, worauf wartet
-Ihr noch, %pcf? Macht Euch auf den Weg!
+<ce> Eure Aufgabe ist recht simpel. Der %rt
+<ce> von __palace_ hat kürzlich ein
+<ce> _jewelry_ 'erworben', das so gut verarbeitet
+<ce> ist, dass wir großes Interesse daran haben,
+<ce> es uns genauer anzusehen. Ihr habt genau
+<ce> =2palace_ Tage, um einen Weg in den Palast zu
+<ce> finden, das besagte Schmuckstück an Euch zu
+<ce> bringen und hierher zurückzukehren. Dies
+<ce> sollte für ein wahres Mitglied der Diebesgilde
+<ce> keineswegs unmöglich sein. Also, worauf wartet
+<ce> Ihr noch, %pcf? Macht Euch auf den Weg!
 
 QuestFail:  [1003]
-Ich sagte, fort mit Euch!
+<ce> Ich sagte, fort mit Euch!
 
 QuestComplete:  [1004]
-Herzlichen Glückwunsch, %pcf.
-Ihr werdet bald wieder von uns hören.
+<ce> Herzlichen Glückwunsch, %pcf.
+<ce> Ihr werdet bald wieder von uns hören.
 
 RumorsDuringQuest:  [1005]
 %t %rn ist sichtlich stolz auf sein neues _jewelry_. Jeder möchte es sehen.
@@ -45,7 +45,7 @@ _palace_ wird schwer bewacht, offensichtlich wegen des neuen _jewelry_.
 RumorsPostfailure:  [1006]
 Die Männer des %t haben _jewelry_ nach dem gescheiterten Diebstahlversuch wieder in ihren Besitz gebracht.
 <--->
-Die Diebesgilde würde sich eine solche Gelegenheit, dieses _jewelry_ zu erlangen, niemals entgehen lassen.
+Die Dviebesgilde würde sich eine solche Gelegenheit, dieses _jewelry_ zu erlangen, niemals entgehen lassen.
 
 RumorsPostsuccess:  [1007]
 Die Diebesgilde wird immer dreister, sogar von %t selbst zu stehlen.
@@ -62,9 +62,9 @@ QuestLogEntry:  [1010]
  in seinen Händen in ___qgiver_ halten.
 
 Message:  1015
-Ihr habt das _jewelry_ gefunden,
-weswegen Ihr hierher geschickt wurdet.
+<ce> Ihr habt das _jewelry_ gefunden,
+<ce> weswegen Ihr hierher geschickt wurdet.
 
 Message:  1020
-Das muss es sein!
+<ce> Das muss es sein!
 

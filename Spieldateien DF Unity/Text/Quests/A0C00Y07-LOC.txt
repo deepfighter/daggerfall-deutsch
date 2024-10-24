@@ -3,78 +3,78 @@ DisplayName: Der Schädlingsbekämpfer
 QRC:
 
 QuestorOffer:  [1000]
-Ich bedarf Eurer Hilfe. _qgiver_
-zu Euren Diensten, obgleich ich hoffe,
-dass Eure Dienste die meinigen seien.
-Mein _house_ wird von Ungeheuern
-heimgesucht. Könnet Ihr sie für mich
-erlegen? Ich bin bereit, Euch _gold_ Goldstücke
-zu zahlen.
+<ce> Ich bedarf Eurer Hilfe. _qgiver_
+<ce> zu Euren Diensten, obgleich ich hoffe,
+<ce> dass Eure Dienste die meinigen seien.
+<ce> Mein _house_ wird von Ungeheuern
+<ce> heimgesucht. Könnet Ihr sie für mich
+<ce> erlegen? Ich bin bereit, Euch _gold_ Goldstücke
+<ce> zu zahlen.
 
 RefuseQuest:  [1001]
-Hilfe, ich bedarf Hilfe! Will mir denn niemand beistehen?
+<ce> Hilfe, ich bedarf Hilfe! Will mir denn niemand beistehen?
 
 AcceptQuest:  [1002]
-Danke, danke, danke!
-Wenn sie bis morgen um diese Zeit nicht
-weg sind sind, bin ich ruiniert.
+<ce> Danke, danke, danke!
+<ce> Wenn sie bis morgen um diese Zeit nicht
+<ce> weg sind sind, bin ich ruiniert.
 
 QuestComplete:  [1004]
-Welch eine Erleichterung. Ich hasse diese Kreaturen.
-Ihr wart äußerst hilfreich, %pcn. Hier
-sind die versprochenen _gold_ Goldstücke.
+<ce> Welch eine Erleichterung. Ich hasse diese Kreaturen.
+<ce> Ihr wart äußerst hilfreich, %pcn. Hier
+<ce> sind die versprochenen _gold_ Goldstücke.
 
 RumorsDuringQuest:  [1005]
-Ich finde es urkomisch! _qgiver_s
-_house_ ist von riesigen Käfern überrannt!
+<ce> Ich finde es urkomisch! _qgiver_s
+<ce> _house_ ist von riesigen Käfern überrannt!
 <--->
-Ich fühle mit _qgiver_. %g3
-_house_ wird praktisch von zwölf Fuß
-langen Ratten mit giftigen Stacheln
-übernommen. Man sagt, sie können einen
-Mann mit einem einzigen Blick in Stein
-verwandeln!
+<ce> Ich fühle mit _qgiver_. %g3
+<ce> _house_ wird praktisch von zwölf Fuß
+<ce> langen Ratten mit giftigen Stacheln
+<ce> übernommen. Man sagt, sie können einen
+<ce> Mann mit einem einzigen Blick in Stein
+<ce> verwandeln!
 
 RumorsPostfailure:  [1006]
-_qgiver_ musste _house_ verkaufen.
+<ce> _qgiver_ musste _house_ verkaufen.
 <--->
-Ich hörte, jemand aus der Kriegergilde starb
-beim Versuch, die Plage in _qgiver_s
-_house_ zu beseitigen.
+<ce> Ich hörte, jemand aus der Kriegergilde starb
+<ce> beim Versuch, die Plage in _qgiver_s
+<ce> _house_ zu beseitigen.
 
 RumorsPostsuccess:  [1007]
-Seid Ihr nicht der %ra,
-der _qgiver_ geholfen hat,
-die Bestien loszuwerden, die %g3
-_house_ übernommen hatten?
+<ce> Seid Ihr nicht der %ra,
+<ce> der _qgiver_ geholfen hat,
+<ce> die Bestien loszuwerden, die %g3
+<ce> _house_ übernommen hatten?
 <--->
-Ich hörte, dass _qgiver_ jemanden
-bezahlte, um alle Kreaturen zu töten,
-die %g3 _house_ überrannt hatten.
+<ce> Ich hörte, dass _qgiver_ jemanden
+<ce> bezahlte, um alle Kreaturen zu töten,
+<ce> die %g3 _house_ überrannt hatten.
 
 QuestorPostsuccess:  [1008]
-%pcf, ich schulde Euch Dank dafür,
-dass Ihr mein _house_ von
-Monstern befreit habt.
+<ce> %pcf, ich schulde Euch Dank dafür,
+<ce> dass Ihr mein _house_ von
+<ce> Monstern befreit habt.
 <--->
-Hört her, alle miteinander. Ich möchte,
-dass Ihr meinen Freund, %pcn,
-kennenlernt, den außergewöhnlichen
-Sschädlingsbekämpfer. %g hat mein
-_house_ von drei Dutzend Monstern befreit!
+<ce> Hört her, alle miteinander. Ich möchte,
+<ce> dass Ihr meinen Freund, %pcn,
+<ce> kennenlernt, den außergewöhnlichen
+<ce> Sschädlingsbekämpfer. %g hat mein
+<ce> _house_ von drei Dutzend Monstern befreit!
 
 QuestorPostfailure:  [1009]
-Ihr! Ihr habt mich ruiniert!
-Ich habe _house_ verloren,
-weil Ihr es nicht geschafft habt,
-ein paar Monster darin zu beseitigen.
+<ce> Ihr! Ihr habt mich ruiniert!
+<ce> Ich habe _house_ verloren,
+<ce> weil Ihr es nicht geschafft habt,
+<ce> ein paar Monster darin zu beseitigen.
 <--->
-Seid Ihr nicht der %ra, der
-mich im Stich ließ? Ich heuerte
-Euch an, um einige Monster zu töten,
-die mein _house_ befallen
-hatten, und Ihr konntet es einfach
-nicht tun. Geht weg.
+<ce> Seid Ihr nicht der %ra, der
+<ce> mich im Stich ließ? Ich heuerte
+<ce> Euch an, um einige Monster zu töten,
+<ce> die mein _house_ befallen
+<ce> hatten, und Ihr konntet es einfach
+<ce> nicht tun. Geht weg.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -85,4 +85,12 @@ QuestLogEntry:  [1010]
  Monstern zu befreien. %g
  braucht sie innerhalb eines
  Tages fort.
+
+Message:  1011
+<ce> Das sollte genügen.
+
+Message:  1012
+<ce> Ihr hört ein Kratzen, das aus den Wänden
+<ce> dringt. Die Kreaturen werden gewiss schlecht
+<ce> auf Euren Übergriff in ihr Gebiet reagieren.
 

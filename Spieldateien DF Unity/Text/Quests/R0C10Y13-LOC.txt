@@ -3,45 +3,45 @@ DisplayName: Friedensangebot
 QRC:
 
 QuestorOffer:  [1000]
-Ich habe eine Mission von einiger
-diplomatischer Bedeutung. Ein Geschenk
-des Friedens, das ausgehändigt werden
-muss. Würdet Ihr mir den Gefallen tun
-und das Geschenk meinem Freund,
-_contact_, überbringen?
+<ce> Ich habe eine Mission von einiger
+<ce> diplomatischer Bedeutung. Ein Geschenk
+<ce> des Friedens, das ausgehändigt werden
+<ce> muss. Würdet Ihr mir den Gefallen tun
+<ce> und das Geschenk meinem Freund,
+<ce> _contact_, überbringen?
 
 RefuseQuest:  [1001]
-Ist es die Belohnung, das Ungemach
-oder die Niedrigkeit der Mission, die
-Euch stört, %pcf? Es spielt
-keine Rolle, ich kann leicht einen
-anderen %ra finden, der an seiner
-politischen Stellung interessiert ist.
+<ce> Ist es die Belohnung, das Ungemach
+<ce> oder die Niedrigkeit der Mission, die
+<ce> Euch stört, %pcf? Es spielt
+<ce> keine Rolle, ich kann leicht einen
+<ce> anderen %ra finden, der an seiner
+<ce> politischen Stellung interessiert ist.
 
 AcceptQuest:  [1002]
-Sehr gut, %pcf.
-Nun, hört sorgfältig zu: Nehmt dieses
-_item_ zum Palast in __palace_
-und findet einen =contact_.
-Das wird _contact_ sein. %g wird
-Euch erwarten und Euch wahrscheinlich
-für Eure Mühen entlohnen. Ihr solltet
-Euch auf den Weg machen. Versagt mir
-nicht, %pcf.
+<ce> Sehr gut, %pcf.
+<ce> Nun, hört sorgfältig zu: Nehmt dieses
+<ce> _item_ zum Palast in __palace_
+<ce> und findet einen =contact_.
+<ce> Das wird _contact_ sein. %g wird
+<ce> Euch erwarten und Euch wahrscheinlich
+<ce> für Eure Mühen entlohnen. Ihr solltet
+<ce> Euch auf den Weg machen. Versagt mir
+<ce> nicht, %pcf.
 
 QuestFail:  [1003]
-Schnell jetzt, fort mit Euch!
-Dies ist keine Zeit für müßige
-Gespräche. Ihr habt Arbeit
-zu erledigen.
+<ce> Schnell jetzt, fort mit Euch!
+<ce> Dies ist keine Zeit für müßige
+<ce> Gespräche. Ihr habt Arbeit
+<ce> zu erledigen.
 
 QuestComplete:  [1004]
-Oh, welch liebliches _item_.
-Es stammt von _questgiver_?
-Nun, vielleicht war dies alles
-nur ein Missverständnis.
-Hier sind _reward_ Goldstücke für
-Eure guten Dienste, %pcf.
+<ce> Oh, welch liebliches _item_.
+<ce> Es stammt von _questgiver_?
+<ce> Nun, vielleicht war dies alles
+<ce> nur ein Missverständnis.
+<ce> Hier sind _reward_ Goldstücke für
+<ce> Eure guten Dienste, %pcf.
 
 RumorsDuringQuest:  [1005]
 Ich höre, _contact_ überlegt, die Treue zu _questgiver_ zu brechen.
@@ -59,18 +59,20 @@ _contact_ soll sehr erfreut über das Geschenk von _questgiver_ sein.
 Gedankt sei %god, dass _questgiver_ den _item_ zu _contact_ gebracht hat. Es hätte hässlich werden können.
 
 QuestorPostsuccess:  [1008]
-Ah, da ist mein Friedensbote. Wie ergeht es Euch, mein Freund?
+<ce> Ah, da ist mein Friedensbote.
+<ce> Wie ergeht es Euch, mein Freund?
 <--->
-%oth, wenn das nicht mein Lieblingskurier ist. Wie geht es Euch?
+<ce> %oth, wenn das nicht mein
+<ce> Lieblingskurier ist. Wie geht es Euch?
 
 QuestorPostfailure:  [1009]
-Indem Ihr es versäumt habt,
-_contact_ den _item_
-zu bringen, wie Ihr es
-versprochen habt, sind meine
-Friedenspläne dank Euch noch
-komplizierter geworden, %pcf.
-Aus meinen Augen!
+<ce> Indem Ihr es versäumt habt,
+<ce> _contact_ den _item_
+<ce> zu bringen, wie Ihr es
+<ce> versprochen habt, sind meine
+<ce> Friedenspläne dank Euch noch
+<ce> komplizierter geworden, %pcf.
+<ce> Aus meinen Augen!
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -83,9 +85,9 @@ QuestLogEntry:  [1010]
  weniger sein.
 
 Message:  1020
-Hat _questgiver_
-Euch nicht etwas für
-mich gegeben? Verdammt,
-wenn das einer von
-%g3 Streichen ist ...
+<ce> Hat _questgiver_
+<ce> Euch nicht etwas für
+<ce> mich gegeben? Verdammt,
+<ce> wenn das einer von
+<ce> %g3 Streichen ist ...
 

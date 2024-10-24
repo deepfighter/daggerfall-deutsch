@@ -3,37 +3,37 @@ DisplayName: Die Heilung
 QRC:
 
 QuestorOffer:  [1000]
-Der beste Weg, sich mit dem
-Tempel gutzustellen, ist es, jemanden
-zu heilen. Ich weiß von einem Fall,
-der dabei helfen könnte, %pcn.
-Wollt Ihr Näheres erfahren?
+<ce> Der beste Weg, sich mit dem
+<ce> Tempel gutzustellen, ist es, jemanden
+<ce> zu heilen. Ich weiß von einem Fall,
+<ce> der dabei helfen könnte, %pcn.
+<ce> Wollt Ihr Näheres erfahren?
 <--->
-Ich bin _giver_.
-In der Hierarchie des __giver_
-seid Ihr unbedeutend. Ich könnte Euer
-Fürsprecher werden, wenn Ihr jemanden
-heilt, den ich kenne.
+<ce> Ich bin _giver_.
+<ce> In der Hierarchie des __giver_
+<ce> seid Ihr unbedeutend. Ich könnte Euer
+<ce> Fürsprecher werden, wenn Ihr jemanden
+<ce> heilt, den ich kenne.
 
 RefuseQuest:  [1001]
-Wenn Ihr nicht einmal zu einer
-einfachen Heilung willens
-oder in der Lage seid, kann ich
-Euch sicher nicht den Tempel-
-Ältesten empfehlen.
+<ce> Wenn Ihr nicht einmal zu einer
+<ce> einfachen Heilung willens
+<ce> oder in der Lage seid, kann ich
+<ce> Euch sicher nicht den Tempel-
+<ce> Ältesten empfehlen.
 
 AcceptQuest:  [1002]
-_cousin_ in ___cousin_
-leidet an einer ungewöhnlichen
-Krankheit. Ich wollte gerade einen
-Geistlichen schicken, um %g2 zu
-heilen. Das werde ich eine Weile
-hinauszögern. Wenn Ihr ein
-Heilmittel finden könnt, würde
-das Euer Ansehen beim
-__giver_ erhöhen.
-Ich kann Euch jedoch nur
-=questtime_ Tage Zeit geben.
+<ce> _cousin_ in ___cousin_
+<ce> leidet an einer ungewöhnlichen
+<ce> Krankheit. Ich wollte gerade einen
+<ce> Geistlichen schicken, um %g2 zu
+<ce> heilen. Das werde ich eine Weile
+<ce> hinauszögern. Wenn Ihr ein
+<ce> Heilmittel finden könnt, würde
+<ce> das Euer Ansehen beim
+<ce> __giver_ erhöhen.
+<ce> Ich kann Euch jedoch nur
+<ce> =questtime_ Tage Zeit geben.
 
 QuestFail:  [1003]
 %qdt:
@@ -45,9 +45,9 @@ QuestFail:  [1003]
  jemand anderes geschickt, um dies zu tun.
 
 QuestComplete:  [1004]
-_cousin_ sieht
-schon viel besser aus.
-Offensichtlich ist %g geheilt.
+<ce> _cousin_ sieht
+<ce> schon viel besser aus.
+<ce> Offensichtlich ist %g geheilt.
 
 RumorsDuringQuest:  [1005]
 _cousin_ ist wirklich arm dran. Wie dieser =cousin_ leidet!
@@ -61,35 +61,29 @@ _giver_ vom __giver_
 dieselbe Großmutter haben?
 
 QuestorPostsuccess:  [1008]
-Ich habe gehört, dass _cousin_
-wieder gesund ist. Möge %god
-Euch segnen, %pcf.
-Was benötigt Ihr?
+<ce> Ich habe gehört, dass _cousin_
+<ce> wieder gesund ist. Möge %god
+<ce> Euch segnen, %pcf.
+<ce> Was benötigt Ihr?
 
 QuestorPostfailure:  [1009]
 _cousin_ ist gestorben, und Ihr tragt die Schuld daran, %pcf.
 
 Message:  1025
-Ich behalte Euch im Auge. Denkt daran,
-der Patient heißt _cousin_
-und %g wohnt in __cousin_.
-Ihr habt =questtime_ Tage, um Euch zu beweisen.
-
-RumorsPostfailure:  [1006]
-Zu schade. Ich muss mich auf
-die Suche nach einem Geistlichen
-des Tempels machen, der mir hilft.
-Also geht bitte!
+<ce> Ich behalte Euch im Auge. Denkt daran,
+<ce> der Patient heißt _cousin_
+<ce> und %g wohnt in __cousin_.
+<ce> Ihr habt =questtime_ Tage, um Euch zu beweisen.
 
 QuestLogEntry:  [1010]
-Ich fühle mich so schwach. Ich weiß
-nicht, was mit mir nicht stimmt. Seid
-Ihr gekommen, um mir zu helfen? Ja?
-Habt Ihr ein Heilmittel? Wenn ja,
-behandelt mich doch bitte damit.
+<ce> Ich fühle mich so schwach. Ich weiß
+<ce> nicht, was mit mir nicht stimmt. Seid
+<ce> Ihr gekommen, um mir zu helfen? Ja?
+<ce> Habt Ihr ein Heilmittel? Wenn ja,
+<ce> behandelt mich doch bitte damit.
 
 Message:  1011
-Werdet Ihr das tun?
+<ce> Werdet Ihr das tun?
 
 Message:  1012
 Ich habe von %g2 Krankheit gehört. Einige sagen, dass _healer_ in ___healer_ ein Heilmittel hat.
@@ -97,28 +91,28 @@ Ich habe von %g2 Krankheit gehört. Einige sagen, dass _healer_ in ___healer_ ei
 Ich habe etwas über %g2 gehört. Etwas über eine Krankheit und jemanden namens _healer_ in ___healer_ mit einem Heilmittel.
 
 Message:  1013
-Seid gegrüßt. Ja, ich hörte von
-_cousin_ aus ___cousin_
-und %g3 Problem. Calirons Fluch
-heißt sie. Sie wird oft für Graufieber
-gehalten. Wie auch immer, ich habe etwas
-Raureif-Wurzel. Die wird Heilung bringen.
-Sie kann aber nur einmal verwendet werden.
-Ich verkaufe sie Euch für 20 Gold.
+<ce> Seid gegrüßt. Ja, ich hörte von
+<ce> _cousin_ aus ___cousin_
+<ce> und %g3 Problem. Calirons Fluch
+<ce> heißt sie. Sie wird oft für Graufieber
+<ce> gehalten. Wie auch immer, ich habe etwas
+<ce> Raureif-Wurzel. Die wird Heilung bringen.
+<ce> Sie kann aber nur einmal verwendet werden.
+<ce> Ich verkaufe sie Euch für 20 Gold.
 
 Message:  1014
-Wollt Ihr die Raureif-Wurzel kaufen?
+<ce> Wollt Ihr die Raureif-Wurzel kaufen?
 
 Message:  1015
-Es tut mir leid, aber mir scheint,
-Ihr habt nicht genug Geld für die
-Raureif-Wurzel.
+<ce> Es tut mir leid, aber mir scheint,
+<ce> Ihr habt nicht genug Geld für die
+<ce> Raureif-Wurzel.
 
 Message:  1016
-Danke, %pcn. Ich werde die Raureif-Wurzel
-benutzen. Ich kann Euch nicht genug danken.
-Ich hoffe, Ihr werdet eine sichere
-Weiterreise haben.
+<ce> Danke, %pcn. Ich werde die Raureif-Wurzel
+<ce> benutzen. Ich kann Euch nicht genug danken.
+<ce> Ich hoffe, Ihr werdet eine sichere
+<ce> Weiterreise haben.
 
 Message:  1017
 %qdt:
@@ -136,6 +130,6 @@ Message:  1018
  hoffentlich besser von mir.
 
 Message:  1019
-Die Raureif-Wurzel löst sich
-schnell auf, als Ihr sie benutzt.
+<ce> Die Raureif-Wurzel löst sich
+<ce> schnell auf, als Ihr sie benutzt.
 

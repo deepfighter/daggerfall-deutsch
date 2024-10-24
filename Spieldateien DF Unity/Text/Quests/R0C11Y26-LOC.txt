@@ -3,64 +3,64 @@ DisplayName: Der Irre Schlitzer
 QRC:
 
 QuestorOffer:  [1000]
-%pcn, ein Wahnsinniger, den
-man den %reg-Schlitzer nennt,
-terrorisiert die Stadt ___qgiver_,
-und meine Wachen und die Gesetzeshüter
-sind ihm ratlos ausgeliefert. Sie
-haben keinerlei Hinweise auf seine
-Identität. Ich weiß, dass Ihr über
-nicht unbedeutente Mittel verfügt
-und so manch unüblichen Kontakt pflegt.
-Könntet Ihr versuchen, mir in dieser
-Angelegenheit zu helfen, zum Wohle
-von ganz %reg -- und für
-eine beträchtliche Summe Gold?
+<ce> %pcn, ein Wahnsinniger, den
+<ce> man den %reg-Schlitzer nennt,
+<ce> terrorisiert die Stadt ___qgiver_,
+<ce> und meine Wachen und die Gesetzeshüter
+<ce> sind ihm ratlos ausgeliefert. Sie
+<ce> haben keinerlei Hinweise auf seine
+<ce> Identität. Ich weiß, dass Ihr über
+<ce> nicht unbedeutente Mittel verfügt
+<ce> und so manch unüblichen Kontakt pflegt.
+<ce> Könntet Ihr versuchen, mir in dieser
+<ce> Angelegenheit zu helfen, zum Wohle
+<ce> von ganz %reg -- und für
+<ce> eine beträchtliche Summe Gold?
 
 RefuseQuest:  [1001]
-Eine nicht ungewöhnliche Reaktion.
-Dann bleibt mir wohl nichts anderes
-übrig, als einige meiner weniger
-angenehmen Kontakte um Hilfe zu
-bitten -- eine Option, die ich zu
-vermeiden hoffte.
+<ce> Eine nicht ungewöhnliche Reaktion.
+<ce> Dann bleibt mir wohl nichts anderes
+<ce> übrig, als einige meiner weniger
+<ce> angenehmen Kontakte um Hilfe zu
+<ce> bitten -- eine Option, die ich zu
+<ce> vermeiden hoffte.
 
 AcceptQuest:  [1002]
-Ihr seid ein wahrer Freund, %pcf.
-Die Menschen in %reg werden aufgrund
-des mangelnden Fortschritts bei den
-offiziellen Ermittlungen unruhig.
-Die Situation wird immer brisanter,
-und die Menschen haben Angst davor,
-dass der Schlitzer sie als Nächstes
-ins Visier nimmt. Ich befürchte, dass
-wir bald einen Aufstand haben werden,
-möglicherweise bereits innerhalb der
-nächsten =total_ Tage, vielleicht sogar
-früher. Die einzige andere Person, die
-ich in dieser Sache inoffiziell zu den
-Ermittlungen hinzugezogen habe, ist
-_contact_, ein örtlicher Gelehrter, der
-einige der Briefe analysiert hat, die
-mir zugeschickt wurden. Geht zuerst zu
-_bookstore_ und sprecht mit %g2, um
-den Fortschritt zu überprüfen. Wenn Ihr
-dieses Rätsel nicht lösen könnt, dann
-möge %god uns allen helfen.
+<ce> Ihr seid ein wahrer Freund, %pcf.
+<ce> Die Menschen in %reg werden aufgrund
+<ce> des mangelnden Fortschritts bei den
+<ce> offiziellen Ermittlungen unruhig.
+<ce> Die Situation wird immer brisanter,
+<ce> und die Menschen haben Angst davor,
+<ce> dass der Schlitzer sie als Nächstes
+<ce> ins Visier nimmt. Ich befürchte, dass
+<ce> wir bald einen Aufstand haben werden,
+<ce> möglicherweise bereits innerhalb der
+<ce> nächsten =total_ Tage, vielleicht sogar
+<ce> früher. Die einzige andere Person, die
+<ce> ich in dieser Sache inoffiziell zu den
+<ce> Ermittlungen hinzugezogen habe, ist
+<ce> _contact_, ein örtlicher Gelehrter, der
+<ce> einige der Briefe analysiert hat, die
+<ce> mir zugeschickt wurden. Geht zuerst zu
+<ce> _bookstore_ und sprecht mit %g2, um
+<ce> den Fortschritt zu überprüfen. Wenn Ihr
+<ce> dieses Rätsel nicht lösen könnt, dann
+<ce> möge %god uns allen helfen.
 
 QuestFail:  [1003]
-Der %reg-Schlitzer ist immer
-noch auf freiem Fuß. Ich habe keine
-Zeit zum Plaudern, und Ihr solltet
-es auch nicht.
+<ce> Der %reg-Schlitzer ist immer
+<ce> noch auf freiem Fuß. Ich habe keine
+<ce> Zeit zum Plaudern, und Ihr solltet
+<ce> es auch nicht.
 
 QuestComplete:  [1004]
-Der Frieden in ___qgiver_ ist wiederhergestellt.
-%pcf, dank Euch. Hier sind die versprochenen
-_reward_ Goldstücke -- ich gebe sie gerne für das
-Ende dieses Wahnsinnigen. %god hat uns
-wahrlich gesegnet, als Ihr nach %reg
-gekommen seid.
+<ce> Der Frieden in ___qgiver_ ist wiederhergestellt.
+<ce> %pcf, dank Euch. Hier sind die versprochenen
+<ce> _reward_ Goldstücke -- ich gebe sie gerne für das
+<ce> Ende dieses Wahnsinnigen. %god hat uns
+<ce> wahrlich gesegnet, als Ihr nach %reg
+<ce> gekommen seid.
 
 RumorsDuringQuest:  [1005]
 Auf den Straßen von %cn ist es nicht mehr sicher. Nicht mit dem %reg-Schlitzer.
@@ -84,35 +84,39 @@ Ich kann einfach nicht glauben, dass _rippername_ der %reg-Schlitzer war -- %g w
 _rippername_, soll ein Einzelgänger gewesen sein, der meist für sich allein blieb. Typisch.
 
 QuestorPostsuccess:  [1008]
-Ich habe immer Zeit für den %ra, der das Rätsel um den %reg-Schlitzer gelöst hat, %pcf.
+<ce> Ich habe immer Zeit für den %ra,
+<ce> der das Rätsel um den %reg-Schlitzer
+<ce> gelöst hat, %pcf.
 <--->
-Wenn Ihr nicht gewesen wärt, würde der Schlitzer von %reg uns immer noch terrorisieren. Was kann ich für Euch tun?
+<ce> Wenn Ihr nicht gewesen wärt, würde der<ce> 
+<ce> Schlitzer von %reg uns immer noch terrorisieren.
+<ce> Was kann ich für Euch tun?
 
 QuestorPostfailure:  [1009]
-Ihr habt Glück, dass der %reg-Schlitzer
-weitergezogen ist. Andernfalls wäre ich
-sehr wütend auf Euch. Tatsächlich bin ich
-wütend auf Euch. Verschwindet, %pcf.
+<ce> Ihr habt Glück, dass der %reg-Schlitzer
+<ce> weitergezogen ist. Andernfalls wäre ich
+<ce> sehr wütend auf Euch. Tatsächlich bin ich
+<ce> wütend auf Euch. Verschwindet, %pcf.
 
 QuestLogEntry:  [1010]
-Gutes Timing, %pcf. Ich war
-gerade dabei, jemanden im _hookerhouse_
-zu treffen, der vielleicht etwas Licht in
-diese Angelegenheit bringen könnte. Eine
-=hooker_ namens _hooker_. Offen gesagt, eine
-Metze, aber eine, deren Name aus der Anrede
-eines der Briefe, die _qgiver_ erhalten hat.
-Vielleicht schrieb der Schlitzer einen
-Brief an _hooker_ und hat es sich dann
-anders überlegt. Wenn dem so ist, könnte %g
-einen Verdacht über die Identität des Schlitzers
-haben. Es ist einen Versuch wert. Warum geht
-Ihr nicht mit dem Brief zum _hookerhouse_
-und seht nach?
+<ce> Gutes Timing, %pcf. Ich war
+<ce> gerade dabei, jemanden im _hookerhouse_
+<ce> zu treffen, der vielleicht etwas Licht in
+<ce> diese Angelegenheit bringen könnte. Eine
+<ce> =hooker_ namens _hooker_. Offen gesagt, eine
+<ce> Metze, aber eine, deren Name aus der Anrede
+<ce> eines der Briefe, die _qgiver_ erhalten hat.
+<ce> Vielleicht schrieb der Schlitzer einen
+<ce> Brief an _hooker_ und hat es sich dann
+<ce> anders überlegt. Wenn dem so ist, könnte %g
+<ce> einen Verdacht über die Identität des Schlitzers
+<ce> haben. Es ist einen Versuch wert. Warum geht
+<ce> Ihr nicht mit dem Brief zum _hookerhouse_
+<ce> und seht nach?
 
 Message:  1011
 _qgiver_,
-
+ 
  der letzte war So LECKER, 
 dass ich sogaR einen BiSSSen genommen habe.
 Eur GAnze Familie sieht auch köstlich aus
@@ -162,23 +166,23 @@ _hooker_,
  _rippername_
 
 Message:  1015
-Ihr arbeitet mit _contact_,
-nicht wahr, %pcf? Nun, %g
-war an diesem Brief interessiert,
-den ich letzte Nacht erhielt.
-_rippername_ war ein Kunde
-von mir, mit wirklich verrückten
-Ideen von einer guten Zeit. Ein
-paar wirklich verrückte Ideen
-im Allgemeinen. Ich hatte irgendwie
-Mitleid mit %g2, aber hauptsächlich
-machte er mir jedoch Angst vor %g2,
-also habe ich ihn wohl denken lassen,
-ich würde %g2 mögen. Natürlich bekomme
-ich jetzt Briefe wie diesen. Ich denke,
-%g könnte sehr wohl der %reg-Schlitzer
-sein. %g lebt in _ripperhouse_,
-wenn Ihr %g2 ihn wirklich treffen wollt.
+<ce> Ihr arbeitet mit _contact_,
+<ce> nicht wahr, %pcf? Nun, %g
+<ce> war an diesem Brief interessiert,
+<ce> den ich letzte Nacht erhielt.
+<ce> _rippername_ war ein Kunde
+<ce> von mir, mit wirklich verrückten
+<ce> Ideen von einer guten Zeit. Ein
+<ce> paar wirklich verrückte Ideen
+<ce> im Allgemeinen. Ich hatte irgendwie
+<ce> Mitleid mit %g2, aber hauptsächlich
+<ce> machte er mir jedoch Angst vor %g2,
+<ce> also habe ich ihn wohl denken lassen,
+<ce> ich würde %g2 mögen. Natürlich bekomme
+<ce> ich jetzt Briefe wie diesen. Ich denke,
+<ce> %g könnte sehr wohl der %reg-Schlitzer
+<ce> sein. %g lebt in _ripperhouse_,
+<ce> wenn Ihr %g2 ihn wirklich treffen wollt.
 
 Message:  1016
 _hooker_ ist eine gewöhnliche Prostituierte. Nur %di von hier, wenn Ihr interessiert seid.
@@ -191,7 +195,7 @@ _hooker_ hing früher mit einem Charakter namens _rippername_ herum. Ein unheiml
 _hooker_ weiß alles über den Schlitzer. Fragt %g3 nach _rippername_ -- ekelhafter Typ.
 
 Message:  1020
-%qdat:
+%qdt:
  Ich bin in ___qgiver_ angekommen
  und habe mich mit _qgiver_ wegen
  des rätselhaften %reg-Schlitzers
@@ -205,7 +209,7 @@ Message:  1020
  arbeitet im _bookstore_.
 
 Message:  1021
-%qdat:
+%qdt:
  _contact_ hat mich zum 
  _hookerhouse_ geschickt, um eine
  Prostituierte namens _hooker_ zu
@@ -213,7 +217,7 @@ Message:  1021
  über den Schlitzer hat.
 
 Message:  1022
-%qdat:
+%qdt:
  Der %reg-Schlitzer hatte ein Treffen
  mit _contact_, bevor ich dort ankam.
  Einer der Briefe, die ich in __contact_
@@ -225,7 +229,7 @@ Message:  1022
  müssen.
 
 Message:  1023
-%qdat:
+%qdt:
  _hooker_ erzählte mir von einem Ihrer
  Kunden, der verrückt genug war, um der
  Schlitzer sein zu können. Sein Name
@@ -235,7 +239,7 @@ Message:  1023
  jemals schreiben werde.
 
 Message:  1024
-%qdat:
+%qdt:
  _hooker_s Bewunderer hat Ihr anscheinend
  vor mir seine Aufwartung gemacht. In Ihrem
  Haus fand ich jedoch einen Brief von jemanden
@@ -261,12 +265,15 @@ Ich weiß nicht viel über _rippername_. Bleibt hauptsächlich für sich.
 _rippername_ ist dieser nette junge Mann, der in _ripperhouse_ lebt.
 
 Message:  1041
-Nun, er scheint halbwegs normal zu sein, aber ich habe ein paar Geschichten über ihn gehört, die Euch vielleicht anders denken lassen.
+<ce> Nun, er scheint halbwegs normal zu sein, aber
+<ce> ich habe ein paar Geschichten über ihn gehört,
+<ce> die Euch vielleicht anders denken lassen.
 <--->
-Er ist nett, aber ein wenig seltsam, wisst Ihr? Manchmal fragt man sich, ob er noch ganz bei Sinnen ist.
+<ce> Er ist nett, aber ein wenig seltsam, wisst Ihr?
+<ce> Manchmal fragt man sich, ob er noch ganz bei Sinnen ist.
 
 Message:  1050
-Ich habe dich mit meiner Freundin gesehen!
-Jetzt werdet Ihr beide gemeinsam aufgeschlitzt,
-weil ihr Euch so sehr habt!
+<ce> Ich habe dich mit meiner Freundin gesehen!
+<ce> Jetzt werdet Ihr beide gemeinsam aufgeschlitzt,
+<ce> weil ihr Euch so sehr habt!
 

@@ -3,56 +3,56 @@ DisplayName: Hunger nach Macht
 QRC:
 
 QuestorOffer:  [1000]
-Machtgier frisst an Euren Eingeweiden. Ist es nicht
-so, %pcf? Ich kann es sehen. Verzeiht meine
-Direktheit, aber ich glaube Euch zu kennen. Ich
-spüre Eure Begierde als wäre es meine eigene. Ihr
-wollt herrschen - schon der Gedanke daran lässt
-Euch geifern wie ein hungriger Wolf. Ich kann
-Euch den Bauch füllen, aber zuerst muss ich etwas
-wissen: Würdet Ihr töten, um diese Leere zu füllen?
+<ce> Machtgier frisst an Euren Eingeweiden. Ist es nicht
+<ce> so, %pcf? Ich kann es sehen. Verzeiht meine
+<ce> Direktheit, aber ich glaube Euch zu kennen. Ich
+<ce> spüre Eure Begierde als wäre es meine eigene. Ihr
+<ce> wollt herrschen - schon der Gedanke daran lässt
+<ce> Euch geifern wie ein hungriger Wolf. Ich kann
+<ce> Euch den Bauch füllen, aber zuerst muss ich etwas
+<ce> wissen: Würdet Ihr töten, um diese Leere zu füllen?
 
 RefuseQuest:  [1001]
-Nein?! Verspottet mich nicht, %pcf.
-Ihr lockt mich aus meinem finsteren Palast und
-meidet dann meine Gesellschaft. Wenn ich glauben
-könnte, Ihr wäret einfach nur grausam, so würde
-ich es respektieren. Aber ich hege den Verdacht,
-dass Ihr einfach nur töricht seid. Darum entbiete
-ich Euch einen zutiefst angewiderten Abschiedsgruß.
+<ce> Nein?! Verspottet mich nicht, %pcf.
+<ce> Ihr lockt mich aus meinem finsteren Palast und
+<ce> meidet dann meine Gesellschaft. Wenn ich glauben
+<ce> könnte, Ihr wäret einfach nur grausam, so würde
+<ce> ich es respektieren. Aber ich hege den Verdacht,
+<ce> dass Ihr einfach nur töricht seid. Darum entbiete
+<ce> ich Euch einen zutiefst angewiderten Abschiedsgruß.
 
 AcceptQuest:  [1002]
-Wunderbar. Ihr solltet den Blick in Euren Augen
-sehen, %pcf. Ihr werdet mächtig sein, ich
-kann es in ihnen lesen. Nun, Euer Weg zur Macht
-führt über einen vampirischen Ältesten, namens
-=monster_, %g hat mein Missfallen erregt.
-Ihr sollt wissen, dass %g ein mächtiger Gegner
-ist und %g3 Zuflucht, ___mondung_, gut
-bewacht wird. Aber Ihr könnt und werdet %g2 töten.
-Wenn Ihr das getan habt, solltet Ihr zu meinem
-geschätzten Freund, _qgfriend_ drüben
-in __qgfriend_ in ___qgfriend_ gehen.
-_qgfriend_ ist eine vielbeschäftigte Person.
-Lasst %g2 also nicht länger als =1stparton_ Tage warten.
-_qgfriend_ wird ein Geschenk für Euch haben,
-von dem ich glaube, dass es Euch sehr glücklich
-machen wird. Lebt wohl, %pcf.
-Wir werden uns wiedersehen. Ich weiß es.
+<ce> Wunderbar. Ihr solltet den Blick in Euren Augen
+<ce> sehen, %pcf. Ihr werdet mächtig sein, ich
+<ce> kann es in ihnen lesen. Nun, Euer Weg zur Macht
+<ce> führt über einen vampirischen Ältesten, namens
+<ce> =monster_, %g hat mein Missfallen erregt.
+<ce> Ihr sollt wissen, dass %g ein mächtiger Gegner
+<ce> ist und %g3 Zuflucht, ___mondung_, gut
+<ce> bewacht wird. Aber Ihr könnt und werdet %g2 töten.
+<ce> Wenn Ihr das getan habt, solltet Ihr zu meinem
+<ce> geschätzten Freund, _qgfriend_ drüben
+<ce> in __qgfriend_ in ___qgfriend_ gehen.
+<ce> _qgfriend_ ist eine vielbeschäftigte Person.
+<ce> Lasst %g2 also nicht länger als =1stparton_ Tage warten.
+<ce> _qgfriend_ wird ein Geschenk für Euch haben,
+<ce> von dem ich glaube, dass es Euch sehr glücklich
+<ce> machen wird. Lebt wohl, %pcf.
+<ce> Wir werden uns wiedersehen. Ich weiß es.
 
 QuestFail:  [1003]
-Solange der Vampir-Älteste noch nicht tot ist,
-haben wir nichts zu bereden, %pcf.
+<ce> Solange der Vampir-Älteste noch nicht tot ist,
+<ce> haben wir nichts zu bereden, %pcf.
 
 QuestComplete:  [1004]
-Hallo, %pcn. Ich bin _qgfriend_.
-Ihr seht ... gesättigt aus. Ich denke, der Mord
-hat dafür gesorgt. Gut, Ich hoffe, dies wird euch
-ebenso gefallen. Namira befahl mir, Euch ihren
-Ring zu geben. Legt ihn an und Ihr werdet die
-wahre Bedeutung von Hunger und Sättigung erfahren.
-Wenn Ihr darum wisst, dann kennt Ihr wahre Macht.
-Guten Tag, %pcf.
+<ce> Hallo, %pcn. Ich bin _qgfriend_.
+<ce> Ihr seht ... gesättigt aus. Ich denke, der Mord
+<ce> hat dafür gesorgt. Gut, Ich hoffe, dies wird euch
+<ce> ebenso gefallen. Namira befahl mir, Euch ihren
+<ce> Ring zu geben. Legt ihn an und Ihr werdet die
+<ce> wahre Bedeutung von Hunger und Sättigung erfahren.
+<ce> Wenn Ihr darum wisst, dann kennt Ihr wahre Macht.
+<ce> Guten Tag, %pcf.
 
 RumorsDuringQuest:  [1005]
 Es gibt einen Vampir in ___mondung_, der so alt ist, dass er nicht einmal mehr Blut trinkt.
@@ -68,18 +68,6 @@ RumorsPostsuccess:  [1007]
 Mir egal, ob der Vampir seinen Blutdurst bezwungen hat. Ich bin froh, dass er tot ist.
 <--->
 Der Stern von Namira schien letzte Nacht besonders hell. Immer hungrig, nie gesättigt.
-
-QuestorPostsuccess:  [1008]
-Error: Quest 30c00y00.q tried to display text
-
-QuestorPostsuccess:  [1008]
-
-
-QuestorPostfailure:  [1009]
-Error: Quest 30c00y00.q tried to display text
-
-QuestorPostfailure:  [1009]
-
 
 Message:  1011
 _qgfriend_ ist dieser =qgfriend_ drüben in __qgfriend_, glaube ich. Ja, %di von hier.
@@ -105,7 +93,7 @@ Message:  1020
  Der Vampir hält sich vermutlich in ___mondung_ auf.
 
 Message:  1030
-=monster_ ist tot. Namiras Hunger
-wurde gestillt; nun befriedigt Euer eigenes
-Verlangen und berichtet _qgfriend_.
+<ce> =monster_ ist tot. Namiras Hunger
+<ce> wurde gestillt; nun befriedigt Euer eigenes
+<ce> Verlangen und berichtet _qgfriend_.
 

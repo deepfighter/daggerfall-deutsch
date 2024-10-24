@@ -3,72 +3,72 @@ DisplayName: Der Bote
 QRC:
 
 QuestorOffer:  [1000]
-Mein Name ist _questgiver_. 
-Ich habe ein bescheidenes Anliegen. 
-Solltet Ihr es vermögen, einen Gegenstand
-zu einem meiner Freunde zu überbringen, so
-wäre Euch meine unermessliche Dankbarkeit,
-in der Höhe von _gold_ Goldstücken, gewiss.
-Was sagt Ihr dazu, %pcf?
+<ce> Mein Name ist _questgiver_. 
+<ce> Ich habe ein bescheidenes Anliegen. 
+<ce> Solltet Ihr es vermögen, einen Gegenstand
+<ce> zu einem meiner Freunde zu überbringen, so
+<ce> wäre Euch meine unermessliche Dankbarkeit,
+<ce> in der Höhe von _gold_ Goldstücken, gewiss.
+<ce> Was sagt Ihr dazu, %pcf?
 <--->
-Seid gegrüßt, ich bin _questgiver_. 
-Ich benötige jemanden, der mir die Gunst
-erweist, ein Paket für mich auszuliefern.
-Es handelt sich um einen kurzen Weg zum
-anderen Ende der Stadt, doch bin ich derzeit
-zu sehr in Geschäfte vertieft. Für Eure
-Mühen würden _gold_ Goldstücke auf Euch warten.
+<ce> Seid gegrüßt, ich bin _questgiver_. 
+<ce> Ich benötige jemanden, der mir die Gunst
+<ce> erweist, ein Paket für mich auszuliefern.
+<ce> Es handelt sich um einen kurzen Weg zum
+<ce> anderen Ende der Stadt, doch bin ich derzeit
+<ce> zu sehr in Geschäfte vertieft. Für Eure
+<ce> Mühen würden _gold_ Goldstücke auf Euch warten.
 
 RefuseQuest:  [1001]
-Wie bedauerlich.
+<ce> Wie bedauerlich.
 <--->
-Seid deswegen nicht gleich so hochmütig!
+<ce> Seid deswegen nicht gleich so hochmütig!
 <--->
-Es scheint, ich werde wohl jemanden finden
-müssen, der bereit ist, für seinen Lohn zu
-arbeiten.
+<ce> Es scheint, ich werde wohl jemanden finden
+<ce> müssen, der bereit ist, für seinen Lohn zu
+<ce> arbeiten.
 
 AcceptQuest:  [1002]
-Hervorragend! Hier ist das Paket.
-Bringt es zu _pickuplocal_,
-hier in der Stadt. %g wird Euch
-entlohnen. Es muss bis zur nächsten
-Stunde des morgigen Tages dort
-angelangt sein.
+<ce> Hervorragend! Hier ist das Paket.
+<ce> Bringt es zu _pickuplocal_,
+<ce> hier in der Stadt. %g wird Euch
+<ce> entlohnen. Es muss bis zur nächsten
+<ce> Stunde des morgigen Tages dort
+<ce> angelangt sein.
 <--->
-Endlich, jemand, der sich nicht scheut,
-für seinen Lebensunterhalt zu arbeiten. 
-Bringt dies einfach zu _pickuplocal_, 
-hier in der Stadt. %g wird Euch die 
-_gold_ Goldstücke übergeben. Das Paket 
-sollte %g2 bis spätestens zur nächsten
-Stunde des morgigen Tages erreichen.
+<ce> Endlich, jemand, der sich nicht scheut,
+<ce> für seinen Lebensunterhalt zu arbeiten. 
+<ce> Bringt dies einfach zu _pickuplocal_, 
+<ce> hier in der Stadt. %g wird Euch die 
+<ce> _gold_ Goldstücke übergeben. Das Paket 
+<ce> sollte %g2 bis spätestens zur nächsten
+<ce> Stunde des morgigen Tages erreichen.
 
 QuestComplete:  [1004]
-Ich hatte gehofft, dass _questgiver_ 
-es vermag, dieses Paket rechtzeitig 
-zu mir zu bringen. %g war in letzter Zeit
-so beschäftigt. Hier sind die _gold_ Goldstücke, 
-die %g Euch versprochen hat.
+<ce> Ich hatte gehofft, dass _questgiver_ 
+<ce> es vermag, dieses Paket rechtzeitig 
+<ce> zu mir zu bringen. %g war in letzter Zeit
+<ce> so beschäftigt. Hier sind die _gold_ Goldstücke, 
+<ce> die %g Euch versprochen hat.
 
 RumorsDuringQuest:  [1005]
-Das Wetter ist zu dieser Jahreszeit meistens mies.
+<ce> Das Wetter ist zu dieser Jahreszeit meistens mies.
 
 RumorsPostfailure:  [1006]
-Man sagt, die Königin habe eine Affäre!
+<ce> Man sagt, die Königin habe eine Affäre!
 
 RumorsPostsuccess:  [1007]
-Seid Ihr %ra-Leute immer so neugierig?
+<ce> Seid Ihr %ra-Leute immer so neugierig?
 
 QuestorPostsuccess:  [1008]
-Habt Dank, dass Ihr dieses Paket für
-mich ausgeliefert habt, %pcf.
+<ce> Habt Dank, dass Ihr dieses Paket für
+<ce> mich ausgeliefert habt, %pcf.
 
 QuestorPostfailure:  [1009]
-Dieb! Ihr habt mein Paket entwendet 
-und _pickuplocal_ hat es niemals
-erhalten. Ihr werdet auf meine Gunst
-vergeblich hoffen.
+<ce> Dieb! Ihr habt mein Paket entwendet 
+<ce> und _pickuplocal_ hat es niemals
+<ce> erhalten. Ihr werdet auf meine Gunst
+<ce> vergeblich hoffen.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -80,62 +80,62 @@ QuestLogEntry:  [1010]
  Stunde des morgigen Tages.
 
 Message:  1011
-Dieses Buch besitzt großen sentimentalen
-Wert. _pickuplocal_ hat seit
-Jahren kein Exemplar von _book_
-gesehen.
+<ce> Dieses Buch besitzt großen sentimentalen
+<ce> Wert. _pickuplocal_ hat seit
+<ce> Jahren kein Exemplar von _book_
+<ce> gesehen.
 
 Message:  1012
-_pickuplocal_ bedarf
-dieser _ingredient_
-für ein spezielles Gebräu,
-das %g zubereitet.
+<ce> _pickuplocal_ bedarf
+<ce> dieser _ingredient_
+<ce> für ein spezielles Gebräu,
+<ce> das %g zubereitet.
 
 Message:  1013
-Dieses _jewelry_ ist ein
-Geschenk für _pickuplocal_,
-das unser beider Vereinbarung
-besiegeln wird.
+<ce> Dieses _jewelry_ ist ein
+<ce> Geschenk für _pickuplocal_,
+<ce> das unser beider Vereinbarung
+<ce> besiegeln wird.
 
 Message:  1014
-Dies ist eine besondere _mensclothing_,
-die meine Mutter für _pickuplocal_
-für die Feierlichkeit gefertigt hat.
+<ce> Dies ist eine besondere _mensclothing_,
+<ce> die meine Mutter für _pickuplocal_
+<ce> für die Feierlichkeit gefertigt hat.
 
 Message:  1015
-_pickuplocal_ hat dieses
-_painting_ in Auftrag gegeben.
-Es muss bei der Versammlung anwesend
-sein, die %g morgen veranstaltet.
+<ce> _pickuplocal_ hat dieses
+<ce> _painting_ in Auftrag gegeben.
+<ce> Es muss bei der Versammlung anwesend
+<ce> sein, die %g morgen veranstaltet.
 
 Message:  1016
-_pickuplocal_ benötigt
-diese _potion_ so bald
-als möglich.
+<ce> _pickuplocal_ benötigt
+<ce> diese _potion_ so bald
+<ce> als möglich.
 
 Message:  1017
-_pickuplocal_ ist
-bedroht worden. Diese
-_weapon_ soll %g2 beruhigen.
+<ce> _pickuplocal_ ist
+<ce> bedroht worden. Diese
+<ce> _weapon_ soll %g2 beruhigen.
 
 Message:  1018
-Ich habe diese feine _womensclothing_ 
-für _pickuplocal_s Hochzeit erworben. 
-Es wäre äußerst beschämend, wenn er 
-nicht rechtzeitig dort ankäme.
+<ce> Ich habe diese feine _womensclothing_ 
+<ce> für _pickuplocal_s Hochzeit erworben. 
+<ce> Es wäre äußerst beschämend, wenn er 
+<ce> nicht rechtzeitig dort ankäme.
 
 Message:  1019
-Was begehrt Ihr? _questgiver_? 
-Ja, %g hat versprochen, mir heute 
-ein Paket zukommen zu lassen. Wenn
-Ihr sogleich aufbrecht und %g2 findet,
-mag %g Euch wohlmöglich sogar entlohnen,
-es mir zu bringen.
+<ce> Was begehrt Ihr? _questgiver_? 
+<ce> Ja, %g hat versprochen, mir heute 
+<ce> ein Paket zukommen zu lassen. Wenn
+<ce> Ihr sogleich aufbrecht und %g2 findet,
+<ce> mag %g Euch wohlmöglich sogar entlohnen,
+<ce> es mir zu bringen.
 
 Message:  1020
-Ich habe zufällig vernommen, als 
-_questgiver_ Euch anbot, 
-Euch zu bezahlen, um dieses Paket 
-auszuliefern. Gebt es mir einfach 
-und ich werde Euch nicht schaden.
+<ce> Ich habe zufällig vernommen, als 
+<ce> _questgiver_ Euch anbot, 
+<ce> Euch zu bezahlen, um dieses Paket 
+<ce> auszuliefern. Gebt es mir einfach 
+<ce> und ich werde Euch nicht schaden.
 

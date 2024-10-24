@@ -3,35 +3,35 @@ DisplayName: Botengang
 QRC:
 
 QuestorOffer:  [1000]
-Gesegnet seid Ihr, %pcn,
-obwohl Ihr ein Heide seid und
-nicht unserem Tempel angehört.
-Ich bin _qgiver_. Ihr wünscht
-also, dass __qgiver_ Euch
-einen Gefallen erweist? Bringt dieses
-_religitem_ innerhalb von =traveltime_ Tagen
-zu ___priest_ und ich werde wohlwollend
-über Euch sprechen.
+<ce> Gesegnet seid Ihr, %pcn,
+<ce> obwohl Ihr ein Heide seid und
+<ce> nicht unserem Tempel angehört.
+<ce> Ich bin _qgiver_. Ihr wünscht
+<ce> also, dass __qgiver_ Euch
+<ce> einen Gefallen erweist? Bringt dieses
+<ce> _religitem_ innerhalb von =traveltime_ Tagen
+<ce> zu ___priest_ und ich werde wohlwollend
+<ce> über Euch sprechen.
 
 RefuseQuest:  [1001]
-Euer eigener Verlust. Fragt auf
-absehbare Zeit in diesem Tempel
-nicht nach einem Gefallen. %pcn.
+<ce> Euer eigener Verlust. Fragt auf
+<ce> absehbare Zeit in diesem Tempel
+<ce> nicht nach einem Gefallen. %pcn.
 
 AcceptQuest:  [1002]
-Hier habt Ihr _religitem_.
-Bringt es _priest_ in __priest_
-in der Provinz ___priest_.
-Oh, ich hätte beinahe vergessen
-zu erwähnen, dass ein
-rivalisierender Tempel seine
-Schergen schicken könnte,
-um Euch aufzuhalten.
+<ce> Hier habt Ihr _religitem_.
+<ce> Bringt es _priest_ in __priest_
+<ce> in der Provinz ___priest_.
+<ce> Oh, ich hätte beinahe vergessen
+<ce> zu erwähnen, dass ein
+<ce> rivalisierender Tempel seine
+<ce> Schergen schicken könnte,
+<ce> um Euch aufzuhalten.
 
 QuestComplete:  [1004]
-Mögen die Götter Euch bevorzugen,
-%pcn. Dieses _religitem_
-wird hier dringend benötigt.
+<ce> Mögen die Götter Euch bevorzugen,
+<ce> %pcn. Dieses _religitem_
+<ce> wird hier dringend benötigt.
 
 RumorsDuringQuest:  [1005]
 Zwei Tempel streiten sich um _religitem_.
@@ -58,9 +58,9 @@ QuestLogEntry:  [1010]
  =traveltime_ Tagen ankommen.
 
 Message:  1011
-Dieses _religitem_ wird
-niemals bei __priest
-ankommen. Stattdessen
-sollte ich denen Euren
-Kopf überreichen!
+<ce> Dieses _religitem_ wird
+<ce> niemals bei __priest
+<ce> ankommen. Stattdessen
+<ce> sollte ich denen Euren
+<ce> Kopf überreichen!
 

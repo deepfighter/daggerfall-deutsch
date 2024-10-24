@@ -3,42 +3,42 @@ DisplayName: Hintergrundinformationen
 QRC:
 
 QuestorOffer:  [1000]
-Seid Ihr nicht %pcn, jener wackere %ra,
-welcher Schiffbruch erlitten hat, oder?
+<ce> Seid Ihr nicht %pcn, jener wackere %ra,
+<ce> welcher Schiffbruch erlitten hat, oder?
 
 RefuseQuest:  [1001]
-Das ist seltsam. Ihr seht genau wie
-%pcn aus. Nun ja, sei's drum.
+<ce> Das ist seltsam. Ihr seht genau wie
+<ce> %pcn aus. Nun ja, sei's drum.
 
 AcceptQuest:  [1002]
-Wie ich es mir dachte. Dieser Sturm, der Euer Schiff
-zerstörte, war keineswegs natürlichen Ursprungs, doch
-ich vermute, dies habt Ihr bereits geahnt. Ich bin
-bereit, Euch alles zu erzählen, was ich darüber weiß,
-sofern Ihr im Gegenzug eine äußerst seltene
-Schriftrolle für mich beschafft. Dies ist keine
-Aufgabe, die ich der Kriegergilde überlassen würde,
-da die Schriftrolle von mächtigen Daedra bewacht wird
-und die Fähigkeit besitzt, Kreaturen aus den Ebenen
-des Reichs des Vergessens heraufzubeschwören. Begebt
-Euch nach ___mondung_, findet die
-Schriftrolle und bringt sie mir, bevor =queston_ Tage
-verstrichen sind. Dann werde ich Euch alles erzählen,
-was ich über den Sturm weiß, der Euch beinahe das
-Leben gekostet hätte.
+<ce> Wie ich es mir dachte. Dieser Sturm, der Euer Schiff
+<ce> zerstörte, war keineswegs natürlichen Ursprungs, doch
+<ce> ich vermute, dies habt Ihr bereits geahnt. Ich bin
+<ce> bereit, Euch alles zu erzählen, was ich darüber weiß,
+<ce> sofern Ihr im Gegenzug eine äußerst seltene
+<ce> Schriftrolle für mich beschafft. Dies ist keine
+<ce> Aufgabe, die ich der Kriegergilde überlassen würde,
+<ce> da die Schriftrolle von mächtigen Daedra bewacht wird
+<ce> und die Fähigkeit besitzt, Kreaturen aus den Ebenen
+<ce> des Reichs des Vergessens heraufzubeschwören. Begebt
+<ce> Euch nach ___mondung_, findet die
+<ce> Schriftrolle und bringt sie mir, bevor =queston_ Tage
+<ce> verstrichen sind. Dann werde ich Euch alles erzählen,
+<ce> was ich über den Sturm weiß, der Euch beinahe das
+<ce> Leben gekostet hätte.
 
 QuestComplete:  [1004]
-Ah, die Bothdorji-Schriftrolle. Sehr gut. Nun, lasst
-mich erzählen, was ich über diesen Sturm weiß. Ihr
-habt die Kaiserstadt auf einem nicht gekennzeichneten
-Schiff verlassen, doch Eure Identität, Eure Mission
-und Euer Schutzherr bleiben jenen mit aufmerksamen
-Augen und Ohren nicht lange verborgen. Ein
-unbekannter Agent überzeugte die verrückte Hexe der
-Wrothgarischen Berge, die Großmutter des derzeitigen
-Königs von Dolchsturz, dass der Mörder ihres Sohnes,
-des kürzlich verstorbenen Königs Lysandus, sich auf
-Eurem Schiff befinde. Mehr kann ich Euch nicht sagen.
+<ce> Ah, die Bothdorji-Schriftrolle. Sehr gut. Nun, lasst
+<ce> mich erzählen, was ich über diesen Sturm weiß. Ihr
+<ce> habt die Kaiserstadt auf einem nicht gekennzeichneten
+<ce> Schiff verlassen, doch Eure Identität, Eure Mission
+<ce> und Euer Schutzherr bleiben jenen mit aufmerksamen
+<ce> Augen und Ohren nicht lange verborgen. Ein
+<ce> unbekannter Agent überzeugte die verrückte Hexe der
+<ce> Wrothgarischen Berge, die Großmutter des derzeitigen
+<ce> Königs von Dolchsturz, dass der Mörder ihres Sohnes,
+<ce> des kürzlich verstorbenen Königs Lysandus, sich auf
+<ce> Eurem Schiff befinde. Mehr kann ich Euch nicht sagen.
 
 RumorsDuringQuest:  [1005]
 Ich habe mir neulich ein Geschwür eingefangen ... aber es ist verheilt.
@@ -107,9 +107,9 @@ QuestorPostsuccess:  [1008]
 Wie könnte ich jemals vergessen, dass Ihr mir die Bothdorji-Schriftrolle gebracht habt, %pcf?
 
 QuestorPostfailure:  [1009]
-Ich sehe keinen Grund, weshalb ich überhaupt
-mit Euch  sprechen sollte, %pcf. Ihr habt
-mir die Bothdorji-Schriftrolle nicht gebracht.
+<ce> Ich sehe keinen Grund, weshalb ich überhaupt
+<ce> mit Euch sprechen sollte, %pcf. Ihr habt
+<ce> mir die Bothdorji-Schriftrolle nicht gebracht.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -130,10 +130,10 @@ Bothdorji Schriftrolle
  Weißglühender Dunst weht vom Schleier des Vergessens
  Und durchbrochen ist die Linie, die trennte
  Erwacht sind die schlaflosen, untätigen Prinzen
- Und gebieten ihren beständigen Dienern sich zu  erheben
+ Und gebieten ihren beständigen Dienern sich zu erheben
  In dieser Nacht, wenn Frost zu brennen beginnt
  Eine Flamme den beleuchteten See gefrieren lässt
- Wenn Wolken von Fledermäusen die Wolken von Vögeln  verschlingen
+ Wenn Wolken von Fledermäusen die Wolken von Vögeln verschlingen
  Wenn Geschwüre und Schmerzen die Reichen peinigen
  Wenn ein geflügelter Knabe das Land verflucht
  Und altbekannte Lügen mir im Halse stecken bleiben
@@ -143,19 +143,19 @@ Bothdorji Schriftrolle
  Werdet ihr mir folgen, ihr Diener der Dunkelheit 
 
 Message:  1012
-Ihr habt die gesuchte Schriftrolle gefunden,
-die _qgiver_ begehrt.
+<ce> Ihr habt die gesuchte Schriftrolle gefunden,
+<ce> die _qgiver_ begehrt.
 
 Message:  1013
-Ihr nehmt einen leichten Hauch ranzigen Rauchs wahr
-und bemerkt sogleich, dass die Schriftrolle, welche
-_qgiver_ wollte, verschwunden ist.
+<ce> Ihr nehmt einen leichten Hauch ranzigen Rauchs wahr
+<ce> und bemerkt sogleich, dass die Schriftrolle, welche
+<ce> _qgiver_ wollte, verschwunden ist.
 
 Message:  1014
-Ihr habt mich gerufen, %pcf.
-Und verweigert Ihr meine Umarmung?
+<ce>Ihr habt mich gerufen, %pcf.
+<ce>Und verweigert Ihr meine Umarmung?
 
 Message:  1015
-Ein Feuerstoß entströmt der Schriftrolle
-und formt eine lodernde Kreatur.
+<ce>Ein Feuerstoß entströmt der Schriftrolle
+<ce>und formt eine lodernde Kreatur.
 

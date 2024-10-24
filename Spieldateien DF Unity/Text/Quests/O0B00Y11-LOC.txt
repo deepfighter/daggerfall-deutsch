@@ -3,36 +3,36 @@ DisplayName: Antikes Elfenbein
 QRC:
 
 QuestorOffer:  [1000]
-%pcf, ein einfaches Spiel.
-Ein Gegenstand in einem Haus,
-das gehoben werden muss.
-Seid Ihr bereit, es anzugehen?
+<ce> %pcf, ein einfaches Spiel.
+<ce> Ein Gegenstand in einem Haus,
+<ce> das gehoben werden muss.
+<ce> Seid Ihr bereit, es anzugehen?
 
 RefuseQuest:  [1001]
-Mit solch einer Haltung wirst
-du in der Diebesgilde weit kommen,
-sicher doch.
+<ce> Mit solch einer Haltung wirst
+<ce> du in der Diebesgilde weit kommen,
+<ce> sicher doch.
 
 AcceptQuest:  [1002]
-Das ist die richtige Einstellung.
-Wie ich sagte, nichts Kompliziertes
-an dieser Aufgabe. Ein Kunde begehrt
-ein altes Stück Elfenbein, welches
-zurzeit in _target_ hier
-in __target_ weilt. Ihr
-habt zwei Tage, um es mir zu bringen,
-für eine Finderlohn von _reward_ Gold.
+<ce> Das ist die richtige Einstellung.
+<ce> Wie ich sagte, nichts Kompliziertes
+<ce> an dieser Aufgabe. Ein Kunde begehrt
+<ce> ein altes Stück Elfenbein, welches
+<ce> zurzeit in _target_ hier
+<ce> in __target_ weilt. Ihr
+<ce> habt zwei Tage, um es mir zu bringen,
+<ce> für eine Finderlohn von _reward_ Gold.
 
 QuestFail:  [1003]
-Der _heist_? Wo ist er?
+<ce> Der _heist_? Wo ist er?
 
 QuestComplete:  [1004]
-Ausgezeichnete Arbeit, %pcf.
-Genauso mag ich diese Aufträge,
-ohne Hektik und Geschrei. Hier
-ist sind die _reward_ Gold, und
-Glückwunsch zu einem herrvorragend
-erledigten Auftrag.
+<ce> Ausgezeichnete Arbeit, %pcf.
+<ce> Genauso mag ich diese Aufträge,
+<ce> ohne Hektik und Geschrei. Hier
+<ce> ist sind die _reward_ Gold, und
+<ce> Glückwunsch zu einem herrvorragend
+<ce> erledigten Auftrag.
 
 RumorsDuringQuest:  [1005]
 _dummy_ hat, aus irgendeinem Grund, eine Menge zusätzlicher Wachen in _target_ angeheuert.
@@ -47,13 +47,13 @@ alten Elfenbein entkommen, direkt
 unter den Nasen all jener Wachen!
 
 QuestorPostsuccess:  [1008]
-Was kann ich für Euch tun, mein Einbrecherfreund?
+<ce> Was kann ich für Euch tun, mein Einbrecherfreund?
 
 QuestorPostfailure:  [1009]
-Ich kann nicht vergessen, wie Ihr diesen einfachen Raub vermasselt habt.
+<ce> Ich kann nicht vergessen, wie Ihr diesen einfachen Raub vermasselt habt.
 
 Message:  1011
-_target_ wimmelt in diesen Tagen vor angeheuerten Wachen. Ich weiß nicht warum.
+<ce> _target_ wimmelt in diesen Tagen vor angeheuerten Wachen. Ich weiß nicht warum.
 
 Message:  1020
 %qdt:
@@ -74,62 +74,63 @@ Message:  1021
  in __safehouse_ treffen wird.
 
 Message:  1040
-Das sieht aus wie das Stück Elfenbein,
-welches du _questgiver_
-stehlen solltest.
+<ce> Das sieht aus wie das Stück Elfenbein,
+<ce> welches du _questgiver_
+<ce> stehlen solltest.
 
 Message:  1050
-%pcf, was tust du hier?
-Ich weiß nicht, wie Ihr solch
-eine einfache Aufgabe vermasseln
-konntet, aber wenn Ihr Euch und
-das verfluchte Elfenbein nicht
-aus der Stadt bringt, landen wir
-alle im Kerker oder noch schlimmer.
-Mir liegt nichts an deinem Leben,
-aber die Diebesgilde hat einen Ruf
-zu wahren, und wir haben unserem
-Kunden dieses Stück versprochen.
-Geht zu __safehouse_. _contact_
-wird Euch dort im _safehouse_
-treffen. Verpfuscht es nicht noch
-einmal.
+<ce> %pcf, was tust du hier?
+<ce> Ich weiß nicht, wie Ihr solch
+<ce> eine einfache Aufgabe vermasseln
+<ce> konntet, aber wenn Ihr Euch und
+<ce> das verfluchte Elfenbein nicht
+<ce> aus der Stadt bringt, landen wir
+<ce> alle im Kerker oder noch schlimmer.
+<ce> Mir liegt nichts an deinem Leben,
+<ce> aber die Diebesgilde hat einen Ruf
+<ce> zu wahren, und wir haben unserem
+<ce> Kunden dieses Stück versprochen.
+<ce> Geht zu __safehouse_. _contact_
+<ce> wird Euch dort im _safehouse_
+<ce> treffen. Verpfuscht es nicht noch
+<ce> einmal.
 
 Message:  1051
-Nun, wenn das nicht %pcn,
-der Unfähige Einbrecher ist?
-Wenigstens habt Ihr es geschafft,
-das Ding zu holen. Das spricht
-für Eure Muskelkraft, wenn nicht
-für Euren Verstand. Ihr erwartet
-doch nicht wirklich, noch bezahlt
-zu werden, oder?
+<ce> Nun, wenn das nicht %pcn,
+<ce> der Unfähige Einbrecher ist?
+<ce> Wenigstens habt Ihr es geschafft,
+<ce> das Ding zu holen. Das spricht
+<ce> für Eure Muskelkraft, wenn nicht
+<ce> für Euren Verstand. Ihr erwartet
+<ce> doch nicht wirklich, noch bezahlt
+<ce> zu werden, oder?
 
 Message: 1052
-Ihr seid schlauer, als Ihr ausseht. Jetzt lauft, bevor wir uns entscheiden, Euch der __target_ Wache auszuliefern.
+<ce> Ihr seid schlauer, als Ihr ausseht. Jetzt lauft, bevor
+<ce> wir uns entscheiden, Euch der __target_ Wache auszuliefern.
 
 Message: 1053
-Dann müssen wir es Euch eben von
-Eurem toten Körper abnehmen.
+<ce> Dann müssen wir es Euch eben von
+<ce> Eurem toten Körper abnehmen.
 
 Message:  1060
-%oth, Ihr seid ein wilder Hund,
-nicht wahr? Besser, Ihr verschwindet,
-bevor ich Euch wirklich verletzen muss.
+<ce> %oth, Ihr seid ein wilder Hund,
+<ce> nicht wahr? Besser, Ihr verschwindet,
+<ce> bevor ich Euch wirklich verletzen muss.
 
 Message:  1061
-Dieses %ra-Gesindel hat =guard_ getötet!
+<ce> Dieses %ra-Gesindel hat =guard_ getötet!
 
 Message:  1062
-Bewegt Euch nicht, oder ich schneide Euch
-nieder, wo Ihr steht! Gebt uns das Elfenbein,
-das Ihr aus _target_ gestohlen habt,
-und ich lasse Euch gehen.
+<ce> Bewegt Euch nicht, oder ich schneide Euch
+<ce> nieder, wo Ihr steht! Gebt uns das Elfenbein,
+<ce> das Ihr aus _target_ gestohlen habt,
+<ce> und ich lasse Euch gehen.
 
 Message:  1063
-Wir wissen, wie man mit Mörderabschaum wie
-Euch umgeht. =posse_, seid nur
-vorsichtig, dass kein Blut auf _dummy_'s
-Elfenbein gerät, wenn ihr diesem %ra
-die Kehle durchschneidet.
+<ce> Wir wissen, wie man mit Mörderabschaum wie
+<ce> Euch umgeht. =posse_, seid nur
+<ce> vorsichtig, dass kein Blut auf _dummy_'s
+<ce> Elfenbein gerät, wenn ihr diesem %ra
+<ce> die Kehle durchschneidet.
 

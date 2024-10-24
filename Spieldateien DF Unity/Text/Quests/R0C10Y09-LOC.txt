@@ -3,53 +3,53 @@ DisplayName: Der Kuppler
 QRC:
 
 QuestorOffer:  [1000]
-Ja, ich habe durchaus eine Aufgabe
-für einen rüstigen jungen %ra.
-Es ist nichts Besonderes – lediglich
-ein einfacher Botengang, doch er wird
-Euch zusätzliche _reward_ Goldstücke
-einbringen. Interessiert?
+<ce> Ja, ich habe durchaus eine Aufgabe
+<ce> für einen rüstigen jungen %ra.
+<ce> Es ist nichts Besonderes – lediglich
+<ce> ein einfacher Botengang, doch er wird
+<ce> Euch zusätzliche _reward_ Goldstücke
+<ce> einbringen. Interessiert?
 
 RefuseQuest:  [1001]
-%oth, ich vermute, Ihr wolltet
-von mir _reward_ Goldstücke für nichts
-erhalten. Oder vielleicht hofftet Ihr
-auf etwas wirklich Interessantes?
-Nun, darauf müsst Ihr wohl warten,
-%pcf.
+<ce> %oth, ich vermute, Ihr wolltet
+<ce> von mir _reward_ Goldstücke für nichts
+<ce> erhalten. Oder vielleicht hofftet Ihr
+<ce> auf etwas wirklich Interessantes?
+<ce> Nun, darauf müsst Ihr wohl warten,
+<ce> %pcf.
 
 AcceptQuest:  [1002]
-Gut. ich habe einen ... Vermittler in
-meinem Dienst. Unverkennbar aussehend,
-=spy_ mit dem Namen _spy_.
-Nun, _spy_ hat einen besonderen
-_item_ von Interesse für mich gefunden,
-aber die vormaligen Besitzer halten %g2
-irgendwo in __hidingplace_ gefangen.
-Offiziell sind mir die Hände gebunden,
-doch Ihr könntet freundlicherweise
-nach __hidingplace_ gehen, _spy_
-finden, und mir mein _item_ bringen.
-Natürlich, wenn Ihr nicht in =1stparton_ Tagen
-zurück seid, behalte ich Eure Belohnung von
-_reward_ Goldstücken ein. Ich bin sicher,
-Ihr versteht. Nun, Ihr solltet Euch auf
-den Weg machen. Auf Wiedersehen.
+<ce> Gut. ich habe einen ... Vermittler in
+<ce> meinem Dienst. Unverkennbar aussehend,
+<ce> =spy_ mit dem Namen _spy_.
+<ce> Nun, _spy_ hat einen besonderen
+<ce> _item_ von Interesse für mich gefunden,
+<ce> aber die vormaligen Besitzer halten %g2
+<ce> irgendwo in __hidingplace_ gefangen.
+<ce> Offiziell sind mir die Hände gebunden,
+<ce> doch Ihr könntet freundlicherweise
+<ce> nach __hidingplace_ gehen, _spy_
+<ce> finden, und mir mein _item_ bringen.
+<ce> Natürlich, wenn Ihr nicht in =1stparton_ Tagen
+<ce> zurück seid, behalte ich Eure Belohnung von
+<ce> _reward_ Goldstücken ein. Ich bin sicher,
+<ce> Ihr versteht. Nun, Ihr solltet Euch auf
+<ce> den Weg machen. Auf Wiedersehen.
 
 QuestFail:  [1003]
-%pcf, Ihr seid zurück, was
-erfreulich ist, aber ohne _item_,
-was wiederum nicht so erfreulich
-ist. Ist die Aufgabe zu schwer für
-Euch, um sie zu verstehen? Holt mein
-_item_ und bringt es her.
+<ce> %pcf, Ihr seid zurück, was
+<ce> erfreulich ist, aber ohne _item_,
+<ce> was wiederum nicht so erfreulich
+<ce> ist. Ist die Aufgabe zu schwer für
+<ce> Euch, um sie zu verstehen? Holt mein
+<ce> _item_ und bringt es her.
 
 QuestComplete:  [1004]
-Ah, wunderbar. Mein _item_
-wurde prompt mit einem Minimum an
-Zwischenfällen zurückgebracht.
-Sehr gut. Hier sind Eure _reward_ Goldstücke
-als Belohnung.
+<ce> Ah, wunderbar. Mein _item_
+<ce> wurde prompt mit einem Minimum an
+<ce> Zwischenfällen zurückgebracht.
+<ce> Sehr gut. Hier sind Eure _reward_ Goldstücke
+<ce> als Belohnung.
 
 RumorsDuringQuest:  [1005]
 Sie durchkämmen __hidingplace_, auf der Suche nach einem seltenen, gestohlenen _item_.
@@ -72,22 +72,26 @@ Ah, mein junger Champion. Noch immer im Söldnergeschäft, wie ich sehe? Das ist
 Was kann ich für Euch tun, %pcf? Ich habe nicht vergessen, was Ihr für mich getan habt.
 
 QuestorPostfailure:  [1009]
-Ich sehe nicht ein, warum ich für jemandem, der mich so enttäuscht hat, etwas tun sollte, aber fahrt fort.
+<ce> Ich sehe nicht ein, warum ich für jemandem,
+<ce> der mich so enttäuscht hat, etwas tun sollte,
+<ce> aber fahrt fort.
 <--->
-Recht mutig von Euch zurückzukehren, nachdem Ihr es versäumt habt, mein Eigentum wieder zu beschaffen. Ich hasse Mut.
+<ce> Recht mutig von Euch zurückzukehren, nachdem Ihr
+<ce> es versäumt habt, mein Eigentum wieder zu beschaffen.
+<ce> Ich hasse Mut.
 
 QuestLogEntry:  [1010]
-_questgiver_ hat Euch geschickt?
-%oth, als ich Euch kommen hörte,
-fürchtete ich, sie hätten mich schon
-aufgespürt. Ich bin froh, dass Ihr mich
-zuerst gefunden habt, %pcf!
-Hier ist es [_ item_]. Bringt
-es sofort zurück zu _questgiver_
-– %g benötigt ihn in nur wenigen
-Tagen. Und seid vorsichtig – die Agenten
-des ehemaligen Besitzers durchsuchen
-_hidingplace_ nach diesem kleinen Schmuckstück.
+<ce> _questgiver_ hat Euch geschickt?
+<ce> %oth, als ich Euch kommen hörte,
+<ce> fürchtete ich, sie hätten mich schon
+<ce> aufgespürt. Ich bin froh, dass Ihr mich
+<ce> zuerst gefunden habt, %pcf!
+<ce> Hier ist es [_ item_]. Bringt
+<ce> es sofort zurück zu _questgiver_
+<ce> – %g benötigt ihn in nur wenigen
+<ce> Tagen. Und seid vorsichtig – die Agenten
+<ce> des ehemaligen Besitzers durchsuchen
+<ce> _hidingplace_ nach diesem kleinen Schmuckstück.
 
 Message:  1011
 Ich hörte, dass =spy_ %di von hier ist – in der Nähe von _hidingplace_.
@@ -110,8 +114,8 @@ Message:  1015
  _reward_ Goldstücke nicht.
 
 Message:  1020
-Danke für Eure Hilfe, %ra.
-Wir wussten, Ihr würdet uns
-direkt zu _item_ führen.
-Hier ist Eure Bezahlung – der Tod!
+<ce> Danke für Eure Hilfe, %ra.
+<ce> Wir wussten, Ihr würdet uns
+<ce> direkt zu _item_ führen.
+<ce> Hier ist Eure Bezahlung – der Tod!
 

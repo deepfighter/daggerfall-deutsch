@@ -3,35 +3,35 @@ DisplayName: Mehr Orkprobleme
 QRC:
 
 QuestorOffer:  [1000]
-Erlaubt mir, mich vorzustellen. Ich bin
-_qgiver_, ==qgiver_.
-Es sieht so aus, dass sich hier eine Bande
-von Orkbanditen versteckt hält. Wer sie
-auslöschen kann, der erntet den Ruhm von
-%reg. Kann ich auf Euch zählen,
-%pcf? 
+<ce> Erlaubt mir, mich vorzustellen. Ich bin
+<ce> _qgiver_, ==qgiver_.
+<ce> Es sieht so aus, dass sich hier eine Bande
+<ce> von Orkbanditen versteckt hält. Wer sie
+<ce> auslöschen kann, der erntet den Ruhm von
+<ce> %reg. Kann ich auf Euch zählen,
+<ce> %pcf? 
 <--->
-Die Orks ziehen in unser schönes %reg
-und besudeln das Land. Werdet Ihr uns
-bei der Säuberung helfen?
+<ce> Die Orks ziehen in unser schönes %reg
+<ce> und besudeln das Land. Werdet Ihr uns
+<ce> bei der Säuberung helfen?
 
 RefuseQuest:  [1001]
-Ihr seid heute schon meine vierte Absage.
-Als ob niemand mehr Orks bekämpfen will.
+<ce> Ihr seid heute schon meine vierte Absage.
+<ce> Als ob niemand mehr Orks bekämpfen will.
 
 AcceptQuest:  [1002]
-Ihr braucht nicht jeden einzenen Ork der
-Bande zu töten. Einfach eine ordentliche
-Zahl und auf jeden Fall ihren Anführer
-=monster_. Sie sollen in ___dungeon_
-hausen. Wenn Ihr nicht in =2dung_ days zurück seid,
-werde ich Euren Lobpreis auf der Trauerfeier
-anstimmen.
+<ce> Ihr braucht nicht jeden einzenen Ork der
+<ce> Bande zu töten. Einfach eine ordentliche
+<ce> Zahl und auf jeden Fall ihren Anführer
+<ce> =monster_. Sie sollen in ___dungeon_
+<ce> hausen. Wenn Ihr nicht in =2dung_ days zurück seid,
+<ce> werde ich Euren Lobpreis auf der Trauerfeier
+<ce> anstimmen.
 
 QuestComplete:  [1004]
-Gute Vorstellung! Die Händler erzählen mir bereits,
-wie froh sie über das Verschwinden der Orks sind.
-Ihr seid ein Gewinn für den Orden.
+<ce> Gute Vorstellung! Die Händler erzählen mir bereits,
+<ce> wie froh sie über das Verschwinden der Orks sind.
+<ce> Ihr seid ein Gewinn für den Orden.
 
 RumorsDuringQuest:  [1005]
 Die Orks von ___dungeon_ stören die regulären Karawanenrouten.
@@ -59,11 +59,11 @@ QuestLogEntry:  [1010]
  Stellung bezogen hat. Ich muss den
  Anführer erwischen, einen gewissen
  _monster_. Ich sollte in =2dung_ Tagen
- wieder  zurück sein, sonst wird %g
+ wieder zurück sein, sonst wird %g
  mich für tot halten.
 
 Message:  1011
-Ihr habt =monster_ getötet.
-Ohne Anführer werden diese Orks
-kaum mehr als ein Ärgernis sein.
+<ce> Ihr habt =monster_ getötet.
+<ce> Ohne Anführer werden diese Orks
+<ce> kaum mehr als ein Ärgernis sein.
 

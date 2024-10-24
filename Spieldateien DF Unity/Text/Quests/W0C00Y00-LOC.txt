@@ -3,56 +3,55 @@ DisplayName: Skrofulöser Patrizier
 QRC:
 
 QuestorOffer:  [1000]
-Ja, Macht ist ein anspielungsreiches, doch
-eloquentes Ansinnen. Einer meiner Günstlinge
-besitzt ein sehr altes Buch, Oghma Infinium
-genannt, das dem Leser seiner Seiten große
-Macht verleiht. Wenn Ihr einen gewissen
-verkommenen Patrizier beseitigt, der mein
-Missfallen erregt hat, werde ich eine Begegnung
-zwischen Euch und dem Buch in die Wege leiten.
-Könntet Ihr dem zustimmen?
+<ce> Ja, Macht ist ein anspielungsreiches, doch
+<ce> eloquentes Ansinnen. Einer meiner Günstlinge
+<ce> besitzt ein sehr altes Buch, Oghma Infinium
+<ce> genannt, das dem Leser seiner Seiten große
+<ce> Macht verleiht. Wenn Ihr einen gewissen
+<ce> verkommenen Patrizier beseitigt, der mein
+<ce> Missfallen erregt hat, werde ich eine Begegnung
+<ce> zwischen Euch und dem Buch in die Wege leiten.
+<ce> Könntet Ihr dem zustimmen?
 
 RefuseQuest:  [1001]
-Ihr antwortet ablehnend. Soll ich Euch so
-verstehen, dass Ihr nach Macht verlangt
-habt, sie aber umsonst erhalten möchtet?
-Ihr hättet wohl besser nach Weisheit
-streben sollen, denn sie käme Euch mehr
-zustatten. Ich entbiete Euch einen
-enttäuschten Abschiedsgruß.
+<ce> Ihr antwortet ablehnend. Soll ich Euch so
+<ce> verstehen, dass Ihr nach Macht verlangt
+<ce> habt, sie aber umsonst erhalten möchtet?
+<ce> Ihr hättet wohl besser nach Weisheit
+<ce> streben sollen, denn sie käme Euch mehr
+<ce> zustatten. Ich entbiete Euch einen
+<ce> enttäuschten Abschiedsgruß.
 
 AcceptQuest:  [1002]
-Sehr gut. Die illustre Person, auf die ich
-mich bezog, residiert in __palace_.
-Für die Aufzeichnungen ist _enemy_
-der Name Eures Opfers. Tötet %g2 und reist
-nach ___contact_ weiter. Dort wird
-Euch mein Diener _contact_ in einer
-Bibliothek erwarten. Ich denke nicht, dass
-es noch etwas bringen würde, diese
-Unterhaltung fortzusetzen. Enttäuscht
-mich nicht, %pcf, und die
-Macht, nach der Ihr giert, soll Euch gehören.
+<ce> Sehr gut. Die illustre Person, auf die ich
+<ce> mich bezog, residiert in __palace_.
+<ce> Für die Aufzeichnungen ist _enemy_
+<ce> der Name Eures Opfers. Tötet %g2 und reist
+<ce> nach ___contact_ weiter. Dort wird
+<ce> Euch mein Diener _contact_ in einer
+<ce> Bibliothek erwarten. Ich denke nicht, dass
+<ce> es noch etwas bringen würde, diese
+<ce> Unterhaltung fortzusetzen. Enttäuscht
+<ce> mich nicht, %pcf, und die
+<ce> Macht, nach der Ihr giert, soll Euch gehören.
 
 QuestFail:  [1003]
-Hört zu, wenn Ihr %pcf seid,
-dann geht zurück und tötet _enemy_
-noch einmal. Hermaeus Mora sagt mir,
-dass ich Euch das Buch nicht geben soll,
-weil %g noch am Leben ist.
-Tut mir leid, aber so ist es nun einmal.
- 
+<ce> Hört zu, wenn Ihr %pcf seid,
+<ce> dann geht zurück und tötet _enemy_
+<ce> noch einmal. Hermaeus Mora sagt mir,
+<ce> dass ich Euch das Buch nicht geben soll,
+<ce> weil %g noch am Leben ist.
+<ce> Tut mir leid, aber so ist es nun einmal. 
 
 QuestComplete:  [1004]
-Ich habe Euch unterschätzt, %pcf.
-Ich hatte Mora gesagt, Ihr würdet es nicht
-schaffen, aber hier steht Ihr nun und ganz
-%reg befindet sich wegen dem Tod
-von _enemy_ in Aufruhr. Hier ist
-wie versprochen das Buch. Denkt daran,
-Ihr könnt es nur ein einziges Mal lesen.
-Ich sehe Euch später, vielleicht.
+<ce> Ich habe Euch unterschätzt, %pcf.
+<ce> Ich hatte Mora gesagt, Ihr würdet es nicht
+<ce> schaffen, aber hier steht Ihr nun und ganz
+<ce> %reg befindet sich wegen dem Tod
+<ce> von _enemy_ in Aufruhr. Hier ist
+<ce> wie versprochen das Buch. Denkt daran,
+<ce> Ihr könnt es nur ein einziges Mal lesen.
+<ce> Ich sehe Euch später, vielleicht.
 
 RumorsDuringQuest:  [1005]
 Man sagt, _enemy_ hätte all %g3 Macht unmittelbar von den Daedra selbst.
@@ -102,22 +101,22 @@ Hermaeus Mora wird zufrieden sein -
 Ihr habt _enemy_ getötet.
 
 Message:  1035
-Nein! Wartet! Ich schwöre, ich wollte Fürst
-Mora bezahlen. Tötet mich nicht, ich flehe
-Euch an! Hier, verschont mein Leben, und
-bringt ihm diesen _magic_ zurück.
-Als Zeichen meines guten Willens und Anzahlung
-dessen, was ich schulde.
-Ich bitte Euch, nehmt es!
+<ce> Nein! Wartet! Ich schwöre, ich wollte Fürst
+<ce> Mora bezahlen. Tötet mich nicht, ich flehe
+<ce> Euch an! Hier, verschont mein Leben, und
+<ce> bringt ihm diesen _magic_ zurück.
+<ce> Als Zeichen meines guten Willens und Anzahlung
+<ce> dessen, was ich schulde.
+<ce> Ich bitte Euch, nehmt es!
 
 Message:  1040
-Hmm, gut, danke für den _magic_,
-nehme ich an ... Nun aber zurück zum Geschäft.
+<ce> Hmm, gut, danke für den _magic_,
+<ce> nehme ich an ... Nun aber zurück zum Geschäft.
 
 Message:  1045
-Ihr erzählt mir, dass Ihr diesen kleinen Wurm
-habt leben lassen und bringt mir dieses erbärmliche
-_magic_ statt _enemy_s
-Blut an Euren Händen? Hermaeus Mora wird über
-diese Neuigkeit sehr unerfreut sein.
+<ce> Ihr erzählt mir, dass Ihr diesen kleinen Wurm
+<ce> habt leben lassen und bringt mir dieses erbärmliche
+<ce> _magic_ statt _enemy_s
+<ce> Blut an Euren Händen? Hermaeus Mora wird über
+<ce> diese Neuigkeit sehr unerfreut sein.
 

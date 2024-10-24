@@ -33,16 +33,16 @@ AcceptQuest:  [1002]
 Error: Dagtext 1002 Called.
 
 QuestComplete:  [1004]
-Ich bin erfreut, Euch endlich
-kennenzulernen, %pcf.
-Gewiss, ich bin _vampire_.
-Der %vam-Stamm wird
-eine angemessen Verwendung
-für diesen _vamprelic_ finden.
-Glaubt bloß nicht, dass Ihr hierfür
-bezahlt werdet. Es ist schon Ehre
-genug, den %vam auch nur dienen
-zu dürfen.
+<ce> Ich bin erfreut, Euch endlich
+<ce> kennenzulernen, %pcf.
+<ce> Gewiss, ich bin _vampire_.
+<ce> Der %vam Stamm wird
+<ce> eine angemessen Verwendung
+<ce> für diesen _vamprelic_ finden.
+<ce> Glaubt bloß nicht, dass Ihr hierfür
+<ce> bezahlt werdet. Es ist schon Ehre
+<ce> genug, den %vam auch nur dienen
+<ce> zu dürfen.
 
 RumorsDuringQuest:  [1005]
 Die Magiergilde will eine Menge alten, nutzlosen Plunder loswerden, habe ich gehört.
@@ -60,16 +60,17 @@ Letzte Nacht haben die drei Sterne Locandas geleuchtet. Das bedeutet unheilige A
 Die Magiergilde ist ratlos, was diesen Einbruch angeht. Wer würde dieses Ding schon haben wollen?
 
 QuestorPostsuccess:  [1008]
-Grüße, %pcn. Danke nochmal für das _vamprelic_.
+<ce> Grüße, %pcn.
+<ce> Danke nochmal für das _vamprelic_.
 
 QuestorPostfailure:  [1009]
-%pcf, dies ist nicht der
-richtige Zeitpunkt, um die Grenzen
-meiner Geduld auf die Probe zu stellen.
-In meinem Brief bat ich Euch ausdrücklich,
-mir das _vamprelic_ zu bringen,
-aber wo ist es? Schwache Vorstellung,
-%pcf. Sehr schwach.
+<ce> %pcf, dies ist nicht der
+<ce> richtige Zeitpunkt, um die Grenzen
+<ce> meiner Geduld auf die Probe zu stellen.
+<ce> In meinem Brief bat ich Euch ausdrücklich,
+<ce> mir das _vamprelic_ zu bringen,
+<ce> aber wo ist es? Schwache Vorstellung,
+<ce> %pcf. Sehr schwach.
 
 QuestLogEntry:  [1010]
 Eine unheimlich aussehende Person dieses Namens ist %di von hier im __vampire_.

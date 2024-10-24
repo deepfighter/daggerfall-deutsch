@@ -120,7 +120,8 @@ Message:  1030
 <ce> Seite 6
  
 <ce> Wenn Ihr das Spiel noch nicht gespeichert habt, tut dies jetzt.
-<ce> Drückt [Escape] und klickt auf "Spiel speichern". Der Schnell- speichern-Button, der unter Steuerung -> Erweitert definiert ist
+<ce> Drückt [Escape] und klickt auf "Spiel speichern". Der Schnell-
+<ce> speichern-Button, der unter Steuerung -> Erweitert definiert ist
 <ce> (ganz unten im Steuerungsmenü), kann ebenfalls verwendet werden,
 <ce> um zu speichern.
  
@@ -292,8 +293,8 @@ Message:  1055
 <ce> Seite 16
  
 <ce> Die letzte Aufgabe ist es, eine Quest zu finden. Die Quests
-<ce> in Daggerfall sind dynamisch und wählen Orte um Euch herum aus,
-<ce> an denen Dinge geschehen.
+<ce> in Daggerfall sind dynamisch und wählen Orte um Euch herum
+<ce> aus, an denen Dinge geschehen.
  
 <ce> Durch das Erledigen von Quests für Gilden steigt Ihr im Rang
 <ce> bei ihnen auf, was für Euch möglicherweise Priorität hat.
@@ -318,14 +319,14 @@ Message:  1056
 <ce> Ihr könnt auch Quests von zufälligen Bewohnern erhalten.
 <ce> Klickt auf Personen in Gasthäusern, die dazu neigen, Quests
 <ce> zu haben. Ihr könnt sie auch bei Ladenbesitzern mit dem
-<ce> "Sprechen"-Button bekommen. Das Fragen nach "Arbeit?"
-<ce> kann Euch zu möglichen Questgebern führen.
+<ce> "Sprechen"-Button erhalten. Das Fragen nach "Arbeit?"
+<ce> kann Euch ebenfalls zu möglichen Questgebern führen.
  
 <ce> (Nächste Nachricht in 10 Sekunden.
 <ce> Drückt "Nein", um das Tutorial zu beenden.)
- 
+
 Message:  1057
-<ce> Seite 17
+<ce> Seite 18
  
 <ce> Dies ist das Ende des Tutorials. Daggerfall ist ein Spiel
 <ce> mit vielen einzigartigen und komplizierten Mechaniken, daher

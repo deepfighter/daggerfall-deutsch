@@ -3,27 +3,38 @@ DisplayName: Der Preis des Wissens
 QRC:
 
 QuestorOffer:  [1000]
-Wir haben nur eine einzige Regel in der Schule des
-Julianos: Wissen muss geteilt werden. 
+<ce> Wir haben nur eine einzige Regel in der Schule des
+<ce> Julianos: Wissen muss geteilt werden. 
  
-Bedauerlicherweise haben wir ein ehemaliges Mitglied
-unseres Ordens, das diese Regel gebrochen hat und
-dafür bestraft gehört. Wärt Ihr bereit, dieses
-vormalige Mitglied unserer Schule verfolgen und zu
-töten, wenn wir Euch dafür _reward_ Goldstücke
-bieten?
+<ce> Bedauerlicherweise haben wir ein ehemaliges Mitglied
+<ce> unseres Ordens, das diese Regel gebrochen hat und
+<ce> dafür bestraft gehört. Wärt Ihr bereit, dieses
+<ce> vormalige Mitglied unserer Schule verfolgen und zu
+<ce> töten, wenn wir Euch dafür _reward_ Goldstücke
+<ce> bieten?
 
 RefuseQuest:  [1001]
-Enttäuschend. Nun gut, wird werden zweifellos jemand anderen finden.
+<ce> Enttäuschend. Nun gut, wir werden
+<ce> zweifellos jemand anderen finden.
 
 AcceptQuest:  [1002]
-Hervorragend. Es handelt sich um eine Nachtklinge namens =monster_, die für uns verloren ist. =monster_ hat Unterschlupf im Laboratorium ___mondung_ gefunden. Wenn Ihr nicht in =1stparton_ Tagen mit dem Blut der Nachtklinge an Euren Händen wieder zurückgekehrt seid, werden wir annehmen, dass Ihr versagt oder Euch %g2 angeschlossen habt. Dann ist Eure Belohnung an jemanden verwirkt, der nicht scheitern wird. Ich hoffe, ich habe mich klar ausgedrückt. Viel Erfolg und auf Wiedersehen!
+<ce> Hervorragend. Es handelt sich um eine Nachtklinge namens
+<ce> =monster_, die für uns verloren ist.
+<ce> =monster_ hat Unterschlupf im Laboratorium
+<ce> ___mondung_ gefunden. Wenn Ihr nicht in =1stparton_ Tagen
+<ce> mit dem Blut der Nachtklinge an Euren Händen wieder zurückgekehrt
+<ce> seid, werden wir annehmen, dass Ihr versagt oder Euch %g2
+<ce> angeschlossen habt. Dann ist Eure Belohnung an jemanden verwirkt,
+<ce> der nicht scheitern wird. Ich hoffe, ich habe mich klar ausgedrückt.
+<ce> Viel Erfolg und auf Wiedersehen!
 
 QuestFail:  [1003]
 Solange diese Nachtklinge noch lebt, bin ich nicht daran interessiert, über irgendeinen Belang zu plaudern, %pcf.
 
 QuestComplete:  [1004]
-Sehr schön, %pcf. Sehr schön in der Tat. Hier sind die versprochenen _reward_ Goldstücke. Wir sind Euch sehr dankbar.
+<ce> Sehr schön, %pcf. Sehr schön in der Tat.
+<ce> Hier sind die versprochenen _reward_ Goldstücke.
+<ce> Wir sind Euch sehr dankbar.
 
 RumorsDuringQuest:  [1005]
 Ich habe gehört, dass eine Nachtklinge in ___mondung_ Zauber für Geld verkauft.
@@ -41,10 +52,13 @@ Sie haben diese Nachtklinge schließlich doch erwischt. Man kann undiszipliniert
 Schade, dass sie diese Nachtklinge erwischt haben. Es soll dort viele saftige Angebote gegeben haben.
 
 QuestorPostsuccess:  [1008]
-Ihr seid %pcn. Gute Arbeit mit =monster_. Abtrünniger Zauberwirker, wenn Ihr Euch erinnert?
+<ce> Ihr seid %pcn. Gute Arbeit mit =monster_.
+<ce> Abtrünniger Zauberwirker, wenn Ihr Euch erinnert?
 
 QuestorPostfailure:  [1009]
-Hmm. Ihr habt den Auftrag, diesen abtrünnigen Zauberwirker =monster_ zu töten, gründlich verpatzt, nicht wahr?
+<ce> Hmm. Ihr habt den Auftrag, diesen abtrünnigen
+<ce> Zauberwirker =monster_ zu töten,<ce> 
+<ce> gründlich verpatzt, nicht wahr?
 
 Message:  1030
 %qdt:
@@ -56,5 +70,6 @@ Message:  1030
  zu gelangen.
 
 Message:  1031
-Ihr habt =monster_ getötet. Die Schule wird stolz sein.
+<ce> Ihr habt =monster_ getötet.
+<ce> Die Schule wird stolz sein.
 

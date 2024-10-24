@@ -3,30 +3,30 @@ DisplayName: Wertvolle Kunstwerke
 QRC:
 
 QuestorOffer:  [1000]
-Hey da, %pcf!
-Erinnert Ihr Euch an mich,
-_qgiver_? Habt Ihr
-heute Lust auf einen Auftrag
-der Gilde? Ich habe hier etwas,
-das Euch gefallen könnte.
+<ce> Hey da, %pcf!
+<ce> Erinnert Ihr Euch an mich,
+<ce> _qgiver_? Habt Ihr
+<ce> heute Lust auf einen Auftrag
+<ce> der Gilde? Ich habe hier etwas,
+<ce> das Euch gefallen könnte.
 
 RefuseQuest:  [1001]
-Vielleicht beim nächsten Mal.
+<ce> Vielleicht beim nächsten Mal.
 
 AcceptQuest:  [1002]
-So ein reicher Bursche hat vor Kurzem
-ein Gemälde erstanden, für das ich einen
-guten Preis erzielen könnte. Er verwahrt
-es in seinem Anwesen, der _townhouse_
-in __townhouse_. Holt es für mich,
-und Ihr erhaltet _gold_ Goldstücke als Lohn.
-Aber denkt daran, ich brauche es innerhalb
-der nächsten =traveltime_ Tage.
+<ce> So ein reicher Bursche hat vor Kurzem
+<ce> ein Gemälde erstanden, für das ich einen
+<ce> guten Preis erzielen könnte. Er verwahrt
+<ce> es in seinem Anwesen, der _townhouse_
+<ce> in __townhouse_. Holt es für mich,
+<ce> und Ihr erhaltet _gold_ Goldstücke als Lohn.
+<ce> Aber denkt daran, ich brauche es innerhalb
+<ce> der nächsten =traveltime_ Tage.
 
 QuestComplete:  [1004]
-Kaum ein Kratzer dran. Tut mir leid wegen
-der Wache. Wir wussten nicht, dass er eine
-angeheuert hatte. Hier ist Eure Bezahlung.
+<ce> Kaum ein Kratzer dran. Tut mir leid wegen
+<ce> der Wache. Wir wussten nicht, dass er eine
+<ce> angeheuert hatte. Hier ist Eure Bezahlung.
 
 RumorsDuringQuest:  [1005]
 _townhouse_ gleicht wahrhaft einer Kunstgalerie
@@ -66,13 +66,14 @@ _townhouse_ wurde ausgeraubt, obwohl dort so ein stämmiger Wächter postiert wa
 Wer auch immer _townhouse_ ausgeraubt hat, muss genau gewusst haben, was er tut.
 
 QuestorPostsuccess:  [1008]
-Das Gemälde hat einen guten Preis auf dem Schwarzmarkt erzielt, %pcf.
+<ce> Das Gemälde hat einen guten Preis
+<ce> auf dem Schwarzmarkt erzielt, %pcf.
 
 QuestorPostfailure:  [1009]
-Gut, ich sehe Euch, aber ich sehe das Bild
-nicht, das Ihr mir bringen solltet. Warum
-habe ich an jemanden wie Euch überhaupt
-meinen Atem verschwendet?
+<ce> Gut, ich sehe Euch, aber ich sehe das Bild
+<ce> nicht, das Ihr mir bringen solltet. Warum
+<ce> habe ich an jemanden wie Euch überhaupt
+<ce> meinen Atem verschwendet?
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -81,6 +82,6 @@ QuestLogEntry:  [1010]
  dort ein Gemälde aus _townhouse_
  zu stehlen. Er gab mir =traveltime_ Tage Zeit,
  um es zu _qgiver_ in
- __qgiver_ in ___qgiver_
+ der Diebesgilde in ___qgiver_
  zu bringen.
- 
+

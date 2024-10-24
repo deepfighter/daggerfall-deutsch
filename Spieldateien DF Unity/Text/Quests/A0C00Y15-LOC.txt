@@ -3,82 +3,82 @@ DisplayName: Der Kurier
 QRC:
 
 QuestorOffer:  [1000]
-Ich habe von Euch vernommen, %pcn.
-Ich bin _questgiver_. Darf
-ich Euch um eine Gunst ersuchen?
-Führt Euch Eure Reise in absehbarer
-Zeit zufällig nach ___pickupregion_?
-Falls ja, so habe ich hier ein Paket
-und bedarf jemanden, der es dorthin
-trägt. Ich würde Euch mit Freuden
-_gold_ Goldstücke dafür entlohnen.
+<ce> Ich habe von Euch vernommen, %pcn.
+<ce> Ich bin _questgiver_. Darf
+<ce> ich Euch um eine Gunst ersuchen?
+<ce> Führt Euch Eure Reise in absehbarer
+<ce> Zeit zufällig nach ___pickupregion_?
+<ce> Falls ja, so habe ich hier ein Paket
+<ce> und bedarf jemanden, der es dorthin
+<ce> trägt. Ich würde Euch mit Freuden
+<ce> _gold_ Goldstücke dafür entlohnen.
 <--->
-Euer Ruf eilt Euch voraus, %pcn.
-Ich benötige einen Kurier. Seid Ihr
-zufällig in absehbarer Zeit gen
-___pickupregion_ unterwegs?
-Möchtet Ihr die Aufgabe übernehmen,
-dort für mich ein Paket zu überbringen?
-Ich würde Euch für Eure Mühen
-_gold_ Goldstücke entrichten.
+<ce> Euer Ruf eilt Euch voraus, %pcn.
+<ce> Ich benötige einen Kurier. Seid Ihr
+<ce> zufällig in absehbarer Zeit gen
+<ce> ___pickupregion_ unterwegs?
+<ce> Möchtet Ihr die Aufgabe übernehmen,
+<ce> dort für mich ein Paket zu überbringen?
+<ce> Ich würde Euch für Eure Mühen
+<ce> _gold_ Goldstücke entrichten.
 
 RefuseQuest:  [1001]
-Wie schade.
+<ce> Wie schade.
 <--->
-Ich werde wohl einen anderen suchen
-müssen, der bereit ist, für seinen
-Unterhalt zu arbeiten.
+<ce> Ich werde wohl einen anderen suchen
+<ce> müssen, der bereit ist, für seinen
+<ce> Unterhalt zu arbeiten.
 <--->
-Ihr müsst ein anderer %pcn
-sein, als jener, von dem ich so
-viel vernommen habe.
+<ce> Ihr müsst ein anderer %pcn
+<ce> sein, als jener, von dem ich so
+<ce> viel vernommen habe.
 
 AcceptQuest:  [1002]
-Wunderbar! Bringt dieses Paket
-nach ___pickupregion_ und
-sucht nach _pickupregion_.
-%g wird Euch bezahlen. Es muss
-binnen =traveltime_ Tagen dort sein.
-Hier ist das Paket.
+<ce> Wunderbar! Bringt dieses Paket
+<ce> nach ___pickupregion_ und
+<ce> sucht nach _pickupregion_.
+<ce> %g wird Euch bezahlen. Es muss
+<ce> binnen =traveltime_ Tagen dort sein.
+<ce> Hier ist das Paket.
 <--->
-Was für ein Glück! Mein Freund
-ist _pickupregion_ in
-in ___pickupregion_.
-Fragt einfach umher, jedermann
-kennt %g3. %g wird Euch sogleich
-entlohnen. Doch wenn Ihr länger
-als =traveltime_ Tage braucht, könnt
-Ihr das Paket gleich entsorgen.
-Hier ist es.
+<ce> Was für ein Glück! Mein Freund
+<ce> ist _pickupregion_ in
+<ce> in ___pickupregion_.
+<ce> Fragt einfach umher, jedermann
+<ce> kennt %g2. %g wird Euch sogleich
+<ce> entlohnen. Doch wenn Ihr länger
+<ce> als =traveltime_ Tage braucht, könnt
+<ce> Ihr das Paket gleich entsorgen.
+<ce> Hier ist es.
 
 QuestComplete:  [1004]
-Ich hatte gehofft, dass _questgiver_
-es schaffen würde, dieses Paket rechtzeitig
-zu mir zu bringen. %g war in letzter Zeit so
-sehr beschäftigt. Hier sind die _gold_ Goldstücke,
-die Euch zugesagt wurden.
+<ce> Ich hatte gehofft, dass _questgiver_
+<ce> es schaffen würde, dieses Paket rechtzeitig
+<ce> zu mir zu bringen. %g war in letzter Zeit so
+<ce> sehr beschäftigt. Hier sind die _gold_ Goldstücke,
+<ce> die Euch zugesagt wurden.
 
 RumorsDuringQuest:  [1005]
-Die Orks stiften wieder Unruhe.
+<ce> Die Orks stiften wieder Unruhe.
 
 RumorsPostfailure:  [1006]
-Man erzählt sich, der Geist des toten
-Königs Lysandus sei in Dolchsturz gesichtet worden.
+<ce> Man erzählt sich, der Geist des toten
+<ce> Königs Lysandus sei in Dolchsturz gesichtet worden.
 
 RumorsPostsuccess:  [1007]
-Ein Schiff wurde unweit der Küste von Dolchsturz
-in einem Seesturm versenkt. Ich habe gehört,
-einer der Passagiere war ein Gesandter des Kaisers.
+<ce> Ein Schiff wurde unweit der Küste von Dolchsturz
+<ce> in einem Seesturm versenkt. Ich habe gehört,
+<ce> einer der Passagiere war ein Gesandter des Kaisers.
 
 QuestorPostsuccess:  [1008]
-Meinen bescheidenen Dank dafür, dass Ihr das
-Paket nach ___pickupregion_ gebracht habt.
+<ce> Meinen bescheidenen Dank dafür, dass Ihr das
+<ce> Paket nach ___pickupregion_ gebracht habt.
 
 QuestorPostfailure:  [1009]
-Schurke! Was habt Ihr mit meinem Paket
-angestellt? Es verkauft? Es ist nie in
-___pickupregion_ angekommen.
-Verschwindet sofort.
+<ce> Schurke! Was habt Ihr mit meinem Paket
+<ce> angestellt? Es verkauft? Es ist nie in
+<ce> ___pickupregion_ angekommen.
+<ce> Verschwindet sofort.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -92,58 +92,58 @@ QuestLogEntry:  [1010]
  abliefern.
 
 Message:  1011
-Dieses Buch hat sentimentalen Wert.
-_pickupregion_ hat seit
-Jahren kein Exemplar von
-_book_ erblickt.
+<ce> Dieses Buch hat sentimentalen Wert.
+<ce> _pickupregion_ hat seit
+<ce> Jahren kein Exemplar von
+<ce> _book_ erblickt.
 
 Message:  1012
-_pickupregion_ benötigt
-diese _ingredient_ für
-ein spezielles Gebräu,
-das %g bereitet.
+<ce> _pickupregion_ benötigt
+<ce> diese _ingredient_ für
+<ce> ein spezielles Gebräu,
+<ce> das %g bereitet.
 
 Message:  1013
-Dieses _jewelry_ ist ein Geschenk
-für _pickupregion_, das
-unsere beider Abmachung besiegeln wird.
+<ce> Dieses _jewelry_ ist ein Geschenk
+<ce> für _pickupregion_, das
+<ce> unsere beider Abmachung besiegeln wird.
 
 Message:  1014
-Dies ist ein besonderes _mensclothing_,
-das meine Mutter für _pickupregion_
-zur Feier gefertigt hat.
+<ce> Dies ist ein besonderes _mensclothing_,
+<ce> das meine Mutter für _pickupregion_
+<ce> zur Feier gefertigt hat.
 
 Message:  1015
-_pickupregion_ hat dieses
-_painting_ in Auftrag gegeben.
-Es muss rechtzeitig zur Versammlung
-dort eintreffen, die %g veranstaltet.
+<ce> _pickupregion_ hat dieses
+<ce> _painting_ in Auftrag gegeben.
+<ce> Es muss rechtzeitig zur Versammlung
+<ce> dort eintreffen, die %g veranstaltet.
 
 Message:  1016
-_pickupregion_ benötigt dieses
-_potion_ so bald wie möglich.
+<ce> _pickupregion_ benötigt dieses
+<ce> _potion_ so bald wie möglich.
 
 Message:  1017
-_pickupregion_ ist
-bedroht worden. Diese
-_weapon_ sollte %g2
-beruhigen.
+<ce> _pickupregion_ ist
+<ce> bedroht worden. Diese
+<ce> _weapon_ sollte %g2
+<ce> beruhigen.
 
 Message:  1018
-Ich habe diese feine _womensclothing_
-für _pickupregion_s Hochzeit erworben.
-Es wäre überaus peinlich, wenn es
-nicht rechtzeitig dort ankommt.
+<ce> Ich habe diese feine _womensclothing_
+<ce> für _pickupregion_s Hochzeit erworben.
+<ce> Es wäre überaus peinlich, wenn es
+<ce> nicht rechtzeitig dort ankommt.
 
 Message:  1019
-Was wollt Ihr? _questgiver_?
-Ja, %g hat zugesagt, mir ein
-Paket zukommen zu lassen. Wenn
-es nicht bald eintrifft, wird
-es zu spät sein.
+<ce> Was wollt Ihr? _questgiver_?
+<ce> Ja, %g hat zugesagt, mir ein
+<ce> Paket zukommen zu lassen. Wenn
+<ce> es nicht bald eintrifft, wird
+<ce> es zu spät sein.
 
 Message:  1020
-Ich weiß, Ihr habt ein Paket von
-_questgiver_. Übergebt es
-mir und niemand wird zu Schaden kommen.
+<ce> Ich weiß, Ihr habt ein Paket von
+<ce> _questgiver_. Übergebt es
+<ce> mir und niemand wird zu Schaden kommen.
 

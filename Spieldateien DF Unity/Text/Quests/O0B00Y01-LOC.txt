@@ -3,53 +3,53 @@ DisplayName: Waffenlieferung
 QRC:
 
 QuestorOffer:  [1000]
-Also, %pcf, hier liegt eine
-einfache Aufgabe vor, die Euch
-gewiss keine Mühe bereiten sollte.
-Alles, was Ihr zu tun habt, ist,
-diese _weapons_ zu unserem
-Kontakt in ___contact_ zu
-bringen, dort den Lohn entgegenzunehmen
-und sodann zurückzukehren. Denkt Ihr,
-Ihr seid dieser Aufgabe gewachsen,
-%pcf?
+<ce> Also, %pcf, hier liegt eine
+<ce> einfache Aufgabe vor, die Euch
+<ce> gewiss keine Mühe bereiten sollte.
+<ce> Alles, was Ihr zu tun habt, ist,
+<ce> diese _weapons_ zu unserem
+<ce> Kontakt in ___contact_ zu
+<ce> bringen, dort den Lohn entgegenzunehmen
+<ce> und sodann zurückzukehren. Denkt Ihr,
+<ce> Ihr seid dieser Aufgabe gewachsen,
+<ce> %pcf?
 
 RefuseQuest:  [1001]
-Nein? Wie viel einfacher sollen Eure
-Aufträge noch werden? Wollt Ihr vielleicht
-stillhalten, während ich Euch mit Aalen
-züchtige? Eine gar nicht so schlechte Idee!
-%oth, welch Zeitverschwendung.
+<ce> Nein? Wie viel einfacher sollen Eure
+<ce> Aufträge noch werden? Wollt Ihr vielleicht
+<ce> stillhalten, während ich Euch mit Aalen
+<ce> züchtige? Eine gar nicht so schlechte Idee!
+<ce> %oth, welch Zeitverschwendung.
 
 AcceptQuest:  [1002]
-Also gut, Euer Kontakt ist ein
-=contact_, unauffällig und
-unverdächtig. %g weilt derzeit in
-einer Herberge namens __contact_
-in ___contact_. Nun hat
-_contact_ eine Kleinigkeit in
-___contact_ entwendet und
-verlangt nun, dass Ihr sie uns
-zurückbringt. Wenn Ihr glaubt,
-dies vollbringen zu können, so
-erwarten wir Eure Rückkehr in
-=1stparton_ Tagen, ohne Entschuldigung.
-Ist das klar? Geht nun.
+<ce> Also gut, Euer Kontakt ist ein
+<ce> =contact_, unauffällig und
+<ce> unverdächtig. %g weilt derzeit in
+<ce> einer Herberge namens __contact_
+<ce> in ___contact_. Nun hat
+<ce> _contact_ eine Kleinigkeit in
+<ce> ___contact_ entwendet und
+<ce> verlangt nun, dass Ihr sie uns
+<ce> zurückbringt. Wenn Ihr glaubt,
+<ce> dies vollbringen zu können, so
+<ce> erwarten wir Eure Rückkehr in
+<ce> =1stparton_ Tagen, ohne Entschuldigung.
+<ce> Ist das klar? Geht nun.
 
 QuestFail:  [1003]
-Nun, Ihr seid zurückgekehrt, doch wo
-ist die Beute von _contact_?
-Ihr glaubt doch wohl nicht, Ihr könntet
-uns betrügen, %pcf? Wenn dem
-so ist, denkt nochmal darüber nach.
+<ce> Nun, Ihr seid zurückgekehrt, doch wo
+<ce> ist die Beute von _contact_?
+<ce> Ihr glaubt doch wohl nicht, Ihr könntet
+<ce> uns betrügen, %pcf? Wenn dem
+<ce> so ist, denkt nochmal darüber nach.
 
 QuestComplete:  [1004]
-Ah, welch prächtiger _gems_.
-_contact_ hat Euch diesen gegeben?
-%oth, es scheint, dass es %g3 gut
-ergeht, dort in ___contact_.
-Wohlgetan, %pcf. Hier sind
-_reward_ Goldstücke für Eure Mühen.
+<ce> Ah, welch prächtiger _gems_.
+<ce> _contact_ hat Euch diesen gegeben?
+<ce> %oth, es scheint, dass es %g3 gut
+<ce> ergeht, dort in ___contact_.
+<ce> Wohlgetan, %pcf. Hier sind
+<ce> _reward_ Goldstücke für Eure Mühen.
 
 RumorsDuringQuest:  [1005]
 Die Stadtwachen haben ein wachsames Auge auf jeden, der Waffen trägt.
@@ -67,43 +67,44 @@ Es wird gemunkelt, dass sie Waffen in die Stadt schmuggeln. Das erfordert Nerven
 %t war in Sorge wegen des Waffenschmuggels der Diebesgilde, doch scheint er sich beruhigt zu haben.
 
 QuestorPostsuccess:  [1008]
-Ja, was begehrt Ihr, %pcf? Vielleicht den _gems_ zurück?
+<ce> Ja, was begehrt Ihr, %pcf?
+<ce> Vielleicht den _gems_ zurück?
 
 QuestorPostfailure:  [1009]
-Wenn Ihr nichts von _contact_
-bei Euch führt, ist jedes weitere
-Gespräch überflüssig, %pcf.
+<ce> Wenn Ihr nichts von _contact_
+<ce> bei Euch führt, ist jedes weitere
+<ce> Gespräch überflüssig, %pcf.
 
 QuestLogEntry:  [1010]
-Sehr gut, %pcf. Ich hätte es
-wohl kaum so leicht geschafft, diese
-_weapons_ hierher zu bringen.
-Hier, ein Vorgeschmack auf das,
-was ich bisher erbeutet habe... ein
-_gems_. Bringt ihn zurück zu
-_questgiver_ und lasst %g2 wissen,
-dass bei mir alles wohlauf ist.
-Erneut meinen Dank, %pcf.
-Auf bald.
+<ce> Sehr gut, %pcf. Ich hätte es
+<ce> wohl kaum so leicht geschafft, diese
+<ce> _weapons_ hierher zu bringen.
+<ce> Hier, ein Vorgeschmack auf das,
+<ce> was ich bisher erbeutet habe... ein
+<ce> _gems_. Bringt ihn zurück zu
+<ce> _questgiver_ und lasst %g2 wissen,
+<ce> dass bei mir alles wohlauf ist.
+<ce> Erneut meinen Dank, %pcf.
+<ce> Auf bald.
 
 Message:  1020
-Halt, im Namen von %nrn!
-Ich weiß, dass Ihr Waffen schmuggelt.
-Ergebt Euch, oder zieht die Konsequenzen!
+<ce> Halt, im Namen von %nrn!
+<ce> Ich weiß, dass Ihr Waffen schmuggelt.
+<ce> Ergebt Euch, oder zieht die Konsequenzen!
 
 Message:  1021
-Ich habe gehört, Ihr schmuggelt Waffen
-für die Diebesgilde. Übergebt sie mir,
-und ich werde Euer Leben verschonen.
+<ce> Ich habe gehört, Ihr schmuggelt Waffen
+<ce> für die Diebesgilde. Übergebt sie mir,
+<ce> und ich werde Euer Leben verschonen.
 
 Message:  1022
-Wir verlangen die _weapons_.
-Händiget ihn aus, und wir werden
-Euch nicht allzu sehr zurichten.
+<ce> Wir verlangen die _weapons_.
+<ce> Händiget ihn aus, und wir werden
+<ce> Euch nicht allzu sehr zurichten.
 
 Message:  1023
-Nun verschwindet von hier,
-bevor Ihr Euch weh tut.
+<ce> Nun verschwindet von hier,
+<ce> bevor Ihr Euch weh tut.
 
 Message:  1030
 %qdt:

@@ -3,35 +3,35 @@ DisplayName: Zweiglingsjagd
 QRC:
 
 QuestorOffer:  [1000]
-Ein paar Holzfäller haben die
-Gilde angeheuert, um einen 
-Zweigling zu töten. Das Monster
-greift sie wohl immer an, wenn
-sie draußen im Wald Holz hauen
-gehen. Wollt Ihr den Zweigling
-kleinhacken, %pcf?
+<ce> Ein paar Holzfäller haben die
+<ce> Gilde angeheuert, um einen 
+<ce> Zweigling zu töten. Das Monster
+<ce> greift sie wohl immer an, wenn
+<ce> sie draußen im Wald Holz hauen
+<ce> gehen. Wollt Ihr den Zweigling
+<ce> kleinhacken, %pcf?
 
 RefuseQuest:  [1001]
-Na gut. Lauft nur davon.
-Dann muss ich eben jemand
-anderen für den Auftrag finden.
+<ce> Na gut. Lauft nur davon.
+<ce> Dann muss ich eben jemand
+<ce> anderen für den Auftrag finden.
 
 AcceptQuest:  [1002]
-Zwei Angriffe sind bereits gescheitert.
-Der Zweigling ist einfach zu schlau.
-Ihr müsst ihn in seinem Versteck in
-___dungeon_ suchen. Kommt in
-den nächsten =2dung_ Tagen zu mir zurück,
-dann warten _gold_ Goldstücke auf Euch.
+<ce> Zwei Angriffe sind bereits gescheitert.
+<ce> Der Zweigling ist einfach zu schlau.
+<ce> Ihr müsst ihn in seinem Versteck in
+<ce> ___dungeon_ suchen. Kommt in
+<ce> den nächsten =2dung_ Tagen zu mir zurück,
+<ce> dann warten _gold_ Goldstücke auf Euch.
 
 QuestFail:  [1003]
-Der Zweigling ist Kleinholz?
-Ihr erweist Euch als sehr
-zuverlässig, %pcf.
+<ce> Der Zweigling ist Kleinholz?
+<ce> Ihr erweist Euch als sehr
+<ce> zuverlässig, %pcf.
 
 QuestComplete:  [1004]
-Hier habt Ihr wie versprochen
-die _gold_ Goldstücke.
+<ce> Hier habt Ihr wie versprochen
+<ce> die _gold_ Goldstücke.
 
 RumorsDuringQuest:  [1005]
 Ich habe gehört, dass _woodsman_
@@ -52,13 +52,13 @@ von dem Zweigling gehört. Er muss
 die Gegend verlassen haben.
 
 QuestorPostsuccess:  [1008]
-Gute Arbeit mit dem Zweigling.
+<ce> Gute Arbeit mit dem Zweigling.
 
 QuestorPostfailure:  [1009]
-So hart sind Zweiglinge nun auch
-wieder nicht. Was ist passiert?
-Habt Ihr Angst bekommen und
-Euch versteckt?
+<ce> So hart sind Zweiglinge nun auch
+<ce> wieder nicht. Was ist passiert?
+<ce> Habt Ihr Angst bekommen und
+<ce> Euch versteckt?
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -69,54 +69,54 @@ QuestLogEntry:  [1010]
  Man hat mir dafür =2dung_ Tage Zeit gegeben.
 
 Message:  1011
-Der Zweigling ist tot.
-Die Holzfäller können
-wieder sicher arbeiten.
+<ce> Der Zweigling ist tot.
+<ce> Die Holzfäller können
+<ce> wieder sicher arbeiten.
 
 Message:  1020
-Ihr greift mich ohne Grund an,
-%ra. Ja, ich habe an den
-Waldmördern Rache genommen.
-Ihr sollt wissen, dass sie meine
-Setzlinge getötet haben. Würdet
-Ihr wie angewurzelt stehenbleiben,
-wenn jemand Eure Setzlinge niedermacht?
-Ich hege keinen Hass auf Euch.
-Überzeugt die Holzfäller, mit Vorsicht
-zu Werke zu gehen, und ich lasse sie
-in Frieden. Werdet Ihr das tun?
+<ce> Ihr greift mich ohne Grund an,
+<ce> %ra. Ja, ich habe an den
+<ce> Waldmördern Rache genommen.
+<ce> Ihr sollt wissen, dass sie meine
+<ce> Setzlinge getötet haben. Würdet
+<ce> Ihr wie angewurzelt stehenbleiben,
+<ce> wenn jemand Eure Setzlinge niedermacht?
+<ce> Ich hege keinen Hass auf Euch.
+<ce> Überzeugt die Holzfäller, mit Vorsicht
+<ce> zu Werke zu gehen, und ich lasse sie
+<ce> in Frieden. Werdet Ihr das tun?
 
 Message:  1021
-Hauptschuldig ist _woodsman_.
-Hakt einfach nur sorglos Bäume
-nieder. Geht nach __woodsman_
-in ___woodsman_ und nehmt %g3
-ein Versprechen ab. Und sucht mich
-nicht wieder auf. An der Art und
-Weise, wie die Holzfäller arbeiten,
-werde ich Euren Erfolg oder Misserfolg
-erkennen.
+<ce> Hauptschuldig ist _woodsman_.
+<ce> Hakt einfach nur sorglos Bäume
+<ce> nieder. Geht nach __woodsman_
+<ce> in ___woodsman_ und nehmt %g3
+<ce> ein Versprechen ab. Und sucht mich
+<ce> nicht wieder auf. An der Art und
+<ce> Weise, wie die Holzfäller arbeiten,
+<ce> werde ich Euren Erfolg oder Misserfolg
+<ce> erkennen.
 
 Message:  1022
-Ich hätte es besser wissen sollen als
-einer Kreatur aus Fleisch und Blut zu
-vertrauen. Jetzt werde ich keine
-Rücksicht mehr nehmen.
+<ce> Ich hätte es besser wissen sollen als
+<ce> einer Kreatur aus Fleisch und Blut zu
+<ce> vertrauen. Jetzt werde ich keine
+<ce> Rücksicht mehr nehmen.
 
 Message:  1023
-Die Baumkreatur will also verhandeln, ja?
-Gut, ich glaube, ich kann die Jungs davon
-überzeugen, nur die großen Bäume zu fällen.
-Aber wenn dieses Ding uns nochmal angreift,
-werden wir jeden Setzling niederbrennen,
-den wir finden können! Das ist ein Handel,
-%pcn.
+<ce> Die Baumkreatur will also verhandeln, ja?
+<ce> Gut, ich glaube, ich kann die Jungs davon
+<ce> überzeugen, nur die großen Bäume zu fällen.
+<ce> Aber wenn dieses Ding uns nochmal angreift,
+<ce> werden wir jeden Setzling niederbrennen,
+<ce> den wir finden können! Das ist ein Handel,
+<ce> %pcn.
 
 Message:  1025
-Ihr habt erreicht, dass die Holzfäller
-und der Zweigling nicht mehr kämpfen?
-Sehr schlau, %pcn. Mit diesem
-Scharfsinn werdet Ihr es weit bringen.
+<ce> Ihr habt erreicht, dass die Holzfäller
+<ce> und der Zweigling nicht mehr kämpfen?
+<ce> Sehr schlau, %pcn. Mit diesem
+<ce> Scharfsinn werdet Ihr es weit bringen.
 
 Message:  1030
 %qdt:
@@ -130,9 +130,9 @@ Message:  1030
  ohne Blutvergießen beendet werden.
 
 Message:  1080
-Ich fühle mich übrigens gerade so spendabel.
-Hier habt Ihr eine Karte zu einem Loch
-namens ___newdung_. Voll mit Monstern
-zum erschlagen und Schätzen zum plündern.
-Habt Spaß!
+<ce> Ich fühle mich übrigens gerade so spendabel.
+<ce> Hier habt Ihr eine Karte zu einem Loch
+<ce> namens ___newdung_. Voll mit Monstern
+<ce> zum erschlagen und Schätzen zum plündern.
+<ce> Habt Spaß!
 

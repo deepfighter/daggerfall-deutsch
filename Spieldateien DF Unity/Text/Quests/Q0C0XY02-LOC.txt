@@ -3,51 +3,51 @@ DisplayName: Ein Hexengeschenk
 QRC:
 
 QuestorOffer:  [1000]
-So würdet Ihr den ==qgiver_
-helfen %pcf? Viele kommen wegen
-Beistands zu uns, wenden sich aber
-wieder von uns ab, sobald ihre
-Wünsche erfüllt wurden, ihre Schwüre
-zu Flüchen und ihre Versprechen zu
-Verruchtheiten geworden sind. Würdet
-Ihr um der Dankbarkeit der ==qgiver_
-willen einen dieser Missetäter an der
-Schwesternschaft bestrafen?
+<ce> So würdet Ihr den ==qgiver_
+<ce> helfen %pcf? Viele kommen wegen
+<ce> Beistands zu uns, wenden sich aber
+<ce> wieder von uns ab, sobald ihre
+<ce> Wünsche erfüllt wurden, ihre Schwüre
+<ce> zu Flüchen und ihre Versprechen zu
+<ce> Verruchtheiten geworden sind. Würdet
+<ce> Ihr um der Dankbarkeit der ==qgiver_
+<ce> willen einen dieser Missetäter an der
+<ce> Schwesternschaft bestrafen?
 
 RefuseQuest:  [1001]
-Nicht einmal das würdet Ihr tun?
-%oth, bei ==daedra_,
-ich nehme an, Ihr versprecht besser
-nichts, was Ihr nicht halten könnt.
-Trotzdem bin ich gekränkt.
+<ce> Nicht einmal das würdet Ihr tun?
+<ce> %oth, bei ==daedra_,
+<ce> ich nehme an, Ihr versprecht besser
+<ce> nichts, was Ihr nicht halten könnt.
+<ce> Trotzdem bin ich gekränkt.
 
-AcceptQuest:  [1002]        
-Das werdet Ihr wirklich? Wenn Ihr es
-wünscht soll ein ausgezeichnetes
-Ausrüstungsstück namens _mitem_
-für Euch gefertigt werden. Nun macht
-Euch zu jenem weit entfernten Ort auf,
-der da __tavern_ heißt und sucht die
-Person auf, die uns betrogen hat, eine
-abgefeimte, uns als =man_ bekannte
-Gestalt, die sich selbst _man_
-nennt. Gebt der Person dieses _jewelry_,
-sagt weiterhin, dies sei ein Geschenk von
-einer alten Liebschaft und dann kehrt zu
-uns zurück. Ihr müsst Euch beeilen, denn
-das _jewelry_ wird die innere Schönheit
-nach außen kehren. Die ==qgiver_
-werden Euch in =queston_ Tagen erwarten. Möge
-==daedra_ auf Eure heilige Aufgabe
-herablächeln!
+AcceptQuest:  [1002]
+<ce> Das werdet Ihr wirklich? Wenn Ihr es
+<ce> wünscht soll ein ausgezeichnetes
+<ce> Ausrüstungsstück namens _mitem_
+<ce> für Euch gefertigt werden. Nun macht
+<ce> Euch zu jenem weit entfernten Ort auf,
+<ce> der da __tavern_ heißt und sucht die
+<ce> Person auf, die uns betrogen hat, eine
+<ce> abgefeimte, uns als =man_ bekannte
+<ce> Gestalt, die sich selbst _man_
+<ce> nennt. Gebt der Person dieses _jewelry_,
+<ce> sagt weiterhin, dies sei ein Geschenk von
+<ce> einer alten Liebschaft und dann kehrt zu
+<ce> uns zurück. Ihr müsst Euch beeilen, denn
+<ce> das _jewelry_ wird die innere Schönheit
+<ce> nach außen kehren. Die ==qgiver_
+<ce> werden Euch in =queston_ Tagen erwarten. Möge
+<ce> ==daedra_ auf Eure heilige Aufgabe
+<ce> herablächeln!
 
-QuestComplete:  [1004]          
-Gut %pcf, Euer Versprechen an
-die ==qgiver_ soll als erfüllt gelten.
-Wie versprochen, erhaltet Ihr etwas Rüstzeug,
-das man _mitem_ nennt. _man_,
-armer Teufel. Ich hoffe, dass sie das Schwein
-sehr leiden lassen, bevor man ihm ein Ende bereitet.
+QuestComplete:  [1004]
+<ce> Gut %pcf, Euer Versprechen an
+<ce> die ==qgiver_ soll als erfüllt gelten.
+<ce> Wie versprochen, erhaltet Ihr etwas Rüstzeug,
+<ce> das man _mitem_ nennt. _man_,
+<ce> armer Teufel. Ich hoffe, dass sie das Schwein
+<ce> sehr leiden lassen, bevor man ihm ein Ende bereitet.
 
 RumorsDuringQuest:  [1005]
 _man_ hat alles Erreichte aus eigener Kraft geschafft. Ein wahres Wunder.
@@ -59,29 +59,29 @@ _man_ lacht über die Vorstellung, den ==qgiver_ irgendetwas schuldig zu sein.
 <--->
 _man_ hat __tavern_ verlassen und wird schon schmerzlich vermisst.
 
-RumorsPostsuccess:  [1007]          
+RumorsPostsuccess:  [1007]
 _man_ verwandelte sich in _tavern_ vor der versammelten Kundschaft in eine grauenhafte Bestie.
 <--->
 _man_ muss wohl mit Daedra verkehrt haben. %oth, was für ein Schicksal.
 
 QuestorPostsuccess:  [1008]
-Wahrlich, ich hoffe Ihr findet an Eurem
-_mitem_ Gefallen, %pcf.
+<ce> Wahrlich, ich hoffe Ihr findet an Eurem
+<ce> _mitem_ Gefallen, %pcf.
 
-QuestorPostfailure:  [1009]           
-Unsere Vergeltung an _man_ ist
-noch nicht vollendet! Verschwindet von
-hier oder %g3 wohlverdientes Schicksal
-wird sich auch gegen Euch wenden,
-%pcf.
+QuestorPostfailure:  [1009]
+<ce> Unsere Vergeltung an _man_ ist
+<ce> noch nicht vollendet! Verschwindet von
+<ce> hier oder %g3 wohlverdientes Schicksal
+<ce> wird sich auch gegen Euch wenden,
+<ce> %pcf.
 
 Message:  1011
-_man_ dankt Euch für das _jewelry_.
-%g probiert es an, während Ihr erklärt,
-wer es %g2 zukommen lässt. Beim Namen
-der ==qgiver_ weiten sich die Augen
-vor Furcht, dann verwandelt sich die
-Furcht in Schmerz.
+<ce> _man_ dankt Euch für das _jewelry_.
+<ce> %g probiert es an, während Ihr erklärt,
+<ce> wer es %g2 zukommen lässt. Beim Namen
+<ce> der ==qgiver_ weiten sich die Augen
+<ce> vor Furcht, dann verwandelt sich die
+<ce> Furcht in Schmerz.
 
 Message:  1012
 Ihr solltet _man_ nicht umbringen,

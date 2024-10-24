@@ -3,41 +3,41 @@ DisplayName: Verratene Ritter
 QRC:
 
 QuestorOffer:  [1000]
-Ihr seid noch kein vertrauenswürdiges
-Ordensmitglied, %pcn. Ich
-glaube aber einen Weg zu kennen, wie Ihr
-Euch unser Vertrauen verdienen könnt. Es
-gibt einen Verräter an unserem Orden von
-___qgiver_, eine hinterhältige
-_monster_, die uns an unsere Feinde
-verraten hat. Der Tod ist die gerechte
-Strafe für Verrat,  meint Ihr nicht auch,
-%pcn? Werdet Ihr das für den
-Orden erledigen?
+<ce> Ihr seid noch kein vertrauenswürdiges
+<ce> Ordensmitglied, %pcn. Ich
+<ce> glaube aber einen Weg zu kennen, wie Ihr
+<ce> Euch unser Vertrauen verdienen könnt. Es
+<ce> gibt einen Verräter an unserem Orden von
+<ce> ___qgiver_, eine hinterhältige
+<ce> _monster_, die uns an unsere Feinde
+<ce> verraten hat. Der Tod ist die gerechte
+<ce> Strafe für Verrat, meint Ihr nicht auch,
+<ce> %pcn? Werdet Ihr das für den
+<ce> Orden erledigen?
 
 RefuseQuest:  [1001]
-Erwartet in Zukunft keine Gefallen
-mehr von diesem Ritterorden.
+<ce> Erwartet in Zukunft keine Gefallen
+<ce> mehr von diesem Ritterorden.
 
 AcceptQuest:  [1002]
-Der Verräter ist eine _monster_
-namens =monster_. Versteckt sich
-wie eine feige Memme in ___mondun_.
-Wenn Ihr in =queston_ Tagen nicht zurück
-seid, ist unser Vertrauen verspielt und
-ein anderer wird Euren Platz einnehmen.
+<ce> Der Verräter ist eine _monster_
+<ce> namens =monster_. Versteckt sich
+<ce> wie eine feige Memme in ___mondun_.
+<ce> Wenn Ihr in =queston_ Tagen nicht zurück
+<ce> seid, ist unser Vertrauen verspielt und
+<ce> ein anderer wird Euren Platz einnehmen.
 
 QuestFail:  [1003]
-Der Verräter ist nicht tot.
-Versucht nicht, mir etwas
-anderes weiszumachen.
+<ce> Der Verräter ist nicht tot.
+<ce> Versucht nicht, mir etwas
+<ce> anderes weiszumachen.
 
 QuestComplete:  [1004]
-Vielleicht seid Ihr doch
-nicht so übel wie alle sagen,
-%pcn. Ihr habt Euch in
-diesem Ritterorden ein bisschen
-Respekt verdient.
+<ce> Vielleicht seid Ihr doch
+<ce> nicht so übel wie alle sagen,
+<ce> %pcn. Ihr habt Euch in
+<ce> diesem Ritterorden ein bisschen
+<ce> Respekt verdient.
 
 RumorsDuringQuest:  [1005]
 Diese _monster_ rannte nach ___mondun_, als wären alle Hunde der Hölle hinter ihr her.
@@ -50,7 +50,7 @@ RumorsPostfailure:  [1006]
 =monster_ ist nach Norden gezogen, wie ich hörte, aber die bloße Erinnerung daran quält den Orden noch immer.
 
 RumorsPostsuccess:  [1007]
-Die Geschichte von  =monster_ beweist es wieder einmal. Mit dem Ritterorden ist nicht zu spaßen. 
+Die Geschichte von =monster_ beweist es wieder einmal. Mit dem Ritterorden ist nicht zu spaßen. 
 <--->
 Ich hätte gedacht, dass der Orden mit einem Tölpel wie =monster_ gnädiger sein würde.
 
@@ -70,14 +70,14 @@ QuestLogEntry:  [1010]
  Tat zu vollbringen.
 
 Message:  1011
-Ihr habt =monster_ getötet,
-die _monster_. Der Ritterorden
-ird stolz sein.
+<ce> Ihr habt =monster_ getötet,
+<ce> die _monster_. Der Ritterorden
+<ce> wird stolz sein.
 
 Message:  1080
-Nehmt zum Zeichen unserer Anerkennung noch
-diese Karte nach  ___newdung_,
-einem stinkenden, ungeziefergeplagten Loch.
-Das ist genau die Art von Verlies, wie es
-ein angehender Ritter gerne aufräumt. 
+<ce> Nehmt zum Zeichen unserer Anerkennung noch
+<ce> diese Karte nach ___newdung_,
+<ce> einem stinkenden, ungeziefergeplagten Loch.
+<ce> Das ist genau die Art von Verlies, wie es
+<ce> ein angehender Ritter gerne aufräumt. 
 

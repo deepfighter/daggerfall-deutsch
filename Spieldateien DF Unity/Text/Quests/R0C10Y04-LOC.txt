@@ -3,36 +3,36 @@ DisplayName: Der böse Zauberer
 QRC:
 
 QuestorOffer:  [1000]
-Die wehleidigen Bauern, die mein Land bei
-___mondung_ bestellen, beschweren
-sich schon seit Ewigkeiten über böse Hexerei
-in diesem Verlies. Es scheint aber, dass sie
-diesmal Recht haben könnten. Ich suche einen
-Assasinen, der nach ___mondung_
-reist und den Nekromanten dort vernichtet.
-Ich bin einverstanden, _reward_ Goldstücke dafür
-zu zahlen. Seid Ihr interessiert?
+<ce> Die wehleidigen Bauern, die mein Land bei
+<ce> ___mondung_ bestellen, beschweren
+<ce> sich schon seit Ewigkeiten über böse Hexerei
+<ce> in diesem Verlies. Es scheint aber, dass sie
+<ce> diesmal Recht haben könnten. Ich suche einen
+<ce> Assasinen, der nach ___mondung_
+<ce> reist und den Nekromanten dort vernichtet.
+<ce> Ich bin einverstanden, _reward_ Goldstücke dafür
+<ce> zu zahlen. Seid Ihr interessiert?
 
 RefuseQuest:  [1001]
-Wirklich? Ich hätte gedacht, dass das Eure
-Art von Aufgabe wäre. Wie ungünstig.
+<ce> Wirklich? Ich hätte gedacht, dass das Eure
+<ce> Art von Aufgabe wäre. Wie ungünstig.
 
 AcceptQuest:  [1002]
-%oth, das ist großartig. Ich möchte diesen
-Zauberer in spätestens =1stparton_ tot sehen.
-Ihr macht Euch also besser sofort auf den Weg.
-Viel Glück und zeigt keine Gnade, %pcf.
+<ce> %oth, das ist großartig. Ich möchte diesen
+<ce> Zauberer in spätestens =1stparton_ tot sehen.
+<ce> Ihr macht Euch also besser sofort auf den Weg.
+<ce> Viel Glück und zeigt keine Gnade, %pcf.
 
 QuestFail:  [1003]
-Ich will Euch nicht wiedersehen bis
-dieser Hexenmeister tot ist!
+<ce> Ich will Euch nicht wiedersehen bis
+<ce> dieser Hexenmeister tot ist!
 
 QuestComplete:  [1004]
-Eine heldenhafte Rückkehr! Die Bauern sind
-überglücklich, dass ihr Land von schwarzer
-Magie befreit ist, und ich ebenfalls. Nehmt
-Eure Belohnung von _reward_ Goldstücken mit
-meiner Dankbarkeit entgegen, %pcf.
+<ce> Eine heldenhafte Rückkehr! Die Bauern sind
+<ce> überglücklich, dass ihr Land von schwarzer
+<ce> Magie befreit ist, und ich ebenfalls. Nehmt
+<ce> Eure Belohnung von _reward_ Goldstücken mit
+<ce> meiner Dankbarkeit entgegen, %pcf.
 
 RumorsDuringQuest:  [1005]
 Man kann beinahe spüren, wie sich die bösartige Magicka zusammenbraut.
@@ -40,9 +40,9 @@ Man kann beinahe spüren, wie sich die bösartige Magicka zusammenbraut.
 Ein Hexenmeister hat geschworen, das Land von _questgiver_ in Schutt und Asche zu legen.
 
 RumorsPostfailure:  [1006]
-Der Hexenmeister von  ___mondung_ ist offenbar weitergezogen.
+Der Hexenmeister von ___mondung_ ist offenbar weitergezogen.
 <--->
-Offenbar hat irgendein Abenteurer den Hexenmeister aus  ___mondung_ vertrieben.
+Offenbar hat irgendein Abenteurer den Hexenmeister aus ___mondung_ vertrieben.
 
 RumorsPostsuccess:  [1007]
 Der irre Zauberer aus ___mondung_ wurde getötet. Ein %ra war dafür verantwortlich. Sehr mutig.
@@ -50,26 +50,30 @@ Der irre Zauberer aus ___mondung_ wurde getötet. Ein %ra war dafür verantwortl
 Wenn dieser Hexenmeister überlebt hätte, dann hätte _questgiver_ ein sehr großes Problem.
 
 QuestorPostsuccess:  [1008]
-Ihr habt doch wohl keine Belohnung für Euer Scheitern erwartet. Ich habt Glück, dass ich Euch nicht auspeitschen lasse.
+<ce> Ihr habt doch wohl keine Belohnung für
+<ce> Euer Scheitern erwartet. Ich habt Glück,
+<ce> dass ich Euch nicht auspeitschen lasse.
 <--->
-So, ein %ra kehrt zurück. Der Magier, den Ihr hättet töten sollen, wird wohl ebenfalls zurückkehren. Verschwindet jetzt besser.
+<ce> So, ein %ra kehrt zurück. Der Magier,
+<ce> den Ihr hättet töten sollen, wird wohl
+<ce> ebenfalls zurückkehren. Verschwindet jetzt besser.
 
 QuestorPostfailure:  [1009]
-Ihr habt doch wohl keine Belohnung für Euer
-Scheitern erwartet. Ich habt Glück, dass
-ich Euch nicht auspeitschen lasse.
+<ce> Ihr habt doch wohl keine Belohnung für Euer
+<ce> Scheitern erwartet. Ich habt Glück, dass
+<ce> ich Euch nicht auspeitschen lasse.
 <--->
-So, ein %ra kehrt zurück. Der
-Magier, den Ihr hättet töten sollen, wird
-wohl ebenfalls zurückkehren. Verschwindet
-jetzt besser.
+<ce> So, ein %ra kehrt zurück. Der
+<ce> Magier, den Ihr hättet töten sollen, wird
+<ce> wohl ebenfalls zurückkehren. Verschwindet
+<ce> jetzt besser.
 
 Message:  1011
-_questgiver_ hegt einen tiefen Groll auf
-den Hexenmeister  _fakename_.
+<ce> _questgiver_ hegt einen tiefen Groll auf
+<ce> den Hexenmeister _fakename_.
 <--->
-_questgiver_ wurde von einem Hexenmeister
-namens _fakename_ heimgesucht.
+<ce> _questgiver_ wurde von einem Hexenmeister
+<ce> namens _fakename_ heimgesucht.
 
 Message:  1012
 _fakename_ der Hexenmeister ist tot.
@@ -85,9 +89,9 @@ Message:  1015
  ich mein Gold bekommen.
 
 Message:  1020
-Ihr müsst der jüngste Narr sein, den
-_questgiver_ angeheurt hat, um
-mich zu töten. Eure Knochen werden sich
-schon bald zu Euren Vorgängern gesellen,
-die hier im Verlies verstreut sind!
+<ce> Ihr müsst der jüngste Narr sein, den
+<ce> _questgiver_ angeheurt hat, um
+<ce> mich zu töten. Eure Knochen werden sich
+<ce> schon bald zu Euren Vorgängern gesellen,
+<ce> die hier im Verlies verstreut sind!
 

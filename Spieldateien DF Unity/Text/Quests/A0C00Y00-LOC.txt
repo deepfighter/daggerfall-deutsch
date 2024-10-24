@@ -3,76 +3,76 @@ DisplayName: Der Postbote
 QRC:
 
 QuestorOffer:  [1000]
-Mein Name ist _qgiver_. Ich habe
-eine Mission, die außerordentliche
-List und Heimlichkeit erfordert.
-Das Risiko ist gering, und ich werde
-Euch _gold_ Goldstücke dafür bezahlen.
-Sie wird lediglich =traveltime_ Tage Eurer
-Zeit in Anspruch nehmen. Näheres
-kann ich Euch jedoch erst verraten,
-wenn Ihr die Mission angenommen habt.
+<ce> Mein Name ist _qgiver_. Ich habe
+<ce> eine Mission, die außerordentliche
+<ce> List und Heimlichkeit erfordert.
+<ce> Das Risiko ist gering, und ich werde
+<ce> Euch _gold_ Goldstücke dafür bezahlen.
+<ce> Sie wird lediglich =traveltime_ Tage Eurer
+<ce> Zeit in Anspruch nehmen. Näheres
+<ce> kann ich Euch jedoch erst verraten,
+<ce> wenn Ihr die Mission angenommen habt.
 <--->
-Seid gegrüßt, junger %ra.
-Wie würde es Euch gefallen,
-_gold_ Goldstücke zu verdienen?
-Ihr müsstet nichts weiter tun, als
-ein kleines Kunststück vollführen, das,
-wie man mir sagte, in Söldnerkreisen als
-"der alte Taschenspielertrick" bekannt ist.
+<ce> Seid gegrüßt, junger %ra.
+<ce> Wie würde es Euch gefallen,
+<ce> _gold_ Goldstücke zu verdienen?
+<ce> Ihr müsstet nichts weiter tun, als
+<ce> ein kleines Kunststück vollführen, das,
+<ce> wie man mir sagte, in Söldnerkreisen als
+<ce> "der alte Taschenspielertrick" bekannt ist.
 
 RefuseQuest:  [1001]
-Ich verstehe. Ich bin froh, dass ich Euch
-keine Details gegeben habe. So könnt Ihr
-mich nicht verraten.
+<ce> Ich verstehe. Ich bin froh, dass ich Euch
+<ce> keine Details gegeben habe. So könnt Ihr
+<ce> mich nicht verraten.
 <--->
-Nun gut, aber es mag sein, dass fehlender
-Ehrgeiz Euer Verderben wird, mein junger
-Freund.
+<ce> Nun gut, aber es mag sein, dass fehlender
+<ce> Ehrgeiz Euer Verderben wird, mein junger
+<ce> Freund.
 
 AcceptQuest:  [1002]
-Begebt Euch zu _inn_ in
-_inn. Ein Kurier wird dort
-verweilen, der einen Brief bei sich tragen
-sollte. Nehmt den Brief und platziert diese
-Fälschung hier an dessen Stelle. Berührt
-keines seiner anderen Besitztümer. All meine
-Planungen wären zunichte, wenn er entdeckt,
-dass die Briefe vertauscht wurden. Solltet
-Ihr erwischt werden, versucht erst gar nicht,
-mich zu finden.
+<ce> Begebt Euch zu _inn_ in
+<ce> _inn. Ein Kurier wird dort
+<ce> verweilen, der einen Brief bei sich tragen
+<ce> sollte. Nehmt den Brief und platziert diese
+<ce> Fälschung hier an dessen Stelle. Berührt
+<ce> keines seiner anderen Besitztümer. All meine
+<ce> Planungen wären zunichte, wenn er entdeckt,
+<ce> dass die Briefe vertauscht wurden. Solltet
+<ce> Ihr erwischt werden, versucht erst gar nicht,
+<ce> mich zu finden.
 
 QuestFail:  [1003]
-Habt Ihr nicht einen Brief für mich zu überbringen?
+<ce> Habt Ihr nicht einen Brief für mich zu überbringen?
 <--->
-Kehrt zurück, wenn Ihr Eure Mission erfüllt habt,
+<ce> Kehrt zurück, wenn Ihr Eure Mission erfüllt habt,
 %pcf.
 
 QuestComplete:  [1004]
-Ah! Gut gemacht, %pcf. Hier ist Eure
-Belohnung. Erwähnt diese Sache niemandem.
-Ich werde abstreiten, Euch jemals getroffen
-zu haben.
+<ce> Ah! Gut gemacht, %pcf. Hier ist Eure
+<ce> Belohnung. Erwähnt diese Sache niemandem.
+<ce> Ich werde abstreiten, Euch jemals getroffen
+<ce> zu haben.
 
 RumorsDuringQuest:  [1005]
-Die Ernte scheint dieses Jahr gut zu sein.
+<ce> Die Ernte scheint dieses Jahr gut zu sein.
 
 RumorsPostfailure:  [1006]
-Für _qgiver_ sind harte Zeiten angebrochen.
+<ce> Für _qgiver_ sind harte Zeiten angebrochen.
 
 RumorsPostsuccess:  [1007]
-_qgiver_ scheint in letzter Zeit eine Glückssträhne zu haben.
+<ce> _qgiver_ scheint in letzter Zeit eine Glückssträhne zu haben.
 
 QuestorPostsuccess:  [1008]
-Seid still. Natürlich erinnere ich mich an
-diese kleine Briefvertauschungs-Mission, die
-Ihr für mich erledigt habt, aber ich würde
-es bevorzugen, wenn sonst niemand davon erfährt.
+<ce> Seid still. Natürlich erinnere ich mich an
+<ce> diese kleine Briefvertauschungs-Mission, die
+<ce> Ihr für mich erledigt habt, aber ich würde
+<ce> es bevorzugen, wenn sonst niemand davon erfährt.
 
 QuestorPostfailure:  [1009]
-Ihr seid es! Alles, worum ich Euch gebeten hatte,
-war, einen einfachen Brief auszutauschen, und selbst
-das habt Ihr nicht geschafft! Verlasst meine Gegenwart.
+<ce> Ihr seid es! Alles, worum ich Euch gebeten hatte,
+<ce> war, einen einfachen Brief auszutauschen, und selbst
+<ce> das habt Ihr nicht geschafft! Verlasst meine Gegenwart.
 
 QuestLogEntry:  [1010]
 %qdt:
@@ -119,18 +119,18 @@ Mein liebster _npc1_,
                        _npc3_
 
 Message:  1013
-Diese Taverne sieht aus wie jede andere auch. Für
-Euch jedoch ist sie ein Ort, an dem Heimlichkeit
-mehr bedeutet als Stärke. Nun gilt es herauszufinden,
-wo der Kurier diesen Brief gelassen hat.
+<ce> Diese Taverne sieht aus wie jede andere auch. Für
+<ce> Euch jedoch ist sie ein Ort, an dem Heimlichkeit
+<ce> mehr bedeutet als Stärke. Nun gilt es herauszufinden,
+<ce> wo der Kurier diesen Brief gelassen hat.
 
 Message:  1014
-Dieb! Euch werde ich lehren, von
-einem ehrlichen Boten zu stehlen!
+<ce> Dieb! Euch werde ich lehren, von
+<ce> einem ehrlichen Boten zu stehlen!
 
 Message:  1015
-Als der Brief voller Lügen Eure Finger verlässt,
-wisst Ihr, dass Eure Aufgabe halb erfüllt ist.
+<ce> Als der Brief voller Lügen Eure Finger verlässt,
+<ce> wisst Ihr, dass Eure Aufgabe halb erfüllt ist.
 
 Message:  1016
 Baron _npc1_,
@@ -193,11 +193,15 @@ Ehrenwerter_npc1_,
  
                   _npc2_
 
+Message:  1022
+<ce> Man hat Euch ertappt, und das wisst Ihr wohl.
+<ce> Verschwindet aus meinem Angesicht, %ra.
+
 Message:  1030
-_qgiver_ ist ein echter Wiesel.
+<ce> _qgiver_ ist ein echter Wiesel.
 
 Message:  1031
-_qgiver_ scheint vielleicht
-ganz nett zu sein, aber ich würde
-nicht mit %g2 Karten spielen.
+<ce> _qgiver_ scheint vielleicht
+<ce> ganz nett zu sein, aber ich würde
+<ce> nicht mit %g2 Karten spielen.
 

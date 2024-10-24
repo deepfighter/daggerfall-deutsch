@@ -3,41 +3,41 @@ DisplayName: Entliehener Gegenstand
 QRC:
 
 QuestorOffer:  [1000]
-Habt Ihr ein paar Tage Zeit um mir
-einen kleinen Gefallen zu tun, %pcf?
-es muss nur etwas, dass ich ausgeliehen
-habem, an seinen Eigentümer zurück
-gebracht werden. Nichts allzu anstrengendes,
-und Ihr werdet um _reward_ Goldstücke
-reicher sein. Ein verlockendes Angebot,
-nicht wahr?
+<ce> Habt Ihr ein paar Tage Zeit um mir
+<ce> einen kleinen Gefallen zu tun, %pcf?
+<ce> es muss nur etwas, dass ich ausgeliehen
+<ce> habem, an seinen Eigentümer zurück
+<ce> gebracht werden. Nichts allzu anstrengendes,
+<ce> und Ihr werdet um _reward_ Goldstücke
+<ce> reicher sein. Ein verlockendes Angebot,
+<ce> nicht wahr?
 
 RefuseQuest:  [1001]
-Das ist schade. Nun, dann werde ich
-eben jemand anderen dafür anheuern.
+<ce> Das ist schade. Nun, dann werde ich
+<ce> eben jemand anderen dafür anheuern.
 
 AcceptQuest:  [1002]
-%oth, so ist's recht! Ich habe
-dieses _item1_, das ich von
-meinem guten Freund _npc1_,
-einem Priester in __npc1_
-in ___npc1_ geliehen habe.
-Es ist ziemlich dringend, dass
-es zurück an %g2 gelangt -- %g 
-benötigt es in =1stparton_ Tagen. Also
-bitte beeilt Euch. Danke dafür,
-%pcf.
+<ce> %oth, so ist's recht! Ich habe
+<ce> dieses _item1_, das ich von
+<ce> meinem guten Freund _npc1_,
+<ce> einem Priester in __npc1_
+<ce> in ___npc1_ geliehen habe.
+<ce> Es ist ziemlich dringend, dass
+<ce> es zurück an %g2 gelangt -- %g 
+<ce> benötigt es in =1stparton_ Tagen. Also
+<ce> bitte beeilt Euch. Danke dafür,
+<ce> %pcf.
 
 QuestFail:  [1003]
-Habe ich nicht gesagt, Ihr sollt Euch beeilen, %pcf?
+<ce> Habe ich nicht gesagt, Ihr sollt Euch beeilen, %pcf?
 
 QuestComplete:  [1004]
-Ah, gut. Der _item2_ ist so
-exquisit, wie mir versprochen
-wurde. Gute Arbeit, %pcf.
-Hier sind Eure _reward_ Goldstücke
-für die schnelle Lieferung und Euer
-Stillschweigen.
+<ce> Ah, gut. Der _item2_ ist so
+<ce> exquisit, wie mir versprochen
+<ce> wurde. Gute Arbeit, %pcf.
+<ce> Hier sind Eure _reward_ Goldstücke
+<ce> für die schnelle Lieferung und Euer
+<ce> Stillschweigen.
 
 RumorsDuringQuest:  [1005]
 In letzter Zeit herrscht reger Verkehr von und nach __npc1_. Ich frage mich, was dort vor sich geht.
@@ -55,31 +55,34 @@ Komisch. Ich weiß, es gab eine Lieferung von _item1_en nach __npc1_, aber irgen
 ___npc2_ soll ein Zentrum des _item2_-Schmuggels sein. Muss gut getarnt sein.
 
 QuestorPostsuccess:  [1008]
-Schaut mal, wer zurück ist. Ihr versteht, ich konnte Euch nichts von dem Edelstein erzählen, oder?
+<ce> Schaut mal, wer zurück ist. Ihr versteht, ich konnte
+<ce> Euch nichts von dem Edelstein erzählen, oder?
 <--->
-Nun, wenn das nicht %pcf ist. Großartige Arbeit bei diesem Schmuggelgeschäft, mein Freund.
+<ce> Nun, wenn das nicht %pcf ist.
+<ce> Großartige Arbeit bei diesem Schmuggelgeschäft,
+<ce> mein Freund.
 
 QuestorPostfailure:  [1009]
-Das war keine Lappalie, bei
-der Ihr versagt habt, %pcf.
-Vielleicht werde ich Euch mit
-der Zeit vergeben können.
-Vielleicht.
+<ce> Das war keine Lappalie, bei
+<ce> der Ihr versagt habt, %pcf.
+<ce> Vielleicht werde ich Euch mit
+<ce> der Zeit vergeben können.
+<ce> Vielleicht.
 
 QuestLogEntry:  [1010]
-Oh gut, mein _item1_ ist zurück.
-Danke, %pcf. Aber es scheint,
-etwas darin festzustecken. Oh, ich
-sehe ... dieser Stein. Wäret Ihr
-so freundlich, dieses Steinchen zu
-_questgiver_s Freund,
-_npc2_, nach
-__npc2_ in ___npc2_
-zu bringen? Ich glaube, %g hat
-Euer Gold, aber Ihr solltet Euch
-beeilen. _npc2_ wird ungeduldig,
-wenn %g länger als =2ndparton_ Tage
-warten muss.
+<ce> Oh gut, mein _item1_ ist zurück.
+<ce> Danke, %pcf. Aber es scheint,
+<ce> etwas darin festzustecken. Oh, ich
+<ce> sehe ... dieser Stein. Wäret Ihr
+<ce> so freundlich, dieses Steinchen zu
+<ce> _questgiver_s Freund,
+<ce> _npc2_, nach
+<ce> __npc2_ in ___npc2_
+<ce> zu bringen? Ich glaube, %g hat
+<ce> Euer Gold, aber Ihr solltet Euch
+<ce> beeilen. _npc2_ wird ungeduldig,
+<ce> wenn %g länger als =2ndparton_ Tage
+<ce> warten muss.
 
 Message:  1015
 %qdt:
@@ -106,18 +109,18 @@ Message:  1016
  dies zu bewerkstelligen. 
 
 Message:  1020
-Hier in %reg ist allein die
-Diebesgilde zum Schmuggeln befugt.
-Ich nehme an, _questgiver_
-dachte, %g stünde über dem Gesetz.
-%g hat sich geirrt. Ihr werdet
-mir jenes _item2_ aushändigen,
-und _questgiver_ wird lernen,
-sich nicht mit der Diebesgilde anzulegen.
-Tut es, oder ich werde Euch töten.
+<ce> Hier in %reg ist allein die
+<ce> Diebesgilde zum Schmuggeln befugt.
+<ce> Ich nehme an, _questgiver_
+<ce> dachte, %g stünde über dem Gesetz.
+<ce> %g hat sich geirrt. Ihr werdet
+<ce> mir jenes _item2_ aushändigen,
+<ce> und _questgiver_ wird lernen,
+<ce> sich nicht mit der Diebesgilde anzulegen.
+<ce> Tut es, oder ich werde Euch töten.
 
 Message:  1021
-Sagt jedem, den Ihr kennt, sie sollen
-sich nicht mit der Diebesgilde anlegen.
-Nun verschwindet.
+<ce> Sagt jedem, den Ihr kennt, sie sollen
+<ce> sich nicht mit der Diebesgilde anlegen.
+<ce> Nun verschwindet.
 

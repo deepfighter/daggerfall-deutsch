@@ -3,35 +3,35 @@ DisplayName: Das Bußritual
 QRC:
 
 QuestorOffer:  [1000]
-Mir ward berichtet, dass Ihr dem heiligen Tempel
-von großer Loyalität seid. Ihr müsst nun eine
-lebenswichtige Aufgabe übernehmen. %god
-zürnt uns und der Grund hierfür soll Euch nicht
-belasten. Unsere einzige Hoffnung liegt darin,
-ein Bußitual abzuhalten. Dafür bedürfen wir
-_ingredient_. Meine Quelle hat verlautbaren
-lassen, dass sich solch ein Gegenstand in
-___dungeon_ finden lässt.
-Werdet Ihr es uns bringen?
+<ce> Mir ward berichtet, dass Ihr dem heiligen Tempel
+<ce> von großer Loyalität seid. Ihr müsst nun eine
+<ce> lebenswichtige Aufgabe übernehmen. %god
+<ce> zürnt uns und der Grund hierfür soll Euch nicht
+<ce> belasten. Unsere einzige Hoffnung liegt darin,
+<ce> ein Bußitual abzuhalten. Dafür bedürfen wir
+<ce> _ingredient_. Meine Quelle hat verlautbaren
+<ce> lassen, dass sich solch ein Gegenstand in
+<ce> ___dungeon_ finden lässt.
+<ce> Werdet Ihr es uns bringen?
 
 RefuseQuest:  [1001]
-Eure Loyalität zum Tempel
-ist nicht so stark, wie ich
-erwartet hatte, %pcn.
+<ce> Eure Loyalität zum Tempel
+<ce> ist nicht so stark, wie ich
+<ce> erwartet hatte, %pcn.
 
 AcceptQuest:  [1002]
-Die Zeremonie muss in den nächsten =traveltime_ Tagen
-abgehalten werden. Der Tempel wird Euch mit
-_gold_ Goldstücken entlohnen. Nur reines _ingredient_
-wird funktionieren. Der Segen von %god geleitet Euch,
-und daran werdet Ihr erkennen, dass Ihr gefunden habt,
-was Ihr sucht.
+<ce> Die Zeremonie muss in den nächsten =traveltime_ Tagen
+<ce> abgehalten werden. Der Tempel wird Euch mit
+<ce> _gold_ Goldstücken entlohnen. Nur reines _ingredient_
+<ce> wird funktionieren. Der Segen von %god geleitet Euch,
+<ce> und daran werdet Ihr erkennen, dass Ihr gefunden habt,
+<ce> was Ihr sucht.
 
 QuestComplete:  [1004]
-Habt Ihr es? _ingredient_!
-Wir können %god beruhigen.
-Das habt Ihr gut gemacht.
-Hier ist Eure Belohnung.
+<ce> Habt Ihr es? _ingredient_!
+<ce> Wir können %god beruhigen.
+<ce> Das habt Ihr gut gemacht.
+<ce> Hier ist Eure Belohnung.
 
 RumorsDuringQuest:  [1005]
 Die Dinge waren in letzter Zeit recht ... angespannt in __qgiver_.
@@ -64,7 +64,7 @@ QuestLogEntry:  [1010]
  verstrichen sind.
 
 Message:  1011
-Das ist es! Ich kann die Reinheit
-des _ingredient_ spüren.
-Eilt zu _qgiver_ damit.
+<ce> Das ist es! Ich kann die Reinheit
+<ce> des _ingredient_ spüren.
+<ce> Eilt zu _qgiver_ damit.
 

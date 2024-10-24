@@ -50,7 +50,7 @@ QuestComplete:  [1004]
 <ce> Nachkommen Tiber Septims vor dem Unterkönig
 <ce> verbergen. König Lysandus fiel nicht in der
 <ce> Schlacht von Cryngaine. Er wurde schon davor
-<ce> durch Verrat getötet. Das für ihn in Hammerfall
+<ce> durch Verrat getötet. Das für ihn in Hochfels
 <ce> errichtete Grabmal ist leer. Seine Überreste
 <ce> wurden heimlich zu einer alten Gruft in
 <ce> Menevia gebracht, die ich Euch nun zeigen

@@ -3,67 +3,67 @@ DisplayName: Die Prinzessin
 QRC:
 
 QuestorOffer:  [1000]
-%pcf, die Prinzessin _lady_
-wurde unserem Schutz entrissen. Es ist
-unsere ritterliche Pflicht, sie zu retten.
-Unglücklicherweise kämpfen gerade viele
-unserer Ordensbrüder im Krieg. Werdet
-Ihr die Prinzessin im besten Geist des
-Rittertums aus den Klauen des Vampirs
-befreien, der sie entführt hat?
+<ce> %pcf, die Prinzessin _lady_
+<ce> wurde unserem Schutz entrissen. Es ist
+<ce> unsere ritterliche Pflicht, sie zu retten.
+<ce> Unglücklicherweise kämpfen gerade viele
+<ce> unserer Ordensbrüder im Krieg. Werdet
+<ce> Ihr die Prinzessin im besten Geist des
+<ce> Rittertums aus den Klauen des Vampirs
+<ce> befreien, der sie entführt hat?
 <--->
-Der Krieg hat den Orden so sehr in Anspruch
-genommen, dass wichtige Pflichten wie der
-Schutz der Tugend einer Edelfrau von %reg
-auf der Strecke geblieben sind. Es ist
-niemand sonst mehr da, um die vor kurzem
-entführte Prinzessin _lady_
-zu retten. Steht Ihr für diese löbliche
-Quest bereit?
+<ce> Der Krieg hat den Orden so sehr in Anspruch
+<ce> genommen, dass wichtige Pflichten wie der
+<ce> Schutz der Tugend einer Edelfrau von %reg
+<ce> auf der Strecke geblieben sind. Es ist
+<ce> niemand sonst mehr da, um die vor kurzem
+<ce> entführte Prinzessin _lady_
+<ce> zu retten. Steht Ihr für diese löbliche
+<ce> Quest bereit?
 
 RefuseQuest:  [1001]
-Ah, das ist nicht der Geist unseres Ordens.
-Es gibt nichts wichtigeres als die Tugend
-der Unschuldigen zu beschützen.
+<ce> Ah, das ist nicht der Geist unseres Ordens.
+<ce> Es gibt nichts wichtigeres als die Tugend
+<ce> der Unschuldigen zu beschützen.
 
 AcceptQuest:  [1002]
-Ihr seid dazu bereit? Ich muss sagen, Ihr habt ein
-tapferes Herz. Ein Vampir ist ein furchterregender
-Gegner. Bereitet Euch auf eine Schlacht vor. Und
-seid nicht leichtfertig - uns interessiert nur die
-Rettung der Prinzessin. Wenn Ihr den Vampir in Ruhe
-lassen könnt, dann lasst ihn. Aber wenn Ihr nicht
-in =2mondung_ Tagen zurück seid, müssen wir annehmen, dass
-Ihr versagt habt und werden an Eurer statt jemand
-anderen schicken. Ihr wollt bestimmt nicht, dass ein
-anderer sich die Ehre der Rettung verdient. Möge
-%god Eure Fahrt nach ___mondung_ segnen.
+<ce> Ihr seid dazu bereit? Ich muss sagen, Ihr habt ein
+<ce> tapferes Herz. Ein Vampir ist ein furchterregender
+<ce> Gegner. Bereitet Euch auf eine Schlacht vor. Und
+<ce> seid nicht leichtfertig - uns interessiert nur die
+<ce> Rettung der Prinzessin. Wenn Ihr den Vampir in Ruhe
+<ce> lassen könnt, dann lasst ihn. Aber wenn Ihr nicht
+<ce> in =2mondung_ Tagen zurück seid, müssen wir annehmen, dass
+<ce> Ihr versagt habt und werden an Eurer statt jemand
+<ce> anderen schicken. Ihr wollt bestimmt nicht, dass ein
+<ce> anderer sich die Ehre der Rettung verdient. Möge
+<ce> %god Eure Fahrt nach ___mondung_ segnen.
 
 QuestFail:  [1003]
-Beeilt Euch, %pcf.
-Ihr habt nur noch =2mondung_ Tage Zeit.
+<ce> Beeilt Euch, %pcf.
+<ce> Ihr habt nur noch =2mondung_ Tage Zeit.
 
 QuestComplete:  [1004]
-Prinzessin _lady_, darf ich Euch
-nun auch ganz offiziell Euren edlen Retter
-vorstellen: %pcn. Ihr habt heute
-eine gute und ehrenhafte Tat vollbracht.
-Sie soll nicht vergessen werden.
+<ce> Prinzessin _lady_, darf ich Euch
+<ce> nun auch ganz offiziell Euren edlen Retter
+<ce> vorstellen: %pcn. Ihr habt heute
+<ce> eine gute und ehrenhafte Tat vollbracht.
+<ce> Sie soll nicht vergessen werden.
 
 RumorsDuringQuest:  [1005]
-Arme Prinzessin _lady_. Wenn ihr Vater nach %cn kommt, wird er vor Zorn außer sich sein.
+Arme Prinzessin _lady_. Wenn ihr Vater nach ___qgiver_ kommt, wird er vor Zorn außer sich sein.
 <--->
 _qgiver_ versprach dem Vater von Prinzessin _lady_, dass man sie beschützen würde.
 
 RumorsPostfailure:  [1006]
 Die Prinzessin hat es geschafft, ___mondung_ allein zu entkommen. Das ist ritterlicher Mut!
 <--->
-Die Prinzessin lief allein in %cn umher, ganz bleich vor Blutverlust.
+Die Prinzessin lief allein in ___qgiver_ umher, ganz bleich vor Blutverlust.
 
 RumorsPostsuccess:  [1007]
 Ein großer %ra bewies Heldenmut, als er _lady_ rettete. Ein Fest des Rittertums!
 <--->
-Ein tapferer %ra hat Herrin _lady_  gerettet. Sie hat angefangen, darüber Gedichte zu schreiben.
+Ein tapferer %ra hat Herrin _lady_ gerettet. Sie hat angefangen, darüber Gedichte zu schreiben.
 
 QuestorPostsuccess:  [1008]
 Seid gegrüßt, %pct. Es wird Euch freuen zu hören, dass es der Dame _lady_ gut geht.
@@ -75,7 +75,7 @@ QuestLogEntry:  [1010]
 %qdt:
  _qgiver_, __qgiver_ in
  ___qgiver_, gab mir die Quest,
- die schöne Dame  _lady_ aus
+ die schöne Dame _lady_ aus
  ___mondung_ zu retten, wohin
  sie von einem Vampir entführt wurde.
  Ich habe =2mondung_ Tage um sie zu retten,
@@ -83,19 +83,19 @@ QuestLogEntry:  [1010]
  statt meiner Ruhm und Ehre gewinnt.
 
 Message:  1011
-Ein kleiner, schmaler, bleicher Junge
-zischelt Euch an und drückt Euch eine
-Nachricht in die Hand. Er verschwindet
-fast in demselben Augenblick wieder,
-in dem Ihr Notiz entgegennehmt.
+<ce> Ein kleiner, schmaler, bleicher Junge
+<ce> zischelt Euch an und drückt Euch eine
+<ce> Nachricht in die Hand. Er verschwindet
+<ce> fast in demselben Augenblick wieder,
+<ce> in dem Ihr Notiz entgegennehmt.
 
 Message:  1012
-Ihr habt gerade den Vampir getötet: der Stoff,
-aus dem die Alpträume von _lady_ waren.
+<ce> Ihr habt gerade den Vampir getötet: der Stoff,
+<ce> aus dem die Alpträume von _lady_ waren.
 
 Message:  1013
-Die Dame _lady_ verlässt Euch,
-um ihren eigenen Weg nach Hause zu finden.
+<ce> Die Dame _lady_ verlässt Euch,
+<ce> um ihren eigenen Weg nach Hause zu finden.
 
 Message:  1014
 %pcf,
@@ -108,15 +108,15 @@ Message:  1014
  =monster_ hat für unsere kalten
  Herzen ungefähr den Wert eines monatealten
  Spuckeflecks.
-
+ 
       Amüsiert Euch gut. Und amüsiert Euch
  mit _lady_, wenn Ihr wollt.
-  
+ 
 <ce>Eure lieben Freunde,
 <ce>Die älteste Macht in %reg
 
 Message:  1015
-"Ihr seid %pcf! %god sei Dank!
- Ich bin die Dame _lady_,
- lasst uns von hier verschwinden."
+<ce> "Ihr seid %pcf! %god sei Dank!
+<ce> Ich bin die Dame _lady_,
+<ce> lasst uns von hier verschwinden."
 

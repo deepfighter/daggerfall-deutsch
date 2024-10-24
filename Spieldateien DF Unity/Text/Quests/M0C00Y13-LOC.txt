@@ -3,59 +3,56 @@ DisplayName: Barbarenkampf
 QRC:
 
 QuestorOffer:  [1000]
-Ich bin _qgiver_.
-Die Kriegergilde vergibt eigentlich
-keine Freiwilligenarbeit. Wenn ich
-nicht gerade jetzt zu wenige
-Krieger hätte, würde ich Euch
-wegschicken, %pcn.
-Ich brauche aber jemanden, der
-ein paar wildgewordene Barbaren
-zur Strecke bringt. Erledigt
-das für mich und jeder wird von
-mir erfahren, dass ein %ra
-für sich einstehen kann.
-Abgemacht?
+<ce> Ich bin _qgiver_.
+<ce> Die Kriegergilde vergibt eigentlich
+<ce> keine Freiwilligenarbeit. Wenn ich
+<ce> nicht gerade jetzt zu wenige
+<ce> Krieger hätte, würde ich Euch
+<ce> wegschicken, %pcn.
+<ce> Ich brauche aber jemanden, der
+<ce> ein paar wildgewordene Barbaren
+<ce> zur Strecke bringt. Erledigt
+<ce> das für mich und jeder wird von
+<ce> mir erfahren, dass ein %ra
+<ce> für sich einstehen kann.
+<ce> Abgemacht?
 
 RefuseQuest:  [1001]
-Ihr habt gerade einen schweren
-Fehler gemacht, %pcn.
-Ihr braucht in nächster Zeit bei
-mir nicht nach Arbeit zu suchen.
+<ce> Ihr habt gerade einen schweren
+<ce> Fehler gemacht, %pcn.
+<ce> Ihr braucht in nächster Zeit bei
+<ce> mir nicht nach Arbeit zu suchen.
 
 AcceptQuest:  [1002]
-Bewegt Eure bedauernswerten Knochen
-zu diesem Gebäude [_house_].
-Beseitigt die Barbaren bis morgen
-um diese Zeit und alles ist gut.
+<ce> Bewegt Eure bedauernswerten Knochen
+<ce> zu diesem Gebäude [_house_].
+<ce> Beseitigt die Barbaren bis morgen
+<ce> um diese Zeit und alles ist gut.
 
 QuestComplete:  [1004]
-Wurdet Ihr schlimm getroffen?
-Noch ein paar Aufträge wie
-dieser und Ihr könnt mit
-Pauken und Trompeten in die
-Kriegergilde einziehen.
+<ce> Wurdet Ihr schlimm getroffen?
+<ce> Noch ein paar Aufträge wie
+<ce> dieser und Ihr könnt mit
+<ce> Pauken und Trompeten in die
+<ce> Kriegergilde einziehen.
 
 RumorsDuringQuest:  [1005]
 Barbaren überfallen wieder die Höfe.
 
 RumorsPostfailure:  [1006]
-Die Barbaren hatten schon vier Gehöfte
-überfallen, bis die Kriegergilde
-endlich eingeschritten ist.
+Die Barbaren hatten schon vier Gehöfte überfallen, bis die Kriegergilde endlich eingeschritten ist.
 
 RumorsPostsuccess:  [1007]
-Seid Ihr nicht der %ra,
-der die Barbaren vertrieben hat?
+Seid Ihr nicht der %ra, der die Barbaren vertrieben hat?
 
 QuestorPostsuccess:  [1008]
-Ihr habt Euch ganz gut um diese
-Barbaren gekümmert, %pcf.
-Gar nicht mal so übel.
+<ce> Ihr habt Euch ganz gut um diese
+<ce> Barbaren gekümmert, %pcf.
+<ce> Gar nicht mal so übel.
 
 QuestorPostfailure:  [1009]
-Ich habe darauf vertraut, dass Ihr
-Euch um diese Barbaren kümmern würdet.
+<ce> Ich habe darauf vertraut, dass Ihr
+<ce> Euch um diese Barbaren kümmern würdet.
 Aber Ihr seid gescheitert, darum habe
 ich nun jemand anderen damit beauftragt.
 
@@ -68,5 +65,5 @@ QuestLogEntry:  [1010]
  Ich habe dafür einen ganzen Tag Zeit.
 
 Message:  1011
-Der _monster_ ist tot.
+_monster_ ist tot.
 

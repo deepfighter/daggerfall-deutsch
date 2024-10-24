@@ -3,40 +3,40 @@ DisplayName: Unhöfliches Benehmen
 QRC:
 
 QuestorOffer:  [1000]
-Oh ja, Schätzchen, ich glaube, ich kann Euren Ehrgeiz
-zufriedenstellen. Würdet Ihr wohl etwas für mich tun,
-wenn ich Euch dafür etwas sehr Wertvolles gebe?
+<ce> Oh ja, Schätzchen, ich glaube, ich kann Euren Ehrgeiz
+<ce> zufriedenstellen. Würdet Ihr wohl etwas für mich tun,
+<ce> wenn ich Euch dafür etwas sehr Wertvolles gebe?
 
 RefuseQuest:  [1001]
-Oh, das ist aber schade. Eine freundliche Warnung:
-%ra-Abenteurern, die immer gern nehmen,
-aber nie geben, passieren schlimme Dinge.
+<ce> Oh, das ist aber schade. Eine freundliche Warnung:
+<ce> %ra-Abenteurern, die immer gern nehmen,
+<ce> aber nie geben, passieren schlimme Dinge.
  
 AcceptQuest:  [1002]
-Das würdet Ihr? Oh, wie reizend! Viel reizender als eine
-bestimmte Bekanntschaft von mir ... =monster_
-hat zuerst ein gewisses Arrangement mit mir getroffen und
-es sich dann anders überlegt! Wenn Ihr so freundlich seid,
-=monster_ einen Besuch abzustatten und daran zu
-erinnern, dass ein so unhöfliches Benehmen tödlich ist?
-Sucht anschließend _qgfriend_ auf.
-Man wird =1stparton_ Tage an einem Ort [__qgfriend_]
-in ___qgfriend_ auf Euch warten und Euch bei Eurer
-Ankunft meinen Ring der Khajiiti überreichen.
-Genau das, was Ihr haben wollt. Und jetzt geht.
-Seid vorsichtig!
+<ce> Das würdet Ihr? Oh, wie reizend! Viel reizender als eine
+<ce> bestimmte Bekanntschaft von mir ... =monster_
+<ce> hat zuerst ein gewisses Arrangement mit mir getroffen und
+<ce> es sich dann anders überlegt! Wenn Ihr so freundlich seid,
+<ce> =monster_ einen Besuch in ___mondung_
+<ce> abzustatten und daran zu erinnern, dass ein so unhöfliches
+<ce> Benehmen tödlich ist? Sucht anschließend _qgfriend_
+<ce> auf. Man wird =1stparton_ Tage an einem Ort [__qgfriend_]
+<ce> in ___qgfriend_ auf Euch warten und Euch bei Eurer
+<ce> Ankunft meinen Ring der Khajiiti überreichen.
+<ce> Genau das, was Ihr haben wollt. Und jetzt geht.
+<ce> Seid vorsichtig!
 
 QuestFail:  [1003]
-Ihr wollt Euch doch nicht für Meridias Freundschaft
-revanchieren, indem Ihr mir erzählt, Ihr hättet
-=monster_ erschlagen? Wo wir doch beide wissen,
-dass dem nicht so ist? Das will ich nicht hoffen.
+<ce> Ihr wollt Euch doch nicht für Meridias Freundschaft
+<ce> revanchieren, indem Ihr mir erzählt, Ihr hättet
+<ce> =monster_ erschlagen? Wo wir doch beide wissen,
+<ce> dass dem nicht so ist? Das will ich nicht hoffen.
 
 QuestComplete:  [1004]
-%pcn? Ich bin _qgfriend_. Ich glaube,
-Ihr sucht nach mir. Ich habe hier wie von Meridia
-versprochen den Ring der Khajiiti. Meridia ist sehr
-beindruckt, weil Ihr Euren Teil des Vertrages erfüllt habt.
+<ce> %pcn? Ich bin _qgfriend_. Ich glaube,
+<ce> Ihr sucht nach mir. Ich habe hier wie von Meridia
+<ce> versprochen den Ring der Khajiiti. Meridia ist sehr
+<ce> beindruckt, weil Ihr Euren Teil des Vertrages erfüllt habt.
 
 RumorsDuringQuest:  [1005]
 Der Zauberer in ___mondung_ ist ein berüchtigter Sammler von seltsamen Artefakten.
@@ -52,12 +52,6 @@ RumorsPostsuccess:  [1007]
 Es heißt, ein Monster aus der Sammlung von =monster_ habe sich erhoben und =monster_ getötet.
 <--->
 =monster_ wurde wohl von jemandem getötet, der ein Auge auf die ausgedehnte Sammlung geworfen hatte.
-
-QuestorPostsuccess:  [1008]
-Error: Tried to call questtext 1008. Whoopsy!
-
-QuestorPostfailure:  [1009]
-Error: Tried to call questtext 1009. Ye Gods!
 
 Message:  1011
 _qgfriend_? Könnte man als sich als =qgfriend_ beschreiben. In dem Komplex [__qgfriend_] gleich %di'lich von hier.
@@ -75,9 +69,9 @@ Meridia ist eine daedrische Regentin und Sammlerin menschlicher Exemplare.
 Meridia ist so etwas wie eine aktive Daedrafürstin und unerbittlich in ihrer Habsucht.
 
 Message:  1014
-Der Ring ist uralt und mächtig. Angeblich kann er
-seinen Träger unsichtbar, lautlos und schnell wie
-der Wind machen.
+<ce> Der Ring ist uralt und mächtig. Angeblich kann er
+<ce> seinen Träger unsichtbar, lautlos und schnell wie
+<ce> der Wind machen.
 
 Message:  1020
 %qdt:
@@ -91,12 +85,12 @@ Message:  1020
  und _qgfriend_ in ___qgfriend_ aufhält.
 
 Message:  1030
-=monster_ liegt tot zu Euren Füßen.
-Fürstin Meridia schuldet Euch nun etwas.
+<ce> =monster_ liegt tot zu Euren Füßen.
+<ce> Fürstin Meridia schuldet Euch nun etwas.
 
 Message:  1040
-Meridia schickt also ihre Lakaien gegen mich aus.
-Aber auch ich habe meine Verbündeten! Zeigt Euch,
-Kinder des Vergessens! Dient =monster_
-in dieser Stunde der Not!
+<ce> Meridia schickt also ihre Lakaien gegen mich aus.
+<ce> Aber auch ich habe meine Verbündeten! Zeigt Euch,
+<ce> Kinder des Vergessens! Dient =monster_
+<ce> in dieser Stunde der Not!
 

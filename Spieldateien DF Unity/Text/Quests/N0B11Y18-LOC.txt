@@ -3,44 +3,44 @@ DisplayName: Der rebellische Magier, Teil 1
 QRC:
 
 QuestorOffer:  [1000]
-Ihr seid ein loyales Mitglied der
-Magiergilde, nicht wahr, %pct?
-Ich habe da eine Gildenangelegenheit
-von äußerster Wichtigkeit und hätte
-gerne, dass Ihr sie übernehmt.
+<ce> Ihr seid ein loyales Mitglied der
+<ce> Magiergilde, nicht wahr, %pct?
+<ce> Ich habe da eine Gildenangelegenheit
+<ce> von äußerster Wichtigkeit und hätte
+<ce> gerne, dass Ihr sie übernehmt.
 
 RefuseQuest:  [1001]
-Vielleicht seid Ihr doch nicht so loyal, wie ich dachte.
+<ce> Vielleicht seid Ihr doch nicht so loyal, wie ich dachte.
 
 AcceptQuest:  [1002]
-Sehr gut. Es gibt da einen rebellischen
-Magier namens Baltham Graumann, den wir
-ausschalten müssen. Ein früherer Schüler
-von mir, der vielversprechend erschien,
-dem es aber an Folgsamkeit gegenüber den
-altehrwürdigen Prinzipien der Gilde mangelte,
-die für ihr Fortbestehen so wichtig sind.
-Wir fanden heraus, dass er momentan
-ungenehmigte Forschungen in __rebelhouse_
-betreibt, offenbar ohne sich der Gefahr
-bewusst zu sein. Ihr habt =qtime_ Tage, diese
-Bedrohung aus der Welt zu schaffen und zu
-mir zurückzukehren.
+<ce> Sehr gut. Es gibt da einen rebellischen
+<ce> Magier namens Baltham Graumann, den wir
+<ce> ausschalten müssen. Ein früherer Schüler
+<ce> von mir, der vielversprechend erschien,
+<ce> dem es aber an Folgsamkeit gegenüber den
+<ce> altehrwürdigen Prinzipien der Gilde mangelte,
+<ce> die für ihr Fortbestehen so wichtig sind.
+<ce> Wir fanden heraus, dass er momentan
+<ce> ungenehmigte Forschungen in ___rebelhouse_
+<ce> betreibt, offenbar ohne sich der Gefahr
+<ce> bewusst zu sein. Ihr habt =qtime_ Tage, diese
+<ce> Bedrohung aus der Welt zu schaffen und zu
+<ce> mir zurückzukehren.
 
 QuestFail:  [1003]
-Hinfort, %pcn.
+<ce> Hinfort, %pcn.
 
 QuestComplete:  [1004]
-Ich habe diesen magischen Gegenstand
-[_reward_] selbst als ein Zeichen
-meiner Anerkennung Eures Dienstes
-an der Magiergilde angefertigt.
+<ce> Ich habe diesen magischen Gegenstand
+<ce> [_reward_] selbst als ein Zeichen
+<ce> meiner Anerkennung Eures Dienstes
+<ce> an der Magiergilde angefertigt.
 
 Message:  1020
 %qdt:
  Ich habe mich verpflichtet, einen
  rebellischen Magier, der momentan
- in __rebelhouse_ residiert,
+ in ___rebelhouse_ residiert,
  zu finden und zu vernichten. Sobald
  ich diesen Magier namens Baltham
  Graumann unschädlich gemacht habe,
@@ -54,38 +54,38 @@ Message:  1021
  Leben zu verschonen. Ich soll _questgiver_
  einfach sagen, dass ich außer einem Brief,
  den Baltham mir gegeben hat, keine Anzeichen
- von ihm in __rebelhouse_ gefunden hätte.
+ von ihm in ___rebelhouse_ gefunden hätte.
 
 Message:  1030
-So, _questgiver_ hat einen weiteren
-Lakaien geschickt, um in die Knie zu
-zwingen. Die alten Weiber, die der
-Magiergilde vorstehen, haben keinen
-Sinn für Abenteuer, gehen keine Risiken
-ein, wagen nichts und lernen nichts.
-Ich habe nie auch nur einen Finger gegen
-sie erhoben außer, um mich ihrer Kontrolle
-zu entziehen. Und doch will mich die
-Magiergilde tot sehen, nur weil ich mich
-weigere, ihren Regeln zu folgen! Warum
-schenkt Ihr ihnen blinden Gehorsam und
-mordet wie ein Auftragsmörder auf Befehl?
-Schließt Euch mir an und wir werden ihnen
-allen trotzen!
+<ce> So, _questgiver_ hat einen weiteren
+<ce> Lakaien geschickt, um in die Knie zu
+<ce> zwingen. Die alten Weiber, die der
+<ce> Magiergilde vorstehen, haben keinen
+<ce> Sinn für Abenteuer, gehen keine Risiken
+<ce> ein, wagen nichts und lernen nichts.
+<ce> Ich habe nie auch nur einen Finger gegen
+<ce> sie erhoben außer, um mich ihrer Kontrolle
+<ce> zu entziehen. Und doch will mich die
+<ce> Magiergilde tot sehen, nur weil ich mich
+<ce> weigere, ihren Regeln zu folgen! Warum
+<ce> schenkt Ihr ihnen blinden Gehorsam und
+<ce> mordet wie ein Auftragsmörder auf Befehl?
+<ce> Schließt Euch mir an und wir werden ihnen
+<ce> allen trotzen!
 
 Message:  1031
-Wunderbar! Sagt _questgiver_ einfach,
-dass ich nicht hier war, aber diesen
-Brief hinterlassen habe. Ich muss hier
-verschwinden, aber ich werde Euch
-kontaktieren, sobald ich ein wirklich
-grandioses Abenteuer für uns beide
-aushecken kann. Ta ta!
+<ce> Wunderbar! Sagt _questgiver_ einfach,
+<ce> dass ich nicht hier war, aber diesen
+<ce> Brief hinterlassen habe. Ich muss hier
+<ce> verschwinden, aber ich werde Euch
+<ce> kontaktieren, sobald ich ein wirklich
+<ce> grandioses Abenteuer für uns beide
+<ce> aushecken kann. Ta ta!
 
 Message:  1032
-Nun denn, dann muss ich Euch eben auf die
-harte Tour überzeugen. Verteidigt Euch,
-Magierleinchen!
+<ce> Nun denn, dann muss ich Euch eben auf die
+<ce> harte Tour überzeugen. Verteidigt Euch,
+<ce> Magierleinchen!
 
 Message:  1040
 _questgiver_,
@@ -102,7 +102,7 @@ _questgiver_,
  Ich kann mich keiner Gilde verpflichten, deren
  einziges Ziel darin besteht, jeden eigenen
  Gedanken zu unterdrücken.
-  
+ 
       Wenn Ihr noch mehr Eurer Vollstrecker
  auf mich hetzt, werde ich gezwungen sein,
  mich zu verteidigen. Ihr seid hiermit gewarnt.
@@ -112,60 +112,59 @@ _questgiver_,
 <ce>Baltham Graumann
 
 Message:  1041
-Was ... diese Unverschämtheit!
-Ich bin sprachlos! Nun könnt
-Ihr sehen, warum Baltham Graumann
-um jeden Preis aufgehalten werden
-muss, bevor er alles untergräbt,
-wofür die Gilde steht. Es ist
-schade, dass Ihr diesen erbärmlichen
-kleinen Tropf verpasst habt, aber
-ich habe keinen Zweifel, dass wir
-ihn bald wieder aufstöbern werden.
+<ce> Was ... diese Unverschämtheit!
+<ce> Ich bin sprachlos! Nun könnt
+<ce> Ihr sehen, warum Baltham Graumann
+<ce> um jeden Preis aufgehalten werden
+<ce> muss, bevor er alles untergräbt,
+<ce> wofür die Gilde steht. Es ist
+<ce> schade, dass Ihr diesen erbärmlichen
+<ce> kleinen Tropf verpasst habt, aber
+<ce> ich habe keinen Zweifel, dass wir
+<ce> ihn bald wieder aufstöbern werden.
 
 Message:  1042
-Sehr gut, %pct. Die Magiergilde
-kann nicht überleben, wenn wir nicht
-unsere eigenen Regeln durchsetzen, so
-streng sie auch manchmal wirken mögen.
+<ce> Sehr gut, %pct. Die Magiergilde
+<ce> kann nicht überleben, wenn wir nicht
+<ce> unsere eigenen Regeln durchsetzen, so
+<ce> streng sie auch manchmal wirken mögen.
 
 Message:  1050
-Stellt diese sinnlosen Angriffe ein
-und schließt Euch mir lieber an!
+<ce> Stellt diese sinnlosen Angriffe ein
+<ce> und schließt Euch mir lieber an!
 
 Message:  1051
-Da werdet Ihr meinen Standpunkt verstehen.
-Wir könnten einen solchen Spaß zusammen haben!
+<ce> Da werdet Ihr meinen Standpunkt verstehen.
+<ce> Wir könnten einen solchen Spaß zusammen haben!
 
 Message:  1052
-_questgiver_ hat Euch Zähigkeit gelehrt,
-das muss ich Euch lassen. Aber warum ein
-Sklave engstirniger Regeln und Vorschriften
-bleiben? Schließt Euch meiner fröhlichen
-Bande der Gildenrebellen an!
+<ce> _questgiver_ hat Euch Zähigkeit gelehrt,
+<ce> das muss ich Euch lassen. Aber warum ein
+<ce> Sklave engstirniger Regeln und Vorschriften
+<ce> bleiben? Schließt Euch meiner fröhlichen
+<ce> Bande der Gildenrebellen an!
 
 Message:  1053
-Ihr beginnt, meine Geduld auf die Probe
-zu stellen, aber ich gebe Euch eine
-letzte Chance. Stellt Eure Angriffe
-ein und ich werde die Vergangenheit
-ruhen lassen.
+<ce> Ihr beginnt, meine Geduld auf die Probe
+<ce> zu stellen, aber ich gebe Euch eine
+<ce> letzte Chance. Stellt Eure Angriffe
+<ce> ein und ich werde die Vergangenheit
+<ce> ruhen lassen.
 
 Message:  1060
-Vielleicht sollten wir das draußen regeln.
+<ce> Vielleicht sollten wir das draußen regeln.
 
 Message:  1061
-Juhuu, hier bin ich!
+<ce> Juhuu, hier bin ich!
 
 Message:  1062
-Hat _questgiver_ vergessen, Euch von
-meinen magischen Fähigkeiten zu erzählen,
-als %g über meine Untreue und Aufsässigkeit
-schwadronierte?
- 
+<ce> Hat _questgiver_ vergessen, Euch von
+<ce> meinen magischen Fähigkeiten zu erzählen,
+<ce> als %g über meine Untreue und Aufsässigkeit
+<ce> schwadronierte?
 
 Message:  1063
-Und wieder daneben, mein lieber Gildenesel.
-Warum haben Euch Eure Gildenmeister nicht
-ein paar von diesen Tricks gelehrt?
+<ce> Und wieder daneben, mein lieber Gildenesel.
+<ce> Warum haben Euch Eure Gildenmeister nicht
+<ce> ein paar von diesen Tricks gelehrt?
 
