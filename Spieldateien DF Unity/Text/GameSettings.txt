@@ -97,7 +97,7 @@ travelMapLocationsOutlineInfo,                      Zeichnen Sie eine Kontur um 
 guildQuestListBox,                                  Liste für Gildenquests
 guildQuestListBoxInfo,                              Trägt qualifizierte Gildenquests in einer Listenbox zusammen
 bowLeftHandWithSwitching,                           Bögen nur in der linken Hand ausrüsten
-bowLeftHandWithSwitchingInfo,                       ögen in der linken Hand ausrüsten und das Wechseln mit einer Einhandwaffe ermöglichen - Wechseln mit kurzer Verzögerung
+bowLeftHandWithSwitchingInfo,                       Bögen in der linken Hand ausrüsten und das Wechseln mit einer Einhandwaffe ermöglichen - Wechseln mit kurzer Verzögerung
 loiterLimitInHours,                                 Maximale Wartezeit in Stunden
 loiterLimitInHoursInfo,                             Ändert die standardisierte maximale Wartezeit in Stunden
 automapTempleColor,                                 Farbe von Gildenhallen
@@ -109,7 +109,7 @@ automapTavernColorInfo,                             Farbe von Gasthäusern auf d
 automapHouseColor,                                  Farben der Wohnhäuser
 automapHouseColorInfo,                              Farbe von Wohnhäusern auf der Dungeon-Auto-Karte
 dungeonMicMapQoL,									Mikro-Karte QoL umschalten
-dungeonMicMapQoLInfo,								Falsch = Verwendet klassische Mikrokarten-Farben | Wahr = Verwendet Qol Mikrokarten-Farben
+dungeonMicMapQoLInfo,								Falsch = Verwendet klassische Mikrokarten-Farben\rWahr = Verwendet Qol Mikrokarten-Farben
 dunMicMapInnerColor,                                Innerer Blockfarbe
 dunMicMapInnerColorInfo,                            Farbe die die inneren Dungeon-Blöcke auf der Mikrokarte haben werden wenn die QoL-Option aktiv ist
 dunMicMapBorderColor,                               Äußere Blockfarbe

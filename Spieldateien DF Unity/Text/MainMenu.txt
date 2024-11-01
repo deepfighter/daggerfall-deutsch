@@ -16,7 +16,7 @@ settingsFolder,             Einstellungsordner
 settingsFolderInfo,         Doppelklick zum Ordner öffnen
 
 alwayShowOptions,           Dieses Fenster immer anzeigen
-alwayShowOptionsInfo,       Dieses Fenster beim Start immer anzeigen\rSonst verwendet die settings.ini für Einstellungen
+alwayShowOptionsInfo,       Dieses Fenster beim Start immer anzeigen\rSonst werden Einstellungen in der settings.ini verwendet
 vsync,                      Vertikale Synchronisation
 vsyncInfo,                  Bildwiederholfrequenz (FPS) mit Monitor synchronisieren
 swapHealthAndFatigue,       Tauschen von Gesundheit & Ausdauer
@@ -24,17 +24,17 @@ swapHealthAndFatigueInfo,   Farbtausch des Gesundheits- und Ausdauerbalkens
 invertMouseVertical,        Maus umkehren
 invertMouseVerticalInfo,    Vertikale Mausbewegung umkehren
 mouseSmoothing,             Mausblick-Glättung
-mouseSmoothingInfo,         Grad der Glättung der Ego-Perspektivenkamera
+mouseSmoothingInfo,         Grad der Glättung in der Ego-Perspektivkamera
 leftHandWeapons,            Waffen in linker Hand
 leftHandWeaponsInfo,        Waffen auf der linken Bildschirmseite anzeigen
 playerNudity,               Nacktheit-Spieler
 playerNudityInfo,           Nacktheit an der Spielerfigur erlauben
 weaponSwingMode,            Waffenschwung-Modus
-weaponSwingModeInfo,        Aktivieren von Klick/Gedrückthalten zur Auslösung von Angriffen
+weaponSwingModeInfo,        Aktivieren von Klick/Gedrückthalten\rzur Auslösung von Angriffen
 sdfFontRendering,           SDF-Schriftart-Rendern
 sdfFontRenderingInfo,       Aktivieren von glatten Schriften bei hohen Auflösungen
 enableController,           Controller aktivieren
-enableControllerInfo,       Erlaubt das Erkennen und Verwenden von Joysticks oder anderen Controllern im Spiel
+enableControllerInfo,       Erlaubt das Erkennen und Verwenden von Joysticks\roder anderen Controllern im Spiel
 
 findArena2Tip,              Hinweis: Daggerfall enthält einen Ordner namens 'arena2'
 foundArena2But,             Ordner 'arena2' gefunden aber
