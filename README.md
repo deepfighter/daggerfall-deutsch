@@ -1,7 +1,10 @@
 # Daggerfall Deutsch
-- In Arbeit -
-Backup der deutschsprachigen Übersetzung (Classic und Unity) von The Elder Scrolls II: Daggerfall. Öffentlich für den Zweck, dass die Daten und das Know-How nicht verschwinden, sollte in der Zukunft etwas unerwartetes passieren. 
+Backup der deutschsprachigen Übersetzung (Classic und Unity) von The Elder Scrolls II: Daggerfall. 
+
+Zusätzlich beinhaltet dieses Archiv weitere Dateien rund um die Lokalisierung und Daggerfall im Allgemeinen, wie Zusatzdokumente, Modifikationen und weitere Projekte um Daggerfall. 
 
 -----
-- WIP -
-German translation file repository (classic and unity) for The Elder Scrolls II: Daggerfall. Publc for the reason, that the files and know-how is not lost, if something unexpected happens in the future.
+
+German translation file repository (classic and unity) for The Elder Scrolls II: Daggerfall. 
+
+Furthermore, this archive includes additional files related to localization and Daggerfall in general, such as supplementary documents, modifications, and other projects around Daggerfall.
