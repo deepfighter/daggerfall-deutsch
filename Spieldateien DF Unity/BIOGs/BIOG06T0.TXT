@@ -181,7 +181,7 @@ e.	Magie zu widerstehen
 f.	ohne Magie zu kämpfen
 	TH -5
 
-10.	Seit Eurer Kindheit verwahrt Ihr  ___.
+10.	Seit Eurer Kindheit verwahrt Ihr ___.
 a.	100 Goldstücke
 	GP +100
 b.	ein interessantes Buch

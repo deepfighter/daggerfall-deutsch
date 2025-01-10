@@ -42,7 +42,7 @@ QuestComplete:  [1004]
 RumorsDuringQuest:  [1005]
 Jeder flüstert von den Experimenten, die in ___mondung_ stattfinden.
 <--->
-Da geht etwas seltsames in ___mondung_ vor sich. Das liegt %di'lich von hier.
+Da geht etwas seltsames in ___mondung_ vor sich. Das liegt %di von hier.
 
 RumorsPostfailure:  [1006]
 Dieser helle rote Stern soll der Zorn des Daedra Molag Bal sein.
@@ -60,9 +60,9 @@ Ein hoher Daedrafürst, angeblich der machtgierigste aller Daedra.
 Molag Bal soll davon besessen sein, Tamriel zum Teil seines Reiches zu machen.
 
 Message:  1012
-Da war so eine komische Gestalt, die als =contact_ auftrat. In der Taverne [__tavern_] %di'lich von hier.
+Da war so eine komische Gestalt, die als =contact_ auftrat. In der Taverne [__tavern_] %di von hier.
 <--->
-Eine Gestalt, die diesen Namen trug und als =contact_ erschien war vor kurzem in der Taverne [__tavern_] %di'lich von hier.
+Eine Gestalt, die diesen Namen trug und als =contact_ erschien war vor kurzem in der Taverne [__tavern_] %di von hier.
 
 Message:  1013
 Der Streitkolben von Molag Bal raubt seinen Opfern magische Kraft.

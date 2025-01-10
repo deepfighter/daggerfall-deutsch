@@ -20,7 +20,7 @@ RefuseQuest:  [1001]
 AcceptQuest:  [1002]
 <ce> Sehr gut. Der Verräter ist eine _monster_
 <ce> namens =monster_. Versteckt sich in
-<ce> ___mondun_ %di'lich von hier. Wenn Ihr
+<ce> ___mondun_ %di von hier. Wenn Ihr
 <ce> in =queston_ Tagen nicht zurück seid, ist Eure Ehre
 <ce> verwirkt und ein anderer wird Euren Platz einnehmen.
 <ce> Enttäuscht uns nicht, %pcf.
@@ -54,12 +54,11 @@ __qgiver_ wurde durch die Affäre um =monster_ beschämt. Was wollt Ihr noch?
 
 QuestLogEntry:  [1010]
 %qdt:
-Der Ritterorden aus___qgiver_, als
-%kno bekannt, hat mich ausgeschickt,
-eine _monster_ namens =monster_
-in ___mondun_ aufzuspüren und
-zu töten. Ich habe =queston_ Tage Zeit,
-die Tat zu vollbringen.
+ Der Ritterorden aus ___qgiver_, als
+ %kno bekannt, hat mich ausgeschickt,
+ eine _monster_ namens =monster_
+ in ___mondun_ aufzuspüren und
+ zu töten. Ich habe =queston_ Tage Zeit, die Tat zu vollbringen.
 
 Message:  1011
 <ce> Ihr habt =monster_ die _monster_ getötet.

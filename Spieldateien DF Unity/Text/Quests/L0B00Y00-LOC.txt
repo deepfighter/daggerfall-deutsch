@@ -18,7 +18,7 @@ RefuseQuest:  [1001]
 
 AcceptQuest:  [1002]
 <ce> Sehr gut. Der Verräter hat in
-<ce> ___mondun_ %di'lich
+<ce> ___mondun_ %di
 <ce> von hier Zuflucht gesucht. Wenn
 <ce> Ihr in =queston_ Tagen nicht zurück
 <ce> seid, ist Eure Ehre verwirkt und ein

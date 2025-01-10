@@ -18,7 +18,7 @@ RefuseQuest:  [1001]
 
 AcceptQuest:  [1002]
 <ce> Sehr gut. Der Verräter ist ein Mörder, der sich
-<ce> in ___mondun_ versteckt, %di'lich
+<ce> in ___mondun_ versteckt, %di
 <ce> von hier. Wenn Ihr in =queston_ Tagen nicht wieder hier
 <ce> seid, ist Eure Ehre verwirkt und ein anderer wird Euren
 <ce> Platz einnehmen. Enttäuscht uns nicht, %pcf.

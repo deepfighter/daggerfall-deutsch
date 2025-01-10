@@ -117,7 +117,7 @@ Message:  1020
  Geht zu _priest_ vom __priest_
  in ___priest_, wenn Ihr weiterleben wollt.
  %g in in den Eigenarten der Lykanthropie wohl-
-  bewandert, wenn Euch jemand helfen kann, dann
+ bewandert, wenn Euch jemand helfen kann, dann
  ist %g es. Ich werde =huntstart_ Tage warten, bevor
  ich meine Jäger auf Euch hetze. Nutzt die Zeit weise.
  

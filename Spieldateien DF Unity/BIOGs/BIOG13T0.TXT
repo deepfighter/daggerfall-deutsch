@@ -132,7 +132,7 @@ e.	Zaubersprüchen zu widerstehen
 f.	zu kämpfen und zu parieren
 	TH -5
 
-8.	Seit Eurer Kindheit verwahrt Ihr  ___.
+8.	Seit Eurer Kindheit verwahrt Ihr ___.
 a.	100 Goldstücke
 	GP +100
 b.	ein Buch

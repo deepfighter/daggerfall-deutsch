@@ -54,9 +54,9 @@ Es heißt, ein Monster aus der Sammlung von =monster_ habe sich erhoben und =mon
 =monster_ wurde wohl von jemandem getötet, der ein Auge auf die ausgedehnte Sammlung geworfen hatte.
 
 Message:  1011
-_qgfriend_? Könnte man als sich als =qgfriend_ beschreiben. In dem Komplex [__qgfriend_] gleich %di'lich von hier.
+_qgfriend_? Könnte man als sich als =qgfriend_ beschreiben. In dem Komplex [__qgfriend_] gleich %di von hier.
 <--->
-_qgfriend_ lässt sich als =qgfriend_ beschreiben. In dem Gebäude [__qgfriend_] %di'lich von hier.
+_qgfriend_ lässt sich als =qgfriend_ beschreiben. In dem Gebäude [__qgfriend_] %di von hier.
 
 Message:  1012
 _qgfriend_ gehört zu Meridias Sammlern in %reg. Ganz bezaubernd, wie %g sein soll.

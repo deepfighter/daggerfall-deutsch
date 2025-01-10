@@ -87,16 +87,16 @@ Message:  1025
 
 Message:  1040
 <ce> Seid gegrüßt. Ja, ich bin _merchant_.
-<ce> Ein _item_? Ja, das habe ich.
+<ce> _item_? Ja, die habe ich.
 <ce> Gebt mir Eure 20 Goldstücke, und Ihr
-<ce> könnt das _item_ haben. Danke,
+<ce> könnt _item_ haben. Danke,
 <ce> dass Ihr vorbeigeschaut habt.
 
 Message:  1041
 <ce> Seid gegrüßt. Ja, ich bin _merchant_.
-<ce> Ein _item_? Ja, das habe ich.
+<ce> _item_? Ja, die habe ich.
 <ce> Gebt mir Eure 20 Goldstücke, und Ihr
-<ce> könnt das _item_ haben. Oh,
+<ce> könnt _item_ haben. Oh,
 <ce> verzeiht. Es scheint, als hättet Ihr
 <ce> nicht genug Gold dafür.
 

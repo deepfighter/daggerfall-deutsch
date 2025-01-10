@@ -214,9 +214,9 @@ Medium,                                             Mittel
 High,                                               Hoch
 Very High,                                          Sehr hoch
 
-Low (25%),                                          Niedrig (25%)
-Medium (50%),                                       Mittel (50%)
-High (75%),                                         Hoch (75%)
+Low (25%),                                          Niedrig (25 %)
+Medium (50%),                                       Mittel (50 %)
+High (75%),                                         Hoch (75 %)
 V. High(100%),                                      Sehr hoch (100%)
 
 Point,                                              Punkt

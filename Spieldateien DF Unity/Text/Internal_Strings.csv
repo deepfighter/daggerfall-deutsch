@@ -31,9 +31,9 @@ potionRecipeFor,Trankrezept für %po
 potionRecipeWeight,Gewicht: %kg kg
 potionOf,Rezept für %po.
 letterPrefix,Brief: 
-multipleAssignments,Ihr habt etwas mehrfachbelegt...
+multipleAssignments,Ihr habt etwas mehrfachbelegt ...
 youAreEntering,Ihr betretet %s
-storeClosed,Der Laden ist geschlossen. Geöffnet von %d:00 bis %d:00.
+storeClosed,Der Laden ist geschlossen. Geöffnet von %d1:00 bis %d2:00.
 guildClosed,Die Gilde ist geschlossen. Geöffnet von %d1:00 bis %d2:00.
 any,einen %s
 arkayDesc,Gott von Geburt und Tod
@@ -58,10 +58,10 @@ successfulBackstab,Meucheln erfolgreich!
 languagePacified,%e gelähmt durch Nutzung der Fertigkeit %s.
 lockpickingSuccess,Das Schloss öffnet sich.
 lockpickingFailure,Es öffnet sich nicht.
-magicLock,Das Schloss ist magisch versiegelt...
-lockpickChance1,Das Schloss hat nichts zu fürchten...
-lockpickChance2,Das Schloss wäre nur durch ein Wunder zu öffnen...
-lockpickChance3,Das Schloss übersteigt Eure Fähigkeiten...
+magicLock,Das Schloss ist magisch versiegelt ...
+lockpickChance1,Das Schloss hat nichts zu fürchten ...
+lockpickChance2,Das Schloss wäre nur durch ein Wunder zu öffnen ...
+lockpickChance3,Das Schloss übersteigt Eure Fähigkeiten ...
 buildingNames,"Tempel des Akatosh
 Tempel des Arkay
 Tempel der Dibella
@@ -92,16 +92,16 @@ Buchladen
 Kleiderladen
 Schmuckladen
 Pfandwaren"
-lockpickChance,"Ihr bezweifelt, das Schloss knacken zu können...
-Das Schloss sieht knifflig aus...
-Das Schloss wäre eine Herausforderung...
-Das Schloss sollte eine echte Herausforderung sein...
-Ihr glaubt, das Schloss knacken zu können...
-Das Schloss sieht recht einfach aus...
-Das Schloss ist für Euch ein Witz...
-Das Schloss ist nur von schlichter Qualität...
-Das Schloss verdient den Namen nicht...
-Das Schloss beleidigt Eure Fähigkeiten..."
+lockpickChance,"Ihr bezweifelt, das Schloss knacken zu können ...
+Das Schloss sieht knifflig aus ...
+Das Schloss wäre eine Herausforderung ...
+Das Schloss sollte eine echte Herausforderung sein ...
+Ihr glaubt, das Schloss knacken zu können ...
+Das Schloss sieht recht einfach aus ...
+Das Schloss ist für Euch ein Witz ...
+Das Schloss ist nur von schlichter Qualität ...
+Das Schloss verdient den Namen nicht ...
+Das Schloss beleidigt Eure Fähigkeiten ..."
 youPinchedGoldPiece,Ihr habt 1 Gold gestohlen.
 youPinchedGoldPieces,Ihr habt %d Gold gestohlen.
 youAreNotSuccessful,Ihr habt keinen Erfolg ...
@@ -141,7 +141,7 @@ serviceSummonCost3,Gold.
 roomFreeForKnightSuchAsYou,Das Zimmer ist für einen Ritter wie Euch umsonst.
 roomFreeDueToHeartsDay,"Zimmer ist umsonst, weil Herztag ist!"
 youAreNotHungry,Ihr seid nicht hungrig.
-exhaustedInWater,Müdigkeit überwältigt Euch und schickt Euch in ein feuchtes Grab...
+exhaustedInWater,Müdigkeit überwältigt Euch und schickt Euch in ein feuchtes Grab ...
 youFeelSomewhatBad,Ihr fühlt Euch ziemlich schlecht.
 avoidDeath,Dank der Gnade Stendarrs überlebt ihr den sicheren Tod!
 pronounHe,er
@@ -248,8 +248,8 @@ Schlechter Ruf bei"
 enemyNames,"Ratte
 Kobold
 Zweigling
-Riesenfledermaus
-Grizzlybär
+fledermaus
+Bär
 Säbelzahntiger
 Spinne
 Ork
@@ -323,8 +323,8 @@ bei Sonnenlicht
 bei Dunkelheit"
 vampiricEffectRanges,"auf Reichweite
 bei Schlag"
-increasedWeightAllowances,"25% zusätzlich
-50% zusätzlich"
+increasedWeightAllowances,"25 % zusätzlich
+50 % zusätzlich"
 improvedTalents,"Scharfes Gehör
 Athletik
 Adrenalinrausch"
@@ -343,7 +343,7 @@ wenn nicht pro Woche genutzt"
 badReactionFromEnemyGroups,"Humanoide
 Tiere
 Daedra"
-repWithGroups,"Bürgerlichen
+repWithGroups,"Gemeines Volk
 Händlern
 Gelehrten
 Adligen
@@ -372,13 +372,13 @@ hangingMode,Hängender Modus
 acuteHearing,Scharfes Gehör
 adrenalineRush,Adrenalinrausch
 athleticism,Athletik
-bonusToHit,Trefferbonus
-expertiseIn,Experte in
-immunity,Immunität
+bonusToHit,Trefferbonus gegen
+expertiseIn,Expertentum für
+immunity,Immunität gegen
 increasedMagery,Gesteigerte Magie
 rapidHealing,Schnellheilung
 regenerateHealth,Gesundheit regenerieren
-resistance,Resistenz
+resistance,Resistenz gegen
 spellAbsorption,Zauberabsorption
 animals,Tiere
 daedra,Daedra
@@ -390,40 +390,40 @@ handToHand,Nahkampf
 longBlade,Langwaffe
 missileWeapon,Fernwaffe
 shortBlade,Kurzwaffe
-toDisease,gegen Krankheit
-toFire,gegen Feuer
-toFrost,gegen Frost
-toMagic,gegen Magie
-toParalysis,gegen Lähmung
-toPoison,gegen Gift
-toShock,gegen Blitz
-intInSpellPoints15,1.5x in Spruchpunkten
-intInSpellPoints175,1.75x in Spruchpunkten
-intInSpellPoints2,2x in Spruchpunkten
-intInSpellPoints3,3x in Spruchpunkten
-intInSpellPoints,INT in Spruchpunkten
-general,Allgemein
+toDisease,Krankheit
+toFire,Feuer
+toFrost,Frost
+toMagic,Magie
+toParalysis,Lähmung
+toPoison,Gift
+toShock,Blitz
+intInSpellPoints15,1.5x INT in Spruchpunkten
+intInSpellPoints175,1.75x INT in Spruchpunkten
+intInSpellPoints2,2x INT in Spruchpunkten
+intInSpellPoints3,3x INT in Spruchpunkten
+intInSpellPoints,1x INT in Spruchpunkten
+general,Generell
 inDarkness,bei Dunkelheit
-inLight,bei Lichtern
+inLight,bei Licht
 whileImmersed,wenn im Wasser
-criticalWeakness,Kritische Schwäche
-damage,Schaden
-darknessPoweredMagery,Magie bei Dunkelheit
-forbiddenArmorType,Verbotene Rüstung
+criticalWeakness,Kritische Schwäche gegen
+damage,Schaden durch
+darknessPoweredMagery,Magiestärkung bei Dunkelheit
+forbiddenArmorType,Verbotene Rüstungsart
 forbiddenMaterial,Verbotenes Material
 forbiddenShieldTypes,Verbotene Schildart
-forbiddenWeaponry,Verbotene Waffe
+forbiddenWeaponry,Verbotene Waffenart
 inabilityToRegen,Keine Spruchpunkte-Regeneration
-lightPoweredMagery,Magie bei Licht
+lightPoweredMagery,Magiestärkung bei Licht
 lowTolerance,Niedrige Toleranz
 phobia,Phobie
-fromHolyPlaces,durch heilige Stätten
-fromSunlight,durch Sonnenlicht
+fromHolyPlaces,heilige Stätten
+fromSunlight,Sonnenlicht
 lowerMagicAbilityDaylight,Magieschwächung bei Tageslicht
 unableToUseMagicInDaylight,Magieunfähigkeit bei Tageslicht
-chain,Ketten
-leather,Leder
-plate,Platte
+chain,Kettenrüstung
+leather,Lederrüstung
+plate,Plattenrüstung
 adamantium,Adamant
 daedric,Daedrisch
 dwarven,Zwergisch
@@ -444,7 +444,7 @@ helpAttributes,Attribute
 helpClassName,Klassenname
 helpGeneral,Allgemein
 helpReputations,Ruf
-helpSkillAdvancement,Fertigkeitenanstieg
+helpSkillAdvancement,Fertigkeitsteigerung
 helpSkills,Fertigkeiten
 helpSpecialAdvantages,Besondere Vorteile
 helpSpecialDisadvantages,Besondere Nachteile
@@ -469,12 +469,12 @@ medical,Heilkunde
 etiquette,Etikette
 streetwise,Schlagfertigkeit
 jumping,Springen
-harpy,Hapyisch
+harpy,Harpyiensprache
 giantish,Riesensprache
 dragonish,Drachisch
 nymph,Nymphisch
 aedric,Daedrisch
-spriggan,Zweigling
+spriggan,Zweiglingsprache
 centaurian,Zentaurisch
 impish,Koboldisch
 lockpicking,Schlösser öffnen
@@ -533,7 +533,7 @@ lockedExteriorDoor,Geschlossen.
 canOnlyCastOncePerDay,Kann nur 1x / Tag gewirkt werden ...
 youNeedToHuntTheInnocent,Ihr verlangt nach unschuldigem Blut ...
 youDreamOfTheMoon,Ihr träumt wieder vom Mond ...
-inventoryWhileShapechanged,Kein Inventar bei Formwandlung...
+inventoryWhileShapechanged,Kein Inventar bei Formwandlung ...
 youGetNoResponse,Ihr erhaltet keine Antwort.
 copyLogbookInfo,Linksklick: Kopieren des markierten Textes einschalten. Rechtsklick: Kopieren des gesamten aktuellen Gesprächs.
 east,östlich
@@ -554,7 +554,7 @@ PreviousList,Vorherige Liste
 General,Allgemein
 Regional,Regional
 Alchemists,Alchemisten
-Armorers,Rüstungsschmiede
+Armorers,Rüstungsschmieden
 Banks,Banken
 Bookstores,Buchläden
 Clothingstores,Kleiderläden
@@ -577,7 +577,7 @@ oldLeaderFate5,wurde in seinem Bett ermordet
 toBeReplacedStringRegional,Jede/r
 replacementStringRegional,jede/r
 comma,","
-resolvingError,...egal...
+resolvingError,... egal ...
 chameleon,Chamäleon
 charm,Bezaubern
 comprehendLanguages,Sprachverständnis
@@ -756,12 +756,12 @@ inSunlight,bei Sonnenlicht
 inDarknessLower,bei Dunkelheit
 atRange,auf Reichweite
 whenStrikes,bei Schlag
-add25Percent,25% zusätzlich
-add50Percent,50% zusätzlich
+add25Percent,25 % zusätzlich
+add50Percent,50 % zusätzlich
 hearing,Scharfes Gehör
 athleticismLower,Athletik
 adrenalineRushLower,Adrenalinrausch
-commoners,Bürgerlichen
+commoners,Gemeinem Volk
 merchants,Händlern
 scholars,Gelehrten
 nobility,Adligen
@@ -913,7 +913,7 @@ exteriorAutomapToolTipRotateRightButton,Linksklick: Karte nach rechts drehen (Ho
 exteriorAutomapToolTipUpstairsButton,Linksklick: Hereinzoomen (Hotkey: {0})\Rechtsklick: Maximalen Zoom anwenden)
 exteriorAutomapToolTipDownstairsButton,Linksklick: Herauszoomen (Hotkey: {0})\Rechtsklick: Minimalen Zoom anwenden)
 exteriorAutomapToolTipPanelCompass,Linksklick: Spielerposition fokussieren (Hotkey: {0})\Rechtsklick: Ansicht zurücksetzen (Hotkey: {1})
-loading,Bitte warten...
+loading,Bitte warten ...
 classicSave,Klassik
 cancel,Zurück
 renameSave,Umbenennen
@@ -1049,8 +1049,8 @@ FourThree,04:03
 SixteenTen,16:10
 notEnoughSpellpointsLeft,Ihr habt nicht genug Spruchpunkte übrig.
 totalIdentified,{0} von {1} identifiziert.
-dispelMagicSuccess,Magie bannen erfolgreich...
-dispelMagicFailed,Magie bannen gescheitert...
+dispelMagicSuccess,Magie bannen erfolgreich ...
+dispelMagicFailed,Magie bannen gescheitert ...
 smallerDungeonsChanged,
 youNote,Eure Notiz:
 customName,Benutzerdef. Name:
