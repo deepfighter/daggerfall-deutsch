@@ -85,7 +85,7 @@ QuestorPostfailure:  [1009]
 QuestLogEntry:  [1010]
 %qdt:
  _questgiver_ aus ___questgiver_
- emtsamfte mich zu seinem Kontakt _contact_
+ entsandte mich zu seinem Kontakt _contact_
  aus ___contact_ um einen Barren Gold in
  des =contact_'s Basis in __contact_
  zu bringen. Das Gold muss innerhalb von

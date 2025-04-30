@@ -37,7 +37,7 @@ AcceptQuest:  [1002]
 <ce> braucht Ihr gar nicht mehr weiterzusuchen.
 
 QuestComplete:  [1004]
-<ce> Hier sind die _gold _Goldstücke,
+<ce> Hier sind die _gold _ Goldstücke,
 <ce> die ich Euch versprochen hatte
 
 RumorsDuringQuest:  [1005]

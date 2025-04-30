@@ -145,7 +145,7 @@ Message:  1021
 <ce> ___dungeon_ einzusperren. Ich dachte,
 <ce> das wird ihn genug erschrecken... Aber er
 <ce> ist nicht zurückgekehrt! Ich bin zu weit
-<ce> gegangen... ich weiß. Bitte... Ihr müsst
+<ce> gegangen... ich weiß. Bitte ... Ihr müsst
 <ce> ihn retten. Ich dachte, ich könnte es geheim
 <ce> halten, aber das geht nicht mehr. Ihr müsst
 <ce> ihn retten. Wenn er nicht zurück ist, wenn

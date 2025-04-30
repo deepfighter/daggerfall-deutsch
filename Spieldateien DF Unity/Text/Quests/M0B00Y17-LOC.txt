@@ -25,13 +25,13 @@ AcceptQuest:  [1002]
 <ce> Lebendig! Der Trick ist, dass er darauf
 <ce> dressiert wurde, auf diese Glocke zu
 <ce> reagieren. Der Tiger sollte zur Schmusekatze
-<ce> werden, wenn Ihr ihm mit damit vor der
+<ce> werden, wenn Ihr ihm damit vor der
 <ce> Fratze klingelt. Natürlich hat _dummy_
-<ce> auch erwähnt, dass er noch nicht zu gut
+<ce> auch erwähnt, dass er noch nicht so gut
 <ce> gezähmt ist - wundert Euch das noch? - so
 <ce> dass Ihr ihm wohl erst ein, zwei Schläge
 <ce> auf den Schädel verpassen müsst, um seine
-<ce> Aufmerksamkeit zu erringen. Nur bringt
+<ce> Aufmerksamkeit zu erregen. Nur bringt
 <ce> ihn nicht um, ja? Schafft ihn in den
 <ce> nächsten =qtime_ Tagen in einem Stück zu
 <ce> _dummy_ in __dummy_, dann wird %g

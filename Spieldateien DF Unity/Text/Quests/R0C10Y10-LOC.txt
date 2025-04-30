@@ -11,8 +11,9 @@ QuestorOffer:  [1000]
 <ce> Ich könnte die Dienste einer Person mit
 <ce> angemessenen Talent, überdurchschnittlicher
 <ce> Diskretion und der Bereitschaft für
-<ce> _reward_ Goldstücke die Position eines niederen
-<ce> Kuriers anzunehmen. Seid Ihr diese Person?
+<ce> _reward_ Goldstücke die Position eines
+<ce> niederen Kuriers anzunehmen, gebrauchen.
+<ce> Seid Ihr diese Person?
 
 RefuseQuest:  [1001]
 <ce> Wirklich? Zu Beschäftigt? Euer Pech.

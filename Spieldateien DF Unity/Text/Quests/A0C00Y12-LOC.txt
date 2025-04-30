@@ -67,7 +67,7 @@ QuestLogEntry:  [1010]
 %qdt:
  _giver_ von ___giver_
  hat mir _gold_ Goldstücke geboten,
- um %g3 Buch, Buch, zu finden.
+ um %g3 Buch, zu finden.
 
 Message:  1014
 <ce> Ihr solltet versuchen, _informant_

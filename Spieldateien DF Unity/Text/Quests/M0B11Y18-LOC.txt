@@ -31,7 +31,7 @@ QuestFail:  [1003]
 <ce> Wir haben nichts mehr zu besprechen, %pcn.
 
 QuestComplete:  [1004]
-<ce> Ihr habt mich auf ein Bedrohung aufmerksam
+<ce> Ihr habt mich auf eine Bedrohung aufmerksam
 <ce> gemacht, die das Königreich hätte vernichten
 <ce> können. Bitte nehmt meinen aufrichtigen Dank
 <ce> und diese _reward_ Goldstücke entgegen.
@@ -68,7 +68,7 @@ Message:  1020
  _target_ um 10 Uhr heute Abend an
  einem bestimmten Ort [_targethouse_]
  zu treffen. Mehr weiß ich nicht,
- außer dass _target_von mächtigen
+ außer dass _target_ von mächtigen
  Feinden bedroht wird.
 
 Message:  1021
@@ -84,7 +84,7 @@ Message:  1022
  mir aber noch einen Brief zustecken, der
  Fürst K'avar, ein Mitglied des Hofes von
  Königin Akorithi in Schildwacht, des Verrates
- überführt. Der letzte Wunsch von_target_
+ überführt. Der letzte Wunsch von _target_
  war, dass ich ihr diesen Brief überbringe.
  Sie wird dies sehen wollen, ehe =patsy_ Tage
  vergangen sind.
@@ -213,7 +213,7 @@ Fürst K'avar nirgendwo zu finden ist.
 Königin Akorithi wendet sich an Euch:
  
 <ce> "Er muss gewarnt worden sein, dass sein
-<ce> Verrat aufgedeckt werden würde. Warscheinlich
+<ce> Verrat aufgedeckt werden würde. Wahrscheinlich
 <ce> hat er sich in diese Festung ___stronghold_
 <ce> zurückgezogen, die er in seinem Brief erwähnt.
 <ce> Unter diesen Umständen würde ich einen direkten

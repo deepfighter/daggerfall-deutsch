@@ -248,7 +248,7 @@ Schlechter Ruf bei"
 enemyNames,"Ratte
 Kobold
 Zweigling
-fledermaus
+Fledermaus
 Bär
 Säbelzahntiger
 Spinne
@@ -529,7 +529,7 @@ khulari,Khulari
 garlythi,Garlythi
 anthotis,Anthotis
 selenu,Selenu
-lockedExteriorDoor,Geschlossen.
+lockedExteriorDoor,Verschlossen.
 canOnlyCastOncePerDay,Kann nur 1x / Tag gewirkt werden ...
 youNeedToHuntTheInnocent,Ihr verlangt nach unschuldigem Blut ...
 youDreamOfTheMoon,Ihr träumt wieder vom Mond ...
@@ -790,7 +790,7 @@ messages,Nachrichten
 messagesInfo,Zuletzt angezeigte Nachrichten
 confirmMoveHead,Eintrag verschieben
 confirmMove,Möchtet Ihr die Position dieses Eintrags ändern?
-confirmMove2,(Er wird vor den nächsten angeklickten Eintragen verschoben)
+confirmMove2,"(Er wird vor den nächsten Eintrag verschoben, der angeklickt wird)"
 confirmRemoveHead,Eintrag löschen
 confirmRemove,"Seid Ihr sicher, dass Ihr diesen Eintrag entfernen möchtet?"
 confirmRemove2,(Er wird dauerhaft gelöscht und kann nicht wiederhergestellt werden)

@@ -42,9 +42,8 @@ QuestComplete:  [1004]
 <ce> Ich gebe zu daran gezweifelt zu haben,
 <ce> Euch jemals wiederzusehen. Die Nachricht,
 <ce> dass Nulfaga noch unter den Lebenden weilt,
-<ce> tut mir con Herzen gut. Das hier ist für Euch
+<ce> tut mir von Herzen gut. Das hier ist für Euch
 <ce> [_magicitem_].
- 
 
 RumorsDuringQuest:  [1005]
 Warum hat die Königin diese plötzliche Zuneigung zur verrückten, alten Nulfaga entwickelt?

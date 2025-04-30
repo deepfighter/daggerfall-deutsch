@@ -37,7 +37,7 @@ AcceptQuest:  [1002]
 <ce> nicht im Stich lassen würdet, %pcf.
 <ce> Nun denn, _wizard_ wird höchstens noch
 <ce> =1stparton_ Tage im Laboratorium ___mondung_
-<ce> verweilen, bevor %g in einem anderen Unterschlupf
+<ce> verweilen, bevor %g in einen anderen Unterschlupf
 <ce> weiterzieht. Die Hoheit besteht darauf, dass wir
 <ce> binnen =1stparton_ Tagen vom Tod dieses Magiers
 <ce> berichten, säumt also nicht, nachdem es vollbracht

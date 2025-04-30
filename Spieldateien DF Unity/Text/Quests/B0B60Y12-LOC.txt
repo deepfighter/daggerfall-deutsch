@@ -19,7 +19,7 @@ QuestorOffer:  [1000]
 <ce> hinaus, sich mal ein bisschen in einer
 <ce> Gruft umzuschauen. _nobleman_
 <ce> hat uns gebeten, uns die Ruhestätte
-<ce> einer gewissen Ur-Ur-Urgrossmuter anzusehen.
+<ce> einer gewissen Ur-Ur-Urgroßmutter anzusehen.
 <ce> Scheinbar hat %g geträumt, das ihr
 <ce> Leichnahm in =2dung_ Tagen der Familiengruft
 <ce> entsteigt. Vielleicht ist dort schon alles

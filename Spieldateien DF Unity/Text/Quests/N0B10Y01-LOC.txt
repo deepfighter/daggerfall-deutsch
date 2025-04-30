@@ -19,7 +19,7 @@ QuestorOffer:  [1000]
 <--->
 <ce> Wir hatten vor kurzem ein bisschen Aufregung in
 <ce> diesen langweiligen alten Hallen. In einer ganz
-<ce> routinemäßigen Golemachieklasse hat es eines der
+<ce> routinemäßigen Golem-Lehrstunde hat es eines der
 <ce> Subjekte geschafft ... nun ja, die Einzelheiten
 <ce> sind unwichtig. Wichtig ist, dass ein Golem
 <ce> ungebunden in %reg herumläuft, was sich

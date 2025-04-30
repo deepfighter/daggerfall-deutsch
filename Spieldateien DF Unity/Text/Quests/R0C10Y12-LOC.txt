@@ -3,34 +3,31 @@ DisplayName: Schmuggelwaren
 QRC:
 
 QuestorOffer:  [1000]
-<ce> Hmn, das ist eine potenziell heikle
-<ce> Situation, in der ich mich befinde.
-<ce> Nicht die schlimmste, aber in der Tat
-<ce> heikel. Ich besitze einen bestimmten
-<ce> ... Gegenstand, der, um es deutlich zu
-<ce> sagen, nicht legal mein Eigen ist.
-<ce> Wenn Ihr ihn zu einem Kontakt von mir
-<ce> in __contact bringen würdet, werdet
-<ce> Ihr fürstlich belohnt. Höhren sich
-<ce> _reward_ Goldstücke fair für Euch an?
+<ce> Hmn, das ist eine potenziell heikle Situation,
+<ce> in der ich mich befinde. Nicht die schlimmste,
+<ce> aber in der Tat heikel. Ich besitze einen
+<ce> bestimmten ... Gegenstand, der, um es deutlich
+<ce> zu sagen, nicht legal mein Eigen ist. Wenn Ihr
+<ce> ihn zu einem Kontakt von mir in __contact_
+<ce> bringen würdet, werdet Ihr fürstlich belohnt.
+<ce> Höhren sich _reward_ Goldstücke fair für Euch an?
 
 RefuseQuest:  [1001]
-<ce> Ihr lasst mich in der Stunde
-<ce> meiner Not im Stich, junger %ra.
-<ce> Ihr bringt mich in Harnisch.
+<ce> Ihr lasst mich in der Stunde meiner Not im Stich,
+<ce> junger %ra. Ihr bringt mich in Harnisch.
 
 AcceptQuest:  [1002]
 <ce> Ihr wollt mir helfen?
 <ce> %god sei gelobt.
 <ce> Nun, eilt, nehmt _item_
-<ce> und geht nach __contact_
+<ce> und geht in __contact_
 <ce> in ___contact_. Sucht
 <ce> nach einem =contact_
 <ce> namens _contact_.
 <ce> Kommt nicht auf die Idee,
 <ce> _item_ irgendwem anders zu
 <ce> bringen. Wenn Ihr nicht in
-<ce> =queston_ Tagen in __contact_
+<ce> =queston_ Tagen dort angekommen
 <ce> seid, wird _contact_ nach Euch
 <ce> suchen. Nun, beeilt Euch, die
 <ce> Zeit drängt.
@@ -89,16 +86,12 @@ _contact_, hm? Ein mysteriöser =contact_, der aus __contact_ operiert, %di von 
 
 Message:  1015
 %qdt:
- Ich habe eine Mission von
- _questgiver_ aus
- ___questgiver angenommen,
- um einen gestohlenen _item_
- zu _contact_ nach
- __contact_ in
- ___contact, zu
- bringen. Ich habe =queston_ Tage Zeit,
- um _item_ nach ___contact_
- zu bringen.
+ Ich habe eine Mission von _questgiver_ aus
+ ___questgiver_ angenommen, um einen gestohlenen
+ _item_ zu _contact_ in __contact_
+ in ___contact_, zu bringen. Ich habe
+ =queston_ Tage Zeit, um _item_ nach
+ ___contact_ zu bringen.
 
 Message:  1023
 Who is calling 1023?

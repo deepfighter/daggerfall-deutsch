@@ -159,7 +159,7 @@ Message:  1052
 <ce> Danke, dass Ihr mich vor den Assassinen
 <ce> gerettet habt. Wenn Ihr mich in ein
 <ce> bestimmtes Haus [_safehouse_]
-<ce> in _safehouse_ bringen könntet?
+<ce> in __safehouse_ bringen könntet?
 <ce> Von dort aus würde ich allein aus
 <ce> %reg fliehen können.
 

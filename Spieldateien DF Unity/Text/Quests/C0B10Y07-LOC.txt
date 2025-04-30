@@ -6,12 +6,10 @@ QuestorOffer:  [1000]
 <ce> Seid gesegnet, %pcn.
 <ce> __qgiver_ begehrt Eure Dienste,
 <ce> für einen wichtigen Botengang. Dieses
-<ce> religitem muss binnen =traveltime Tagen
-<ce> in __priest ankommen. Ihr werdet
-<ce> vom dortigen Tempel
-<ce> _gold_ Goldstücke als Lohn
-<ce> erhalten. Vermöget Ihr,
-<ce> dies für uns zu tun?
+<ce> _religitem_ muss binnen =traveltime_ Tagen
+<ce> in ___priest_ ankommen. Ihr werdet
+<ce> vom dortigen Tempel _gold_ Goldstücke als Lohn
+<ce> erhalten. Vermögt Ihr, dies für uns zu tun?
 
 RefuseQuest:  [1001]
 <ce> So sei es. Ich werde wohl einen
@@ -80,12 +78,10 @@ _priest_ würde es mir nie vergeben, wenn ich mit Euch spräche.
 QuestLogEntry:  [1010]
 %qdt:
  _qgiver_ von __qgiver_
- hat mir den Auftrag gegeben,
- _religitem_ zu __priest__
- in ___priest__ in
+ hat mir den Auftrag gegeben, _religitem_
+ zu __priest_ in __priest_ in
  ___priest_ zu bringen.
- Ich muss binnen =traveltime_ Tagen
- dort sein.
+ Ich muss binnen =traveltime_ Tagen dort sein.
 
 Message:  1011
 <ce> Dieses _religitem_ wird

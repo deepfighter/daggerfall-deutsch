@@ -14,36 +14,28 @@ RefuseQuest:  [1001]
 <ce> mehr Euren Studien widmen.
 
 AcceptQuest:  [1002]
-<ce> Nun, das ist ein Anfang. Die Arbeit, für
-<ce> die ich Euch brauche, ist ganz einfach.
-<ce> Vermutlich könnte sie sogar ein Kind erledigen,
-<ce> aber da Ihr schon mal hier seid ... ein
-<ce> örtlicher Händler, _merchant_,
-<ce> hat eine antike Truhe gekauft, war aber bisher
-<ce> nicht in der Lage, sie zu öffnen. Die besten
-<ce> Schlosser in __shop_ haben es
-<ce> versucht und sind gescheitert, also wurden
-<ce> wir um Hilfe gebeten. Eigentlich haben wir
-<ce> nicht wirklich die Zeit für solche
-<ce> Belanglosigkeiten, aber die Gilde könnte
-<ce> Unterstützung gut gebrauchen. Ich habe also
-<ce> zugesagt, jemanden loszuschicken. Nach allem,
-<ce> was ich gehört habe, klingt das nach einer
-<ce> der Trickkisten von _mage_.
-<ce> Damals hat %g Hunderte davon hergestellt,
-<ce> hauptsächlich als Geschenke für Freunde.
-<ce> Sie tauchen immer wieder auf, da die Ausführung
-<ce> wirklich hervorragend ist ... wo war ich?
-<ce> Ach ja, nun, das Geheimnis dieser Kisten ist,
-<ce> dass es beinahe unmöglich ist, sie zu öffnen,
-<ce> es sei denn, man benutzt den simplen,
-<ce> Standardzauber "Öffnen". _mage_
-<ce> hat sie vor allem gegen die ausgefallenen
-<ce> Alternativsprüche resistent gemacht, wie
-<ce> sie die Freunde gerne benutzten. Ja, %g
-<ce> neigte dazu, beachtliches Talent auf derlei
-<ce> Scherze zu verschwenden. Wirklich eine Schande.
-<ce> So, und jetzt macht Euch auf den Weg.
+<ce> Nun, das ist ein Anfang. Die Arbeit, für die ich Euch
+<ce> brauche, ist ganz einfach. Vermutlich könnte sie sogar
+<ce> ein Kind erledigen, aber da Ihr schon mal hier seid ...
+<ce> ein örtlicher Händler, _merchant_, hat eine
+<ce> antike Truhe gekauft, war aber bisher nicht in der Lage,
+<ce> sie zu öffnen. Die besten Schlosser in __shop_
+<ce> haben es versucht und sind gescheitert, also wurden wir
+<ce> um Hilfe gebeten. Eigentlich haben wir nicht wirklich die
+<ce> Zeit für solche Belanglosigkeiten, aber die Gilde könnte
+<ce> Unterstützung gut gebrauchen. Ich habe also zugesagt,
+<ce> jemanden loszuschicken. Nach allem, was ich gehört habe,
+<ce> klingt das nach einer der Trickkisten von _mage_.
+<ce> Damals hat %g Hunderte davon hergestellt, hauptsächlich
+<ce> als Geschenke für Freunde. Sie tauchen immer wieder auf,
+<ce> da die Ausführung wirklich hervorragend ist ... wo war ich?
+<ce> Ach ja, nun, das Geheimnis dieser Kisten ist, dass es beinahe
+<ce> unmöglich ist, sie zu öffnen, es sei denn, man benutzt den
+<ce> simplen, Standardzauber "Öffnen". _mage_ hat sie
+<ce> vor allem gegen die ausgefallenen Alternativsprüche resistent
+<ce> gemacht, wie sie die Freunde gerne benutzten. Ja, %g neigte
+<ce> dazu, beachtliches Talent auf derlei Scherze zu verschwenden.
+<ce> Wirklich eine Schande. So, und jetzt macht Euch auf den Weg.
 
 QuestFail:  [1003]
 <ce> %pct, lasst mich in Frieden und

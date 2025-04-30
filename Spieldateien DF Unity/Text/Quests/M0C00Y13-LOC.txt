@@ -4,17 +4,14 @@ QRC:
 
 QuestorOffer:  [1000]
 <ce> Ich bin _qgiver_.
-<ce> Die Kriegergilde vergibt eigentlich
-<ce> keine Freiwilligenarbeit. Wenn ich
-<ce> nicht gerade jetzt zu wenige
-<ce> Krieger hätte, würde ich Euch
-<ce> wegschicken, %pcn.
-<ce> Ich brauche aber jemanden, der
-<ce> ein paar wildgewordene Barbaren
-<ce> zur Strecke bringt. Erledigt
-<ce> das für mich und jeder wird von
-<ce> mir erfahren, dass ein %ra
-<ce> für sich einstehen kann.
+<ce> Die Kriegergilde vergibt eigentlich keine
+<ce> Freiwilligenarbeit. Wenn ich nicht gerade
+<ce> jetzt zu wenige Krieger hätte, würde ich
+<ce> Euch wegschicken, %pcn. Ich brauche
+<ce> aber jemanden, der ein paar wildgewordene
+<ce> Barbaren zur Strecke bringt. Erledigt das
+<ce> für mich und jeder wird von mir erfahren,
+<ce> dass ein %ra für sich einstehen kann.
 <ce> Abgemacht?
 
 RefuseQuest:  [1001]

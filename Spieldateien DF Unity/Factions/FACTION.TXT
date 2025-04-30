@@ -5814,7 +5814,7 @@ maxf: 45
 
 #425
 type: 8
-name: Hexen von Skeffington
+name: Hexen von Skeffingten
 rep: 0
 summon: 17
 region: 41

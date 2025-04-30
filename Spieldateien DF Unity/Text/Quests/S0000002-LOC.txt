@@ -241,9 +241,9 @@ Message:  1027
 <ce> werden, ziehe ich Euch zur Verantwortung.
 
 Message:  1028
-<ce> Ihr wartet, während Fürst Kastellian den.
+<ce> Ihr wartet, während Fürst Kastellian den
 <ce> Brief liest. Seine Haut erbleicht und
-<ce> seine Hände beginnen zu zittern..
+<ce> seine Hände beginnen zu zittern.
  
 <ce> "Ich verstehe. Bitte wartet, während ich
 <ce> eine Antwort an Prinz Helseth verfasse."

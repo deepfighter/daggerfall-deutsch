@@ -10,7 +10,7 @@ QuestorOffer:  [1000]
 <ce> nur ein kleiner Drachling. Es gibt
 <ce> keine heldenhaftere Aufgabe für einen
 <ce> unserer Ritter, als einen Drachen zu
-<ce> töten. Ich weiß, wo er sich befindet,
+<ce> töten. Ich weiß, wo er sich befindet.
 <ce> Ihr zieht los und bringt ihn um! Den
 <ce> Ruhm können wir uns teilen. Ist das
 <ce> ein Angebot?
@@ -86,13 +86,13 @@ Ihr habt mich mit diesem Drachen im Stich gelassen. Lasst mich in Ruhe.
 
 QuestLogEntry:  [1010]
 %qdt:
- _qgiver, ==qgiver
+ _qgiver_, ==qgiver_
  in ___qgiver_,
  erzählte mir, dass
- in ___dungeon ein
+ in ___dungeon_ ein
  Drache aus seinem Ei
  geschlüpft sei. Ich
- habe =2dung Tage, um das
+ habe =2dung_ Tage, um das
  Ungeheuer zu töten und
  mich im Glanz der Heldentat
  zu sonnen.

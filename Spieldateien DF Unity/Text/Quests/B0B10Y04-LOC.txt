@@ -72,7 +72,7 @@ QuestLogEntry:  [1010]
  aufhalte, der entschlossen ist,
  %reg zu zerstören. Der Ork
  haust mit seinem Gefolge in einem
- Loch namens ___mondung.
+ Loch namens ___mondung_.
  Ich habe =2mondung_ Tage Zeit, mich um
  diese Bedrohung zu kümmern und zurückzukehren.
 

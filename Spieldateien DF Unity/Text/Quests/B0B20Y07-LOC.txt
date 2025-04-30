@@ -22,9 +22,9 @@ RefuseQuest:  [1001]
 AcceptQuest:  [1002]
 <ce> Ihr braucht nicht jeden einzenen Ork der
 <ce> Bande zu töten. Einfach eine ordentliche
-<ce> Zahl und auf jeden Fall ihren Anführer
+<ce> Anzahl und auf jeden Fall ihren Anführer
 <ce> =monster_. Sie sollen in ___dungeon_
-<ce> hausen. Wenn Ihr nicht in =2dung_ days zurück seid,
+<ce> hausen. Wenn Ihr nicht in =2dung_ Tagen zurück seid,
 <ce> werde ich Euren Lobpreis auf der Trauerfeier
 <ce> anstimmen.
 

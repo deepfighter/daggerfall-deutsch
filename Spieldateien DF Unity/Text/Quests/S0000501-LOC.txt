@@ -76,7 +76,7 @@ Message:  1040
 <ce> Ah, %pcn, ich hatte gehofft, dass Ihr kommen
 <ce> würdet. Meine Spione haben den flüchtigen Fürst
 <ce> K'avar ausfindig gemacht. Von allen Orten ist er
-<ce> ausgerechnet am Hof von Wegesruh aufgetaucht,
+<ce> ausgerechnet am Hof von Wegesruh untergetaucht,
 <ce> wo er anscheinend versucht, Unterstützung für
 <ce> seinen lächerlichen Anspruch auf meinen Thron
 <ce> zu finden. Wegesruh würde es nicht wagen,
@@ -85,8 +85,8 @@ Message:  1040
 <ce> sich irgendwo in Schloss Wegesruh. Ich will,
 <ce> dass Ihr ihn findet und zurückbringt. Wenn
 <ce> möglich lebend, aber tötet ihn, wenn es
-<ce> notwendig ist. Lasst ihn nicht ein weiteres
-<ce> Mal entkommen. Ihr abt =time2_ Tage.
+<ce> notwendig ist. Lasst ihn nicht noch einmal
+<ce> entkommen. Ihr habt =time2_ Tage.
 
 Message:  1041
 <ce> Ihr schon wieder! %oth,

@@ -131,6 +131,6 @@ Message:  1025
 <ce> das Reich des Vergessens holen!
 
 Message:  1030
-Dieses Pergament zeigt die Lage des Skeffington-Zirkels
+Dieses Pergament zeigt die Lage des Skeffingtener Hexenzirkel
 in Ykalon, was auch immer das sein mag.
 

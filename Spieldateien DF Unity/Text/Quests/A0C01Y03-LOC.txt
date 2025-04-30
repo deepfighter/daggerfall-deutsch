@@ -6,13 +6,13 @@ QuestorOffer:  [1000]
 <ce> Ich bin _qgiver_ und bedarf dringend
 <ce> der Dienste eines erfahrenen Kopfgeldjägers.
 <ce> Mein Herz gehört _spouse_, doch
-<ce> bedauerlicherweise weigert sich %g,
+<ce> bedauerlicherweise weigert %g sich,
 <ce> die Ehe mit mir einzugehen, solange
 <ce> ich mich nicht als würdig erweise,
 <ce> indem ich die Antwort auf ein Rätsel
 <ce> finde, das %g3 Mentor, _hermit_,
 <ce> hinterließ, bevor %g verschwand. Ich
-<ce> ersuche Euch, %g2 sowie die Lösung
+<ce> ersuche Euch, %g2, sowie die Lösung
 <ce> dieses Rätsels zu finden. Für Eure
 <ce> Mühen werde ich Euch mit _gold_ Goldstücken
 <ce> entlohnen, sofern Ihr erfolgreich seid.

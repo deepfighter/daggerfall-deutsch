@@ -10,7 +10,7 @@ QuestorOffer:  [1000]
 <ce> bin. Ich könnte Euch Informationen
 <ce> geben, aber alles hat seinen Preis,
 <ce> und den kenne ich gut. Ich brauche
-<ce> eine Champion, der die Feuer des
+<ce> einen Champion, der die Feuer des
 <ce> Reich des Vergessens fürchtet.
 <ce> Seid Ihr interessiert?
 

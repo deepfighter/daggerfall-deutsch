@@ -170,7 +170,7 @@ Message:  1017
 <ce> Ihr hättet das Lösegeld nicht zahlen
 <ce> müssen, %pcf, aber das Wichtigste ist,
 <ce> dass meine liebste _victim_
-<ce> zurück ist. Hier sind die _gold_Goldstücke,
+<ce> zurück ist. Hier sind die _gold_ Goldstücke,
 <ce> die ich Euch versprochen habe.
 
 Message:  1018

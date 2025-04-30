@@ -9,7 +9,7 @@ QuestorOffer:  [1000]
 <ce> Operation zur Wiederbeschaffung verlorenen Guts;
 <ce> eine, die mein Freund mit Freuden höchst ansehnlich
 <ce> entlohnen würde und ich außerordentlich zu schätzen
-<ce> wüsste. Es muesste sehr bald geschehen, innerhalb
+<ce> wüsste. Es müsste sehr bald geschehen, innerhalb
 <ce> von =1stparton_ Tagen. Ich erkläre Euch die Einzelheiten,
 <ce> wenn Ihr interessiert seid.
 

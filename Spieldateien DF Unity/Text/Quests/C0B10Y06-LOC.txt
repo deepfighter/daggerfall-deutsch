@@ -58,7 +58,7 @@ QuestLogEntry:  [1010]
  reines _ingredient_ aus ___dungeon_
  für einen Bußritus. Es muss in die
  Hände von _qgiver_ in
- __qgiver_ gelangen, bevor =traveltime Tage
+ __qgiver_ gelangen, bevor =traveltime_ Tage
  verstrichen sind.
 
 Message:  1011

@@ -57,6 +57,6 @@ QuestLogEntry:  [1010]
 
 Message:  1011
 <ce> Der Geist wurde zur letzten Ruhe 
-<ce> gebracht. _nobleman _ kann
+<ce> gebracht. _nobleman_ kann
 <ce> ___dungeon_ nun wiederaufbauen.
 

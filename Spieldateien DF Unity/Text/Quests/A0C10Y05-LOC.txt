@@ -19,7 +19,7 @@ QuestorOffer:  [1000]
 <ce> Schlaf finde ich keinen, solange
 <ce> _betrothed_ eingekerkert ist, doch
 <ce> fürchte ich die Schergen von _ruler_.
-<ce> Ihr Auftrag ist es, uns auseinanderzureißen.
+<ce> Ihr Auftrag ist es, uns auseinanderzuhalten.
 <ce> Würdet Ihr mit mir gen __betrothedhome_
 <ce> ziehen und mich dabei beschützen?
 

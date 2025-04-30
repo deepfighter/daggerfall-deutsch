@@ -100,8 +100,8 @@ QuestLogEntry:  [1010]
  Ich bin zum Zeitpunkt dieses Schreibens fünfzehn Jahre
  alt und wurde zur Frustration meiner kerngesunden Eltern
  die meiste Zeit meines Lebens über von schwacher Gesundheit
- geplagt. Die besten Heiler und Trankmischer Westtramriels
- mühten sich an jedem meiner Husten und Fieber ab, aber wenn
+ geplagt. Die besten Heiler und Trankmischer Westtamriels
+ mühten sich an jeden meiner Husten und Fieber ab, aber wenn
  sie mein Leben auch ein ums andere mal retten konnten,
  gelang es ihnen doch nicht, meiner kränklichen Verfassung
  aufzuhelfen. Im Nachhinein betrachtet erfuhr ich vom König
@@ -142,7 +142,7 @@ QuestLogEntry:  [1010]
  Einige Monate vor Lhotuns Geburt und über drei Jahre
  danach, kämpfte ich gegen ein besonders ernstes Fieber.
  Die Heiler verzweifelten an mir, aber irgendwie schaffte
- ich es doch noch, mich sehr, sehr langsam. Stück für
+ ich es doch noch, mich sehr, sehr langsam, Stück für
  Stück, zu erholen. Zum ersten und letzten Mal sah ich
  einen Gesichtsausdruck bei meinem Vater, auf dem
  Antlitz des Königs, der nicht Gleichgültigkeit bedeutete.

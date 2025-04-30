@@ -29,7 +29,7 @@ AcceptQuest:  [1002]
 <ce> Aufgebots Soldaten bezahlt. Vor kurzem verschwand
 <ce> sie mit einem eingewickelten Papierbündel und kam
 <ce> einige Tage später mit leeren Händen zurück. Gerade
-<ce> erst ist wieder mit einem anderen Briefbündel
+<ce> erst ist sie wieder mit einem anderen Briefbündel
 <ce> aufgebrochen und meine Spione haben bestätigt, dass
 <ce> sie nach Nekromoghan gereist ist. Ihr werdet darauf
 <ce> vertrauen müssen, dass mein Verdacht über ihre
