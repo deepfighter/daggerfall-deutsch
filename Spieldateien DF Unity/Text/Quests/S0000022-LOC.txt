@@ -14,7 +14,7 @@ AcceptQuest:  [1002]
 <ce> Euch warnen. Es wird seinen Geist nicht zur
 <ce> Ruhe bringen, ihn aber soweit besänftigen,
 <ce> dass Ihr mit ihm sprechen könnt. Es ist dann an
-<ce> Lyandus, den abschließenden Exorzismus zu wählen.
+<ce> Lysandus, den abschließenden Exorzismus zu wählen.
  
 <ce> Ich weiß nicht, wo er beigesetzt wurde. Aber
 <ce> ich weiß, dass es nicht auf dem Cryngainefeld
@@ -37,4 +37,5 @@ Message:  1011
  von Lysandus besänftigen wird. Es wird ihn allerdings
  nicht zur Ruhe bringen, sondern lediglich seinen Zorn
  lindern. Nun muss ich nur seine Grabstätte finden und
+ es benutzen.
 

@@ -100,26 +100,24 @@ Kind _child_ wurde von einer Familie in
 der __childhouse_ aufgenommen.
 
 Message:  1020
-                       %qdt
+                                 %qdt
  
  Verehrter %pcn,
  
-     Oder sollte ich Euch "=wereboar_" nennen,
- wie das gemeine Volk von ___childhouse_, das jede
- Nacht aus Furcht vor Euch die Tore verriegelt?
- Ja, ich weiß, wer und was Ihr seid, und die Tage,
- die Ihr die Iliac-Bucht terrorisiert habt, sind
- gezählt. Ich lasse Euch die Wahl: entsagt Eurer
- Lykanthropie oder werdet wie die wilde Bestie
- gejagt, die Ihr seid. Niemand soll sagen, dass
- es _hunter_ an Mitleid fehlen würde. Ich
- biete Euch eine letzte Chance, Euch zu retten.
- Geht zu _priest_ vom __priest_
- in ___priest_, wenn Ihr weiterleben wollt.
- %g in in den Eigenarten der Lykanthropie wohl-
- bewandert, wenn Euch jemand helfen kann, dann
- ist %g es. Ich werde =huntstart_ Tage warten, bevor
- ich meine Jäger auf Euch hetze. Nutzt die Zeit weise.
+     Oder sollte ich Euch "=wereboar_" nennen, wie das
+ gemeine Volk von ____childhouse_, das jede Nacht aus
+ Furcht vor Euch die Tore verriegelt? Ja, ich weiß, wer
+ und was Ihr seid, und die Tage, die Ihr die Iliac-Bucht
+ terrorisiert habt, sind gezählt. Ich lasse Euch die
+ Wahl: entsagt Eurer Lykanthropie oder werdet wie die
+ wilde Bestie gejagt, die Ihr seid. Niemand soll sagen,
+ dass es _hunter_ an Mitleid fehlen würde. Ich biete
+ Euch eine letzte Chance, Euch zu retten. Geht zu _priest_
+ vom __priest_ in ___priest_, wenn Ihr
+ weiterleben wollt. %g ist in den Eigenarten der Lykanthropie
+ wohlbewandert, wenn Euch jemand helfen kann, dann ist
+ %g es. Ich werde =huntstart_ Tage warten, bevor ich
+ meine Jäger auf Euch hetze. Nutzt die Zeit weise.
  
 <ce>_hunter_
 

@@ -68,7 +68,7 @@ f.	Kampfübungen
 	#4266
 	30 +6
 
-4.	Seit Eurer Kindheit verwahrt Ihr  ___.
+4.	Seit Eurer Kindheit verwahrt Ihr ___.
 a.	100 Goldstücke
 	#4167
 	GP +100

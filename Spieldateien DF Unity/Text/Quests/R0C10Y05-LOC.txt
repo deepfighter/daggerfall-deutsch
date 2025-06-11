@@ -98,7 +98,7 @@ Message:  1015
 Message:  1021
 <ce> Oh, fast vergessen: Ich weiß nicht, welche
 <ce> Art Monster ___mondung_ heimsucht,
-<ce> doch Gerüchten steckt der name Name
+<ce> doch Gerüchten zufolge steckt der Name
 <ce> =giant_ hinter diesem Schrecken.
 
 Message:  1030

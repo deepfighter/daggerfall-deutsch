@@ -76,7 +76,7 @@ Message:  1019
  Mörders Fürst Wiedborn seiner Seele Frieden
  verschaffen kann. Fürst Wiedborn ist ein
  Adliger aus Wegesruh und Prinzessin Elysana
- angetraut. Er besitzt eine Burge in der
+ angetraut. Er besitzt eine Burg in der
  Wildnis von Wegesruh.
 
 Message:  1021

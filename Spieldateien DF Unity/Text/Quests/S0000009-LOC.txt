@@ -120,7 +120,7 @@ Message:  1016
 Message:  1018
 %pcf,
  
-     brecht Eure Nachforschungen
+     brecht Eure Nachforschungen auf
  der Stelle ab, wenn Ihr nicht wie
  Lysandus sterben möchtet. Wollt Ihr
  Euer Leben wirklich für einen Toten

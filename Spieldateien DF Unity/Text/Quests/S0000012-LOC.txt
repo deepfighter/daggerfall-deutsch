@@ -21,7 +21,7 @@ QuestorOffer:  [1000]
 <ce> damit Gothryd gegen Euch aufbringen.
  
 <ce> Seid Ihr dazu bereit?
- 
+
 RefuseQuest:  [1001]
 <ce> Aubk-i muss Euch wirklich um den Finger
 <ce> gewickelt haben, %pcn. Ich hoffe

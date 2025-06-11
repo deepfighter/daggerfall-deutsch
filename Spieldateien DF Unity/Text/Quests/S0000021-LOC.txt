@@ -23,7 +23,7 @@ AcceptQuest:  [1002]
 <ce> auf eine Frage. Sie findet sich nicht unter
 <ce> den Lebenden, aber vielleicht unter den Toten.
 <ce> Ich möchte, dass Ihr mir den Geist von Prinz
-<ce> Karolis, dem Urgroßvater des verstorbenen
+<ce> Karolis bringt, dem Urgroßvater des verstorbenen
 <ce> Königs Camaron von Schildwacht. Karolis war ein
 <ce> Hexenmeister von nicht geringem Talent. Nun ist
 <ce> er ein Lich tief in den Eingeweiden des Palastes.

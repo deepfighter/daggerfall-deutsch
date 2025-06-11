@@ -8,7 +8,7 @@ QuestorOffer:  [1000]
 <ce> Königin eines mächtigen Reichs, noch dazu
 <ce> eine Königin, deren Heimat in weiter Ferne
 <ce> liegt, ist es nicht leicht, irgendeinem Söldner
-<ce> zu vertrauen, Aber als mir mein liebes Kind
+<ce> zu vertrauen. Aber als mir mein liebes Kind
 <ce> von Euch erzählte, habe ich keinen Moment
 <ce> gezögert, Euch zu schreiben. Es braut sich
 <ce> eine heikle Situation zusammen. Ich brauche
@@ -33,7 +33,7 @@ AcceptQuest:  [1002]
 <ce> grausam und verleumderisch nennen würde. Weil
 <ce> das Buch noch dazu übermäßig kritisch gegenüber
 <ce> dem Kaiserreich und der Septim-Kaiserfamilie
-<ce> war, wirde es wohlweislich unterdrückt und
+<ce> war, wurde es wohlweislich unterdrückt und
 <ce> sein Autor hingerichtet. Leider tauchen Kapitel
 <ce> des Buches von Zeit zu Zeit wieder auf. Ich
 <ce> habe Grund zu der Annahme, dass sich die Orks
@@ -88,182 +88,156 @@ Message:  1014
 Message:  1015
 Kapitel VI
  
- "Ihr tanzt auf dem Vulkan, Kind", ermahnte sie Drelliane,
- als Barenziah den herrlichen Sternensaphirring bewunderte,
- den ihr der kaiserliche Liebhaber zur Feier ihres ein-
- monatigen Jubiläums geschenkt hatte.
+ "Du tanzt am Rand eines Vulkans, Kind", tadelte Drelliane,
+ während Barenziah den Smaragd-Ring bewunderte, den ihr
+ Geliebter ihr zum einmonatigen Jubiläum geschenkt hatte.
  
- "Wie kann das sein? Wir machen einander glücklich. Wir
- tun keinem etwas zu Leide. Symmachus hat mir geboten,
- anspruchsvoll und diskret zu sein. Was für eine bessere
- Wahl könnte ich denn treffen? Und wir sind sehr diskret.
- In der Öffentlichkeit behandelt er mich wie eine Tochter."
- Die nächtlichen Besuche Tiber Septims erfolgten durch
- einen Geheimgang, von dem nur wenige Personen im Palast
- Kenntnis hatten - der Kaiser selbst und eine Handvoll
- Leibwächter, denen er vertraute.
+ "Wieso denn? Wir machen einander glücklich. Wir schaden
+ niemandem. Symmachus hat mir geraten, wählerisch und 
+ diskret zu sein. Wen hätte ich besser wählen können? Und 
+ wir waren sehr diskret. In der Öffentlichkeit behandelt er 
+ mich wie eine Tochter." Tiber Septims nächtliche Besuche 
+ erfolgten durch einen Geheimgang.
  
- "Er lechzt förmlich nach Euch wie ein Hund nach Wasser.
- Habt Ihr noch nicht bemerkt, wie kühl sich die Kaiserin
- und ihr Sohn Euch gegenüber verhalten?"
+ "Er sabbert dich an wie ein Hund sein Futter. Ist dir die 
+ Kühle der Kaiserin und ihres Sohnes dir gegenüber nicht 
+ aufgefallen?"
  
- Barenziah zuckte die Schultern. Auch vor Beginn der Affäre
- hatte die Familie sie nur mit dem Nötigsten an Höflichkeit
- behandelt. Mit dem Allernötigsten. "Ja und? Tiber ist es
- doch, der die Macht hat."
+ Barenziah zuckte mit den Schultern. Schon bevor sie und 
+ Septim Liebende geworden waren, hatte sie von seiner 
+ Familie kaum mehr als kühle Höflichkeit erfahren. 
+ Fadenscheinige Höflichkeit. "Was macht das schon? Tiber 
+ ist es, der die Macht hat."
  
- "Aber seinem Sohn gehört die Zukunft. Macht nicht den
- Fehler, seine Mutter dem öffentlichen Gespött preiszugeben."
+ "Es ist sein Sohn, der die Zukunft hält. Stell seine 
+ Mutter nicht öffentlich bloß, ich bitte dich."
  
- "Kann ich etwas dafür, wenn diese vertrocknete Schachtel
- das Interesse ihres Mannes nicht einmal während einer
- Unterhaltung beim Abendessen halten kann?"
+ "Kann ich etwas dafür, wenn dieses dürre Stöckchen von 
+ Frau ihren Mann nicht einmal beim Abendessen im Gespräch 
+ fesseln kann?"
  
- "Haltet es weniger öffentlich. Mehr verlange ich nicht.
- Sie ist kaum von Bedeutung, das ist wahr - doch ihre Kinder
- lieben sie, und Ihr solltet sie Euch nicht zu Feinden machen.
- Tiber Septim hat nicht mehr lange zu Leben. Was ich meine,
- ist", setzte sie schnell hinzu, als sie Barenziahs finsteren
- Gesichtsausdruck sah, "dass alle Menschen nur kurze Zeit
- leben. Sie sind flüchtig, wie wir Elfen sagen. Sie kommen
- und gehen wie die Jahreszeiten - doch die Familien der
- Mächtigen bleiben einige Zeit. Ihr müsst der Familie eine
- Freundin sein, wenn Ihr aus der Beziehung auf Dauer Vorteile
- schöpfen wollt. Aber wie kann ich Euch die Wahrheit erkennen
- lassen, die Ihr so jung und darüber hinaus noch von Menschen
- aufgezogen seid! Wenn Ihr dies weise beachtet, dann werdet Ihr
- mit Gramfeste zusammen noch das Ende der Dynastie Septims
- erleben, so er denn eine gegründet hat, genau, wie Ihr deren
- Aufstieg erlebt habt. So ist das mit der Geschichte der
- Menschen. Sie kommen und gehen wie die Gezeiten. Ihre Städte
- und Herrschaften erblühen wie Frühlingsblumen auf, nur um
- sogleich in der Sommerhitze zu welken und zu sterben. Doch
- die Elfen bleiben. Wir sind wie Jahre zu ihren Stunden,
- Jahrzehnte zu ihren Tagen."
+ "Sag weniger in der Öffentlichkeit. Das ist alles, worum 
+ ich dich bitte. Sie ist nicht von großer Bedeutung, außer, 
+ dass ihre Kinder sie lieben, und du willst sie nicht zu 
+ Feinden haben. Tiber Septim wird nicht mehr lange leben. 
+ Ich meine –" Drelliane korrigierte sich rasch, als 
+ Barenziah sie finster ansah, "Menschen leben eben nicht 
+ lang. Vorübergehend, wie wir Elfen sagen. Sie kommen und 
+ gehen wie die Jahreszeiten, aber die Familien der 
+ Mächtigen leben eine Weile fort. Du musst ein Freund der 
+ Familie sein, wenn du dauerhaft Nutzen aus deiner 
+ Verbindung ziehen willst. Ach, wie soll ich dich das 
+ wirklich erkennen lassen, dich, die du so jung bist und 
+ obendrein noch unter Menschen aufgewachsen! Wenn du klug 
+ bist, wirst du und Gramfeste lange genug leben, um den 
+ Fall von Septims Dynastie zu sehe, wenn er überhaupt eine 
+ gegründet hat, so wie du ihren Aufstieg miterlebt hast. So 
+ ist der Lauf der menschlichen Geschichte. Sie steigen und 
+ fallen wie die Gezeiten. Ihre Städte und selbst ihre 
+ Reiche blühen wie Frühlingsblumen, nur um in der 
+ Sommersonne zu welken und zu vergehen."
  
- Barenziah lachte nur. Sie wusste, dass die Gerüchteküche
- kochte. Sie genoss die Aufmerksamkeit, denn außer der Kaiserin
- und deren Sohn schien ein jeder von ihr eingenommen zu sein.
- Minnesänger besangen ihre dunkle Schönheit und ihren Charme.
- Sie war allseits beliebt und verliebt - auch wenn das nur
- vorübergehend sein mochte. So war das Leben nun einmal.
- Zum ersten Mal, seit sie zurückdenken konnte, war sie
- glücklich. Ihre Tage waren erfüllt von Freude und Glück.
- Übertroffen wurden sie nur noch von den Nächten.
+ Barenziah lachte nur. Sie wusste, dass es viele Gerüchte 
+ über sie und Tiber Septim gab. Sie genoss die 
+ Aufmerksamkeit, bis auf die Kaiserin und ihren Sohn 
+ schienen alle von ihr bezaubert. Barden sangen von ihrer 
+ dunklen Schönheit und ihrem charmanten Wesen. Sie war in 
+ Mode und verliebt. Und wenn es nur vorübergehend war, nun, 
+ was war das nicht? Sie war zum ersten Mal, an das sie sich 
+ erinnern konnte, wirklich glücklich. Jeder Tag war voller 
+ Freude und Vergnügen und die Nächte noch mehr.
  
- "Was stimmt nur nicht mit mir?", klagte Barenziah. "Seht
- nur, kein einziger meiner Röcke passt mir mehr. Was ist
- nur mit meiner Taille? Ich werde doch nicht etwa dick?"
- Barenziah sah ihre dünnen Arme und Beine und die eindeutig
- dicker gewordene Taille missbilligend im Spiegel an.
+ "Was stimmt nicht mit mir?", klagte Barenziah. "Schau, 
+ kein einziger meiner Röcke passt mehr! Was ist mit meiner 
+ Taille passiert? Werde ich etwa dick?" Missmutig 
+ betrachtete Barenziah im Spiegel ihre dünnen Arme und 
+ Beine und die unbestreitbar breiter gewordene Taille.
  
- Drelliane zuckte mit den Schultern. "Trotz Eures jugendlichen
- Alters scheint Ihr schwanger zu sein. Durch den ständigen
- intimen Kontakt zu Menschen seid Ihr früher fruchtbar geworden
- als üblich. Ihr müsst wohl oder übel mit dem Kaiser darüber
- sprechen. Ihr seid in seiner Hand. Ich denke, es wäre wohl
- am besten, wenn er Euch direkt nach Gramfeste gehen ließe,
- damit ihr das Kind dort bekommen könnt."
+ Drelliane zuckte mit den Schultern. "Du scheinst schwanger 
+ zu sein, obwohl du so jung bist. Der ständige Umgang mit 
+ einem Menschen hat deine Fruchtbarkeit verfrüht ausgelöst. 
+ Ich sehe keine andere Möglichkeit, als dass du mit ihm 
+ darüber sprichst. Du stehst in seiner Macht. Am besten 
+ wäre es, denke ich, wenn du direkt nach Gramfeste gehst, 
+ wenn er zustimmt, und das Kind dort zur Welt bringst."
  
- "Allein?" Barenziah legte die Hände auf den kleinen Bauch
- und verdrückte eine Träne. Mit jeder Faser ihres Seins sehnte
- sie sich danach, die Frucht ihrer Liebe mit ihrem Geliebten
- zu teilen. "Nie wird er dem zustimmen. Nun wird er gewiss
- nicht weit von mir sein wollen. Ihr werdet schon sehen."
+ "Allein?" Barenziah legte die Hände auf ihren 
+ geschwollenen Bauch, Tränen traten ihr in die Augen. Alles 
+ in ihr sehnte sich danach, die Frucht ihrer Liebe mit 
+ ihrem Geliebten zu teilen. "Er wird das nie erlauben. Er 
+ will sich jetzt nicht mehr von mir trennen. Du wirst sehen."
  
- Drelliane schüttelte den Kopf. Obwohl sie nichts weiter
- sagte, blickte sie Barenziah nicht mit der üblichen kühlen
- Herablassung, sondern mit Mitgefühl und Bedauern an.
+ Drelliane schüttelte ihren grauen Kopf. Sie sagte nichts weiter, doch ein Ausdruck von Mitgefühl und Trauer trat an die Stelle ihres üblichen kühlen Spottes.
  
- Noch in derselben Nacht teilte sie Tiber Septim die Nachricht
- mit, als er zu ihrer üblichen Verabredung kam.
+ In jener Nacht sagte Barenziah es Tiber Septim, als er zu 
+ ihr kam.
+
+ "Schwanger?" Er wirkte erschrocken. Fassungslos. "Seid Ihr 
+ sicher? Ich habe gehört, Elfen bekommen in so jungen 
+ Jahren keine Kinder."
  
- "Ein Kind?", Er wirkte schockiert, völlig entgeistert.
- "Seid Ihr sicher? Aber man sagte mir doch, Elfen seien
- in diesem Alter noch nicht fruchtbar ..."
+ Barenziah zwang sich zu einem Lächeln. "Wie kann ich mir 
+ sicher sein? Ich war nie—"
  
- Barenziah versuchte, zu lächeln. "Wie könnte ich denn
- sicher sein? Ich habe noch nie -"
+ "Ich hole meinen Heiler."
  
- "Ich werde meinen Heiler kommen lassen."
+ Der Heiler, ein Altmer mittleren Alters, bestätigte, dass 
+ Barenziah tatsächlich schwanger war und dass so etwas noch 
+ nie vorgekommen sei. Es sei ein Beweis für Seine 
+ Exzellenz’ Potenz, sagte der Heiler schleimig. Tiber 
+ Septim knurrte ihn an. "Das darf nicht sein", sagte er. 
+ "Mach es rückgängig."
  
- Der Heiler, ein Hochelf mittleren Alters, bestätigte die
- Vermutung, dass Barenziah schwanger sei und so etwas noch
- nie zuvor geschehen wäre. Es sei Zeugnis der Potenz Seiner
- Exzellenz, sagte der Heiler schmeichlerisch. Tiber Septim
- verlor die Fassung.
+ "Sire...", starrte der Heiler ihn an, "ich kann das nicht—"
  
- "Es darf nicht sein!", rief er. "Macht es ungeschehen.
- Wir befehlen es Euch!"
+ "Natürlich könnt ihr", fuhr er ihn an. "Ich befehle es 
+ euch."
  
- "Aber Herr", stammelte der Heiler fassungslos. "Ich kann
- doch nicht ... Ich darf nicht -"
+ Barenziah riss erschrocken die Augen auf, plötzlich von 
+ Entsetzen erfüllt. Sie setzte sich im Bett auf. "Nein!", 
+ schrie sie. "Nein! Was redet ihr da?!"
  
- "Natürlich könnt Ihr das, Ihr inkompetenter Schwachkopf",
- fuhr ihn der Kaiser an. "Es ist unser ausdrücklicher
- Wunsch."
+ "Mein liebes Kind", Tiber Septim setzte sich mit seinem 
+ gewinnenden Lächeln zu ihr ans Bett, "es tut mir leid. 
+ Wirklich. Aber das darf nicht sein. Dein Kind könnte eine 
+ Bedrohung für meinen Sohn und seine Söhne sein. Mehr will 
+ ich dazu nicht sagen."
  
- Barenziah, die das Geschehen bis dahin stumm und mit
- vor Entsetzen geweiteten Augen verfolgt hatte, setzte
- sich plötzlich im Bett auf. "Nein!", schrie sie. "Nein!
- Wovon redet Ihr da?"
+ "Das Kind, das ich trage, ist EUER Kind!", jammerte sie.
  
- "Kind." Tiber Septim setzte sich neben sie, mit einem
- gewinnenden Lächeln auf den Lippen. "Es tut mir aufrichtig
- Leid. Aber das darf nicht sein. Es wäre eine Gefahr für
- meinen Sohn und dessen Söhne. Ich werde es nicht noch
- klarer ausdrücken."
+ "Nein. Es ist nur eine Möglichkeit, ein Vielleicht. Noch 
+ nicht mit einer Seele gesegnet, noch nicht zum Leben 
+ erweckt. Ich werde es nicht zulassen." Er warf dem Heiler 
+ einen weiteren strengen Blick zu, und der Elf begann zu 
+ zittern.
  
- "Aber mein Kind ist auch Eures!", heulte sie auf.
+ "Es ist ihr Kind. Unter Elfen gibt es nur wenige Kinder. 
+ Keine Frau empfängt mehr als vier und selbst das ist schon 
+ sehr selten. Zwei ist die übliche Zahl. Manche bekommen 
+ gar keine, manche nur eines. Wenn ich ihr dieses nehme, 
+ wird sie vielleicht nie wieder empfangen."
  
- "Nein. Es ist bisher nichts als eine Möglichkeit, ein
- potenzielles Wesen, das noch keine Seele hat und noch
- nicht wirklich lebt. Ich werde es nicht akzeptieren.
- Ich verbiete es." Er sah den Heiler abermals böse an.
- Der Elf begann zu zittern.
+ "Ihr habt mir gesagt, sie würde von mir keine Kinder 
+ empfangen. Ich habe wenig Vertrauen in eure Prophezeiungen."
  
- "Aber Herr. Es ist ihr Kind. Elfen haben sehr wenige
- Kinder. Keine Elfe kann mehr als vier Mal empfangen,
- und auch das ist sehr selten. Meist haben Elfen zwei
- Kinder. Manche haben nur ein Kind, und einige gar keine.
- Wenn ich ihr dieses Kind nehme, Herr, wird sie vielleicht
- niemals wieder empfangen."
+ Barenziah sprang nackt aus dem Bett und rannte zur Tür, 
+ ohne zu wissen, wohin sie wollte, nur, dass sie nicht 
+ bleiben konnte. Doch sie erreichte die Tür nie, denn die 
+ Dunkelheit verschlang sie.
  
- "Ihr hattet bereits vorausgesagt, dass sie kein Kind
- von uns bekommen könnte. Wir haben wenig Vertrauen in
- Eure weiteren Weissagungen."
- 
- Nackt wie sie war, kletterte Barenziah aus dem Bett und
- rannte zur Tür. Sie wusste nicht, wohin sie wollte, nur,
- dass sie hier weg musste. Sie sollte sie nicht mehr
- erreichen. Finsternis legte sich über sie.
- 
- Als sie wieder zu sich kam, empfand sie schrecklichen
- Schmerz. Ein Gefühl unerträglicher Leere machte sich
- breit. Ein Teil, in dem zuvor etwas Lebendiges gewesen
- war, blieb nun leer, das Leben tot und auf ewig verloren.
- Drelliane blieb bei ihr, um den Schmerz zu lindern und
- das Blut, das sich immer noch zwischen ihren Beinen
- sammelte, wegzuputzen. Doch nichts und niemand konnte
- diese Leere füllen. Nichts konnte es ersetzen.
- 
- Der Kaiser schickte ihr herrliche Geschenke und große
- Blumengestecke, und er stattete ihr kurze Besuche ab,
- jedoch nie alleine. Zunächst freute sich Barenziah über
- diese Besuche. Doch Nachts kam Tiber Septim nicht mehr
- zu ihr - und nach einiger Zeit wünschte sie dies auch
- nicht mehr.
- 
- Einige Wochen vergingen. Als sie sich körperlich erholt
- hatte, gab ihr Drelliane Bescheid, dass Symmachus
- geschrieben habe mit der Bitte, man möge sie früher
- als geplant nach Gramfeste schicken. Umgehend wurde
- ihre Abreise verkündet.
- 
- Man gewährte ihr ein großes Gefolge, eine beträchtliche
- Aussteuer, wie es sich für eine Königin ziemte, und
- bereitete ihr einen so aufwändigen wie beeindruckenden
- zeremoniellen Abschied an den Toren der Kaiserstadt.
+ Barenziah erwachte in Schmerz und Leere. Drelliane war bei 
+ ihr, linderte den Schmerz und säuberte das Blut, das sich 
+ zwischen ihren Beinen gesammelt hatte, aber nichts konnte 
+ die Leere füllen. Tiber Septim schickte Geschenke und 
+ Blumen und kam zu kurzen Besuchen, stets in Begleitung. 
+ Barenziah nahm diese Besuche mit Höflichkeit entgegen, 
+ aber er kam nicht mehr nachts und sie wünschte es auch 
+ nicht. Nach einer Woche, als sie sich körperlich erholt 
+ hatte, wurde verkündet, dass Symmachus sie früher als 
+ geplant nach Gramfeste gebeten hatte und dass sie umgehend 
+ abreisen würde. Sie erhielt ein prächtiges Gefolge, eine 
+ Garderobe, wie sie einer Königin zukam, und einen 
+ feierlichen Abschied an den Toren der Kaiserstadt.
  
 
 Message:  1016

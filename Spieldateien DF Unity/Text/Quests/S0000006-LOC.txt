@@ -44,7 +44,7 @@ QuestComplete:  [1004]
 <ce> Oh, wie wundervoll Ihr seid. Hier, lasst mich
 <ce> Euch wie versprochen belohnen [_jewelry_].
 <ce> Ich hoffe, Fürst Kastellian gefällt die zusätzliche
-<ce> Arbeit, die ich in diesen Mantel gesteckt habe.
+<ce> Arbeit, die ich in diesen Mantel gesteckt habe.
 <ce> Jetzt ist er wahrlich spektakulär. Lasst mich
 <ce> Euch noch etwas mehr geben, %pcf.
 <ce> Mein Vater interessiert sich für ein bestimmtes

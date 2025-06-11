@@ -5,9 +5,9 @@ QRC:
 QuestorOffer:  [1000]
 <ce> Guten Tag, %pcf. Mein Name ist
 <ce> _agentuk_. Ich muss zugeben,
-<ce> ich bin bin überrascht, Euch zu
-<ce> sehen. Wäret Ihr vielleicht bereit,
-<ce> dem Unterkönig bei einem Vorhaben
+<ce> ich bin überrascht, Euch zu sehen.
+<ce> Wäret Ihr vielleicht bereit, dem
+<ce> Unterkönig bei einem Vorhaben
 <ce> gegen die Totenbeschwörer zu helfen?
 <ce> Wir würden Euch großzügig für Eure
 <ce> Dienste entlohnen und Euch Informationen

@@ -23,7 +23,7 @@ QuestorOffer:  [1000]
 RefuseQuest:  [1001]
 <ce> Das ist sehr bedauerlich, %pct.
 <ce> Ich hoffe, Ihr werdet in Zukunft
-<ce> trotz Eures vollen Terminkalenders
+<ce> trotz Eures vollen Kalenders
 <ce> Zeit für den Tempel finden.
 
 AcceptQuest:  [1002]

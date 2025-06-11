@@ -18,8 +18,8 @@
  ***  The Elder Scrolls Chapter II: Daggerfall, README / LIESMICH          ***
  *****************************************************************************
  *** Projektbeginn:-       Oktober 2010                                    ***
- *** Letztes Update:-      November 2024                                   ***
- *** DfDU-Version:-        0.90 [Beta-Version]                             ***
+ *** Letztes Update:-      Juni 2025                                       ***
+ *** DfDU-Version:-        0.91 [Beta-Version]                             ***
  *** Unterstütztes DFU:-   v1.1.1                                          ***
  *** Hauptverantwortlich:- Deepfighter & Numenorean                        ***
  *** E-mail:-              daggerfalldeutsch@gmail.com                     ***
@@ -37,7 +37,7 @@
  *** Reserved.                                                             ***
  ***                                                                       ***
  *** Deutsche Lokalisierung von The Elder Scrolls II: Daggerfall           ***
- *** (C) 2010-2024 Das deutsche Daggerfall-Lokalisierungsteam              ***
+ *** (C) 2010-2025 Das deutsche Daggerfall-Lokalisierungsteam              ***
  *** www.daggerfalldeutsch.de                                              ***
  ***                                                                       ***
  *****************************************************************************
@@ -49,28 +49,30 @@
 
     I. Einleitung . . . . . . . . . . . . . . . . . . . . . . . . . . [DFD-01]
 
-   II. Hinweise / Einschränkungen / Fehler. . . . . . . . . . . . . . [DFD-02]
+   II. Die Deuutsche Lokalisierung . . . .  . . . . . . . . . . . . . [DFD-02]
+
+  III. Hinweise / Einschränkungen / Fehler. . . . . . . . . . . . . . [DFD-03]
 
        Lokalisierung / Übersetzung
        Unterschiede zu Classic
        Bekannte Einschränkungen
        Bekannte Fehler/Bugs
 
-  III. Inhalte. . . . . . . . . . . . . . . . . . . . . . . . . . . . [DFD-03]
+   IV. Inhalte. . . . . . . . . . . . . . . . . . . . . . . . . . . . [DFD-04]
 
-   IV. Installationsanleitung . . . . . . . . . . . . . . . . . . . . [DFD-04]
+    V. Installationsanleitung . . . . . . . . . . . . . . . . . . . . [DFD-05]
 
-    V. Hintergrundgeschichte. . . . . . . . . . . . . . . . . . . . . [DFD-05]
+   VI. Changelog. . . . . . . . . . . . . . . . . . . . . . . . . . . [DFD-06]
 
-   VI. Modifikationen . . . . . . . . . . . . . . . . . . . . . . . . [DFD-06]
+  VII. Modifikationen . . . . . . . . . . . . . . . . . . . . . . . . [DFD-07]
 
-  VII. Kontaktinformationen . . . . . . . . . . . . . . . . . . . . . [DFD-07]
+ VIII. Kontaktinformationen . . . . . . . . . . . . . . . . . . . . . [DFD-08]
 
- VIII. Mitwirkende und Danksagungen . . . . . . . . . . . . . . . . . [DFD-08]
+   IX. Mitwirkende und Danksagungen . . . . . . . . . . . . . . . . . [DFD-09]
 
-   IX. Urheberrechte & Lizenzinformationen. . . . . . . . . . . . . . [DFD-09]
+    X. Urheberrechte & Lizenzinformationen. . . . . . . . . . . . . . [DFD-10]
 
-    X. Appendixes . . . . . . . . . . . . . . . . . . . . . . . . . . [DFD-10]
+   XI. Appendixes . . . . . . . . . . . . . . . . . . . . . . . . . . [DFD-11]
 
        Zusatzdokumente
 	     Offizielle deutschsprachige Boxart
@@ -99,22 +101,22 @@ gleich, ob Ihr ein erfahrener Veteran oder ein Neuling in der Welt von
 Daggerfall seid – wir hoffen, dass Ihr ebenso viel Freude an dieser 
 Lokalisierung haben werdet, wie wir bei ihrer Erstellung hatten. Daggerfall 
 ist weit mehr als nur ein gewöhnliches Spiel; es ist – meiner Meinung nach – 
-ein Meilenstein in der Geschichte der Videospiele. Leider war es seiner Zeit 
-voraus, was letztlich auch zu seinem anfänglichen Scheitern führte. Der 
-erzwungene Release im August 1996 war die Ursache für zahlreiche, vor allem 
-technische Probleme, die dem Spiel den wenig schmeichelhaften Beinamen 
-"Buggerfall" (Bug = engl. Fehler) einbrachten. Der immense Druck, das Spiel 
-rechtzeitig zu veröffentlichen, spiegelt sich nicht nur in den technischen 
-Schwierigkeiten wider, sondern auch in hastig eingefügten Texten, zahlreichen 
-Rechtschreibfehlern in den Quests und den vielen Hinweisen auf entfernte 
-Inhalte. Die gröbsten Fehler wurden mittlerweile von der engagierten 
-Fan-Gemeinschaft behoben.
+ein Meilenstein in der Geschichte der Videospiele. Leider war es mit seinen
+Ambitionen seiner Zeit weit voraus, was letztlich auch zu seinem anfänglichen
+Scheitern führte. Der erzwungene Release im August 1996 war die Ursache für
+zahlreiche, vor allem technische Probleme, die dem Spiel den wenig
+schmeichelhaften Beinamen "Buggerfall" (Bug = engl. Fehler) einbrachten.
+Der immense Druck, das Spiel rechtzeitig zu veröffentlichen, spiegelt sich
+nicht nur in den technischen Schwierigkeiten wider, sondern auch in hastig
+eingefügten Texten, zahlreichen Rechtschreibfehlern in den Quests und den
+vielen Hinweisen auf entfernte Inhalte. Die gröbsten Fehler wurden
+mittlerweile von der engagierten Fan-Gemeinschaft behoben.
 
 Den deutschen Spielern blieb bislang allerdings die geplante deutsche 
 Lokalisierung, die aufgrund der technischen Hürden und der enormen Textmenge 
 nie realisiert wurde, vorenthalten. Interessanterweise erwähnte Julien LeFay 
-einst auf Nachfrage, dass das Spiel vollständig übersetzt worden sei, er 
-jedoch nicht wisse, warum es letztlich nicht in Deutschland veröffentlicht 
+einst auf unsere Nachfrage, dass das Spiel vollständig übersetzt worden sei,
+er jedoch nicht wisse, warum es letztlich nicht in Deutschland veröffentlicht
 wurde. Heute erinnern nur noch die deutsche Verpackung, das Handbuch und ein 
 einzeln übersetztes Ingame-Buch daran, dass für den deutschen Markt 
 ursprünglich mehr geplant war.
@@ -159,11 +161,103 @@ Wir wünschen Euch viel Spaß mit unserer Lokalisierung!
 
 
 ==============================================================================
+                     --------------------------------------
+                        II - Die Deutsche Lokalisierung
+                       ----------------------------------
+==============================================================================
+                                                              \\ [DFD-02] //
+                                                               ''''''''''''
+- Ein Kommentar von Frank 'Deepfighter' Schwalb -
+
+Mit The Elder Scrolls II: Daggerfall nahm die legendäre Rollenspielreihe
+weiter an Form an und legte den Grundstein für viele der Mechaniken und
+Konzepte, die in späteren Elder Scrolls-Spielen verfeinert wurden. Während
+die Nachfolger Morrowind, Oblivion und Skyrim offizielle deutsche
+Lokalisierungen erhielten, blieb Daggerfall für viele deutschsprachige Spieler
+lange Zeit eine Barriere, sei es durch die englische Sprache, die Spielbarkeit
+einzig durch einen DOS-Emulator oder die grundsätzliche Komplexität des Spiels.
+Das Ziel dieser Lokalisierung war von Anfang an, diesen Umstand zu ändern
+und Daggerfall einem größeren, deutschsprachigen, Publikum zugänglich zu
+machen.
+
+Die vorliegende Lokalisierung ermöglicht es nicht nur, die faszinierende Welt der
+Iliac-Bucht endlich in deutscher Sprache zu erleben, sondern auch die Tiefe
+und Vielschichtigkeit des Spiels voll auszukosten. Die umfangreiche Spielwelt,
+die komplexen Fraktionssysteme und die zahllosen Quests bieten eine
+Spielerfahrung, die bis heute meines Erachtens einzigartig ist. Eine deutsche
+Lokalisierung sorgt dafür, dass noch mehr Spieler diesen Klassiker so genießen
+können, wie er verdient.
+
+                  / ===================================== \
+                <     HERAUSFORDERUNG DER LOKALISIERUNG     >
+                  \ ===================================== /
+
+Die Lokalisierung eines so umfangreichen Spiels wie Daggerfall ist eine
+gewaltige Aufgabe. Der Textumfang ist enorm und umfasst nicht nur Dialoge,
+sondern auch Bücher, Quests, Gegenstandsbeschreibungen und Systemmeldungen.
+Viele dieser Texte sind in einem altertümlichen Englisch verfasst, was eine
+sorgfältige Balance zwischen Authentizität und Lesbarkeit in der deutschen
+Sprache erfordert.
+
+Ein weiteres Problem ist die Konsistenz mit späteren Elder Scrolls-Spielen.
+Zahlreiche Begriffe, Namen und Orte wurden erst in späteren Teilen der Serie
+kanonisiert, sodass es wichtig war, eine Lokalisierung zu schaffen, die sowohl
+mit Daggerfall selbst als auch mit der späteren Lore übereinstimmt.
+Gleichzeitig dürfen die Eigenheiten des Spiels nicht verloren gehen, sei es
+der formale Sprachstil der Adeligen, die raue Ausdrucksweise von Söldnern oder
+die kryptischen Beschreibungen von Artefakten und Magie.
+
+Zusätzlich gibt es technische Herausforderungen: Die alte Daggerfall-Engine
+begrenzt die Darstellung von Texten, was bedeutet, dass deutsche Texte oft
+kürzer gefasst werden müssen, ohne dabei an Bedeutung zu verlieren. Moderne
+Lösungen wie Daggerfall Unity haben diese Limitierung fast gänzlich aufgehoben,
+sodass erstmalig eine hochwertige deutsche Version realisiert werden konnte.
+
+                  / ===================================== \
+                <        WARUM DIESE LOKALISIERUNG          >
+                  \ ===================================== /
+                  
+Obwohl Daggerfall ein entscheidender Teil der Elder Scrolls-Reihe ist, blieb
+es für viele Spieler bislang unzugänglich. Die fehlende deutsche Lokalisierung
+stellte eine Hürde dar, die nun mit diesem Projekt endlich überwunden wird.
+Die gigantische offene Spielwelt, die frei erkundbaren Städte, Schlösser und
+Dungeons sowie das tiefgehende Charakter- und Gildensystem machen Daggerfall
+zu einem Meilenstein der Rollenspielgeschichte, den jeder RPG-Fan erleben
+sollte.
+
+Darüber hinaus trägt dieses Projekt zur Erhaltung eines klassischen Videospiels
+bei. Viele Werke aus der Frühzeit des Genres geraten in Vergessenheit, doch
+durch Fan-Lokalisierungen wie diese wird sichergestellt, dass auch
+zukünftige Generationen Daggerfall in vollem Umfang genießen können. Eine
+deutsche Version sorgt dafür, dass mehr Spieler die komplexen Questreihen,
+die politische Intrigen und die epische Hauptgeschichte von Daggerfall in
+ihrer Muttersprache erleben können.
+
+                  / ===================================== \
+                <       EIN GESCHENK AN DIE COMMUNITY       >
+                  \ ===================================== /
+
+Diese Lokalisierung ist aus purer Leidenschaft entstanden – für The Elder
+Scrolls, für klassische Rollenspiele und für die deutsche RPG- und Elder
+Scrolls-Community, die sich schon lange eine lokalisierte Version dieses Spiels
+gewünscht hat. Mein Ziel ist es nicht nur, das Spiel für deutschsprachige
+Spieler zugänglicher zu machen, sondern auch die Faszination für Daggerfall
+neu zu entfachen.
+
+Vielleicht inspiriert diese Arbeit sogar andere, sich tiefer mit den
+Ursprüngen der Serie zu befassen oder selbst dazu beizutragen, wie
+beispielsweise mit am Tamriel-Almanach (www.tamriel-almanach.de) zu arbeiten
+oder weitere Klassiker in ihrer Sprache spielbar zu machen. Möge diese
+Lokalisierung dazu beitragen, dass The Elder Scrolls II: Daggerfall seinen
+verdienten Platz in der Geschichte von Tamriel behält und dass noch viele
+mutige Abenteurer die unendlichen Weiten der Iliac-Bucht erkunden.
+
+==============================================================================
                 -----------------------------------------------
                    II - HINWEISE / EINSCHRÄNKUNGEN / FEHLER
                  --------------------------------------------
 ==============================================================================
-                                                              \\ [DFD-02] //
+                                                              \\ [DFD-03] //
                                                                ''''''''''''
 Der Inhalt dieses Dateiarchivs ermöglicht es, Daggerfall Unity (DFU) in 
 deutscher Sprache zu spielen. Die Lokalisierung ist aktuell auf Version 1.1.1 
@@ -218,7 +312,8 @@ Anpassungen vorgenommen.
     sodass diese nun deutlich übersichtlicher dargestellt werden.
   - Außerdem haben wir vorsorglich bereits die in der Classic-Version 
     ungenutzten Texte der Freudenmädchen und Barden (sogar in Reimform) 
-    übersetzt, falls diese in zukünftigen Versionen genutzt werden sollten.
+    übersetzt, falls diese in zukünftigen Versionen oder durch Modifikationen
+    genutzt werden sollten.
 
                       / =============================== \
                     <       BEKANNTE EINSCHRÄNKUNGEN      >
@@ -260,15 +355,13 @@ aufliste:
   - Einige Quest- oder Dialogtexte könnten aufgrund der vielen Variablen und 
     des noch in Entwicklung befindlichen Grammatikmoduls gelegentlich holprig 
     klingen oder falsche Geschlechterzuweisungen enthalten;
-  - Die unzensierte Version des Buchs "Die wahre Barenziah" ist noch nicht 
-    übersetzt.
 
 ==============================================================================
                      --------------------------------------
                                  III - INHALTE
                        ----------------------------------
 ==============================================================================
-                                                              \\ [DFD-03] //
+                                                              \\ [DFD-04] //
                                                                ''''''''''''
 Folgende Inhalte liegen dem Archiv bei:
 
@@ -352,7 +445,7 @@ Die Lokalisierungsdateien sind in acht Unterordnern im Verzeichnis
                            IV - INSTALLATIONSANLEITUNG
                        ----------------------------------
 ==============================================================================
-                                                              \\ [DFD-04] //
+                                                              \\ [DFD-05] //
                                                                ''''''''''''
  Zum Spielen benötigt Ihr drei Sachen:
 
@@ -407,22 +500,38 @@ https://forums.dfworkshop.net/viewtopic.php?t=2360
 
 ==============================================================================
                      --------------------------------------
-                           V - HINTERGRUNDGESCHICHTE
+                           V - CHANGELOG
                        ----------------------------------
 ==============================================================================
-                                                              \\ [DFD-05] //
+                                                              \\ [DFD-06] //
                                                                ''''''''''''
 
-Bis zur Veröffentlichung habe ich es noch nicht geschafft, die letzten
-17 Jahre, seitdem diese Lokalisierung gestartet ist, in Worte zu fassen.
-Das folgt in einem späteren Update.
+v0.91
+-----
+ - Aufgrund eines Versehens beim ursprünglichen zusammenstellen der Videos
+   waren diese in einem Codec, welcher es möglich machte, dass diese nicht
+   auf Windows abgespielt werden könnten. Dies wurde behoben und mit den
+   korrekten Dateien ausgetauscht.
+ - Sprachliche Anpassungen:
+ -- Rechtschreibfehler
+ -- Zeichensetzung
+ -- Anpassungen einiger Vor-/Nachteile in der Charaktererstellung
+ - Geschäftsöffnungszeiten wurden nicht angezeigt. Dies wurde nun behoben.
+ - "legacy"-Anpassungen aus DfD Classuc entfernt, die durch DfDU nicht mehr
+   notwendig sind (es musste bspw. hinter jeder Richtungsangabe ein "'lich"
+   ergänzt werden)
+ - Erstmalige Übersetzung der unzensierten Version der wahren Barenziah
+
+ v0.90 (04.11.2024)
+ ------------------
+  - Erstveröffenlichung
 
 ==============================================================================
                      --------------------------------------
                             VI - MODIFIKATIONEN
                        ----------------------------------
 ==============================================================================
-                                                              \\ [DFD-06] //
+                                                              \\ [DFD-07] //
                                                                ''''''''''''
 -Wo finde ich Modifikationen zu Daggerfall?
 --Die internationale Daggerfall-Gemeinschaft hat sich vor einiger Zeit für
@@ -445,7 +554,7 @@ Das folgt in einem späteren Update.
                             VII - KONTAKTINFORMATIONEN
                        ----------------------------------
 ==============================================================================
-                                                              \\ [DFD-07] //
+                                                              \\ [DFD-08] //
                                                                ''''''''''''
 
 Projektseite:          www.daggerfalldeutsch.de
@@ -455,7 +564,7 @@ https://www.elderscrollsportal.de/foren#the-elder-scrolls-ii-daggerfall.218
 
 Datenarchiv (Github):  https://github.com/deepfighter/daggerfall-deutsch
 
-Discord (#Daggerfall): https://discord.gg/W5wRrNnE
+Discord (#Daggerfall): https://discord.gg/kAyjWfUWvF
 
 E-Mail:                daggerfalldeutsch@gmail.com
 
@@ -469,7 +578,7 @@ Kontaktinformationen direkt.
                        VIII - CREDITS AND ACKNOWLEDGMENTS
                        ----------------------------------
 ==============================================================================
-                                                              \\ [DFD-08] //
+                                                              \\ [DFD-09] //
                                                                ''''''''''''
 
   An solch einem Projekt wirken eine Menge Menschen mit. Über die Zeit
@@ -482,6 +591,11 @@ Kontaktinformationen direkt.
 
  - Eric Heberling für den stimmigen Soundtrack der ersten beiden Spielteile.
 
+ - dem Projekt PDLF und dort insbesondere Porygon, Ancestral Ghost und 
+   Daneel53, welche durch Ihre Hilfestellungen und Erfahrungen mit der
+   französischen Version uns viel Ärger und Zeit erspart haben. Merci 
+   beaucoup!
+
  - Cato d. Ä., Archaeon, Ricardo Diaz und Killfetzer für die deutschen
    Versionen zahlreicher Ingame-Bücher aus Daggerfall, welche den Grundstock
    boten, um Sie Lore-stimmig und einheitlich zu überarbeiten.
@@ -490,11 +604,6 @@ Kontaktinformationen direkt.
    bereitschaft und enormen Ausdauer hat er uns viel Arbeit abgenommen,
    wenn es um die "langweiligeren" Arbeiten ging. Außerdem einen Riesendank 
    für die toll erstellten Hüllencover für Daggerfall. Dank Dir!
-
- - dem Projekt PDLF und dort insbesondere Porygon, Ancestral Ghost und 
-   Daneel53, welche durch Ihre Hilfestellungen und Erfahrungen mit der
-   französischen Version uns viel Ärger und Zeit erspart haben. Merci 
-   beaucoup!
 
  - Burkhard Müller, der vor allem, aber nicht ausschließlich, mit seinem 
    Questeditor, der eine integrierte Vorschaufunktion besitzt, die Arbeit 
@@ -519,6 +628,8 @@ Kontaktinformationen direkt.
  - Idrachod für sein stetiges finden von neuem und längst vergessenen
    Daggerfall-Content.
 
+ - An die Beta-Tester: Exotan
+
  - All die Übersetzer, welche einen Teil zu der Erstversion (bis Ver. 0.61)
    beigetragen haben.
 
@@ -527,7 +638,7 @@ Kontaktinformationen direkt.
                     IX - URHEBERRECHTE & LIZENZINFORMATIONEN
                   --------------------------------------------
 ==============================================================================
-                                                              \\ [DFD-09] //
+                                                              \\ [DFD-10] //
                                                                ''''''''''''
 
  The Elder Scrolls(R)
@@ -560,7 +671,7 @@ hat ausdrückliche Erlaubnis zur Nutzung, wie auch elderscrollsportal.de.
                                  X - APPENDIXES
                        ----------------------------------
 ==============================================================================
-                                                              \\ [DFD-10] //
+                                                              \\ [DFD-11] //
                                                                ''''''''''''
 
                             / ===================== \
@@ -579,9 +690,9 @@ hat ausdrückliche Erlaubnis zur Nutzung, wie auch elderscrollsportal.de.
  nun nach Abschluss von Daggerfall Deutsch auch der Fokus.
 
 
-                      / =============================== \
-                    <     Offizielle deutsche Boxart      >
-                      \ =============================== /
+          / =========================================== \
+       <     Offizielle deutsche Boxart (unverandert)      >
+          \ =========================================== /
 
 
  Weltreisen einmal anders, mit diesem Echtzeit Fantasyrollenspiel!
@@ -625,6 +736,6 @@ hat ausdrückliche Erlaubnis zur Nutzung, wie auch elderscrollsportal.de.
  -- Entnommen aus dem offiziellen deutschen Boxart (unkorrigiert), das Spiel
     selbst war auf Englisch --
 ______________________________________________________________________________
-THE UNDERKING FINDS                       Daggerfall-Lokalisierungsteam © 2024
+THE UNDERKING FINDS                       Daggerfall-Lokalisierungsteam © 2025
 YOU AND BRINGS YOU              The Elder Scrolls namesake © respective owners
 FAR, FAR, FAR AWAY...                            E N D   O F   D O C U M E N T

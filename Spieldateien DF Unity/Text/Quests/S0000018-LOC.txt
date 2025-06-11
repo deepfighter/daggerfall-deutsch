@@ -17,8 +17,8 @@ QuestorOffer:  [1000]
 QuestLogEntry:  [1010]
 %qdt:
  Medora erschien mir in einer Vision und erklärte mir,
- noch dass sich Lysandus' Geist besänftigen ließe,
- wenn ich Gortwog, den Fürsten der Orks in Orsinium,
+ dass sich Lysandus' Geist besänftigen ließe, wenn
+ ich Gortwog, den Fürsten der Orks in Orsinium,
  überzeugen könnte, mir zu verraten, wo der Staub
  des geruhsamen Todes aufbewahrt wird.
 
@@ -57,7 +57,7 @@ Message:  1015
 <ce>schicken.
 
 Message:  1016
-Ein Kästchen mit mitternachtsschwarzen Pulver.
+Ein Kästchen mit mitternachtsschwarzem Pulver.
 
 Message:  1020
 <ce>[Dieses Pergament war um das Kästchen mit

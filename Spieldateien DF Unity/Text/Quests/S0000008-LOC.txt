@@ -107,7 +107,7 @@ Message:  1020
  benutzen, um mich zu vernichten.
  
 <ce> Akorithi
-<ce> Königin von Sentinel
+<ce> Königin von Schildwacht
 
 Message:  1021
 %pcf,
@@ -142,8 +142,8 @@ Message:  1022
  Euch nicht mit dem falschen Versprechen beleidigen,
  dass kein Blut vergossen wird. Aber ich schwöre bei 
  meiner Krone und meinen Erben, dass ich nicht versuchen
- werde. über die Grenzen Orsiniums hinaus zu herrschen.
- Es ist nicht mein Ziel, Tamriel zu erobern, sondern ein
+ werde, über die Grenzen Orsiniums hinaus zu herrschen.
+ Es ist nicht mein Ziel Tamriel zu erobern, sondern ein
  orkisches Heimatland zu errichten. Ich bin im Besitz
  eines Artefakts, dass Ihr sicher gerne haben würdet.
  Chrysamere gehört Euch, wenn Ihr mir nur das Totem
@@ -158,7 +158,7 @@ Message:  1023
  Händen halten. So steht es in den Sternen und ich
  habe sie gelesen. Wisset dies: Alle Sterblichen
  sind von Hochmut und Habgier erfüllt. Einem von
- von ihnen das Totem zu geben bedeutet, diese Welt,
+ ihnen das Totem zu geben bedeutet, diese Welt,
  sterblicher Eitelkeit zu überlassen. Sie werden
  eben das zerstören, was sie begehren.
  
@@ -273,7 +273,7 @@ Message:  1050
 <ce> Wegesruh im Zaum halten. Nehmt Eure Belohnung,
 <ce> %pcf. Ihr habt sie Euch zehnfach verdient.
 <ce> Ihr müsst nun Eure Augen und Ohren nach dem
-<ce> Mantella aufhalten. Jedes Gerücht muss mit
+<ce> Mantella offen halten. Jedes Gerücht muss mit
 <ce> Nachdruck verfolgt werden. Ohne das Mantella
 <ce> ist das Totem nutzlos.
 

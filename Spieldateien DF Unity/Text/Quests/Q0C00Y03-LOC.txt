@@ -28,7 +28,7 @@ RefuseQuest:  [1001]
 
 AcceptQuest:  [1002]
 <ce> So wollt Ihr helfen? Dann nehmt dieses Kind!
-<ce> Es sagt, es sei _child_ geheißen.
+<ce> Es sagt, es heiß _child_.
 <ce> Wir haben es vor ein paar Tagen alleingelassen
 <ce> gefunden. Ganz gewiss wurde es dort ausgesetzt,
 <ce> damit uns unsere Feinde unterstellen können,
@@ -36,7 +36,7 @@ AcceptQuest:  [1002]
 <ce> Was glaubt Ihr? Menschenopfer? Verderbung der
 <ce> Unschuldigen? Nichts so Alltägliches wie
 <ce> Entführung, würde ich wetten. _child_
-<ce> sagte uns, dass %g3 Eltern an einem Ort namens
+<ce> sagte uns, dass seine Eltern an einem Ort namens
 <ce> _home_ in __home_ leben.
 <ce> Bringt das Kind zurück, aber seht Euch vor.
 <ce> Unsere guten Freunde würden Euch beide lieber

@@ -22,7 +22,7 @@ RefuseQuest:  [1001]
 AcceptQuest:  [1002]
 <ce> %oth, das ist eine Erleichterung für mich.
 <ce> Stellt keine Fragen - bringt diesen Brief zu
-<ce> einem bestimmten hohen Hexemmeister in der
+<ce> einem bestimmten hohen Hexenmeister in der
 <ce> Krypta der Totenbeschwörer, dem Skurgrab in
 <ce> den Drachenschwanzbergen. Meidet den Spalt.
 <ce> Wenn Ihr ihn seht, seid Ihr zu weit gegangen.
@@ -120,13 +120,12 @@ Prinzessin,
 
 Message:  1012
 %qdt:
- Prinzessin Morgiah von Wegesruh hat mich gebeten,
- einen Brief an den König der Würmer bei den
- Totenbeschwörern im Skurkgrab zu überbringen.
- Sie sagte, ich solle den Spalt meiden, was auch
- immer das sein mag. Wenn ich ihn sehe, bin ich
- zu weit gegangen. Sie wünscht die Antwort
- innerhalb eines Monats.
+ Prinzessin Morgiah von Wegesruh hat mich gebeten, einen
+ Brief an den König der Würmer bei den Totenbeschwörern
+ im Skurkgrab, in den Drachenschwanzbergen zu überbringen.
+ Sie sagte, ich solle den Spalt meiden, was auch immer das
+ sein mag. Wenn ich ihn sehe, bin ich zu weit gegangen.
+ Sie wünscht die Antwort innerhalb eines Monats.
 
 Message:  1013
 Prinzessin Morgiah hat Wegesruh verlassen und ist zu den Sommersend-Inseln und dem König von Ersthalt aufgebrochen.
